@@ -10,11 +10,6 @@
         "pubdate": "Fri, 27 Sep 2024 10:00:00 +0200"
     },
     {
-        "title": "Daniel Ricciardo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Daniel%20Ricciardo",
-        "pubdate": "Fri, 27 Sep 2024 01:00:00 +0200"
-    },
-    {
         "title": "Bas van Belle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bas%20van%20Belle",
         "pubdate": "Fri, 27 Sep 2024 17:00:00 +0200"
@@ -28,6 +23,11 @@
         "title": "Storm",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Storm",
         "pubdate": "Fri, 27 Sep 2024 12:00:00 +0200"
+    },
+    {
+        "title": "Ricciardo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ricciardo",
+        "pubdate": "Fri, 27 Sep 2024 09:00:00 +0200"
     },
     {
         "title": "Ajax",
