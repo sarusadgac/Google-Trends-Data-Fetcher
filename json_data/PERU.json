@@ -2,7 +2,7 @@
     {
         "title": "Estado de emergencia peru",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Estado%20de%20emergencia%20peru",
-        "pubdate": "Thu, 26 Sep 2024 15:00:00 -0500"
+        "pubdate": "Thu, 26 Sep 2024 01:00:00 -0500"
     },
     {
         "title": "Temblor hoy",
@@ -30,6 +30,11 @@
         "pubdate": "Thu, 26 Sep 2024 18:00:00 -0500"
     },
     {
+        "title": "Temblor hoy Lima",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Temblor%20hoy%20Lima",
+        "pubdate": "Thu, 26 Sep 2024 10:00:00 -0500"
+    },
+    {
         "title": "Tottenham  qarabağ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Tottenham%20%20qaraba%C4%9F",
         "pubdate": "Thu, 26 Sep 2024 14:00:00 -0500"
@@ -38,16 +43,6 @@
         "title": "Cruzeiro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Cruzeiro",
         "pubdate": "Thu, 26 Sep 2024 18:00:00 -0500"
-    },
-    {
-        "title": "Temblor hoy Lima",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Temblor%20hoy%20Lima",
-        "pubdate": "Thu, 26 Sep 2024 10:00:00 -0500"
-    },
-    {
-        "title": "RPP en vivo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#RPP%20en%20vivo",
-        "pubdate": "Thu, 26 Sep 2024 10:00:00 -0500"
     },
     {
         "title": "RCD Espanyol  Villarreal",
@@ -60,14 +55,14 @@
         "pubdate": "Thu, 26 Sep 2024 23:00:00 -0500"
     },
     {
-        "title": "UD Las Palmas  Betis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#UD%20Las%20Palmas%20%20Betis",
-        "pubdate": "Thu, 26 Sep 2024 13:00:00 -0500"
-    },
-    {
         "title": "Ministerio de Educación",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Ministerio%20de%20Educaci%C3%B3n",
         "pubdate": "Thu, 26 Sep 2024 08:00:00 -0500"
+    },
+    {
+        "title": "UD Las Palmas  Betis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#UD%20Las%20Palmas%20%20Betis",
+        "pubdate": "Thu, 26 Sep 2024 13:00:00 -0500"
     },
     {
         "title": "Noticias",
@@ -83,6 +78,11 @@
         "title": "Meteorito",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Meteorito",
         "pubdate": "Thu, 26 Sep 2024 11:00:00 -0500"
+    },
+    {
+        "title": "Noticias de hoy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Noticias%20de%20hoy",
+        "pubdate": "Thu, 26 Sep 2024 10:00:00 -0500"
     },
     {
         "title": "Rey Juan Carlos",
