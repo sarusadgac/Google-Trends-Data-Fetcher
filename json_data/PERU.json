@@ -5,14 +5,14 @@
         "pubdate": "Fri, 27 Sep 2024 13:00:00 -0500"
     },
     {
-        "title": "Maggie Smith",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Maggie%20Smith",
-        "pubdate": "Fri, 27 Sep 2024 09:00:00 -0500"
-    },
-    {
         "title": "Dortmund  Bochum",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Dortmund%20%20Bochum",
         "pubdate": "Fri, 27 Sep 2024 14:00:00 -0500"
+    },
+    {
+        "title": "Maggie Smith",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Maggie%20Smith",
+        "pubdate": "Fri, 27 Sep 2024 09:00:00 -0500"
     },
     {
         "title": "Milan vs",
@@ -40,9 +40,19 @@
         "pubdate": "Fri, 27 Sep 2024 15:00:00 -0500"
     },
     {
+        "title": "Paolo Reyna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Paolo%20Reyna",
+        "pubdate": "Fri, 27 Sep 2024 13:00:00 -0500"
+    },
+    {
         "title": "Lana del Rey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Lana%20del%20Rey",
         "pubdate": "Fri, 27 Sep 2024 15:00:00 -0500"
+    },
+    {
+        "title": "Sayuri",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Sayuri",
+        "pubdate": "Fri, 27 Sep 2024 16:00:00 -0500"
     },
     {
         "title": "Estado de emergencia Peru",
@@ -88,15 +98,5 @@
         "title": "Rodolfo carrion",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Rodolfo%20carrion",
         "pubdate": "Thu, 26 Sep 2024 23:00:00 -0500"
-    },
-    {
-        "title": "RCD Espanyol  Villarreal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#RCD%20Espanyol%20%20Villarreal",
-        "pubdate": "Thu, 26 Sep 2024 12:00:00 -0500"
-    },
-    {
-        "title": "Roma vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Roma%20vs",
-        "pubdate": "Thu, 26 Sep 2024 13:00:00 -0500"
     }
 ]
