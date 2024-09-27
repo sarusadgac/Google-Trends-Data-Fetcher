@@ -1,9 +1,9 @@
+Maggie Smith
 Atlético Nacional  Junior
 Santa Fe  Alianza
 Racing  Paranaense
 Celta de Vigo  Atlético Madrid
 Peñarol
-RCD Espanyol  Villarreal
 Roma  Athletic
 Huracan Helene
 Cruzeiro
@@ -17,4 +17,4 @@ Fenerbahce
 Soltera Shakira
 Diddy' Combs
 Liverpool  West Ham
-Millonarios  Jaguares
+Barcelona
