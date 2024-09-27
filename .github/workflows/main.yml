@@ -1,0 +1,60 @@
+name: Google Trends Data Fetcher
+
+# This workflow will trigger manually or on a schedule (every 5 minutes)
+on:
+  workflow_dispatch:  # Allows manual triggering from the GitHub UI
+  schedule:
+    - cron: '*/5 * * * *'  # Run every 5 minutes
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+    # Set up Node.js (Added to suppress GitHub Actions warning about Node.js, even though it is not required for this Python workflow)
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '20.x'  # Specify Node.js version (if needed)
+
+    # Checkout the repository
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    # Set up Python
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'  # Specify the Python version
+
+    # Install the project's dependencies
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    # Run the main Python script
+    - name: Run Python script
+      run: |
+        python main.py
+      continue-on-error: true  # Continue even if the script encounters errors
+
+    # List generated files to verify JSON and text files were created
+    - name: List generated files
+      run: |
+        echo "Listing files in json_data directory:"
+        ls -R json_data
+        echo "Listing files in text_data directory:"
+        ls -R text_data
+        echo "Listing all files in the current directory:"
+        ls -R
+
+    # Commit and push changes if there are any updates
+    - name: Commit and push changes
+      run: |-
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add -A
+        timestamp=$(date '+%Y-%m-%d %H:%M:%S')
+        git commit -m "Update Data ${timestamp}" || exit 0
+        git push
