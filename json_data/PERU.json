@@ -5,8 +5,8 @@
         "pubdate": "Sat, 28 Sep 2024 04:00:00 -0500"
     },
     {
-        "title": "Arsenal  Leicester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Arsenal%20%20Leicester%20City",
+        "title": "Arsenal - Leicester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Arsenal%20-%20Leicester%20City",
         "pubdate": "Sat, 28 Sep 2024 00:00:00 -0500"
     },
     {
@@ -15,14 +15,14 @@
         "pubdate": "Sat, 28 Sep 2024 09:00:00 -0500"
     },
     {
+        "title": "Bayern  Leverkusen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bayern%20%20Leverkusen",
+        "pubdate": "Sat, 28 Sep 2024 11:00:00 -0500"
+    },
+    {
         "title": "Udinese)  Inter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Udinese)%20%20Inter",
         "pubdate": "Sat, 28 Sep 2024 09:00:00 -0500"
-    },
-    {
-        "title": "Getafe  Alavés",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Getafe%20%20Alav%C3%A9s",
-        "pubdate": "Sat, 28 Sep 2024 08:00:00 -0500"
     },
     {
         "title": "Rayo Vallecano  Leganés",
@@ -30,14 +30,29 @@
         "pubdate": "Sat, 28 Sep 2024 10:00:00 -0500"
     },
     {
-        "title": "Bayern  Leverkusen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bayern%20%20Leverkusen",
-        "pubdate": "Sat, 28 Sep 2024 11:00:00 -0500"
+        "title": "Getafe  Alavés",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Getafe%20%20Alav%C3%A9s",
+        "pubdate": "Sat, 28 Sep 2024 08:00:00 -0500"
     },
     {
         "title": "Wolves - Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Wolves%20-%20Liverpool",
         "pubdate": "Sat, 28 Sep 2024 11:00:00 -0500"
+    },
+    {
+        "title": "Brentford - West Ham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Brentford%20-%20West%20Ham",
+        "pubdate": "Sat, 28 Sep 2024 12:00:00 -0500"
+    },
+    {
+        "title": "Genoa - Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Genoa%20-%20Juventus",
+        "pubdate": "Sat, 28 Sep 2024 12:00:00 -0500"
+    },
+    {
+        "title": "Galatasaray",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Galatasaray",
+        "pubdate": "Sat, 28 Sep 2024 12:00:00 -0500"
     },
     {
         "title": "Sport Boys",
@@ -70,33 +85,18 @@
         "pubdate": "Fri, 27 Sep 2024 12:00:00 -0500"
     },
     {
+        "title": "Francisco Rivera 'Paquirri",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Francisco%20Rivera%20'Paquirri",
+        "pubdate": "Fri, 27 Sep 2024 08:00:00 -0500"
+    },
+    {
+        "title": "Liga 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Liga%202",
+        "pubdate": "Fri, 27 Sep 2024 18:00:00 -0500"
+    },
+    {
         "title": "Valladolid  r.c.d. Mallorca",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Valladolid%20%20r.c.d.%20Mallorca",
         "pubdate": "Fri, 27 Sep 2024 15:00:00 -0500"
-    },
-    {
-        "title": "Alianza vs Melgar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Alianza%20vs%20Melgar",
-        "pubdate": "Fri, 27 Sep 2024 21:00:00 -0500"
-    },
-    {
-        "title": "Lana del Rey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Lana%20del%20Rey",
-        "pubdate": "Fri, 27 Sep 2024 15:00:00 -0500"
-    },
-    {
-        "title": "Al Ittihad - Al Khaleej",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Al%20Ittihad%20-%20Al%20Khaleej",
-        "pubdate": "Fri, 27 Sep 2024 16:00:00 -0500"
-    },
-    {
-        "title": "Vélez  Independiente",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#V%C3%A9lez%20%20Independiente",
-        "pubdate": "Fri, 27 Sep 2024 20:00:00 -0500"
-    },
-    {
-        "title": "Sayuri",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Sayuri",
-        "pubdate": "Fri, 27 Sep 2024 16:00:00 -0500"
     }
 ]
