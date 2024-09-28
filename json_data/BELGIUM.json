@@ -20,6 +20,11 @@
         "pubdate": "Sat, 28 Sep 2024 02:00:00 +0200"
     },
     {
+        "title": "Mylene Farmer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mylene%20Farmer",
+        "pubdate": "Sat, 28 Sep 2024 09:00:00 +0200"
+    },
+    {
         "title": "Wolfs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Wolfs",
         "pubdate": "Sat, 28 Sep 2024 09:00:00 +0200"
@@ -27,11 +32,6 @@
     {
         "title": "Dortmund",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Dortmund",
-        "pubdate": "Sat, 28 Sep 2024 09:00:00 +0200"
-    },
-    {
-        "title": "Mylene Farmer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mylene%20Farmer",
         "pubdate": "Sat, 28 Sep 2024 09:00:00 +0200"
     },
     {
@@ -50,14 +50,14 @@
         "pubdate": "Fri, 27 Sep 2024 20:00:00 +0200"
     },
     {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#PSG",
-        "pubdate": "Fri, 27 Sep 2024 21:00:00 +0200"
-    },
-    {
         "title": "Nasrallah",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Nasrallah",
         "pubdate": "Fri, 27 Sep 2024 22:00:00 +0200"
+    },
+    {
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#PSG",
+        "pubdate": "Fri, 27 Sep 2024 21:00:00 +0200"
     },
     {
         "title": "Brigitte Bardot",
@@ -68,11 +68,6 @@
         "title": "Gustaph",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Gustaph",
         "pubdate": "Fri, 27 Sep 2024 22:00:00 +0200"
-    },
-    {
-        "title": "Vladimir Poutine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Vladimir%20Poutine",
-        "pubdate": "Fri, 27 Sep 2024 00:00:00 +0200"
     },
     {
         "title": "AC Milan – Lecce",
@@ -98,5 +93,10 @@
         "title": "Daniel Ricciardo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Daniel%20Ricciardo",
         "pubdate": "Fri, 27 Sep 2024 02:00:00 +0200"
+    },
+    {
+        "title": "ROx",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#ROx",
+        "pubdate": "Fri, 27 Sep 2024 22:00:00 +0200"
     }
 ]
