@@ -4,6 +4,8 @@ Chelsea  Brighton
 Wolves  Liverpool
 Drew Barrymore
 Brentford  West Ham
+Bayern  Leverkusen
+Al Jazeera
 Maggie Smith
 Hassan Nasrallah
 Kamal
@@ -16,5 +18,3 @@ Molly Gordon
 OB
 Florida
 Daniel Ricciardo
-Coldplay
-Naomi Campbell
