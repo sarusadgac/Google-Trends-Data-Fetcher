@@ -5,6 +5,11 @@
         "pubdate": "Sat, 28 Sep 2024 00:00:00 +1000"
     },
     {
+        "title": "Katy Perry",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Katy%20Perry",
+        "pubdate": "Sat, 28 Sep 2024 14:00:00 +1000"
+    },
+    {
         "title": "England vs Australia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#England%20vs%20Australia",
         "pubdate": "Sat, 28 Sep 2024 08:00:00 +1000"
@@ -18,6 +23,11 @@
         "title": "Hassan Nasrallah",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Hassan%20Nasrallah",
         "pubdate": "Sat, 28 Sep 2024 09:00:00 +1000"
+    },
+    {
+        "title": "Karl-Anthony Towns",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Karl-Anthony%20Towns",
+        "pubdate": "Sat, 28 Sep 2024 13:00:00 +1000"
     },
     {
         "title": "Panthers vs Sharks",
@@ -35,13 +45,13 @@
         "pubdate": "Sat, 28 Sep 2024 01:00:00 +1000"
     },
     {
-        "title": "Karl-Anthony Towns",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Karl-Anthony%20Towns",
-        "pubdate": "Sat, 28 Sep 2024 13:00:00 +1000"
+        "title": "Lachie Neale",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Lachie%20Neale",
+        "pubdate": "Sat, 28 Sep 2024 14:00:00 +1000"
     },
     {
-        "title": "Melbourne Storm",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Melbourne%20Storm",
+        "title": "Storm vs Roosters",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Storm%20vs%20Roosters",
         "pubdate": "Fri, 27 Sep 2024 16:00:00 +1000"
     },
     {
@@ -55,9 +65,19 @@
         "pubdate": "Fri, 27 Sep 2024 17:00:00 +1000"
     },
     {
+        "title": "Aussie Broadband",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Aussie%20Broadband",
+        "pubdate": "Fri, 27 Sep 2024 10:00:00 +1000"
+    },
+    {
         "title": "Joe Daniher",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Joe%20Daniher",
         "pubdate": "Fri, 27 Sep 2024 20:00:00 +1000"
+    },
+    {
+        "title": "Up There Cazaly",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Up%20There%20Cazaly",
+        "pubdate": "Fri, 27 Sep 2024 14:00:00 +1000"
     },
     {
         "title": "Reece Walsh",
@@ -75,28 +95,8 @@
         "pubdate": "Fri, 27 Sep 2024 21:00:00 +1000"
     },
     {
-        "title": "Kamindu Mendis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Kamindu%20Mendis",
-        "pubdate": "Fri, 27 Sep 2024 20:00:00 +1000"
-    },
-    {
         "title": "Jahrome hughes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jahrome%20hughes",
-        "pubdate": "Fri, 27 Sep 2024 22:00:00 +1000"
-    },
-    {
-        "title": "Oakland Athletics",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Oakland%20Athletics",
-        "pubdate": "Fri, 27 Sep 2024 19:00:00 +1000"
-    },
-    {
-        "title": "Oasis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Oasis",
-        "pubdate": "Fri, 27 Sep 2024 21:00:00 +1000"
-    },
-    {
-        "title": "Storm v Roosters",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Storm%20v%20Roosters",
         "pubdate": "Fri, 27 Sep 2024 22:00:00 +1000"
     }
 ]

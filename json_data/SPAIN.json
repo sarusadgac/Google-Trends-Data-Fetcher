@@ -55,19 +55,14 @@
         "pubdate": "Fri, 27 Sep 2024 20:00:00 +0200"
     },
     {
-        "title": "Albacete  Deportivo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Albacete%20%20Deportivo",
+        "title": "Albacete - Deportivo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Albacete%20-%20Deportivo",
         "pubdate": "Fri, 27 Sep 2024 21:00:00 +0200"
     },
     {
         "title": "Johnny Depp",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Johnny%20Depp",
         "pubdate": "Fri, 27 Sep 2024 16:00:00 +0200"
-    },
-    {
-        "title": "Mónica Oltra",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#M%C3%B3nica%20Oltra",
-        "pubdate": "Fri, 27 Sep 2024 11:00:00 +0200"
     },
     {
         "title": "Influencer Candela sanchez",
@@ -98,5 +93,10 @@
         "title": "Tamara falco",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Tamara%20falco",
         "pubdate": "Fri, 27 Sep 2024 00:00:00 +0200"
+    },
+    {
+        "title": "Mónica Oltra",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#M%C3%B3nica%20Oltra",
+        "pubdate": "Fri, 27 Sep 2024 11:00:00 +0200"
     }
 ]
