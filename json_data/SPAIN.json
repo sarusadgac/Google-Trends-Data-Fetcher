@@ -1,10 +1,5 @@
 [
     {
-        "title": "Getafe  Alavés",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Getafe%20%20Alav%C3%A9s",
-        "pubdate": "Sat, 28 Sep 2024 14:00:00 +0200"
-    },
-    {
         "title": "Osasuna  Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Osasuna%20%20Barcelona",
         "pubdate": "Sat, 28 Sep 2024 16:00:00 +0200"
@@ -13,6 +8,11 @@
         "title": "Real Sociedad  Valencia CF",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Real%20Sociedad%20%20Valencia%20CF",
         "pubdate": "Sat, 28 Sep 2024 18:00:00 +0200"
+    },
+    {
+        "title": "Getafe  Alavés",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Getafe%20%20Alav%C3%A9s",
+        "pubdate": "Sat, 28 Sep 2024 14:00:00 +0200"
     },
     {
         "title": "Rayo Vallecano  Leganés",
@@ -40,8 +40,8 @@
         "pubdate": "Sat, 28 Sep 2024 17:00:00 +0200"
     },
     {
-        "title": "Sporting Gijón  Real Zaragoza",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Sporting%20Gij%C3%B3n%20%20Real%20Zaragoza",
+        "title": "Sporting Gijón - Real Zaragoza",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Sporting%20Gij%C3%B3n%20-%20Real%20Zaragoza",
         "pubdate": "Sat, 28 Sep 2024 19:00:00 +0200"
     },
     {
@@ -70,6 +70,11 @@
         "pubdate": "Sat, 28 Sep 2024 19:00:00 +0200"
     },
     {
+        "title": "Málaga  Elche CF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#M%C3%A1laga%20%20Elche%20CF",
+        "pubdate": "Sat, 28 Sep 2024 21:00:00 +0200"
+    },
+    {
         "title": "Udinese)  Inter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Udinese)%20%20Inter",
         "pubdate": "Sat, 28 Sep 2024 16:00:00 +0200"
@@ -92,11 +97,6 @@
     {
         "title": "Milei pobreza Argentina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Milei%20pobreza%20Argentina",
-        "pubdate": "Sat, 28 Sep 2024 00:00:00 +0200"
-    },
-    {
-        "title": "Mallorca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Mallorca",
         "pubdate": "Sat, 28 Sep 2024 00:00:00 +0200"
     }
 ]
