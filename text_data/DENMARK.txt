@@ -1,10 +1,9 @@
 Newcastle  Man City
 Arsenal
+Chelsea  Brighton
+Wolves  Liverpool
 Drew Barrymore
 Brentford  West Ham
-Wolves  Liverpool
-Chelsea  Brighton
-Cole Palmer
 Maggie Smith
 Hassan Nasrallah
 Kamal
@@ -18,3 +17,4 @@ OB
 Florida
 Daniel Ricciardo
 Coldplay
+Naomi Campbell
