@@ -1,3 +1,4 @@
+Ruhban Okulu
 Faruk Zabcı
 Güvenli Ödeme Sistemi
 Aleyna Tilki
@@ -8,7 +9,6 @@ Ahu Tuğba
 Kredi kartı yapılandırma
 Dortmund
 Iğdır FK - Erzurumspor
-İsmail Hakkı Pekin
 Galatasaray-Kasımpaşa
 Lana Del Rey
 Tuncel Kurtiz
@@ -16,5 +16,5 @@ Mansur Yavaş
 Frankfurt
 Naomi Campbell
 Eric Adams
+MSB
 Beşiktaş
-Galatasaray  PAOK

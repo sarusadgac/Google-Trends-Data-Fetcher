@@ -10,6 +10,11 @@
         "pubdate": "Sat, 28 Sep 2024 00:00:00 +0200"
     },
     {
+        "title": "Leonor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Leonor",
+        "pubdate": "Sat, 28 Sep 2024 09:00:00 +0200"
+    },
+    {
         "title": "Irene Escolar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Irene%20Escolar",
         "pubdate": "Sat, 28 Sep 2024 00:00:00 +0200"
@@ -18,11 +23,6 @@
         "title": "Milei pobreza Argentina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Milei%20pobreza%20Argentina",
         "pubdate": "Sat, 28 Sep 2024 00:00:00 +0200"
-    },
-    {
-        "title": "Leonor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Leonor",
-        "pubdate": "Sat, 28 Sep 2024 09:00:00 +0200"
     },
     {
         "title": "Turbinectomia",
@@ -70,11 +70,6 @@
         "pubdate": "Fri, 27 Sep 2024 16:00:00 +0200"
     },
     {
-        "title": "PSG  Rennes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#PSG%20%20Rennes",
-        "pubdate": "Fri, 27 Sep 2024 21:00:00 +0200"
-    },
-    {
         "title": "Mónica Oltra",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#M%C3%B3nica%20Oltra",
         "pubdate": "Fri, 27 Sep 2024 11:00:00 +0200"
@@ -98,5 +93,10 @@
         "title": "Alberto Núñez Feijóo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Alberto%20N%C3%BA%C3%B1ez%20Feij%C3%B3o",
         "pubdate": "Fri, 27 Sep 2024 03:00:00 +0200"
+    },
+    {
+        "title": "Muriel Furrer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Muriel%20Furrer",
+        "pubdate": "Fri, 27 Sep 2024 16:00:00 +0200"
     }
 ]
