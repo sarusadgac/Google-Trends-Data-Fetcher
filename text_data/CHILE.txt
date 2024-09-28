@@ -1,9 +1,10 @@
-Osasuna - Barcelona
+Osasuna  Barcelona
+Colo Colo
 Newcastle - Manchester City
 Udinese  Inter
 Chelsea
-Arsenal - Leicester City
 Bayern  Leverkusen
+Arsenal  Leicester City
 Primera B
 Wolves - Liverpool
 Hassan Nasrallah
@@ -11,10 +12,9 @@ Campeonato
 San Luis  Curicó Unido
 Rayo Vallecano  Leganés
 Genoa - Juventus
-Real Sociedad  Valencia CF
-UFC
-Ben Brereton
-Jannik Sinner
 Rangers
-Getafe  Alavés
+UFC
 Everton
+Real Sociedad  Valencia CF
+Jannik Sinner
+Ben Brereton
