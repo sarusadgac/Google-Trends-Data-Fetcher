@@ -1,5 +1,10 @@
 [
     {
+        "title": "UFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#UFC",
+        "pubdate": "Sun, 29 Sep 2024 02:30:00 +0530"
+    },
+    {
         "title": "England vs Australia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#England%20vs%20Australia",
         "pubdate": "Sat, 28 Sep 2024 07:30:00 +0530"
@@ -25,6 +30,11 @@
         "pubdate": "Sat, 28 Sep 2024 22:30:00 +0530"
     },
     {
+        "title": "Ranbir Kapoor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Ranbir%20Kapoor",
+        "pubdate": "Sat, 28 Sep 2024 13:30:00 +0530"
+    },
+    {
         "title": "GOAT",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#GOAT",
         "pubdate": "Sat, 28 Sep 2024 01:30:00 +0530"
@@ -38,11 +48,6 @@
         "title": "Leptospirosis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Leptospirosis",
         "pubdate": "Sat, 28 Sep 2024 19:30:00 +0530"
-    },
-    {
-        "title": "Lata Mangeshkar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Lata%20Mangeshkar",
-        "pubdate": "Sat, 28 Sep 2024 09:30:00 +0530"
     },
     {
         "title": "भगत सिंह जयंती",
@@ -93,10 +98,5 @@
         "title": "World Tourism Day",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#World%20Tourism%20Day",
         "pubdate": "Fri, 27 Sep 2024 11:30:00 +0530"
-    },
-    {
-        "title": "Lana Del Rey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Lana%20Del%20Rey",
-        "pubdate": "Fri, 27 Sep 2024 19:30:00 +0530"
     }
 ]
