@@ -10,11 +10,6 @@
         "pubdate": "Sun, 29 Sep 2024 00:00:00 +0800"
     },
     {
-        "title": "Newcastle – Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Newcastle%20%E2%80%93%20Manchester%20City",
-        "pubdate": "Sat, 28 Sep 2024 13:00:00 +0200"
-    },
-    {
         "title": "Newcastle vs Man City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Newcastle%20vs%20Man%20City",
         "pubdate": "Sat, 28 Sep 2024 12:00:00 +0100"
@@ -23,11 +18,6 @@
         "title": "葬送のフリーレン",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E8%91%AC%E9%80%81%E3%81%AE%E3%83%95%E3%83%AA%E3%83%BC%E3%83%AC%E3%83%B3",
         "pubdate": "Sun, 29 Sep 2024 01:00:00 +0900"
-    },
-    {
-        "title": "Wolfsburg – VfB Stuttgart",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wolfsburg%20%E2%80%93%20VfB%20Stuttgart",
-        "pubdate": "Sat, 28 Sep 2024 15:00:00 +0200"
     },
     {
         "title": "UFC",
@@ -40,9 +30,19 @@
         "pubdate": "Sat, 28 Sep 2024 20:00:00 +0300"
     },
     {
-        "title": "דירוג אשראי",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%93%D7%99%D7%A8%D7%95%D7%92%20%D7%90%D7%A9%D7%A8%D7%90%D7%99",
-        "pubdate": "Sat, 28 Sep 2024 00:00:00 +0300"
+        "title": "Newcastle – Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Newcastle%20%E2%80%93%20Manchester%20City",
+        "pubdate": "Sat, 28 Sep 2024 13:00:00 +0200"
+    },
+    {
+        "title": "Wolfsburg – VfB Stuttgart",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wolfsburg%20%E2%80%93%20VfB%20Stuttgart",
+        "pubdate": "Sat, 28 Sep 2024 15:00:00 +0200"
+    },
+    {
+        "title": "Newcastle–manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Newcastle%E2%80%93manchester%20City",
+        "pubdate": "Sat, 28 Sep 2024 13:00:00 +0200"
     },
     {
         "title": "로또1139",
@@ -50,24 +50,29 @@
         "pubdate": "Sun, 29 Sep 2024 00:00:00 +0900"
     },
     {
-        "title": "KRC Genk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#KRC%20Genk",
-        "pubdate": "Sat, 28 Sep 2024 16:00:00 +0200"
+        "title": "Arsenal vs Leicester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Arsenal%20vs%20Leicester%20City",
+        "pubdate": "Sat, 28 Sep 2024 11:00:00 -0400"
     },
     {
-        "title": "Motor Lublin – Śląsk Wrocław",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Motor%20Lublin%20%E2%80%93%20%C5%9Al%C4%85sk%20Wroc%C5%82aw",
-        "pubdate": "Sat, 28 Sep 2024 17:00:00 +0200"
+        "title": "Los Pumas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Los%20Pumas",
+        "pubdate": "Sat, 28 Sep 2024 02:00:00 -0300"
     },
     {
-        "title": "Getafe  Alavés",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Getafe%20%20Alav%C3%A9s",
-        "pubdate": "Sat, 28 Sep 2024 14:00:00 +0200"
+        "title": "CFR Cluj - UTA Arad",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#CFR%20Cluj%20-%20UTA%20Arad",
+        "pubdate": "Sat, 28 Sep 2024 19:00:00 +0300"
     },
     {
-        "title": "Newcastle - Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Newcastle%20-%20Manchester%20City",
-        "pubdate": "Sat, 28 Sep 2024 08:00:00 -0300"
+        "title": "Kaizer Chiefs vs Mamelodi Sundowns",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Kaizer%20Chiefs%20vs%20Mamelodi%20Sundowns",
+        "pubdate": "Sat, 28 Sep 2024 00:00:00 +0200"
+    },
+    {
+        "title": "Chelsea vs Brighton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Chelsea%20vs%20Brighton",
+        "pubdate": "Sun, 29 Sep 2024 08:00:00 +1300"
     },
     {
         "title": "Rayo Vallecano  Leganés",
@@ -75,28 +80,23 @@
         "pubdate": "Sat, 28 Sep 2024 09:00:00 -0500"
     },
     {
-        "title": "Wolves vs Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Wolves%20vs%20Liverpool",
-        "pubdate": "Sun, 29 Sep 2024 00:00:00 +0800"
+        "title": "Newcastle  City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Newcastle%20%20City",
+        "pubdate": "Sat, 28 Sep 2024 12:00:00 +0100"
     },
     {
-        "title": "Arsenal vs Leicester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Arsenal%20vs%20Leicester%20City",
-        "pubdate": "Sat, 28 Sep 2024 15:00:00 +0100"
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Arsenal",
+        "pubdate": "Sun, 29 Sep 2024 00:00:00 +1000"
     },
     {
-        "title": "Barcelona vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Barcelona%20vs",
-        "pubdate": "Sat, 28 Sep 2024 13:00:00 -0500"
+        "title": "Newcastle  Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Newcastle%20%20Man%20City",
+        "pubdate": "Sat, 28 Sep 2024 13:00:00 +0200"
     },
     {
-        "title": "Chelsea - Brighton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Chelsea%20-%20Brighton",
-        "pubdate": "Sat, 28 Sep 2024 17:00:00 +0300"
-    },
-    {
-        "title": "Arsenal vs Leicester",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Arsenal%20vs%20Leicester",
-        "pubdate": "Sat, 28 Sep 2024 21:00:00 +0700"
+        "title": "Newcastle - Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Newcastle%20-%20Manchester%20City",
+        "pubdate": "Sat, 28 Sep 2024 04:00:00 -0500"
     }
 ]
