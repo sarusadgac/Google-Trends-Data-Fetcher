@@ -30,6 +30,11 @@
         "pubdate": "Fri, 27 Sep 2024 12:00:00 -0500"
     },
     {
+        "title": "Velez vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Velez%20vs",
+        "pubdate": "Fri, 27 Sep 2024 17:00:00 -0500"
+    },
+    {
         "title": "Valladolid vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Valladolid%20vs",
         "pubdate": "Fri, 27 Sep 2024 15:00:00 -0500"
@@ -45,14 +50,19 @@
         "pubdate": "Fri, 27 Sep 2024 13:00:00 -0500"
     },
     {
-        "title": "Al Ittihad  Al Khaleej",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Al%20Ittihad%20%20Al%20Khaleej",
-        "pubdate": "Fri, 27 Sep 2024 16:00:00 -0500"
-    },
-    {
         "title": "Lana del Rey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Lana%20del%20Rey",
         "pubdate": "Fri, 27 Sep 2024 15:00:00 -0500"
+    },
+    {
+        "title": "Al Ittihad - Al Khaleej",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Al%20Ittihad%20-%20Al%20Khaleej",
+        "pubdate": "Fri, 27 Sep 2024 16:00:00 -0500"
+    },
+    {
+        "title": "Alianza vs Melgar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Alianza%20vs%20Melgar",
+        "pubdate": "Fri, 27 Sep 2024 21:00:00 -0500"
     },
     {
         "title": "Sayuri",
@@ -60,18 +70,18 @@
         "pubdate": "Fri, 27 Sep 2024 16:00:00 -0500"
     },
     {
-        "title": "Vélez  Independiente",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#V%C3%A9lez%20%20Independiente",
-        "pubdate": "Fri, 27 Sep 2024 20:00:00 -0500"
-    },
-    {
         "title": "Eduardo Xol",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Eduardo%20Xol",
         "pubdate": "Fri, 27 Sep 2024 17:00:00 -0500"
     },
     {
-        "title": "Estado de emergencia Peru",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Estado%20de%20emergencia%20Peru",
+        "title": "Felpudini",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Felpudini",
+        "pubdate": "Thu, 26 Sep 2024 23:00:00 -0500"
+    },
+    {
+        "title": "Estado de emergencia peru",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Estado%20de%20emergencia%20peru",
         "pubdate": "Thu, 26 Sep 2024 15:00:00 -0500"
     },
     {
@@ -88,15 +98,5 @@
         "title": "Temblor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Temblor",
         "pubdate": "Thu, 26 Sep 2024 10:00:00 -0500"
-    },
-    {
-        "title": "Racing",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Racing",
-        "pubdate": "Thu, 26 Sep 2024 18:00:00 -0500"
-    },
-    {
-        "title": "Celta de Vigo  Atlético Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Celta%20de%20Vigo%20%20Atl%C3%A9tico%20Madrid",
-        "pubdate": "Thu, 26 Sep 2024 14:00:00 -0500"
     }
 ]

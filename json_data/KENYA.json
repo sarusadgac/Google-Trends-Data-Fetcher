@@ -5,11 +5,6 @@
         "pubdate": "Sat, 28 Sep 2024 02:00:00 +0300"
     },
     {
-        "title": "Plymouth Argyle vs Luton Town",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Plymouth%20Argyle%20vs%20Luton%20Town",
-        "pubdate": "Sat, 28 Sep 2024 00:00:00 +0300"
-    },
-    {
         "title": "Arsenal vs Leicester City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Arsenal%20vs%20Leicester%20City",
         "pubdate": "Sat, 28 Sep 2024 00:00:00 +0300"
@@ -20,14 +15,14 @@
         "pubdate": "Sat, 28 Sep 2024 03:00:00 +0300"
     },
     {
-        "title": "Cardinal Njue",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Cardinal%20Njue",
-        "pubdate": "Fri, 27 Sep 2024 11:00:00 +0300"
-    },
-    {
         "title": "Milan vs Lecce",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Milan%20vs%20Lecce",
         "pubdate": "Fri, 27 Sep 2024 17:00:00 +0300"
+    },
+    {
+        "title": "Cardinal Njue",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Cardinal%20Njue",
+        "pubdate": "Fri, 27 Sep 2024 11:00:00 +0300"
     },
     {
         "title": "PSG vs Rennes",
@@ -73,6 +68,11 @@
         "title": "Pope Francis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Pope%20Francis",
         "pubdate": "Fri, 27 Sep 2024 00:00:00 +0300"
+    },
+    {
+        "title": "Plymouth vs Luton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Plymouth%20vs%20Luton",
+        "pubdate": "Fri, 27 Sep 2024 19:00:00 +0300"
     },
     {
         "title": "New York City Mayor Eric Adams",

@@ -10,11 +10,6 @@
         "pubdate": "Sat, 28 Sep 2024 08:00:00 +1000"
     },
     {
-        "title": "Grand final",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Grand%20final",
-        "pubdate": "Sat, 28 Sep 2024 10:00:00 +1000"
-    },
-    {
         "title": "Hassan Nasrallah",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Hassan%20Nasrallah",
         "pubdate": "Sat, 28 Sep 2024 09:00:00 +1000"
@@ -98,5 +93,10 @@
         "title": "Daniel Andrews statue",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Daniel%20Andrews%20statue",
         "pubdate": "Fri, 27 Sep 2024 17:00:00 +1000"
+    },
+    {
+        "title": "Spurs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Spurs",
+        "pubdate": "Fri, 27 Sep 2024 11:00:00 +1000"
     }
 ]
