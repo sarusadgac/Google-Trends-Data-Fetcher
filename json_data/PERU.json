@@ -5,6 +5,11 @@
         "pubdate": "Sat, 28 Sep 2024 00:00:00 -0500"
     },
     {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Arsenal",
+        "pubdate": "Sat, 28 Sep 2024 04:00:00 -0500"
+    },
+    {
         "title": "Sport Boys",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Sport%20Boys",
         "pubdate": "Fri, 27 Sep 2024 13:00:00 -0500"
@@ -20,14 +25,14 @@
         "pubdate": "Fri, 27 Sep 2024 14:00:00 -0500"
     },
     {
-        "title": "PSG  Rennes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#PSG%20%20Rennes",
-        "pubdate": "Fri, 27 Sep 2024 12:00:00 -0500"
-    },
-    {
         "title": "Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Milan",
         "pubdate": "Fri, 27 Sep 2024 13:00:00 -0500"
+    },
+    {
+        "title": "PSG  Rennes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#PSG%20%20Rennes",
+        "pubdate": "Fri, 27 Sep 2024 14:00:00 -0500"
     },
     {
         "title": "Al Nassr",
@@ -35,9 +40,9 @@
         "pubdate": "Fri, 27 Sep 2024 12:00:00 -0500"
     },
     {
-        "title": "Velez vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Velez%20vs",
-        "pubdate": "Fri, 27 Sep 2024 17:00:00 -0500"
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#PSG",
+        "pubdate": "Fri, 27 Sep 2024 12:00:00 -0500"
     },
     {
         "title": "Francisco Rivera 'Paquirri",
@@ -70,6 +75,11 @@
         "pubdate": "Fri, 27 Sep 2024 16:00:00 -0500"
     },
     {
+        "title": "Vélez  Independiente",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#V%C3%A9lez%20%20Independiente",
+        "pubdate": "Fri, 27 Sep 2024 20:00:00 -0500"
+    },
+    {
         "title": "Sayuri",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Sayuri",
         "pubdate": "Fri, 27 Sep 2024 16:00:00 -0500"
@@ -88,15 +98,5 @@
         "title": "Estado de emergencia Peru",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Estado%20de%20emergencia%20Peru",
         "pubdate": "Thu, 26 Sep 2024 15:00:00 -0500"
-    },
-    {
-        "title": "Felpudini",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Felpudini",
-        "pubdate": "Thu, 26 Sep 2024 23:00:00 -0500"
-    },
-    {
-        "title": "Peñarol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Pe%C3%B1arol",
-        "pubdate": "Thu, 26 Sep 2024 09:00:00 -0500"
     }
 ]
