@@ -20,6 +20,11 @@
         "pubdate": "Sat, 28 Sep 2024 00:00:00 +0200"
     },
     {
+        "title": "Davide Bartesaghi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Davide%20Bartesaghi",
+        "pubdate": "Sat, 28 Sep 2024 00:00:00 +0200"
+    },
+    {
         "title": "Angelica Schiatti",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Angelica%20Schiatti",
         "pubdate": "Sat, 28 Sep 2024 00:00:00 +0200"
@@ -50,11 +55,6 @@
         "pubdate": "Fri, 27 Sep 2024 16:00:00 +0200"
     },
     {
-        "title": "Giuliano Ferrara Marco Travaglio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Giuliano%20Ferrara%20Marco%20Travaglio",
-        "pubdate": "Fri, 27 Sep 2024 00:00:00 +0200"
-    },
-    {
         "title": "Cittadella-Frosinone",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Cittadella-Frosinone",
         "pubdate": "Fri, 27 Sep 2024 20:00:00 +0200"
@@ -63,11 +63,6 @@
         "title": "Dybala",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Dybala",
         "pubdate": "Fri, 27 Sep 2024 14:00:00 +0200"
-    },
-    {
-        "title": "Uragano Helene",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Uragano%20Helene",
-        "pubdate": "Fri, 27 Sep 2024 07:00:00 +0200"
     },
     {
         "title": "Damiano David",
@@ -80,14 +75,19 @@
         "pubdate": "Fri, 27 Sep 2024 01:00:00 +0200"
     },
     {
-        "title": "Rouhi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Rouhi",
-        "pubdate": "Fri, 27 Sep 2024 15:00:00 +0200"
-    },
-    {
         "title": "Michael Ballack",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Michael%20Ballack",
         "pubdate": "Fri, 27 Sep 2024 21:00:00 +0200"
+    },
+    {
+        "title": "Uragano Helene",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Uragano%20Helene",
+        "pubdate": "Fri, 27 Sep 2024 07:00:00 +0200"
+    },
+    {
+        "title": "Rouhi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Rouhi",
+        "pubdate": "Fri, 27 Sep 2024 15:00:00 +0200"
     },
     {
         "title": "PSG-Rennes",
