@@ -5,14 +5,14 @@
         "pubdate": "Sat, 28 Sep 2024 14:00:00 +0200"
     },
     {
-        "title": "Hassan Nasrallah",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Hassan%20Nasrallah",
-        "pubdate": "Sat, 28 Sep 2024 00:00:00 +0200"
-    },
-    {
         "title": "Newcastle - Manchester City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Newcastle%20-%20Manchester%20City",
         "pubdate": "Sat, 28 Sep 2024 13:00:00 +0200"
+    },
+    {
+        "title": "Hassan Nasrallah",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Hassan%20Nasrallah",
+        "pubdate": "Sat, 28 Sep 2024 00:00:00 +0200"
     },
     {
         "title": "Jannik Sinner",
@@ -28,6 +28,11 @@
         "title": "Mallorca",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Mallorca",
         "pubdate": "Sat, 28 Sep 2024 00:00:00 +0200"
+    },
+    {
+        "title": "Getafe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Getafe",
+        "pubdate": "Sat, 28 Sep 2024 15:00:00 +0200"
     },
     {
         "title": "Milei pobreza Argentina",
@@ -55,9 +60,19 @@
         "pubdate": "Sat, 28 Sep 2024 02:00:00 +0200"
     },
     {
+        "title": "Netanyahu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Netanyahu",
+        "pubdate": "Sat, 28 Sep 2024 15:00:00 +0200"
+    },
+    {
         "title": "Bilbao Basket",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Bilbao%20Basket",
         "pubdate": "Sat, 28 Sep 2024 02:00:00 +0200"
+    },
+    {
+        "title": "James Rodríguez Rayo Vallecano",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#James%20Rodr%C3%ADguez%20Rayo%20Vallecano",
+        "pubdate": "Sat, 28 Sep 2024 13:00:00 +0200"
     },
     {
         "title": "Maggie Smith",
@@ -83,20 +98,5 @@
         "title": "Albacete - Deportivo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Albacete%20-%20Deportivo",
         "pubdate": "Fri, 27 Sep 2024 21:00:00 +0200"
-    },
-    {
-        "title": "Johnny Depp",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Johnny%20Depp",
-        "pubdate": "Fri, 27 Sep 2024 16:00:00 +0200"
-    },
-    {
-        "title": "Mónica Oltra",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#M%C3%B3nica%20Oltra",
-        "pubdate": "Fri, 27 Sep 2024 11:00:00 +0200"
-    },
-    {
-        "title": "Influencer Candela sanchez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Influencer%20Candela%20sanchez",
-        "pubdate": "Fri, 27 Sep 2024 09:00:00 +0200"
     }
 ]

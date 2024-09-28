@@ -10,11 +10,6 @@
         "pubdate": "Sat, 28 Sep 2024 00:00:00 +0300"
     },
     {
-        "title": "Walter Zenga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Walter%20Zenga",
-        "pubdate": "Sat, 28 Sep 2024 09:00:00 +0300"
-    },
-    {
         "title": "AC Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#AC%20Milan",
         "pubdate": "Sat, 28 Sep 2024 00:00:00 +0300"
@@ -35,9 +30,19 @@
         "pubdate": "Sat, 28 Sep 2024 10:00:00 +0300"
     },
     {
+        "title": "Poli iasi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Poli%20iasi",
+        "pubdate": "Sat, 28 Sep 2024 16:00:00 +0300"
+    },
+    {
         "title": "28 septembrie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#28%20septembrie",
         "pubdate": "Sat, 28 Sep 2024 13:00:00 +0300"
+    },
+    {
+        "title": "28 septembrie Calendar ortodox",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#28%20septembrie%20Calendar%20ortodox",
+        "pubdate": "Sat, 28 Sep 2024 16:00:00 +0300"
     },
     {
         "title": "Maggie Smith",
@@ -75,19 +80,14 @@
         "pubdate": "Fri, 27 Sep 2024 13:00:00 +0300"
     },
     {
-        "title": "Petrolul",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Petrolul",
-        "pubdate": "Fri, 27 Sep 2024 19:00:00 +0300"
-    },
-    {
         "title": "Pisica transilvana",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Pisica%20transilvana",
         "pubdate": "Fri, 27 Sep 2024 09:00:00 +0300"
     },
     {
-        "title": "Casa Verde",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Casa%20Verde",
-        "pubdate": "Fri, 27 Sep 2024 12:00:00 +0300"
+        "title": "Petrolul",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Petrolul",
+        "pubdate": "Fri, 27 Sep 2024 19:00:00 +0300"
     },
     {
         "title": "Muriel Furrer",
@@ -95,8 +95,8 @@
         "pubdate": "Fri, 27 Sep 2024 19:00:00 +0300"
     },
     {
-        "title": "Noaptea cercetatorilor 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Noaptea%20cercetatorilor%202024",
-        "pubdate": "Fri, 27 Sep 2024 14:00:00 +0300"
+        "title": "Casa Verde",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Casa%20Verde",
+        "pubdate": "Fri, 27 Sep 2024 12:00:00 +0300"
     }
 ]
