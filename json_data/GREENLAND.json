@@ -1,33 +1,8 @@
 [
     {
-        "title": "Lady Gaga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Lady%20Gaga",
-        "pubdate": "Sat, 28 Sep 2024 00:00:00 +0100"
-    },
-    {
-        "title": "マギースミス",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%9E%E3%82%AE%E3%83%BC%E3%82%B9%E3%83%9F%E3%82%B9",
-        "pubdate": "Sat, 28 Sep 2024 01:00:00 +0900"
-    },
-    {
-        "title": "Насралла",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%9D%D0%B0%D1%81%D1%80%D0%B0%D0%BB%D0%BB%D0%B0",
-        "pubdate": "Sat, 28 Sep 2024 03:00:00 +0300"
-    },
-    {
-        "title": "Santa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Santa",
-        "pubdate": "Sat, 28 Sep 2024 00:00:00 +0200"
-    },
-    {
-        "title": "Maggie Smith",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Maggie%20Smith",
-        "pubdate": "Fri, 27 Sep 2024 07:00:00 -0700"
-    },
-    {
-        "title": "England vs Australia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#England%20vs%20Australia",
-        "pubdate": "Sat, 28 Sep 2024 01:30:00 +0530"
+        "title": "Jens Lehmann",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Jens%20Lehmann",
+        "pubdate": "Sat, 28 Sep 2024 08:00:00 +0200"
     },
     {
         "title": "水龍捲",
@@ -35,39 +10,74 @@
         "pubdate": "Sat, 28 Sep 2024 14:00:00 +0800"
     },
     {
-        "title": "Jens Lehmann",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Jens%20Lehmann",
-        "pubdate": "Sat, 28 Sep 2024 08:00:00 +0200"
-    },
-    {
-        "title": "The Substance",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#The%20Substance",
-        "pubdate": "Sat, 28 Sep 2024 00:00:00 +0800"
-    },
-    {
-        "title": "เมืองทอง",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TH#%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%AD%E0%B8%87",
-        "pubdate": "Sat, 28 Sep 2024 00:00:00 +0700"
-    },
-    {
-        "title": "AFL Grand Final",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#AFL%20Grand%20Final",
-        "pubdate": "Sat, 28 Sep 2024 00:00:00 +1200"
-    },
-    {
-        "title": "Jens Stoltenberg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jens%20Stoltenberg",
+        "title": "Santa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Santa",
         "pubdate": "Sat, 28 Sep 2024 00:00:00 +0200"
     },
     {
-        "title": "Arsenal vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Arsenal%20vs",
+        "title": "マギースミス",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%9E%E3%82%AE%E3%83%BC%E3%82%B9%E3%83%9F%E3%82%B9",
+        "pubdate": "Sat, 28 Sep 2024 01:00:00 +0900"
+    },
+    {
+        "title": "Lady Gaga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Lady%20Gaga",
+        "pubdate": "Sat, 28 Sep 2024 00:00:00 +0100"
+    },
+    {
+        "title": "England vs Australia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#England%20vs%20Australia",
+        "pubdate": "Sat, 28 Sep 2024 01:30:00 +0530"
+    },
+    {
+        "title": "Насралла",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%9D%D0%B0%D1%81%D1%80%D0%B0%D0%BB%D0%BB%D0%B0",
+        "pubdate": "Sat, 28 Sep 2024 03:00:00 +0300"
+    },
+    {
+        "title": "Maggie Smith",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Maggie%20Smith",
+        "pubdate": "Fri, 27 Sep 2024 07:00:00 -0700"
+    },
+    {
+        "title": "Giulia Penna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Giulia%20Penna",
+        "pubdate": "Sat, 28 Sep 2024 00:00:00 +0200"
+    },
+    {
+        "title": "PSG đấu với Rennes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#PSG%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Rennes",
+        "pubdate": "Sat, 28 Sep 2024 03:00:00 +0700"
+    },
+    {
+        "title": "Jay-Z",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jay-Z",
+        "pubdate": "Sat, 28 Sep 2024 00:00:00 +0200"
+    },
+    {
+        "title": "Jean Pierre Noher",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Jean%20Pierre%20Noher",
+        "pubdate": "Sat, 28 Sep 2024 01:00:00 -0300"
+    },
+    {
+        "title": "الهلال السعودي",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#%D8%A7%D9%84%D9%87%D9%84%D8%A7%D9%84%20%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A",
+        "pubdate": "Sat, 28 Sep 2024 06:00:00 +0300"
+    },
+    {
+        "title": "Shigeru Ishiba",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Shigeru%20Ishiba",
         "pubdate": "Sat, 28 Sep 2024 00:00:00 -0500"
     },
     {
-        "title": "MC Ryan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#MC%20Ryan",
-        "pubdate": "Fri, 27 Sep 2024 16:00:00 -0500"
+        "title": "Alice Weidel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Alice%20Weidel",
+        "pubdate": "Sat, 28 Sep 2024 00:00:00 +0200"
+    },
+    {
+        "title": "Estonia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Estonia",
+        "pubdate": "Sat, 28 Sep 2024 10:00:00 +0300"
     },
     {
         "title": "Újpest–eto",
@@ -75,28 +85,18 @@
         "pubdate": "Fri, 27 Sep 2024 20:00:00 +0200"
     },
     {
-        "title": "潘威倫",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%BD%98%E5%A8%81%E5%80%AB",
-        "pubdate": "Sat, 28 Sep 2024 11:00:00 +0800"
+        "title": "Newcastle vs Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Newcastle%20vs%20Man%20City",
+        "pubdate": "Sat, 28 Sep 2024 04:00:00 +0100"
     },
     {
-        "title": "Joao Neves",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Joao%20Neves",
-        "pubdate": "Sat, 28 Sep 2024 08:00:00 +0100"
+        "title": "Monkey Man",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Monkey%20Man",
+        "pubdate": "Sat, 28 Sep 2024 00:00:00 +0200"
     },
     {
-        "title": "Beirut",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Beirut",
-        "pubdate": "Sat, 28 Sep 2024 00:00:00 +0100"
-    },
-    {
-        "title": "Smiley",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Smiley",
-        "pubdate": "Sat, 28 Sep 2024 00:00:00 +0300"
-    },
-    {
-        "title": "الهلال السعودي",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#%D8%A7%D9%84%D9%87%D9%84%D8%A7%D9%84%20%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A",
-        "pubdate": "Sat, 28 Sep 2024 06:00:00 +0300"
+        "title": "Jens Stoltenberg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jens%20Stoltenberg",
+        "pubdate": "Sat, 28 Sep 2024 00:00:00 +0200"
     }
 ]
