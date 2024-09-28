@@ -30,14 +30,14 @@
         "pubdate": "Fri, 27 Sep 2024 11:00:00 -0300"
     },
     {
-        "title": "Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Milan",
-        "pubdate": "Fri, 27 Sep 2024 17:00:00 -0300"
-    },
-    {
         "title": "Chile vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Chile%20vs",
         "pubdate": "Fri, 27 Sep 2024 16:00:00 -0300"
+    },
+    {
+        "title": "Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Milan",
+        "pubdate": "Fri, 27 Sep 2024 17:00:00 -0300"
     },
     {
         "title": "Arturo Vidal",
@@ -45,19 +45,14 @@
         "pubdate": "Fri, 27 Sep 2024 10:00:00 -0300"
     },
     {
-        "title": "Cruzeiro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cruzeiro",
-        "pubdate": "Fri, 27 Sep 2024 00:00:00 -0300"
+        "title": "Velez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Velez",
+        "pubdate": "Fri, 27 Sep 2024 20:00:00 -0300"
     },
     {
         "title": "Al Nassr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Al%20Nassr",
         "pubdate": "Fri, 27 Sep 2024 15:00:00 -0300"
-    },
-    {
-        "title": "Velez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Velez",
-        "pubdate": "Fri, 27 Sep 2024 20:00:00 -0300"
     },
     {
         "title": "Candela Sánchez",
@@ -68,6 +63,11 @@
         "title": "Sayuri",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Sayuri",
         "pubdate": "Fri, 27 Sep 2024 10:00:00 -0300"
+    },
+    {
+        "title": "Cruzeiro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cruzeiro",
+        "pubdate": "Fri, 27 Sep 2024 00:00:00 -0300"
     },
     {
         "title": "Luciano Cabral",

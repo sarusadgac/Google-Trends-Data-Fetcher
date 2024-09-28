@@ -5,6 +5,11 @@
         "pubdate": "Sat, 28 Sep 2024 00:00:00 +0200"
     },
     {
+        "title": "Mallorca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Mallorca",
+        "pubdate": "Sat, 28 Sep 2024 00:00:00 +0200"
+    },
+    {
         "title": "Valladolid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Valladolid",
         "pubdate": "Sat, 28 Sep 2024 03:00:00 +0200"
@@ -40,8 +45,8 @@
         "pubdate": "Fri, 27 Sep 2024 16:00:00 +0200"
     },
     {
-        "title": "Mallorca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Mallorca",
+        "title": "Valladolid-Mallorca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Valladolid-Mallorca",
         "pubdate": "Fri, 27 Sep 2024 21:00:00 +0200"
     },
     {
@@ -65,6 +70,11 @@
         "pubdate": "Fri, 27 Sep 2024 16:00:00 +0200"
     },
     {
+        "title": "PSG  Rennes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#PSG%20%20Rennes",
+        "pubdate": "Fri, 27 Sep 2024 21:00:00 +0200"
+    },
+    {
         "title": "Influencer Candela sanchez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Influencer%20Candela%20sanchez",
         "pubdate": "Fri, 27 Sep 2024 09:00:00 +0200"
@@ -80,11 +90,6 @@
         "pubdate": "Fri, 27 Sep 2024 09:00:00 +0200"
     },
     {
-        "title": "PSG  Rennes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#PSG%20%20Rennes",
-        "pubdate": "Fri, 27 Sep 2024 21:00:00 +0200"
-    },
-    {
         "title": "Alberto Núñez Feijóo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Alberto%20N%C3%BA%C3%B1ez%20Feij%C3%B3o",
         "pubdate": "Fri, 27 Sep 2024 03:00:00 +0200"
@@ -93,10 +98,5 @@
         "title": "Tamara falco",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Tamara%20falco",
         "pubdate": "Fri, 27 Sep 2024 00:00:00 +0200"
-    },
-    {
-        "title": "Mónica Oltra",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#M%C3%B3nica%20Oltra",
-        "pubdate": "Fri, 27 Sep 2024 11:00:00 +0200"
     }
 ]
