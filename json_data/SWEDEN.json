@@ -15,6 +15,11 @@
         "pubdate": "Sat, 28 Sep 2024 16:00:00 +0200"
     },
     {
+        "title": "UFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#UFC",
+        "pubdate": "Sat, 28 Sep 2024 22:00:00 +0200"
+    },
+    {
         "title": "Jakob Silfverberg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jakob%20Silfverberg",
         "pubdate": "Sat, 28 Sep 2024 17:00:00 +0200"
@@ -33,16 +38,6 @@
         "title": "Damallsvenskan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Damallsvenskan",
         "pubdate": "Sat, 28 Sep 2024 22:00:00 +0200"
-    },
-    {
-        "title": "Newcastle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Newcastle",
-        "pubdate": "Sat, 28 Sep 2024 16:00:00 +0200"
-    },
-    {
-        "title": "Brentford mot West Ham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Brentford%20mot%20West%20Ham",
-        "pubdate": "Sat, 28 Sep 2024 19:00:00 +0200"
     },
     {
         "title": "Maggie Smith",
@@ -85,11 +80,6 @@
         "pubdate": "Fri, 27 Sep 2024 09:00:00 +0200"
     },
     {
-        "title": "Marie Göranzon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Marie%20G%C3%B6ranzon",
-        "pubdate": "Fri, 27 Sep 2024 19:00:00 +0200"
-    },
-    {
         "title": "Mi ridell",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mi%20ridell",
         "pubdate": "Fri, 27 Sep 2024 21:00:00 +0200"
@@ -98,5 +88,15 @@
         "title": "Brynäs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bryn%C3%A4s",
         "pubdate": "Fri, 27 Sep 2024 00:00:00 +0200"
+    },
+    {
+        "title": "Tunna blå linjen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tunna%20bl%C3%A5%20linjen",
+        "pubdate": "Fri, 27 Sep 2024 21:00:00 +0200"
+    },
+    {
+        "title": "HV71",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#HV71",
+        "pubdate": "Fri, 27 Sep 2024 15:00:00 +0200"
     }
 ]
