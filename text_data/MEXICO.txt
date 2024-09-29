@@ -1,11 +1,10 @@
 San Miguel arcangel
-Tabla de goleo liga mx
 Dia de San Miguel arcangel
 Osasuna  Barcelona
 Pachuca - Cruz Azul
 Toluca vs Atlas
-Bayern  Leverkusen
 Atl San Luis - Santos
+Bayern  Leverkusen
 Chelsea  Brighton
 Newcastle - Manchester City
 Arsenal  Leicester City
@@ -18,3 +17,4 @@ Kubrá Aykut
 Genoa - Juventus
 Udinese  Inter
 TOLUCA FC
+Real Sociedad - Valencia c F
