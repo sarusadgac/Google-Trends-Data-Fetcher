@@ -30,11 +30,6 @@
         "pubdate": "Sat, 28 Sep 2024 10:00:00 +0100"
     },
     {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Barcelona",
-        "pubdate": "Sat, 28 Sep 2024 21:00:00 +0100"
-    },
-    {
         "title": "Chelsea FC vs Brighton & Hove Albion FC standings",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Chelsea%20FC%20vs%20Brighton%20%26%20Hove%20Albion%20FC%20standings",
         "pubdate": "Sat, 28 Sep 2024 16:00:00 +0100"
@@ -73,6 +68,11 @@
         "title": "Nottm Forest vs Fulham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Nottm%20Forest%20vs%20Fulham",
         "pubdate": "Sat, 28 Sep 2024 15:00:00 +0100"
+    },
+    {
+        "title": "Premier League top scorers 2024-25",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Premier%20League%20top%20scorers%202024-25",
+        "pubdate": "Sat, 28 Sep 2024 18:00:00 +0100"
     },
     {
         "title": "Hassan Nasrallah",
