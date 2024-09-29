@@ -1,10 +1,11 @@
 Ajax
 AZ
-Vitesse
+De Graafschap  Vitesse
 Twente  NAC
 Cambuur
+Vitesse
 PEC Zwolle
-Graafschap Vitesse
+Pogacar
 Go Ahead Eagles
 Loting KNVB-beker
 KNVB Beker
@@ -17,4 +18,3 @@ Telstar
 Nasrallah
 Storm
 Roda JC
-Ajax
