@@ -52,7 +52,6 @@ def update_readme(trend_data):
 
 Using Google Trends data, this tool automatically collects and updates the most popular search trends from 51 different countries on a regular basis.
 
-Last Update {current_time}
 
 | Country | Flag | Trends | Last Update |
 | --- | --- | --- | --- |
@@ -64,7 +63,7 @@ Last Update {current_time}
         readme_content += f"| {country} | ![Flag]({flag}) | {trends_string} | {info['last_update']} |\n"
 
     # Update the README content
-    readme_content += f"\n\n## Author\n\nAuthor [sarusadgac](https://x.com/sarusadgac)\n"
+    readme_content += f"\n\n## Author\n [sarusadgac](https://x.com/sarusadgac)\n"
 
     # Write the content to README.md
     with open("README.md", "w", encoding="utf-8") as f:  # UTF-8 encoding for emoji compatibility
