@@ -13,17 +13,17 @@ jobs:
     steps:
     # Set up Node.js (Added to suppress GitHub Actions warning about Node.js, even though it is not required for this Python workflow)
     - name: Set up Node.js
-      uses: actions/setup-node@v3
+      uses: actions/setup-node@v3  # Ensure this is v3 or higher to support Node.js 20
       with:
-        node-version: '20.x'  # Specify Node.js version (if needed)
+        node-version: '20.x'  # Specify Node.js version 20.x
 
     # Checkout the repository
     - name: Checkout repository
-      uses: actions/checkout@v3
+      uses: actions/checkout@v3  # Ensure v3 to avoid Node.js version warnings
 
-    # Set up Python
+    # Set up Python (Ensure latest version is used)
     - name: Set up Python
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v4  # Ensure v4 to avoid Node.js version warnings
       with:
         python-version: '3.x'  # Specify the Python version
 
