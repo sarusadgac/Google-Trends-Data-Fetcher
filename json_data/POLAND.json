@@ -15,13 +15,8 @@
         "pubdate": "Sun, 29 Sep 2024 11:00:00 +0200"
     },
     {
-        "title": "Arka Gdynia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Arka%20Gdynia",
-        "pubdate": "Sun, 29 Sep 2024 13:00:00 +0200"
-    },
-    {
-        "title": "Manutd – Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Manutd%20%E2%80%93%20Tottenham",
+        "title": "Man Utd – Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Man%20Utd%20%E2%80%93%20Tottenham",
         "pubdate": "Sun, 29 Sep 2024 17:00:00 +0200"
     },
     {
@@ -30,9 +25,9 @@
         "pubdate": "Sun, 29 Sep 2024 17:00:00 +0200"
     },
     {
-        "title": "Tomasz Ciachorowski",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Tomasz%20Ciachorowski",
-        "pubdate": "Sun, 29 Sep 2024 11:00:00 +0200"
+        "title": "Arka Gdynia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Arka%20Gdynia",
+        "pubdate": "Sun, 29 Sep 2024 13:00:00 +0200"
     },
     {
         "title": "Piotr Żyła",
@@ -40,9 +35,24 @@
         "pubdate": "Sun, 29 Sep 2024 10:00:00 +0200"
     },
     {
+        "title": "Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Bayern",
+        "pubdate": "Sun, 29 Sep 2024 19:00:00 +0200"
+    },
+    {
+        "title": "Tomasz Ciachorowski",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Tomasz%20Ciachorowski",
+        "pubdate": "Sun, 29 Sep 2024 11:00:00 +0200"
+    },
+    {
         "title": "Eurowizja Junior 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Eurowizja%20Junior%202024",
         "pubdate": "Sun, 29 Sep 2024 17:00:00 +0200"
+    },
+    {
+        "title": "Prezydent Duda pozwany",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Prezydent%20Duda%20pozwany",
+        "pubdate": "Sun, 29 Sep 2024 14:00:00 +0200"
     },
     {
         "title": "Wysyp grzybów",
@@ -65,9 +75,9 @@
         "pubdate": "Sun, 29 Sep 2024 00:00:00 +0200"
     },
     {
-        "title": "Prezydent Duda pozwany",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Prezydent%20Duda%20pozwany",
-        "pubdate": "Sun, 29 Sep 2024 14:00:00 +0200"
+        "title": "29 września",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#29%20wrze%C5%9Bnia",
+        "pubdate": "Sun, 29 Sep 2024 12:00:00 +0200"
     },
     {
         "title": "Polonia Warszawa",
@@ -75,9 +85,9 @@
         "pubdate": "Sun, 29 Sep 2024 15:00:00 +0200"
     },
     {
-        "title": "29 września",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#29%20wrze%C5%9Bnia",
-        "pubdate": "Sun, 29 Sep 2024 12:00:00 +0200"
+        "title": "Paulina Przybysz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Paulina%20Przybysz",
+        "pubdate": "Sun, 29 Sep 2024 10:00:00 +0200"
     },
     {
         "title": "Aston Villa",
@@ -85,18 +95,8 @@
         "pubdate": "Sun, 29 Sep 2024 18:00:00 +0200"
     },
     {
-        "title": "Linette",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Linette",
-        "pubdate": "Sun, 29 Sep 2024 02:00:00 +0200"
-    },
-    {
-        "title": "BEKSIŃSKI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#BEKSI%C5%83SKI",
-        "pubdate": "Sun, 29 Sep 2024 00:00:00 +0200"
-    },
-    {
-        "title": "Legia Górnik",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Legia%20G%C3%B3rnik",
-        "pubdate": "Sun, 29 Sep 2024 10:00:00 +0200"
+        "title": "Must be the Music",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Must%20be%20the%20Music",
+        "pubdate": "Sun, 29 Sep 2024 16:00:00 +0200"
     }
 ]
