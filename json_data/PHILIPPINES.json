@@ -5,11 +5,6 @@
         "pubdate": "Sun, 29 Sep 2024 00:00:00 +0800"
     },
     {
-        "title": "Robi Domingo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Robi%20Domingo",
-        "pubdate": "Sun, 29 Sep 2024 06:00:00 +0800"
-    },
-    {
         "title": "Typhoon Julian",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Typhoon%20Julian",
         "pubdate": "Sun, 29 Sep 2024 08:00:00 +0800"
@@ -30,19 +25,24 @@
         "pubdate": "Sun, 29 Sep 2024 13:00:00 +0800"
     },
     {
+        "title": "Robi Domingo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Robi%20Domingo",
+        "pubdate": "Sun, 29 Sep 2024 06:00:00 +0800"
+    },
+    {
         "title": "Osasuna vs Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Osasuna%20vs%20Barcelona",
         "pubdate": "Sun, 29 Sep 2024 12:00:00 +0800"
     },
     {
-        "title": "Lotto result September 28, 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Lotto%20result%20September%2028,%202024",
-        "pubdate": "Sat, 28 Sep 2024 17:00:00 +0800"
-    },
-    {
         "title": "Karl-Anthony Towns",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Karl-Anthony%20Towns",
         "pubdate": "Sat, 28 Sep 2024 11:00:00 +0800"
+    },
+    {
+        "title": "Lotto result September 28, 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Lotto%20result%20September%2028,%202024",
+        "pubdate": "Sat, 28 Sep 2024 17:00:00 +0800"
     },
     {
         "title": "The Substance",
@@ -63,11 +63,6 @@
         "title": "Hassan Nasrallah",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Hassan%20Nasrallah",
         "pubdate": "Sat, 28 Sep 2024 21:00:00 +0800"
-    },
-    {
-        "title": "Royina Garma PCSO",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Royina%20Garma%20PCSO",
-        "pubdate": "Sat, 28 Sep 2024 06:00:00 +0800"
     },
     {
         "title": "Converge vs San Miguel",
@@ -98,5 +93,10 @@
         "title": "Cats",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Cats",
         "pubdate": "Sat, 28 Sep 2024 16:00:00 +0800"
+    },
+    {
+        "title": "Swertres Result September 28, 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Swertres%20Result%20September%2028,%202024",
+        "pubdate": "Sat, 28 Sep 2024 22:00:00 +0800"
     }
 ]

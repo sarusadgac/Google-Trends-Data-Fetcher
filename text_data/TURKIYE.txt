@@ -3,13 +3,12 @@ Benfica
 Samsunspor
 Chelsea
 Alanyaspor
-Brighton
 Barcelona
+Brighton
 Levent Özdilek
 Heybeliada Ruhban Okulu
 Manchester City
 Lübnan
-Bandırmaspor  Ankaragücü
 Antalyaspor
 Yusuf Yazıcı
 Hakan Fidan
@@ -18,3 +17,4 @@ Bedri Usta kimdir
 Boluspor - Manisa FK
 CHP'nin kedisi Şero
 Samsun
+Bandırmaspor
