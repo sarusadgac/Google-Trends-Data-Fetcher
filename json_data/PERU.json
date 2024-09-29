@@ -5,14 +5,29 @@
         "pubdate": "Sun, 29 Sep 2024 01:00:00 -0500"
     },
     {
-        "title": "Celta de Vigo - Girona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Celta%20de%20Vigo%20-%20Girona",
+        "title": "Celta de Vigo  Girona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Celta%20de%20Vigo%20%20Girona",
         "pubdate": "Sun, 29 Sep 2024 08:00:00 -0500"
     },
     {
-        "title": "Ipswich  Aston Villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Ipswich%20%20Aston%20Villa",
+        "title": "Ipswich Aston Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Ipswich%20Aston%20Villa",
         "pubdate": "Sun, 29 Sep 2024 09:00:00 -0500"
+    },
+    {
+        "title": "Manchester United - Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Manchester%20United%20-%20Tottenham",
+        "pubdate": "Sun, 29 Sep 2024 10:00:00 -0500"
+    },
+    {
+        "title": "Athletic  Sevilla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Athletic%20%20Sevilla",
+        "pubdate": "Sun, 29 Sep 2024 10:00:00 -0500"
+    },
+    {
+        "title": "Real Sociedad vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Real%20Sociedad%20vs",
+        "pubdate": "Sun, 29 Sep 2024 10:00:00 -0500"
     },
     {
         "title": "Osasuna - Barcelona",
@@ -83,20 +98,5 @@
         "title": "Bolonia  Atalanta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bolonia%20%20Atalanta",
         "pubdate": "Sat, 28 Sep 2024 15:00:00 -0500"
-    },
-    {
-        "title": "Getafe  Alavés",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Getafe%20%20Alav%C3%A9s",
-        "pubdate": "Sat, 28 Sep 2024 08:00:00 -0500"
-    },
-    {
-        "title": "Genoa - Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Genoa%20-%20Juventus",
-        "pubdate": "Sat, 28 Sep 2024 12:00:00 -0500"
-    },
-    {
-        "title": "Colo-colo  Cobresal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Colo-colo%20%20Cobresal",
-        "pubdate": "Sat, 28 Sep 2024 19:00:00 -0500"
     }
 ]
