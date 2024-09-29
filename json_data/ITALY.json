@@ -5,11 +5,6 @@
         "pubdate": "Sun, 29 Sep 2024 00:00:00 +0200"
     },
     {
-        "title": "Bianca Guaccero",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Bianca%20Guaccero",
-        "pubdate": "Sun, 29 Sep 2024 01:00:00 +0200"
-    },
-    {
         "title": "Federica Pellegrini",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Federica%20Pellegrini",
         "pubdate": "Sun, 29 Sep 2024 01:00:00 +0200"
@@ -18,6 +13,11 @@
         "title": "Vicenza-Feralpisalò",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Vicenza-Feralpisal%C3%B2",
         "pubdate": "Sun, 29 Sep 2024 00:00:00 +0200"
+    },
+    {
+        "title": "29 settembre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#29%20settembre",
+        "pubdate": "Sun, 29 Sep 2024 08:00:00 +0200"
     },
     {
         "title": "Amy Winehouse",
@@ -30,6 +30,11 @@
         "pubdate": "Sun, 29 Sep 2024 00:00:00 +0200"
     },
     {
+        "title": "Wada",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Wada",
+        "pubdate": "Sat, 28 Sep 2024 10:00:00 +0200"
+    },
+    {
         "title": "Bologna-Atalanta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Bologna-Atalanta",
         "pubdate": "Sat, 28 Sep 2024 15:00:00 +0200"
@@ -40,11 +45,6 @@
         "pubdate": "Sat, 28 Sep 2024 18:00:00 +0200"
     },
     {
-        "title": "Wada",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Wada",
-        "pubdate": "Sat, 28 Sep 2024 10:00:00 +0200"
-    },
-    {
         "title": "Federica Nargi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Federica%20Nargi",
         "pubdate": "Sat, 28 Sep 2024 22:00:00 +0200"
@@ -53,6 +53,11 @@
         "title": "Sassuolo-Spezia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Sassuolo-Spezia",
         "pubdate": "Sat, 28 Sep 2024 15:00:00 +0200"
+    },
+    {
+        "title": "Ballando con le stelle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Ballando%20con%20le%20stelle",
+        "pubdate": "Sat, 28 Sep 2024 22:00:00 +0200"
     },
     {
         "title": "Sal Da Vinci",
@@ -70,19 +75,9 @@
         "pubdate": "Sat, 28 Sep 2024 19:00:00 +0200"
     },
     {
-        "title": "Ballando con le stelle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Ballando%20con%20le%20stelle",
-        "pubdate": "Sat, 28 Sep 2024 22:00:00 +0200"
-    },
-    {
         "title": "Marcello Mastroianni",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Marcello%20Mastroianni",
         "pubdate": "Sat, 28 Sep 2024 19:00:00 +0200"
-    },
-    {
-        "title": "Massimiliano Ossini",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Massimiliano%20Ossini",
-        "pubdate": "Sat, 28 Sep 2024 22:00:00 +0200"
     },
     {
         "title": "Classifica MotoGP",
@@ -90,13 +85,18 @@
         "pubdate": "Sat, 28 Sep 2024 11:00:00 +0200"
     },
     {
-        "title": "Tommaso Marini",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Tommaso%20Marini",
+        "title": "Massimiliano Ossini",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Massimiliano%20Ossini",
+        "pubdate": "Sat, 28 Sep 2024 22:00:00 +0200"
+    },
+    {
+        "title": "Anna Lou Castoldi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Anna%20Lou%20Castoldi",
         "pubdate": "Sat, 28 Sep 2024 23:00:00 +0200"
     },
     {
-        "title": "Zelensky",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Zelensky",
-        "pubdate": "Sat, 28 Sep 2024 16:00:00 +0200"
+        "title": "Tommaso Marini",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Tommaso%20Marini",
+        "pubdate": "Sat, 28 Sep 2024 23:00:00 +0200"
     }
 ]

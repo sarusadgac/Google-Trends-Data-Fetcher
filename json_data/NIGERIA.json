@@ -5,11 +5,6 @@
         "pubdate": "Sun, 29 Sep 2024 01:00:00 +0100"
     },
     {
-        "title": "Joe Igbokwe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Joe%20Igbokwe",
-        "pubdate": "Sun, 29 Sep 2024 00:00:00 +0100"
-    },
-    {
         "title": "Newcastle vs Man City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Newcastle%20vs%20Man%20City",
         "pubdate": "Sat, 28 Sep 2024 04:00:00 +0100"
@@ -98,5 +93,10 @@
         "title": "Monaco",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Monaco",
         "pubdate": "Sat, 28 Sep 2024 21:00:00 +0100"
+    },
+    {
+        "title": "Haaland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Haaland",
+        "pubdate": "Sat, 28 Sep 2024 17:00:00 +0100"
     }
 ]
