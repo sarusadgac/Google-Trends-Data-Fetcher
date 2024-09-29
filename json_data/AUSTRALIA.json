@@ -1,5 +1,10 @@
 [
     {
+        "title": "Ipswich Town vs Aston Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ipswich%20Town%20vs%20Aston%20Villa",
+        "pubdate": "Mon, 30 Sep 2024 00:00:00 +1000"
+    },
+    {
         "title": "UFC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#UFC",
         "pubdate": "Sun, 29 Sep 2024 08:00:00 +1000"
@@ -20,14 +25,14 @@
         "pubdate": "Sun, 29 Sep 2024 18:00:00 +1000"
     },
     {
-        "title": "Australia Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Australia%20Cup",
-        "pubdate": "Sun, 29 Sep 2024 23:00:00 +1000"
-    },
-    {
         "title": "Drake Hogestyn",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Drake%20Hogestyn",
         "pubdate": "Sun, 29 Sep 2024 15:00:00 +1000"
+    },
+    {
+        "title": "Australia Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Australia%20Cup",
+        "pubdate": "Sun, 29 Sep 2024 23:00:00 +1000"
     },
     {
         "title": "Jersey Flegg Grand Final",
@@ -45,14 +50,19 @@
         "pubdate": "Sun, 29 Sep 2024 09:00:00 +1000"
     },
     {
+        "title": "Adam Britton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Adam%20Britton",
+        "pubdate": "Sun, 29 Sep 2024 22:00:00 +1000"
+    },
+    {
         "title": "Berlin Marathon 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Berlin%20Marathon%202024",
         "pubdate": "Sun, 29 Sep 2024 18:00:00 +1000"
     },
     {
-        "title": "Renato Moicano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Renato%20Moicano",
-        "pubdate": "Sun, 29 Sep 2024 14:00:00 +1000"
+        "title": "Alabama vs Georgia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Alabama%20vs%20Georgia",
+        "pubdate": "Sun, 29 Sep 2024 15:00:00 +1000"
     },
     {
         "title": "Lupin flour",
@@ -70,18 +80,13 @@
         "pubdate": "Sun, 29 Sep 2024 00:00:00 +1000"
     },
     {
-        "title": "Fagan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Fagan",
-        "pubdate": "Sun, 29 Sep 2024 11:00:00 +1000"
-    },
-    {
         "title": "Nepal floods",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Nepal%20floods",
         "pubdate": "Sun, 29 Sep 2024 23:00:00 +1000"
     },
     {
-        "title": "AFL grand final",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#AFL%20grand%20final",
+        "title": "AFL Grand Final",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#AFL%20Grand%20Final",
         "pubdate": "Sat, 28 Sep 2024 10:00:00 +1000"
     },
     {
@@ -93,10 +98,5 @@
         "title": "Katy Perry AFL Grand Final",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Katy%20Perry%20AFL%20Grand%20Final",
         "pubdate": "Sat, 28 Sep 2024 14:00:00 +1000"
-    },
-    {
-        "title": "Hassan Nasrallah",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Hassan%20Nasrallah",
-        "pubdate": "Sat, 28 Sep 2024 09:00:00 +1000"
     }
 ]

@@ -1,9 +1,10 @@
 Comerciantes Unidos
-Celta de Vigo  Girona
+Celta de Vigo - Girona
+Ipswich  Aston Villa
 Osasuna - Barcelona
 Newcastle - Manchester City
-Cienciano  Cusco
 Bayern  Leverkusen
+Cienciano  Cusco
 Arsenal  Leicester City
 ADT  Alianza Atlético
 Belgrano Boca Juniors
@@ -12,7 +13,6 @@ Inter Miami  Charlotte FC
 Wolves - Liverpool
 Rayo Vallecano  Leganés
 Udinese  Inter
-TABLA ACUMULADA Liga 1
 Real Sociedad - Valencia c F
 Bolonia  Atalanta
 Getafe  Alavés
