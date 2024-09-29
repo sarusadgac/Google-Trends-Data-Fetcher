@@ -35,6 +35,11 @@
         "pubdate": "Sat, 28 Sep 2024 22:00:00 +0200"
     },
     {
+        "title": "Newcastle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Newcastle",
+        "pubdate": "Sat, 28 Sep 2024 16:00:00 +0200"
+    },
+    {
         "title": "Brentford mot West Ham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Brentford%20mot%20West%20Ham",
         "pubdate": "Sat, 28 Sep 2024 19:00:00 +0200"
@@ -93,10 +98,5 @@
         "title": "Mi ridell",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mi%20ridell",
         "pubdate": "Fri, 27 Sep 2024 21:00:00 +0200"
-    },
-    {
-        "title": "Brynäs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bryn%C3%A4s",
-        "pubdate": "Fri, 27 Sep 2024 00:00:00 +0200"
     }
 ]
