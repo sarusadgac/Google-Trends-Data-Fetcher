@@ -15,14 +15,14 @@
         "pubdate": "Sat, 28 Sep 2024 11:00:00 -0500"
     },
     {
-        "title": "Arsenal  Leicester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Arsenal%20%20Leicester%20City",
-        "pubdate": "Sat, 28 Sep 2024 00:00:00 -0500"
-    },
-    {
         "title": "Cienciano  Cusco",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Cienciano%20%20Cusco",
         "pubdate": "Sat, 28 Sep 2024 18:00:00 -0500"
+    },
+    {
+        "title": "Arsenal  Leicester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Arsenal%20%20Leicester%20City",
+        "pubdate": "Sat, 28 Sep 2024 00:00:00 -0500"
     },
     {
         "title": "ADT  Alianza Atlético",
@@ -30,14 +30,19 @@
         "pubdate": "Sat, 28 Sep 2024 15:00:00 -0500"
     },
     {
+        "title": "Belgrano Boca Juniors",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Belgrano%20Boca%20Juniors",
+        "pubdate": "Sat, 28 Sep 2024 18:00:00 -0500"
+    },
+    {
         "title": "Chelsea  Brighton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Chelsea%20%20Brighton",
         "pubdate": "Sat, 28 Sep 2024 09:00:00 -0500"
     },
     {
-        "title": "Belgrano Boca Juniors",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Belgrano%20Boca%20Juniors",
-        "pubdate": "Sat, 28 Sep 2024 18:00:00 -0500"
+        "title": "Inter Miami  Charlotte FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Inter%20Miami%20%20Charlotte%20FC",
+        "pubdate": "Sat, 28 Sep 2024 11:00:00 -0500"
     },
     {
         "title": "Wolves - Liverpool",
@@ -53,11 +58,6 @@
         "title": "Udinese  Inter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Udinese%20%20Inter",
         "pubdate": "Sat, 28 Sep 2024 09:00:00 -0500"
-    },
-    {
-        "title": "Inter Miami  Charlotte FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Inter%20Miami%20%20Charlotte%20FC",
-        "pubdate": "Sat, 28 Sep 2024 19:00:00 -0500"
     },
     {
         "title": "Real Sociedad - Valencia c F",
@@ -80,14 +80,14 @@
         "pubdate": "Sat, 28 Sep 2024 12:00:00 -0500"
     },
     {
+        "title": "TABLA ACUMULADA Liga 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#TABLA%20ACUMULADA%20Liga%201",
+        "pubdate": "Sat, 28 Sep 2024 08:00:00 -0500"
+    },
+    {
         "title": "Galatasaray",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Galatasaray",
         "pubdate": "Sat, 28 Sep 2024 12:00:00 -0500"
-    },
-    {
-        "title": "Benfica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Benfica",
-        "pubdate": "Sat, 28 Sep 2024 15:00:00 -0500"
     },
     {
         "title": "Alvise perez",
@@ -95,8 +95,8 @@
         "pubdate": "Sat, 28 Sep 2024 14:00:00 -0500"
     },
     {
-        "title": "Palmeiras",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Palmeiras",
-        "pubdate": "Sat, 28 Sep 2024 18:00:00 -0500"
+        "title": "Benfica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Benfica",
+        "pubdate": "Sat, 28 Sep 2024 15:00:00 -0500"
     }
 ]
