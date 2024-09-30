@@ -85,6 +85,11 @@
         "pubdate": "Sun, 29 Sep 2024 22:00:00 +0100"
     },
     {
+        "title": "Diego Garcia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Diego%20Garcia",
+        "pubdate": "Sun, 29 Sep 2024 21:00:00 +0100"
+    },
+    {
         "title": "Warcop",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Warcop",
         "pubdate": "Sun, 29 Sep 2024 18:00:00 +0100"
@@ -93,10 +98,5 @@
         "title": "England cricket",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#England%20cricket",
         "pubdate": "Sun, 29 Sep 2024 20:00:00 +0100"
-    },
-    {
-        "title": "Berlin Marathon 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Berlin%20Marathon%202024",
-        "pubdate": "Sun, 29 Sep 2024 12:00:00 +0100"
     }
 ]
