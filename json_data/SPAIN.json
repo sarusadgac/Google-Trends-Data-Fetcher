@@ -10,11 +10,6 @@
         "pubdate": "Mon, 30 Sep 2024 00:00:00 +0200"
     },
     {
-        "title": "Beyonce",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Beyonce",
-        "pubdate": "Mon, 30 Sep 2024 00:00:00 +0200"
-    },
-    {
         "title": "Christopher Lee",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Christopher%20Lee",
         "pubdate": "Mon, 30 Sep 2024 01:00:00 +0200"
@@ -45,9 +40,9 @@
         "pubdate": "Mon, 30 Sep 2024 01:00:00 +0200"
     },
     {
-        "title": "Atlético Madrid  Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Atl%C3%A9tico%20Madrid%20%20Real%20Madrid",
-        "pubdate": "Sun, 29 Sep 2024 16:00:00 +0200"
+        "title": "Atlético Madrid-Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Atl%C3%A9tico%20Madrid-Real%20Madrid",
+        "pubdate": "Sun, 29 Sep 2024 02:00:00 +0200"
     },
     {
         "title": "Betis  RCD Espanyol",
@@ -85,11 +80,6 @@
         "pubdate": "Sun, 29 Sep 2024 16:00:00 +0200"
     },
     {
-        "title": "Real Madrid atletico",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Real%20Madrid%20atletico",
-        "pubdate": "Sun, 29 Sep 2024 02:00:00 +0200"
-    },
-    {
         "title": "San Miguel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#San%20Miguel",
         "pubdate": "Sun, 29 Sep 2024 11:00:00 +0200"
@@ -98,5 +88,15 @@
         "title": "Burgos  Granada",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Burgos%20%20Granada",
         "pubdate": "Sun, 29 Sep 2024 17:00:00 +0200"
+    },
+    {
+        "title": "Real Oviedo  Eibar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Real%20Oviedo%20%20Eibar",
+        "pubdate": "Sun, 29 Sep 2024 19:00:00 +0200"
+    },
+    {
+        "title": "La protegida",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#La%20protegida",
+        "pubdate": "Sun, 29 Sep 2024 21:00:00 +0200"
     }
 ]
