@@ -10,7 +10,6 @@ Trabzon
 Akhisar hava durumu
 Tüpraş temettü
 Burdur hava durumu
-Fenerbahçe
 Atletico Madrid  Real Madrid
 Trabzonspor  Konyaspor
 Eyüpspor
@@ -18,3 +17,4 @@ Bursaspor
 Amedspor
 Fenerbahçe  Anadolu Efes
 Deha
+Ediz Ün
