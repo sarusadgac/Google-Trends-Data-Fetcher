@@ -35,9 +35,19 @@
         "pubdate": "Mon, 30 Sep 2024 01:00:00 +0200"
     },
     {
+        "title": "Kris Kristofferson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Kris%20Kristofferson",
+        "pubdate": "Mon, 30 Sep 2024 06:00:00 +0200"
+    },
+    {
         "title": "Napoli  Monza",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Napoli%20%20Monza",
         "pubdate": "Mon, 30 Sep 2024 01:00:00 +0200"
+    },
+    {
+        "title": "River Plate  Talleres",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#River%20Plate%20%20Talleres",
+        "pubdate": "Mon, 30 Sep 2024 06:00:00 +0200"
     },
     {
         "title": "Atlético Madrid  Real Madrid",
@@ -88,15 +98,5 @@
         "title": "Burgos  Granada",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Burgos%20%20Granada",
         "pubdate": "Sun, 29 Sep 2024 17:00:00 +0200"
-    },
-    {
-        "title": "Real Oviedo  Eibar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Real%20Oviedo%20%20Eibar",
-        "pubdate": "Sun, 29 Sep 2024 19:00:00 +0200"
-    },
-    {
-        "title": "La protegida",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#La%20protegida",
-        "pubdate": "Sun, 29 Sep 2024 21:00:00 +0200"
     }
 ]

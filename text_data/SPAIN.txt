@@ -5,7 +5,9 @@ Modric
 Iñaki Williams
 Inca Valero
 Mick Schumacher
+Kris Kristofferson
 Napoli  Monza
+River Plate  Talleres
 Atlético Madrid  Real Madrid
 Betis  RCD Espanyol
 Athletic  Sevilla
@@ -16,5 +18,3 @@ Manchester United  Tottenham
 Real Sociedad
 San Miguel
 Burgos  Granada
-Real Oviedo  Eibar
-La protegida
