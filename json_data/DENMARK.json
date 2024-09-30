@@ -30,6 +30,11 @@
         "pubdate": "Mon, 30 Sep 2024 15:00:00 +0200"
     },
     {
+        "title": "Diddy party",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Diddy%20party",
+        "pubdate": "Mon, 30 Sep 2024 14:00:00 +0200"
+    },
+    {
         "title": "Prodigy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Prodigy",
         "pubdate": "Mon, 30 Sep 2024 00:00:00 +0200"
@@ -93,10 +98,5 @@
         "title": "Bruce Willis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bruce%20Willis",
         "pubdate": "Sun, 29 Sep 2024 00:00:00 +0200"
-    },
-    {
-        "title": "Nishikori",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Nishikori",
-        "pubdate": "Sun, 29 Sep 2024 13:00:00 +0200"
     }
 ]
