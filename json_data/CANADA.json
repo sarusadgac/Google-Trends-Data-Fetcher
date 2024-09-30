@@ -15,6 +15,11 @@
         "pubdate": "Sun, 29 Sep 2024 10:00:00 -0400"
     },
     {
+        "title": "Kris Kristofferson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Kris%20Kristofferson",
+        "pubdate": "Sun, 29 Sep 2024 19:00:00 -0400"
+    },
+    {
         "title": "Montreal Canadiens",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Montreal%20Canadiens",
         "pubdate": "Sun, 29 Sep 2024 08:00:00 -0400"
@@ -55,14 +60,14 @@
         "pubdate": "Sun, 29 Sep 2024 01:00:00 -0400"
     },
     {
-        "title": "Eagles vs Buccaneers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Eagles%20vs%20Buccaneers",
-        "pubdate": "Sun, 29 Sep 2024 15:00:00 -0400"
-    },
-    {
         "title": "John Ashton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#John%20Ashton",
         "pubdate": "Sun, 29 Sep 2024 16:00:00 -0400"
+    },
+    {
+        "title": "Eagles vs Buccaneers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Eagles%20vs%20Buccaneers",
+        "pubdate": "Sun, 29 Sep 2024 15:00:00 -0400"
     },
     {
         "title": "Steelers vs Colts",
@@ -70,9 +75,9 @@
         "pubdate": "Sun, 29 Sep 2024 15:00:00 -0400"
     },
     {
-        "title": "Calgary Flames",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Calgary%20Flames",
-        "pubdate": "Sun, 29 Sep 2024 11:00:00 -0400"
+        "title": "Chiefs vs Chargers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Chiefs%20vs%20Chargers",
+        "pubdate": "Sun, 29 Sep 2024 17:00:00 -0400"
     },
     {
         "title": "Zachary Levi",
@@ -80,23 +85,18 @@
         "pubdate": "Sun, 29 Sep 2024 11:00:00 -0400"
     },
     {
-        "title": "Ipswich Town vs Aston Villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ipswich%20Town%20vs%20Aston%20Villa",
+        "title": "Atlético Madrid – Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Atl%C3%A9tico%20Madrid%20%E2%80%93%20Real%20Madrid",
+        "pubdate": "Sun, 29 Sep 2024 16:00:00 -0400"
+    },
+    {
+        "title": "Calgary Flames",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Calgary%20Flames",
         "pubdate": "Sun, 29 Sep 2024 11:00:00 -0400"
     },
     {
-        "title": "Chiefs vs Chargers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Chiefs%20vs%20Chargers",
-        "pubdate": "Sun, 29 Sep 2024 17:00:00 -0400"
-    },
-    {
-        "title": "Broncos vs Jets",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Broncos%20vs%20Jets",
-        "pubdate": "Sun, 29 Sep 2024 16:00:00 -0400"
-    },
-    {
-        "title": "Rams vs Bears",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Rams%20vs%20Bears",
-        "pubdate": "Sun, 29 Sep 2024 16:00:00 -0400"
+        "title": "Bayern Munich",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bayern%20Munich",
+        "pubdate": "Sun, 29 Sep 2024 12:00:00 -0400"
     }
 ]

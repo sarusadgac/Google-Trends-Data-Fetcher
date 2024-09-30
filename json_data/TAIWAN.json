@@ -5,11 +5,6 @@
         "pubdate": "Sun, 29 Sep 2024 01:00:00 +0800"
     },
     {
-        "title": "錦榮",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%8C%A6%E6%A6%AE",
-        "pubdate": "Sun, 29 Sep 2024 12:00:00 +0800"
-    },
-    {
         "title": "真主黨",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E7%9C%9F%E4%B8%BB%E9%BB%A8",
         "pubdate": "Sun, 29 Sep 2024 00:00:00 +0800"
@@ -48,6 +43,11 @@
         "title": "WTT",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#WTT",
         "pubdate": "Sun, 29 Sep 2024 18:00:00 +0800"
+    },
+    {
+        "title": "楊佩潔",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%A5%8A%E4%BD%A9%E6%BD%94",
+        "pubdate": "Sun, 29 Sep 2024 23:00:00 +0800"
     },
     {
         "title": "酒精路跑",
