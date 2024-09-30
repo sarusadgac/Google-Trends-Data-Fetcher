@@ -35,11 +35,6 @@
         "pubdate": "Sun, 29 Sep 2024 15:00:00 +0100"
     },
     {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Chelsea",
-        "pubdate": "Sun, 29 Sep 2024 14:00:00 +0100"
-    },
-    {
         "title": "England vs Australia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#England%20vs%20Australia",
         "pubdate": "Sun, 29 Sep 2024 21:00:00 +0100"
@@ -98,5 +93,10 @@
         "title": "Warcop",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Warcop",
         "pubdate": "Sun, 29 Sep 2024 18:00:00 +0100"
+    },
+    {
+        "title": "Inter Miami",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Inter%20Miami",
+        "pubdate": "Sun, 29 Sep 2024 22:00:00 +0100"
     }
 ]
