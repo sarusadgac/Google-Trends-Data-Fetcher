@@ -15,24 +15,19 @@
         "pubdate": "Mon, 30 Sep 2024 06:00:00 +0200"
     },
     {
-        "title": "Ethan Suplee",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ethan%20Suplee",
-        "pubdate": "Mon, 30 Sep 2024 09:00:00 +0200"
-    },
-    {
         "title": "Vinicius",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Vinicius",
         "pubdate": "Mon, 30 Sep 2024 00:00:00 +0200"
     },
     {
-        "title": "Partidos de Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Partidos%20de%20Real%20Madrid",
-        "pubdate": "Mon, 30 Sep 2024 01:00:00 +0200"
-    },
-    {
         "title": "Marcos Llorente",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Marcos%20Llorente",
         "pubdate": "Mon, 30 Sep 2024 00:00:00 +0200"
+    },
+    {
+        "title": "Rey Juan Carlos princesa Leonor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Rey%20Juan%20Carlos%20princesa%20Leonor",
+        "pubdate": "Mon, 30 Sep 2024 02:00:00 +0200"
     },
     {
         "title": "Atleti-Madrid",
@@ -43,11 +38,6 @@
         "title": "RockFM",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#RockFM",
         "pubdate": "Mon, 30 Sep 2024 10:00:00 +0200"
-    },
-    {
-        "title": "Rey Juan Carlos Princesa Leonor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Rey%20Juan%20Carlos%20Princesa%20Leonor",
-        "pubdate": "Mon, 30 Sep 2024 02:00:00 +0200"
     },
     {
         "title": "Christopher Lee",
@@ -75,6 +65,11 @@
         "pubdate": "Mon, 30 Sep 2024 01:00:00 +0200"
     },
     {
+        "title": "Barakaldo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Barakaldo",
+        "pubdate": "Mon, 30 Sep 2024 11:00:00 +0200"
+    },
+    {
         "title": "Real",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Real",
         "pubdate": "Mon, 30 Sep 2024 08:00:00 +0200"
@@ -98,5 +93,10 @@
         "title": "Atlético Madrid - Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Atl%C3%A9tico%20Madrid%20-%20Real%20Madrid",
         "pubdate": "Sun, 29 Sep 2024 02:00:00 +0200"
+    },
+    {
+        "title": "Betis  RCD Espanyol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Betis%20%20RCD%20Espanyol",
+        "pubdate": "Sun, 29 Sep 2024 18:00:00 +0200"
     }
 ]
