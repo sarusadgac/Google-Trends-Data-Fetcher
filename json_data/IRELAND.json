@@ -20,6 +20,11 @@
         "pubdate": "Mon, 30 Sep 2024 01:00:00 +0100"
     },
     {
+        "title": "Ben Dunne",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Ben%20Dunne",
+        "pubdate": "Mon, 30 Sep 2024 04:00:00 +0100"
+    },
+    {
         "title": "Man United vs Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Man%20United%20vs%20Tottenham",
         "pubdate": "Sun, 29 Sep 2024 16:00:00 +0100"
@@ -93,10 +98,5 @@
         "title": "Inter Miami",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Inter%20Miami",
         "pubdate": "Sun, 29 Sep 2024 21:00:00 +0100"
-    },
-    {
-        "title": "Zachary Levi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Zachary%20Levi",
-        "pubdate": "Sun, 29 Sep 2024 23:00:00 +0100"
     }
 ]
