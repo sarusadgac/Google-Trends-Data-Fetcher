@@ -30,14 +30,14 @@
         "pubdate": "Mon, 30 Sep 2024 18:00:00 +1300"
     },
     {
-        "title": "NBL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#NBL",
-        "pubdate": "Mon, 30 Sep 2024 13:00:00 +1300"
-    },
-    {
         "title": "Ireland vs South Africa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Ireland%20vs%20South%20Africa",
         "pubdate": "Mon, 30 Sep 2024 11:00:00 +1300"
+    },
+    {
+        "title": "NBL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#NBL",
+        "pubdate": "Mon, 30 Sep 2024 13:00:00 +1300"
     },
     {
         "title": "Zachary Levi",
@@ -95,8 +95,8 @@
         "pubdate": "Sun, 29 Sep 2024 09:00:00 +1300"
     },
     {
-        "title": "Penrith Panthers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Penrith%20Panthers",
-        "pubdate": "Sun, 29 Sep 2024 08:00:00 +1300"
+        "title": "NRL grand final",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#NRL%20grand%20final",
+        "pubdate": "Sun, 29 Sep 2024 11:00:00 +1300"
     }
 ]

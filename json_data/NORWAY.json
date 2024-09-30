@@ -5,11 +5,6 @@
         "pubdate": "Mon, 30 Sep 2024 01:00:00 +0200"
     },
     {
-        "title": "Jens Petter Hauge",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jens%20Petter%20Hauge",
-        "pubdate": "Mon, 30 Sep 2024 00:00:00 +0200"
-    },
-    {
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Manchester%20United",
         "pubdate": "Sun, 29 Sep 2024 20:00:00 +0200"
@@ -18,6 +13,11 @@
         "title": "Sandefjord mot Rosenborg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sandefjord%20mot%20Rosenborg",
         "pubdate": "Sun, 29 Sep 2024 19:00:00 +0200"
+    },
+    {
+        "title": "Bodø/Glimt mot KBK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bod%C3%B8/Glimt%20mot%20KBK",
+        "pubdate": "Sun, 29 Sep 2024 17:00:00 +0200"
     },
     {
         "title": "Berlin Marathon 2024",
@@ -30,9 +30,9 @@
         "pubdate": "Sun, 29 Sep 2024 22:00:00 +0200"
     },
     {
-        "title": "Bodø/Glimt mot KBK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bod%C3%B8/Glimt%20mot%20KBK",
-        "pubdate": "Sun, 29 Sep 2024 17:00:00 +0200"
+        "title": "Ipswich mot Aston Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ipswich%20mot%20Aston%20Villa",
+        "pubdate": "Sun, 29 Sep 2024 15:00:00 +0200"
     },
     {
         "title": "Drake Hogestyn",
@@ -55,8 +55,8 @@
         "pubdate": "Sun, 29 Sep 2024 15:00:00 +0200"
     },
     {
-        "title": "Aston Villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Aston%20Villa",
+        "title": "Odd mot KFUM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Odd%20mot%20KFUM",
         "pubdate": "Sun, 29 Sep 2024 18:00:00 +0200"
     },
     {
@@ -90,13 +90,13 @@
         "pubdate": "Sun, 29 Sep 2024 22:00:00 +0200"
     },
     {
+        "title": "FKH",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#FKH",
+        "pubdate": "Sun, 29 Sep 2024 02:00:00 +0200"
+    },
+    {
         "title": "Brann",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Brann",
         "pubdate": "Sat, 28 Sep 2024 19:00:00 +0200"
-    },
-    {
-        "title": "Sarpsborg 08",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sarpsborg%2008",
-        "pubdate": "Sat, 28 Sep 2024 17:00:00 +0200"
     }
 ]

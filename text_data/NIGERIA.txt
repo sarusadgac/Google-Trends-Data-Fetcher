@@ -6,6 +6,7 @@ Madrid
 Roma
 Rangers
 Bayern
+DNA
 Realmadrid
 Sevilla
 Lamine Yamal
@@ -17,4 +18,3 @@ Liverpool match
 Man United vs Tottenham
 Newcastle vs Man City
 Arsenal vs Leicester City
-Osasuna vs Barcelona
