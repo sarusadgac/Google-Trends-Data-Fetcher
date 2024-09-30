@@ -10,9 +10,24 @@
         "pubdate": "Mon, 30 Sep 2024 00:00:00 -0500"
     },
     {
+        "title": "Hot Wheels",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Hot%20Wheels",
+        "pubdate": "Mon, 30 Sep 2024 13:00:00 -0500"
+    },
+    {
+        "title": "Peru vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Peru%20vs",
+        "pubdate": "Mon, 30 Sep 2024 09:00:00 -0500"
+    },
+    {
         "title": "Feriados octubre 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Feriados%20octubre%202024",
         "pubdate": "Mon, 30 Sep 2024 09:00:00 -0500"
+    },
+    {
+        "title": "Al-nassr  al-rayyan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Al-nassr%20%20al-rayyan",
+        "pubdate": "Mon, 30 Sep 2024 13:00:00 -0500"
     },
     {
         "title": "Beyonce",
@@ -35,6 +50,11 @@
         "pubdate": "Mon, 30 Sep 2024 12:00:00 -0500"
     },
     {
+        "title": "Señor de los Milagros",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Se%C3%B1or%20de%20los%20Milagros",
+        "pubdate": "Mon, 30 Sep 2024 13:00:00 -0500"
+    },
+    {
         "title": "Comerciantes Unidos  Universitario",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Comerciantes%20Unidos%20%20Universitario",
         "pubdate": "Sun, 29 Sep 2024 01:00:00 -0500"
@@ -55,19 +75,19 @@
         "pubdate": "Sun, 29 Sep 2024 17:00:00 -0500"
     },
     {
-        "title": "América  Pumas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Am%C3%A9rica%20%20Pumas",
+        "title": "Pumas vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Pumas%20vs",
         "pubdate": "Sun, 29 Sep 2024 20:00:00 -0500"
+    },
+    {
+        "title": "Peru vs Uruguay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Peru%20vs%20Uruguay",
+        "pubdate": "Sun, 29 Sep 2024 22:00:00 -0500"
     },
     {
         "title": "Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Chelsea",
         "pubdate": "Sun, 29 Sep 2024 07:00:00 -0500"
-    },
-    {
-        "title": "Convocados peru",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Convocados%20peru",
-        "pubdate": "Sun, 29 Sep 2024 22:00:00 -0500"
     },
     {
         "title": "Ipswich  Aston Villa",
@@ -78,25 +98,5 @@
         "title": "Mannucci",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Mannucci",
         "pubdate": "Sun, 29 Sep 2024 16:00:00 -0500"
-    },
-    {
-        "title": "Chankas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Chankas",
-        "pubdate": "Sun, 29 Sep 2024 14:00:00 -0500"
-    },
-    {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Liverpool",
-        "pubdate": "Sun, 29 Sep 2024 11:00:00 -0500"
-    },
-    {
-        "title": "São Paulo  Corinthians",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#S%C3%A3o%20Paulo%20%20Corinthians",
-        "pubdate": "Sun, 29 Sep 2024 14:00:00 -0500"
-    },
-    {
-        "title": "Princesa Leonor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Princesa%20Leonor",
-        "pubdate": "Sun, 29 Sep 2024 12:00:00 -0500"
     }
 ]
