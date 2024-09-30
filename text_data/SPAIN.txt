@@ -1,14 +1,14 @@
 Vinicius
 Marcos Llorente
+Kris Kristofferson
 Christopher Lee
 Modric
 Iñaki Williams
 Inca Valero
-Mick Schumacher
-Kris Kristofferson
 Napoli  Monza
 River Plate  Talleres
-Atlético Madrid  Real Madrid
+Mick Schumacher
+Atlético Madrid - Real Madrid
 Betis  RCD Espanyol
 Athletic  Sevilla
 Celta de Vigo  Girona
@@ -16,5 +16,5 @@ Aitana Mas cancer
 Carlos Alcaraz
 Manchester United  Tottenham
 Real Sociedad
-San Miguel
 Burgos  Granada
+San Miguel
