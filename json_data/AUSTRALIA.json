@@ -15,13 +15,8 @@
         "pubdate": "Mon, 30 Sep 2024 09:00:00 +1000"
     },
     {
-        "title": "Ipswich Town vs Aston Villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ipswich%20Town%20vs%20Aston%20Villa",
-        "pubdate": "Mon, 30 Sep 2024 00:00:00 +1000"
-    },
-    {
-        "title": "Atlético Madrid vs Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Atl%C3%A9tico%20Madrid%20vs%20Real%20Madrid",
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Real%20Madrid",
         "pubdate": "Mon, 30 Sep 2024 07:00:00 +1000"
     },
     {
@@ -30,14 +25,29 @@
         "pubdate": "Mon, 30 Sep 2024 10:00:00 +1000"
     },
     {
-        "title": "Buccaneers vs Eagles",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Buccaneers%20vs%20Eagles",
-        "pubdate": "Mon, 30 Sep 2024 07:00:00 +1000"
+        "title": "Ipswich Town vs Aston Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ipswich%20Town%20vs%20Aston%20Villa",
+        "pubdate": "Mon, 30 Sep 2024 00:00:00 +1000"
     },
     {
         "title": "John Ashton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#John%20Ashton",
         "pubdate": "Mon, 30 Sep 2024 09:00:00 +1000"
+    },
+    {
+        "title": "Buccaneers vs Eagles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Buccaneers%20vs%20Eagles",
+        "pubdate": "Mon, 30 Sep 2024 07:00:00 +1000"
+    },
+    {
+        "title": "Yemen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Yemen",
+        "pubdate": "Mon, 30 Sep 2024 09:00:00 +1000"
+    },
+    {
+        "title": "Packers vs Vikings",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Packers%20vs%20Vikings",
+        "pubdate": "Mon, 30 Sep 2024 07:00:00 +1000"
     },
     {
         "title": "Zachary Levi",
@@ -55,14 +65,14 @@
         "pubdate": "Mon, 30 Sep 2024 08:00:00 +1000"
     },
     {
-        "title": "Yemen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Yemen",
-        "pubdate": "Mon, 30 Sep 2024 09:00:00 +1000"
-    },
-    {
         "title": "Qantas strike",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Qantas%20strike",
         "pubdate": "Mon, 30 Sep 2024 10:00:00 +1000"
+    },
+    {
+        "title": "Blanch",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Blanch",
+        "pubdate": "Mon, 30 Sep 2024 12:00:00 +1000"
     },
     {
         "title": "Frances Bean Cobain",
@@ -75,28 +85,18 @@
         "pubdate": "Mon, 30 Sep 2024 01:00:00 +1000"
     },
     {
+        "title": "Jeff Flake",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jeff%20Flake",
+        "pubdate": "Mon, 30 Sep 2024 12:00:00 +1000"
+    },
+    {
         "title": "UFC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#UFC",
         "pubdate": "Sun, 29 Sep 2024 08:00:00 +1000"
     },
     {
-        "title": "NRLW",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#NRLW",
-        "pubdate": "Sun, 29 Sep 2024 18:00:00 +1000"
-    },
-    {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Arsenal",
-        "pubdate": "Sun, 29 Sep 2024 03:00:00 +1000"
-    },
-    {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Chelsea",
-        "pubdate": "Sun, 29 Sep 2024 23:00:00 +1000"
-    },
-    {
-        "title": "Australia Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Australia%20Cup",
-        "pubdate": "Sun, 29 Sep 2024 21:00:00 +1000"
+        "title": "Jack Thompson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jack%20Thompson",
+        "pubdate": "Sun, 29 Sep 2024 10:00:00 +1000"
     }
 ]

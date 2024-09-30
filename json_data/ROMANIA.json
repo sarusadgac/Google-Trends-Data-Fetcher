@@ -5,11 +5,6 @@
         "pubdate": "Mon, 30 Sep 2024 01:00:00 +0300"
     },
     {
-        "title": "Napoli  Monza",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Napoli%20%20Monza",
-        "pubdate": "Mon, 30 Sep 2024 01:00:00 +0300"
-    },
-    {
         "title": "Austria",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Austria",
         "pubdate": "Mon, 30 Sep 2024 00:00:00 +0300"
@@ -40,11 +35,6 @@
         "pubdate": "Sun, 29 Sep 2024 15:00:00 +0300"
     },
     {
-        "title": "Galati",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Galati",
-        "pubdate": "Sun, 29 Sep 2024 18:00:00 +0300"
-    },
-    {
         "title": "Ianis Hagi Rangers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ianis%20Hagi%20Rangers",
         "pubdate": "Sun, 29 Sep 2024 17:00:00 +0300"
@@ -60,6 +50,11 @@
         "pubdate": "Sun, 29 Sep 2024 11:00:00 +0300"
     },
     {
+        "title": "Galati",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Galati",
+        "pubdate": "Sun, 29 Sep 2024 19:00:00 +0300"
+    },
+    {
         "title": "Bayern",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Bayern",
         "pubdate": "Sun, 29 Sep 2024 19:00:00 +0300"
@@ -73,6 +68,11 @@
         "title": "Tom Cruise",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Tom%20Cruise",
         "pubdate": "Sun, 29 Sep 2024 21:00:00 +0300"
+    },
+    {
+        "title": "Dorinel Munteanu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Dorinel%20Munteanu",
+        "pubdate": "Sun, 29 Sep 2024 16:00:00 +0300"
     },
     {
         "title": "Nepal",

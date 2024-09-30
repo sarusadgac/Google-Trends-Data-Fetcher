@@ -5,11 +5,6 @@
         "pubdate": "Mon, 30 Sep 2024 01:00:00 +0200"
     },
     {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Real%20Madrid",
-        "pubdate": "Sun, 29 Sep 2024 21:00:00 +0200"
-    },
-    {
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Manchester%20United",
         "pubdate": "Sun, 29 Sep 2024 20:00:00 +0200"
@@ -28,6 +23,11 @@
         "title": "Bodø/Glimt mot KBK",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bod%C3%B8/Glimt%20mot%20KBK",
         "pubdate": "Sun, 29 Sep 2024 17:00:00 +0200"
+    },
+    {
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Real%20Madrid",
+        "pubdate": "Sun, 29 Sep 2024 22:00:00 +0200"
     },
     {
         "title": "Ipswich mot Aston Villa",
@@ -95,8 +95,8 @@
         "pubdate": "Sun, 29 Sep 2024 22:00:00 +0200"
     },
     {
-        "title": "Brann",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Brann",
-        "pubdate": "Sat, 28 Sep 2024 19:00:00 +0200"
+        "title": "FKH",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#FKH",
+        "pubdate": "Sun, 29 Sep 2024 02:00:00 +0200"
     }
 ]

@@ -1,5 +1,10 @@
 [
     {
+        "title": "Kris Kristofferson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Kris%20Kristofferson",
+        "pubdate": "Mon, 30 Sep 2024 04:00:00 +0200"
+    },
+    {
         "title": "John Ashton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#John%20Ashton",
         "pubdate": "Mon, 30 Sep 2024 00:00:00 +0200"
@@ -35,9 +40,19 @@
         "pubdate": "Sun, 29 Sep 2024 21:00:00 +0200"
     },
     {
+        "title": "Neos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Neos",
+        "pubdate": "Sun, 29 Sep 2024 11:00:00 +0200"
+    },
+    {
         "title": "Van der Bellen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Van%20der%20Bellen",
         "pubdate": "Sun, 29 Sep 2024 12:00:00 +0200"
+    },
+    {
+        "title": "Babler",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Babler",
+        "pubdate": "Sun, 29 Sep 2024 14:00:00 +0200"
     },
     {
         "title": "GAK – Austria Klagenfurt",
@@ -50,11 +65,6 @@
         "pubdate": "Sun, 29 Sep 2024 17:00:00 +0200"
     },
     {
-        "title": "NEOS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#NEOS",
-        "pubdate": "Sun, 29 Sep 2024 11:00:00 +0200"
-    },
-    {
         "title": "Bierpartei",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bierpartei",
         "pubdate": "Sun, 29 Sep 2024 13:00:00 +0200"
@@ -63,11 +73,6 @@
         "title": "Manunited – Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Manunited%20%E2%80%93%20Tottenham",
         "pubdate": "Sun, 29 Sep 2024 17:00:00 +0200"
-    },
-    {
-        "title": "Babler",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Babler",
-        "pubdate": "Sun, 29 Sep 2024 18:00:00 +0200"
     },
     {
         "title": "Marburg-Virus",
@@ -90,13 +95,8 @@
         "pubdate": "Sun, 29 Sep 2024 15:00:00 +0200"
     },
     {
-        "title": "Zib",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Zib",
+        "title": "Tatort Frankfurt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Tatort%20Frankfurt",
         "pubdate": "Sun, 29 Sep 2024 17:00:00 +0200"
-    },
-    {
-        "title": "Hoffenheim – Werder Bremen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Hoffenheim%20%E2%80%93%20Werder%20Bremen",
-        "pubdate": "Sun, 29 Sep 2024 18:00:00 +0200"
     }
 ]

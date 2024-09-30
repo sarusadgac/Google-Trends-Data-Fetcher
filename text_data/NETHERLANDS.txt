@@ -3,14 +3,12 @@ AZ
 De Graafschap  Vitesse
 Twente  NAC
 Cambuur
-PEC  Almere
 Vitesse
+PEC Zwolle
 Pogacar
-Miljoenenjacht
 Go Ahead Eagles
 Loting KNVB-beker
 KNVB Beker
-Mohamed Ihattaren
 Feyenoord
 PSV
 Wim Hof
@@ -18,3 +16,5 @@ WK wielrennen
 Telstar
 Nasrallah
 Storm
+Roda JC
+Ajax

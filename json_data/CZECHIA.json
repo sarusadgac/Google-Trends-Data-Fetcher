@@ -1,10 +1,5 @@
 [
     {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Real%20Madrid",
-        "pubdate": "Mon, 30 Sep 2024 01:00:00 +0200"
-    },
-    {
         "title": "John Ashton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#John%20Ashton",
         "pubdate": "Mon, 30 Sep 2024 00:00:00 +0200"
@@ -20,8 +15,8 @@
         "pubdate": "Sun, 29 Sep 2024 15:00:00 +0200"
     },
     {
-        "title": "Leo Brichta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Leo%20Brichta",
+        "title": "Sivak",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sivak",
         "pubdate": "Sun, 29 Sep 2024 01:00:00 +0200"
     },
     {
@@ -98,5 +93,10 @@
         "title": "Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Barcelona",
         "pubdate": "Sat, 28 Sep 2024 23:00:00 +0200"
+    },
+    {
+        "title": "Arsenal – Leicester",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Arsenal%20%E2%80%93%20Leicester",
+        "pubdate": "Sat, 28 Sep 2024 17:00:00 +0200"
     }
 ]

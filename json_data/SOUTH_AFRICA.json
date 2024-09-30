@@ -40,11 +40,6 @@
         "pubdate": "Sun, 29 Sep 2024 22:00:00 +0200"
     },
     {
-        "title": "Bayern Munich",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bayern%20Munich",
-        "pubdate": "Sun, 29 Sep 2024 18:00:00 +0200"
-    },
-    {
         "title": "Drake Hogestyn",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Drake%20Hogestyn",
         "pubdate": "Sun, 29 Sep 2024 12:00:00 +0200"
@@ -90,13 +85,18 @@
         "pubdate": "Sun, 29 Sep 2024 15:00:00 +0200"
     },
     {
-        "title": "Itumeleng Bokaba",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Itumeleng%20Bokaba",
-        "pubdate": "Sun, 29 Sep 2024 16:00:00 +0200"
+        "title": "Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bayern",
+        "pubdate": "Sun, 29 Sep 2024 18:00:00 +0200"
     },
     {
         "title": "Girona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Girona",
         "pubdate": "Sun, 29 Sep 2024 21:00:00 +0200"
+    },
+    {
+        "title": "Lusikisiki mass shooting",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Lusikisiki%20mass%20shooting",
+        "pubdate": "Sun, 29 Sep 2024 16:00:00 +0200"
     }
 ]
