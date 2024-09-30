@@ -5,6 +5,11 @@
         "pubdate": "Mon, 30 Sep 2024 01:00:00 -0300"
     },
     {
+        "title": "Latam",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Latam",
+        "pubdate": "Mon, 30 Sep 2024 02:00:00 -0300"
+    },
+    {
         "title": "PUMA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#PUMA",
         "pubdate": "Mon, 30 Sep 2024 01:00:00 -0300"
@@ -15,14 +20,14 @@
         "pubdate": "Mon, 30 Sep 2024 01:00:00 -0300"
     },
     {
-        "title": "H&M",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#H%26M",
-        "pubdate": "Mon, 30 Sep 2024 07:00:00 -0300"
-    },
-    {
         "title": "VANS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#VANS",
         "pubdate": "Mon, 30 Sep 2024 01:00:00 -0300"
+    },
+    {
+        "title": "H&M",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#H%26M",
+        "pubdate": "Mon, 30 Sep 2024 07:00:00 -0300"
     },
     {
         "title": "The line",
@@ -43,6 +48,11 @@
         "title": "Levi's",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Levi's",
         "pubdate": "Mon, 30 Sep 2024 00:00:00 -0300"
+    },
+    {
+        "title": "Corona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Corona",
+        "pubdate": "Mon, 30 Sep 2024 01:00:00 -0300"
     },
     {
         "title": "Maicao",
@@ -87,16 +97,6 @@
     {
         "title": "DC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#DC",
-        "pubdate": "Mon, 30 Sep 2024 01:00:00 -0300"
-    },
-    {
-        "title": "Perfumes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Perfumes",
-        "pubdate": "Mon, 30 Sep 2024 00:00:00 -0300"
-    },
-    {
-        "title": "Sony",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Sony",
         "pubdate": "Mon, 30 Sep 2024 01:00:00 -0300"
     }
 ]
