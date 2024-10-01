@@ -1,7 +1,17 @@
 [
     {
         "title": "Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Champions%20League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Champions%20League",
+        "pubdate": "Tue, 01 Oct 2024 01:00:00 +0100"
+    },
+    {
+        "title": "台風気象情報、台風第17号",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%8F%B0%E9%A2%A8%E6%B0%97%E8%B1%A1%E6%83%85%E5%A0%B1%E3%80%81%E5%8F%B0%E9%A2%A8%E7%AC%AC17%E5%8F%B7",
+        "pubdate": "Tue, 01 Oct 2024 11:00:00 +0900"
+    },
+    {
+        "title": "Champions-League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Champions-League",
         "pubdate": "Tue, 01 Oct 2024 09:00:00 +0200"
     },
     {
@@ -10,19 +20,9 @@
         "pubdate": "Tue, 01 Oct 2024 16:00:00 +0800"
     },
     {
-        "title": "Thelwall Viaduct",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Thelwall%20Viaduct",
-        "pubdate": "Tue, 01 Oct 2024 00:00:00 +0100"
-    },
-    {
-        "title": "Xavier Niel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Xavier%20Niel",
-        "pubdate": "Tue, 01 Oct 2024 10:00:00 +0200"
-    },
-    {
-        "title": "台風気象情報、台風第17号",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%8F%B0%E9%A2%A8%E6%B0%97%E8%B1%A1%E6%83%85%E5%A0%B1%E3%80%81%E5%8F%B0%E9%A2%A8%E7%AC%AC17%E5%8F%B7",
-        "pubdate": "Tue, 01 Oct 2024 11:00:00 +0900"
+        "title": "Verizon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Verizon",
+        "pubdate": "Mon, 30 Sep 2024 09:00:00 -0700"
     },
     {
         "title": "Govinda",
@@ -35,49 +35,24 @@
         "pubdate": "Tue, 01 Oct 2024 00:00:00 +0300"
     },
     {
-        "title": "Verizon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Verizon",
-        "pubdate": "Mon, 30 Sep 2024 09:00:00 -0700"
+        "title": "Xavier Niel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Xavier%20Niel",
+        "pubdate": "Tue, 01 Oct 2024 10:00:00 +0200"
     },
     {
-        "title": "Rae Lil Black",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Rae%20Lil%20Black",
+        "title": "Bournemouth vs Southampton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Bournemouth%20vs%20Southampton",
         "pubdate": "Tue, 01 Oct 2024 03:00:00 +0800"
     },
     {
-        "title": "Michael Schumacher",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Michael%20Schumacher",
-        "pubdate": "Tue, 01 Oct 2024 01:00:00 +0100"
-    },
-    {
-        "title": "Al-Nassr đấu với Al Rayyan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Al-Nassr%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Al%20Rayyan",
-        "pubdate": "Tue, 01 Oct 2024 01:00:00 +0700"
-    },
-    {
-        "title": "Que se celebra El 1 de octubre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Que%20se%20celebra%20El%201%20de%20octubre",
+        "title": "Que se celebra el 1 de octubre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Que%20se%20celebra%20el%201%20de%20octubre",
         "pubdate": "Tue, 01 Oct 2024 00:00:00 -0500"
     },
     {
-        "title": "Al Nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Al%20Nassr",
-        "pubdate": "Tue, 01 Oct 2024 01:00:00 +0300"
-    },
-    {
-        "title": "Ligue des champions",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ligue%20des%20champions",
-        "pubdate": "Tue, 01 Oct 2024 01:00:00 +0200"
-    },
-    {
-        "title": "October",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#October",
-        "pubdate": "Tue, 01 Oct 2024 07:00:00 +0200"
-    },
-    {
-        "title": "조커: 폴리 아 되",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%A1%B0%EC%BB%A4:%20%ED%8F%B4%EB%A6%AC%20%EC%95%84%20%EB%90%98",
-        "pubdate": "Tue, 01 Oct 2024 13:00:00 +0900"
+        "title": "Бейрут",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=UA#%D0%91%D0%B5%D0%B9%D1%80%D1%83%D1%82",
+        "pubdate": "Tue, 01 Oct 2024 02:00:00 +0300"
     },
     {
         "title": "Files",
@@ -85,18 +60,43 @@
         "pubdate": "Tue, 01 Oct 2024 09:00:00 +0200"
     },
     {
-        "title": "Kubrá Aykut",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Kubr%C3%A1%20Aykut",
-        "pubdate": "Tue, 01 Oct 2024 01:00:00 +0200"
+        "title": "Liban",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Liban",
+        "pubdate": "Tue, 01 Oct 2024 08:00:00 +0200"
     },
     {
-        "title": "Dikembe Mutombo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Dikembe%20Mutombo",
-        "pubdate": "Tue, 01 Oct 2024 00:00:00 +0800"
+        "title": "صفاء احمد",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#%D8%B5%D9%81%D8%A7%D8%A1%20%D8%A7%D8%AD%D9%85%D8%AF",
+        "pubdate": "Tue, 01 Oct 2024 05:00:00 +0300"
     },
     {
-        "title": "Rebel Wilson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rebel%20Wilson",
-        "pubdate": "Tue, 01 Oct 2024 07:00:00 +0200"
+        "title": "אוגדה 98",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%90%D7%95%D7%92%D7%93%D7%94%2098",
+        "pubdate": "Tue, 01 Oct 2024 00:00:00 +0300"
+    },
+    {
+        "title": "Michael Schumacher",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Michael%20Schumacher",
+        "pubdate": "Tue, 01 Oct 2024 01:00:00 +0100"
+    },
+    {
+        "title": "UEFA Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#UEFA%20Champions%20League",
+        "pubdate": "Tue, 01 Oct 2024 00:00:00 -0600"
+    },
+    {
+        "title": "PlayStation Network Status",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#PlayStation%20Network%20Status",
+        "pubdate": "Tue, 01 Oct 2024 13:00:00 +1000"
+    },
+    {
+        "title": "รถบัสไฟไหม้",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TH#%E0%B8%A3%E0%B8%96%E0%B8%9A%E0%B8%B1%E0%B8%AA%E0%B9%84%E0%B8%9F%E0%B9%84%E0%B8%AB%E0%B8%A1%E0%B9%89",
+        "pubdate": "Tue, 01 Oct 2024 14:00:00 +0700"
+    },
+    {
+        "title": "UCL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#UCL",
+        "pubdate": "Tue, 01 Oct 2024 08:00:00 +0200"
     }
 ]
