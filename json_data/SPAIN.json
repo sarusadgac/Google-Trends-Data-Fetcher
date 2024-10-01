@@ -7,7 +7,7 @@
     {
         "title": "Israel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Israel",
-        "pubdate": "Tue, 01 Oct 2024 00:00:00 +0200"
+        "pubdate": "Tue, 01 Oct 2024 19:00:00 +0200"
     },
     {
         "title": "Jimmy Carter",
@@ -20,6 +20,11 @@
         "pubdate": "Tue, 01 Oct 2024 06:00:00 +0200"
     },
     {
+        "title": "Iran",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Iran",
+        "pubdate": "Tue, 01 Oct 2024 18:00:00 +0200"
+    },
+    {
         "title": "Iniesta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Iniesta",
         "pubdate": "Tue, 01 Oct 2024 13:00:00 +0200"
@@ -30,19 +35,9 @@
         "pubdate": "Tue, 01 Oct 2024 14:00:00 +0200"
     },
     {
-        "title": "Iran",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Iran",
-        "pubdate": "Tue, 01 Oct 2024 18:00:00 +0200"
-    },
-    {
         "title": "Throne and Liberty",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Throne%20and%20Liberty",
         "pubdate": "Tue, 01 Oct 2024 18:00:00 +0200"
-    },
-    {
-        "title": "Champions hoy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Champions%20hoy",
-        "pubdate": "Tue, 01 Oct 2024 14:00:00 +0200"
     },
     {
         "title": "Pitingo",
@@ -55,6 +50,11 @@
         "pubdate": "Tue, 01 Oct 2024 12:00:00 +0200"
     },
     {
+        "title": "Ortega Cano",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ortega%20Cano",
+        "pubdate": "Tue, 01 Oct 2024 19:00:00 +0200"
+    },
+    {
         "title": "Kubrá Aykut",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Kubr%C3%A1%20Aykut",
         "pubdate": "Tue, 01 Oct 2024 01:00:00 +0200"
@@ -62,6 +62,16 @@
     {
         "title": "Sin rodeos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Sin%20rodeos",
+        "pubdate": "Tue, 01 Oct 2024 00:00:00 +0200"
+    },
+    {
+        "title": "CNN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#CNN",
+        "pubdate": "Tue, 01 Oct 2024 20:00:00 +0200"
+    },
+    {
+        "title": "Beirut",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Beirut",
         "pubdate": "Tue, 01 Oct 2024 00:00:00 +0200"
     },
     {
@@ -75,6 +85,11 @@
         "pubdate": "Tue, 01 Oct 2024 17:00:00 +0200"
     },
     {
+        "title": "Al Nassr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Al%20Nassr",
+        "pubdate": "Tue, 01 Oct 2024 15:00:00 +0200"
+    },
+    {
         "title": "Octubre",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Octubre",
         "pubdate": "Tue, 01 Oct 2024 11:00:00 +0200"
@@ -83,20 +98,5 @@
         "title": "Bournemouth  Southampton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Bournemouth%20%20Southampton",
         "pubdate": "Tue, 01 Oct 2024 00:00:00 +0200"
-    },
-    {
-        "title": "Januzaj",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Januzaj",
-        "pubdate": "Tue, 01 Oct 2024 09:00:00 +0200"
-    },
-    {
-        "title": "Marc Clotet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Marc%20Clotet",
-        "pubdate": "Tue, 01 Oct 2024 02:00:00 +0200"
-    },
-    {
-        "title": "Peaky Blinders",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Peaky%20Blinders",
-        "pubdate": "Tue, 01 Oct 2024 11:00:00 +0200"
     }
 ]
