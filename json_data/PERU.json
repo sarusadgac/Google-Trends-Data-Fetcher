@@ -1,18 +1,13 @@
 [
     {
-        "title": "Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Champions%20League",
+        "title": "Champions",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Champions",
         "pubdate": "Tue, 01 Oct 2024 09:00:00 -0500"
     },
     {
         "title": "1 de octubre",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#1%20de%20octubre",
         "pubdate": "Tue, 01 Oct 2024 07:00:00 -0500"
-    },
-    {
-        "title": "Octubre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Octubre",
-        "pubdate": "Tue, 01 Oct 2024 08:00:00 -0500"
     },
     {
         "title": "PlayStation Network",
@@ -50,19 +45,9 @@
         "pubdate": "Mon, 30 Sep 2024 00:00:00 -0500"
     },
     {
-        "title": "Feriados octubre 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Feriados%20octubre%202024",
-        "pubdate": "Mon, 30 Sep 2024 09:00:00 -0500"
-    },
-    {
         "title": "Racing",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Racing",
         "pubdate": "Mon, 30 Sep 2024 19:00:00 -0500"
-    },
-    {
-        "title": "Peru vs Uruguay",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Peru%20vs%20Uruguay",
-        "pubdate": "Mon, 30 Sep 2024 10:00:00 -0500"
     },
     {
         "title": "Paro 3 de octubre",
@@ -80,6 +65,16 @@
         "pubdate": "Mon, 30 Sep 2024 19:00:00 -0500"
     },
     {
+        "title": "Feriados octubre 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Feriados%20octubre%202024",
+        "pubdate": "Mon, 30 Sep 2024 09:00:00 -0500"
+    },
+    {
+        "title": "Feriados octubre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Feriados%20octubre",
+        "pubdate": "Mon, 30 Sep 2024 10:00:00 -0500"
+    },
+    {
         "title": "Bournemouth  Southampton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bournemouth%20%20Southampton",
         "pubdate": "Mon, 30 Sep 2024 15:00:00 -0500"
@@ -95,8 +90,13 @@
         "pubdate": "Mon, 30 Sep 2024 04:00:00 -0500"
     },
     {
-        "title": "30 de septiembre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#30%20de%20septiembre",
-        "pubdate": "Mon, 30 Sep 2024 00:00:00 -0500"
+        "title": "Señor de los Milagros",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Se%C3%B1or%20de%20los%20Milagros",
+        "pubdate": "Mon, 30 Sep 2024 13:00:00 -0500"
+    },
+    {
+        "title": "Calcaterra",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Calcaterra",
+        "pubdate": "Mon, 30 Sep 2024 12:00:00 -0500"
     }
 ]

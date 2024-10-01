@@ -60,9 +60,9 @@
         "pubdate": "Tue, 01 Oct 2024 09:00:00 +0200"
     },
     {
-        "title": "Octubre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Octubre",
-        "pubdate": "Tue, 01 Oct 2024 11:00:00 +0200"
+        "title": "Bruce Springsteen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Bruce%20Springsteen",
+        "pubdate": "Tue, 01 Oct 2024 17:00:00 +0200"
     },
     {
         "title": "Bournemouth  Southampton",
@@ -73,11 +73,6 @@
         "title": "Januzaj",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Januzaj",
         "pubdate": "Tue, 01 Oct 2024 09:00:00 +0200"
-    },
-    {
-        "title": "Marc Clotet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Marc%20Clotet",
-        "pubdate": "Tue, 01 Oct 2024 02:00:00 +0200"
     },
     {
         "title": "Monica Bellucci",
@@ -98,5 +93,10 @@
         "title": "Champions League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Champions%20League",
         "pubdate": "Mon, 30 Sep 2024 19:00:00 +0200"
+    },
+    {
+        "title": "Unicaja",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Unicaja",
+        "pubdate": "Mon, 30 Sep 2024 14:00:00 +0200"
     }
 ]
