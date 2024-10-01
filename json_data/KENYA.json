@@ -5,6 +5,11 @@
         "pubdate": "Tue, 01 Oct 2024 03:00:00 +0300"
     },
     {
+        "title": "Citizen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Citizen",
+        "pubdate": "Tue, 01 Oct 2024 16:00:00 +0300"
+    },
+    {
         "title": "Careers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Careers",
         "pubdate": "Tue, 01 Oct 2024 12:00:00 +0300"
@@ -15,23 +20,18 @@
         "pubdate": "Tue, 01 Oct 2024 10:00:00 +0300"
     },
     {
-        "title": "Villarreal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Villarreal",
-        "pubdate": "Tue, 01 Oct 2024 00:00:00 +0300"
-    },
-    {
         "title": "Samuel Eto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Samuel%20Eto",
         "pubdate": "Tue, 01 Oct 2024 11:00:00 +0300"
     },
     {
-        "title": "Uefa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Uefa",
-        "pubdate": "Tue, 01 Oct 2024 11:00:00 +0300"
+        "title": "Villarreal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Villarreal",
+        "pubdate": "Tue, 01 Oct 2024 00:00:00 +0300"
     },
     {
-        "title": "The star newspaper",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#The%20star%20newspaper",
+        "title": "Uefa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Uefa",
         "pubdate": "Tue, 01 Oct 2024 11:00:00 +0300"
     },
     {
@@ -70,9 +70,9 @@
         "pubdate": "Mon, 30 Sep 2024 21:00:00 +0300"
     },
     {
-        "title": "Dikembe Mutombo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Dikembe%20Mutombo",
-        "pubdate": "Mon, 30 Sep 2024 20:00:00 +0300"
+        "title": "UEFA Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#UEFA%20Champions%20League",
+        "pubdate": "Mon, 30 Sep 2024 18:00:00 +0300"
     },
     {
         "title": "Arsenal vs PSG",
@@ -80,9 +80,9 @@
         "pubdate": "Mon, 30 Sep 2024 16:00:00 +0300"
     },
     {
-        "title": "UEFA Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#UEFA%20Champions%20League",
-        "pubdate": "Mon, 30 Sep 2024 23:00:00 +0300"
+        "title": "Dikembe Mutombo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Dikembe%20Mutombo",
+        "pubdate": "Mon, 30 Sep 2024 20:00:00 +0300"
     },
     {
         "title": "Waititu",
@@ -95,8 +95,8 @@
         "pubdate": "Mon, 30 Sep 2024 01:00:00 +0300"
     },
     {
-        "title": "UCL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#UCL",
-        "pubdate": "Mon, 30 Sep 2024 18:00:00 +0300"
+        "title": "Wayne Rooney",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Wayne%20Rooney",
+        "pubdate": "Mon, 30 Sep 2024 16:00:00 +0300"
     }
 ]

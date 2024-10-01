@@ -15,6 +15,11 @@
         "pubdate": "Tue, 01 Oct 2024 13:00:00 +0300"
     },
     {
+        "title": "William",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#William",
+        "pubdate": "Tue, 01 Oct 2024 16:00:00 +0300"
+    },
+    {
         "title": "Willie Nelson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Willie%20Nelson",
         "pubdate": "Tue, 01 Oct 2024 01:00:00 +0300"
@@ -55,6 +60,11 @@
         "pubdate": "Mon, 30 Sep 2024 23:00:00 +0300"
     },
     {
+        "title": "Harry Kane",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Harry%20Kane",
+        "pubdate": "Mon, 30 Sep 2024 22:00:00 +0300"
+    },
+    {
         "title": "Patrik Laine",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Patrik%20Laine",
         "pubdate": "Sun, 29 Sep 2024 09:00:00 +0300"
@@ -88,15 +98,5 @@
         "title": "Gravity",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Gravity",
         "pubdate": "Sun, 29 Sep 2024 23:00:00 +0300"
-    },
-    {
-        "title": "Shrek",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Shrek",
-        "pubdate": "Sun, 29 Sep 2024 21:00:00 +0300"
-    },
-    {
-        "title": "Estonia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Estonia",
-        "pubdate": "Sat, 28 Sep 2024 10:00:00 +0300"
     }
 ]
