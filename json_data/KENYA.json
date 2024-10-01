@@ -20,16 +20,6 @@
         "pubdate": "Mon, 30 Sep 2024 11:00:00 +0300"
     },
     {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Real%20Madrid",
-        "pubdate": "Mon, 30 Sep 2024 01:00:00 +0300"
-    },
-    {
-        "title": "SHIF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#SHIF",
-        "pubdate": "Mon, 30 Sep 2024 13:00:00 +0300"
-    },
-    {
         "title": "Gachagua impeachment",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Gachagua%20impeachment",
         "pubdate": "Mon, 30 Sep 2024 16:00:00 +0300"
@@ -65,6 +55,11 @@
         "pubdate": "Mon, 30 Sep 2024 19:00:00 +0300"
     },
     {
+        "title": "Napoli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Napoli",
+        "pubdate": "Mon, 30 Sep 2024 00:00:00 +0300"
+    },
+    {
         "title": "Kylian Mbappé",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Kylian%20Mbapp%C3%A9",
         "pubdate": "Mon, 30 Sep 2024 17:00:00 +0300"
@@ -88,6 +83,11 @@
         "title": "Wayne Rooney",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Wayne%20Rooney",
         "pubdate": "Mon, 30 Sep 2024 16:00:00 +0300"
+    },
+    {
+        "title": "Realmadrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Realmadrid",
+        "pubdate": "Mon, 30 Sep 2024 07:00:00 +0300"
     },
     {
         "title": "Kris Kristofferson",

@@ -1,5 +1,15 @@
 [
     {
+        "title": "Kubrá Aykut",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Kubr%C3%A1%20Aykut",
+        "pubdate": "Tue, 01 Oct 2024 01:00:00 +0200"
+    },
+    {
+        "title": "Pitingo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Pitingo",
+        "pubdate": "Tue, 01 Oct 2024 00:00:00 +0200"
+    },
+    {
         "title": "Beirut",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Beirut",
         "pubdate": "Tue, 01 Oct 2024 00:00:00 +0200"
@@ -45,14 +55,9 @@
         "pubdate": "Mon, 30 Sep 2024 12:00:00 +0200"
     },
     {
-        "title": "Racing de Santander - Cartagena",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Racing%20de%20Santander%20-%20Cartagena",
+        "title": "Racing de Santander  Cartagena",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Racing%20de%20Santander%20%20Cartagena",
         "pubdate": "Mon, 30 Sep 2024 21:00:00 +0200"
-    },
-    {
-        "title": "Ethan Suplee",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ethan%20Suplee",
-        "pubdate": "Mon, 30 Sep 2024 09:00:00 +0200"
     },
     {
         "title": "Dikembe Mutombo",
@@ -60,13 +65,18 @@
         "pubdate": "Mon, 30 Sep 2024 18:00:00 +0200"
     },
     {
+        "title": "Ethan Suplee",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ethan%20Suplee",
+        "pubdate": "Mon, 30 Sep 2024 09:00:00 +0200"
+    },
+    {
         "title": "Andres Velencoso",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Andres%20Velencoso",
         "pubdate": "Mon, 30 Sep 2024 23:00:00 +0200"
     },
     {
-        "title": "MADRID",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#MADRID",
+        "title": "Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Madrid",
         "pubdate": "Mon, 30 Sep 2024 00:00:00 +0200"
     },
     {
@@ -80,23 +90,13 @@
         "pubdate": "Mon, 30 Sep 2024 09:00:00 +0200"
     },
     {
-        "title": "Banc Sabadell",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Banc%20Sabadell",
-        "pubdate": "Mon, 30 Sep 2024 22:00:00 +0200"
-    },
-    {
         "title": "Juan del Val",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Juan%20del%20Val",
         "pubdate": "Mon, 30 Sep 2024 23:00:00 +0200"
     },
     {
-        "title": "Griezmann",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Griezmann",
-        "pubdate": "Mon, 30 Sep 2024 12:00:00 +0200"
-    },
-    {
-        "title": "Sindicato de Estudiantes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Sindicato%20de%20Estudiantes",
-        "pubdate": "Mon, 30 Sep 2024 02:00:00 +0200"
+        "title": "Banc Sabadell",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Banc%20Sabadell",
+        "pubdate": "Mon, 30 Sep 2024 22:00:00 +0200"
     }
 ]
