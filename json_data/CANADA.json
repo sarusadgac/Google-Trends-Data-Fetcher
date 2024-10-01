@@ -5,6 +5,11 @@
         "pubdate": "Mon, 30 Sep 2024 12:00:00 -0400"
     },
     {
+        "title": "Pete Rose",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Pete%20Rose",
+        "pubdate": "Mon, 30 Sep 2024 20:00:00 -0400"
+    },
+    {
         "title": "Oasis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Oasis",
         "pubdate": "Mon, 30 Sep 2024 09:00:00 -0400"
@@ -20,6 +25,11 @@
         "pubdate": "Mon, 30 Sep 2024 18:00:00 -0400"
     },
     {
+        "title": "Every Child Matters",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Every%20Child%20Matters",
+        "pubdate": "Mon, 30 Sep 2024 07:00:00 -0400"
+    },
+    {
         "title": "Tim Walz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Tim%20Walz",
         "pubdate": "Mon, 30 Sep 2024 11:00:00 -0400"
@@ -30,9 +40,19 @@
         "pubdate": "Mon, 30 Sep 2024 07:00:00 -0400"
     },
     {
+        "title": "Jeremy Swayman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jeremy%20Swayman",
+        "pubdate": "Mon, 30 Sep 2024 15:00:00 -0400"
+    },
+    {
         "title": "The Simpsons",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#The%20Simpsons",
         "pubdate": "Mon, 30 Sep 2024 14:00:00 -0400"
+    },
+    {
+        "title": "Wallace",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Wallace",
+        "pubdate": "Mon, 30 Sep 2024 10:00:00 -0400"
     },
     {
         "title": "Ravens",
@@ -40,9 +60,14 @@
         "pubdate": "Mon, 30 Sep 2024 19:00:00 -0400"
     },
     {
-        "title": "Wallace",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Wallace",
-        "pubdate": "Mon, 30 Sep 2024 10:00:00 -0400"
+        "title": "Mets vs Braves",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Mets%20vs%20Braves",
+        "pubdate": "Mon, 30 Sep 2024 19:00:00 -0400"
+    },
+    {
+        "title": "Residential schools",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Residential%20schools",
+        "pubdate": "Mon, 30 Sep 2024 12:00:00 -0400"
     },
     {
         "title": "Marburg virus outbreak",
@@ -55,24 +80,14 @@
         "pubdate": "Mon, 30 Sep 2024 17:00:00 -0400"
     },
     {
-        "title": "Nio stock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Nio%20stock",
-        "pubdate": "Mon, 30 Sep 2024 12:00:00 -0400"
-    },
-    {
         "title": "Mets",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Mets",
         "pubdate": "Mon, 30 Sep 2024 17:00:00 -0400"
     },
     {
-        "title": "Indigenous",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Indigenous",
-        "pubdate": "Mon, 30 Sep 2024 13:00:00 -0400"
-    },
-    {
-        "title": "Jeremy Swayman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jeremy%20Swayman",
-        "pubdate": "Mon, 30 Sep 2024 15:00:00 -0400"
+        "title": "Nio stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Nio%20stock",
+        "pubdate": "Mon, 30 Sep 2024 12:00:00 -0400"
     },
     {
         "title": "Billie Eilish Toronto",
@@ -80,23 +95,8 @@
         "pubdate": "Mon, 30 Sep 2024 14:00:00 -0400"
     },
     {
-        "title": "AJ Griffin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#AJ%20Griffin",
-        "pubdate": "Mon, 30 Sep 2024 03:00:00 -0400"
-    },
-    {
-        "title": "Lamar Jackson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lamar%20Jackson",
-        "pubdate": "Mon, 30 Sep 2024 00:00:00 -0400"
-    },
-    {
-        "title": "Rebel Wilson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Rebel%20Wilson",
+        "title": "Indigenous",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Indigenous",
         "pubdate": "Mon, 30 Sep 2024 13:00:00 -0400"
-    },
-    {
-        "title": "Rosh Hashanah",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Rosh%20Hashanah",
-        "pubdate": "Mon, 30 Sep 2024 15:00:00 -0400"
     }
 ]

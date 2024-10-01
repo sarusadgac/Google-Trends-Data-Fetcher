@@ -35,11 +35,6 @@
         "pubdate": "Mon, 30 Sep 2024 20:00:00 +0300"
     },
     {
-        "title": "Arsenal vs PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Arsenal%20vs%20PSG",
-        "pubdate": "Mon, 30 Sep 2024 16:00:00 +0300"
-    },
-    {
         "title": "UEFA Champions League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#UEFA%20Champions%20League",
         "pubdate": "Mon, 30 Sep 2024 23:00:00 +0300"
@@ -48,6 +43,11 @@
         "title": "Real madrid FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Real%20madrid%20FC",
         "pubdate": "Mon, 30 Sep 2024 01:00:00 +0300"
+    },
+    {
+        "title": "Arsenal vs PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Arsenal%20vs%20PSG",
+        "pubdate": "Mon, 30 Sep 2024 16:00:00 +0300"
     },
     {
         "title": "Waititu",
@@ -60,8 +60,8 @@
         "pubdate": "Mon, 30 Sep 2024 00:00:00 +0300"
     },
     {
-        "title": "Kylian Mbappé",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Kylian%20Mbapp%C3%A9",
+        "title": "Kylian mbappé",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Kylian%20mbapp%C3%A9",
         "pubdate": "Mon, 30 Sep 2024 17:00:00 +0300"
     },
     {
@@ -85,11 +85,6 @@
         "pubdate": "Mon, 30 Sep 2024 16:00:00 +0300"
     },
     {
-        "title": "Realmadrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Realmadrid",
-        "pubdate": "Mon, 30 Sep 2024 07:00:00 +0300"
-    },
-    {
         "title": "Kris Kristofferson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Kris%20Kristofferson",
         "pubdate": "Mon, 30 Sep 2024 22:00:00 +0300"
@@ -97,6 +92,11 @@
     {
         "title": "Mombasa Governor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Mombasa%20Governor",
+        "pubdate": "Mon, 30 Sep 2024 23:00:00 +0300"
+    },
+    {
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#PSG",
         "pubdate": "Mon, 30 Sep 2024 23:00:00 +0300"
     }
 ]

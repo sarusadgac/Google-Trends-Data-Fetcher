@@ -20,6 +20,16 @@
         "pubdate": "Tue, 01 Oct 2024 00:00:00 +0200"
     },
     {
+        "title": "Monica Bellucci",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Monica%20Bellucci",
+        "pubdate": "Tue, 01 Oct 2024 02:00:00 +0200"
+    },
+    {
+        "title": "Marc Clotet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Marc%20Clotet",
+        "pubdate": "Tue, 01 Oct 2024 02:00:00 +0200"
+    },
+    {
         "title": "Unicaja",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Unicaja",
         "pubdate": "Mon, 30 Sep 2024 14:00:00 +0200"
@@ -43,6 +53,11 @@
         "title": "Natalia Sánchez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Natalia%20S%C3%A1nchez",
         "pubdate": "Mon, 30 Sep 2024 23:00:00 +0200"
+    },
+    {
+        "title": "Atletico",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Atletico",
+        "pubdate": "Mon, 30 Sep 2024 15:00:00 +0200"
     },
     {
         "title": "Champions",
@@ -83,20 +98,5 @@
         "title": "Enguera muere mujer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Enguera%20muere%20mujer",
         "pubdate": "Mon, 30 Sep 2024 16:00:00 +0200"
-    },
-    {
-        "title": "Rey Balduino de Bélgica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Rey%20Balduino%20de%20B%C3%A9lgica",
-        "pubdate": "Mon, 30 Sep 2024 09:00:00 +0200"
-    },
-    {
-        "title": "Juan del Val",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Juan%20del%20Val",
-        "pubdate": "Mon, 30 Sep 2024 23:00:00 +0200"
-    },
-    {
-        "title": "Banc Sabadell",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Banc%20Sabadell",
-        "pubdate": "Mon, 30 Sep 2024 22:00:00 +0200"
     }
 ]

@@ -15,11 +15,6 @@
         "pubdate": "Mon, 30 Sep 2024 11:00:00 +0200"
     },
     {
-        "title": "Tons of Rock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tons%20of%20Rock",
-        "pubdate": "Mon, 30 Sep 2024 11:00:00 +0200"
-    },
-    {
         "title": "Volvo XC40",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Volvo%20XC40",
         "pubdate": "Mon, 30 Sep 2024 12:00:00 +0200"
@@ -35,14 +30,14 @@
         "pubdate": "Mon, 30 Sep 2024 17:00:00 +0200"
     },
     {
+        "title": "Green Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Green%20Day",
+        "pubdate": "Mon, 30 Sep 2024 12:00:00 +0200"
+    },
+    {
         "title": "Dikembe Mutombo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Dikembe%20Mutombo",
         "pubdate": "Mon, 30 Sep 2024 20:00:00 +0200"
-    },
-    {
-        "title": "Erik ten Hag",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Erik%20ten%20Hag",
-        "pubdate": "Mon, 30 Sep 2024 11:00:00 +0200"
     },
     {
         "title": "Jens Petter Hauge",
@@ -70,16 +65,6 @@
         "pubdate": "Sun, 29 Sep 2024 14:00:00 +0200"
     },
     {
-        "title": "Bodø/Glimt mot KBK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bod%C3%B8/Glimt%20mot%20KBK",
-        "pubdate": "Sun, 29 Sep 2024 17:00:00 +0200"
-    },
-    {
-        "title": "Ipswich mot Aston Villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ipswich%20mot%20Aston%20Villa",
-        "pubdate": "Sun, 29 Sep 2024 15:00:00 +0200"
-    },
-    {
         "title": "LSK",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#LSK",
         "pubdate": "Sun, 29 Sep 2024 23:00:00 +0200"
@@ -98,5 +83,20 @@
         "title": "Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tottenham",
         "pubdate": "Sun, 29 Sep 2024 19:00:00 +0200"
+    },
+    {
+        "title": "Odd mot KFUM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Odd%20mot%20KFUM",
+        "pubdate": "Sun, 29 Sep 2024 18:00:00 +0200"
+    },
+    {
+        "title": "Nina Agdal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nina%20Agdal",
+        "pubdate": "Sun, 29 Sep 2024 21:00:00 +0200"
+    },
+    {
+        "title": "Rebel Wilson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Rebel%20Wilson",
+        "pubdate": "Sun, 29 Sep 2024 15:00:00 +0200"
     }
 ]
