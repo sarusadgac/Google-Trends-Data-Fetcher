@@ -1,5 +1,10 @@
 [
     {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Barcelona",
+        "pubdate": "Tue, 01 Oct 2024 11:00:00 -0500"
+    },
+    {
         "title": "Champions",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Champions",
         "pubdate": "Tue, 01 Oct 2024 10:00:00 -0500"
@@ -10,14 +15,9 @@
         "pubdate": "Tue, 01 Oct 2024 08:00:00 -0500"
     },
     {
-        "title": "Champions hoy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Champions%20hoy",
-        "pubdate": "Tue, 01 Oct 2024 11:00:00 -0500"
-    },
-    {
-        "title": "Al Nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Al%20Nassr",
-        "pubdate": "Tue, 01 Oct 2024 13:00:00 -0500"
+        "title": "Leverkusen - Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Leverkusen%20-%20Milan",
+        "pubdate": "Tue, 01 Oct 2024 14:00:00 -0500"
     },
     {
         "title": "Slovan Bratislava - Manchester City",
@@ -25,8 +25,28 @@
         "pubdate": "Tue, 01 Oct 2024 14:00:00 -0500"
     },
     {
+        "title": "Al Nassr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Al%20Nassr",
+        "pubdate": "Tue, 01 Oct 2024 13:00:00 -0500"
+    },
+    {
+        "title": "Dortmund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Dortmund",
+        "pubdate": "Tue, 01 Oct 2024 13:00:00 -0500"
+    },
+    {
+        "title": "Inter  Estrella Roja",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Inter%20%20Estrella%20Roja",
+        "pubdate": "Tue, 01 Oct 2024 15:00:00 -0500"
+    },
+    {
         "title": "Israel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Israel",
+        "pubdate": "Tue, 01 Oct 2024 13:00:00 -0500"
+    },
+    {
+        "title": "Stuttgart - Sparta praha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Stuttgart%20-%20Sparta%20praha",
         "pubdate": "Tue, 01 Oct 2024 13:00:00 -0500"
     },
     {
@@ -35,14 +55,9 @@
         "pubdate": "Tue, 01 Oct 2024 11:00:00 -0500"
     },
     {
-        "title": "Stuttgart - Sparta praha",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Stuttgart%20-%20Sparta%20praha",
+        "title": "PSV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#PSV",
         "pubdate": "Tue, 01 Oct 2024 13:00:00 -0500"
-    },
-    {
-        "title": "Leverkusen - Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Leverkusen%20-%20Milan",
-        "pubdate": "Tue, 01 Oct 2024 14:00:00 -0500"
     },
     {
         "title": "1 de octubre",
@@ -60,19 +75,19 @@
         "pubdate": "Tue, 01 Oct 2024 08:00:00 -0500"
     },
     {
-        "title": "PSV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#PSV",
-        "pubdate": "Tue, 01 Oct 2024 13:00:00 -0500"
-    },
-    {
-        "title": "Celtic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Celtic",
-        "pubdate": "Tue, 01 Oct 2024 13:00:00 -0500"
+        "title": "Jimmy Carter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Jimmy%20Carter",
+        "pubdate": "Tue, 01 Oct 2024 15:00:00 -0500"
     },
     {
         "title": "PlayStation Network",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#PlayStation%20Network",
         "pubdate": "Tue, 01 Oct 2024 09:00:00 -0500"
+    },
+    {
+        "title": "CNN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#CNN",
+        "pubdate": "Tue, 01 Oct 2024 15:00:00 -0500"
     },
     {
         "title": "Temblor hoy",
@@ -83,20 +98,5 @@
         "title": "Hot Wheels",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Hot%20Wheels",
         "pubdate": "Mon, 30 Sep 2024 11:00:00 -0500"
-    },
-    {
-        "title": "Que se celebra El 30 de septiembre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Que%20se%20celebra%20El%2030%20de%20septiembre",
-        "pubdate": "Mon, 30 Sep 2024 00:00:00 -0500"
-    },
-    {
-        "title": "Villarreal  UD Las Palmas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Villarreal%20%20UD%20Las%20Palmas",
-        "pubdate": "Mon, 30 Sep 2024 14:00:00 -0500"
-    },
-    {
-        "title": "Parma  Cagliari",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Parma%20%20Cagliari",
-        "pubdate": "Mon, 30 Sep 2024 14:00:00 -0500"
     }
 ]
