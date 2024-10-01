@@ -25,14 +25,14 @@
         "pubdate": "Mon, 30 Sep 2024 21:00:00 +0200"
     },
     {
-        "title": "England vs Australia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#England%20vs%20Australia",
-        "pubdate": "Mon, 30 Sep 2024 00:00:00 +0200"
-    },
-    {
         "title": "Ticketmaster",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Ticketmaster",
         "pubdate": "Mon, 30 Sep 2024 10:00:00 +0200"
+    },
+    {
+        "title": "England vs Australia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#England%20vs%20Australia",
+        "pubdate": "Mon, 30 Sep 2024 00:00:00 +0200"
     },
     {
         "title": "UEFA Champions League",
@@ -95,8 +95,8 @@
         "pubdate": "Sun, 29 Sep 2024 15:00:00 +0200"
     },
     {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Liverpool",
-        "pubdate": "Sun, 29 Sep 2024 18:00:00 +0200"
+        "title": "Pirates",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Pirates",
+        "pubdate": "Sun, 29 Sep 2024 19:00:00 +0200"
     }
 ]
