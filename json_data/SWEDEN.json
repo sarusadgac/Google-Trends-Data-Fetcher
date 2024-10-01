@@ -5,6 +5,16 @@
         "pubdate": "Tue, 01 Oct 2024 18:00:00 +0200"
     },
     {
+        "title": "Nils Molinder",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Nils%20Molinder",
+        "pubdate": "Tue, 01 Oct 2024 20:00:00 +0200"
+    },
+    {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Arsenal",
+        "pubdate": "Tue, 01 Oct 2024 21:00:00 +0200"
+    },
+    {
         "title": "Iran",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Iran",
         "pubdate": "Tue, 01 Oct 2024 19:00:00 +0200"
@@ -30,6 +40,11 @@
         "pubdate": "Tue, 01 Oct 2024 22:00:00 +0200"
     },
     {
+        "title": "Sollentuna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sollentuna",
+        "pubdate": "Tue, 01 Oct 2024 16:00:00 +0200"
+    },
+    {
         "title": "Maximilian Ibrahimović",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Maximilian%20Ibrahimovi%C4%87",
         "pubdate": "Tue, 01 Oct 2024 16:00:00 +0200"
@@ -50,14 +65,14 @@
         "pubdate": "Tue, 01 Oct 2024 21:00:00 +0200"
     },
     {
-        "title": "Modo Hockey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Modo%20Hockey",
-        "pubdate": "Tue, 01 Oct 2024 21:00:00 +0200"
-    },
-    {
         "title": "CL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#CL",
         "pubdate": "Tue, 01 Oct 2024 22:00:00 +0200"
+    },
+    {
+        "title": "Modo Hockey",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Modo%20Hockey",
+        "pubdate": "Tue, 01 Oct 2024 21:00:00 +0200"
     },
     {
         "title": "Palestina",
@@ -70,9 +85,9 @@
         "pubdate": "Tue, 01 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "Oktober",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Oktober",
-        "pubdate": "Tue, 01 Oct 2024 18:00:00 +0200"
+        "title": "News",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#News",
+        "pubdate": "Tue, 01 Oct 2024 23:00:00 +0200"
     },
     {
         "title": "Kris Kristofferson",
@@ -83,20 +98,5 @@
         "title": "IFK Göteborg mot Gais",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IFK%20G%C3%B6teborg%20mot%20Gais",
         "pubdate": "Mon, 30 Sep 2024 19:00:00 +0200"
-    },
-    {
-        "title": "Michael Claesson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Michael%20Claesson",
-        "pubdate": "Mon, 30 Sep 2024 16:00:00 +0200"
-    },
-    {
-        "title": "Dikembe Mutombo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Dikembe%20Mutombo",
-        "pubdate": "Mon, 30 Sep 2024 20:00:00 +0200"
-    },
-    {
-        "title": "Björn Skifs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bj%C3%B6rn%20Skifs",
-        "pubdate": "Mon, 30 Sep 2024 22:00:00 +0200"
     }
 ]
