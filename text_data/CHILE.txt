@@ -1,5 +1,6 @@
 Oasis
 Falabella
+Ripley
 Paris
 LATAM
 Lider
@@ -16,5 +17,4 @@ Zara
 Levi's
 Samsung
 IKEA
-iPhone
-Converse
+Claro
