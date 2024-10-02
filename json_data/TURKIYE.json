@@ -1,5 +1,10 @@
 [
     {
+        "title": "Son dakika haberleri",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Son%20dakika%20haberleri",
+        "pubdate": "Wed, 02 Oct 2024 00:00:00 +0300"
+    },
+    {
         "title": "Konya deprem",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Konya%20deprem",
         "pubdate": "Wed, 02 Oct 2024 02:00:00 +0300"
@@ -25,24 +30,19 @@
         "pubdate": "Wed, 02 Oct 2024 02:00:00 +0300"
     },
     {
-        "title": "İran",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C4%B0ran",
-        "pubdate": "Tue, 01 Oct 2024 08:00:00 +0300"
-    },
-    {
         "title": "Şampiyonlar Ligi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C5%9Eampiyonlar%20Ligi",
         "pubdate": "Tue, 01 Oct 2024 18:00:00 +0300"
     },
     {
-        "title": "Güneri Cıvaoğlu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#G%C3%BCneri%20C%C4%B1vao%C4%9Flu",
+        "title": "İran",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C4%B0ran",
         "pubdate": "Tue, 01 Oct 2024 08:00:00 +0300"
     },
     {
-        "title": "Borussia Dortmund Celtic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Borussia%20Dortmund%20Celtic",
-        "pubdate": "Tue, 01 Oct 2024 22:00:00 +0300"
+        "title": "Güneri Cıvaoğlu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#G%C3%BCneri%20C%C4%B1vao%C4%9Flu",
+        "pubdate": "Tue, 01 Oct 2024 08:00:00 +0300"
     },
     {
         "title": "Lübnan",
@@ -80,6 +80,11 @@
         "pubdate": "Tue, 01 Oct 2024 23:00:00 +0300"
     },
     {
+        "title": "Şampiyonlar Ligi maçları",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C5%9Eampiyonlar%20Ligi%20ma%C3%A7lar%C4%B1",
+        "pubdate": "Tue, 01 Oct 2024 22:00:00 +0300"
+    },
+    {
         "title": "Stuttgart Sparta Prag",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Stuttgart%20Sparta%20Prag",
         "pubdate": "Tue, 01 Oct 2024 20:00:00 +0300"
@@ -93,10 +98,5 @@
         "title": "Dünya Kahve Günü",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#D%C3%BCnya%20Kahve%20G%C3%BCn%C3%BC",
         "pubdate": "Tue, 01 Oct 2024 11:00:00 +0300"
-    },
-    {
-        "title": "1 Ekim ne Günü",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#1%20Ekim%20ne%20G%C3%BCn%C3%BC",
-        "pubdate": "Tue, 01 Oct 2024 09:00:00 +0300"
     }
 ]

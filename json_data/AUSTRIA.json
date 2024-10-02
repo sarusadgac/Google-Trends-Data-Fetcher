@@ -5,8 +5,8 @@
         "pubdate": "Wed, 02 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "RB Salzburg – Stade Brest",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#RB%20Salzburg%20%E2%80%93%20Stade%20Brest",
+        "title": "Rb Salzburg – Stade Brest",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rb%20Salzburg%20%E2%80%93%20Stade%20Brest",
         "pubdate": "Tue, 01 Oct 2024 16:00:00 +0200"
     },
     {
@@ -15,14 +15,19 @@
         "pubdate": "Tue, 01 Oct 2024 13:00:00 +0200"
     },
     {
+        "title": "Bombendrohung Linz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bombendrohung%20Linz",
+        "pubdate": "Tue, 01 Oct 2024 17:00:00 +0200"
+    },
+    {
         "title": "Iran",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Iran",
         "pubdate": "Tue, 01 Oct 2024 17:00:00 +0200"
     },
     {
-        "title": "Bombendrohung Linz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bombendrohung%20Linz",
-        "pubdate": "Tue, 01 Oct 2024 17:00:00 +0200"
+        "title": "Israel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Israel",
+        "pubdate": "Tue, 01 Oct 2024 20:00:00 +0200"
     },
     {
         "title": "FC Barcelona",
@@ -55,11 +60,6 @@
         "pubdate": "Tue, 01 Oct 2024 21:00:00 +0200"
     },
     {
-        "title": "Israel news",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Israel%20news",
-        "pubdate": "Tue, 01 Oct 2024 12:00:00 +0200"
-    },
-    {
         "title": "Champions League Spiele",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Champions%20League%20Spiele",
         "pubdate": "Tue, 01 Oct 2024 20:00:00 +0200"
@@ -75,9 +75,9 @@
         "pubdate": "Tue, 01 Oct 2024 22:00:00 +0200"
     },
     {
-        "title": "Inter – Roter Stern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Inter%20%E2%80%93%20Roter%20Stern",
-        "pubdate": "Tue, 01 Oct 2024 22:00:00 +0200"
+        "title": "UEFA Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#UEFA%20Champions%20League",
+        "pubdate": "Tue, 01 Oct 2024 17:00:00 +0200"
     },
     {
         "title": "Daniel Chanoch",
@@ -85,18 +85,18 @@
         "pubdate": "Tue, 01 Oct 2024 07:00:00 +0200"
     },
     {
-        "title": "7 vs Wild Staffel 4",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#7%20vs%20Wild%20Staffel%204",
-        "pubdate": "Tue, 01 Oct 2024 19:00:00 +0200"
-    },
-    {
-        "title": "Sky",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sky",
+        "title": "Inter – Roter Stern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Inter%20%E2%80%93%20Roter%20Stern",
         "pubdate": "Tue, 01 Oct 2024 22:00:00 +0200"
     },
     {
         "title": "Michael Jackson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Michael%20Jackson",
+        "pubdate": "Tue, 01 Oct 2024 22:00:00 +0200"
+    },
+    {
+        "title": "Sky",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sky",
         "pubdate": "Tue, 01 Oct 2024 22:00:00 +0200"
     }
 ]

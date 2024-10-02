@@ -10,14 +10,19 @@
         "pubdate": "Wed, 02 Oct 2024 04:00:00 +0800"
     },
     {
-        "title": "Barcelona vs Young Boys",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Barcelona%20vs%20Young%20Boys",
-        "pubdate": "Wed, 02 Oct 2024 06:00:00 +0800"
+        "title": "Carlos Alcaraz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Carlos%20Alcaraz",
+        "pubdate": "Wed, 02 Oct 2024 09:00:00 +0800"
     },
     {
         "title": "Govinda",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Govinda",
         "pubdate": "Wed, 02 Oct 2024 00:00:00 +0800"
+    },
+    {
+        "title": "Al Jazeera",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Al%20Jazeera",
+        "pubdate": "Wed, 02 Oct 2024 08:00:00 +0800"
     },
     {
         "title": "Champions League",
@@ -93,10 +98,5 @@
         "title": "Taiwan Typhoon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Taiwan%20Typhoon",
         "pubdate": "Mon, 30 Sep 2024 15:00:00 +0800"
-    },
-    {
-        "title": "Kris Kristofferson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Kris%20Kristofferson",
-        "pubdate": "Mon, 30 Sep 2024 10:00:00 +0800"
     }
 ]
