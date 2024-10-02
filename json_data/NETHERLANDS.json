@@ -5,11 +5,6 @@
         "pubdate": "Wed, 02 Oct 2024 08:00:00 +0200"
     },
     {
-        "title": "Michael Schumacher",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Michael%20Schumacher",
-        "pubdate": "Wed, 02 Oct 2024 11:00:00 +0200"
-    },
-    {
         "title": "Anna Gimbrère",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Anna%20Gimbr%C3%A8re",
         "pubdate": "Wed, 02 Oct 2024 11:00:00 +0200"
@@ -98,5 +93,10 @@
         "title": "Stoptober",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Stoptober",
         "pubdate": "Mon, 30 Sep 2024 19:00:00 +0200"
+    },
+    {
+        "title": "Ajax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
+        "pubdate": "Sun, 29 Sep 2024 22:00:00 +0200"
     }
 ]

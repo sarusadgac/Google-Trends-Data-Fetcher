@@ -20,6 +20,11 @@
         "pubdate": "Wed, 02 Oct 2024 00:00:00 +0300"
     },
     {
+        "title": "A Haber",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#A%20Haber",
+        "pubdate": "Wed, 02 Oct 2024 09:00:00 +0300"
+    },
+    {
         "title": "Tarım ve Orman Bakanlığı",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Tar%C4%B1m%20ve%20Orman%20Bakanl%C4%B1%C4%9F%C4%B1",
         "pubdate": "Wed, 02 Oct 2024 12:00:00 +0300"
@@ -45,19 +50,14 @@
         "pubdate": "Wed, 02 Oct 2024 15:00:00 +0300"
     },
     {
+        "title": "Ntv Haber",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ntv%20Haber",
+        "pubdate": "Wed, 02 Oct 2024 10:00:00 +0300"
+    },
+    {
         "title": "Acun Ilıcalı",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Acun%20Il%C4%B1cal%C4%B1",
         "pubdate": "Wed, 02 Oct 2024 01:00:00 +0300"
-    },
-    {
-        "title": "Melisa Döngel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Melisa%20D%C3%B6ngel",
-        "pubdate": "Wed, 02 Oct 2024 02:00:00 +0300"
-    },
-    {
-        "title": "AFAD",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#AFAD",
-        "pubdate": "Wed, 02 Oct 2024 02:00:00 +0300"
     },
     {
         "title": "Şampiyonlar Ligi",
@@ -77,12 +77,7 @@
     {
         "title": "Lübnan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#L%C3%BCbnan",
-        "pubdate": "Tue, 01 Oct 2024 07:00:00 +0300"
-    },
-    {
-        "title": "Barcelona Young Boys",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Barcelona%20Young%20Boys",
-        "pubdate": "Tue, 01 Oct 2024 22:00:00 +0300"
+        "pubdate": "Tue, 01 Oct 2024 08:00:00 +0300"
     },
     {
         "title": "Arsenal,  PSG",
@@ -98,5 +93,10 @@
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Arsenal",
         "pubdate": "Tue, 01 Oct 2024 23:00:00 +0300"
+    },
+    {
+        "title": "Şampiyonlar Ligi maçları",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C5%9Eampiyonlar%20Ligi%20ma%C3%A7lar%C4%B1",
+        "pubdate": "Tue, 01 Oct 2024 22:00:00 +0300"
     }
 ]

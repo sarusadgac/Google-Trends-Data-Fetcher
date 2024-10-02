@@ -2,7 +2,7 @@
     {
         "title": "Israel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Israel",
-        "pubdate": "Wed, 02 Oct 2024 01:30:00 +0530"
+        "pubdate": "Wed, 02 Oct 2024 00:30:00 +0530"
     },
     {
         "title": "Gandhi",
@@ -15,9 +15,19 @@
         "pubdate": "Wed, 02 Oct 2024 07:30:00 +0530"
     },
     {
+        "title": "BBC news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#BBC%20news",
+        "pubdate": "Wed, 02 Oct 2024 08:30:00 +0530"
+    },
+    {
         "title": "Barca",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Barca",
         "pubdate": "Wed, 02 Oct 2024 02:30:00 +0530"
+    },
+    {
+        "title": "Tim Walz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Tim%20Walz",
+        "pubdate": "Wed, 02 Oct 2024 13:30:00 +0530"
     },
     {
         "title": "CNN",
@@ -30,19 +40,9 @@
         "pubdate": "Wed, 02 Oct 2024 13:30:00 +0530"
     },
     {
-        "title": "Tim Walz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Tim%20Walz",
-        "pubdate": "Wed, 02 Oct 2024 13:30:00 +0530"
-    },
-    {
         "title": "Babar Azam",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Babar%20Azam",
         "pubdate": "Wed, 02 Oct 2024 12:30:00 +0530"
-    },
-    {
-        "title": "Bbc news",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Bbc%20news",
-        "pubdate": "Wed, 02 Oct 2024 08:30:00 +0530"
     },
     {
         "title": "World War 3",
@@ -60,11 +60,6 @@
         "pubdate": "Wed, 02 Oct 2024 11:30:00 +0530"
     },
     {
-        "title": "BBC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#BBC",
-        "pubdate": "Wed, 02 Oct 2024 09:30:00 +0530"
-    },
-    {
         "title": "Jimmy Carter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Jimmy%20Carter",
         "pubdate": "Wed, 02 Oct 2024 12:30:00 +0530"
@@ -73,6 +68,11 @@
         "title": "Palestine",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Palestine",
         "pubdate": "Wed, 02 Oct 2024 14:30:00 +0530"
+    },
+    {
+        "title": "Christmas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Christmas",
+        "pubdate": "Wed, 02 Oct 2024 18:30:00 +0530"
     },
     {
         "title": "War",
@@ -85,11 +85,6 @@
         "pubdate": "Tue, 01 Oct 2024 23:30:00 +0530"
     },
     {
-        "title": "Govinda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Govinda",
-        "pubdate": "Tue, 01 Oct 2024 10:30:00 +0530"
-    },
-    {
         "title": "Arsenal vs PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Arsenal%20vs%20PSG",
         "pubdate": "Tue, 01 Oct 2024 10:30:00 +0530"
@@ -98,5 +93,10 @@
         "title": "Surya Grahan 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Surya%20Grahan%202024",
         "pubdate": "Tue, 01 Oct 2024 12:30:00 +0530"
+    },
+    {
+        "title": "Joker",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Joker",
+        "pubdate": "Tue, 01 Oct 2024 19:30:00 +0530"
     }
 ]

@@ -1,5 +1,10 @@
 [
     {
+        "title": "Harris",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Harris",
+        "pubdate": "Wed, 02 Oct 2024 14:00:00 +0200"
+    },
+    {
         "title": "John Amos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#John%20Amos",
         "pubdate": "Wed, 02 Oct 2024 01:00:00 +0200"
@@ -10,29 +15,9 @@
         "pubdate": "Wed, 02 Oct 2024 10:00:00 +0900"
     },
     {
-        "title": "CNN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#CNN",
-        "pubdate": "Wed, 02 Oct 2024 07:00:00 +0100"
-    },
-    {
-        "title": "Frank Fritz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Frank%20Fritz",
-        "pubdate": "Tue, 01 Oct 2024 08:00:00 -0700"
-    },
-    {
-        "title": "以色列",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E4%BB%A5%E8%89%B2%E5%88%97",
-        "pubdate": "Wed, 02 Oct 2024 00:00:00 +0800"
-    },
-    {
-        "title": "FC Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FC%20Barcelona",
-        "pubdate": "Wed, 02 Oct 2024 02:00:00 +0200"
-    },
-    {
-        "title": "Israel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Israel",
-        "pubdate": "Wed, 02 Oct 2024 01:30:00 +0530"
+        "title": "Rascal Flatts",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Rascal%20Flatts",
+        "pubdate": "Wed, 02 Oct 2024 05:00:00 -0700"
     },
     {
         "title": "Угледар",
@@ -40,39 +25,54 @@
         "pubdate": "Wed, 02 Oct 2024 14:00:00 +0300"
     },
     {
-        "title": "Twilight",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Twilight",
+        "title": "HSI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#HSI",
+        "pubdate": "Wed, 02 Oct 2024 16:00:00 +0800"
+    },
+    {
+        "title": "CNN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#CNN",
+        "pubdate": "Wed, 02 Oct 2024 07:00:00 +0100"
+    },
+    {
+        "title": "Israel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Israel",
+        "pubdate": "Wed, 02 Oct 2024 00:30:00 +0530"
+    },
+    {
+        "title": "Budget 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Budget%202024",
+        "pubdate": "Wed, 02 Oct 2024 12:00:00 +0100"
+    },
+    {
+        "title": "Taal Volcano",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Taal%20Volcano",
+        "pubdate": "Wed, 02 Oct 2024 18:00:00 +0800"
+    },
+    {
+        "title": "Gago",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Gago",
+        "pubdate": "Wed, 02 Oct 2024 01:00:00 -0300"
+    },
+    {
+        "title": "Bayern Munich",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Bayern%20Munich",
+        "pubdate": "Wed, 02 Oct 2024 09:00:00 +0100"
+    },
+    {
+        "title": "Estrela da Casa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Estrela%20da%20Casa",
+        "pubdate": "Wed, 02 Oct 2024 05:00:00 -0500"
+    },
+    {
+        "title": "כניסת החג",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%9B%D7%A0%D7%99%D7%A1%D7%AA%20%D7%94%D7%97%D7%92",
         "pubdate": "Wed, 02 Oct 2024 09:00:00 +0300"
     },
     {
-        "title": "Michael Schumacher",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Michael%20Schumacher",
-        "pubdate": "Wed, 02 Oct 2024 09:00:00 +0200"
-    },
-    {
-        "title": "Joker: Folie à Deux",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Joker:%20Folie%20%C3%A0%20Deux",
-        "pubdate": "Wed, 02 Oct 2024 00:00:00 +0200"
-    },
-    {
-        "title": "Milena Steinmasslová",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Milena%20Steinmasslov%C3%A1",
-        "pubdate": "Wed, 02 Oct 2024 00:00:00 +0200"
-    },
-    {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Barcelona",
-        "pubdate": "Wed, 02 Oct 2024 00:00:00 +0300"
-    },
-    {
-        "title": "תיקון הכללי",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%AA%D7%99%D7%A7%D7%95%D7%9F%20%D7%94%D7%9B%D7%9C%D7%9C%D7%99",
-        "pubdate": "Wed, 02 Oct 2024 13:00:00 +0300"
-    },
-    {
-        "title": "Orlando Figueira",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Orlando%20Figueira",
-        "pubdate": "Wed, 02 Oct 2024 10:00:00 +0100"
+        "title": "Konya deprem",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Konya%20deprem",
+        "pubdate": "Wed, 02 Oct 2024 02:00:00 +0300"
     },
     {
         "title": "Anemone Daniel Day-Lewis",
@@ -80,23 +80,23 @@
         "pubdate": "Wed, 02 Oct 2024 02:00:00 -0400"
     },
     {
-        "title": "Iran",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Iran",
-        "pubdate": "Wed, 02 Oct 2024 08:00:00 +1300"
+        "title": "Κυπελλο ελλαδασ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%9A%CF%85%CF%80%CE%B5%CE%BB%CE%BB%CE%BF%20%CE%B5%CE%BB%CE%BB%CE%B1%CE%B4%CE%B1%CF%83",
+        "pubdate": "Wed, 02 Oct 2024 13:00:00 +0300"
     },
     {
-        "title": "Velez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Velez",
-        "pubdate": "Wed, 02 Oct 2024 00:00:00 -0300"
+        "title": "BBC news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#BBC%20news",
+        "pubdate": "Wed, 02 Oct 2024 01:00:00 +0200"
     },
     {
-        "title": "JD Vance",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#JD%20Vance",
-        "pubdate": "Wed, 02 Oct 2024 11:00:00 +1000"
+        "title": "Alcaraz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Alcaraz",
+        "pubdate": "Wed, 02 Oct 2024 14:00:00 +0200"
     },
     {
-        "title": "Slovan Bratislava đấu với Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Slovan%20Bratislava%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Man%20City",
-        "pubdate": "Wed, 02 Oct 2024 02:00:00 +0700"
+        "title": "Orlando Figueira",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Orlando%20Figueira",
+        "pubdate": "Wed, 02 Oct 2024 10:00:00 +0100"
     }
 ]
