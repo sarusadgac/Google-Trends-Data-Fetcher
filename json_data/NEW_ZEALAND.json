@@ -40,11 +40,6 @@
         "pubdate": "Wed, 02 Oct 2024 11:00:00 +1300"
     },
     {
-        "title": "Twilight",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Twilight",
-        "pubdate": "Wed, 02 Oct 2024 16:00:00 +1300"
-    },
-    {
         "title": "Tim Shadbolt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Tim%20Shadbolt",
         "pubdate": "Wed, 02 Oct 2024 19:00:00 +1300"
@@ -97,6 +92,11 @@
     {
         "title": "Tasman vs Auckland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Tasman%20vs%20Auckland",
+        "pubdate": "Wed, 02 Oct 2024 22:00:00 +1300"
+    },
+    {
+        "title": "Throne and Liberty",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Throne%20and%20Liberty",
         "pubdate": "Wed, 02 Oct 2024 22:00:00 +1300"
     }
 ]
