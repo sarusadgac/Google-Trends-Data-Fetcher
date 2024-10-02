@@ -10,11 +10,6 @@
         "pubdate": "Thu, 03 Oct 2024 05:00:00 +0800"
     },
     {
-        "title": "UEFA Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#UEFA%20Champions%20League",
-        "pubdate": "Wed, 02 Oct 2024 13:00:00 +0800"
-    },
-    {
         "title": "Iran",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Iran",
         "pubdate": "Wed, 02 Oct 2024 02:00:00 +0800"
@@ -38,11 +33,6 @@
         "title": "Joker",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Joker",
         "pubdate": "Wed, 02 Oct 2024 09:00:00 +0800"
-    },
-    {
-        "title": "Dortmund vs Celtic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Dortmund%20vs%20Celtic",
-        "pubdate": "Wed, 02 Oct 2024 05:00:00 +0800"
     },
     {
         "title": "Michael Schumacher",
@@ -98,5 +88,15 @@
         "title": "UEFA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#UEFA",
         "pubdate": "Wed, 02 Oct 2024 02:00:00 +0800"
+    },
+    {
+        "title": "Throne and Liberty",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Throne%20and%20Liberty",
+        "pubdate": "Wed, 02 Oct 2024 22:00:00 +0800"
+    },
+    {
+        "title": "BBC news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#BBC%20news",
+        "pubdate": "Wed, 02 Oct 2024 19:00:00 +0800"
     }
 ]

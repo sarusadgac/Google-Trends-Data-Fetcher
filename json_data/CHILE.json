@@ -25,19 +25,14 @@
         "pubdate": "Wed, 02 Oct 2024 16:00:00 -0300"
     },
     {
-        "title": "Salvador Soto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Salvador%20Soto",
-        "pubdate": "Wed, 02 Oct 2024 01:00:00 -0300"
-    },
-    {
-        "title": "RB Leipzig - Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#RB%20Leipzig%20-%20Juventus",
+        "title": "RB Leipzig  Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#RB%20Leipzig%20%20Juventus",
         "pubdate": "Wed, 02 Oct 2024 17:00:00 -0300"
     },
     {
-        "title": "Modou Jadama",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Modou%20Jadama",
-        "pubdate": "Wed, 02 Oct 2024 18:00:00 -0300"
+        "title": "Michael Schumacher",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Michael%20Schumacher",
+        "pubdate": "Wed, 02 Oct 2024 09:00:00 -0300"
     },
     {
         "title": "Velez",
@@ -45,8 +40,8 @@
         "pubdate": "Wed, 02 Oct 2024 00:00:00 -0300"
     },
     {
-        "title": "Michael Schumacher",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Michael%20Schumacher",
+        "title": "Bull terrier",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Bull%20terrier",
         "pubdate": "Wed, 02 Oct 2024 09:00:00 -0300"
     },
     {
@@ -55,9 +50,9 @@
         "pubdate": "Wed, 02 Oct 2024 15:00:00 -0300"
     },
     {
-        "title": "Bull terrier",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Bull%20terrier",
-        "pubdate": "Wed, 02 Oct 2024 09:00:00 -0300"
+        "title": "Salvador Soto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Salvador%20Soto",
+        "pubdate": "Wed, 02 Oct 2024 01:00:00 -0300"
     },
     {
         "title": "Paulina Urrutia",
@@ -98,5 +93,10 @@
         "title": "BBC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#BBC",
         "pubdate": "Wed, 02 Oct 2024 07:00:00 -0300"
+    },
+    {
+        "title": "LOSC  Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#LOSC%20%20Real%20Madrid",
+        "pubdate": "Tue, 01 Oct 2024 09:00:00 -0300"
     }
 ]
