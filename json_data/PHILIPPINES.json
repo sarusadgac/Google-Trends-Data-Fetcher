@@ -15,6 +15,11 @@
         "pubdate": "Wed, 02 Oct 2024 18:00:00 +0800"
     },
     {
+        "title": "Israel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Israel",
+        "pubdate": "Wed, 02 Oct 2024 07:00:00 +0800"
+    },
+    {
         "title": "Throne and Liberty",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Throne%20and%20Liberty",
         "pubdate": "Wed, 02 Oct 2024 02:00:00 +0800"
@@ -30,9 +35,9 @@
         "pubdate": "Wed, 02 Oct 2024 10:00:00 +0800"
     },
     {
-        "title": "Iran",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Iran",
-        "pubdate": "Wed, 02 Oct 2024 07:00:00 +0800"
+        "title": "Twilight",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Twilight",
+        "pubdate": "Wed, 02 Oct 2024 08:00:00 +0800"
     },
     {
         "title": "South Korean",
@@ -93,10 +98,5 @@
         "title": "Jimmy Butler",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Jimmy%20Butler",
         "pubdate": "Wed, 02 Oct 2024 00:00:00 +0800"
-    },
-    {
-        "title": "Dikembe Mutombo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Dikembe%20Mutombo",
-        "pubdate": "Tue, 01 Oct 2024 00:00:00 +0800"
     }
 ]
