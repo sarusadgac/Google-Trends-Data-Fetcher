@@ -5,6 +5,11 @@
         "pubdate": "Wed, 02 Oct 2024 08:00:00 +0200"
     },
     {
+        "title": "Anna Gimbrère",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Anna%20Gimbr%C3%A8re",
+        "pubdate": "Wed, 02 Oct 2024 11:00:00 +0200"
+    },
+    {
         "title": "PSV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV",
         "pubdate": "Tue, 01 Oct 2024 15:00:00 +0200"
@@ -93,10 +98,5 @@
         "title": "Cambuur",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Cambuur",
         "pubdate": "Sun, 29 Sep 2024 16:00:00 +0200"
-    },
-    {
-        "title": "Reinout Oerlemans",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Reinout%20Oerlemans",
-        "pubdate": "Sun, 29 Sep 2024 11:00:00 +0200"
     }
 ]
