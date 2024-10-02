@@ -1,8 +1,18 @@
 [
     {
-        "title": "Rosh Hashanah",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Rosh%20Hashanah",
-        "pubdate": "Wed, 02 Oct 2024 11:00:00 -0700"
+        "title": "Солнечное затмение 2 октября 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%BE%D0%B5%20%D0%B7%D0%B0%D1%82%D0%BC%D0%B5%D0%BD%D0%B8%D0%B5%202%20%D0%BE%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8F%202024",
+        "pubdate": "Wed, 02 Oct 2024 10:00:00 +0300"
+    },
+    {
+        "title": "CNN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#CNN",
+        "pubdate": "Wed, 02 Oct 2024 07:00:00 +0100"
+    },
+    {
+        "title": "Mahatma Gandhi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Mahatma%20Gandhi",
+        "pubdate": "Wed, 02 Oct 2024 00:30:00 +0530"
     },
     {
         "title": "熊貓改名比賽",
@@ -10,19 +20,9 @@
         "pubdate": "Thu, 03 Oct 2024 01:00:00 +0800"
     },
     {
-        "title": "Солнечное затмение 2 октября 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%BE%D0%B5%20%D0%B7%D0%B0%D1%82%D0%BC%D0%B5%D0%BD%D0%B8%D0%B5%202%20%D0%BE%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8F%202024",
-        "pubdate": "Wed, 02 Oct 2024 10:00:00 +0300"
-    },
-    {
-        "title": "Marburg-Virus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Marburg-Virus",
-        "pubdate": "Wed, 02 Oct 2024 17:00:00 +0200"
-    },
-    {
-        "title": "CNN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#CNN",
-        "pubdate": "Wed, 02 Oct 2024 07:00:00 +0100"
+        "title": "Rosh Hashanah",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Rosh%20Hashanah",
+        "pubdate": "Wed, 02 Oct 2024 11:00:00 -0700"
     },
     {
         "title": "岩手山",
@@ -35,54 +35,9 @@
         "pubdate": "Wed, 02 Oct 2024 11:00:00 +0200"
     },
     {
-        "title": "Mahatma Gandhi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Mahatma%20Gandhi",
-        "pubdate": "Wed, 02 Oct 2024 00:30:00 +0530"
-    },
-    {
-        "title": "Tiroteio Lisboa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Tiroteio%20Lisboa",
-        "pubdate": "Wed, 02 Oct 2024 15:00:00 +0100"
-    },
-    {
-        "title": "Girona - Feyenoord",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Girona%20-%20Feyenoord",
-        "pubdate": "Wed, 02 Oct 2024 11:00:00 -0600"
-    },
-    {
-        "title": "Twilight",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Twilight",
-        "pubdate": "Wed, 02 Oct 2024 09:00:00 +0300"
-    },
-    {
-        "title": "Tim Walz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tim%20Walz",
-        "pubdate": "Wed, 02 Oct 2024 08:00:00 +0200"
-    },
-    {
-        "title": "Brasil Futsal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Brasil%20Futsal",
-        "pubdate": "Wed, 02 Oct 2024 09:00:00 -0500"
-    },
-    {
-        "title": "JD Vance",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#JD%20Vance",
-        "pubdate": "Wed, 02 Oct 2024 08:00:00 +0100"
-    },
-    {
-        "title": "ОДАБ-9000",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=UA#%D0%9E%D0%94%D0%90%D0%91-9000",
-        "pubdate": "Wed, 02 Oct 2024 13:00:00 +0300"
-    },
-    {
-        "title": "Anemone Daniel Day-Lewis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Anemone%20Daniel%20Day-Lewis",
-        "pubdate": "Wed, 02 Oct 2024 02:00:00 -0400"
-    },
-    {
-        "title": "Konya deprem",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Konya%20deprem",
-        "pubdate": "Wed, 02 Oct 2024 02:00:00 +0300"
+        "title": "Marburg-Virus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Marburg-Virus",
+        "pubdate": "Wed, 02 Oct 2024 17:00:00 +0200"
     },
     {
         "title": "J.D. Vance",
@@ -90,13 +45,58 @@
         "pubdate": "Wed, 02 Oct 2024 07:00:00 +0200"
     },
     {
-        "title": "Ljusdal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ljusdal",
-        "pubdate": "Wed, 02 Oct 2024 11:00:00 +0200"
+        "title": "Twilight",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Twilight",
+        "pubdate": "Wed, 02 Oct 2024 09:00:00 +0300"
     },
     {
-        "title": "Michael Schumacher",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Michael%20Schumacher",
-        "pubdate": "Wed, 02 Oct 2024 10:00:00 +0200"
+        "title": "Harvey Moeis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Harvey%20Moeis",
+        "pubdate": "Thu, 03 Oct 2024 01:00:00 +0700"
+    },
+    {
+        "title": "Anemone Daniel Day-Lewis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Anemone%20Daniel%20Day-Lewis",
+        "pubdate": "Wed, 02 Oct 2024 02:00:00 -0400"
+    },
+    {
+        "title": "Tiroteio Lisboa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Tiroteio%20Lisboa",
+        "pubdate": "Wed, 02 Oct 2024 15:00:00 +0100"
+    },
+    {
+        "title": "BBC news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#BBC%20news",
+        "pubdate": "Wed, 02 Oct 2024 01:00:00 +0200"
+    },
+    {
+        "title": "Girona - Feyenoord",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Girona%20-%20Feyenoord",
+        "pubdate": "Wed, 02 Oct 2024 09:00:00 +0200"
+    },
+    {
+        "title": "อาร์เซนอล",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TH#%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%8B%E0%B8%99%E0%B8%AD%E0%B8%A5",
+        "pubdate": "Wed, 02 Oct 2024 00:00:00 +0700"
+    },
+    {
+        "title": "Que se celebra el 2 de octubre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Que%20se%20celebra%20el%202%20de%20octubre",
+        "pubdate": "Wed, 02 Oct 2024 06:00:00 -0600"
+    },
+    {
+        "title": "2024 ICC women’s T20 World Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#2024%20ICC%20women%E2%80%99s%20T20%20World%20Cup",
+        "pubdate": "Thu, 03 Oct 2024 01:00:00 +1300"
+    },
+    {
+        "title": "Israel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Israel",
+        "pubdate": "Wed, 02 Oct 2024 01:00:00 +0100"
+    },
+    {
+        "title": "Brasil Futsal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Brasil%20Futsal",
+        "pubdate": "Wed, 02 Oct 2024 09:00:00 -0500"
     }
 ]
