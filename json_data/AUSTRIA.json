@@ -1,7 +1,7 @@
 [
     {
-        "title": "Rapid Wien",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rapid%20Wien",
+        "title": "Rapid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rapid",
         "pubdate": "Wed, 02 Oct 2024 17:00:00 +0200"
     },
     {
@@ -13,11 +13,6 @@
         "title": "US-Präsident Jimmy Carter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#US-Pr%C3%A4sident%20Jimmy%20Carter",
         "pubdate": "Wed, 02 Oct 2024 07:00:00 +0200"
-    },
-    {
-        "title": "Michael Schumacher",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Michael%20Schumacher",
-        "pubdate": "Wed, 02 Oct 2024 08:00:00 +0200"
     },
     {
         "title": "Peter Maffay",
@@ -45,6 +40,11 @@
         "pubdate": "Wed, 02 Oct 2024 18:00:00 +0200"
     },
     {
+        "title": "Loredana",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Loredana",
+        "pubdate": "Wed, 02 Oct 2024 18:00:00 +0200"
+    },
+    {
         "title": "Brustkrebs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Brustkrebs",
         "pubdate": "Wed, 02 Oct 2024 11:00:00 +0200"
@@ -53,11 +53,6 @@
         "title": "Rheinmetall-aktie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rheinmetall-aktie",
         "pubdate": "Wed, 02 Oct 2024 07:00:00 +0200"
-    },
-    {
-        "title": "Aston Villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Aston%20Villa",
-        "pubdate": "Wed, 02 Oct 2024 16:00:00 +0200"
     },
     {
         "title": "Jordanien",
@@ -70,14 +65,9 @@
         "pubdate": "Wed, 02 Oct 2024 09:00:00 +0200"
     },
     {
-        "title": "STURM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#STURM",
-        "pubdate": "Wed, 02 Oct 2024 17:00:00 +0200"
-    },
-    {
-        "title": "Dortmund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Dortmund",
-        "pubdate": "Wed, 02 Oct 2024 00:00:00 +0200"
+        "title": "Millie Bobby Brown",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Millie%20Bobby%20Brown",
+        "pubdate": "Wed, 02 Oct 2024 20:00:00 +0200"
     },
     {
         "title": "THAILAND",
@@ -85,18 +75,28 @@
         "pubdate": "Wed, 02 Oct 2024 19:00:00 +0200"
     },
     {
+        "title": "Liverpool – Bologna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Liverpool%20%E2%80%93%20Bologna",
+        "pubdate": "Wed, 02 Oct 2024 21:00:00 +0200"
+    },
+    {
         "title": "PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#PSG",
         "pubdate": "Wed, 02 Oct 2024 06:00:00 +0200"
     },
     {
-        "title": "Loredana",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Loredana",
+        "title": "VKI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#VKI",
+        "pubdate": "Wed, 02 Oct 2024 19:00:00 +0200"
+    },
+    {
+        "title": "Tim Walz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Tim%20Walz",
         "pubdate": "Wed, 02 Oct 2024 18:00:00 +0200"
     },
     {
-        "title": "VKI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#VKI",
+        "title": "Israel Krieg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Israel%20Krieg",
         "pubdate": "Wed, 02 Oct 2024 19:00:00 +0200"
     }
 ]
