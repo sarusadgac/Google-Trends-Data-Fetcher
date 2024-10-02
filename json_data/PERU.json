@@ -1,5 +1,10 @@
 [
     {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Barcelona",
+        "pubdate": "Tue, 01 Oct 2024 11:00:00 -0500"
+    },
+    {
         "title": "Champions League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Champions%20League",
         "pubdate": "Tue, 01 Oct 2024 09:00:00 -0500"
@@ -8,11 +13,6 @@
         "title": "Champions",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Champions",
         "pubdate": "Tue, 01 Oct 2024 10:00:00 -0500"
-    },
-    {
-        "title": "Arsenal - PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Arsenal%20-%20PSG",
-        "pubdate": "Tue, 01 Oct 2024 11:00:00 -0500"
     },
     {
         "title": "Leverkusen - Milan",
@@ -30,23 +30,18 @@
         "pubdate": "Tue, 01 Oct 2024 15:00:00 -0500"
     },
     {
-        "title": "Que se celebra El 1 de octubre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Que%20se%20celebra%20El%201%20de%20octubre",
-        "pubdate": "Tue, 01 Oct 2024 02:00:00 -0500"
-    },
-    {
         "title": "Israel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Israel",
         "pubdate": "Tue, 01 Oct 2024 13:00:00 -0500"
     },
     {
-        "title": "PSV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#PSV",
-        "pubdate": "Tue, 01 Oct 2024 13:00:00 -0500"
+        "title": "Que se celebra El 1 de octubre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Que%20se%20celebra%20El%201%20de%20octubre",
+        "pubdate": "Tue, 01 Oct 2024 02:00:00 -0500"
     },
     {
-        "title": "Borussia Dortmund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Borussia%20Dortmund",
+        "title": "Dortmund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Dortmund",
         "pubdate": "Tue, 01 Oct 2024 13:00:00 -0500"
     },
     {
@@ -57,6 +52,11 @@
     {
         "title": "Al Nassr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Al%20Nassr",
+        "pubdate": "Tue, 01 Oct 2024 13:00:00 -0500"
+    },
+    {
+        "title": "PSV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#PSV",
         "pubdate": "Tue, 01 Oct 2024 13:00:00 -0500"
     },
     {

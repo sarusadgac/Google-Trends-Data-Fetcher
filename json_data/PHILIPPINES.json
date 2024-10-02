@@ -25,14 +25,14 @@
         "pubdate": "Wed, 02 Oct 2024 10:00:00 +0800"
     },
     {
-        "title": "Twilight",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Twilight",
-        "pubdate": "Wed, 02 Oct 2024 08:00:00 +0800"
-    },
-    {
         "title": "Iran",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Iran",
         "pubdate": "Wed, 02 Oct 2024 07:00:00 +0800"
+    },
+    {
+        "title": "Twilight",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Twilight",
+        "pubdate": "Wed, 02 Oct 2024 08:00:00 +0800"
     },
     {
         "title": "South Korean",
@@ -48,6 +48,11 @@
         "title": "Champions League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Champions%20League",
         "pubdate": "Wed, 02 Oct 2024 12:00:00 +0800"
+    },
+    {
+        "title": "Usher",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Usher",
+        "pubdate": "Wed, 02 Oct 2024 14:00:00 +0800"
     },
     {
         "title": "Dikembe Mutombo",
@@ -93,10 +98,5 @@
         "title": "Gavin Creel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Gavin%20Creel",
         "pubdate": "Tue, 01 Oct 2024 10:00:00 +0800"
-    },
-    {
-        "title": "What is October 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#What%20is%20October%201",
-        "pubdate": "Tue, 01 Oct 2024 06:00:00 +0800"
     }
 ]

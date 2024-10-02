@@ -1,18 +1,8 @@
 [
     {
-        "title": "イスラエル",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%82%A4%E3%82%B9%E3%83%A9%E3%82%A8%E3%83%AB",
-        "pubdate": "Wed, 02 Oct 2024 03:00:00 +0900"
-    },
-    {
-        "title": "Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Champions%20League",
-        "pubdate": "Tue, 01 Oct 2024 09:00:00 +0200"
-    },
-    {
-        "title": "Утильсбор",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%A3%D1%82%D0%B8%D0%BB%D1%8C%D1%81%D0%B1%D0%BE%D1%80",
-        "pubdate": "Wed, 02 Oct 2024 02:00:00 +0300"
+        "title": "Israel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Israel",
+        "pubdate": "Wed, 02 Oct 2024 01:30:00 +0530"
     },
     {
         "title": "John Amos",
@@ -20,9 +10,9 @@
         "pubdate": "Tue, 01 Oct 2024 12:00:00 -0700"
     },
     {
-        "title": "Israel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Israel",
-        "pubdate": "Wed, 02 Oct 2024 01:30:00 +0530"
+        "title": "伊朗",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E4%BC%8A%E6%9C%97",
+        "pubdate": "Wed, 02 Oct 2024 00:00:00 +0800"
     },
     {
         "title": "Bruno Retailleau ministre",
@@ -30,14 +20,44 @@
         "pubdate": "Wed, 02 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "Industry",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Industry",
-        "pubdate": "Wed, 02 Oct 2024 00:00:00 +0100"
+        "title": "Утильсбор",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%A3%D1%82%D0%B8%D0%BB%D1%8C%D1%81%D0%B1%D0%BE%D1%80",
+        "pubdate": "Wed, 02 Oct 2024 02:00:00 +0300"
     },
     {
-        "title": "伊朗",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E4%BC%8A%E6%9C%97",
-        "pubdate": "Wed, 02 Oct 2024 00:00:00 +0800"
+        "title": "Champions-League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Champions-League",
+        "pubdate": "Tue, 01 Oct 2024 09:00:00 +0200"
+    },
+    {
+        "title": "CNN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#CNN",
+        "pubdate": "Wed, 02 Oct 2024 07:00:00 +0100"
+    },
+    {
+        "title": "イスラエル",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%82%A4%E3%82%B9%E3%83%A9%E3%82%A8%E3%83%AB",
+        "pubdate": "Wed, 02 Oct 2024 03:00:00 +0900"
+    },
+    {
+        "title": "News",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#News",
+        "pubdate": "Wed, 02 Oct 2024 03:00:00 +0200"
+    },
+    {
+        "title": "Times of Israel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Times%20of%20Israel",
+        "pubdate": "Wed, 02 Oct 2024 02:00:00 -0400"
+    },
+    {
+        "title": "Arsenal vs PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Arsenal%20vs%20PSG",
+        "pubdate": "Tue, 01 Oct 2024 10:00:00 +0200"
+    },
+    {
+        "title": "Konya deprem",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Konya%20deprem",
+        "pubdate": "Wed, 02 Oct 2024 02:00:00 +0300"
     },
     {
         "title": "התרת נדרים",
@@ -50,53 +70,33 @@
         "pubdate": "Wed, 02 Oct 2024 00:00:00 +0300"
     },
     {
-        "title": "Velez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Velez",
-        "pubdate": "Wed, 02 Oct 2024 00:00:00 -0300"
-    },
-    {
-        "title": "Iran",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Iran",
-        "pubdate": "Wed, 02 Oct 2024 08:00:00 +1300"
-    },
-    {
-        "title": "Rheinmetall-Aktie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rheinmetall-Aktie",
-        "pubdate": "Wed, 02 Oct 2024 07:00:00 +0200"
-    },
-    {
-        "title": "Slovan Bratislava vs Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Slovan%20Bratislava%20vs%20Man%20City",
-        "pubdate": "Wed, 02 Oct 2024 03:00:00 +0800"
-    },
-    {
-        "title": "Gago",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Gago",
-        "pubdate": "Wed, 02 Oct 2024 01:00:00 -0300"
-    },
-    {
-        "title": "Ryujinx",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ryujinx",
-        "pubdate": "Wed, 02 Oct 2024 00:00:00 -0500"
-    },
-    {
         "title": "Champions",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Champions",
         "pubdate": "Tue, 01 Oct 2024 05:00:00 -0600"
     },
     {
-        "title": "Barca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Barca",
-        "pubdate": "Tue, 01 Oct 2024 20:00:00 +0100"
+        "title": "Slovan Bratislava đấu với Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Slovan%20Bratislava%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Man%20City",
+        "pubdate": "Wed, 02 Oct 2024 02:00:00 +0700"
     },
     {
-        "title": "ميلان",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#%D9%85%D9%8A%D9%84%D8%A7%D9%86",
-        "pubdate": "Wed, 02 Oct 2024 00:00:00 +0300"
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Barcelona",
+        "pubdate": "Wed, 02 Oct 2024 01:00:00 +0200"
     },
     {
-        "title": "Nachrichten",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Nachrichten",
-        "pubdate": "Wed, 02 Oct 2024 00:00:00 +0200"
+        "title": "سوزي الاردنيه",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=EG#%D8%B3%D9%88%D8%B2%D9%8A%20%D8%A7%D9%84%D8%A7%D8%B1%D8%AF%D9%86%D9%8A%D9%87",
+        "pubdate": "Wed, 02 Oct 2024 01:00:00 +0300"
+    },
+    {
+        "title": "이란",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9D%B4%EB%9E%80",
+        "pubdate": "Wed, 02 Oct 2024 02:00:00 +0900"
+    },
+    {
+        "title": "Velez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Velez",
+        "pubdate": "Wed, 02 Oct 2024 00:00:00 -0300"
     }
 ]
