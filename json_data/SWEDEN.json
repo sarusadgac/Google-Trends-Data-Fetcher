@@ -25,11 +25,6 @@
         "pubdate": "Tue, 01 Oct 2024 21:00:00 +0200"
     },
     {
-        "title": "Israel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Israel",
-        "pubdate": "Tue, 01 Oct 2024 19:00:00 +0200"
-    },
-    {
         "title": "CNN",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#CNN",
         "pubdate": "Tue, 01 Oct 2024 20:00:00 +0200"
@@ -98,5 +93,10 @@
         "title": "Oktober",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Oktober",
         "pubdate": "Tue, 01 Oct 2024 18:00:00 +0200"
+    },
+    {
+        "title": "Säffle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#S%C3%A4ffle",
+        "pubdate": "Tue, 01 Oct 2024 00:00:00 +0200"
     }
 ]
