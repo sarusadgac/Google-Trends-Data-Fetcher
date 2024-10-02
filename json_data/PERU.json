@@ -1,10 +1,5 @@
 [
     {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Barcelona",
-        "pubdate": "Tue, 01 Oct 2024 11:00:00 -0500"
-    },
-    {
         "title": "Champions League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Champions%20League",
         "pubdate": "Tue, 01 Oct 2024 09:00:00 -0500"
@@ -13,6 +8,11 @@
         "title": "Champions",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Champions",
         "pubdate": "Tue, 01 Oct 2024 10:00:00 -0500"
+    },
+    {
+        "title": "Arsenal - PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Arsenal%20-%20PSG",
+        "pubdate": "Tue, 01 Oct 2024 11:00:00 -0500"
     },
     {
         "title": "Leverkusen - Milan",
@@ -40,8 +40,8 @@
         "pubdate": "Tue, 01 Oct 2024 02:00:00 -0500"
     },
     {
-        "title": "Dortmund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Dortmund",
+        "title": "Borussia Dortmund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Borussia%20Dortmund",
         "pubdate": "Tue, 01 Oct 2024 13:00:00 -0500"
     },
     {
@@ -80,11 +80,6 @@
         "pubdate": "Tue, 01 Oct 2024 19:00:00 -0500"
     },
     {
-        "title": "Ley 32108",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Ley%2032108",
-        "pubdate": "Tue, 01 Oct 2024 14:00:00 -0500"
-    },
-    {
         "title": "Salzburg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Salzburg",
         "pubdate": "Tue, 01 Oct 2024 13:00:00 -0500"
@@ -98,5 +93,10 @@
         "title": "Octubre",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Octubre",
         "pubdate": "Tue, 01 Oct 2024 08:00:00 -0500"
+    },
+    {
+        "title": "Rosario Central  Vélez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Rosario%20Central%20%20V%C3%A9lez",
+        "pubdate": "Tue, 01 Oct 2024 21:00:00 -0500"
     }
 ]
