@@ -45,11 +45,6 @@
         "pubdate": "Tue, 01 Oct 2024 09:00:00 +0200"
     },
     {
-        "title": "Hermanos Pou",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Hermanos%20Pou",
-        "pubdate": "Tue, 01 Oct 2024 23:00:00 +0200"
-    },
-    {
         "title": "Iniesta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Iniesta",
         "pubdate": "Tue, 01 Oct 2024 13:00:00 +0200"
@@ -73,6 +68,11 @@
         "title": "Leverkusen - Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Leverkusen%20-%20Milan",
         "pubdate": "Tue, 01 Oct 2024 21:00:00 +0200"
+    },
+    {
+        "title": "Hermanos Pou",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Hermanos%20Pou",
+        "pubdate": "Tue, 01 Oct 2024 23:00:00 +0200"
     },
     {
         "title": "FCB",
