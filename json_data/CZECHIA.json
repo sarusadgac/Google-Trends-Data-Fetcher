@@ -10,11 +10,6 @@
         "pubdate": "Thu, 03 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "3.10",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#3.10",
-        "pubdate": "Thu, 03 Oct 2024 11:00:00 +0200"
-    },
-    {
         "title": "Fondee",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Fondee",
         "pubdate": "Thu, 03 Oct 2024 08:00:00 +0200"
@@ -42,11 +37,6 @@
     {
         "title": "John Amos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#John%20Amos",
-        "pubdate": "Wed, 02 Oct 2024 08:00:00 +0200"
-    },
-    {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Barcelona",
         "pubdate": "Wed, 02 Oct 2024 08:00:00 +0200"
     },
     {
@@ -90,13 +80,23 @@
         "pubdate": "Wed, 02 Oct 2024 20:00:00 +0200"
     },
     {
-        "title": "Rastislav Trtík",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Rastislav%20Trt%C3%ADk",
-        "pubdate": "Wed, 02 Oct 2024 19:00:00 +0200"
-    },
-    {
         "title": "Jd Vance",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jd%20Vance",
         "pubdate": "Wed, 02 Oct 2024 20:00:00 +0200"
+    },
+    {
+        "title": "Elroq",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Elroq",
+        "pubdate": "Tue, 01 Oct 2024 20:00:00 +0200"
+    },
+    {
+        "title": "Liga mistrů",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Liga%20mistr%C5%AF",
+        "pubdate": "Tue, 01 Oct 2024 19:00:00 +0200"
+    },
+    {
+        "title": "Jan Lipavský",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jan%20Lipavsk%C3%BD",
+        "pubdate": "Tue, 01 Oct 2024 15:00:00 +0200"
     }
 ]

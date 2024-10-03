@@ -5,6 +5,11 @@
         "pubdate": "Thu, 03 Oct 2024 00:00:00 +0200"
     },
     {
+        "title": "Österåker",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#%C3%96ster%C3%A5ker",
+        "pubdate": "Thu, 03 Oct 2024 14:00:00 +0200"
+    },
+    {
         "title": "Ljusdal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ljusdal",
         "pubdate": "Wed, 02 Oct 2024 11:00:00 +0200"
@@ -18,6 +23,11 @@
         "title": "JD Vance",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#JD%20Vance",
         "pubdate": "Wed, 02 Oct 2024 08:00:00 +0200"
+    },
+    {
+        "title": "Förrädarna 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#F%C3%B6rr%C3%A4darna%202024",
+        "pubdate": "Wed, 02 Oct 2024 14:00:00 +0200"
     },
     {
         "title": "Aston Villa",
@@ -35,8 +45,8 @@
         "pubdate": "Wed, 02 Oct 2024 22:00:00 +0200"
     },
     {
-        "title": "C Gambino",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#C%20Gambino",
+        "title": "C.Gambino",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#C.Gambino",
         "pubdate": "Wed, 02 Oct 2024 17:00:00 +0200"
     },
     {
@@ -52,11 +62,6 @@
     {
         "title": "Studsvik",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Studsvik",
-        "pubdate": "Wed, 02 Oct 2024 20:00:00 +0200"
-    },
-    {
-        "title": "Förrädarna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#F%C3%B6rr%C3%A4darna",
         "pubdate": "Wed, 02 Oct 2024 20:00:00 +0200"
     },
     {
@@ -93,10 +98,5 @@
         "title": "Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Milan",
         "pubdate": "Wed, 02 Oct 2024 12:00:00 +0200"
-    },
-    {
-        "title": "Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Champions%20League",
-        "pubdate": "Tue, 01 Oct 2024 18:00:00 +0200"
     }
 ]
