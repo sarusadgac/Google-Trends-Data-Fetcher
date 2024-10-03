@@ -40,11 +40,6 @@
         "pubdate": "Wed, 02 Oct 2024 20:00:00 -0500"
     },
     {
-        "title": "Atalanta vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Atalanta%20vs",
-        "pubdate": "Wed, 02 Oct 2024 17:00:00 -0500"
-    },
-    {
         "title": "Dinamo Zagreb  Mónaco",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Dinamo%20Zagreb%20%20M%C3%B3naco",
         "pubdate": "Wed, 02 Oct 2024 14:00:00 -0500"
@@ -70,23 +65,23 @@
         "pubdate": "Wed, 02 Oct 2024 12:00:00 -0500"
     },
     {
-        "title": "Atletico",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Atletico",
-        "pubdate": "Wed, 02 Oct 2024 16:00:00 -0500"
-    },
-    {
         "title": "Frank Fritz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Frank%20Fritz",
         "pubdate": "Wed, 02 Oct 2024 10:00:00 -0500"
     },
     {
-        "title": "Flamengo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Flamengo",
-        "pubdate": "Wed, 02 Oct 2024 21:00:00 -0500"
+        "title": "Atletico",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Atletico",
+        "pubdate": "Wed, 02 Oct 2024 16:00:00 -0500"
     },
     {
         "title": "Gavin Creel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Gavin%20Creel",
+        "pubdate": "Wed, 02 Oct 2024 21:00:00 -0500"
+    },
+    {
+        "title": "Flamengo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Flamengo",
         "pubdate": "Wed, 02 Oct 2024 21:00:00 -0500"
     },
     {
@@ -98,5 +93,10 @@
         "title": "Conference League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Conference%20League",
         "pubdate": "Wed, 02 Oct 2024 12:00:00 -0500"
+    },
+    {
+        "title": "Punta Cana",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Punta%20Cana",
+        "pubdate": "Wed, 02 Oct 2024 22:00:00 -0500"
     }
 ]
