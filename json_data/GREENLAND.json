@@ -5,26 +5,6 @@
         "pubdate": "Thu, 03 Oct 2024 12:00:00 +0800"
     },
     {
-        "title": "Hamburg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hamburg",
-        "pubdate": "Thu, 03 Oct 2024 13:00:00 +0200"
-    },
-    {
-        "title": "Mean Girls",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mean%20Girls",
-        "pubdate": "Thu, 03 Oct 2024 08:00:00 -0700"
-    },
-    {
-        "title": "BTEUP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#BTEUP",
-        "pubdate": "Thu, 03 Oct 2024 15:30:00 +0530"
-    },
-    {
-        "title": "Chouette d'or",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Chouette%20d'or",
-        "pubdate": "Thu, 03 Oct 2024 12:00:00 +0200"
-    },
-    {
         "title": "2024 ICC women’s T20 World Cup",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#2024%20ICC%20women%E2%80%99s%20T20%20World%20Cup",
         "pubdate": "Thu, 03 Oct 2024 01:00:00 +0100"
@@ -35,59 +15,39 @@
         "pubdate": "Thu, 03 Oct 2024 15:00:00 +0300"
     },
     {
+        "title": "Chouette d'or",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Chouette%20d'or",
+        "pubdate": "Thu, 03 Oct 2024 12:00:00 +0200"
+    },
+    {
+        "title": "BTEUP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#BTEUP",
+        "pubdate": "Thu, 03 Oct 2024 15:30:00 +0530"
+    },
+    {
         "title": "Kalafina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#Kalafina",
         "pubdate": "Thu, 03 Oct 2024 11:00:00 +0900"
     },
     {
-        "title": "롤드컵",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%A1%A4%EB%93%9C%EC%BB%B5",
-        "pubdate": "Thu, 03 Oct 2024 23:00:00 +0900"
+        "title": "Mean Girls",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mean%20Girls",
+        "pubdate": "Thu, 03 Oct 2024 08:00:00 -0700"
     },
     {
-        "title": "安泰醫院",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%AE%89%E6%B3%B0%E9%86%AB%E9%99%A2",
-        "pubdate": "Thu, 03 Oct 2024 11:00:00 +0800"
+        "title": "Hamburg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hamburg",
+        "pubdate": "Thu, 03 Oct 2024 13:00:00 +0200"
     },
     {
-        "title": "انتر ميامي",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#%D8%A7%D9%86%D8%AA%D8%B1%20%D9%85%D9%8A%D8%A7%D9%85%D9%8A",
-        "pubdate": "Thu, 03 Oct 2024 03:00:00 +0300"
+        "title": "Aston Villa vs Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Aston%20Villa%20vs%20Bayern",
+        "pubdate": "Thu, 03 Oct 2024 03:00:00 +0800"
     },
     {
-        "title": "Marburg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Marburg",
-        "pubdate": "Thu, 03 Oct 2024 08:00:00 +0200"
-    },
-    {
-        "title": "Columbus đấu Với Inter Miami",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Columbus%20%C4%91%E1%BA%A5u%20V%E1%BB%9Bi%20Inter%20Miami",
-        "pubdate": "Thu, 03 Oct 2024 07:00:00 +0700"
-    },
-    {
-        "title": "יזידית",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%99%D7%96%D7%99%D7%93%D7%99%D7%AA",
-        "pubdate": "Thu, 03 Oct 2024 14:00:00 +0300"
-    },
-    {
-        "title": "Knock Airport",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Knock%20Airport",
-        "pubdate": "Thu, 03 Oct 2024 08:00:00 +0100"
-    },
-    {
-        "title": "Iswaran",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Iswaran",
-        "pubdate": "Thu, 03 Oct 2024 10:00:00 +0800"
-    },
-    {
-        "title": "المؤسس عثمان الموسم السادس الحلقة 165",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=EG#%D8%A7%D9%84%D9%85%D8%A4%D8%B3%D8%B3%20%D8%B9%D8%AB%D9%85%D8%A7%D9%86%20%D8%A7%D9%84%D9%85%D9%88%D8%B3%D9%85%20%D8%A7%D9%84%D8%B3%D8%A7%D8%AF%D8%B3%20%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9%20165",
-        "pubdate": "Thu, 03 Oct 2024 03:00:00 +0300"
-    },
-    {
-        "title": "Eclipse solar 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Eclipse%20solar%202024",
-        "pubdate": "Thu, 03 Oct 2024 11:00:00 -0300"
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Real%20Madrid",
+        "pubdate": "Thu, 03 Oct 2024 07:00:00 +0300"
     },
     {
         "title": "Tag der Deutschen Einheit",
@@ -95,8 +55,48 @@
         "pubdate": "Thu, 03 Oct 2024 01:00:00 +0200"
     },
     {
+        "title": "Euro forint árfolyam",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Euro%20forint%20%C3%A1rfolyam",
+        "pubdate": "Thu, 03 Oct 2024 00:00:00 +0200"
+    },
+    {
+        "title": "Cid Moreira",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cid%20Moreira",
+        "pubdate": "Thu, 03 Oct 2024 08:00:00 -0500"
+    },
+    {
+        "title": "Hurricane Kirk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Hurricane%20Kirk",
+        "pubdate": "Thu, 03 Oct 2024 02:00:00 -0400"
+    },
+    {
+        "title": "롤드컵",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%A1%A4%EB%93%9C%EC%BB%B5",
+        "pubdate": "Thu, 03 Oct 2024 23:00:00 +0900"
+    },
+    {
         "title": "Dia-del-odontologo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Dia-del-odontologo",
-        "pubdate": "Thu, 03 Oct 2024 08:00:00 -0300"
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Dia-del-odontologo",
+        "pubdate": "Thu, 03 Oct 2024 07:00:00 -0500"
+    },
+    {
+        "title": "Robin Ramaekers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Robin%20Ramaekers",
+        "pubdate": "Thu, 03 Oct 2024 11:00:00 +0200"
+    },
+    {
+        "title": "Millie Bobby Brown",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Millie%20Bobby%20Brown",
+        "pubdate": "Thu, 03 Oct 2024 07:00:00 +0700"
+    },
+    {
+        "title": "Flamengo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Flamengo",
+        "pubdate": "Thu, 03 Oct 2024 07:00:00 +0100"
+    },
+    {
+        "title": "Corbetta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Corbetta",
+        "pubdate": "Thu, 03 Oct 2024 11:00:00 +0200"
     }
 ]
