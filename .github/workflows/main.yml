@@ -38,7 +38,11 @@ jobs:
       run: |
         python main.py
       continue-on-error: true  # Continue even if the script encounters errors
-
+      
+    # Run the generate_html.py script
+    - name: generate_html
+      run: python generate_html.py
+        
     # List generated files to verify JSON and text files were created
     - name: List generated files
       run: |
