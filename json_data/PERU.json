@@ -30,14 +30,14 @@
         "pubdate": "Thu, 03 Oct 2024 09:00:00 -0500"
     },
     {
-        "title": "Athletic - AZ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Athletic%20-%20AZ",
-        "pubdate": "Thu, 03 Oct 2024 15:00:00 -0500"
-    },
-    {
         "title": "Lazio vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Lazio%20vs",
         "pubdate": "Thu, 03 Oct 2024 15:00:00 -0500"
+    },
+    {
+        "title": "3 de octubre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#3%20de%20octubre",
+        "pubdate": "Thu, 03 Oct 2024 09:00:00 -0500"
     },
     {
         "title": "Galatasaray",
@@ -45,19 +45,24 @@
         "pubdate": "Thu, 03 Oct 2024 16:00:00 -0500"
     },
     {
+        "title": "Athletic Club",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Athletic%20Club",
+        "pubdate": "Thu, 03 Oct 2024 17:00:00 -0500"
+    },
+    {
         "title": "Elfsborg - Roma",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Elfsborg%20-%20Roma",
         "pubdate": "Thu, 03 Oct 2024 16:00:00 -0500"
     },
     {
-        "title": "Junior  Medellín",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Junior%20%20Medell%C3%ADn",
-        "pubdate": "Thu, 03 Oct 2024 01:00:00 -0500"
-    },
-    {
         "title": "Heartstopper",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Heartstopper",
         "pubdate": "Thu, 03 Oct 2024 13:00:00 -0500"
+    },
+    {
+        "title": "Junior  Medellín",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Junior%20%20Medell%C3%ADn",
+        "pubdate": "Thu, 03 Oct 2024 01:00:00 -0500"
     },
     {
         "title": "Keiko Fujimori",
@@ -93,10 +98,5 @@
         "title": "Girona - Feyenoord",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Girona%20-%20Feyenoord",
         "pubdate": "Wed, 02 Oct 2024 12:00:00 -0500"
-    },
-    {
-        "title": "RB Leipzig - Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#RB%20Leipzig%20-%20Juventus",
-        "pubdate": "Wed, 02 Oct 2024 09:00:00 -0500"
     }
 ]

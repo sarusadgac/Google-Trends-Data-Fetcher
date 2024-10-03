@@ -10,9 +10,14 @@
         "pubdate": "Thu, 03 Oct 2024 20:00:00 +0100"
     },
     {
+        "title": "Europa League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Europa%20League",
+        "pubdate": "Thu, 03 Oct 2024 21:00:00 +0100"
+    },
+    {
         "title": "Man utd",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Man%20utd",
-        "pubdate": "Thu, 03 Oct 2024 21:00:00 +0100"
+        "pubdate": "Thu, 03 Oct 2024 22:00:00 +0100"
     },
     {
         "title": "Mary O'Rourke",
@@ -40,6 +45,11 @@
         "pubdate": "Thu, 03 Oct 2024 10:00:00 +0100"
     },
     {
+        "title": "Man United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Man%20United",
+        "pubdate": "Thu, 03 Oct 2024 22:00:00 +0100"
+    },
+    {
         "title": "Knock Airport",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Knock%20Airport",
         "pubdate": "Thu, 03 Oct 2024 08:00:00 +0100"
@@ -55,16 +65,6 @@
         "pubdate": "Thu, 03 Oct 2024 11:00:00 +0100"
     },
     {
-        "title": "Queen's Pub Dalkey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Queen's%20Pub%20Dalkey",
-        "pubdate": "Thu, 03 Oct 2024 02:00:00 +0100"
-    },
-    {
-        "title": "Tom Cannon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Tom%20Cannon",
-        "pubdate": "Thu, 03 Oct 2024 00:00:00 +0100"
-    },
-    {
         "title": "Europa Conference League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Europa%20Conference%20League",
         "pubdate": "Thu, 03 Oct 2024 21:00:00 +0100"
@@ -75,8 +75,18 @@
         "pubdate": "Thu, 03 Oct 2024 21:00:00 +0100"
     },
     {
-        "title": "Marburg virus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Marburg%20virus",
+        "title": "Queen's Pub Dalkey",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Queen's%20Pub%20Dalkey",
+        "pubdate": "Thu, 03 Oct 2024 02:00:00 +0100"
+    },
+    {
+        "title": "Tom Cannon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Tom%20Cannon",
+        "pubdate": "Thu, 03 Oct 2024 00:00:00 +0100"
+    },
+    {
+        "title": "Marburg virus Rwanda",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Marburg%20virus%20Rwanda",
         "pubdate": "Thu, 03 Oct 2024 16:00:00 +0100"
     },
     {
@@ -85,18 +95,8 @@
         "pubdate": "Thu, 03 Oct 2024 15:00:00 +0100"
     },
     {
-        "title": "Chagos Islands",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Chagos%20Islands",
-        "pubdate": "Thu, 03 Oct 2024 16:00:00 +0100"
-    },
-    {
         "title": "Eminem",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Eminem",
         "pubdate": "Thu, 03 Oct 2024 21:00:00 +0100"
-    },
-    {
-        "title": "Inter Miami",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Inter%20Miami",
-        "pubdate": "Thu, 03 Oct 2024 09:00:00 +0100"
     }
 ]
