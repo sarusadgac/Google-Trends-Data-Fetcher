@@ -25,11 +25,6 @@
         "pubdate": "Wed, 02 Oct 2024 09:00:00 +0200"
     },
     {
-        "title": "Liverpool  Bologna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Liverpool%20%20Bologna",
-        "pubdate": "Wed, 02 Oct 2024 21:00:00 +0200"
-    },
-    {
         "title": "Gen Z",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Gen%20Z",
         "pubdate": "Wed, 02 Oct 2024 14:00:00 +0200"
@@ -63,6 +58,11 @@
         "title": "The Substance",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#The%20Substance",
         "pubdate": "Wed, 02 Oct 2024 19:00:00 +0200"
+    },
+    {
+        "title": "Millennials",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Millennials",
+        "pubdate": "Wed, 02 Oct 2024 21:00:00 +0200"
     },
     {
         "title": "Julia Roberts",
