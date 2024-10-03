@@ -1,6 +1,7 @@
 import os
 import json
 from datetime import datetime
+from flags import country_flags  # Import flag URLs from flags.py
 
 # Function to get current timestamp
 def get_current_time():
@@ -18,7 +19,7 @@ def generate_html():
         # Process only JSON files
         if json_file.endswith(".json"):
             country_name = json_file.replace('.json', '')
-            
+
             # Try to read and parse the JSON file, handle possible errors
             try:
                 with open(os.path.join(json_dir, json_file), 'r', encoding='utf-8') as f:
@@ -67,8 +68,8 @@ def generate_html():
 
     # Add each country's data to the HTML table
     for country, info in sorted_countries:
-        country_code = country[:2].lower()  # Generate flag URL using country code
-        flag_url = f"https://flagcdn.com/16x12/{country_code}.png"
+        # Use flag URLs from flags.py
+        flag_url = country_flags.get(country, "")  # Fetch the flag URL from flags.py
         html_content += f"""
                     <tr>
                         <td>{country}</td>
