@@ -5,18 +5,13 @@
         "pubdate": "Thu, 03 Oct 2024 01:00:00 +0200"
     },
     {
-        "title": "Tons of Rock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tons%20of%20Rock",
-        "pubdate": "Thu, 03 Oct 2024 01:00:00 +0200"
-    },
-    {
         "title": "Nick Cave",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nick%20Cave",
         "pubdate": "Wed, 02 Oct 2024 12:00:00 +0200"
     },
     {
-        "title": "J.D. Vance",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#J.D.%20Vance",
+        "title": "JD Vance",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#JD%20Vance",
         "pubdate": "Wed, 02 Oct 2024 07:00:00 +0200"
     },
     {
@@ -75,11 +70,6 @@
         "pubdate": "Wed, 02 Oct 2024 13:00:00 +0200"
     },
     {
-        "title": "Israel news",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Israel%20news",
-        "pubdate": "Wed, 02 Oct 2024 08:00:00 +0200"
-    },
-    {
         "title": "Autisme",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Autisme",
         "pubdate": "Wed, 02 Oct 2024 20:00:00 +0200"
@@ -98,5 +88,15 @@
         "title": "Iran",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Iran",
         "pubdate": "Tue, 01 Oct 2024 18:00:00 +0200"
+    },
+    {
+        "title": "Gaute Grøtta Grav",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Gaute%20Gr%C3%B8tta%20Grav",
+        "pubdate": "Tue, 01 Oct 2024 22:00:00 +0200"
+    },
+    {
+        "title": "Israel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Israel",
+        "pubdate": "Tue, 01 Oct 2024 20:00:00 +0200"
     }
 ]

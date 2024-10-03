@@ -10,6 +10,11 @@
         "pubdate": "Thu, 03 Oct 2024 10:00:00 +1300"
     },
     {
+        "title": "Dunedin weather",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Dunedin%20weather",
+        "pubdate": "Thu, 03 Oct 2024 18:00:00 +1300"
+    },
+    {
         "title": "Dally M 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Dally%20M%202024",
         "pubdate": "Thu, 03 Oct 2024 07:00:00 +1300"
@@ -93,10 +98,5 @@
         "title": "Frankie Valli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Frankie%20Valli",
         "pubdate": "Wed, 02 Oct 2024 16:00:00 +1300"
-    },
-    {
-        "title": "Tim Shadbolt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Tim%20Shadbolt",
-        "pubdate": "Wed, 02 Oct 2024 19:00:00 +1300"
     }
 ]
