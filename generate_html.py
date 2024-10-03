@@ -2,78 +2,85 @@ import os
 import json
 from datetime import datetime
 
-# Folder containing the JSON files
-json_folder = "./json_data"
+# Function to get current timestamp
+def get_current_time():
+    return datetime.now().strftime("%d-%m-%Y, %H:%M:%S")
 
-# Function to generate HTML
+# Function to generate the HTML page
 def generate_html():
-    # Initial HTML structure and Simple.css integration
-    html_content = """
+    countries_data = {}
+
+    # Read data from each country's JSON file
+    json_dir = './json_data'
+    for json_file in os.listdir(json_dir):
+        country_name = json_file.replace('.json', '')
+        with open(os.path.join(json_dir, json_file), 'r', encoding='utf-8') as f:
+            country_trends = json.load(f)
+            trends_list = [trend['title'] for trend in country_trends]
+            countries_data[country_name] = {
+                'trends': ', '.join(trends_list),
+                'last_update': get_current_time()
+            }
+
+    # Start generating HTML content with Simple.css included
+    html_content = f"""
     <!DOCTYPE html>
     <html lang="en">
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Google Trends Data</title>
-        <link rel="stylesheet" href="https://cdn.simplecss.org/simple.css">
+        <title>Google Trends Data Fetcher</title>
+        <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
     </head>
     <body>
         <header>
             <h1>Google Trends Data Fetcher</h1>
-            <p>This page displays the most popular search trends from various countries, updated regularly.</p>
+            <p>Using Google Trends data, this tool automatically collects and updates the most popular search trends from 51 different countries on a regular basis.</p>
         </header>
-        <section>
-    """
-    
-    # Read JSON files and convert them into tables
-    for country_file in os.listdir(json_folder):
-        if country_file.endswith(".json"):
-            country_name = country_file.replace(".json", "")
-            
-            with open(os.path.join(json_folder, country_file), "r", encoding="utf-8") as f:
-                trends = json.load(f)
-            
-            # Create a table for each country
-            html_content += f"""
-            <h2>Trend Data for {country_name}</h2>
+        <main>
             <table>
                 <thead>
                     <tr>
-                        <th>Title</th>
-                        <th>Link</th>
-                        <th>Publish Date</th>
+                        <th>Country</th>
+                        <th>Flag</th>
+                        <th>Trends</th>
+                        <th>Last Update</th>
                     </tr>
                 </thead>
                 <tbody>
-            """
-            
-            # Add each trend as a row in the table
-            for trend in trends:
-                html_content += f"""
-                <tr>
-                    <td>{trend['title']}</td>
-                    <td><a href="{trend['link']}">{trend['title']}</a></td>
-                    <td>{trend['pubdate']}</td>
-                </tr>
-                """
-            
-            html_content += "</tbody></table>"
-    
-    # Closing the HTML structure with a footer
+    """
+
+    # Sort countries, with Turkey at the top
+    sorted_countries = sorted(countries_data.items())
+    sorted_countries = [('TURKIYE', countries_data.pop('TURKIYE'))] + sorted_countries
+
+    # Add each country's data to the HTML table
+    for country, info in sorted_countries:
+        flag_url = f"https://flagcdn.com/16x12/{country.lower()[:2]}.png"
+        html_content += f"""
+                    <tr>
+                        <td>{country}</td>
+                        <td><img src="{flag_url}" alt="{country} Flag"></td>
+                        <td>{info['trends']}</td>
+                        <td>{info['last_update']}</td>
+                    </tr>
+        """
+
+    # Close table and HTML tags
     html_content += """
-        </section>
+                </tbody>
+            </table>
+        </main>
         <footer>
-            <p>Author <a href="https://x.com/sarusadgac">sarusadgac</a></p>
-            <p>Last Update: {}</p>
+            <p>Author: <a href="https://x.com/sarusadgac">sarusadgac</a></p>
         </footer>
     </body>
     </html>
-    """.format(datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
-    
-    # Save the generated HTML file
-    with open("index.html", "w", encoding="utf-8") as f:
+    """
+
+    # Write the HTML content to a file
+    with open('index.html', 'w', encoding='utf-8') as f:
         f.write(html_content)
-    print("HTML file generated successfully!")
 
 # Main function
 if __name__ == "__main__":
