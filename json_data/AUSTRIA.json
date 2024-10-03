@@ -5,11 +5,6 @@
         "pubdate": "Thu, 03 Oct 2024 02:00:00 +0200"
     },
     {
-        "title": "SK STURM GRAZ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#SK%20STURM%20GRAZ",
-        "pubdate": "Thu, 03 Oct 2024 06:00:00 +0200"
-    },
-    {
         "title": "Catcalling",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Catcalling",
         "pubdate": "Thu, 03 Oct 2024 06:00:00 +0200"
@@ -18,11 +13,6 @@
         "title": "Lady Gaga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Lady%20Gaga",
         "pubdate": "Thu, 03 Oct 2024 00:00:00 +0200"
-    },
-    {
-        "title": "LASK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#LASK",
-        "pubdate": "Thu, 03 Oct 2024 10:00:00 +0200"
     },
     {
         "title": "Matthew Perry",
@@ -50,19 +40,24 @@
         "pubdate": "Thu, 03 Oct 2024 11:00:00 +0200"
     },
     {
-        "title": "ORF salzburg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#ORF%20salzburg",
-        "pubdate": "Thu, 03 Oct 2024 07:00:00 +0200"
-    },
-    {
         "title": "Gauguin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Gauguin",
         "pubdate": "Thu, 03 Oct 2024 09:00:00 +0200"
     },
     {
+        "title": "Sturm Graz – FC Brügge",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sturm%20Graz%20%E2%80%93%20FC%20Br%C3%BCgge",
+        "pubdate": "Wed, 02 Oct 2024 10:00:00 +0200"
+    },
+    {
         "title": "Rapid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rapid",
         "pubdate": "Wed, 02 Oct 2024 17:00:00 +0200"
+    },
+    {
+        "title": "STURM GRAZ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#STURM%20GRAZ",
+        "pubdate": "Wed, 02 Oct 2024 13:00:00 +0200"
     },
     {
         "title": "Marburg-Virus",
@@ -98,5 +93,10 @@
         "title": "John Amos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#John%20Amos",
         "pubdate": "Wed, 02 Oct 2024 00:00:00 +0200"
+    },
+    {
+        "title": "Liverpool – Bologna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Liverpool%20%E2%80%93%20Bologna",
+        "pubdate": "Wed, 02 Oct 2024 21:00:00 +0200"
     }
 ]
