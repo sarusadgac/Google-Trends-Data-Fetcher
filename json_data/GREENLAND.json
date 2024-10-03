@@ -5,26 +5,6 @@
         "pubdate": "Thu, 03 Oct 2024 15:00:00 +0300"
     },
     {
-        "title": "Hamburg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hamburg",
-        "pubdate": "Thu, 03 Oct 2024 13:00:00 +0200"
-    },
-    {
-        "title": "Lucas Coly",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Lucas%20Coly",
-        "pubdate": "Thu, 03 Oct 2024 08:00:00 -0700"
-    },
-    {
-        "title": "Chouette d'or",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Chouette%20d'or",
-        "pubdate": "Thu, 03 Oct 2024 12:00:00 +0200"
-    },
-    {
-        "title": "Anil Ambani Reliance Power",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Anil%20Ambani%20Reliance%20Power",
-        "pubdate": "Thu, 03 Oct 2024 07:30:00 +0530"
-    },
-    {
         "title": "2024 ICC women’s T20 World Cup",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#2024%20ICC%20women%E2%80%99s%20T20%20World%20Cup",
         "pubdate": "Thu, 03 Oct 2024 01:00:00 +0100"
@@ -35,59 +15,34 @@
         "pubdate": "Thu, 03 Oct 2024 11:00:00 +0900"
     },
     {
-        "title": "合和商場",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%90%88%E5%92%8C%E5%95%86%E5%A0%B4",
-        "pubdate": "Fri, 04 Oct 2024 00:00:00 +0800"
-    },
-    {
-        "title": "Real Madryt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Real%20Madryt",
-        "pubdate": "Thu, 03 Oct 2024 00:00:00 +0200"
-    },
-    {
-        "title": "Ολυμπιακός εναντίον Μπράγκα",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%9F%CE%BB%CF%85%CE%BC%CF%80%CE%B9%CE%B1%CE%BA%CF%8C%CF%82%20%CE%B5%CE%BD%CE%B1%CE%BD%CF%84%CE%AF%CE%BF%CE%BD%20%CE%9C%CF%80%CF%81%CE%AC%CE%B3%CE%BA%CE%B1",
-        "pubdate": "Thu, 03 Oct 2024 08:00:00 +0300"
-    },
-    {
-        "title": "Real Sociedad  Anderlecht",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Real%20Sociedad%20%20Anderlecht",
-        "pubdate": "Thu, 03 Oct 2024 01:00:00 +0200"
-    },
-    {
-        "title": "Dia del odontologo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Dia%20del%20odontologo",
-        "pubdate": "Thu, 03 Oct 2024 07:00:00 -0500"
-    },
-    {
-        "title": "انتر ميامي",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=EG#%D8%A7%D9%86%D8%AA%D8%B1%20%D9%85%D9%8A%D8%A7%D9%85%D9%8A",
-        "pubdate": "Thu, 03 Oct 2024 03:00:00 +0300"
-    },
-    {
-        "title": "Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Tottenham",
-        "pubdate": "Thu, 03 Oct 2024 11:00:00 -0500"
-    },
-    {
-        "title": "Marburg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Marburg",
+        "title": "Göppingen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#G%C3%B6ppingen",
         "pubdate": "Thu, 03 Oct 2024 08:00:00 +0200"
     },
     {
-        "title": "Hurricane Kirk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Hurricane%20Kirk",
-        "pubdate": "Thu, 03 Oct 2024 02:00:00 -0400"
+        "title": "Lucas Coly",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Lucas%20Coly",
+        "pubdate": "Thu, 03 Oct 2024 08:00:00 -0700"
     },
     {
-        "title": "Dia del Novio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Dia%20del%20Novio",
-        "pubdate": "Thu, 03 Oct 2024 09:00:00 -0300"
+        "title": "Anil Ambani Reliance Power",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Anil%20Ambani%20Reliance%20Power",
+        "pubdate": "Thu, 03 Oct 2024 07:30:00 +0530"
     },
     {
-        "title": "Dunedin weather",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Dunedin%20weather",
-        "pubdate": "Thu, 03 Oct 2024 18:00:00 +1300"
+        "title": "Chouette d'or",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Chouette%20d'or",
+        "pubdate": "Thu, 03 Oct 2024 12:00:00 +0200"
+    },
+    {
+        "title": "熱刺",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E7%86%B1%E5%88%BA",
+        "pubdate": "Fri, 04 Oct 2024 02:00:00 +0800"
+    },
+    {
+        "title": "Tag der Deutschen Einheit",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tag%20der%20Deutschen%20Einheit",
+        "pubdate": "Thu, 03 Oct 2024 01:00:00 +0200"
     },
     {
         "title": "Mary O'Rourke",
@@ -95,8 +50,53 @@
         "pubdate": "Thu, 03 Oct 2024 17:00:00 +0100"
     },
     {
+        "title": "الاتحاد",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF",
+        "pubdate": "Thu, 03 Oct 2024 17:00:00 +0300"
+    },
+    {
+        "title": "สเปอร์ส",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TH#%E0%B8%AA%E0%B9%80%E0%B8%9B%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AA",
+        "pubdate": "Fri, 04 Oct 2024 01:00:00 +0700"
+    },
+    {
+        "title": "Boyfriend Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Boyfriend%20Day",
+        "pubdate": "Thu, 03 Oct 2024 01:00:00 +0100"
+    },
+    {
+        "title": "Columbus vs Inter Miami",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Columbus%20vs%20Inter%20Miami",
+        "pubdate": "Thu, 03 Oct 2024 04:00:00 +0200"
+    },
+    {
+        "title": "Ferencváros  (Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Ferencv%C3%A1ros%20%20(Tottenham",
+        "pubdate": "Thu, 03 Oct 2024 12:00:00 -0500"
+    },
+    {
+        "title": "Eclipse",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Eclipse",
+        "pubdate": "Thu, 03 Oct 2024 10:00:00 -0300"
+    },
+    {
+        "title": "Ferencváros vs Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Ferencv%C3%A1ros%20vs%20Tottenham",
+        "pubdate": "Thu, 03 Oct 2024 19:00:00 +0300"
+    },
+    {
+        "title": "Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Tottenham",
+        "pubdate": "Thu, 03 Oct 2024 11:00:00 -0500"
+    },
+    {
+        "title": "바이에른 뮌헨",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%B0%94%EC%9D%B4%EC%97%90%EB%A5%B8%20%EB%AE%8C%ED%97%A8",
+        "pubdate": "Thu, 03 Oct 2024 07:00:00 +0900"
+    },
+    {
         "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Real%20Madrid",
-        "pubdate": "Thu, 03 Oct 2024 02:00:00 +0200"
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Real%20Madrid",
+        "pubdate": "Thu, 03 Oct 2024 01:00:00 +0200"
     }
 ]
