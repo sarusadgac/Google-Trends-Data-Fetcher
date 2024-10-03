@@ -71,7 +71,7 @@ def generate_html():
     """.format(datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
     
     # Save the generated HTML file
-    with open("trends.html", "w", encoding="utf-8") as f:
+    with open("index.html", "w", encoding="utf-8") as f:
         f.write(html_content)
     print("HTML file generated successfully!")
 
