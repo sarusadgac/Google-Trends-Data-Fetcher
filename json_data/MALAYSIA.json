@@ -45,11 +45,6 @@
         "pubdate": "Thu, 03 Oct 2024 14:00:00 +0800"
     },
     {
-        "title": "Le Tour de Langkawi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Le%20Tour%20de%20Langkawi",
-        "pubdate": "Thu, 03 Oct 2024 17:00:00 +0800"
-    },
-    {
         "title": "Liverpool vs Bologna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Liverpool%20vs%20Bologna",
         "pubdate": "Wed, 02 Oct 2024 06:00:00 +0800"
@@ -98,5 +93,10 @@
         "title": "CNN",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#CNN",
         "pubdate": "Wed, 02 Oct 2024 16:00:00 +0800"
+    },
+    {
+        "title": "Kuen Cheng",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Kuen%20Cheng",
+        "pubdate": "Wed, 02 Oct 2024 09:00:00 +0800"
     }
 ]
