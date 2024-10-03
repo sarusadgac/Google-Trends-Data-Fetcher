@@ -20,19 +20,29 @@
         "pubdate": "Wed, 02 Oct 2024 19:00:00 +0200"
     },
     {
-        "title": "Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Juventus",
-        "pubdate": "Wed, 02 Oct 2024 21:00:00 +0200"
-    },
-    {
         "title": "Marburg-Virus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Marburg-Virus",
         "pubdate": "Wed, 02 Oct 2024 20:00:00 +0200"
     },
     {
+        "title": "Benfica – Atlético Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Benfica%20%E2%80%93%20Atl%C3%A9tico%20Madrid",
+        "pubdate": "Wed, 02 Oct 2024 21:00:00 +0200"
+    },
+    {
+        "title": "RB Leipzig – Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#RB%20Leipzig%20%E2%80%93%20Juventus",
+        "pubdate": "Wed, 02 Oct 2024 21:00:00 +0200"
+    },
+    {
         "title": "Tim Walz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tim%20Walz",
         "pubdate": "Wed, 02 Oct 2024 09:00:00 +0200"
+    },
+    {
+        "title": "Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Juventus",
+        "pubdate": "Wed, 02 Oct 2024 22:00:00 +0200"
     },
     {
         "title": "Sinner",
@@ -43,11 +53,6 @@
         "title": "Benfica",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Benfica",
         "pubdate": "Wed, 02 Oct 2024 13:00:00 +0200"
-    },
-    {
-        "title": "Benfica – Atlético Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Benfica%20%E2%80%93%20Atl%C3%A9tico%20Madrid",
-        "pubdate": "Wed, 02 Oct 2024 21:00:00 +0200"
     },
     {
         "title": "Salt Störung",
@@ -63,6 +68,11 @@
         "title": "John Amos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#John%20Amos",
         "pubdate": "Wed, 02 Oct 2024 00:00:00 +0200"
+    },
+    {
+        "title": "Berghaus Foppa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Berghaus%20Foppa",
+        "pubdate": "Wed, 02 Oct 2024 23:00:00 +0200"
     },
     {
         "title": "Anzeigenhauptmeister Millionär",
@@ -88,15 +98,5 @@
         "title": "Blauzungenkrankheit",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Blauzungenkrankheit",
         "pubdate": "Wed, 02 Oct 2024 17:00:00 +0200"
-    },
-    {
-        "title": "Berghaus Foppa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Berghaus%20Foppa",
-        "pubdate": "Wed, 02 Oct 2024 23:00:00 +0200"
-    },
-    {
-        "title": "Girona FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Girona%20FC",
-        "pubdate": "Wed, 02 Oct 2024 21:00:00 +0200"
     }
 ]

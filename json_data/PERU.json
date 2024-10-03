@@ -50,14 +50,14 @@
         "pubdate": "Wed, 02 Oct 2024 14:00:00 -0500"
     },
     {
-        "title": "Frank Fritz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Frank%20Fritz",
-        "pubdate": "Wed, 02 Oct 2024 10:00:00 -0500"
-    },
-    {
         "title": "Megapuerto de Chancay",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Megapuerto%20de%20Chancay",
         "pubdate": "Wed, 02 Oct 2024 12:00:00 -0500"
+    },
+    {
+        "title": "Frank Fritz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Frank%20Fritz",
+        "pubdate": "Wed, 02 Oct 2024 10:00:00 -0500"
     },
     {
         "title": "Atletico",
@@ -73,11 +73,6 @@
         "title": "John Amos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#John%20Amos",
         "pubdate": "Wed, 02 Oct 2024 09:00:00 -0500"
-    },
-    {
-        "title": "Lille Olympique Sporting Club",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Lille%20Olympique%20Sporting%20Club",
-        "pubdate": "Wed, 02 Oct 2024 17:00:00 -0500"
     },
     {
         "title": "LOSC  Real Madrid",
@@ -98,5 +93,10 @@
         "title": "Arsenal - PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Arsenal%20-%20PSG",
         "pubdate": "Tue, 01 Oct 2024 11:00:00 -0500"
+    },
+    {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Barcelona",
+        "pubdate": "Tue, 01 Oct 2024 15:00:00 -0500"
     }
 ]
