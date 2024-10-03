@@ -35,6 +35,16 @@
         "pubdate": "Thu, 03 Oct 2024 09:00:00 +1300"
     },
     {
+        "title": "Inter Miami",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Inter%20Miami",
+        "pubdate": "Thu, 03 Oct 2024 17:00:00 +1300"
+    },
+    {
+        "title": "Matty Acton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Matty%20Acton",
+        "pubdate": "Thu, 03 Oct 2024 17:00:00 +1300"
+    },
+    {
         "title": "Frank Fritz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Frank%20Fritz",
         "pubdate": "Wed, 02 Oct 2024 10:00:00 +1300"
@@ -88,15 +98,5 @@
         "title": "Tim Shadbolt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Tim%20Shadbolt",
         "pubdate": "Wed, 02 Oct 2024 19:00:00 +1300"
-    },
-    {
-        "title": "John Amos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#John%20Amos",
-        "pubdate": "Wed, 02 Oct 2024 13:00:00 +1300"
-    },
-    {
-        "title": "Silver Ferns",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Silver%20Ferns",
-        "pubdate": "Wed, 02 Oct 2024 20:00:00 +1300"
     }
 ]
