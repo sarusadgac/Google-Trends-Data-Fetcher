@@ -1,7 +1,7 @@
 [
     {
-        "title": "Columbus Crew  Inter Miami",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Columbus%20Crew%20%20Inter%20Miami",
+        "title": "Columbus Crew - Inter Miami",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Columbus%20Crew%20-%20Inter%20Miami",
         "pubdate": "Thu, 03 Oct 2024 03:00:00 +0200"
     },
     {
@@ -20,11 +20,6 @@
         "pubdate": "Thu, 03 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "Dia del Novio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Dia%20del%20Novio",
-        "pubdate": "Thu, 03 Oct 2024 10:00:00 +0200"
-    },
-    {
         "title": "Infanta Sofía",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Infanta%20Sof%C3%ADa",
         "pubdate": "Thu, 03 Oct 2024 12:00:00 +0200"
@@ -33,6 +28,11 @@
         "title": "Euroliga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Euroliga",
         "pubdate": "Thu, 03 Oct 2024 13:00:00 +0200"
+    },
+    {
+        "title": "Conference League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Conference%20League",
+        "pubdate": "Thu, 03 Oct 2024 17:00:00 +0200"
     },
     {
         "title": "San Francisco de Asis",
@@ -50,6 +50,11 @@
         "pubdate": "Thu, 03 Oct 2024 15:00:00 +0200"
     },
     {
+        "title": "Rosa Peral",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Rosa%20Peral",
+        "pubdate": "Thu, 03 Oct 2024 16:00:00 +0200"
+    },
+    {
         "title": "AZ Alkmaar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#AZ%20Alkmaar",
         "pubdate": "Thu, 03 Oct 2024 14:00:00 +0200"
@@ -65,14 +70,19 @@
         "pubdate": "Thu, 03 Oct 2024 01:00:00 +0200"
     },
     {
-        "title": "Rosa Peral",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Rosa%20Peral",
-        "pubdate": "Thu, 03 Oct 2024 16:00:00 +0200"
-    },
-    {
         "title": "Stefano Pilati",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Stefano%20Pilati",
         "pubdate": "Thu, 03 Oct 2024 15:00:00 +0200"
+    },
+    {
+        "title": "Anderlecht",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Anderlecht",
+        "pubdate": "Thu, 03 Oct 2024 17:00:00 +0200"
+    },
+    {
+        "title": "Cabeza rio Piles gijon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Cabeza%20rio%20Piles%20gijon",
+        "pubdate": "Thu, 03 Oct 2024 17:00:00 +0200"
     },
     {
         "title": "La Cosa",
@@ -88,15 +98,5 @@
         "title": "Youth League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Youth%20League",
         "pubdate": "Thu, 03 Oct 2024 00:00:00 +0200"
-    },
-    {
-        "title": "LOSC  Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#LOSC%20%20Real%20Madrid",
-        "pubdate": "Wed, 02 Oct 2024 10:00:00 +0200"
-    },
-    {
-        "title": "Benfica  Atlético Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Benfica%20%20Atl%C3%A9tico%20Madrid",
-        "pubdate": "Wed, 02 Oct 2024 20:00:00 +0200"
     }
 ]
