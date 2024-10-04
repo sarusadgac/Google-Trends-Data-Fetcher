@@ -5,6 +5,11 @@
         "pubdate": "Fri, 04 Oct 2024 08:00:00 +0800"
     },
     {
+        "title": "Europa League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Europa%20League",
+        "pubdate": "Fri, 04 Oct 2024 09:00:00 +0800"
+    },
+    {
         "title": "Marine Parade flood",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Marine%20Parade%20flood",
         "pubdate": "Fri, 04 Oct 2024 16:00:00 +0800"
@@ -20,19 +25,14 @@
         "pubdate": "Fri, 04 Oct 2024 07:00:00 +0800"
     },
     {
-        "title": "Phantom Of The Opera Singapore",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Phantom%20Of%20The%20Opera%20Singapore",
-        "pubdate": "Fri, 04 Oct 2024 21:00:00 +0800"
-    },
-    {
         "title": "Seatrium",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Seatrium",
         "pubdate": "Fri, 04 Oct 2024 14:00:00 +0800"
     },
     {
-        "title": "Man United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Man%20United",
-        "pubdate": "Fri, 04 Oct 2024 10:00:00 +0800"
+        "title": "The Platform 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#The%20Platform%202",
+        "pubdate": "Fri, 04 Oct 2024 21:00:00 +0800"
     },
     {
         "title": "Beirut",
@@ -43,6 +43,11 @@
         "title": "Conference League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Conference%20League",
         "pubdate": "Fri, 04 Oct 2024 10:00:00 +0800"
+    },
+    {
+        "title": "Phantom of the Opera",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Phantom%20of%20the%20Opera",
+        "pubdate": "Fri, 04 Oct 2024 22:00:00 +0800"
     },
     {
         "title": "Iswaran",
@@ -80,16 +85,6 @@
         "pubdate": "Thu, 03 Oct 2024 21:00:00 +0800"
     },
     {
-        "title": "Marburg virus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Marburg%20virus",
-        "pubdate": "Thu, 03 Oct 2024 07:00:00 +0800"
-    },
-    {
-        "title": "Azwan Bin Bohari",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Azwan%20Bin%20Bohari",
-        "pubdate": "Thu, 03 Oct 2024 21:00:00 +0800"
-    },
-    {
         "title": "Coldplay",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Coldplay",
         "pubdate": "Thu, 03 Oct 2024 08:00:00 +0800"
@@ -98,5 +93,10 @@
         "title": "Alcaraz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Alcaraz",
         "pubdate": "Thu, 03 Oct 2024 08:00:00 +0800"
+    },
+    {
+        "title": "Katong Plaza",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Katong%20Plaza",
+        "pubdate": "Thu, 03 Oct 2024 13:00:00 +0800"
     }
 ]
