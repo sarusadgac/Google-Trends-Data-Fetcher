@@ -10,11 +10,6 @@
         "pubdate": "Thu, 03 Oct 2024 08:00:00 +0200"
     },
     {
-        "title": "Eminem",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Eminem",
-        "pubdate": "Thu, 03 Oct 2024 22:00:00 +0200"
-    },
-    {
         "title": "Noah – Boleslav",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Noah%20%E2%80%93%20Boleslav",
         "pubdate": "Thu, 03 Oct 2024 19:00:00 +0200"
@@ -28,6 +23,11 @@
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Real%20Madrid",
         "pubdate": "Thu, 03 Oct 2024 01:00:00 +0200"
+    },
+    {
+        "title": "Bob Dylan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bob%20Dylan",
+        "pubdate": "Thu, 03 Oct 2024 22:00:00 +0200"
     },
     {
         "title": "Hoffenheim – Dynamo Kyjev",
