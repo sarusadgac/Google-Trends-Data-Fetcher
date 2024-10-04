@@ -1,6 +1,5 @@
 Augsburg Gladbach
 Promi Big Brother
-KSC
 Flughafen Frankfurt
 Polarlichter
 Musiala
@@ -18,3 +17,4 @@ Essen
 Werder Bremen
 Eintracht Frankfurt
 Hertha BSC
+Holstein Kiel

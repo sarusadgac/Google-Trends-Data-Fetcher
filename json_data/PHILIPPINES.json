@@ -10,14 +10,19 @@
         "pubdate": "Sat, 05 Oct 2024 01:00:00 +0800"
     },
     {
-        "title": "Grotesquerie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Grotesquerie",
-        "pubdate": "Sat, 05 Oct 2024 01:00:00 +0800"
-    },
-    {
         "title": "Nuggets vs Celtics",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Nuggets%20vs%20Celtics",
         "pubdate": "Sat, 05 Oct 2024 04:00:00 +0800"
+    },
+    {
+        "title": "NBA standings",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#NBA%20standings",
+        "pubdate": "Sat, 05 Oct 2024 01:00:00 +0800"
+    },
+    {
+        "title": "Grotesquerie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Grotesquerie",
+        "pubdate": "Sat, 05 Oct 2024 01:00:00 +0800"
     },
     {
         "title": "Eminem",
@@ -93,10 +98,5 @@
         "title": "Acquitted",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Acquitted",
         "pubdate": "Fri, 04 Oct 2024 19:00:00 +0800"
-    },
-    {
-        "title": "Japanese video",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Japanese%20video",
-        "pubdate": "Fri, 04 Oct 2024 07:00:00 +0800"
     }
 ]

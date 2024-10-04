@@ -10,6 +10,11 @@
         "pubdate": "Sat, 05 Oct 2024 06:00:00 +1000"
     },
     {
+        "title": "Kayla Harrison",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Kayla%20Harrison",
+        "pubdate": "Sat, 05 Oct 2024 02:00:00 +1000"
+    },
+    {
         "title": "Madagascar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Madagascar",
         "pubdate": "Sat, 05 Oct 2024 00:00:00 +1000"
@@ -65,14 +70,14 @@
         "pubdate": "Fri, 04 Oct 2024 14:00:00 +1000"
     },
     {
-        "title": "Oasis Australia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Oasis%20Australia",
-        "pubdate": "Fri, 04 Oct 2024 15:00:00 +1000"
-    },
-    {
         "title": "Garth Brooks",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Garth%20Brooks",
         "pubdate": "Fri, 04 Oct 2024 16:00:00 +1000"
+    },
+    {
+        "title": "Oasis Australia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Oasis%20Australia",
+        "pubdate": "Fri, 04 Oct 2024 15:00:00 +1000"
     },
     {
         "title": "Chagos Islands",
@@ -93,10 +98,5 @@
         "title": "Nick Haynes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Nick%20Haynes",
         "pubdate": "Fri, 04 Oct 2024 17:00:00 +1000"
-    },
-    {
-        "title": "Terrifier 3",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Terrifier%203",
-        "pubdate": "Fri, 04 Oct 2024 18:00:00 +1000"
     }
 ]
