@@ -1,35 +1,5 @@
 [
     {
-        "title": "Beşiktaş – Eintracht Frankfurt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Be%C5%9Fikta%C5%9F%20%E2%80%93%20Eintracht%20Frankfurt",
-        "pubdate": "Thu, 03 Oct 2024 21:00:00 +0200"
-    },
-    {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Manchester%20United",
-        "pubdate": "Fri, 04 Oct 2024 06:30:00 +0530"
-    },
-    {
-        "title": "День учителя",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%94%D0%B5%D0%BD%D1%8C%20%D1%83%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8F",
-        "pubdate": "Fri, 04 Oct 2024 07:00:00 +0300"
-    },
-    {
-        "title": "Port strike update",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Port%20strike%20update",
-        "pubdate": "Fri, 04 Oct 2024 00:00:00 -0700"
-    },
-    {
-        "title": "TNS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#TNS",
-        "pubdate": "Fri, 04 Oct 2024 08:00:00 +0100"
-    },
-    {
-        "title": "波圖 對曼聯",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E6%B3%A2%E5%9C%96%20%E5%B0%8D%E6%9B%BC%E8%81%AF",
-        "pubdate": "Fri, 04 Oct 2024 03:00:00 +0800"
-    },
-    {
         "title": "日本代表",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E6%97%A5%E6%9C%AC%E4%BB%A3%E8%A1%A8",
         "pubdate": "Fri, 04 Oct 2024 08:00:00 +0900"
@@ -40,14 +10,49 @@
         "pubdate": "Fri, 04 Oct 2024 09:00:00 +0200"
     },
     {
-        "title": "Lol 世界賽",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Lol%20%E4%B8%96%E7%95%8C%E8%B3%BD",
-        "pubdate": "Fri, 04 Oct 2024 00:00:00 +0800"
+        "title": "Beşiktaş – Eintracht Frankfurt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Be%C5%9Fikta%C5%9F%20%E2%80%93%20Eintracht%20Frankfurt",
+        "pubdate": "Thu, 03 Oct 2024 21:00:00 +0200"
     },
     {
-        "title": "Galatasaray",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Galatasaray",
-        "pubdate": "Fri, 04 Oct 2024 00:00:00 +0200"
+        "title": "Port strike update",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Port%20strike%20update",
+        "pubdate": "Fri, 04 Oct 2024 00:00:00 -0700"
+    },
+    {
+        "title": "波圖 對曼聯",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E6%B3%A2%E5%9C%96%20%E5%B0%8D%E6%9B%BC%E8%81%AF",
+        "pubdate": "Fri, 04 Oct 2024 03:00:00 +0800"
+    },
+    {
+        "title": "Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Manchester%20United",
+        "pubdate": "Fri, 04 Oct 2024 06:30:00 +0530"
+    },
+    {
+        "title": "TNS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#TNS",
+        "pubdate": "Fri, 04 Oct 2024 08:00:00 +0100"
+    },
+    {
+        "title": "День учителя",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%94%D0%B5%D0%BD%D1%8C%20%D1%83%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8F",
+        "pubdate": "Fri, 04 Oct 2024 07:00:00 +0300"
+    },
+    {
+        "title": "UEFA Europa League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#UEFA%20Europa%20League",
+        "pubdate": "Fri, 04 Oct 2024 00:00:00 +0300"
+    },
+    {
+        "title": "Raluca Moianu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Raluca%20Moianu",
+        "pubdate": "Fri, 04 Oct 2024 09:00:00 +0300"
+    },
+    {
+        "title": "Fideicomiso River",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Fideicomiso%20River",
+        "pubdate": "Fri, 04 Oct 2024 02:00:00 -0300"
     },
     {
         "title": "Állatok világnapja",
@@ -55,39 +60,34 @@
         "pubdate": "Fri, 04 Oct 2024 07:00:00 +0200"
     },
     {
-        "title": "Eminem",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Eminem",
-        "pubdate": "Fri, 04 Oct 2024 02:00:00 +0100"
-    },
-    {
-        "title": "Sydney Sweeney",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Sydney%20Sweeney",
-        "pubdate": "Fri, 04 Oct 2024 01:00:00 +0200"
-    },
-    {
-        "title": "Porto đấu với Man Utd",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Porto%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Man%20Utd",
-        "pubdate": "Fri, 04 Oct 2024 02:00:00 +0700"
-    },
-    {
-        "title": "Worlds 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Worlds%202024",
-        "pubdate": "Fri, 04 Oct 2024 05:00:00 +0800"
-    },
-    {
-        "title": "Kerem Demirbay",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Kerem%20Demirbay",
-        "pubdate": "Fri, 04 Oct 2024 00:00:00 +0300"
-    },
-    {
-        "title": "Samu Omorodion",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Samu%20Omorodion",
+        "title": "SK Slavia Praha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#SK%20Slavia%20Praha",
         "pubdate": "Fri, 04 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "Dan Da Dan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dan%20Da%20Dan",
-        "pubdate": "Fri, 04 Oct 2024 00:00:00 -0500"
+        "title": "Galatasaray",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Galatasaray",
+        "pubdate": "Fri, 04 Oct 2024 01:00:00 +0200"
+    },
+    {
+        "title": "RSCA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#RSCA",
+        "pubdate": "Fri, 04 Oct 2024 00:00:00 +0200"
+    },
+    {
+        "title": "Joker 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Joker%202",
+        "pubdate": "Fri, 04 Oct 2024 03:00:00 -0400"
+    },
+    {
+        "title": "Chelsea vs Gent",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Chelsea%20vs%20Gent",
+        "pubdate": "Fri, 04 Oct 2024 03:00:00 +0800"
+    },
+    {
+        "title": "Clarissa Burt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Clarissa%20Burt",
+        "pubdate": "Fri, 04 Oct 2024 00:00:00 +0200"
     },
     {
         "title": "هاشم صفي الدين حزب الله",
@@ -95,8 +95,8 @@
         "pubdate": "Fri, 04 Oct 2024 01:00:00 +0300"
     },
     {
-        "title": "Adam Pearson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Adam%20Pearson",
-        "pubdate": "Fri, 04 Oct 2024 00:00:00 -0500"
+        "title": "هاشم صفي الدين",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=EG#%D9%87%D8%A7%D8%B4%D9%85%20%D8%B5%D9%81%D9%8A%20%D8%A7%D9%84%D8%AF%D9%8A%D9%86",
+        "pubdate": "Fri, 04 Oct 2024 01:00:00 +0300"
     }
 ]
