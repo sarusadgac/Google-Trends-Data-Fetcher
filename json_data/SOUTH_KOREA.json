@@ -35,6 +35,11 @@
         "pubdate": "Fri, 04 Oct 2024 15:00:00 +0900"
     },
     {
+        "title": "김고은",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B9%80%EA%B3%A0%EC%9D%80",
+        "pubdate": "Fri, 04 Oct 2024 22:00:00 +0900"
+    },
+    {
         "title": "BJ 살해",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#BJ%20%EC%82%B4%ED%95%B4",
         "pubdate": "Fri, 04 Oct 2024 22:00:00 +0900"
@@ -93,10 +98,5 @@
         "title": "민지",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%AF%BC%EC%A7%80",
         "pubdate": "Thu, 03 Oct 2024 10:00:00 +0900"
-    },
-    {
-        "title": "이승엽",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9D%B4%EC%8A%B9%EC%97%BD",
-        "pubdate": "Wed, 02 Oct 2024 22:00:00 +0900"
     }
 ]

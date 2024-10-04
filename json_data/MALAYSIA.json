@@ -40,11 +40,6 @@
         "pubdate": "Fri, 04 Oct 2024 14:00:00 +0800"
     },
     {
-        "title": "Dandadan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Dandadan",
-        "pubdate": "Fri, 04 Oct 2024 11:00:00 +0800"
-    },
-    {
         "title": "Wisma Transit",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Wisma%20Transit",
         "pubdate": "Fri, 04 Oct 2024 03:00:00 +0800"
@@ -98,5 +93,10 @@
         "title": "Inter Miami",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Inter%20Miami",
         "pubdate": "Thu, 03 Oct 2024 09:00:00 +0800"
+    },
+    {
+        "title": "Boyfriend Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Boyfriend%20Day",
+        "pubdate": "Thu, 03 Oct 2024 10:00:00 +0800"
     }
 ]
