@@ -70,11 +70,6 @@
         "pubdate": "Thu, 03 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "Cinkciarz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Cinkciarz",
-        "pubdate": "Thu, 03 Oct 2024 08:00:00 +0200"
-    },
-    {
         "title": "Marcin Przydacz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Marcin%20Przydacz",
         "pubdate": "Thu, 03 Oct 2024 09:00:00 +0200"
@@ -98,5 +93,10 @@
         "title": "Joanna Jarmołowicz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Joanna%20Jarmo%C5%82owicz",
         "pubdate": "Thu, 03 Oct 2024 17:00:00 +0200"
+    },
+    {
+        "title": "Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Tottenham",
+        "pubdate": "Thu, 03 Oct 2024 20:00:00 +0200"
     }
 ]
