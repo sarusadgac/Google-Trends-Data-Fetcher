@@ -1,5 +1,10 @@
 [
     {
+        "title": "Galatasaray",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Galatasaray",
+        "pubdate": "Fri, 04 Oct 2024 00:00:00 +0200"
+    },
+    {
         "title": "Kamala Harris",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Kamala%20Harris",
         "pubdate": "Fri, 04 Oct 2024 00:00:00 +0200"
@@ -10,6 +15,11 @@
         "pubdate": "Fri, 04 Oct 2024 00:00:00 +0200"
     },
     {
+        "title": "Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Manchester%20United",
+        "pubdate": "Thu, 03 Oct 2024 21:00:00 +0200"
+    },
+    {
         "title": "Cercle Brügge – St.Gallen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Cercle%20Br%C3%BCgge%20%E2%80%93%20St.Gallen",
         "pubdate": "Thu, 03 Oct 2024 19:00:00 +0200"
@@ -18,11 +28,6 @@
         "title": "Tag der Deutschen Einheit",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tag%20der%20Deutschen%20Einheit",
         "pubdate": "Thu, 03 Oct 2024 01:00:00 +0200"
-    },
-    {
-        "title": "Porto Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Porto%20Manchester%20United",
-        "pubdate": "Thu, 03 Oct 2024 21:00:00 +0200"
     },
     {
         "title": "Conference League",
@@ -50,24 +55,19 @@
         "pubdate": "Thu, 03 Oct 2024 11:00:00 +0200"
     },
     {
-        "title": "Inter Miami",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Inter%20Miami",
-        "pubdate": "Thu, 03 Oct 2024 08:00:00 +0200"
+        "title": "SBB: Störungen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#SBB:%20St%C3%B6rungen",
+        "pubdate": "Thu, 03 Oct 2024 09:00:00 +0200"
     },
     {
-        "title": "Tessa Ganserer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tessa%20Ganserer",
+        "title": "Inter Miami",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Inter%20Miami",
         "pubdate": "Thu, 03 Oct 2024 08:00:00 +0200"
     },
     {
         "title": "Bremer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bremer",
         "pubdate": "Thu, 03 Oct 2024 12:00:00 +0200"
-    },
-    {
-        "title": "Fremdereignis SBB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Fremdereignis%20SBB",
-        "pubdate": "Thu, 03 Oct 2024 09:00:00 +0200"
     },
     {
         "title": "Golden Bachelor",
