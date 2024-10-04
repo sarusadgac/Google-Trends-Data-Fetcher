@@ -5,11 +5,6 @@
         "pubdate": "Fri, 04 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "Nammo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nammo",
-        "pubdate": "Fri, 04 Oct 2024 01:00:00 +0200"
-    },
-    {
         "title": "Ond spiral",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ond%20spiral",
         "pubdate": "Fri, 04 Oct 2024 01:00:00 +0200"
@@ -98,5 +93,10 @@
         "title": "Perimenopause",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Perimenopause",
         "pubdate": "Wed, 02 Oct 2024 08:00:00 +0200"
+    },
+    {
+        "title": "Aston Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Aston%20Villa",
+        "pubdate": "Wed, 02 Oct 2024 22:00:00 +0200"
     }
 ]
