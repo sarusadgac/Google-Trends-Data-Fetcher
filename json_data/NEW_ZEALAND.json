@@ -50,11 +50,6 @@
         "pubdate": "Fri, 04 Oct 2024 10:00:00 +1300"
     },
     {
-        "title": "Grace Steinmetz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Grace%20Steinmetz",
-        "pubdate": "Fri, 04 Oct 2024 18:00:00 +1300"
-    },
-    {
         "title": "Hashem Safieddine",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Hashem%20Safieddine",
         "pubdate": "Fri, 04 Oct 2024 21:00:00 +1300"
@@ -75,8 +70,8 @@
         "pubdate": "Fri, 04 Oct 2024 19:00:00 +1300"
     },
     {
-        "title": "Marburg virus germany",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Marburg%20virus%20germany",
+        "title": "Marburg virus Germany",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Marburg%20virus%20Germany",
         "pubdate": "Fri, 04 Oct 2024 15:00:00 +1300"
     },
     {
@@ -98,5 +93,10 @@
         "title": "Aston Villa vs Bayern",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Aston%20Villa%20vs%20Bayern",
         "pubdate": "Thu, 03 Oct 2024 10:00:00 +1300"
+    },
+    {
+        "title": "Liverpool vs Bologna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Liverpool%20vs%20Bologna",
+        "pubdate": "Thu, 03 Oct 2024 09:00:00 +1300"
     }
 ]

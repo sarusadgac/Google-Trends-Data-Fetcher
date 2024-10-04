@@ -10,6 +10,11 @@
         "pubdate": "Fri, 04 Oct 2024 10:00:00 +0100"
     },
     {
+        "title": "Freddie Flintoff",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Freddie%20Flintoff",
+        "pubdate": "Fri, 04 Oct 2024 13:00:00 +0100"
+    },
+    {
         "title": "TNS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#TNS",
         "pubdate": "Fri, 04 Oct 2024 08:00:00 +0100"
@@ -93,10 +98,5 @@
         "title": "Mean Girls",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Mean%20Girls",
         "pubdate": "Thu, 03 Oct 2024 22:00:00 +0100"
-    },
-    {
-        "title": "Wordle hint",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Wordle%20hint",
-        "pubdate": "Thu, 03 Oct 2024 16:00:00 +0100"
     }
 ]
