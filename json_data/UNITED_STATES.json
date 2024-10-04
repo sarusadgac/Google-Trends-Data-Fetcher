@@ -50,14 +50,14 @@
         "pubdate": "Thu, 03 Oct 2024 21:00:00 -0700"
     },
     {
-        "title": "Kirk Cousins",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kirk%20Cousins",
-        "pubdate": "Thu, 03 Oct 2024 18:00:00 -0700"
-    },
-    {
         "title": "Tina Peters sentencing",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tina%20Peters%20sentencing",
         "pubdate": "Thu, 03 Oct 2024 14:00:00 -0700"
+    },
+    {
+        "title": "Kirk Cousins",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kirk%20Cousins",
+        "pubdate": "Thu, 03 Oct 2024 18:00:00 -0700"
     },
     {
         "title": "Lucas Coly",
@@ -80,6 +80,11 @@
         "pubdate": "Thu, 03 Oct 2024 16:00:00 -0700"
     },
     {
+        "title": "Salem's Lot",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Salem's%20Lot",
+        "pubdate": "Thu, 03 Oct 2024 10:00:00 -0700"
+    },
+    {
         "title": "Liz Cheney",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Liz%20Cheney",
         "pubdate": "Thu, 03 Oct 2024 16:00:00 -0700"
@@ -93,10 +98,5 @@
         "title": "Mean Girls",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mean%20Girls",
         "pubdate": "Thu, 03 Oct 2024 08:00:00 -0700"
-    },
-    {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Manchester%20United",
-        "pubdate": "Thu, 03 Oct 2024 15:00:00 -0700"
     }
 ]

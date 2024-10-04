@@ -10,6 +10,11 @@
         "pubdate": "Fri, 04 Oct 2024 01:00:00 +0200"
     },
     {
+        "title": "Sabrina Carpenter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Sabrina%20Carpenter",
+        "pubdate": "Fri, 04 Oct 2024 21:00:00 +0200"
+    },
+    {
         "title": "Dad",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Dad",
         "pubdate": "Fri, 04 Oct 2024 19:00:00 +0200"
@@ -28,6 +33,11 @@
         "title": "Nick Cave",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Nick%20Cave",
         "pubdate": "Fri, 04 Oct 2024 09:00:00 +0200"
+    },
+    {
+        "title": "United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#United",
+        "pubdate": "Fri, 04 Oct 2024 01:00:00 +0200"
     },
     {
         "title": "National Vodka Day",
@@ -50,14 +60,14 @@
         "pubdate": "Thu, 03 Oct 2024 20:00:00 +0200"
     },
     {
-        "title": "Ferencváros  Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ferencv%C3%A1ros%20%20Tottenham",
-        "pubdate": "Thu, 03 Oct 2024 19:00:00 +0200"
-    },
-    {
         "title": "National Boyfriend Day",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#National%20Boyfriend%20Day",
         "pubdate": "Thu, 03 Oct 2024 13:00:00 +0200"
+    },
+    {
+        "title": "Ferencváros  Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ferencv%C3%A1ros%20%20Tottenham",
+        "pubdate": "Thu, 03 Oct 2024 19:00:00 +0200"
     },
     {
         "title": "Chelsea",
@@ -88,15 +98,5 @@
         "title": "Inter Miami",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Inter%20Miami",
         "pubdate": "Thu, 03 Oct 2024 15:00:00 +0200"
-    },
-    {
-        "title": "Marburg virus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Marburg%20virus",
-        "pubdate": "Wed, 02 Oct 2024 20:00:00 +0200"
-    },
-    {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Real%20Madrid",
-        "pubdate": "Wed, 02 Oct 2024 21:00:00 +0200"
     }
 ]
