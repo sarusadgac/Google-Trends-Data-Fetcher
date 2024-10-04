@@ -5,6 +5,11 @@
         "pubdate": "Fri, 04 Oct 2024 00:00:00 +0200"
     },
     {
+        "title": "Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Manchester%20United",
+        "pubdate": "Fri, 04 Oct 2024 07:00:00 +0200"
+    },
+    {
         "title": "MOL Cup",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#MOL%20Cup",
         "pubdate": "Fri, 04 Oct 2024 14:00:00 +0200"
@@ -28,11 +33,6 @@
         "title": "Noah – Boleslav",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Noah%20%E2%80%93%20Boleslav",
         "pubdate": "Thu, 03 Oct 2024 19:00:00 +0200"
-    },
-    {
-        "title": "Porto – Man United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Porto%20%E2%80%93%20Man%20United",
-        "pubdate": "Thu, 03 Oct 2024 21:00:00 +0200"
     },
     {
         "title": "Real Madrid",
@@ -65,6 +65,11 @@
         "pubdate": "Thu, 03 Oct 2024 22:00:00 +0200"
     },
     {
+        "title": "Sara Sandeva",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sara%20Sandeva",
+        "pubdate": "Thu, 03 Oct 2024 19:00:00 +0200"
+    },
+    {
         "title": "Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Chelsea",
         "pubdate": "Thu, 03 Oct 2024 23:00:00 +0200"
@@ -93,10 +98,5 @@
         "title": "Marek Ztracený",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Marek%20Ztracen%C3%BD",
         "pubdate": "Wed, 02 Oct 2024 20:00:00 +0200"
-    },
-    {
-        "title": "Millie Bobby Brown",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Millie%20Bobby%20Brown",
-        "pubdate": "Wed, 02 Oct 2024 19:00:00 +0200"
     }
 ]
