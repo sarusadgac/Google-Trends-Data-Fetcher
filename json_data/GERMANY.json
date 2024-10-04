@@ -5,11 +5,6 @@
         "pubdate": "Fri, 04 Oct 2024 07:00:00 +0200"
     },
     {
-        "title": "Eminem",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eminem",
-        "pubdate": "Thu, 03 Oct 2024 23:00:00 +0200"
-    },
-    {
         "title": "Göppingen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#G%C3%B6ppingen",
         "pubdate": "Thu, 03 Oct 2024 08:00:00 +0200"
@@ -28,11 +23,6 @@
         "title": "Melania Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Melania%20Trump",
         "pubdate": "Thu, 03 Oct 2024 16:00:00 +0200"
-    },
-    {
-        "title": "Münsterland Giro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#M%C3%BCnsterland%20Giro",
-        "pubdate": "Thu, 03 Oct 2024 13:00:00 +0200"
     },
     {
         "title": "Tag der Deutschen Einheit",
@@ -98,5 +88,15 @@
         "title": "Hannover 96",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hannover%2096",
         "pubdate": "Sun, 29 Sep 2024 14:00:00 +0200"
+    },
+    {
+        "title": "ORF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#ORF",
+        "pubdate": "Sun, 29 Sep 2024 18:00:00 +0200"
+    },
+    {
+        "title": "AfD-Verbot",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#AfD-Verbot",
+        "pubdate": "Sun, 29 Sep 2024 22:00:00 +0200"
     }
 ]
