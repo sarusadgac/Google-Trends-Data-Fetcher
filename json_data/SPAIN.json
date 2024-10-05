@@ -15,6 +15,11 @@
         "pubdate": "Sat, 05 Oct 2024 14:00:00 +0200"
     },
     {
+        "title": "Getafe - Osasuna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Getafe%20-%20Osasuna",
+        "pubdate": "Sat, 05 Oct 2024 16:00:00 +0200"
+    },
+    {
         "title": "Valladolid Rayo Vallecano",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Valladolid%20Rayo%20Vallecano",
         "pubdate": "Sat, 05 Oct 2024 18:00:00 +0200"
@@ -33,11 +38,6 @@
         "title": "Manchester City  Fulham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Manchester%20City%20%20Fulham",
         "pubdate": "Sat, 05 Oct 2024 16:00:00 +0200"
-    },
-    {
-        "title": "Osasuna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Osasuna",
-        "pubdate": "Sat, 05 Oct 2024 18:00:00 +0200"
     },
     {
         "title": "Las cosas del querer",
@@ -60,14 +60,19 @@
         "pubdate": "Sat, 05 Oct 2024 14:00:00 +0200"
     },
     {
-        "title": "Eibar - Sporting Gijón",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Eibar%20-%20Sporting%20Gij%C3%B3n",
+        "title": "Eibar  Sporting Gijón",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Eibar%20%20Sporting%20Gij%C3%B3n",
         "pubdate": "Sat, 05 Oct 2024 17:00:00 +0200"
     },
     {
         "title": "Burgos CF",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Burgos%20CF",
         "pubdate": "Sat, 05 Oct 2024 19:00:00 +0200"
+    },
+    {
+        "title": "Tenerife  Cartagena",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Tenerife%20%20Cartagena",
+        "pubdate": "Sat, 05 Oct 2024 22:00:00 +0200"
     },
     {
         "title": "Racing Ferrol  Elche CF",
@@ -85,18 +90,13 @@
         "pubdate": "Sat, 05 Oct 2024 17:00:00 +0200"
     },
     {
-        "title": "Arsenal  Southampton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Arsenal%20%20Southampton",
+        "title": "Arsenal - Southampton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Arsenal%20-%20Southampton",
         "pubdate": "Sat, 05 Oct 2024 17:00:00 +0200"
     },
     {
         "title": "Sergio Cepeda",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Sergio%20Cepeda",
         "pubdate": "Sat, 05 Oct 2024 00:00:00 +0200"
-    },
-    {
-        "title": "NBA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#NBA",
-        "pubdate": "Sat, 05 Oct 2024 11:00:00 +0200"
     }
 ]

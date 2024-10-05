@@ -5,6 +5,11 @@
         "pubdate": "Sat, 05 Oct 2024 22:00:00 +0200"
     },
     {
+        "title": "Liberec – Jablonec",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Liberec%20%E2%80%93%20Jablonec",
+        "pubdate": "Sat, 05 Oct 2024 19:00:00 +0200"
+    },
+    {
         "title": "Karviná – Hradec Králové",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Karvin%C3%A1%20%E2%80%93%20Hradec%20Kr%C3%A1lov%C3%A9",
         "pubdate": "Sat, 05 Oct 2024 14:00:00 +0200"
@@ -15,19 +20,24 @@
         "pubdate": "Sat, 05 Oct 2024 13:00:00 +0200"
     },
     {
-        "title": "Liberec – Jablonec",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Liberec%20%E2%80%93%20Jablonec",
-        "pubdate": "Sat, 05 Oct 2024 19:00:00 +0200"
-    },
-    {
-        "title": "Maláčová",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Mal%C3%A1%C4%8Dov%C3%A1",
-        "pubdate": "Sat, 05 Oct 2024 16:00:00 +0200"
-    },
-    {
         "title": "Brno – Vlašim",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Brno%20%E2%80%93%20Vla%C5%A1im",
         "pubdate": "Sat, 05 Oct 2024 18:00:00 +0200"
+    },
+    {
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Real%20Madrid",
+        "pubdate": "Sat, 05 Oct 2024 23:00:00 +0200"
+    },
+    {
+        "title": "Jana Maláčová",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jana%20Mal%C3%A1%C4%8Dov%C3%A1",
+        "pubdate": "Sat, 05 Oct 2024 16:00:00 +0200"
+    },
+    {
+        "title": "Witowská",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Witowsk%C3%A1",
+        "pubdate": "Sat, 05 Oct 2024 22:00:00 +0200"
     },
     {
         "title": "Pretty woman",
@@ -45,11 +55,6 @@
         "pubdate": "Sat, 05 Oct 2024 16:00:00 +0200"
     },
     {
-        "title": "Witowská",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Witowsk%C3%A1",
-        "pubdate": "Sat, 05 Oct 2024 22:00:00 +0200"
-    },
-    {
         "title": "Taneční seriál",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tane%C4%8Dn%C3%AD%20seri%C3%A1l",
         "pubdate": "Fri, 04 Oct 2024 21:00:00 +0200"
@@ -63,6 +68,11 @@
         "title": "Libor Bouček",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Libor%20Bou%C4%8Dek",
         "pubdate": "Fri, 04 Oct 2024 22:00:00 +0200"
+    },
+    {
+        "title": "Jakub Menšík",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jakub%20Men%C5%A1%C3%ADk",
+        "pubdate": "Fri, 04 Oct 2024 12:00:00 +0200"
     },
     {
         "title": "Slavia Praha",
@@ -85,18 +95,8 @@
         "pubdate": "Fri, 04 Oct 2024 16:00:00 +0200"
     },
     {
-        "title": "Jakub Menšík",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jakub%20Men%C5%A1%C3%ADk",
-        "pubdate": "Fri, 04 Oct 2024 12:00:00 +0200"
-    },
-    {
         "title": "Eva Burešová",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Eva%20Bure%C5%A1ov%C3%A1",
         "pubdate": "Fri, 04 Oct 2024 23:00:00 +0200"
-    },
-    {
-        "title": "Muchova",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Muchova",
-        "pubdate": "Fri, 04 Oct 2024 19:00:00 +0200"
     }
 ]
