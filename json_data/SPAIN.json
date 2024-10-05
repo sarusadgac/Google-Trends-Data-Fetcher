@@ -10,8 +10,23 @@
         "pubdate": "Sat, 05 Oct 2024 12:00:00 +0200"
     },
     {
+        "title": "Paula Badosa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Paula%20Badosa",
+        "pubdate": "Sat, 05 Oct 2024 16:00:00 +0200"
+    },
+    {
         "title": "Crystal Palace - Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Crystal%20Palace%20-%20Liverpool",
+        "pubdate": "Sat, 05 Oct 2024 14:00:00 +0200"
+    },
+    {
+        "title": "Getafe - Osasuna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Getafe%20-%20Osasuna",
+        "pubdate": "Sat, 05 Oct 2024 16:00:00 +0200"
+    },
+    {
+        "title": "Novak Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Novak%20Djokovic",
         "pubdate": "Sat, 05 Oct 2024 14:00:00 +0200"
     },
     {
@@ -25,14 +40,24 @@
         "pubdate": "Sat, 05 Oct 2024 11:00:00 +0200"
     },
     {
-        "title": "Novak Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Novak%20Djokovic",
-        "pubdate": "Sat, 05 Oct 2024 14:00:00 +0200"
+        "title": "Racing Ferrol - Elche CF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Racing%20Ferrol%20-%20Elche%20CF",
+        "pubdate": "Sat, 05 Oct 2024 15:00:00 +0200"
     },
     {
-        "title": "Bolivia, Evo Morales",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Bolivia,%20Evo%20Morales",
+        "title": "Bolivia Evo Morales",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Bolivia%20Evo%20Morales",
         "pubdate": "Sat, 05 Oct 2024 07:00:00 +0200"
+    },
+    {
+        "title": "Julio Iglesias",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Julio%20Iglesias",
+        "pubdate": "Sat, 05 Oct 2024 15:00:00 +0200"
+    },
+    {
+        "title": "Manchester City - Fulham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Manchester%20City%20-%20Fulham",
+        "pubdate": "Sat, 05 Oct 2024 16:00:00 +0200"
     },
     {
         "title": "Lady Gaga",
@@ -40,14 +65,14 @@
         "pubdate": "Sat, 05 Oct 2024 08:00:00 +0200"
     },
     {
-        "title": "Racing Ferrol - Elche CF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Racing%20Ferrol%20-%20Elche%20CF",
-        "pubdate": "Sat, 05 Oct 2024 15:00:00 +0200"
+        "title": "Derio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Derio",
+        "pubdate": "Sat, 05 Oct 2024 14:00:00 +0200"
     },
     {
-        "title": "Julio Iglesias",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Julio%20Iglesias",
-        "pubdate": "Sat, 05 Oct 2024 15:00:00 +0200"
+        "title": "Sevilla Betis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Sevilla%20Betis",
+        "pubdate": "Sat, 05 Oct 2024 16:00:00 +0200"
     },
     {
         "title": "Milena Smit",
@@ -73,30 +98,5 @@
         "title": "Joker 2",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Joker%202",
         "pubdate": "Fri, 04 Oct 2024 21:00:00 +0200"
-    },
-    {
-        "title": "Michel Blanc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Michel%20Blanc",
-        "pubdate": "Fri, 04 Oct 2024 10:00:00 +0200"
-    },
-    {
-        "title": "Oreo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Oreo",
-        "pubdate": "Fri, 04 Oct 2024 06:00:00 +0200"
-    },
-    {
-        "title": "Joaquín Torres",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Joaqu%C3%ADn%20Torres",
-        "pubdate": "Fri, 04 Oct 2024 11:00:00 +0200"
-    },
-    {
-        "title": "Accidente F-18",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Accidente%20F-18",
-        "pubdate": "Fri, 04 Oct 2024 16:00:00 +0200"
-    },
-    {
-        "title": "Elegy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Elegy",
-        "pubdate": "Fri, 04 Oct 2024 23:00:00 +0200"
     }
 ]

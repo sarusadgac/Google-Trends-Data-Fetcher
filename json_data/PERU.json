@@ -5,9 +5,34 @@
         "pubdate": "Sat, 05 Oct 2024 07:00:00 -0500"
     },
     {
+        "title": "Manchester City - Fulham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Manchester%20City%20-%20Fulham",
+        "pubdate": "Sat, 05 Oct 2024 09:00:00 -0500"
+    },
+    {
+        "title": "RCD Espanyol  RCD Mallorca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#RCD%20Espanyol%20%20RCD%20Mallorca",
+        "pubdate": "Sat, 05 Oct 2024 08:00:00 -0500"
+    },
+    {
+        "title": "Arsenal - Southampton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Arsenal%20-%20Southampton",
+        "pubdate": "Sat, 05 Oct 2024 09:00:00 -0500"
+    },
+    {
         "title": "Bolivia Evo Morales",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bolivia%20Evo%20Morales",
         "pubdate": "Sat, 05 Oct 2024 01:00:00 -0500"
+    },
+    {
+        "title": "Novak Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Novak%20Djokovic",
+        "pubdate": "Sat, 05 Oct 2024 09:00:00 -0500"
+    },
+    {
+        "title": "Carlos Alcaraz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Carlos%20Alcaraz",
+        "pubdate": "Sat, 05 Oct 2024 09:00:00 -0500"
     },
     {
         "title": "Napoli",
@@ -30,14 +55,14 @@
         "pubdate": "Fri, 04 Oct 2024 15:00:00 -0500"
     },
     {
-        "title": "El hoyo 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#El%20hoyo%202",
-        "pubdate": "Fri, 04 Oct 2024 16:00:00 -0500"
-    },
-    {
         "title": "Dia de la Medicina Peruana",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Dia%20de%20la%20Medicina%20Peruana",
         "pubdate": "Fri, 04 Oct 2024 09:00:00 -0500"
+    },
+    {
+        "title": "El hoyo 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#El%20hoyo%202",
+        "pubdate": "Fri, 04 Oct 2024 16:00:00 -0500"
     },
     {
         "title": "Lourdes Mendoza del Solar",
@@ -73,30 +98,5 @@
         "title": "Renato Tapia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Renato%20Tapia",
         "pubdate": "Fri, 04 Oct 2024 16:00:00 -0500"
-    },
-    {
-        "title": "Que se celebra el 4 de octubre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Que%20se%20celebra%20el%204%20de%20octubre",
-        "pubdate": "Fri, 04 Oct 2024 12:00:00 -0500"
-    },
-    {
-        "title": "Precio del dólar hoy Perú",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Precio%20del%20d%C3%B3lar%20hoy%20Per%C3%BA",
-        "pubdate": "Fri, 04 Oct 2024 09:00:00 -0500"
-    },
-    {
-        "title": "Gremio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Gremio",
-        "pubdate": "Fri, 04 Oct 2024 22:00:00 -0500"
-    },
-    {
-        "title": "Dia del odontologo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Dia%20del%20odontologo",
-        "pubdate": "Fri, 04 Oct 2024 00:00:00 -0500"
-    },
-    {
-        "title": "Porto - Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Porto%20-%20Manchester%20United",
-        "pubdate": "Thu, 03 Oct 2024 14:00:00 -0500"
     }
 ]
