@@ -30,9 +30,19 @@
         "pubdate": "Fri, 04 Oct 2024 16:00:00 -0500"
     },
     {
+        "title": "Yao Cabrera",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Yao%20Cabrera",
+        "pubdate": "Fri, 04 Oct 2024 01:00:00 -0500"
+    },
+    {
         "title": "Lourdes Mendoza del Solar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Lourdes%20Mendoza%20del%20Solar",
         "pubdate": "Fri, 04 Oct 2024 15:00:00 -0500"
+    },
+    {
+        "title": "Dia de la Medicina Peruana",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Dia%20de%20la%20Medicina%20Peruana",
+        "pubdate": "Fri, 04 Oct 2024 09:00:00 -0500"
     },
     {
         "title": "Fluminense",
@@ -43,11 +53,6 @@
         "title": "Eminem",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Eminem",
         "pubdate": "Fri, 04 Oct 2024 01:00:00 -0500"
-    },
-    {
-        "title": "Dia de la Medicina Peruana",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Dia%20de%20la%20Medicina%20Peruana",
-        "pubdate": "Fri, 04 Oct 2024 09:00:00 -0500"
     },
     {
         "title": "Terrifier 3",
@@ -65,18 +70,8 @@
         "pubdate": "Fri, 04 Oct 2024 22:00:00 -0500"
     },
     {
-        "title": "Que se celebra el 4 de octubre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Que%20se%20celebra%20el%204%20de%20octubre",
-        "pubdate": "Fri, 04 Oct 2024 12:00:00 -0500"
-    },
-    {
         "title": "Renato Tapia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Renato%20Tapia",
-        "pubdate": "Fri, 04 Oct 2024 16:00:00 -0500"
-    },
-    {
-        "title": "Marsella  Angers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Marsella%20%20Angers",
         "pubdate": "Fri, 04 Oct 2024 16:00:00 -0500"
     },
     {
@@ -98,5 +93,10 @@
         "title": "Porto - Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Porto%20-%20Manchester%20United",
         "pubdate": "Thu, 03 Oct 2024 14:00:00 -0500"
+    },
+    {
+        "title": "Dia del Novio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Dia%20del%20Novio",
+        "pubdate": "Thu, 03 Oct 2024 08:00:00 -0500"
     }
 ]
