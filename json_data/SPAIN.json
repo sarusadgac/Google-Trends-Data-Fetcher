@@ -5,6 +5,11 @@
         "pubdate": "Sat, 05 Oct 2024 00:00:00 +0200"
     },
     {
+        "title": "Lady Gaga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Lady%20Gaga",
+        "pubdate": "Sat, 05 Oct 2024 08:00:00 +0200"
+    },
+    {
         "title": "Bolivia Evo Morales",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Bolivia%20Evo%20Morales",
         "pubdate": "Sat, 05 Oct 2024 07:00:00 +0200"
@@ -60,9 +65,14 @@
         "pubdate": "Fri, 04 Oct 2024 16:00:00 +0200"
     },
     {
-        "title": "Joaquin castellon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Joaquin%20castellon",
-        "pubdate": "Fri, 04 Oct 2024 12:00:00 +0200"
+        "title": "Elegy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Elegy",
+        "pubdate": "Fri, 04 Oct 2024 23:00:00 +0200"
+    },
+    {
+        "title": "Santoral hoy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Santoral%20hoy",
+        "pubdate": "Fri, 04 Oct 2024 10:00:00 +0200"
     },
     {
         "title": "Anciano India cueva",
@@ -70,14 +80,14 @@
         "pubdate": "Fri, 04 Oct 2024 10:00:00 +0200"
     },
     {
+        "title": "Joaquin castellon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Joaquin%20castellon",
+        "pubdate": "Fri, 04 Oct 2024 12:00:00 +0200"
+    },
+    {
         "title": "Samu Omorodion",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Samu%20Omorodion",
         "pubdate": "Fri, 04 Oct 2024 00:00:00 +0200"
-    },
-    {
-        "title": "Santoral hoy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Santoral%20hoy",
-        "pubdate": "Fri, 04 Oct 2024 10:00:00 +0200"
     },
     {
         "title": "Convocatoria España",
@@ -88,15 +98,5 @@
         "title": "Infanta Cristina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Infanta%20Cristina",
         "pubdate": "Fri, 04 Oct 2024 16:00:00 +0200"
-    },
-    {
-        "title": "Real Madrid baloncesto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Real%20Madrid%20baloncesto",
-        "pubdate": "Fri, 04 Oct 2024 00:00:00 +0200"
-    },
-    {
-        "title": "Audios barbara Rey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Audios%20barbara%20Rey",
-        "pubdate": "Fri, 04 Oct 2024 19:00:00 +0200"
     }
 ]
