@@ -20,11 +20,6 @@
         "pubdate": "Sat, 05 Oct 2024 20:00:00 +0800"
     },
     {
-        "title": "鄭欽文",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E9%84%AD%E6%AC%BD%E6%96%87",
-        "pubdate": "Sat, 05 Oct 2024 00:00:00 +0800"
-    },
-    {
         "title": "浸會大學",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E6%B5%B8%E6%9C%83%E5%A4%A7%E5%AD%B8",
         "pubdate": "Sat, 05 Oct 2024 10:00:00 +0800"
@@ -98,5 +93,10 @@
         "title": "任天堂博物館",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E4%BB%BB%E5%A4%A9%E5%A0%82%E5%8D%9A%E7%89%A9%E9%A4%A8",
         "pubdate": "Fri, 04 Oct 2024 02:00:00 +0800"
+    },
+    {
+        "title": "Coldplay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#Coldplay",
+        "pubdate": "Thu, 03 Oct 2024 17:00:00 +0800"
     }
 ]
