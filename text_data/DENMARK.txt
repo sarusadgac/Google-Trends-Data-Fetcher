@@ -3,6 +3,7 @@ Man City  Fulham
 Brentford  Wolves
 Kate Winslet
 Arsenal  Southampton
+Real Madrid  Villarreal
 Shanghai Masters
 Shanghai Masters 2024
 Manchester United
@@ -17,4 +18,3 @@ Minnesota
 Tina Peters
 Europa League
 Eminem
-Conference League
