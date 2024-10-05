@@ -1,6 +1,5 @@
 Gladbach
 Polarlichter
-Musiala
 Göppingen
 Leonardo DiCaprio
 Hamburg
@@ -18,3 +17,4 @@ Eintracht Frankfurt
 Hertha BSC
 Holstein Kiel
 Hannover 96
+ORF
