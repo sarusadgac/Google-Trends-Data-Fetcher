@@ -10,13 +10,8 @@
         "pubdate": "Sat, 05 Oct 2024 07:00:00 -0500"
     },
     {
-        "title": "Al-nassr  al-orobah",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Al-nassr%20%20al-orobah",
-        "pubdate": "Sat, 05 Oct 2024 10:00:00 -0500"
-    },
-    {
-        "title": "Arsenal - Southampton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Arsenal%20-%20Southampton",
+        "title": "Arsenal  Southampton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Arsenal%20%20Southampton",
         "pubdate": "Sat, 05 Oct 2024 09:00:00 -0500"
     },
     {
@@ -25,18 +20,23 @@
         "pubdate": "Sat, 05 Oct 2024 10:00:00 -0500"
     },
     {
+        "title": "Atalanta-Genoa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Atalanta-Genoa",
+        "pubdate": "Sat, 05 Oct 2024 12:00:00 -0500"
+    },
+    {
         "title": "West Ham  Ipswich",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#West%20Ham%20%20Ipswich",
         "pubdate": "Sat, 05 Oct 2024 11:00:00 -0500"
     },
     {
-        "title": "Dia de la Medicina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Dia%20de%20la%20Medicina",
+        "title": "Getafe  Osasuna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Getafe%20%20Osasuna",
         "pubdate": "Sat, 05 Oct 2024 10:00:00 -0500"
     },
     {
-        "title": "Getafe - Osasuna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Getafe%20-%20Osasuna",
+        "title": "Dia de la Medicina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Dia%20de%20la%20Medicina",
         "pubdate": "Sat, 05 Oct 2024 10:00:00 -0500"
     },
     {
@@ -55,8 +55,28 @@
         "pubdate": "Sat, 05 Oct 2024 12:00:00 -0500"
     },
     {
+        "title": "Everton - Newcastle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Everton%20-%20Newcastle",
+        "pubdate": "Sat, 05 Oct 2024 13:00:00 -0500"
+    },
+    {
+        "title": "Valladolid  Rayo Vallecano",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Valladolid%20%20Rayo%20Vallecano",
+        "pubdate": "Sat, 05 Oct 2024 13:00:00 -0500"
+    },
+    {
+        "title": "Real Madrid vs Villarreal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Real%20Madrid%20vs%20Villarreal",
+        "pubdate": "Sat, 05 Oct 2024 12:00:00 -0500"
+    },
+    {
         "title": "Novak Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Novak%20Djokovic",
+        "pubdate": "Sat, 05 Oct 2024 09:00:00 -0500"
+    },
+    {
+        "title": "Carlos Alcaraz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Carlos%20Alcaraz",
         "pubdate": "Sat, 05 Oct 2024 09:00:00 -0500"
     },
     {
@@ -65,24 +85,9 @@
         "pubdate": "Sat, 05 Oct 2024 11:00:00 -0500"
     },
     {
-        "title": "Atalanta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Atalanta",
-        "pubdate": "Sat, 05 Oct 2024 12:00:00 -0500"
-    },
-    {
-        "title": "Carlos Alcaraz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Carlos%20Alcaraz",
-        "pubdate": "Sat, 05 Oct 2024 09:00:00 -0500"
-    },
-    {
         "title": "Examen de admisión San Marcos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Examen%20de%20admisi%C3%B3n%20San%20Marcos",
         "pubdate": "Sat, 05 Oct 2024 11:00:00 -0500"
-    },
-    {
-        "title": "Real Madrid vs Villarreal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Real%20Madrid%20vs%20Villarreal",
-        "pubdate": "Sat, 05 Oct 2024 12:00:00 -0500"
     },
     {
         "title": "Napoli",
@@ -93,10 +98,5 @@
         "title": "Alianza Lima femenino",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Alianza%20Lima%20femenino",
         "pubdate": "Fri, 04 Oct 2024 17:00:00 -0500"
-    },
-    {
-        "title": "Copa Libertadores Femenina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Copa%20Libertadores%20Femenina",
-        "pubdate": "Fri, 04 Oct 2024 15:00:00 -0500"
     }
 ]
