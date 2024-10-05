@@ -5,19 +5,34 @@
         "pubdate": "Sun, 06 Oct 2024 00:00:00 +0200"
     },
     {
+        "title": "The Royal Game",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#The%20Royal%20Game",
+        "pubdate": "Sun, 06 Oct 2024 00:00:00 +0200"
+    },
+    {
         "title": "Valladolid fc",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Valladolid%20fc",
         "pubdate": "Sun, 06 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "The Royal Game",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#The%20Royal%20Game",
+        "title": "Emilio aragon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Emilio%20aragon",
         "pubdate": "Sun, 06 Oct 2024 00:00:00 +0200"
     },
     {
         "title": "Baskonia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Baskonia",
         "pubdate": "Sun, 06 Oct 2024 00:00:00 +0200"
+    },
+    {
+        "title": "El lector",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#El%20lector",
+        "pubdate": "Sun, 06 Oct 2024 01:00:00 +0200"
+    },
+    {
+        "title": "Casi imposible",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Casi%20imposible",
+        "pubdate": "Sun, 06 Oct 2024 01:00:00 +0200"
     },
     {
         "title": "UFC 307",
@@ -38,11 +53,6 @@
         "title": "RCD Espanyol  RCD Mallorca",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#RCD%20Espanyol%20%20RCD%20Mallorca",
         "pubdate": "Sat, 05 Oct 2024 14:00:00 +0200"
-    },
-    {
-        "title": "Getafe - Osasuna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Getafe%20-%20Osasuna",
-        "pubdate": "Sat, 05 Oct 2024 16:00:00 +0200"
     },
     {
         "title": "Valladolid",
@@ -70,6 +80,11 @@
         "pubdate": "Sat, 05 Oct 2024 20:00:00 +0200"
     },
     {
+        "title": "Osasuna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Osasuna",
+        "pubdate": "Sat, 05 Oct 2024 18:00:00 +0200"
+    },
+    {
         "title": "Crystal Palace - Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Crystal%20Palace%20-%20Liverpool",
         "pubdate": "Sat, 05 Oct 2024 14:00:00 +0200"
@@ -83,20 +98,5 @@
         "title": "Novak Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Novak%20Djokovic",
         "pubdate": "Sat, 05 Oct 2024 14:00:00 +0200"
-    },
-    {
-        "title": "Mirandés - Granada",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Mirand%C3%A9s%20-%20Granada",
-        "pubdate": "Sat, 05 Oct 2024 17:00:00 +0200"
-    },
-    {
-        "title": "Eibar - Sporting Gijón",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Eibar%20-%20Sporting%20Gij%C3%B3n",
-        "pubdate": "Sat, 05 Oct 2024 17:00:00 +0200"
-    },
-    {
-        "title": "Tenerife  Cartagena",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Tenerife%20%20Cartagena",
-        "pubdate": "Sat, 05 Oct 2024 22:00:00 +0200"
     }
 ]

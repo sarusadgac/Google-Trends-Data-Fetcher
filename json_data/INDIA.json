@@ -15,11 +15,6 @@
         "pubdate": "Sat, 05 Oct 2024 15:30:00 +0530"
     },
     {
-        "title": "Man City vs Fulham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Man%20City%20vs%20Fulham",
-        "pubdate": "Sat, 05 Oct 2024 19:30:00 +0530"
-    },
-    {
         "title": "England Women vs Bangladesh Women",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#England%20Women%20vs%20Bangladesh%20Women",
         "pubdate": "Sat, 05 Oct 2024 19:30:00 +0530"
@@ -98,5 +93,10 @@
         "title": "Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Chelsea",
         "pubdate": "Fri, 04 Oct 2024 10:30:00 +0530"
+    },
+    {
+        "title": "Bigg Boss 18",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Bigg%20Boss%2018",
+        "pubdate": "Fri, 04 Oct 2024 17:30:00 +0530"
     }
 ]
