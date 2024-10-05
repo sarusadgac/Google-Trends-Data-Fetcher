@@ -30,11 +30,6 @@
         "pubdate": "Fri, 04 Oct 2024 21:00:00 +0200"
     },
     {
-        "title": "Dag van de Leraar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Dag%20van%20de%20Leraar",
-        "pubdate": "Fri, 04 Oct 2024 08:00:00 +0200"
-    },
-    {
         "title": "Sydney Sweeney",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sydney%20Sweeney",
         "pubdate": "Fri, 04 Oct 2024 19:00:00 +0200"
@@ -98,5 +93,10 @@
         "title": "Atletico Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Atletico%20Madrid",
         "pubdate": "Mon, 30 Sep 2024 00:00:00 +0200"
+    },
+    {
+        "title": "Ten Hag",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ten%20Hag",
+        "pubdate": "Mon, 30 Sep 2024 01:00:00 +0200"
     }
 ]
