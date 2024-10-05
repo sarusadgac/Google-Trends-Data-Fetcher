@@ -10,6 +10,11 @@
         "pubdate": "Sat, 05 Oct 2024 02:00:00 +0100"
     },
     {
+        "title": "Napoli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Napoli",
+        "pubdate": "Sat, 05 Oct 2024 06:00:00 +0100"
+    },
+    {
         "title": "Hull KR",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Hull%20KR",
         "pubdate": "Sat, 05 Oct 2024 01:00:00 +0100"
@@ -28,11 +33,6 @@
         "title": "Leeds United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Leeds%20United",
         "pubdate": "Fri, 04 Oct 2024 21:00:00 +0100"
-    },
-    {
-        "title": "McRib",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#McRib",
-        "pubdate": "Fri, 04 Oct 2024 16:00:00 +0100"
     },
     {
         "title": "Terrifier",

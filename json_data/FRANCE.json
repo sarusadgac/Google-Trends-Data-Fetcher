@@ -20,11 +20,6 @@
         "pubdate": "Fri, 04 Oct 2024 20:00:00 +0200"
     },
     {
-        "title": "Clémentine Vergnaud",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Cl%C3%A9mentine%20Vergnaud",
-        "pubdate": "Fri, 04 Oct 2024 12:00:00 +0200"
-    },
-    {
         "title": "Marche à l'ombre",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Marche%20%C3%A0%20l'ombre",
         "pubdate": "Fri, 04 Oct 2024 19:00:00 +0200"
@@ -90,13 +85,18 @@
         "pubdate": "Thu, 03 Oct 2024 09:00:00 +0200"
     },
     {
-        "title": "Peter Cherif",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Peter%20Cherif",
-        "pubdate": "Thu, 03 Oct 2024 21:00:00 +0200"
-    },
-    {
         "title": "3 octobre",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#3%20octobre",
         "pubdate": "Thu, 03 Oct 2024 14:00:00 +0200"
+    },
+    {
+        "title": "Cap-Vert",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Cap-Vert",
+        "pubdate": "Thu, 03 Oct 2024 14:00:00 +0200"
+    },
+    {
+        "title": "Glasgow Rangers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Glasgow%20Rangers",
+        "pubdate": "Thu, 03 Oct 2024 23:00:00 +0200"
     }
 ]
