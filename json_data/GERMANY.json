@@ -10,6 +10,11 @@
         "pubdate": "Sat, 05 Oct 2024 15:00:00 +0200"
     },
     {
+        "title": "Leverkusen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Leverkusen",
+        "pubdate": "Sat, 05 Oct 2024 18:00:00 +0200"
+    },
+    {
         "title": "Göppingen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#G%C3%B6ppingen",
         "pubdate": "Thu, 03 Oct 2024 08:00:00 +0200"
@@ -93,10 +98,5 @@
         "title": "Hertha",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hertha",
         "pubdate": "Sun, 29 Sep 2024 16:00:00 +0200"
-    },
-    {
-        "title": "Bayern – Leverkusen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayern%20%E2%80%93%20Leverkusen",
-        "pubdate": "Sat, 28 Sep 2024 10:00:00 +0200"
     }
 ]
