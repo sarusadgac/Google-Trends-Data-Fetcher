@@ -5,6 +5,11 @@
         "pubdate": "Sat, 05 Oct 2024 00:00:00 +0200"
     },
     {
+        "title": "Rickard Olsson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Rickard%20Olsson",
+        "pubdate": "Sat, 05 Oct 2024 09:00:00 +0200"
+    },
+    {
         "title": "Europa League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Europa%20League",
         "pubdate": "Fri, 04 Oct 2024 07:00:00 +0200"
@@ -20,9 +25,14 @@
         "pubdate": "Fri, 04 Oct 2024 18:00:00 +0200"
     },
     {
-        "title": "Kanelboller",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kanelboller",
-        "pubdate": "Fri, 04 Oct 2024 09:00:00 +0200"
+        "title": "Ond spiral",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ond%20spiral",
+        "pubdate": "Fri, 04 Oct 2024 01:00:00 +0200"
+    },
+    {
+        "title": "Pogba",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Pogba",
+        "pubdate": "Fri, 04 Oct 2024 22:00:00 +0200"
     },
     {
         "title": "NM i gjemsel",
@@ -40,19 +50,9 @@
         "pubdate": "Fri, 04 Oct 2024 19:00:00 +0200"
     },
     {
-        "title": "Ond spiral Sigrid Bonde Tusvik",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ond%20spiral%20Sigrid%20Bonde%20Tusvik",
-        "pubdate": "Fri, 04 Oct 2024 12:00:00 +0200"
-    },
-    {
         "title": "Erling Kagge",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Erling%20Kagge",
         "pubdate": "Fri, 04 Oct 2024 11:00:00 +0200"
-    },
-    {
-        "title": "Pogba",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Pogba",
-        "pubdate": "Fri, 04 Oct 2024 22:00:00 +0200"
     },
     {
         "title": "Sophie Stray",
@@ -90,13 +90,13 @@
         "pubdate": "Thu, 03 Oct 2024 19:00:00 +0200"
     },
     {
-        "title": "Hamse Ali",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Hamse%20Ali",
-        "pubdate": "Thu, 03 Oct 2024 20:00:00 +0200"
-    },
-    {
         "title": "Molde FK",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Molde%20FK",
         "pubdate": "Thu, 03 Oct 2024 19:00:00 +0200"
+    },
+    {
+        "title": "Melania Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Melania%20Trump",
+        "pubdate": "Thu, 03 Oct 2024 14:00:00 +0200"
     }
 ]

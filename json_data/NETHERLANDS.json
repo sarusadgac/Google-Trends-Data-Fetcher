@@ -5,11 +5,6 @@
         "pubdate": "Sat, 05 Oct 2024 07:00:00 +0200"
     },
     {
-        "title": "Pogba",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Pogba",
-        "pubdate": "Sat, 05 Oct 2024 07:00:00 +0200"
-    },
-    {
         "title": "Twente",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Twente",
         "pubdate": "Fri, 04 Oct 2024 00:00:00 +0200"
@@ -48,11 +43,6 @@
         "title": "Cambuur",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Cambuur",
         "pubdate": "Fri, 04 Oct 2024 21:00:00 +0200"
-    },
-    {
-        "title": "Sydney Sweeney",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sydney%20Sweeney",
-        "pubdate": "Fri, 04 Oct 2024 19:00:00 +0200"
     },
     {
         "title": "Enschede",
@@ -98,5 +88,15 @@
         "title": "Anna Gimbrere",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Anna%20Gimbrere",
         "pubdate": "Mon, 30 Sep 2024 22:00:00 +0200"
+    },
+    {
+        "title": "Amersfoort",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Amersfoort",
+        "pubdate": "Mon, 30 Sep 2024 13:00:00 +0200"
+    },
+    {
+        "title": "Atletico Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Atletico%20Madrid",
+        "pubdate": "Mon, 30 Sep 2024 00:00:00 +0200"
     }
 ]

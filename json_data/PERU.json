@@ -25,6 +25,11 @@
         "pubdate": "Fri, 04 Oct 2024 15:00:00 -0500"
     },
     {
+        "title": "Yao Cabrera",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Yao%20Cabrera",
+        "pubdate": "Fri, 04 Oct 2024 01:00:00 -0500"
+    },
+    {
         "title": "El hoyo 2",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#El%20hoyo%202",
         "pubdate": "Fri, 04 Oct 2024 16:00:00 -0500"
@@ -48,6 +53,11 @@
         "title": "Dia de la Medicina Peruana",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Dia%20de%20la%20Medicina%20Peruana",
         "pubdate": "Fri, 04 Oct 2024 09:00:00 -0500"
+    },
+    {
+        "title": "San Francisco de asis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#San%20Francisco%20de%20asis",
+        "pubdate": "Fri, 04 Oct 2024 19:00:00 -0500"
     },
     {
         "title": "Terrifier 3",
@@ -88,15 +98,5 @@
         "title": "Precio del dólar hoy Perú",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Precio%20del%20d%C3%B3lar%20hoy%20Per%C3%BA",
         "pubdate": "Fri, 04 Oct 2024 09:00:00 -0500"
-    },
-    {
-        "title": "Dia del odontologo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Dia%20del%20odontologo",
-        "pubdate": "Fri, 04 Oct 2024 00:00:00 -0500"
-    },
-    {
-        "title": "Porto - Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Porto%20-%20Manchester%20United",
-        "pubdate": "Thu, 03 Oct 2024 14:00:00 -0500"
     }
 ]
