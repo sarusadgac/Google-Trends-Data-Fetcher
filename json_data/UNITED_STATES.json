@@ -15,14 +15,14 @@
         "pubdate": "Fri, 04 Oct 2024 11:00:00 -0700"
     },
     {
-        "title": "Melania Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Melania%20Trump",
-        "pubdate": "Fri, 04 Oct 2024 05:00:00 -0700"
-    },
-    {
         "title": "Oregon football",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Oregon%20football",
         "pubdate": "Fri, 04 Oct 2024 12:00:00 -0700"
+    },
+    {
+        "title": "Melania Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Melania%20Trump",
+        "pubdate": "Fri, 04 Oct 2024 05:00:00 -0700"
     },
     {
         "title": "Halle Bailey",
@@ -40,6 +40,21 @@
         "pubdate": "Fri, 04 Oct 2024 06:00:00 -0700"
     },
     {
+        "title": "Dolly Parton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dolly%20Parton",
+        "pubdate": "Fri, 04 Oct 2024 16:00:00 -0700"
+    },
+    {
+        "title": "Syracuse football",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Syracuse%20football",
+        "pubdate": "Fri, 04 Oct 2024 15:00:00 -0700"
+    },
+    {
+        "title": "Lakers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Lakers",
+        "pubdate": "Fri, 04 Oct 2024 18:00:00 -0700"
+    },
+    {
         "title": "Edgar Allan Poe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Edgar%20Allan%20Poe",
         "pubdate": "Fri, 04 Oct 2024 13:00:00 -0700"
@@ -50,9 +65,14 @@
         "pubdate": "Fri, 04 Oct 2024 06:00:00 -0700"
     },
     {
-        "title": "Syracuse football",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Syracuse%20football",
-        "pubdate": "Fri, 04 Oct 2024 15:00:00 -0700"
+        "title": "Katie Santry",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Katie%20Santry",
+        "pubdate": "Fri, 04 Oct 2024 11:00:00 -0700"
+    },
+    {
+        "title": "El Taiger",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#El%20Taiger",
+        "pubdate": "Fri, 04 Oct 2024 07:00:00 -0700"
     },
     {
         "title": "Kyle Rittenhouse",
@@ -60,43 +80,23 @@
         "pubdate": "Fri, 04 Oct 2024 15:00:00 -0700"
     },
     {
+        "title": "Tom Selleck",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tom%20Selleck",
+        "pubdate": "Fri, 04 Oct 2024 18:00:00 -0700"
+    },
+    {
         "title": "Silent Hill 2",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Silent%20Hill%202",
         "pubdate": "Fri, 04 Oct 2024 15:00:00 -0700"
     },
     {
-        "title": "Dolly Parton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dolly%20Parton",
-        "pubdate": "Fri, 04 Oct 2024 16:00:00 -0700"
+        "title": "That '90s Show",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#That%20'90s%20Show",
+        "pubdate": "Fri, 04 Oct 2024 17:00:00 -0700"
     },
     {
         "title": "Buccaneers vs Falcons",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Buccaneers%20vs%20Falcons",
         "pubdate": "Thu, 03 Oct 2024 12:00:00 -0700"
-    },
-    {
-        "title": "Falcons",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Falcons",
-        "pubdate": "Thu, 03 Oct 2024 12:00:00 -0700"
-    },
-    {
-        "title": "Garth Brooks",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Garth%20Brooks",
-        "pubdate": "Thu, 03 Oct 2024 15:00:00 -0700"
-    },
-    {
-        "title": "Joker 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Joker%202",
-        "pubdate": "Thu, 03 Oct 2024 21:00:00 -0700"
-    },
-    {
-        "title": "Savannah Bananas 2025 schedule",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Savannah%20Bananas%202025%20schedule",
-        "pubdate": "Thu, 03 Oct 2024 18:00:00 -0700"
-    },
-    {
-        "title": "Tina Peters sentencing",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tina%20Peters%20sentencing",
-        "pubdate": "Thu, 03 Oct 2024 14:00:00 -0700"
     }
 ]

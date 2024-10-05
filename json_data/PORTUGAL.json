@@ -15,6 +15,26 @@
         "pubdate": "Sat, 05 Oct 2024 00:00:00 +0100"
     },
     {
+        "title": "Houthis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Houthis",
+        "pubdate": "Sat, 05 Oct 2024 01:00:00 +0100"
+    },
+    {
+        "title": "UFC 307",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#UFC%20307",
+        "pubdate": "Sat, 05 Oct 2024 02:00:00 +0100"
+    },
+    {
+        "title": "Silent Hill 2 Remake",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Silent%20Hill%202%20Remake",
+        "pubdate": "Sat, 05 Oct 2024 01:00:00 +0100"
+    },
+    {
+        "title": "Fabio coentrao",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Fabio%20coentrao",
+        "pubdate": "Sat, 05 Oct 2024 02:00:00 +0100"
+    },
+    {
         "title": "Daniel Guimarães",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Daniel%20Guimar%C3%A3es",
         "pubdate": "Fri, 04 Oct 2024 14:00:00 +0100"
@@ -40,14 +60,19 @@
         "pubdate": "Fri, 04 Oct 2024 10:00:00 +0100"
     },
     {
-        "title": "5 de Outubro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#5%20de%20Outubro",
-        "pubdate": "Fri, 04 Oct 2024 11:00:00 +0100"
-    },
-    {
         "title": "Ana Castela",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Ana%20Castela",
         "pubdate": "Fri, 04 Oct 2024 00:00:00 +0100"
+    },
+    {
+        "title": "Dia mundial do animal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Dia%20mundial%20do%20animal",
+        "pubdate": "Fri, 04 Oct 2024 10:00:00 +0100"
+    },
+    {
+        "title": "5 de outubro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#5%20de%20outubro",
+        "pubdate": "Fri, 04 Oct 2024 11:00:00 +0100"
     },
     {
         "title": "Fluminense",
@@ -58,11 +83,6 @@
         "title": "Passe Ferroviário",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Passe%20Ferrovi%C3%A1rio",
         "pubdate": "Fri, 04 Oct 2024 14:00:00 +0100"
-    },
-    {
-        "title": "Dia mundial do animal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Dia%20mundial%20do%20animal",
-        "pubdate": "Fri, 04 Oct 2024 10:00:00 +0100"
     },
     {
         "title": "Pogba",
@@ -78,25 +98,5 @@
         "title": "Solar dos Presuntos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Solar%20dos%20Presuntos",
         "pubdate": "Fri, 04 Oct 2024 00:00:00 +0100"
-    },
-    {
-        "title": "Mariana Cabral",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Mariana%20Cabral",
-        "pubdate": "Fri, 04 Oct 2024 16:00:00 +0100"
-    },
-    {
-        "title": "Otamendi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Otamendi",
-        "pubdate": "Fri, 04 Oct 2024 16:00:00 +0100"
-    },
-    {
-        "title": "Portugal FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Portugal%20FC",
-        "pubdate": "Fri, 04 Oct 2024 15:00:00 +0100"
-    },
-    {
-        "title": "NBA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#NBA",
-        "pubdate": "Fri, 04 Oct 2024 18:00:00 +0100"
     }
 ]
