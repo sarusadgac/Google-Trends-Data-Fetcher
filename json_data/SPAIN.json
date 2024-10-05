@@ -10,8 +10,8 @@
         "pubdate": "Sat, 05 Oct 2024 12:00:00 +0200"
     },
     {
-        "title": "Paula Badosa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Paula%20Badosa",
+        "title": "Getafe - Osasuna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Getafe%20-%20Osasuna",
         "pubdate": "Sat, 05 Oct 2024 16:00:00 +0200"
     },
     {
@@ -20,8 +20,13 @@
         "pubdate": "Sat, 05 Oct 2024 14:00:00 +0200"
     },
     {
-        "title": "Getafe - Osasuna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Getafe%20-%20Osasuna",
+        "title": "Paula Badosa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Paula%20Badosa",
+        "pubdate": "Sat, 05 Oct 2024 16:00:00 +0200"
+    },
+    {
+        "title": "Manchester City - Fulham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Manchester%20City%20-%20Fulham",
         "pubdate": "Sat, 05 Oct 2024 16:00:00 +0200"
     },
     {
@@ -40,8 +45,8 @@
         "pubdate": "Sat, 05 Oct 2024 11:00:00 +0200"
     },
     {
-        "title": "Racing Ferrol - Elche CF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Racing%20Ferrol%20-%20Elche%20CF",
+        "title": "Racing Ferrol  Elche CF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Racing%20Ferrol%20%20Elche%20CF",
         "pubdate": "Sat, 05 Oct 2024 15:00:00 +0200"
     },
     {
@@ -55,9 +60,9 @@
         "pubdate": "Sat, 05 Oct 2024 15:00:00 +0200"
     },
     {
-        "title": "Manchester City - Fulham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Manchester%20City%20-%20Fulham",
-        "pubdate": "Sat, 05 Oct 2024 16:00:00 +0200"
+        "title": "Mirandés-Granada",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Mirand%C3%A9s-Granada",
+        "pubdate": "Sat, 05 Oct 2024 17:00:00 +0200"
     },
     {
         "title": "Lady Gaga",
@@ -65,19 +70,19 @@
         "pubdate": "Sat, 05 Oct 2024 08:00:00 +0200"
     },
     {
-        "title": "Derio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Derio",
-        "pubdate": "Sat, 05 Oct 2024 14:00:00 +0200"
-    },
-    {
         "title": "Sevilla Betis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Sevilla%20Betis",
         "pubdate": "Sat, 05 Oct 2024 16:00:00 +0200"
     },
     {
-        "title": "Milena Smit",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Milena%20Smit",
-        "pubdate": "Sat, 05 Oct 2024 12:00:00 +0200"
+        "title": "Arsenal - Southampton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Arsenal%20-%20Southampton",
+        "pubdate": "Sat, 05 Oct 2024 17:00:00 +0200"
+    },
+    {
+        "title": "UD Las Palmas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#UD%20Las%20Palmas",
+        "pubdate": "Sat, 05 Oct 2024 17:00:00 +0200"
     },
     {
         "title": "Leganés  Valencia CF",
@@ -93,10 +98,5 @@
         "title": "El hoyo 2",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#El%20hoyo%202",
         "pubdate": "Fri, 04 Oct 2024 23:00:00 +0200"
-    },
-    {
-        "title": "Joker 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Joker%202",
-        "pubdate": "Fri, 04 Oct 2024 21:00:00 +0200"
     }
 ]

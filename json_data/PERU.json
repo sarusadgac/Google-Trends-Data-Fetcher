@@ -10,19 +10,24 @@
         "pubdate": "Sat, 05 Oct 2024 09:00:00 -0500"
     },
     {
-        "title": "RCD Espanyol  RCD Mallorca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#RCD%20Espanyol%20%20RCD%20Mallorca",
-        "pubdate": "Sat, 05 Oct 2024 08:00:00 -0500"
-    },
-    {
         "title": "Arsenal - Southampton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Arsenal%20-%20Southampton",
         "pubdate": "Sat, 05 Oct 2024 09:00:00 -0500"
     },
     {
+        "title": "RCD Espanyol  RCD Mallorca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#RCD%20Espanyol%20%20RCD%20Mallorca",
+        "pubdate": "Sat, 05 Oct 2024 08:00:00 -0500"
+    },
+    {
         "title": "Bolivia Evo Morales",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bolivia%20Evo%20Morales",
         "pubdate": "Sat, 05 Oct 2024 01:00:00 -0500"
+    },
+    {
+        "title": "Bayer Leverkusen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bayer%20Leverkusen",
+        "pubdate": "Sat, 05 Oct 2024 10:00:00 -0500"
     },
     {
         "title": "Novak Djokovic",
@@ -33,6 +38,11 @@
         "title": "Carlos Alcaraz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Carlos%20Alcaraz",
         "pubdate": "Sat, 05 Oct 2024 09:00:00 -0500"
+    },
+    {
+        "title": "Getafe - Osasuna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Getafe%20-%20Osasuna",
+        "pubdate": "Sat, 05 Oct 2024 10:00:00 -0500"
     },
     {
         "title": "Napoli",
@@ -85,18 +95,8 @@
         "pubdate": "Fri, 04 Oct 2024 09:00:00 -0500"
     },
     {
-        "title": "NBA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#NBA",
-        "pubdate": "Fri, 04 Oct 2024 17:00:00 -0500"
-    },
-    {
         "title": "Sudamericano Sub 15",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Sudamericano%20Sub%2015",
         "pubdate": "Fri, 04 Oct 2024 22:00:00 -0500"
-    },
-    {
-        "title": "Renato Tapia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Renato%20Tapia",
-        "pubdate": "Fri, 04 Oct 2024 16:00:00 -0500"
     }
 ]
