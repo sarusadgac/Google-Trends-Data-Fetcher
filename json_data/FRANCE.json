@@ -5,6 +5,11 @@
         "pubdate": "Sun, 06 Oct 2024 00:00:00 +0200"
     },
     {
+        "title": "Carvajal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Carvajal",
+        "pubdate": "Sun, 06 Oct 2024 01:00:00 +0200"
+    },
+    {
         "title": "Dany Brillant",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Dany%20Brillant",
         "pubdate": "Sun, 06 Oct 2024 11:00:00 +0200"
@@ -27,7 +32,7 @@
     {
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Real%20Madrid",
-        "pubdate": "Sat, 05 Oct 2024 23:00:00 +0200"
+        "pubdate": "Sat, 05 Oct 2024 22:00:00 +0200"
     },
     {
         "title": "Rennes – Monaco",
@@ -55,11 +60,6 @@
         "pubdate": "Sat, 05 Oct 2024 23:00:00 +0200"
     },
     {
-        "title": "Novak Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Novak%20Djokovic",
-        "pubdate": "Sat, 05 Oct 2024 15:00:00 +0200"
-    },
-    {
         "title": "Raphaël Glucksmann",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Rapha%C3%ABl%20Glucksmann",
         "pubdate": "Sat, 05 Oct 2024 20:00:00 +0200"
@@ -68,6 +68,11 @@
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Liverpool",
         "pubdate": "Sat, 05 Oct 2024 16:00:00 +0200"
+    },
+    {
+        "title": "Kamala Harris",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Kamala%20Harris",
+        "pubdate": "Sat, 05 Oct 2024 21:00:00 +0200"
     },
     {
         "title": "UBB-Bayonne",
@@ -93,10 +98,5 @@
         "title": "Jean-Paul Rouve",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Jean-Paul%20Rouve",
         "pubdate": "Sat, 05 Oct 2024 21:00:00 +0200"
-    },
-    {
-        "title": "Michel Blanc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Michel%20Blanc",
-        "pubdate": "Fri, 04 Oct 2024 09:00:00 +0200"
     }
 ]

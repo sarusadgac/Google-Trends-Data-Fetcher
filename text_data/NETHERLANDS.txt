@@ -1,7 +1,7 @@
 Feyenoord  Twente
 Go Ahead Eagles
+Ajax Groningen
 Kees van Wonderen
-Carvajal
 Utrecht  RKC
 NAC
 PSV - Sparta Rotterdam
@@ -10,7 +10,6 @@ PSV Sparta
 Water Apeldoorn
 Apeldoorn
 FC Twente
-Robert ten Brink
 Feyenoord
 Leidens Ontzet
 Iran
@@ -18,3 +17,4 @@ NAVO
 Deventer
 Oktober
 Anna Gimbrere
+Amersfoort
