@@ -10,6 +10,11 @@
         "pubdate": "Sun, 06 Oct 2024 03:00:00 +0300"
     },
     {
+        "title": "Jack Doherty",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Jack%20Doherty",
+        "pubdate": "Sun, 06 Oct 2024 10:00:00 +0300"
+    },
+    {
         "title": "Real Madrid – Villarreal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Real%20Madrid%20%E2%80%93%20Villarreal",
         "pubdate": "Sat, 05 Oct 2024 23:00:00 +0300"
@@ -35,14 +40,14 @@
         "pubdate": "Sat, 05 Oct 2024 22:00:00 +0300"
     },
     {
-        "title": "The Apprentice",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#The%20Apprentice",
-        "pubdate": "Sat, 05 Oct 2024 22:00:00 +0300"
-    },
-    {
         "title": "RSV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#RSV",
         "pubdate": "Sat, 05 Oct 2024 21:00:00 +0300"
+    },
+    {
+        "title": "The Apprentice",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#The%20Apprentice",
+        "pubdate": "Sat, 05 Oct 2024 22:00:00 +0300"
     },
     {
         "title": "Coachella",
@@ -93,10 +98,5 @@
         "title": "Levi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Levi",
         "pubdate": "Fri, 04 Oct 2024 22:00:00 +0300"
-    },
-    {
-        "title": "Heartstopper",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Heartstopper",
-        "pubdate": "Fri, 04 Oct 2024 00:00:00 +0300"
     }
 ]

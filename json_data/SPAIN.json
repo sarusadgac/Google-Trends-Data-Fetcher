@@ -5,6 +5,11 @@
         "pubdate": "Sun, 06 Oct 2024 00:00:00 +0200"
     },
     {
+        "title": "Alex Pereira",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Alex%20Pereira",
+        "pubdate": "Sun, 06 Oct 2024 00:00:00 +0200"
+    },
+    {
         "title": "The Royal Game",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#The%20Royal%20Game",
         "pubdate": "Sun, 06 Oct 2024 00:00:00 +0200"
@@ -13,11 +18,6 @@
         "title": "El lector",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#El%20lector",
         "pubdate": "Sun, 06 Oct 2024 01:00:00 +0200"
-    },
-    {
-        "title": "UFC 307",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#UFC%20307",
-        "pubdate": "Sun, 06 Oct 2024 00:00:00 +0200"
     },
     {
         "title": "Valladolid fc",
@@ -37,6 +37,11 @@
     {
         "title": "Casi imposible",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Casi%20imposible",
+        "pubdate": "Sun, 06 Oct 2024 01:00:00 +0200"
+    },
+    {
+        "title": "Santiago Segura",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Santiago%20Segura",
         "pubdate": "Sun, 06 Oct 2024 01:00:00 +0200"
     },
     {
@@ -93,10 +98,5 @@
         "title": "Crystal Palace - Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Crystal%20Palace%20-%20Liverpool",
         "pubdate": "Sat, 05 Oct 2024 14:00:00 +0200"
-    },
-    {
-        "title": "Paula Badosa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Paula%20Badosa",
-        "pubdate": "Sat, 05 Oct 2024 16:00:00 +0200"
     }
 ]

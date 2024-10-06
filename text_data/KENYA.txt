@@ -1,12 +1,11 @@
 Al-Nassr
-Real Madrid FC
 UFC
+Real Madrid FC
 Man City vs Fulham
 Real Madrid vs Villarreal
 Brentford vs Wolves
 West Ham vs Ipswich Town
 Liverpool FC
-Inter vs Torino
 Toronto vs Inter Miami
 Chelsea vs Nottingham Forest
 Leverkusen
@@ -16,5 +15,6 @@ NBA
 Samson Kandie
 Teachers' Day
 World Teachers' Day
+Bolton
 Arsenal vs Southampton
 Crystal Palace vs Liverpool
