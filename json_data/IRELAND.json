@@ -65,11 +65,6 @@
         "pubdate": "Sat, 05 Oct 2024 14:00:00 +0100"
     },
     {
-        "title": "Brentford vs Wolves",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Brentford%20vs%20Wolves",
-        "pubdate": "Sat, 05 Oct 2024 16:00:00 +0100"
-    },
-    {
         "title": "Susan McCann",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Susan%20McCann",
         "pubdate": "Sat, 05 Oct 2024 00:00:00 +0100"
@@ -98,5 +93,10 @@
         "title": "Cloverhill Prison",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Cloverhill%20Prison",
         "pubdate": "Sat, 05 Oct 2024 16:00:00 +0100"
+    },
+    {
+        "title": "Ovarian cancer vaccine",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Ovarian%20cancer%20vaccine",
+        "pubdate": "Sat, 05 Oct 2024 01:00:00 +0100"
     }
 ]

@@ -5,11 +5,6 @@
         "pubdate": "Sun, 06 Oct 2024 00:00:00 -0400"
     },
     {
-        "title": "Padres vs Dodgers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Padres%20vs%20Dodgers",
-        "pubdate": "Sun, 06 Oct 2024 00:00:00 -0400"
-    },
-    {
         "title": "Bigg Boss 18",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bigg%20Boss%2018",
         "pubdate": "Sun, 06 Oct 2024 02:00:00 -0400"
@@ -98,5 +93,10 @@
         "title": "Israel Iran nuclear",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Israel%20Iran%20nuclear",
         "pubdate": "Sat, 05 Oct 2024 02:00:00 -0400"
+    },
+    {
+        "title": "Stephen Thompson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Stephen%20Thompson",
+        "pubdate": "Sat, 05 Oct 2024 22:00:00 -0400"
     }
 ]
