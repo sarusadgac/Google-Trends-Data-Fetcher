@@ -1,22 +1,12 @@
 [
     {
-        "title": "Alavés-Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Alav%C3%A9s-Barcelona",
+        "title": "Alavés - Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Alav%C3%A9s%20-%20Barcelona",
         "pubdate": "Sun, 06 Oct 2024 09:00:00 -0500"
-    },
-    {
-        "title": "Juventus  (Cagliari",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Juventus%20%20(Cagliari",
-        "pubdate": "Sun, 06 Oct 2024 07:00:00 -0500"
     },
     {
         "title": "Aston Villa  Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Aston%20Villa%20%20Manchester%20United",
-        "pubdate": "Sun, 06 Oct 2024 08:00:00 -0500"
-    },
-    {
-        "title": "Girona - Athletic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Girona%20-%20Athletic",
         "pubdate": "Sun, 06 Oct 2024 08:00:00 -0500"
     },
     {
@@ -25,14 +15,29 @@
         "pubdate": "Sun, 06 Oct 2024 08:00:00 -0500"
     },
     {
-        "title": "Juventus vs Cagliari",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Juventus%20vs%20Cagliari",
-        "pubdate": "Sun, 06 Oct 2024 09:00:00 -0500"
+        "title": "Girona  Athletic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Girona%20%20Athletic",
+        "pubdate": "Sun, 06 Oct 2024 08:00:00 -0500"
+    },
+    {
+        "title": "Juventus - Cagliari",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Juventus%20-%20Cagliari",
+        "pubdate": "Sun, 06 Oct 2024 07:00:00 -0500"
+    },
+    {
+        "title": "Frankfurt - Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Frankfurt%20-%20Bayern",
+        "pubdate": "Sun, 06 Oct 2024 11:00:00 -0500"
     },
     {
         "title": "Lazio",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Lazio",
         "pubdate": "Sun, 06 Oct 2024 10:00:00 -0500"
+    },
+    {
+        "title": "Ifigenia Martínez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Ifigenia%20Mart%C3%ADnez",
+        "pubdate": "Sun, 06 Oct 2024 11:00:00 -0500"
     },
     {
         "title": "Real Madrid - Villarreal",
@@ -73,11 +78,6 @@
         "title": "Resultados San Marcos 2025-I",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Resultados%20San%20Marcos%202025-I",
         "pubdate": "Sat, 05 Oct 2024 11:00:00 -0500"
-    },
-    {
-        "title": "Inter  Torino",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Inter%20%20Torino",
-        "pubdate": "Sat, 05 Oct 2024 15:00:00 -0500"
     },
     {
         "title": "Toluca - Pumas",
