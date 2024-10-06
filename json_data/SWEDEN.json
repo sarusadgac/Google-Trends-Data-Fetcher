@@ -5,6 +5,11 @@
         "pubdate": "Sun, 06 Oct 2024 07:00:00 +0200"
     },
     {
+        "title": "Mjällby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mj%C3%A4llby",
+        "pubdate": "Sun, 06 Oct 2024 08:00:00 +0200"
+    },
+    {
         "title": "Hammarby",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hammarby",
         "pubdate": "Sat, 05 Oct 2024 15:00:00 +0200"
@@ -35,11 +40,6 @@
         "pubdate": "Sat, 05 Oct 2024 11:00:00 +0200"
     },
     {
-        "title": "UNT",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#UNT",
-        "pubdate": "Sat, 05 Oct 2024 11:00:00 +0200"
-    },
-    {
         "title": "NHL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#NHL",
         "pubdate": "Sat, 05 Oct 2024 00:00:00 +0200"
@@ -63,11 +63,6 @@
         "title": "Open house stockholm",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Open%20house%20stockholm",
         "pubdate": "Sat, 05 Oct 2024 10:00:00 +0200"
-    },
-    {
-        "title": "Landskrona BoIS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Landskrona%20BoIS",
-        "pubdate": "Sat, 05 Oct 2024 15:00:00 +0200"
     },
     {
         "title": "Manchester United",
@@ -98,5 +93,10 @@
         "title": "Marcus Berggren",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Marcus%20Berggren",
         "pubdate": "Fri, 04 Oct 2024 11:00:00 +0200"
+    },
+    {
+        "title": "Så mycket bättre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#S%C3%A5%20mycket%20b%C3%A4ttre",
+        "pubdate": "Fri, 04 Oct 2024 21:00:00 +0200"
     }
 ]
