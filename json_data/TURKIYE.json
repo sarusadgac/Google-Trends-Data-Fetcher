@@ -75,11 +75,6 @@
         "pubdate": "Sat, 05 Oct 2024 22:00:00 +0300"
     },
     {
-        "title": "Ümraniyespor - Bandırmaspor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C3%9Cmraniyespor%20-%20Band%C4%B1rmaspor",
-        "pubdate": "Sat, 05 Oct 2024 15:00:00 +0300"
-    },
-    {
         "title": "Bodrumspor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Bodrumspor",
         "pubdate": "Sat, 05 Oct 2024 16:00:00 +0300"
@@ -98,5 +93,10 @@
         "title": "Galatasaray-Alanyaspor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Galatasaray-Alanyaspor",
         "pubdate": "Sat, 05 Oct 2024 20:00:00 +0300"
+    },
+    {
+        "title": "NBA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#NBA",
+        "pubdate": "Sat, 05 Oct 2024 02:00:00 +0300"
     }
 ]

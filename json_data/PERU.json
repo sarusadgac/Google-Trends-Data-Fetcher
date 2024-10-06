@@ -35,13 +35,13 @@
         "pubdate": "Sat, 05 Oct 2024 11:00:00 -0500"
     },
     {
-        "title": "Inter  Torino",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Inter%20%20Torino",
+        "title": "Al Nassr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Al%20Nassr",
         "pubdate": "Sat, 05 Oct 2024 15:00:00 -0500"
     },
     {
-        "title": "Al Nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Al%20Nassr",
+        "title": "Inter  Torino",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Inter%20%20Torino",
         "pubdate": "Sat, 05 Oct 2024 15:00:00 -0500"
     },
     {
@@ -58,6 +58,11 @@
         "title": "Recorrido del Señor de los Milagros 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Recorrido%20del%20Se%C3%B1or%20de%20los%20Milagros%202024",
         "pubdate": "Sat, 05 Oct 2024 14:00:00 -0500"
+    },
+    {
+        "title": "UFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#UFC",
+        "pubdate": "Sat, 05 Oct 2024 21:00:00 -0500"
     },
     {
         "title": "Bayer Leverkusen",
@@ -93,10 +98,5 @@
         "title": "Bolivia Evo Morales",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bolivia%20Evo%20Morales",
         "pubdate": "Sat, 05 Oct 2024 01:00:00 -0500"
-    },
-    {
-        "title": "Everton - Newcastle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Everton%20-%20Newcastle",
-        "pubdate": "Sat, 05 Oct 2024 13:00:00 -0500"
     }
 ]
