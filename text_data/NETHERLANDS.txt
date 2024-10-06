@@ -1,16 +1,14 @@
+Benfica
 Feyenoord
 Ajax  Groningen
-Fortuna  AZ
+Heerenveen
 Go Ahead Eagles
-Sc Heerenveen
 Wout Weghorst
+Fortuna
 Schalke 04
 PSV - Sparta Rotterdam
-Sera
-NAC NEC
 FC Utrecht
 NAC
-Intratuin Duiven
 FC Twente
 Robert ten Brink
 Feyenoord
@@ -18,3 +16,5 @@ Leidens Ontzet
 Iran
 NAVO
 Deventer
+Oktober
+Anna Gimbrere
