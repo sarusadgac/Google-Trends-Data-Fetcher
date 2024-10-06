@@ -1,9 +1,10 @@
+BVB
 Carvajal
 Elon Musk
+Kees van Wonderen
 Bruce Darnell
 Hertha BSC
 Erntedankfest
-Schalke Trainer
 Flughafen Frankfurt
 Göppingen
 Hamburg
@@ -17,4 +18,3 @@ Essen
 Werder Bremen
 Eintracht Frankfurt
 Hertha BSC
-Holstein Kiel
