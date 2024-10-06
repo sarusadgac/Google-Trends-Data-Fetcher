@@ -35,6 +35,11 @@
         "pubdate": "Sun, 06 Oct 2024 10:00:00 +0700"
     },
     {
+        "title": "KAS Eupen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#KAS%20Eupen",
+        "pubdate": "Sun, 06 Oct 2024 11:00:00 +0700"
+    },
+    {
         "title": "Madrid vs Villarreal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Madrid%20vs%20Villarreal",
         "pubdate": "Sat, 05 Oct 2024 16:00:00 +0700"
@@ -93,10 +98,5 @@
         "title": "Almere City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Almere%20City",
         "pubdate": "Sat, 05 Oct 2024 01:00:00 +0700"
-    },
-    {
-        "title": "Brisbane Roar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Brisbane%20Roar",
-        "pubdate": "Sat, 05 Oct 2024 15:00:00 +0700"
     }
 ]
