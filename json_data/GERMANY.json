@@ -10,11 +10,6 @@
         "pubdate": "Sat, 05 Oct 2024 15:00:00 +0200"
     },
     {
-        "title": "Leverkusen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Leverkusen",
-        "pubdate": "Sat, 05 Oct 2024 18:00:00 +0200"
-    },
-    {
         "title": "Schalke Trainer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schalke%20Trainer",
         "pubdate": "Sat, 05 Oct 2024 22:00:00 +0200"
@@ -98,5 +93,10 @@
         "title": "ORF",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#ORF",
         "pubdate": "Sun, 29 Sep 2024 18:00:00 +0200"
+    },
+    {
+        "title": "AfD-Verbot",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#AfD-Verbot",
+        "pubdate": "Sun, 29 Sep 2024 22:00:00 +0200"
     }
 ]
