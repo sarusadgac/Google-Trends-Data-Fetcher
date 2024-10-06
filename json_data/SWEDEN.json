@@ -1,7 +1,7 @@
 [
     {
-        "title": "Henrik brandao Jönsson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Henrik%20brandao%20J%C3%B6nsson",
+        "title": "Henrik Brandao Jönsson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Henrik%20Brandao%20J%C3%B6nsson",
         "pubdate": "Sun, 06 Oct 2024 11:00:00 +0200"
     },
     {
@@ -15,14 +15,14 @@
         "pubdate": "Sun, 06 Oct 2024 13:00:00 +0200"
     },
     {
-        "title": "IFK Göteborg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IFK%20G%C3%B6teborg",
-        "pubdate": "Sun, 06 Oct 2024 17:00:00 +0200"
-    },
-    {
         "title": "Djurgården mot Kalmar FF",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Djurg%C3%A5rden%20mot%20Kalmar%20FF",
         "pubdate": "Sun, 06 Oct 2024 14:00:00 +0200"
+    },
+    {
+        "title": "IFK Göteborg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IFK%20G%C3%B6teborg",
+        "pubdate": "Sun, 06 Oct 2024 18:00:00 +0200"
     },
     {
         "title": "Mall of Scandinavia",
@@ -35,19 +35,19 @@
         "pubdate": "Sun, 06 Oct 2024 17:00:00 +0200"
     },
     {
-        "title": "Sirius",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sirius",
+        "title": "Norrköping mot IFK Göteborg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Norrk%C3%B6ping%20mot%20IFK%20G%C3%B6teborg",
+        "pubdate": "Sun, 06 Oct 2024 17:00:00 +0200"
+    },
+    {
+        "title": "Sirius mot Elfsborg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sirius%20mot%20Elfsborg",
         "pubdate": "Sun, 06 Oct 2024 17:00:00 +0200"
     },
     {
         "title": "Mjällby",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mj%C3%A4llby",
         "pubdate": "Sun, 06 Oct 2024 08:00:00 +0200"
-    },
-    {
-        "title": "Trelleborg mot Örgryte",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Trelleborg%20mot%20%C3%96rgryte",
-        "pubdate": "Sun, 06 Oct 2024 18:00:00 +0200"
     },
     {
         "title": "Hammarby",
@@ -63,6 +63,11 @@
         "title": "UFC 307",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#UFC%20307",
         "pubdate": "Sat, 05 Oct 2024 11:00:00 +0200"
+    },
+    {
+        "title": "HV71",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#HV71",
+        "pubdate": "Sat, 05 Oct 2024 20:00:00 +0200"
     },
     {
         "title": "Rasmus Gozzi",
@@ -93,10 +98,5 @@
         "title": "Landskrona BoIS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Landskrona%20BoIS",
         "pubdate": "Sat, 05 Oct 2024 15:00:00 +0200"
-    },
-    {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Manchester%20United",
-        "pubdate": "Fri, 04 Oct 2024 00:00:00 +0200"
     }
 ]
