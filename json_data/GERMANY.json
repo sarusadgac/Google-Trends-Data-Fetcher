@@ -5,14 +5,19 @@
         "pubdate": "Sat, 05 Oct 2024 21:00:00 +0200"
     },
     {
-        "title": "Kees van Wonderen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kees%20van%20Wonderen",
-        "pubdate": "Sat, 05 Oct 2024 22:00:00 +0200"
+        "title": "Erzgebirge Aue – Hansa Rostock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Erzgebirge%20Aue%20%E2%80%93%20Hansa%20Rostock",
+        "pubdate": "Sat, 05 Oct 2024 15:00:00 +0200"
     },
     {
         "title": "Leverkusen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Leverkusen",
         "pubdate": "Sat, 05 Oct 2024 18:00:00 +0200"
+    },
+    {
+        "title": "Schalke Trainer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schalke%20Trainer",
+        "pubdate": "Sat, 05 Oct 2024 22:00:00 +0200"
     },
     {
         "title": "Promi Big Brother",
@@ -93,10 +98,5 @@
         "title": "ORF",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#ORF",
         "pubdate": "Sun, 29 Sep 2024 18:00:00 +0200"
-    },
-    {
-        "title": "AfD-Verbot",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#AfD-Verbot",
-        "pubdate": "Sun, 29 Sep 2024 22:00:00 +0200"
     }
 ]
