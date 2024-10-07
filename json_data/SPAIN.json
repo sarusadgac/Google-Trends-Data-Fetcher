@@ -7,7 +7,7 @@
     {
         "title": "Aemet",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Aemet",
-        "pubdate": "Mon, 07 Oct 2024 14:00:00 +0200"
+        "pubdate": "Mon, 07 Oct 2024 09:00:00 +0200"
     },
     {
         "title": "El tiempo en Sevilla",
@@ -35,14 +35,29 @@
         "pubdate": "Mon, 07 Oct 2024 10:00:00 +0200"
     },
     {
+        "title": "El tiempo en Granada",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#El%20tiempo%20en%20Granada",
+        "pubdate": "Mon, 07 Oct 2024 11:00:00 +0200"
+    },
+    {
         "title": "Dragon Ball: Sparking! Zero",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Dragon%20Ball:%20Sparking!%20Zero",
         "pubdate": "Mon, 07 Oct 2024 19:00:00 +0200"
     },
     {
+        "title": "Franco Colapinto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Franco%20Colapinto",
+        "pubdate": "Mon, 07 Oct 2024 17:00:00 +0200"
+    },
+    {
         "title": "Huelga 11 de octubre",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Huelga%2011%20de%20octubre",
         "pubdate": "Mon, 07 Oct 2024 00:00:00 +0200"
+    },
+    {
+        "title": "Muface",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Muface",
+        "pubdate": "Mon, 07 Oct 2024 17:00:00 +0200"
     },
     {
         "title": "Eltiempo",
@@ -60,18 +75,13 @@
         "pubdate": "Mon, 07 Oct 2024 12:00:00 +0200"
     },
     {
-        "title": "Franco Colapinto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Franco%20Colapinto",
-        "pubdate": "Mon, 07 Oct 2024 17:00:00 +0200"
+        "title": "LeBron James",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#LeBron%20James",
+        "pubdate": "Mon, 07 Oct 2024 16:00:00 +0200"
     },
     {
         "title": "WiZink Center",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#WiZink%20Center",
-        "pubdate": "Mon, 07 Oct 2024 16:00:00 +0200"
-    },
-    {
-        "title": "LeBron James",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#LeBron%20James",
         "pubdate": "Mon, 07 Oct 2024 16:00:00 +0200"
     },
     {
@@ -88,15 +98,5 @@
         "title": "Reina sofia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Reina%20sofia",
         "pubdate": "Mon, 07 Oct 2024 19:00:00 +0200"
-    },
-    {
-        "title": "El tiempo Zaragoza",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#El%20tiempo%20Zaragoza",
-        "pubdate": "Mon, 07 Oct 2024 09:00:00 +0200"
-    },
-    {
-        "title": "Virgen del Rosario",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Virgen%20del%20Rosario",
-        "pubdate": "Mon, 07 Oct 2024 11:00:00 +0200"
     }
 ]
