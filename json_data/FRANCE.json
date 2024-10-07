@@ -35,6 +35,11 @@
         "pubdate": "Mon, 07 Oct 2024 02:00:00 +0200"
     },
     {
+        "title": "Crash avion Vendée",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Crash%20avion%20Vend%C3%A9e",
+        "pubdate": "Mon, 07 Oct 2024 19:00:00 +0200"
+    },
+    {
         "title": "Nessim Ramdane",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Nessim%20Ramdane",
         "pubdate": "Mon, 07 Oct 2024 07:00:00 +0200"
@@ -93,10 +98,5 @@
         "title": "Mbappe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Mbappe",
         "pubdate": "Sun, 06 Oct 2024 11:00:00 +0200"
-    },
-    {
-        "title": "Lens",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Lens",
-        "pubdate": "Sun, 06 Oct 2024 21:00:00 +0200"
     }
 ]
