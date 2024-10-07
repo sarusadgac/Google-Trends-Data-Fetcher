@@ -5,9 +5,8 @@ Gary Ruvkun
 Johan Neeskens
 Omar Marmoush
 FC Bayern
-VfB
 RB Leipzig
-Alida Kurras
+Eintracht Braunschweig
 Schwerin
 Flughafen Frankfurt
 Göppingen
@@ -18,3 +17,4 @@ Iran
 Israel news
 Kris Kristofferson
 Österreich-Wahl
+Essen

@@ -35,19 +35,14 @@
         "pubdate": "Sun, 06 Oct 2024 22:00:00 +0200"
     },
     {
-        "title": "VfB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VfB",
-        "pubdate": "Sun, 06 Oct 2024 20:00:00 +0200"
-    },
-    {
         "title": "RB Leipzig",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#RB%20Leipzig",
         "pubdate": "Sun, 06 Oct 2024 20:00:00 +0200"
     },
     {
-        "title": "Alida Kurras",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Alida%20Kurras",
-        "pubdate": "Sun, 06 Oct 2024 19:00:00 +0200"
+        "title": "Eintracht Braunschweig",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eintracht%20Braunschweig",
+        "pubdate": "Sun, 06 Oct 2024 13:00:00 +0200"
     },
     {
         "title": "Schwerin",
@@ -98,5 +93,10 @@
         "title": "Österreich-Wahl",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#%C3%96sterreich-Wahl",
         "pubdate": "Sun, 29 Sep 2024 12:00:00 +0200"
+    },
+    {
+        "title": "Essen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Essen",
+        "pubdate": "Sun, 29 Sep 2024 04:00:00 +0200"
     }
 ]
