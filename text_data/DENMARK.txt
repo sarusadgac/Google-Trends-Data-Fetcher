@@ -1,10 +1,9 @@
 Pivot
 Aston Villa
+Alaves  Barcelona
 Aston Villa  Man utd
-UNICEF
 Madonna
 UFC
-Alaves  Barcelona
 Chelsea
 Elon Musk
 Brighton  Tottenham
@@ -18,3 +17,4 @@ Crystal Palace  Liverpool
 Real Madrid
 Real Madrid  Villarreal
 Alex Pereira
+Man City  Fulham

@@ -1,5 +1,10 @@
 [
     {
+        "title": "Atletico Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Atletico%20Madrid",
+        "pubdate": "Mon, 07 Oct 2024 07:00:00 -0500"
+    },
+    {
         "title": "Alavés - Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Alav%C3%A9s%20-%20Barcelona",
         "pubdate": "Sun, 06 Oct 2024 09:00:00 -0500"
@@ -92,11 +97,6 @@
     {
         "title": "Sammy Basso",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Sammy%20Basso",
-        "pubdate": "Sun, 06 Oct 2024 16:00:00 -0500"
-    },
-    {
-        "title": "Paro 10 de octubre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Paro%2010%20de%20octubre",
         "pubdate": "Sun, 06 Oct 2024 16:00:00 -0500"
     }
 ]
