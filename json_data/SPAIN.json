@@ -5,9 +5,19 @@
         "pubdate": "Mon, 07 Oct 2024 16:00:00 +0200"
     },
     {
+        "title": "Sevilla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Sevilla",
+        "pubdate": "Mon, 07 Oct 2024 17:00:00 +0200"
+    },
+    {
         "title": "Fabio Testi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Fabio%20Testi",
         "pubdate": "Mon, 07 Oct 2024 01:00:00 +0200"
+    },
+    {
+        "title": "Malaga CF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Malaga%20CF",
+        "pubdate": "Mon, 07 Oct 2024 00:00:00 +0200"
     },
     {
         "title": "Jannik Sinner",
@@ -30,6 +40,26 @@
         "pubdate": "Mon, 07 Oct 2024 03:00:00 +0200"
     },
     {
+        "title": "Eltiempo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Eltiempo",
+        "pubdate": "Mon, 07 Oct 2024 15:00:00 +0200"
+    },
+    {
+        "title": "Johan Neeskens",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Johan%20Neeskens",
+        "pubdate": "Mon, 07 Oct 2024 17:00:00 +0200"
+    },
+    {
+        "title": "Levante UD",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Levante%20UD",
+        "pubdate": "Mon, 07 Oct 2024 17:00:00 +0200"
+    },
+    {
+        "title": "Wizink Center",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Wizink%20Center",
+        "pubdate": "Mon, 07 Oct 2024 16:00:00 +0200"
+    },
+    {
         "title": "Rey Felipe VI",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Rey%20Felipe%20VI",
         "pubdate": "Mon, 07 Oct 2024 12:00:00 +0200"
@@ -40,9 +70,9 @@
         "pubdate": "Mon, 07 Oct 2024 01:00:00 +0200"
     },
     {
-        "title": "Wizink Center",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Wizink%20Center",
-        "pubdate": "Mon, 07 Oct 2024 16:00:00 +0200"
+        "title": "Huracan Kirk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Huracan%20Kirk",
+        "pubdate": "Mon, 07 Oct 2024 14:00:00 +0200"
     },
     {
         "title": "Virgen del Rosario",
@@ -50,19 +80,14 @@
         "pubdate": "Mon, 07 Oct 2024 11:00:00 +0200"
     },
     {
-        "title": "Huracan Kirk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Huracan%20Kirk",
-        "pubdate": "Mon, 07 Oct 2024 14:00:00 +0200"
-    },
-    {
         "title": "Hernan cortes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Hernan%20cortes",
         "pubdate": "Mon, 07 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "Kate Middleton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Kate%20Middleton",
-        "pubdate": "Mon, 07 Oct 2024 14:00:00 +0200"
+        "title": "Franco Colapinto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Franco%20Colapinto",
+        "pubdate": "Mon, 07 Oct 2024 17:00:00 +0200"
     },
     {
         "title": "Victor Ambros",
@@ -70,33 +95,8 @@
         "pubdate": "Mon, 07 Oct 2024 15:00:00 +0200"
     },
     {
-        "title": "Bronny James",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Bronny%20James",
-        "pubdate": "Mon, 07 Oct 2024 16:00:00 +0200"
-    },
-    {
-        "title": "Alavés - Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Alav%C3%A9s%20-%20Barcelona",
-        "pubdate": "Sun, 06 Oct 2024 16:00:00 +0200"
-    },
-    {
-        "title": "Real Sociedad  Atlético Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Real%20Sociedad%20%20Atl%C3%A9tico%20Madrid",
-        "pubdate": "Sun, 06 Oct 2024 21:00:00 +0200"
-    },
-    {
-        "title": "Betis Sevilla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Betis%20Sevilla",
-        "pubdate": "Sun, 06 Oct 2024 12:00:00 +0200"
-    },
-    {
-        "title": "Girona  Athletic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Girona%20%20Athletic",
-        "pubdate": "Sun, 06 Oct 2024 14:00:00 +0200"
-    },
-    {
-        "title": "Essure",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Essure",
-        "pubdate": "Sun, 06 Oct 2024 22:00:00 +0200"
+        "title": "Kate Middleton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Kate%20Middleton",
+        "pubdate": "Mon, 07 Oct 2024 14:00:00 +0200"
     }
 ]

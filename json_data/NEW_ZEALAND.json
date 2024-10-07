@@ -10,11 +10,6 @@
         "pubdate": "Mon, 07 Oct 2024 10:00:00 +1300"
     },
     {
-        "title": "Tammy Hembrow",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Tammy%20Hembrow",
-        "pubdate": "Mon, 07 Oct 2024 00:00:00 +1300"
-    },
-    {
         "title": "Nathan Cleary",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Nathan%20Cleary",
         "pubdate": "Mon, 07 Oct 2024 00:00:00 +1300"
@@ -98,5 +93,10 @@
         "title": "Earthquake",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Earthquake",
         "pubdate": "Sun, 06 Oct 2024 06:00:00 +1300"
+    },
+    {
+        "title": "MLB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#MLB",
+        "pubdate": "Sun, 06 Oct 2024 17:00:00 +1300"
     }
 ]
