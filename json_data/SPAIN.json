@@ -1,5 +1,10 @@
 [
     {
+        "title": "El tiempo en Sevilla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#El%20tiempo%20en%20Sevilla",
+        "pubdate": "Mon, 07 Oct 2024 02:00:00 +0200"
+    },
+    {
         "title": "Fabio Testi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Fabio%20Testi",
         "pubdate": "Mon, 07 Oct 2024 01:00:00 +0200"
@@ -8,11 +13,6 @@
         "title": "Hernan cortes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Hernan%20cortes",
         "pubdate": "Mon, 07 Oct 2024 00:00:00 +0200"
-    },
-    {
-        "title": "Sonia martinez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Sonia%20martinez",
-        "pubdate": "Mon, 07 Oct 2024 03:00:00 +0200"
     },
     {
         "title": "Alavés - Barcelona",
@@ -40,16 +40,6 @@
         "pubdate": "Sun, 06 Oct 2024 22:00:00 +0200"
     },
     {
-        "title": "El tiempo en Sevilla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#El%20tiempo%20en%20Sevilla",
-        "pubdate": "Sun, 06 Oct 2024 23:00:00 +0200"
-    },
-    {
-        "title": "Progeria Sammy Basso",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Progeria%20Sammy%20Basso",
-        "pubdate": "Sun, 06 Oct 2024 16:00:00 +0200"
-    },
-    {
         "title": "Chelsea  Nottingham Forest",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Chelsea%20%20Nottingham%20Forest",
         "pubdate": "Sun, 06 Oct 2024 16:00:00 +0200"
@@ -75,9 +65,9 @@
         "pubdate": "Sun, 06 Oct 2024 21:00:00 +0200"
     },
     {
-        "title": "Nueva colección Paula Echevarría Primark",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Nueva%20colecci%C3%B3n%20Paula%20Echevarr%C3%ADa%20Primark",
-        "pubdate": "Sun, 06 Oct 2024 11:00:00 +0200"
+        "title": "Progeria Sammy Basso",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Progeria%20Sammy%20Basso",
+        "pubdate": "Sun, 06 Oct 2024 19:00:00 +0200"
     },
     {
         "title": "Alex Pereira",
@@ -98,5 +88,15 @@
         "title": "Real Madrid  Zaragoza",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Real%20Madrid%20%20Zaragoza",
         "pubdate": "Sun, 06 Oct 2024 13:00:00 +0200"
+    },
+    {
+        "title": "Levante  Real Oviedo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Levante%20%20Real%20Oviedo",
+        "pubdate": "Sun, 06 Oct 2024 19:00:00 +0200"
+    },
+    {
+        "title": "Getafe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Getafe",
+        "pubdate": "Sun, 06 Oct 2024 16:00:00 +0200"
     }
 ]
