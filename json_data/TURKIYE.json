@@ -15,6 +15,16 @@
         "pubdate": "Mon, 07 Oct 2024 01:00:00 +0300"
     },
     {
+        "title": "Bosna Hersek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Bosna%20Hersek",
+        "pubdate": "Mon, 07 Oct 2024 08:00:00 +0300"
+    },
+    {
+        "title": "Erokspor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Erokspor",
+        "pubdate": "Mon, 07 Oct 2024 00:00:00 +0300"
+    },
+    {
         "title": "Macron, İsrail",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Macron,%20%C4%B0srail",
         "pubdate": "Mon, 07 Oct 2024 04:00:00 +0300"
@@ -88,15 +98,5 @@
         "title": "Goztepe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Goztepe",
         "pubdate": "Sun, 06 Oct 2024 13:00:00 +0300"
-    },
-    {
-        "title": "Incel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Incel",
-        "pubdate": "Sun, 06 Oct 2024 13:00:00 +0300"
-    },
-    {
-        "title": "Keçiörengücü - Pendikspor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ke%C3%A7i%C3%B6reng%C3%BCc%C3%BC%20-%20Pendikspor",
-        "pubdate": "Sun, 06 Oct 2024 16:00:00 +0300"
     }
 ]
