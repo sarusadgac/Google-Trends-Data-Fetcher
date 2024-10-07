@@ -2,7 +2,7 @@
     {
         "title": "Silent Hill 2 Remake",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Silent%20Hill%202%20Remake",
-        "pubdate": "Mon, 07 Oct 2024 01:00:00 +0100"
+        "pubdate": "Mon, 07 Oct 2024 00:00:00 +0100"
     },
     {
         "title": "Marco Costa",
@@ -13,6 +13,11 @@
         "title": "Acidente Ponte Lima",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Acidente%20Ponte%20Lima",
         "pubdate": "Mon, 07 Oct 2024 01:00:00 +0100"
+    },
+    {
+        "title": "Daniel Leitão",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Daniel%20Leit%C3%A3o",
+        "pubdate": "Mon, 07 Oct 2024 00:00:00 +0100"
     },
     {
         "title": "Furacão Portugal",
@@ -30,11 +35,6 @@
         "pubdate": "Sun, 06 Oct 2024 15:00:00 +0100"
     },
     {
-        "title": "Apuração eleições 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Apura%C3%A7%C3%A3o%20elei%C3%A7%C3%B5es%202024",
-        "pubdate": "Sun, 06 Oct 2024 22:00:00 +0100"
-    },
-    {
         "title": "Juventus  Cagliari",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Juventus%20%20Cagliari",
         "pubdate": "Sun, 06 Oct 2024 12:00:00 +0100"
@@ -42,6 +42,11 @@
     {
         "title": "Alavés  Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Alav%C3%A9s%20%20Barcelona",
+        "pubdate": "Sun, 06 Oct 2024 15:00:00 +0100"
+    },
+    {
+        "title": "Justificar voto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Justificar%20voto",
         "pubdate": "Sun, 06 Oct 2024 15:00:00 +0100"
     },
     {
@@ -55,9 +60,9 @@
         "pubdate": "Sun, 06 Oct 2024 14:00:00 +0100"
     },
     {
-        "title": "Justificar voto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Justificar%20voto",
-        "pubdate": "Sun, 06 Oct 2024 15:00:00 +0100"
+        "title": "Eleições Brasil",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Elei%C3%A7%C3%B5es%20Brasil",
+        "pubdate": "Sun, 06 Oct 2024 19:00:00 +0100"
     },
     {
         "title": "Farense  Estoril",
@@ -70,24 +75,19 @@
         "pubdate": "Sun, 06 Oct 2024 20:00:00 +0100"
     },
     {
-        "title": "Eleições Brasil",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Elei%C3%A7%C3%B5es%20Brasil",
-        "pubdate": "Sun, 06 Oct 2024 19:00:00 +0100"
-    },
-    {
         "title": "Flamengo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Flamengo",
         "pubdate": "Sun, 06 Oct 2024 00:00:00 +0100"
     },
     {
-        "title": "UFC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#UFC",
-        "pubdate": "Sun, 06 Oct 2024 14:00:00 +0100"
-    },
-    {
         "title": "Real Sociedad  Atlético Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Real%20Sociedad%20%20Atl%C3%A9tico%20Madrid",
         "pubdate": "Sun, 06 Oct 2024 20:00:00 +0100"
+    },
+    {
+        "title": "UFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#UFC",
+        "pubdate": "Sun, 06 Oct 2024 14:00:00 +0100"
     },
     {
         "title": "Aston Villa  Manchester United",

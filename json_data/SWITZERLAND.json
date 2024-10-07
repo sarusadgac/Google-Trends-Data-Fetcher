@@ -10,6 +10,11 @@
         "pubdate": "Sun, 06 Oct 2024 16:00:00 +0200"
     },
     {
+        "title": "St.Gallen – Servette",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#St.Gallen%20%E2%80%93%20Servette",
+        "pubdate": "Sun, 06 Oct 2024 16:00:00 +0200"
+    },
+    {
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Real%20Madrid",
         "pubdate": "Sun, 06 Oct 2024 01:00:00 +0200"
@@ -18,11 +23,6 @@
         "title": "FC Bayern",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Bayern",
         "pubdate": "Sun, 06 Oct 2024 18:00:00 +0200"
-    },
-    {
-        "title": "St.Gallen – Servette",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#St.Gallen%20%E2%80%93%20Servette",
-        "pubdate": "Sun, 06 Oct 2024 16:00:00 +0200"
     },
     {
         "title": "Progeria",
@@ -65,11 +65,6 @@
         "pubdate": "Sun, 06 Oct 2024 20:00:00 +0200"
     },
     {
-        "title": "Lauterbrunnen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lauterbrunnen",
-        "pubdate": "Sun, 06 Oct 2024 22:00:00 +0200"
-    },
-    {
         "title": "Michel Leeb",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Michel%20Leeb",
         "pubdate": "Sun, 06 Oct 2024 17:00:00 +0200"
@@ -98,5 +93,10 @@
         "title": "Polarlichter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Polarlichter",
         "pubdate": "Sun, 06 Oct 2024 08:00:00 +0200"
+    },
+    {
+        "title": "Inter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Inter",
+        "pubdate": "Sun, 06 Oct 2024 18:00:00 +0200"
     }
 ]

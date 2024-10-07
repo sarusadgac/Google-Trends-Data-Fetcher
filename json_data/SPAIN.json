@@ -45,14 +45,14 @@
         "pubdate": "Sun, 06 Oct 2024 16:00:00 +0200"
     },
     {
-        "title": "Entrevias",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Entrevias",
-        "pubdate": "Sun, 06 Oct 2024 13:00:00 +0200"
-    },
-    {
         "title": "Niza  PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Niza%20%20PSG",
         "pubdate": "Sun, 06 Oct 2024 21:00:00 +0200"
+    },
+    {
+        "title": "Entrevias",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Entrevias",
+        "pubdate": "Sun, 06 Oct 2024 13:00:00 +0200"
     },
     {
         "title": "Frankfurt  Bayern",
@@ -63,11 +63,6 @@
         "title": "El tiempo Sevilla",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#El%20tiempo%20Sevilla",
         "pubdate": "Sun, 06 Oct 2024 23:00:00 +0200"
-    },
-    {
-        "title": "Deportivo de la Coruña",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Deportivo%20de%20la%20Coru%C3%B1a",
-        "pubdate": "Sun, 06 Oct 2024 14:00:00 +0200"
     },
     {
         "title": "Roca Rey",
@@ -98,5 +93,10 @@
         "title": "Real Madrid  Zaragoza",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Real%20Madrid%20%20Zaragoza",
         "pubdate": "Sun, 06 Oct 2024 13:00:00 +0200"
+    },
+    {
+        "title": "Getafe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Getafe",
+        "pubdate": "Sun, 06 Oct 2024 16:00:00 +0200"
     }
 ]

@@ -65,11 +65,6 @@
         "pubdate": "Sun, 06 Oct 2024 16:00:00 +0300"
     },
     {
-        "title": "Alex Pereira",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Alex%20Pereira",
-        "pubdate": "Sun, 06 Oct 2024 00:00:00 +0300"
-    },
-    {
         "title": "Al-Nassr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Al-Nassr",
         "pubdate": "Sun, 06 Oct 2024 00:00:00 +0300"
@@ -98,5 +93,10 @@
         "title": "Girona  Bilbao",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Girona%20%20Bilbao",
         "pubdate": "Sun, 06 Oct 2024 16:00:00 +0300"
+    },
+    {
+        "title": "Gheorghita",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Gheorghita",
+        "pubdate": "Sun, 06 Oct 2024 11:00:00 +0300"
     }
 ]
