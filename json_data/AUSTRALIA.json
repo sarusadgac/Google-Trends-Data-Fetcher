@@ -50,11 +50,6 @@
         "pubdate": "Mon, 07 Oct 2024 01:00:00 +1100"
     },
     {
-        "title": "Bossley Park deli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bossley%20Park%20deli",
-        "pubdate": "Mon, 07 Oct 2024 12:00:00 +1100"
-    },
-    {
         "title": "Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Barcelona",
         "pubdate": "Mon, 07 Oct 2024 18:00:00 +1100"
@@ -63,6 +58,11 @@
         "title": "Florence Pugh",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Florence%20Pugh",
         "pubdate": "Mon, 07 Oct 2024 08:00:00 +1100"
+    },
+    {
+        "title": "King Charles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#King%20Charles",
+        "pubdate": "Mon, 07 Oct 2024 13:00:00 +1100"
     },
     {
         "title": "Connect",
@@ -75,9 +75,9 @@
         "pubdate": "Mon, 07 Oct 2024 15:00:00 +1100"
     },
     {
-        "title": "Rugby",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Rugby",
-        "pubdate": "Mon, 07 Oct 2024 03:00:00 +1100"
+        "title": "Hurricane Milton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Hurricane%20Milton",
+        "pubdate": "Mon, 07 Oct 2024 17:00:00 +1100"
     },
     {
         "title": "October 7",
@@ -85,9 +85,9 @@
         "pubdate": "Mon, 07 Oct 2024 13:00:00 +1100"
     },
     {
-        "title": "Hurricane Milton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Hurricane%20Milton",
-        "pubdate": "Mon, 07 Oct 2024 17:00:00 +1100"
+        "title": "Rugby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Rugby",
+        "pubdate": "Mon, 07 Oct 2024 03:00:00 +1100"
     },
     {
         "title": "AFL trade",
