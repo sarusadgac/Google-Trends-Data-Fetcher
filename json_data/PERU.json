@@ -1,15 +1,5 @@
 [
     {
-        "title": "Atletico Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Atletico%20Madrid",
-        "pubdate": "Mon, 07 Oct 2024 07:00:00 -0500"
-    },
-    {
-        "title": "Paro nacional",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Paro%20nacional",
-        "pubdate": "Mon, 07 Oct 2024 09:00:00 -0500"
-    },
-    {
         "title": "Primera División",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Primera%20Divisi%C3%B3n",
         "pubdate": "Mon, 07 Oct 2024 10:00:00 -0500"
@@ -65,6 +55,11 @@
         "pubdate": "Sun, 06 Oct 2024 20:00:00 -0500"
     },
     {
+        "title": "Paro 10 de octubre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Paro%2010%20de%20octubre",
+        "pubdate": "Sun, 06 Oct 2024 16:00:00 -0500"
+    },
+    {
         "title": "Fiorentina - Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Fiorentina%20-%20Milan",
         "pubdate": "Sun, 06 Oct 2024 15:00:00 -0500"
@@ -90,13 +85,18 @@
         "pubdate": "Sun, 06 Oct 2024 19:00:00 -0500"
     },
     {
-        "title": "Paro 10 de octubre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Paro%2010%20de%20octubre",
-        "pubdate": "Sun, 06 Oct 2024 16:00:00 -0500"
-    },
-    {
         "title": "Boca",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Boca",
         "pubdate": "Sun, 06 Oct 2024 22:00:00 -0500"
+    },
+    {
+        "title": "Andres Roca Rey",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Andres%20Roca%20Rey",
+        "pubdate": "Sun, 06 Oct 2024 20:00:00 -0500"
+    },
+    {
+        "title": "Platense  River Plate",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Platense%20%20River%20Plate",
+        "pubdate": "Sun, 06 Oct 2024 18:00:00 -0500"
     }
 ]
