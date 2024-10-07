@@ -10,6 +10,11 @@
         "pubdate": "Mon, 07 Oct 2024 15:30:00 +0530"
     },
     {
+        "title": "Singham Again",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Singham%20Again",
+        "pubdate": "Mon, 07 Oct 2024 07:30:00 +0530"
+    },
+    {
         "title": "5th Day of Navratri",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#5th%20Day%20of%20Navratri",
         "pubdate": "Mon, 07 Oct 2024 08:30:00 +0530"
@@ -25,11 +30,6 @@
         "pubdate": "Mon, 07 Oct 2024 06:30:00 +0530"
     },
     {
-        "title": "Singham Again",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Singham%20Again",
-        "pubdate": "Mon, 07 Oct 2024 07:30:00 +0530"
-    },
-    {
         "title": "Ratan Tata",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Ratan%20Tata",
         "pubdate": "Mon, 07 Oct 2024 13:30:00 +0530"
@@ -38,6 +38,11 @@
         "title": "NBCC share price",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#NBCC%20share%20price",
         "pubdate": "Mon, 07 Oct 2024 10:30:00 +0530"
+    },
+    {
+        "title": "Share market today",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Share%20market%20today",
+        "pubdate": "Mon, 07 Oct 2024 14:30:00 +0530"
     },
     {
         "title": "UFC",
@@ -70,9 +75,9 @@
         "pubdate": "Mon, 07 Oct 2024 07:30:00 +0530"
     },
     {
-        "title": "Share Market Today",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Share%20Market%20Today",
-        "pubdate": "Mon, 07 Oct 2024 14:30:00 +0530"
+        "title": "Maldives President Mohamed Muizzu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Maldives%20President%20Mohamed%20Muizzu",
+        "pubdate": "Mon, 07 Oct 2024 16:30:00 +0530"
     },
     {
         "title": "Bangladesh vs India",
@@ -93,10 +98,5 @@
         "title": "Bigg Boss 18 contestants",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Bigg%20Boss%2018%20contestants",
         "pubdate": "Sun, 06 Oct 2024 22:30:00 +0530"
-    },
-    {
-        "title": "Bigg Boss 18",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Bigg%20Boss%2018",
-        "pubdate": "Sun, 06 Oct 2024 21:30:00 +0530"
     }
 ]

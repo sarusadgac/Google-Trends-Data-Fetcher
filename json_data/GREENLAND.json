@@ -1,28 +1,13 @@
 [
     {
-        "title": "7 octobre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#7%20octobre",
-        "pubdate": "Mon, 07 Oct 2024 10:00:00 +0200"
-    },
-    {
-        "title": "Cowboys",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cowboys",
-        "pubdate": "Sun, 06 Oct 2024 18:00:00 -0700"
-    },
-    {
-        "title": "ジャンポケ斎藤",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%9D%E3%82%B1%E6%96%8E%E8%97%A4",
-        "pubdate": "Mon, 07 Oct 2024 10:00:00 +0900"
-    },
-    {
         "title": "Abhishek Sharma",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Abhishek%20Sharma",
         "pubdate": "Mon, 07 Oct 2024 12:30:00 +0530"
     },
     {
-        "title": "我推的孩子",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E6%88%91%E6%8E%A8%E7%9A%84%E5%AD%A9%E5%AD%90",
-        "pubdate": "Mon, 07 Oct 2024 12:00:00 +0800"
+        "title": "7 octobre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#7%20octobre",
+        "pubdate": "Mon, 07 Oct 2024 10:00:00 +0200"
     },
     {
         "title": "7 октября праздник",
@@ -35,24 +20,69 @@
         "pubdate": "Mon, 07 Oct 2024 07:00:00 +0100"
     },
     {
-        "title": "Florence Pugh",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Florence%20Pugh",
+        "title": "ジャンポケ斎藤",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%9D%E3%82%B1%E6%96%8E%E8%97%A4",
+        "pubdate": "Mon, 07 Oct 2024 10:00:00 +0900"
+    },
+    {
+        "title": "Cowboys vs Steelers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cowboys%20vs%20Steelers",
+        "pubdate": "Sun, 06 Oct 2024 12:00:00 -0700"
+    },
+    {
+        "title": "我推的孩子",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E6%88%91%E6%8E%A8%E7%9A%84%E5%AD%A9%E5%AD%90",
+        "pubdate": "Mon, 07 Oct 2024 12:00:00 +0800"
+    },
+    {
+        "title": "FC Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FC%20Bayern",
+        "pubdate": "Sun, 06 Oct 2024 14:00:00 +0200"
+    },
+    {
+        "title": "Lorenzo Musetti",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Lorenzo%20Musetti",
         "pubdate": "Mon, 07 Oct 2024 11:00:00 +0200"
     },
     {
-        "title": "Accident Nyon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Accident%20Nyon",
-        "pubdate": "Mon, 07 Oct 2024 00:00:00 +0200"
+        "title": "Príncipe Guillermo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Pr%C3%ADncipe%20Guillermo",
+        "pubdate": "Mon, 07 Oct 2024 01:00:00 -0600"
     },
     {
-        "title": "Milák Kristóf",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Mil%C3%A1k%20Krist%C3%B3f",
-        "pubdate": "Mon, 07 Oct 2024 07:00:00 +0200"
+        "title": "ΣΕΙΣΜΟΣ ΤΩΡΑ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%A3%CE%95%CE%99%CE%A3%CE%9C%CE%9F%CE%A3%20%CE%A4%CE%A9%CE%A1%CE%91",
+        "pubdate": "Mon, 07 Oct 2024 10:00:00 +0300"
     },
     {
-        "title": "עידן שתיוי",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A2%D7%99%D7%93%D7%9F%20%D7%A9%D7%AA%D7%99%D7%95%D7%99",
-        "pubdate": "Mon, 07 Oct 2024 09:00:00 +0300"
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Barcelona",
+        "pubdate": "Mon, 07 Oct 2024 12:00:00 +0300"
+    },
+    {
+        "title": "Barca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Barca",
+        "pubdate": "Mon, 07 Oct 2024 02:00:00 +0200"
+    },
+    {
+        "title": "Barcelona fc",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Barcelona%20fc",
+        "pubdate": "Mon, 07 Oct 2024 03:00:00 +0200"
+    },
+    {
+        "title": "Boca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Boca",
+        "pubdate": "Mon, 07 Oct 2024 00:00:00 -0300"
+    },
+    {
+        "title": "برشلونة",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#%D8%A8%D8%B1%D8%B4%D9%84%D9%88%D9%86%D8%A9",
+        "pubdate": "Mon, 07 Oct 2024 14:00:00 +0300"
+    },
+    {
+        "title": "Dzien Nauczyciela",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Dzien%20Nauczyciela",
+        "pubdate": "Mon, 07 Oct 2024 12:00:00 +0200"
     },
     {
         "title": "Black Ferns",
@@ -60,43 +90,13 @@
         "pubdate": "Mon, 07 Oct 2024 11:00:00 +1300"
     },
     {
-        "title": "Taylor Rousseau Grigg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Taylor%20Rousseau%20Grigg",
-        "pubdate": "Mon, 07 Oct 2024 01:00:00 -0500"
+        "title": "Honda",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Honda",
+        "pubdate": "Mon, 07 Oct 2024 11:00:00 +0200"
     },
     {
-        "title": "October 7",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#October%207",
-        "pubdate": "Mon, 07 Oct 2024 08:00:00 +0100"
-    },
-    {
-        "title": "Allerta precipitazioni",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Allerta%20precipitazioni",
-        "pubdate": "Mon, 07 Oct 2024 00:00:00 +0200"
-    },
-    {
-        "title": "Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Bayern",
-        "pubdate": "Mon, 07 Oct 2024 03:00:00 +0200"
-    },
-    {
-        "title": "Fabio Testi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Fabio%20Testi",
-        "pubdate": "Mon, 07 Oct 2024 01:00:00 +0200"
-    },
-    {
-        "title": "Lakers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lakers",
-        "pubdate": "Mon, 07 Oct 2024 03:00:00 -0400"
-    },
-    {
-        "title": "바이에른 뮌헨",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%B0%94%EC%9D%B4%EC%97%90%EB%A5%B8%20%EB%AE%8C%ED%97%A8",
-        "pubdate": "Mon, 07 Oct 2024 06:00:00 +0900"
-    },
-    {
-        "title": "Príncipe Guillermo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Pr%C3%ADncipe%20Guillermo",
-        "pubdate": "Mon, 07 Oct 2024 01:00:00 -0600"
+        "title": "Kapolres Boyolali",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Kapolres%20Boyolali",
+        "pubdate": "Mon, 07 Oct 2024 00:00:00 +0700"
     }
 ]
