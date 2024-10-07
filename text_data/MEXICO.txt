@@ -8,9 +8,8 @@ Frankfurt  Bayern
 Real Sociedad  Atlético Madrid
 Alejandro Arcos catalan
 Chelsea  Nottingham Forest
-La Academia
 Manchester City
-Progeria Sammy Basso
+La Academia
 49ers  Cardinals
 Niza  PSG
 Fiorentina - Milan
@@ -18,3 +17,4 @@ Vikings  Jets
 Bengals  Ravens
 Omar Chavez vs Misael rodriguez
 Girona  Athletic
+Texans,  Bills

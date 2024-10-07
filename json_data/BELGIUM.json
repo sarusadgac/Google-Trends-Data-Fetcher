@@ -1,13 +1,13 @@
 [
     {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Barcelona",
-        "pubdate": "Mon, 07 Oct 2024 00:00:00 +0200"
-    },
-    {
         "title": "Barca",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Barca",
         "pubdate": "Mon, 07 Oct 2024 02:00:00 +0200"
+    },
+    {
+        "title": "FC Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#FC%20Barcelona",
+        "pubdate": "Mon, 07 Oct 2024 00:00:00 +0200"
     },
     {
         "title": "Benfica",
@@ -23,6 +23,11 @@
         "title": "Powerwolf",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Powerwolf",
         "pubdate": "Mon, 07 Oct 2024 00:00:00 +0200"
+    },
+    {
+        "title": "Progeria",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Progeria",
+        "pubdate": "Mon, 07 Oct 2024 08:00:00 +0200"
     },
     {
         "title": "Silent Hill 2",
@@ -80,9 +85,9 @@
         "pubdate": "Sun, 06 Oct 2024 22:00:00 +0200"
     },
     {
-        "title": "RSCA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#RSCA",
-        "pubdate": "Sun, 06 Oct 2024 21:00:00 +0200"
+        "title": "The Voice Kids",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#The%20Voice%20Kids",
+        "pubdate": "Sun, 06 Oct 2024 04:00:00 +0200"
     },
     {
         "title": "Fiorentina – AC Milan",
@@ -93,10 +98,5 @@
         "title": "Tours",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tours",
         "pubdate": "Sun, 06 Oct 2024 18:00:00 +0200"
-    },
-    {
-        "title": "Beatrice Dalle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Beatrice%20Dalle",
-        "pubdate": "Sun, 06 Oct 2024 01:00:00 +0200"
     }
 ]
