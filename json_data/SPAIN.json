@@ -1,5 +1,10 @@
 [
     {
+        "title": "Victor de Aldama",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Victor%20de%20Aldama",
+        "pubdate": "Tue, 08 Oct 2024 00:00:00 +0200"
+    },
+    {
         "title": "Sevilla Betis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Sevilla%20Betis",
         "pubdate": "Mon, 07 Oct 2024 16:00:00 +0200"
@@ -7,11 +12,16 @@
     {
         "title": "Aemet",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Aemet",
-        "pubdate": "Mon, 07 Oct 2024 09:00:00 +0200"
+        "pubdate": "Mon, 07 Oct 2024 14:00:00 +0200"
     },
     {
         "title": "Franco Colapinto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Franco%20Colapinto",
+        "pubdate": "Mon, 07 Oct 2024 17:00:00 +0200"
+    },
+    {
+        "title": "Johan Neeskens",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Johan%20Neeskens",
         "pubdate": "Mon, 07 Oct 2024 17:00:00 +0200"
     },
     {
@@ -45,14 +55,19 @@
         "pubdate": "Mon, 07 Oct 2024 17:00:00 +0200"
     },
     {
-        "title": "Jannik Sinner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Jannik%20Sinner",
-        "pubdate": "Mon, 07 Oct 2024 10:00:00 +0200"
+        "title": "Dafne Fernández",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Dafne%20Fern%C3%A1ndez",
+        "pubdate": "Mon, 07 Oct 2024 23:00:00 +0200"
     },
     {
         "title": "Dragon Ball: Sparking! Zero",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Dragon%20Ball:%20Sparking!%20Zero",
         "pubdate": "Mon, 07 Oct 2024 19:00:00 +0200"
+    },
+    {
+        "title": "Jannik Sinner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Jannik%20Sinner",
+        "pubdate": "Mon, 07 Oct 2024 10:00:00 +0200"
     },
     {
         "title": "Huelga 11 de octubre",
@@ -80,23 +95,8 @@
         "pubdate": "Mon, 07 Oct 2024 16:00:00 +0200"
     },
     {
-        "title": "WiZink Center",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#WiZink%20Center",
-        "pubdate": "Mon, 07 Oct 2024 16:00:00 +0200"
-    },
-    {
         "title": "El Corte Inglés",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#El%20Corte%20Ingl%C3%A9s",
         "pubdate": "Mon, 07 Oct 2024 23:00:00 +0200"
-    },
-    {
-        "title": "Levante UD",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Levante%20UD",
-        "pubdate": "Mon, 07 Oct 2024 17:00:00 +0200"
-    },
-    {
-        "title": "Reina sofia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Reina%20sofia",
-        "pubdate": "Mon, 07 Oct 2024 19:00:00 +0200"
     }
 ]

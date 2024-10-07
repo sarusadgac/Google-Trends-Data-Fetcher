@@ -5,8 +5,6 @@ Nations League
 Johan Neeskens
 Gary Ruvkun
 Hamas
-FC Bayern
-Alida Kurras
 RB Leipzig
 Marmoush
 Schwerin
@@ -18,3 +16,5 @@ Marburg-Virus
 Iran
 Israel news
 Kris Kristofferson
+Österreich-Wahl
+Essen
