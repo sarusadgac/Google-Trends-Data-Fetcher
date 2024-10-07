@@ -10,6 +10,11 @@
         "pubdate": "Mon, 07 Oct 2024 00:00:00 +0200"
     },
     {
+        "title": "Sonia martinez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Sonia%20martinez",
+        "pubdate": "Mon, 07 Oct 2024 03:00:00 +0200"
+    },
+    {
         "title": "Alavés - Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Alav%C3%A9s%20-%20Barcelona",
         "pubdate": "Sun, 06 Oct 2024 16:00:00 +0200"
@@ -93,10 +98,5 @@
         "title": "Real Madrid  Zaragoza",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Real%20Madrid%20%20Zaragoza",
         "pubdate": "Sun, 06 Oct 2024 13:00:00 +0200"
-    },
-    {
-        "title": "Getafe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Getafe",
-        "pubdate": "Sun, 06 Oct 2024 16:00:00 +0200"
     }
 ]
