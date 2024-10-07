@@ -1,5 +1,10 @@
 [
     {
+        "title": "Copa Libertadores Femenina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Copa%20Libertadores%20Femenina",
+        "pubdate": "Mon, 07 Oct 2024 00:00:00 -0500"
+    },
+    {
         "title": "Que se celebra el 7 de octubre",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Que%20se%20celebra%20el%207%20de%20octubre",
         "pubdate": "Mon, 07 Oct 2024 08:00:00 -0500"
@@ -10,14 +15,14 @@
         "pubdate": "Mon, 07 Oct 2024 10:00:00 -0500"
     },
     {
-        "title": "Alianza Lima hoy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Alianza%20Lima%20hoy",
-        "pubdate": "Mon, 07 Oct 2024 00:00:00 -0500"
-    },
-    {
         "title": "Dragon Ball: Sparking! Zero",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Dragon%20Ball:%20Sparking!%20Zero",
         "pubdate": "Mon, 07 Oct 2024 15:00:00 -0500"
+    },
+    {
+        "title": "Barracas Central",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Barracas%20Central",
+        "pubdate": "Mon, 07 Oct 2024 16:00:00 -0500"
     },
     {
         "title": "Alavés - Barcelona",
@@ -50,8 +55,8 @@
         "pubdate": "Sun, 06 Oct 2024 13:00:00 -0500"
     },
     {
-        "title": "Juventus  Cagliari",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Juventus%20%20Cagliari",
+        "title": "Juventus  (Cagliari",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Juventus%20%20(Cagliari",
         "pubdate": "Sun, 06 Oct 2024 07:00:00 -0500"
     },
     {
@@ -93,10 +98,5 @@
         "title": "Boca",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Boca",
         "pubdate": "Sun, 06 Oct 2024 22:00:00 -0500"
-    },
-    {
-        "title": "Andres Roca Rey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Andres%20Roca%20Rey",
-        "pubdate": "Sun, 06 Oct 2024 20:00:00 -0500"
     }
 ]
