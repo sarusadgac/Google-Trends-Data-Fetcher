@@ -5,6 +5,11 @@
         "pubdate": "Mon, 07 Oct 2024 13:00:00 +0200"
     },
     {
+        "title": "Florence Pugh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Florence%20Pugh",
+        "pubdate": "Mon, 07 Oct 2024 11:00:00 +0200"
+    },
+    {
         "title": "Alaves  Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Alaves%20%20Barcelona",
         "pubdate": "Sun, 06 Oct 2024 17:00:00 +0200"
@@ -93,10 +98,5 @@
         "title": "Alex Pereira",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Alex%20Pereira",
         "pubdate": "Sat, 05 Oct 2024 21:00:00 +0200"
-    },
-    {
-        "title": "Man City  Fulham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Man%20City%20%20Fulham",
-        "pubdate": "Sat, 05 Oct 2024 16:00:00 +0200"
     }
 ]

@@ -10,6 +10,11 @@
         "pubdate": "Mon, 07 Oct 2024 07:00:00 +0100"
     },
     {
+        "title": "Rangers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Rangers",
+        "pubdate": "Mon, 07 Oct 2024 15:00:00 +0100"
+    },
+    {
         "title": "Leonard Rossiter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Leonard%20Rossiter",
         "pubdate": "Mon, 07 Oct 2024 14:00:00 +0100"
@@ -70,6 +75,11 @@
         "pubdate": "Sun, 06 Oct 2024 17:00:00 +0100"
     },
     {
+        "title": "Newcastle United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Newcastle%20United",
+        "pubdate": "Sun, 06 Oct 2024 15:00:00 +0100"
+    },
+    {
         "title": "Celtic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Celtic",
         "pubdate": "Sun, 06 Oct 2024 20:00:00 +0100"
@@ -85,18 +95,8 @@
         "pubdate": "Sun, 06 Oct 2024 17:00:00 +0100"
     },
     {
-        "title": "Newcastle United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Newcastle%20United",
-        "pubdate": "Sun, 06 Oct 2024 15:00:00 +0100"
-    },
-    {
         "title": "Showtrial",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Showtrial",
-        "pubdate": "Sun, 06 Oct 2024 20:00:00 +0100"
-    },
-    {
-        "title": "Johnnie Walker DJ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Johnnie%20Walker%20DJ",
         "pubdate": "Sun, 06 Oct 2024 20:00:00 +0100"
     }
 ]
