@@ -1,6 +1,5 @@
 Benfica
 Feyenoord
-Ajax  Groningen
 PSV
 Nederlands elftal
 Go Ahead Eagles
@@ -8,7 +7,6 @@ SC Heerenveen
 Heracles
 Fortuna
 FC Utrecht
-RKC
 FC Twente
 Robert ten Brink
 Feyenoord
@@ -18,3 +16,5 @@ NAVO
 Deventer
 Oktober
 Anna Gimbrere
+Amersfoort
+Atletico Madrid
