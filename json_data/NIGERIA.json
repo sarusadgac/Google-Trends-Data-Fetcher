@@ -20,6 +20,11 @@
         "pubdate": "Tue, 08 Oct 2024 07:00:00 +0100"
     },
     {
+        "title": "Bradford City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Bradford%20City",
+        "pubdate": "Tue, 08 Oct 2024 07:00:00 +0100"
+    },
+    {
         "title": "Customer Service Week 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Customer%20Service%20Week%202024",
         "pubdate": "Mon, 07 Oct 2024 11:00:00 +0100"
@@ -93,10 +98,5 @@
         "title": "Celtic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Celtic",
         "pubdate": "Sun, 06 Oct 2024 19:00:00 +0100"
-    },
-    {
-        "title": "AC Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#AC%20Milan",
-        "pubdate": "Sun, 06 Oct 2024 21:00:00 +0100"
     }
 ]
