@@ -15,6 +15,11 @@
         "pubdate": "Mon, 07 Oct 2024 18:00:00 +0200"
     },
     {
+        "title": "Florence Pugh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Florence%20Pugh",
+        "pubdate": "Mon, 07 Oct 2024 11:00:00 +0200"
+    },
+    {
         "title": "Hurricane Milton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Hurricane%20Milton",
         "pubdate": "Mon, 07 Oct 2024 20:00:00 +0200"
@@ -28,11 +33,6 @@
         "title": "Nations League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Nations%20League",
         "pubdate": "Mon, 07 Oct 2024 15:00:00 +0200"
-    },
-    {
-        "title": "Florence Pugh",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Florence%20Pugh",
-        "pubdate": "Mon, 07 Oct 2024 11:00:00 +0200"
     },
     {
         "title": "Putin",
@@ -58,11 +58,6 @@
         "title": "Madonna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Madonna",
         "pubdate": "Sun, 06 Oct 2024 20:00:00 +0200"
-    },
-    {
-        "title": "UFC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#UFC",
-        "pubdate": "Sun, 06 Oct 2024 23:00:00 +0200"
     },
     {
         "title": "Alaves  Barcelona",
@@ -98,5 +93,10 @@
         "title": "Nets",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Nets",
         "pubdate": "Sun, 06 Oct 2024 15:00:00 +0200"
+    },
+    {
+        "title": "Eintracht Frankfurt  Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Eintracht%20Frankfurt%20%20Bayern",
+        "pubdate": "Sun, 06 Oct 2024 19:00:00 +0200"
     }
 ]

@@ -4,7 +4,6 @@ Pflegeversicherung
 Johan Neeskens
 Hamas
 RB Leipzig
-Marmoush
 Schwerin
 Flughafen Frankfurt
 Göppingen
@@ -18,3 +17,4 @@ Kris Kristofferson
 Essen
 Werder Bremen
 Eintracht Frankfurt
+Hertha BSC
