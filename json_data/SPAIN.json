@@ -25,9 +25,14 @@
         "pubdate": "Tue, 08 Oct 2024 01:00:00 +0200"
     },
     {
-        "title": "Begoña gomez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Bego%C3%B1a%20gomez",
-        "pubdate": "Tue, 08 Oct 2024 16:00:00 +0200"
+        "title": "Tendam",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Tendam",
+        "pubdate": "Tue, 08 Oct 2024 17:00:00 +0200"
+    },
+    {
+        "title": "Fuze Tea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Fuze%20Tea",
+        "pubdate": "Tue, 08 Oct 2024 11:00:00 +0200"
     },
     {
         "title": "Reina sofia Margarita Robles",
@@ -35,14 +40,14 @@
         "pubdate": "Tue, 08 Oct 2024 14:00:00 +0200"
     },
     {
+        "title": "Begoña gomez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Bego%C3%B1a%20gomez",
+        "pubdate": "Tue, 08 Oct 2024 16:00:00 +0200"
+    },
+    {
         "title": "La que se avecina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#La%20que%20se%20avecina",
         "pubdate": "Tue, 08 Oct 2024 14:00:00 +0200"
-    },
-    {
-        "title": "Tendam",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Tendam",
-        "pubdate": "Tue, 08 Oct 2024 17:00:00 +0200"
     },
     {
         "title": "Francis Lorenzo",
@@ -50,18 +55,23 @@
         "pubdate": "Tue, 08 Oct 2024 01:00:00 +0200"
     },
     {
-        "title": "Alexander Zverev",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Alexander%20Zverev",
-        "pubdate": "Tue, 08 Oct 2024 16:00:00 +0200"
-    },
-    {
         "title": "Txapote",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Txapote",
         "pubdate": "Tue, 08 Oct 2024 09:00:00 +0200"
     },
     {
+        "title": "Nyom",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Nyom",
+        "pubdate": "Tue, 08 Oct 2024 16:00:00 +0200"
+    },
+    {
         "title": "Ilia Topuria",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ilia%20Topuria",
+        "pubdate": "Tue, 08 Oct 2024 15:00:00 +0200"
+    },
+    {
+        "title": "Aida",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Aida",
         "pubdate": "Tue, 08 Oct 2024 15:00:00 +0200"
     },
     {
@@ -70,19 +80,9 @@
         "pubdate": "Tue, 08 Oct 2024 01:00:00 +0200"
     },
     {
-        "title": "Nyom",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Nyom",
-        "pubdate": "Tue, 08 Oct 2024 16:00:00 +0200"
-    },
-    {
         "title": "La infiltrada",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#La%20infiltrada",
         "pubdate": "Tue, 08 Oct 2024 09:00:00 +0200"
-    },
-    {
-        "title": "Aida",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Aida",
-        "pubdate": "Tue, 08 Oct 2024 15:00:00 +0200"
     },
     {
         "title": "Melanie Martinez",
@@ -90,13 +90,13 @@
         "pubdate": "Tue, 08 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "Johan Cruyff",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Johan%20Cruyff",
-        "pubdate": "Tue, 08 Oct 2024 09:00:00 +0200"
-    },
-    {
         "title": "Rosa Peral",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Rosa%20Peral",
         "pubdate": "Tue, 08 Oct 2024 12:00:00 +0200"
+    },
+    {
+        "title": "Johan Cruyff",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Johan%20Cruyff",
+        "pubdate": "Tue, 08 Oct 2024 09:00:00 +0200"
     }
 ]
