@@ -1,10 +1,5 @@
 [
     {
-        "title": "Ingrid Aune",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ingrid%20Aune",
-        "pubdate": "Tue, 08 Oct 2024 10:00:00 +0200"
-    },
-    {
         "title": "Bianca Censori",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bianca%20Censori",
         "pubdate": "Tue, 08 Oct 2024 07:00:00 +0200"
@@ -13,6 +8,11 @@
         "title": "Jelena Dokic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jelena%20Dokic",
         "pubdate": "Tue, 08 Oct 2024 08:00:00 +0200"
+    },
+    {
+        "title": "Unity Arena",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Unity%20Arena",
+        "pubdate": "Mon, 07 Oct 2024 12:00:00 +0200"
     },
     {
         "title": "Regjeringen.no",
@@ -30,9 +30,9 @@
         "pubdate": "Mon, 07 Oct 2024 15:00:00 +0200"
     },
     {
-        "title": "BROILER",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#BROILER",
-        "pubdate": "Mon, 07 Oct 2024 12:00:00 +0200"
+        "title": "Sofie Nilsen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sofie%20Nilsen",
+        "pubdate": "Mon, 07 Oct 2024 18:00:00 +0200"
     },
     {
         "title": "KS",
@@ -40,14 +40,14 @@
         "pubdate": "Mon, 07 Oct 2024 16:00:00 +0200"
     },
     {
-        "title": "Peugeot",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Peugeot",
-        "pubdate": "Mon, 07 Oct 2024 19:00:00 +0200"
-    },
-    {
         "title": "Ørsted",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#%C3%98rsted",
         "pubdate": "Mon, 07 Oct 2024 17:00:00 +0200"
+    },
+    {
+        "title": "Peugeot",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Peugeot",
+        "pubdate": "Mon, 07 Oct 2024 19:00:00 +0200"
     },
     {
         "title": "Statsbudsjettet 2025",
@@ -85,6 +85,11 @@
         "pubdate": "Sun, 06 Oct 2024 08:00:00 +0200"
     },
     {
+        "title": "FFK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#FFK",
+        "pubdate": "Sun, 06 Oct 2024 22:00:00 +0200"
+    },
+    {
         "title": "Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Chelsea",
         "pubdate": "Sun, 06 Oct 2024 19:00:00 +0200"
@@ -93,10 +98,5 @@
         "title": "Stian Barsnes-Simonsen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Stian%20Barsnes-Simonsen",
         "pubdate": "Sun, 06 Oct 2024 14:00:00 +0200"
-    },
-    {
-        "title": "Elon Musk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Elon%20Musk",
-        "pubdate": "Sun, 06 Oct 2024 11:00:00 +0200"
     }
 ]
