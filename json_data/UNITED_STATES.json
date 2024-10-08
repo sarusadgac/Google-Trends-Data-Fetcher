@@ -5,6 +5,11 @@
         "pubdate": "Mon, 07 Oct 2024 11:00:00 -0700"
     },
     {
+        "title": "Yankees",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Yankees",
+        "pubdate": "Mon, 07 Oct 2024 19:00:00 -0700"
+    },
+    {
         "title": "Detroit Tigers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Detroit%20Tigers",
         "pubdate": "Mon, 07 Oct 2024 16:00:00 -0700"
@@ -13,11 +18,6 @@
         "title": "Lakers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Lakers",
         "pubdate": "Mon, 07 Oct 2024 02:00:00 -0700"
-    },
-    {
-        "title": "Royals",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Royals",
-        "pubdate": "Mon, 07 Oct 2024 19:00:00 -0700"
     },
     {
         "title": "Dragon Ball: Sparking! Zero",
@@ -30,14 +30,24 @@
         "pubdate": "Mon, 07 Oct 2024 07:00:00 -0700"
     },
     {
-        "title": "Dancing with the Stars",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dancing%20with%20the%20Stars",
+        "title": "Dancing With the Stars",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dancing%20With%20the%20Stars",
         "pubdate": "Mon, 07 Oct 2024 18:00:00 -0700"
     },
     {
         "title": "Tarik Skubal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tarik%20Skubal",
         "pubdate": "Mon, 07 Oct 2024 17:00:00 -0700"
+    },
+    {
+        "title": "60 Minutes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#60%20Minutes",
+        "pubdate": "Mon, 07 Oct 2024 17:00:00 -0700"
+    },
+    {
+        "title": "KC Royals",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#KC%20Royals",
+        "pubdate": "Mon, 07 Oct 2024 21:00:00 -0700"
     },
     {
         "title": "Whitney Houston",
@@ -70,19 +80,14 @@
         "pubdate": "Mon, 07 Oct 2024 19:00:00 -0700"
     },
     {
-        "title": "60 Minutes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#60%20Minutes",
-        "pubdate": "Mon, 07 Oct 2024 17:00:00 -0700"
+        "title": "Hurricane Andrew",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Hurricane%20Andrew",
+        "pubdate": "Mon, 07 Oct 2024 14:00:00 -0700"
     },
     {
         "title": "Metaphor: ReFantazio",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Metaphor:%20ReFantazio",
         "pubdate": "Mon, 07 Oct 2024 12:00:00 -0700"
-    },
-    {
-        "title": "Eggs recalled salmonella",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Eggs%20recalled%20salmonella",
-        "pubdate": "Mon, 07 Oct 2024 19:00:00 -0700"
     },
     {
         "title": "Kanye West",
@@ -93,10 +98,5 @@
         "title": "Columbus Day",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Columbus%20Day",
         "pubdate": "Mon, 07 Oct 2024 11:00:00 -0700"
-    },
-    {
-        "title": "Indigenous Peoples' Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Indigenous%20Peoples'%20Day",
-        "pubdate": "Mon, 07 Oct 2024 14:00:00 -0700"
     }
 ]

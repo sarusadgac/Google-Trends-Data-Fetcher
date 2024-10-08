@@ -25,6 +25,11 @@
         "pubdate": "Tue, 08 Oct 2024 02:00:00 +0200"
     },
     {
+        "title": "Iniesta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Iniesta",
+        "pubdate": "Tue, 08 Oct 2024 07:00:00 +0200"
+    },
+    {
         "title": "Sevilla Betis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Sevilla%20Betis",
         "pubdate": "Mon, 07 Oct 2024 16:00:00 +0200"
@@ -60,9 +65,9 @@
         "pubdate": "Mon, 07 Oct 2024 23:00:00 +0200"
     },
     {
-        "title": "El tiempo Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#El%20tiempo%20Madrid",
-        "pubdate": "Mon, 07 Oct 2024 19:00:00 +0200"
+        "title": "Dafne Fernández",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Dafne%20Fern%C3%A1ndez",
+        "pubdate": "Mon, 07 Oct 2024 23:00:00 +0200"
     },
     {
         "title": "Taylor Rousseau Grigg",
@@ -85,18 +90,13 @@
         "pubdate": "Mon, 07 Oct 2024 19:00:00 +0200"
     },
     {
-        "title": "Dafne Fernández",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Dafne%20Fern%C3%A1ndez",
-        "pubdate": "Mon, 07 Oct 2024 23:00:00 +0200"
-    },
-    {
         "title": "Muface",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Muface",
         "pubdate": "Mon, 07 Oct 2024 17:00:00 +0200"
     },
     {
-        "title": "Entrevias",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Entrevias",
-        "pubdate": "Mon, 07 Oct 2024 01:00:00 +0200"
+        "title": "Huracan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Huracan",
+        "pubdate": "Mon, 07 Oct 2024 19:00:00 +0200"
     }
 ]
