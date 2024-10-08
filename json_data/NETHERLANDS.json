@@ -1,10 +1,5 @@
 [
     {
-        "title": "Bianca Censori",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bianca%20Censori",
-        "pubdate": "Tue, 08 Oct 2024 08:00:00 +0200"
-    },
-    {
         "title": "Herman Finkers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Herman%20Finkers",
         "pubdate": "Tue, 08 Oct 2024 09:00:00 +0200"
@@ -18,6 +13,16 @@
         "title": "Hans van Hemert",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Hans%20van%20Hemert",
         "pubdate": "Mon, 07 Oct 2024 14:00:00 +0200"
+    },
+    {
+        "title": "Michelin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Michelin",
+        "pubdate": "Mon, 07 Oct 2024 14:00:00 +0200"
+    },
+    {
+        "title": "Orkaan Kirk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Orkaan%20Kirk",
+        "pubdate": "Sun, 06 Oct 2024 22:00:00 +0200"
     },
     {
         "title": "Heracles",
@@ -93,10 +98,5 @@
         "title": "Stoptober",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Stoptober",
         "pubdate": "Mon, 30 Sep 2024 19:00:00 +0200"
-    },
-    {
-        "title": "Ajax",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
-        "pubdate": "Sun, 29 Sep 2024 22:00:00 +0200"
     }
 ]
