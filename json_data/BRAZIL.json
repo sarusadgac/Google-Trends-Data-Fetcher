@@ -10,6 +10,16 @@
         "pubdate": "Tue, 08 Oct 2024 01:00:00 -0500"
     },
     {
+        "title": "Dia do Nordestino",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dia%20do%20Nordestino",
+        "pubdate": "Tue, 08 Oct 2024 07:00:00 -0500"
+    },
+    {
+        "title": "Ralf Schumacher",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ralf%20Schumacher",
+        "pubdate": "Tue, 08 Oct 2024 07:00:00 -0500"
+    },
+    {
         "title": "Goiás x Santos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Goi%C3%A1s%20x%20Santos",
         "pubdate": "Mon, 07 Oct 2024 15:00:00 -0500"
@@ -25,9 +35,14 @@
         "pubdate": "Mon, 07 Oct 2024 07:00:00 -0500"
     },
     {
-        "title": "Seleção brasileira",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sele%C3%A7%C3%A3o%20brasileira",
-        "pubdate": "Mon, 07 Oct 2024 09:00:00 -0500"
+        "title": "Votação 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vota%C3%A7%C3%A3o%202024",
+        "pubdate": "Mon, 07 Oct 2024 11:00:00 -0500"
+    },
+    {
+        "title": "Cabelo Maluco",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cabelo%20Maluco",
+        "pubdate": "Mon, 07 Oct 2024 10:00:00 -0500"
     },
     {
         "title": "CNU resultado",
@@ -38,11 +53,6 @@
         "title": "Leonardo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Leonardo",
         "pubdate": "Mon, 07 Oct 2024 14:00:00 -0500"
-    },
-    {
-        "title": "Globo.com",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Globo.com",
-        "pubdate": "Mon, 07 Oct 2024 05:00:00 -0500"
     },
     {
         "title": "Top Gun: Maverick",
@@ -88,15 +98,5 @@
         "title": "Dragon Ball: Sparking! Zero",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dragon%20Ball:%20Sparking!%20Zero",
         "pubdate": "Mon, 07 Oct 2024 17:00:00 -0500"
-    },
-    {
-        "title": "Fantasia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fantasia",
-        "pubdate": "Mon, 07 Oct 2024 16:00:00 -0500"
-    },
-    {
-        "title": "Chiefs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Chiefs",
-        "pubdate": "Mon, 07 Oct 2024 23:00:00 -0500"
     }
 ]
