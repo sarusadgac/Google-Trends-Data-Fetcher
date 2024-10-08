@@ -10,6 +10,11 @@
         "pubdate": "Tue, 08 Oct 2024 16:00:00 -0500"
     },
     {
+        "title": "Evo Morales",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Evo%20Morales",
+        "pubdate": "Tue, 08 Oct 2024 18:00:00 -0500"
+    },
+    {
         "title": "Combate de Angamos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Combate%20de%20Angamos",
         "pubdate": "Mon, 07 Oct 2024 01:00:00 -0500"
@@ -70,6 +75,11 @@
         "pubdate": "Mon, 07 Oct 2024 22:00:00 -0500"
     },
     {
+        "title": "Hoy es feriado",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Hoy%20es%20feriado",
+        "pubdate": "Mon, 07 Oct 2024 11:00:00 -0500"
+    },
+    {
         "title": "Primera División",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Primera%20Divisi%C3%B3n",
         "pubdate": "Mon, 07 Oct 2024 10:00:00 -0500"
@@ -88,15 +98,5 @@
         "title": "Alavés - Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Alav%C3%A9s%20-%20Barcelona",
         "pubdate": "Sun, 06 Oct 2024 09:00:00 -0500"
-    },
-    {
-        "title": "Real Sociedad  Atlético Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Real%20Sociedad%20%20Atl%C3%A9tico%20Madrid",
-        "pubdate": "Sun, 06 Oct 2024 14:00:00 -0500"
-    },
-    {
-        "title": "Paro 10 de octubre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Paro%2010%20de%20octubre",
-        "pubdate": "Sun, 06 Oct 2024 16:00:00 -0500"
     }
 ]
