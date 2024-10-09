@@ -15,11 +15,6 @@
         "pubdate": "Mon, 07 Oct 2024 14:00:00 +0200"
     },
     {
-        "title": "Pflegeversicherung",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Pflegeversicherung",
-        "pubdate": "Mon, 07 Oct 2024 11:00:00 +0200"
-    },
-    {
         "title": "Hamas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hamas",
         "pubdate": "Mon, 07 Oct 2024 21:00:00 +0200"
@@ -98,5 +93,10 @@
         "title": "Holstein Kiel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Holstein%20Kiel",
         "pubdate": "Sun, 29 Sep 2024 18:00:00 +0200"
+    },
+    {
+        "title": "Hannover 96",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hannover%2096",
+        "pubdate": "Sun, 29 Sep 2024 14:00:00 +0200"
     }
 ]
