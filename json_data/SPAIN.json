@@ -40,9 +40,24 @@
         "pubdate": "Wed, 09 Oct 2024 11:00:00 +0200"
     },
     {
+        "title": "Miami",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Miami",
+        "pubdate": "Wed, 09 Oct 2024 07:00:00 +0200"
+    },
+    {
         "title": "Maruja Torres",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Maruja%20Torres",
         "pubdate": "Wed, 09 Oct 2024 00:00:00 +0200"
+    },
+    {
+        "title": "McDonald's Friends",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#McDonald's%20Friends",
+        "pubdate": "Wed, 09 Oct 2024 10:00:00 +0200"
+    },
+    {
+        "title": "Pilar Alegría",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Pilar%20Alegr%C3%ADa",
+        "pubdate": "Wed, 09 Oct 2024 12:00:00 +0200"
     },
     {
         "title": "Riyadh Air",
@@ -55,9 +70,9 @@
         "pubdate": "Wed, 09 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "9 de octubre que se celebra",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#9%20de%20octubre%20que%20se%20celebra",
-        "pubdate": "Wed, 09 Oct 2024 14:00:00 +0200"
+        "title": "Tomáš macháč",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Tom%C3%A1%C5%A1%20mach%C3%A1%C4%8D",
+        "pubdate": "Wed, 09 Oct 2024 16:00:00 +0200"
     },
     {
         "title": "Fagofobia que es",
@@ -65,9 +80,14 @@
         "pubdate": "Wed, 09 Oct 2024 07:00:00 +0200"
     },
     {
-        "title": "Tomáš Macháč",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Tom%C3%A1%C5%A1%20Mach%C3%A1%C4%8D",
-        "pubdate": "Wed, 09 Oct 2024 16:00:00 +0200"
+        "title": "9 de octubre que se celebra",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#9%20de%20octubre%20que%20se%20celebra",
+        "pubdate": "Wed, 09 Oct 2024 14:00:00 +0200"
+    },
+    {
+        "title": "Marc-giro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Marc-giro",
+        "pubdate": "Wed, 09 Oct 2024 15:00:00 +0200"
     },
     {
         "title": "Tag Heuer",
@@ -75,28 +95,8 @@
         "pubdate": "Wed, 09 Oct 2024 15:00:00 +0200"
     },
     {
-        "title": "Alerta de viento",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Alerta%20de%20viento",
-        "pubdate": "Tue, 08 Oct 2024 11:00:00 +0200"
-    },
-    {
-        "title": "Milena Smit",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Milena%20Smit",
-        "pubdate": "Tue, 08 Oct 2024 23:00:00 +0200"
-    },
-    {
-        "title": "Iniesta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Iniesta",
-        "pubdate": "Tue, 08 Oct 2024 07:00:00 +0200"
-    },
-    {
-        "title": "Luis Tosar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Luis%20Tosar",
-        "pubdate": "Tue, 08 Oct 2024 17:00:00 +0200"
-    },
-    {
-        "title": "Tendam",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Tendam",
-        "pubdate": "Tue, 08 Oct 2024 17:00:00 +0200"
+        "title": "Muface funcionarios",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Muface%20funcionarios",
+        "pubdate": "Wed, 09 Oct 2024 17:00:00 +0200"
     }
 ]
