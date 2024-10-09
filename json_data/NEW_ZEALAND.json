@@ -20,6 +20,11 @@
         "pubdate": "Wed, 09 Oct 2024 08:00:00 +1300"
     },
     {
+        "title": "Bluebridge",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Bluebridge",
+        "pubdate": "Wed, 09 Oct 2024 10:00:00 +1300"
+    },
+    {
         "title": "Aurora Australis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Aurora%20Australis",
         "pubdate": "Wed, 09 Oct 2024 09:00:00 +1300"
@@ -37,6 +42,11 @@
     {
         "title": "Tom Phillips NZ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Tom%20Phillips%20NZ",
+        "pubdate": "Tue, 08 Oct 2024 11:00:00 +1300"
+    },
+    {
+        "title": "OCR",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#OCR",
         "pubdate": "Tue, 08 Oct 2024 11:00:00 +1300"
     },
     {
@@ -88,15 +98,5 @@
         "title": "Koko",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Koko",
         "pubdate": "Mon, 07 Oct 2024 07:00:00 +1300"
-    },
-    {
-        "title": "Black Ferns",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Black%20Ferns",
-        "pubdate": "Mon, 07 Oct 2024 11:00:00 +1300"
-    },
-    {
-        "title": "Penrith Panthers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Penrith%20Panthers",
-        "pubdate": "Mon, 07 Oct 2024 00:00:00 +1300"
     }
 ]
