@@ -15,14 +15,14 @@
         "pubdate": "Wed, 09 Oct 2024 19:00:00 +0200"
     },
     {
-        "title": "Tabea Heynig",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Tabea%20Heynig",
-        "pubdate": "Wed, 09 Oct 2024 11:00:00 +0200"
-    },
-    {
         "title": "Tetris",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Tetris",
         "pubdate": "Wed, 09 Oct 2024 10:00:00 +0200"
+    },
+    {
+        "title": "Tabea Heynig",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Tabea%20Heynig",
+        "pubdate": "Wed, 09 Oct 2024 11:00:00 +0200"
     },
     {
         "title": "Peter Kraus",
@@ -45,6 +45,11 @@
         "pubdate": "Wed, 09 Oct 2024 14:00:00 +0200"
     },
     {
+        "title": "Gadaunerer Schlucht",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Gadaunerer%20Schlucht",
+        "pubdate": "Wed, 09 Oct 2024 15:00:00 +0200"
+    },
+    {
         "title": "Peter Todd",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Peter%20Todd",
         "pubdate": "Wed, 09 Oct 2024 11:00:00 +0200"
@@ -55,14 +60,9 @@
         "pubdate": "Wed, 09 Oct 2024 18:00:00 +0200"
     },
     {
-        "title": "Andreas Schicker",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Andreas%20Schicker",
-        "pubdate": "Wed, 09 Oct 2024 18:00:00 +0200"
-    },
-    {
-        "title": "Lisa Marie Presley",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Lisa%20Marie%20Presley",
-        "pubdate": "Wed, 09 Oct 2024 08:00:00 +0200"
+        "title": "Ratan Tata",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ratan%20Tata",
+        "pubdate": "Wed, 09 Oct 2024 22:00:00 +0200"
     },
     {
         "title": "Varta-Aktie",
@@ -70,9 +70,9 @@
         "pubdate": "Wed, 09 Oct 2024 17:00:00 +0200"
     },
     {
-        "title": "Ratan Tata",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ratan%20Tata",
-        "pubdate": "Wed, 09 Oct 2024 22:00:00 +0200"
+        "title": "Lisa Marie Presley",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Lisa%20Marie%20Presley",
+        "pubdate": "Wed, 09 Oct 2024 08:00:00 +0200"
     },
     {
         "title": "Fabio Ingolitsch",
@@ -85,6 +85,11 @@
         "pubdate": "Wed, 09 Oct 2024 19:00:00 +0200"
     },
     {
+        "title": "Nicholas Pryor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Nicholas%20Pryor",
+        "pubdate": "Wed, 09 Oct 2024 16:00:00 +0200"
+    },
+    {
         "title": "NHL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#NHL",
         "pubdate": "Wed, 09 Oct 2024 12:00:00 +0200"
@@ -93,10 +98,5 @@
         "title": "Stefan Raab",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Stefan%20Raab",
         "pubdate": "Wed, 09 Oct 2024 13:00:00 +0200"
-    },
-    {
-        "title": "Bayer-Aktie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bayer-Aktie",
-        "pubdate": "Wed, 09 Oct 2024 18:00:00 +0200"
     }
 ]
