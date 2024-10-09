@@ -5,13 +5,23 @@
         "pubdate": "Wed, 09 Oct 2024 13:00:00 -0500"
     },
     {
+        "title": "Liga2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Liga2",
+        "pubdate": "Wed, 09 Oct 2024 14:00:00 -0500"
+    },
+    {
         "title": "Comerciantes FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Comerciantes%20FC",
         "pubdate": "Wed, 09 Oct 2024 16:00:00 -0500"
     },
     {
-        "title": "Man City - Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Man%20City%20-%20Barcelona",
+        "title": "Eliminatorias 2026",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Eliminatorias%202026",
+        "pubdate": "Wed, 09 Oct 2024 17:00:00 -0500"
+    },
+    {
+        "title": "Man City  Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Man%20City%20%20Barcelona",
         "pubdate": "Wed, 09 Oct 2024 15:00:00 -0500"
     },
     {
@@ -25,8 +35,13 @@
         "pubdate": "Wed, 09 Oct 2024 15:00:00 -0500"
     },
     {
-        "title": "Shakira en peru",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Shakira%20en%20peru",
+        "title": "Teleticket Shakira",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Teleticket%20Shakira",
+        "pubdate": "Tue, 08 Oct 2024 12:00:00 -0500"
+    },
+    {
+        "title": "Miguel Grau",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Miguel%20Grau",
         "pubdate": "Tue, 08 Oct 2024 12:00:00 -0500"
     },
     {
@@ -57,17 +72,22 @@
     {
         "title": "Huracan Milton hoy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Huracan%20Milton%20hoy",
+        "pubdate": "Mon, 07 Oct 2024 21:00:00 -0500"
+    },
+    {
+        "title": "8 de octubre que se celebra",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#8%20de%20octubre%20que%20se%20celebra",
+        "pubdate": "Mon, 07 Oct 2024 08:00:00 -0500"
+    },
+    {
+        "title": "Huracan Milton hoy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Huracan%20Milton%20hoy",
         "pubdate": "Mon, 07 Oct 2024 17:00:00 -0500"
     },
     {
         "title": "Combate de Angamos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Combate%20de%20Angamos",
         "pubdate": "Mon, 07 Oct 2024 01:00:00 -0500"
-    },
-    {
-        "title": "8 de octubre que se celebra",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#8%20de%20octubre%20que%20se%20celebra",
-        "pubdate": "Mon, 07 Oct 2024 08:00:00 -0500"
     },
     {
         "title": "Dragon Ball: Sparking! Zero",
@@ -78,25 +98,5 @@
         "title": "Sammy Basso progeria",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Sammy%20Basso%20progeria",
         "pubdate": "Mon, 07 Oct 2024 23:00:00 -0500"
-    },
-    {
-        "title": "Copa Libertadores femenina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Copa%20Libertadores%20femenina",
-        "pubdate": "Mon, 07 Oct 2024 16:00:00 -0500"
-    },
-    {
-        "title": "Deportivo Cali  Alianza Lima",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Deportivo%20Cali%20%20Alianza%20Lima",
-        "pubdate": "Mon, 07 Oct 2024 16:00:00 -0500"
-    },
-    {
-        "title": "Balon de Oro 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Balon%20de%20Oro%202024",
-        "pubdate": "Mon, 07 Oct 2024 20:00:00 -0500"
-    },
-    {
-        "title": "Banco de la Nación",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Banco%20de%20la%20Naci%C3%B3n",
-        "pubdate": "Mon, 07 Oct 2024 13:00:00 -0500"
     }
 ]
