@@ -1,38 +1,8 @@
 [
     {
-        "title": "Jürgen Klopp",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#J%C3%BCrgen%20Klopp",
-        "pubdate": "Wed, 09 Oct 2024 09:00:00 +0200"
-    },
-    {
-        "title": "Tropicana implosion",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tropicana%20implosion",
-        "pubdate": "Wed, 09 Oct 2024 03:00:00 -0700"
-    },
-    {
-        "title": "Hugo Prevost",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Hugo%20Prevost",
-        "pubdate": "Wed, 09 Oct 2024 00:00:00 +0200"
-    },
-    {
         "title": "Jurgen Klopp",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Jurgen%20Klopp",
         "pubdate": "Wed, 09 Oct 2024 11:00:00 +0100"
-    },
-    {
-        "title": "パドレス 対 ドジャース",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%91%E3%83%89%E3%83%AC%E3%82%B9%20%E5%AF%BE%20%E3%83%89%E3%82%B8%E3%83%A3%E3%83%BC%E3%82%B9",
-        "pubdate": "Wed, 09 Oct 2024 11:00:00 +0900"
-    },
-    {
-        "title": "India vs Bangladesh",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#India%20vs%20Bangladesh",
-        "pubdate": "Wed, 09 Oct 2024 19:30:00 +0530"
-    },
-    {
-        "title": "萬寧",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E8%90%AC%E5%AF%A7",
-        "pubdate": "Wed, 09 Oct 2024 19:00:00 +0800"
     },
     {
         "title": "Ураган Милтон",
@@ -40,9 +10,64 @@
         "pubdate": "Wed, 09 Oct 2024 03:00:00 +0300"
     },
     {
-        "title": "Ana Guiomar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Ana%20Guiomar",
-        "pubdate": "Wed, 09 Oct 2024 14:00:00 +0100"
+        "title": "Witherspoon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Witherspoon",
+        "pubdate": "Wed, 09 Oct 2024 04:00:00 -0700"
+    },
+    {
+        "title": "パドレス 対 ドジャース",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%91%E3%83%89%E3%83%AC%E3%82%B9%20%E5%AF%BE%20%E3%83%89%E3%82%B8%E3%83%A3%E3%83%BC%E3%82%B9",
+        "pubdate": "Wed, 09 Oct 2024 11:00:00 +0900"
+    },
+    {
+        "title": "Hugo Prevost",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Hugo%20Prevost",
+        "pubdate": "Wed, 09 Oct 2024 00:00:00 +0200"
+    },
+    {
+        "title": "Jürgen Klopp",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#J%C3%BCrgen%20Klopp",
+        "pubdate": "Wed, 09 Oct 2024 09:00:00 +0200"
+    },
+    {
+        "title": "萬寧",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E8%90%AC%E5%AF%A7",
+        "pubdate": "Wed, 09 Oct 2024 19:00:00 +0800"
+    },
+    {
+        "title": "रतन टाटा",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#%E0%A4%B0%E0%A4%A4%E0%A4%A8%20%E0%A4%9F%E0%A4%BE%E0%A4%9F%E0%A4%BE",
+        "pubdate": "Thu, 10 Oct 2024 00:30:00 +0530"
+    },
+    {
+        "title": "Veto universitario",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Veto%20universitario",
+        "pubdate": "Wed, 09 Oct 2024 11:00:00 -0300"
+    },
+    {
+        "title": "조립식 가족",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%A1%B0%EB%A6%BD%EC%8B%9D%20%EA%B0%80%EC%A1%B1",
+        "pubdate": "Thu, 10 Oct 2024 00:00:00 +0900"
+    },
+    {
+        "title": "Dacia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Dacia",
+        "pubdate": "Wed, 09 Oct 2024 12:00:00 +0200"
+    },
+    {
+        "title": "Omar García Harfuch",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Omar%20Garc%C3%ADa%20Harfuch",
+        "pubdate": "Wed, 09 Oct 2024 11:00:00 -0600"
+    },
+    {
+        "title": "Lisa Marie Presley",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lisa%20Marie%20Presley",
+        "pubdate": "Wed, 09 Oct 2024 09:00:00 +0200"
+    },
+    {
+        "title": "Daniil Medvedev",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Daniil%20Medvedev",
+        "pubdate": "Wed, 09 Oct 2024 11:00:00 +0200"
     },
     {
         "title": "Rudy marquez",
@@ -50,53 +75,28 @@
         "pubdate": "Wed, 09 Oct 2024 13:00:00 -0500"
     },
     {
-        "title": "Lily Ebert",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Lily%20Ebert",
-        "pubdate": "Wed, 09 Oct 2024 15:00:00 +0200"
-    },
-    {
-        "title": "Astrid Holleeder",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Astrid%20Holleeder",
-        "pubdate": "Wed, 09 Oct 2024 09:00:00 +0200"
-    },
-    {
-        "title": "Henryk Bista",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Henryk%20Bista",
-        "pubdate": "Wed, 09 Oct 2024 07:00:00 +0200"
+        "title": "Μιμησ πλεσσασ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%9C%CE%B9%CE%BC%CE%B7%CF%83%20%CF%80%CE%BB%CE%B5%CF%83%CF%83%CE%B1%CF%83",
+        "pubdate": "Wed, 09 Oct 2024 18:00:00 +0300"
     },
     {
         "title": "Bayern vs Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Bayern%20vs%20Arsenal",
-        "pubdate": "Wed, 09 Oct 2024 20:00:00 +0300"
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Bayern%20vs%20Arsenal",
+        "pubdate": "Wed, 09 Oct 2024 18:00:00 +0100"
     },
     {
-        "title": "Laneway 2025 lineup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Laneway%202025%20lineup",
-        "pubdate": "Wed, 09 Oct 2024 11:00:00 +1300"
+        "title": "Junior Cert results 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Junior%20Cert%20results%202024",
+        "pubdate": "Wed, 09 Oct 2024 09:00:00 +0100"
     },
     {
-        "title": "عفاف مصطفى",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=EG#%D8%B9%D9%81%D8%A7%D9%81%20%D9%85%D8%B5%D8%B7%D9%81%D9%89",
-        "pubdate": "Wed, 09 Oct 2024 07:00:00 +0300"
+        "title": "India vs Bangladesh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#India%20vs%20Bangladesh",
+        "pubdate": "Thu, 10 Oct 2024 01:00:00 +1100"
     },
     {
-        "title": "Ураган Мілтон",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=UA#%D0%A3%D1%80%D0%B0%D0%B3%D0%B0%D0%BD%20%D0%9C%D1%96%D0%BB%D1%82%D0%BE%D0%BD",
+        "title": "شوق الموسوي",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#%D8%B4%D9%88%D9%82%20%D8%A7%D9%84%D9%85%D9%88%D8%B3%D9%88%D9%8A",
         "pubdate": "Wed, 09 Oct 2024 00:00:00 +0300"
-    },
-    {
-        "title": "Hulk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Hulk",
-        "pubdate": "Thu, 10 Oct 2024 01:00:00 +0700"
-    },
-    {
-        "title": "Ray McCauley",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Ray%20McCauley",
-        "pubdate": "Wed, 09 Oct 2024 01:00:00 +0200"
-    },
-    {
-        "title": "El hoyo 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#El%20hoyo%202",
-        "pubdate": "Wed, 09 Oct 2024 01:00:00 +0200"
     }
 ]
