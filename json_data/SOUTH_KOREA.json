@@ -5,11 +5,6 @@
         "pubdate": "Thu, 10 Oct 2024 00:00:00 +0900"
     },
     {
-        "title": "LG KT",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#LG%20KT",
-        "pubdate": "Wed, 09 Oct 2024 17:00:00 +0900"
-    },
-    {
         "title": "한글날 공휴일",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%ED%95%9C%EA%B8%80%EB%82%A0%20%EA%B3%B5%ED%9C%B4%EC%9D%BC",
         "pubdate": "Wed, 09 Oct 2024 04:00:00 +0900"
@@ -18,6 +13,11 @@
         "title": "우지원",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9A%B0%EC%A7%80%EC%9B%90",
         "pubdate": "Wed, 09 Oct 2024 12:00:00 +0900"
+    },
+    {
+        "title": "준플레이오프",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%A4%80%ED%94%8C%EB%A0%88%EC%9D%B4%EC%98%A4%ED%94%84",
+        "pubdate": "Wed, 09 Oct 2024 17:00:00 +0900"
     },
     {
         "title": "제프리 힌튼",
@@ -37,7 +37,7 @@
     {
         "title": "한글날",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%ED%95%9C%EA%B8%80%EB%82%A0",
-        "pubdate": "Tue, 08 Oct 2024 14:00:00 +0900"
+        "pubdate": "Tue, 08 Oct 2024 23:00:00 +0900"
     },
     {
         "title": "디아블로4",
@@ -70,11 +70,6 @@
         "pubdate": "Tue, 08 Oct 2024 11:00:00 +0900"
     },
     {
-        "title": "훈민정음",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%ED%9B%88%EB%AF%BC%EC%A0%95%EC%9D%8C",
-        "pubdate": "Tue, 08 Oct 2024 23:00:00 +0900"
-    },
-    {
         "title": "Bhc",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#Bhc",
         "pubdate": "Tue, 08 Oct 2024 17:00:00 +0900"
@@ -85,9 +80,9 @@
         "pubdate": "Tue, 08 Oct 2024 13:00:00 +0900"
     },
     {
-        "title": "장동건",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9E%A5%EB%8F%99%EA%B1%B4",
-        "pubdate": "Tue, 08 Oct 2024 15:00:00 +0900"
+        "title": "한로",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%ED%95%9C%EB%A1%9C",
+        "pubdate": "Tue, 08 Oct 2024 14:00:00 +0900"
     },
     {
         "title": "미세먼지",
@@ -98,5 +93,10 @@
         "title": "윤이나",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9C%A4%EC%9D%B4%EB%82%98",
         "pubdate": "Mon, 07 Oct 2024 17:00:00 +0900"
+    },
+    {
+        "title": "한글날",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%ED%95%9C%EA%B8%80%EB%82%A0",
+        "pubdate": "Mon, 07 Oct 2024 03:00:00 +0900"
     }
 ]
