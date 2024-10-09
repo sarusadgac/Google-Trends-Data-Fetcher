@@ -50,11 +50,6 @@
         "pubdate": "Tue, 08 Oct 2024 16:00:00 +0200"
     },
     {
-        "title": "Jakub Unucka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jakub%20Unucka",
-        "pubdate": "Tue, 08 Oct 2024 15:00:00 +0200"
-    },
-    {
         "title": "Karel Čutka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Karel%20%C4%8Cutka",
         "pubdate": "Tue, 08 Oct 2024 10:00:00 +0200"
@@ -93,6 +88,11 @@
         "title": "Terrifier 3",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Terrifier%203",
         "pubdate": "Mon, 07 Oct 2024 21:00:00 +0200"
+    },
+    {
+        "title": "Singapur",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Singapur",
+        "pubdate": "Mon, 07 Oct 2024 20:00:00 +0200"
     },
     {
         "title": "Honda",
