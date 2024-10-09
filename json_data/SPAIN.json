@@ -5,8 +5,18 @@
         "pubdate": "Thu, 10 Oct 2024 00:00:00 +0200"
     },
     {
+        "title": "Euroliga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Euroliga",
+        "pubdate": "Thu, 10 Oct 2024 01:00:00 +0200"
+    },
+    {
         "title": "George Baldock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#George%20Baldock",
+        "pubdate": "Thu, 10 Oct 2024 00:00:00 +0200"
+    },
+    {
+        "title": "Rey Carlos III",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Rey%20Carlos%20III",
         "pubdate": "Thu, 10 Oct 2024 00:00:00 +0200"
     },
     {
@@ -15,9 +25,9 @@
         "pubdate": "Thu, 10 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "Rey Carlos III",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Rey%20Carlos%20III",
-        "pubdate": "Thu, 10 Oct 2024 00:00:00 +0200"
+        "title": "Emma Ozores",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Emma%20Ozores",
+        "pubdate": "Thu, 10 Oct 2024 01:00:00 +0200"
     },
     {
         "title": "Jordi molla",
@@ -32,12 +42,17 @@
     {
         "title": "El hoyo 2",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#El%20hoyo%202",
-        "pubdate": "Wed, 09 Oct 2024 01:00:00 +0200"
+        "pubdate": "Wed, 09 Oct 2024 11:00:00 +0200"
     },
     {
-        "title": "Man City  Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Man%20City%20%20Barcelona",
-        "pubdate": "Wed, 09 Oct 2024 21:00:00 +0200"
+        "title": "Ciberataque Grupo Tendam",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ciberataque%20Grupo%20Tendam",
+        "pubdate": "Wed, 09 Oct 2024 00:00:00 +0200"
+    },
+    {
+        "title": "El hoyo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#El%20hoyo",
+        "pubdate": "Wed, 09 Oct 2024 01:00:00 +0200"
     },
     {
         "title": "Magna Mariana de Jerez",
@@ -50,24 +65,24 @@
         "pubdate": "Wed, 09 Oct 2024 23:00:00 +0200"
     },
     {
-        "title": "Pilar Rahola",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Pilar%20Rahola",
-        "pubdate": "Wed, 09 Oct 2024 09:00:00 +0200"
-    },
-    {
-        "title": "Robot Salvaje",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Robot%20Salvaje",
-        "pubdate": "Wed, 09 Oct 2024 15:00:00 +0200"
-    },
-    {
         "title": "Maria jesus Montero en silla de ruedas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Maria%20jesus%20Montero%20en%20silla%20de%20ruedas",
         "pubdate": "Wed, 09 Oct 2024 22:00:00 +0200"
     },
     {
+        "title": "Pilar Rahola",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Pilar%20Rahola",
+        "pubdate": "Wed, 09 Oct 2024 09:00:00 +0200"
+    },
+    {
         "title": "Copa del Rey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Copa%20del%20Rey",
         "pubdate": "Wed, 09 Oct 2024 19:00:00 +0200"
+    },
+    {
+        "title": "Robot Salvaje",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Robot%20Salvaje",
+        "pubdate": "Wed, 09 Oct 2024 15:00:00 +0200"
     },
     {
         "title": "Esther Arroyo",
@@ -83,20 +98,5 @@
         "title": "Felipe González",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Felipe%20Gonz%C3%A1lez",
         "pubdate": "Wed, 09 Oct 2024 00:00:00 +0200"
-    },
-    {
-        "title": "Txiki Begiristain",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Txiki%20Begiristain",
-        "pubdate": "Wed, 09 Oct 2024 11:00:00 +0200"
-    },
-    {
-        "title": "Maruja Torres",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Maruja%20Torres",
-        "pubdate": "Wed, 09 Oct 2024 00:00:00 +0200"
-    },
-    {
-        "title": "Rocio Monasterio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Rocio%20Monasterio",
-        "pubdate": "Wed, 09 Oct 2024 22:00:00 +0200"
     }
 ]
