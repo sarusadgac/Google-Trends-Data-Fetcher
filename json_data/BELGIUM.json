@@ -15,8 +15,8 @@
         "pubdate": "Wed, 09 Oct 2024 02:00:00 +0200"
     },
     {
-        "title": "TEDi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#TEDi",
+        "title": "Tedi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tedi",
         "pubdate": "Wed, 09 Oct 2024 07:00:00 +0200"
     },
     {
@@ -40,14 +40,14 @@
         "pubdate": "Tue, 08 Oct 2024 15:00:00 +0200"
     },
     {
-        "title": "Amazon Prime",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Amazon%20Prime",
-        "pubdate": "Tue, 08 Oct 2024 22:00:00 +0200"
-    },
-    {
         "title": "Florida",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Florida",
         "pubdate": "Tue, 08 Oct 2024 20:00:00 +0200"
+    },
+    {
+        "title": "Amazon Prime",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Amazon%20Prime",
+        "pubdate": "Tue, 08 Oct 2024 22:00:00 +0200"
     },
     {
         "title": "Ziekte van Graves",
@@ -68,6 +68,11 @@
         "title": "Sydney Sweeney",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Sydney%20Sweeney",
         "pubdate": "Tue, 08 Oct 2024 18:00:00 +0200"
+    },
+    {
+        "title": "Michel Lelièvre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Michel%20Leli%C3%A8vre",
+        "pubdate": "Tue, 08 Oct 2024 22:00:00 +0200"
     },
     {
         "title": "Interpol",
@@ -93,10 +98,5 @@
         "title": "Paul Biya",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Paul%20Biya",
         "pubdate": "Tue, 08 Oct 2024 21:00:00 +0200"
-    },
-    {
-        "title": "Philippe Geluck",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Philippe%20Geluck",
-        "pubdate": "Tue, 08 Oct 2024 20:00:00 +0200"
     }
 ]
