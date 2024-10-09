@@ -1,12 +1,17 @@
 [
     {
-        "title": "El Hoyo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#El%20Hoyo",
+        "title": "El hoyo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#El%20hoyo",
         "pubdate": "Wed, 09 Oct 2024 01:00:00 +0200"
     },
     {
-        "title": "Restaurante El Sitio Huelva",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Restaurante%20El%20Sitio%20Huelva",
+        "title": "Restaurante 'El sitio Huelva",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Restaurante%20'El%20sitio%20Huelva",
+        "pubdate": "Wed, 09 Oct 2024 01:00:00 +0200"
+    },
+    {
+        "title": "Variante XEC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Variante%20XEC",
         "pubdate": "Wed, 09 Oct 2024 01:00:00 +0200"
     },
     {
@@ -15,14 +20,14 @@
         "pubdate": "Wed, 09 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "Ciberataque Tendam",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ciberataque%20Tendam",
+        "title": "Maruja Torres",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Maruja%20Torres",
         "pubdate": "Wed, 09 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "Variante XEC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Variante%20XEC",
-        "pubdate": "Wed, 09 Oct 2024 01:00:00 +0200"
+        "title": "Ciberataque Tendam",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ciberataque%20Tendam",
+        "pubdate": "Wed, 09 Oct 2024 00:00:00 +0200"
     },
     {
         "title": "Antonio de la Torre",
@@ -68,11 +73,6 @@
         "title": "Tendam",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Tendam",
         "pubdate": "Tue, 08 Oct 2024 17:00:00 +0200"
-    },
-    {
-        "title": "Singapur",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Singapur",
-        "pubdate": "Tue, 08 Oct 2024 16:00:00 +0200"
     },
     {
         "title": "Reina sofia Margarita Robles",
