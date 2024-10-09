@@ -20,11 +20,6 @@
         "pubdate": "Tue, 08 Oct 2024 19:00:00 -0500"
     },
     {
-        "title": "Puerto de Chancay",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Puerto%20de%20Chancay",
-        "pubdate": "Tue, 08 Oct 2024 17:00:00 -0500"
-    },
-    {
         "title": "Miniso",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Miniso",
         "pubdate": "Tue, 08 Oct 2024 23:00:00 -0500"
@@ -85,18 +80,23 @@
         "pubdate": "Mon, 07 Oct 2024 21:00:00 -0500"
     },
     {
-        "title": "Defensa y Justicia  Rosario Central",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Defensa%20y%20Justicia%20%20Rosario%20Central",
-        "pubdate": "Mon, 07 Oct 2024 19:00:00 -0500"
-    },
-    {
         "title": "Balon de Oro 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Balon%20de%20Oro%202024",
         "pubdate": "Mon, 07 Oct 2024 20:00:00 -0500"
     },
     {
+        "title": "Nations league",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Nations%20league",
+        "pubdate": "Mon, 07 Oct 2024 22:00:00 -0500"
+    },
+    {
         "title": "Banco de la Nación",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Banco%20de%20la%20Naci%C3%B3n",
         "pubdate": "Mon, 07 Oct 2024 13:00:00 -0500"
+    },
+    {
+        "title": "Defensa y Justicia  Rosario Central",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Defensa%20y%20Justicia%20%20Rosario%20Central",
+        "pubdate": "Mon, 07 Oct 2024 19:00:00 -0500"
     }
 ]
