@@ -1,13 +1,18 @@
 [
     {
-        "title": "Geoffrey Hinton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Geoffrey%20Hinton",
-        "pubdate": "Wed, 09 Oct 2024 09:30:00 +0530"
-    },
-    {
         "title": "Robert Saleh",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Robert%20Saleh",
         "pubdate": "Tue, 08 Oct 2024 08:00:00 -0700"
+    },
+    {
+        "title": "Amazon Prime",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Amazon%20Prime",
+        "pubdate": "Tue, 08 Oct 2024 08:00:00 +0100"
+    },
+    {
+        "title": "Ураган Милтон",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%A3%D1%80%D0%B0%D0%B3%D0%B0%D0%BD%20%D0%9C%D0%B8%D0%BB%D1%82%D0%BE%D0%BD",
+        "pubdate": "Wed, 09 Oct 2024 03:00:00 +0300"
     },
     {
         "title": "九巴",
@@ -15,8 +20,18 @@
         "pubdate": "Wed, 09 Oct 2024 10:00:00 +0800"
     },
     {
-        "title": "Amazon Prime",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Amazon%20Prime",
+        "title": "Geoffrey Hinton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Geoffrey%20Hinton",
+        "pubdate": "Wed, 09 Oct 2024 09:30:00 +0530"
+    },
+    {
+        "title": "Hugo Prevost",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Hugo%20Prevost",
+        "pubdate": "Wed, 09 Oct 2024 00:00:00 +0200"
+    },
+    {
+        "title": "Pietro Lombardi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Pietro%20Lombardi",
         "pubdate": "Tue, 08 Oct 2024 19:00:00 +0200"
     },
     {
@@ -25,33 +40,23 @@
         "pubdate": "Wed, 09 Oct 2024 11:00:00 +0900"
     },
     {
-        "title": "Ураган Милтон",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%A3%D1%80%D0%B0%D0%B3%D0%B0%D0%BD%20%D0%9C%D0%B8%D0%BB%D1%82%D0%BE%D0%BD",
-        "pubdate": "Wed, 09 Oct 2024 03:00:00 +0300"
+        "title": "Milton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#Milton",
+        "pubdate": "Tue, 08 Oct 2024 19:00:00 +0300"
     },
     {
-        "title": "Hugo Prevost",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Hugo%20Prevost",
+        "title": "El hoyo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#El%20hoyo",
+        "pubdate": "Wed, 09 Oct 2024 01:00:00 +0200"
+    },
+    {
+        "title": "Lisa Marie Presley",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Lisa%20Marie%20Presley",
         "pubdate": "Wed, 09 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "David Jason",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#David%20Jason",
-        "pubdate": "Tue, 08 Oct 2024 09:00:00 +0100"
-    },
-    {
-        "title": "Nihal Yalçın",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Nihal%20Yal%C3%A7%C4%B1n",
-        "pubdate": "Wed, 09 Oct 2024 00:00:00 +0300"
-    },
-    {
-        "title": "Edital Correios",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Edital%20Correios",
-        "pubdate": "Wed, 09 Oct 2024 00:00:00 -0500"
-    },
-    {
-        "title": "Tomasz Oświeciński",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Tomasz%20O%C5%9Bwieci%C5%84ski",
+        "title": "Tesla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Tesla",
         "pubdate": "Wed, 09 Oct 2024 00:00:00 +0200"
     },
     {
@@ -60,43 +65,38 @@
         "pubdate": "Wed, 09 Oct 2024 00:00:00 -0400"
     },
     {
-        "title": "Chí Trung",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ch%C3%AD%20Trung",
-        "pubdate": "Wed, 09 Oct 2024 12:00:00 +0700"
+        "title": "Will Smith",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Will%20Smith",
+        "pubdate": "Wed, 09 Oct 2024 08:00:00 +0200"
     },
     {
-        "title": "雙月",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%9B%99%E6%9C%88",
-        "pubdate": "Wed, 09 Oct 2024 08:00:00 +0800"
+        "title": "Shakira en Chile",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Shakira%20en%20Chile",
+        "pubdate": "Tue, 08 Oct 2024 11:00:00 -0300"
     },
     {
-        "title": "Impeachment",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Impeachment",
-        "pubdate": "Tue, 08 Oct 2024 08:00:00 +0300"
+        "title": "Olivia Rodrigo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Olivia%20Rodrigo",
+        "pubdate": "Wed, 09 Oct 2024 09:00:00 +1100"
     },
     {
-        "title": "مؤمن زكريا",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=EG#%D9%85%D8%A4%D9%85%D9%86%20%D8%B2%D9%83%D8%B1%D9%8A%D8%A7",
-        "pubdate": "Wed, 09 Oct 2024 04:00:00 +0300"
+        "title": "Eric Saade",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Eric%20Saade",
+        "pubdate": "Wed, 09 Oct 2024 01:00:00 +0200"
     },
     {
-        "title": "Dennis van Aarssen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Dennis%20van%20Aarssen",
+        "title": "Ticketmaster",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Ticketmaster",
+        "pubdate": "Tue, 08 Oct 2024 11:00:00 -0600"
+    },
+    {
+        "title": "Kaos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Kaos",
         "pubdate": "Wed, 09 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "Laneway 2025 lineup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Laneway%202025%20lineup",
-        "pubdate": "Wed, 09 Oct 2024 11:00:00 +1300"
-    },
-    {
-        "title": "Alice Guo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Alice%20Guo",
-        "pubdate": "Wed, 09 Oct 2024 13:00:00 +0800"
-    },
-    {
-        "title": "המלך צ'ארלס",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%94%D7%9E%D7%9C%D7%9A%20%D7%A6'%D7%90%D7%A8%D7%9C%D7%A1",
+        "title": "Ураган Мілтон",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=UA#%D0%A3%D1%80%D0%B0%D0%B3%D0%B0%D0%BD%20%D0%9C%D1%96%D0%BB%D1%82%D0%BE%D0%BD",
         "pubdate": "Wed, 09 Oct 2024 00:00:00 +0300"
     }
 ]
