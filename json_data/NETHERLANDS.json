@@ -10,6 +10,11 @@
         "pubdate": "Wed, 09 Oct 2024 19:00:00 +0200"
     },
     {
+        "title": "Ratan Tata",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ratan%20Tata",
+        "pubdate": "Wed, 09 Oct 2024 21:00:00 +0200"
+    },
+    {
         "title": "Tetris",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Tetris",
         "pubdate": "Wed, 09 Oct 2024 13:00:00 +0200"
@@ -18,6 +23,11 @@
         "title": "Hugo Koolschijn",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Hugo%20Koolschijn",
         "pubdate": "Wed, 09 Oct 2024 17:00:00 +0200"
+    },
+    {
+        "title": "Henk Schiffmacher",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Henk%20Schiffmacher",
+        "pubdate": "Wed, 09 Oct 2024 22:00:00 +0200"
     },
     {
         "title": "Ugchelen",
@@ -38,11 +48,6 @@
         "title": "Femke Halsema",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Femke%20Halsema",
         "pubdate": "Tue, 08 Oct 2024 17:00:00 +0200"
-    },
-    {
-        "title": "Olcay Gulsen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Olcay%20Gulsen",
-        "pubdate": "Tue, 08 Oct 2024 23:00:00 +0200"
     },
     {
         "title": "Lisa Marie Presley",
@@ -93,10 +98,5 @@
         "title": "Leidens Ontzet",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Leidens%20Ontzet",
         "pubdate": "Wed, 02 Oct 2024 20:00:00 +0200"
-    },
-    {
-        "title": "Iran",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Iran",
-        "pubdate": "Tue, 01 Oct 2024 18:00:00 +0200"
     }
 ]

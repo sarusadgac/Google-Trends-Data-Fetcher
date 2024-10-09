@@ -10,6 +10,11 @@
         "pubdate": "Wed, 09 Oct 2024 09:00:00 +0200"
     },
     {
+        "title": "Ratan Tata",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ratan%20Tata",
+        "pubdate": "Wed, 09 Oct 2024 21:00:00 +0200"
+    },
+    {
         "title": "Lisa Marie Presley",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Lisa%20Marie%20Presley",
         "pubdate": "Wed, 09 Oct 2024 00:00:00 +0200"
@@ -93,10 +98,5 @@
         "title": "Hurricane Milton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Hurricane%20Milton",
         "pubdate": "Mon, 07 Oct 2024 20:00:00 +0200"
-    },
-    {
-        "title": "Pivot",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Pivot",
-        "pubdate": "Mon, 07 Oct 2024 07:00:00 +0200"
     }
 ]
