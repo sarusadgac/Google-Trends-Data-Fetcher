@@ -5,11 +5,6 @@
         "pubdate": "Thu, 10 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "Pedro Patiño",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Pedro%20Pati%C3%B1o",
-        "pubdate": "Thu, 10 Oct 2024 00:00:00 +0200"
-    },
-    {
         "title": "Euroliga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Euroliga",
         "pubdate": "Thu, 10 Oct 2024 01:00:00 +0200"
@@ -38,6 +33,11 @@
         "title": "Ratan Tata",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ratan%20Tata",
         "pubdate": "Thu, 10 Oct 2024 02:00:00 +0200"
+    },
+    {
+        "title": "Emma Ozores",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Emma%20Ozores",
+        "pubdate": "Thu, 10 Oct 2024 01:00:00 +0200"
     },
     {
         "title": "Jordi molla",
@@ -90,13 +90,13 @@
         "pubdate": "Wed, 09 Oct 2024 21:00:00 +0200"
     },
     {
+        "title": "El Sitio Huelva",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#El%20Sitio%20Huelva",
+        "pubdate": "Wed, 09 Oct 2024 01:00:00 +0200"
+    },
+    {
         "title": "Felipe González",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Felipe%20Gonz%C3%A1lez",
         "pubdate": "Wed, 09 Oct 2024 00:00:00 +0200"
-    },
-    {
-        "title": "Txiki Begiristain",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Txiki%20Begiristain",
-        "pubdate": "Wed, 09 Oct 2024 11:00:00 +0200"
     }
 ]

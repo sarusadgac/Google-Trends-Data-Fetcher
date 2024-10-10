@@ -20,13 +20,13 @@
         "pubdate": "Wed, 09 Oct 2024 15:00:00 -0500"
     },
     {
-        "title": "Ministerio de Educación",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Ministerio%20de%20Educaci%C3%B3n",
+        "title": "Dina Boluarte",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Dina%20Boluarte",
         "pubdate": "Wed, 09 Oct 2024 20:00:00 -0500"
     },
     {
-        "title": "Dina Boluarte",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Dina%20Boluarte",
+        "title": "Ministerio de Educación",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Ministerio%20de%20Educaci%C3%B3n",
         "pubdate": "Wed, 09 Oct 2024 20:00:00 -0500"
     },
     {
@@ -40,14 +40,14 @@
         "pubdate": "Wed, 09 Oct 2024 00:00:00 -0500"
     },
     {
-        "title": "Marianella Ledesma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Marianella%20Ledesma",
-        "pubdate": "Wed, 09 Oct 2024 16:00:00 -0500"
-    },
-    {
         "title": "George Baldock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#George%20Baldock",
         "pubdate": "Wed, 09 Oct 2024 20:00:00 -0500"
+    },
+    {
+        "title": "Marianella Ledesma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Marianella%20Ledesma",
+        "pubdate": "Wed, 09 Oct 2024 16:00:00 -0500"
     },
     {
         "title": "Alianza Universidad",
@@ -58,6 +58,11 @@
         "title": "Venezuela vs Argentina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Venezuela%20vs%20Argentina",
         "pubdate": "Wed, 09 Oct 2024 21:00:00 -0500"
+    },
+    {
+        "title": "Atlético Nacional  Deportivo Cali",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Atl%C3%A9tico%20Nacional%20%20Deportivo%20Cali",
+        "pubdate": "Wed, 09 Oct 2024 23:00:00 -0500"
     },
     {
         "title": "Teleticket Shakira",
@@ -93,10 +98,5 @@
         "title": "Andres Iniesta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Andres%20Iniesta",
         "pubdate": "Tue, 08 Oct 2024 16:00:00 -0500"
-    },
-    {
-        "title": "Michael Schumacher",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Michael%20Schumacher",
-        "pubdate": "Tue, 08 Oct 2024 22:00:00 -0500"
     }
 ]
