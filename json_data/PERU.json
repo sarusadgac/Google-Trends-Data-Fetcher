@@ -55,11 +55,6 @@
         "pubdate": "Wed, 09 Oct 2024 00:00:00 -0500"
     },
     {
-        "title": "Alianza Universidad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Alianza%20Universidad",
-        "pubdate": "Wed, 09 Oct 2024 18:00:00 -0500"
-    },
-    {
         "title": "Marianella Ledesma",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Marianella%20Ledesma",
         "pubdate": "Wed, 09 Oct 2024 16:00:00 -0500"
@@ -98,5 +93,10 @@
         "title": "Andres Iniesta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Andres%20Iniesta",
         "pubdate": "Tue, 08 Oct 2024 16:00:00 -0500"
+    },
+    {
+        "title": "Michael Schumacher",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Michael%20Schumacher",
+        "pubdate": "Tue, 08 Oct 2024 22:00:00 -0500"
     }
 ]
