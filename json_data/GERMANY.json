@@ -5,11 +5,6 @@
         "pubdate": "Thu, 10 Oct 2024 14:00:00 +0200"
     },
     {
-        "title": "George Baldock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#George%20Baldock",
-        "pubdate": "Thu, 10 Oct 2024 00:00:00 +0200"
-    },
-    {
         "title": "Rafael Nadal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rafael%20Nadal",
         "pubdate": "Thu, 10 Oct 2024 14:00:00 +0200"
@@ -18,6 +13,11 @@
         "title": "USA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#USA",
         "pubdate": "Thu, 10 Oct 2024 07:00:00 +0200"
+    },
+    {
+        "title": "Bares für Rares",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bares%20f%C3%BCr%20Rares",
+        "pubdate": "Thu, 10 Oct 2024 03:00:00 +0200"
     },
     {
         "title": "Jürgen Klopp",
@@ -35,14 +35,14 @@
         "pubdate": "Wed, 09 Oct 2024 21:00:00 +0200"
     },
     {
-        "title": "Dacia Bigster",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dacia%20Bigster",
-        "pubdate": "Wed, 09 Oct 2024 13:00:00 +0200"
-    },
-    {
         "title": "Weidel Wagenknecht",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Weidel%20Wagenknecht",
         "pubdate": "Wed, 09 Oct 2024 22:00:00 +0200"
+    },
+    {
+        "title": "Dacia Bigster",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dacia%20Bigster",
+        "pubdate": "Wed, 09 Oct 2024 13:00:00 +0200"
     },
     {
         "title": "Sancta",
