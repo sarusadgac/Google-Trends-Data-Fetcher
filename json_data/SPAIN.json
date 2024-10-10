@@ -10,14 +10,9 @@
         "pubdate": "Thu, 10 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "Pedro Patiño",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Pedro%20Pati%C3%B1o",
+        "title": "Rey Carlos III",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Rey%20Carlos%20III",
         "pubdate": "Thu, 10 Oct 2024 00:00:00 +0200"
-    },
-    {
-        "title": "Euroliga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Euroliga",
-        "pubdate": "Thu, 10 Oct 2024 01:00:00 +0200"
     },
     {
         "title": "CNN",
@@ -25,19 +20,19 @@
         "pubdate": "Thu, 10 Oct 2024 07:00:00 +0200"
     },
     {
-        "title": "Rey Carlos III",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Rey%20Carlos%20III",
-        "pubdate": "Thu, 10 Oct 2024 00:00:00 +0200"
-    },
-    {
-        "title": "Barça femenino",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Bar%C3%A7a%20femenino",
-        "pubdate": "Thu, 10 Oct 2024 00:00:00 +0200"
+        "title": "Euroliga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Euroliga",
+        "pubdate": "Thu, 10 Oct 2024 01:00:00 +0200"
     },
     {
         "title": "Ratan Tata",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ratan%20Tata",
         "pubdate": "Thu, 10 Oct 2024 02:00:00 +0200"
+    },
+    {
+        "title": "Arturo perez Reverte",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Arturo%20perez%20Reverte",
+        "pubdate": "Thu, 10 Oct 2024 09:00:00 +0200"
     },
     {
         "title": "Jordi molla",
@@ -58,6 +53,11 @@
         "title": "El hoyo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#El%20hoyo",
         "pubdate": "Wed, 09 Oct 2024 01:00:00 +0200"
+    },
+    {
+        "title": "Elisa montes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Elisa%20montes",
+        "pubdate": "Wed, 09 Oct 2024 18:00:00 +0200"
     },
     {
         "title": "Maria jesus Montero en silla de ruedas",
@@ -95,8 +95,8 @@
         "pubdate": "Wed, 09 Oct 2024 01:00:00 +0200"
     },
     {
-        "title": "Felipe González",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Felipe%20Gonz%C3%A1lez",
-        "pubdate": "Wed, 09 Oct 2024 00:00:00 +0200"
+        "title": "Rocio Monasterio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Rocio%20Monasterio",
+        "pubdate": "Wed, 09 Oct 2024 22:00:00 +0200"
     }
 ]
