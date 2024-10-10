@@ -35,9 +35,19 @@
         "pubdate": "Thu, 10 Oct 2024 14:00:00 +0200"
     },
     {
+        "title": "CNN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#CNN",
+        "pubdate": "Thu, 10 Oct 2024 07:00:00 +0200"
+    },
+    {
         "title": "Gevora",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Gevora",
         "pubdate": "Thu, 10 Oct 2024 14:00:00 +0200"
+    },
+    {
+        "title": "Ley ELA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ley%20ELA",
+        "pubdate": "Thu, 10 Oct 2024 20:00:00 +0200"
     },
     {
         "title": "Ratan Tata",
@@ -55,6 +65,11 @@
         "pubdate": "Thu, 10 Oct 2024 15:00:00 +0200"
     },
     {
+        "title": "Bad Boys",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Bad%20Boys",
+        "pubdate": "Thu, 10 Oct 2024 00:00:00 +0200"
+    },
+    {
         "title": "Jenny Llada",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Jenny%20Llada",
         "pubdate": "Thu, 10 Oct 2024 15:00:00 +0200"
@@ -65,29 +80,14 @@
         "pubdate": "Thu, 10 Oct 2024 16:00:00 +0200"
     },
     {
+        "title": "El Taiger",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#El%20Taiger",
+        "pubdate": "Thu, 10 Oct 2024 20:00:00 +0200"
+    },
+    {
         "title": "RFEF",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#RFEF",
         "pubdate": "Thu, 10 Oct 2024 14:00:00 +0200"
-    },
-    {
-        "title": "Eulate",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Eulate",
-        "pubdate": "Thu, 10 Oct 2024 00:00:00 +0200"
-    },
-    {
-        "title": "Ontiñena",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Onti%C3%B1ena",
-        "pubdate": "Thu, 10 Oct 2024 15:00:00 +0200"
-    },
-    {
-        "title": "Pensiones",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Pensiones",
-        "pubdate": "Thu, 10 Oct 2024 17:00:00 +0200"
-    },
-    {
-        "title": "Arturo perez Reverte",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Arturo%20perez%20Reverte",
-        "pubdate": "Thu, 10 Oct 2024 09:00:00 +0200"
     },
     {
         "title": "Abalos",
@@ -95,8 +95,8 @@
         "pubdate": "Thu, 10 Oct 2024 18:00:00 +0200"
     },
     {
-        "title": "Salud mental",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Salud%20mental",
-        "pubdate": "Thu, 10 Oct 2024 18:00:00 +0200"
+        "title": "Eulate",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Eulate",
+        "pubdate": "Thu, 10 Oct 2024 00:00:00 +0200"
     }
 ]
