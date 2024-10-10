@@ -1,15 +1,5 @@
 [
     {
-        "title": "Dacia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Dacia",
-        "pubdate": "Thu, 10 Oct 2024 00:00:00 +0200"
-    },
-    {
-        "title": "Vettaiyan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Vettaiyan",
-        "pubdate": "Thu, 10 Oct 2024 06:30:00 +0530"
-    },
-    {
         "title": "George Baldock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#George%20Baldock",
         "pubdate": "Thu, 10 Oct 2024 00:00:00 +0200"
@@ -18,6 +8,26 @@
         "title": "Yung Filly",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Yung%20Filly",
         "pubdate": "Thu, 10 Oct 2024 07:00:00 +0100"
+    },
+    {
+        "title": "Vettaiyan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Vettaiyan",
+        "pubdate": "Thu, 10 Oct 2024 06:30:00 +0530"
+    },
+    {
+        "title": "Yankees",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Yankees",
+        "pubdate": "Wed, 09 Oct 2024 17:00:00 -0700"
+    },
+    {
+        "title": "Dacia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Dacia",
+        "pubdate": "Thu, 10 Oct 2024 00:00:00 +0200"
+    },
+    {
+        "title": "藤田菜七子",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E8%97%A4%E7%94%B0%E8%8F%9C%E4%B8%83%E5%AD%90",
+        "pubdate": "Thu, 10 Oct 2024 07:00:00 +0900"
     },
     {
         "title": "Лада аура",
@@ -30,73 +40,63 @@
         "pubdate": "Thu, 10 Oct 2024 11:00:00 +0800"
     },
     {
-        "title": "Yankees",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Yankees",
-        "pubdate": "Wed, 09 Oct 2024 17:00:00 -0700"
-    },
-    {
-        "title": "藤田菜七子",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E8%97%A4%E7%94%B0%E8%8F%9C%E4%B8%83%E5%AD%90",
-        "pubdate": "Thu, 10 Oct 2024 07:00:00 +0900"
-    },
-    {
-        "title": "Sancta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sancta",
-        "pubdate": "Thu, 10 Oct 2024 07:00:00 +0200"
-    },
-    {
-        "title": "ติ๊กชีโร่",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TH#%E0%B8%95%E0%B8%B4%E0%B9%8A%E0%B8%81%E0%B8%8A%E0%B8%B5%E0%B9%82%E0%B8%A3%E0%B9%88",
-        "pubdate": "Thu, 10 Oct 2024 09:00:00 +0700"
-    },
-    {
-        "title": "Stefano Tacconi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Stefano%20Tacconi",
-        "pubdate": "Thu, 10 Oct 2024 06:00:00 +0200"
-    },
-    {
-        "title": "רויטל יהוד",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A8%D7%95%D7%99%D7%98%D7%9C%20%D7%99%D7%94%D7%95%D7%93",
-        "pubdate": "Thu, 10 Oct 2024 01:00:00 +0300"
-    },
-    {
-        "title": "Μπαλντοκ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%9C%CF%80%CE%B1%CE%BB%CE%BD%CF%84%CE%BF%CE%BA",
-        "pubdate": "Thu, 10 Oct 2024 00:00:00 +0300"
-    },
-    {
-        "title": "اليوم العالمي للصحة النفسية",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#%D8%A7%D9%84%D9%8A%D9%88%D9%85%20%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%20%D9%84%D9%84%D8%B5%D8%AD%D8%A9%20%D8%A7%D9%84%D9%86%D9%81%D8%B3%D9%8A%D8%A9",
-        "pubdate": "Thu, 10 Oct 2024 10:00:00 +0300"
-    },
-    {
-        "title": "Atlético Nacional  Deportivo Cali",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Atl%C3%A9tico%20Nacional%20%20Deportivo%20Cali",
-        "pubdate": "Wed, 09 Oct 2024 14:00:00 -0500"
-    },
-    {
-        "title": "韓國瑜",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%9F%93%E5%9C%8B%E7%91%9C",
-        "pubdate": "Thu, 10 Oct 2024 11:00:00 +0800"
+        "title": "CNN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#CNN",
+        "pubdate": "Thu, 10 Oct 2024 00:00:00 -0300"
     },
     {
         "title": "World Mental Health Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#World%20Mental%20Health%20Day",
-        "pubdate": "Thu, 10 Oct 2024 11:00:00 +0200"
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#World%20Mental%20Health%20Day",
+        "pubdate": "Thu, 10 Oct 2024 11:00:00 +0100"
     },
     {
-        "title": "Verdensdagen for psykisk helse",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Verdensdagen%20for%20psykisk%20helse",
-        "pubdate": "Thu, 10 Oct 2024 08:00:00 +0200"
+        "title": "Sidi Péter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sidi%20P%C3%A9ter",
+        "pubdate": "Thu, 10 Oct 2024 04:00:00 +0200"
     },
     {
-        "title": "Argentina vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Argentina%20vs",
-        "pubdate": "Thu, 10 Oct 2024 01:00:00 -0500"
+        "title": "Lindsey Vonn Comeback",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Lindsey%20Vonn%20Comeback",
+        "pubdate": "Thu, 10 Oct 2024 07:00:00 +0200"
     },
     {
-        "title": "CNN news",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#CNN%20news",
-        "pubdate": "Thu, 10 Oct 2024 00:00:00 +0100"
+        "title": "Ratan Tata",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Ratan%20Tata",
+        "pubdate": "Thu, 10 Oct 2024 03:00:00 +0800"
+    },
+    {
+        "title": "India vs Bangladesh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#India%20vs%20Bangladesh",
+        "pubdate": "Thu, 10 Oct 2024 05:00:00 +1300"
+    },
+    {
+        "title": "Outer Banks",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Outer%20Banks",
+        "pubdate": "Thu, 10 Oct 2024 02:00:00 +0200"
+    },
+    {
+        "title": "Бронювання",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=UA#%D0%91%D1%80%D0%BE%D0%BD%D1%8E%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F",
+        "pubdate": "Thu, 10 Oct 2024 00:00:00 +0300"
+    },
+    {
+        "title": "10 octombrie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#10%20octombrie",
+        "pubdate": "Thu, 10 Oct 2024 10:00:00 +0300"
+    },
+    {
+        "title": "Green Hydrogen Systems",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Green%20Hydrogen%20Systems",
+        "pubdate": "Wed, 09 Oct 2024 10:00:00 +0200"
+    },
+    {
+        "title": "Pegasus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Pegasus",
+        "pubdate": "Thu, 10 Oct 2024 13:00:00 +0300"
+    },
+    {
+        "title": "Nations League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Nations%20League",
+        "pubdate": "Thu, 10 Oct 2024 07:00:00 +0300"
     }
 ]
