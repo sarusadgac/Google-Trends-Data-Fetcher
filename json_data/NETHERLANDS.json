@@ -5,11 +5,6 @@
         "pubdate": "Thu, 10 Oct 2024 09:00:00 +0200"
     },
     {
-        "title": "George Baldock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#George%20Baldock",
-        "pubdate": "Thu, 10 Oct 2024 00:00:00 +0200"
-    },
-    {
         "title": "Carola Schouten",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Carola%20Schouten",
         "pubdate": "Thu, 10 Oct 2024 09:00:00 +0200"
@@ -40,18 +35,13 @@
         "pubdate": "Wed, 09 Oct 2024 21:00:00 +0200"
     },
     {
-        "title": "Dunkin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Dunkin",
-        "pubdate": "Wed, 09 Oct 2024 10:00:00 +0200"
+        "title": "Miss Montreal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Miss%20Montreal",
+        "pubdate": "Wed, 09 Oct 2024 23:00:00 +0200"
     },
     {
         "title": "Dacia Bigster",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Dacia%20Bigster",
-        "pubdate": "Wed, 09 Oct 2024 23:00:00 +0200"
-    },
-    {
-        "title": "Miss Montreal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Miss%20Montreal",
         "pubdate": "Wed, 09 Oct 2024 23:00:00 +0200"
     },
     {
@@ -98,5 +88,15 @@
         "title": "Robert ten Brink",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Robert%20ten%20Brink",
         "pubdate": "Fri, 04 Oct 2024 23:00:00 +0200"
+    },
+    {
+        "title": "Girona Feyenoord",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Girona%20Feyenoord",
+        "pubdate": "Wed, 02 Oct 2024 01:00:00 +0200"
+    },
+    {
+        "title": "Leidens Ontzet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Leidens%20Ontzet",
+        "pubdate": "Wed, 02 Oct 2024 20:00:00 +0200"
     }
 ]

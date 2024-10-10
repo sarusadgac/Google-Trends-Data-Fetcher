@@ -20,6 +20,11 @@
         "pubdate": "Thu, 10 Oct 2024 00:00:00 +0200"
     },
     {
+        "title": "Pedro Patiño",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Pedro%20Pati%C3%B1o",
+        "pubdate": "Thu, 10 Oct 2024 00:00:00 +0200"
+    },
+    {
         "title": "CNN",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#CNN",
         "pubdate": "Thu, 10 Oct 2024 07:00:00 +0200"
@@ -30,29 +35,14 @@
         "pubdate": "Thu, 10 Oct 2024 01:00:00 +0200"
     },
     {
-        "title": "Ratan Tata",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ratan%20Tata",
-        "pubdate": "Thu, 10 Oct 2024 02:00:00 +0200"
-    },
-    {
         "title": "Han Kang",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Han%20Kang",
         "pubdate": "Thu, 10 Oct 2024 14:00:00 +0200"
     },
     {
-        "title": "Arturo perez Reverte",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Arturo%20perez%20Reverte",
-        "pubdate": "Thu, 10 Oct 2024 09:00:00 +0200"
-    },
-    {
-        "title": "Alfonso Guerra",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Alfonso%20Guerra",
-        "pubdate": "Thu, 10 Oct 2024 11:00:00 +0200"
-    },
-    {
-        "title": "Dia de la Salud Mental",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Dia%20de%20la%20Salud%20Mental",
-        "pubdate": "Thu, 10 Oct 2024 14:00:00 +0200"
+        "title": "Ratan Tata",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ratan%20Tata",
+        "pubdate": "Thu, 10 Oct 2024 02:00:00 +0200"
     },
     {
         "title": "Gevora",
@@ -60,9 +50,39 @@
         "pubdate": "Thu, 10 Oct 2024 14:00:00 +0200"
     },
     {
+        "title": "Dia de la Salud Mental",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Dia%20de%20la%20Salud%20Mental",
+        "pubdate": "Thu, 10 Oct 2024 14:00:00 +0200"
+    },
+    {
+        "title": "Eulate",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Eulate",
+        "pubdate": "Thu, 10 Oct 2024 00:00:00 +0200"
+    },
+    {
+        "title": "Arturo perez Reverte",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Arturo%20perez%20Reverte",
+        "pubdate": "Thu, 10 Oct 2024 09:00:00 +0200"
+    },
+    {
         "title": "Dia Mundial de la Salud Mental",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Dia%20Mundial%20de%20la%20Salud%20Mental",
         "pubdate": "Thu, 10 Oct 2024 14:00:00 +0200"
+    },
+    {
+        "title": "Alfonso Guerra",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Alfonso%20Guerra",
+        "pubdate": "Thu, 10 Oct 2024 11:00:00 +0200"
+    },
+    {
+        "title": "Ontiñena",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Onti%C3%B1ena",
+        "pubdate": "Thu, 10 Oct 2024 15:00:00 +0200"
+    },
+    {
+        "title": "Morata",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Morata",
+        "pubdate": "Thu, 10 Oct 2024 15:00:00 +0200"
     },
     {
         "title": "Estados Unidos",
@@ -78,25 +98,5 @@
         "title": "Ana Guerra",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ana%20Guerra",
         "pubdate": "Wed, 09 Oct 2024 21:00:00 +0200"
-    },
-    {
-        "title": "Copa del Rey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Copa%20del%20Rey",
-        "pubdate": "Wed, 09 Oct 2024 19:00:00 +0200"
-    },
-    {
-        "title": "El Hoyo 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#El%20Hoyo%202",
-        "pubdate": "Wed, 09 Oct 2024 11:00:00 +0200"
-    },
-    {
-        "title": "Ciberataque Grupo Tendam",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ciberataque%20Grupo%20Tendam",
-        "pubdate": "Wed, 09 Oct 2024 00:00:00 +0200"
-    },
-    {
-        "title": "El hoyo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#El%20hoyo",
-        "pubdate": "Wed, 09 Oct 2024 01:00:00 +0200"
     }
 ]
