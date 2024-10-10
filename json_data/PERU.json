@@ -25,14 +25,9 @@
         "pubdate": "Wed, 09 Oct 2024 00:00:00 -0500"
     },
     {
-        "title": "Salud mental",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Salud%20mental",
+        "title": "Salud Mental",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Salud%20Mental",
         "pubdate": "Wed, 09 Oct 2024 15:00:00 -0500"
-    },
-    {
-        "title": "Alianza Universidad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Alianza%20Universidad",
-        "pubdate": "Wed, 09 Oct 2024 18:00:00 -0500"
     },
     {
         "title": "Teleticket Shakira",
@@ -98,5 +93,10 @@
         "title": "Sammy Basso progeria",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Sammy%20Basso%20progeria",
         "pubdate": "Mon, 07 Oct 2024 23:00:00 -0500"
+    },
+    {
+        "title": "Copa Libertadores femenina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Copa%20Libertadores%20femenina",
+        "pubdate": "Mon, 07 Oct 2024 16:00:00 -0500"
     }
 ]
