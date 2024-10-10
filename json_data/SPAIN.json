@@ -5,6 +5,11 @@
         "pubdate": "Thu, 10 Oct 2024 00:00:00 +0200"
     },
     {
+        "title": "Pedro Patiño",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Pedro%20Pati%C3%B1o",
+        "pubdate": "Thu, 10 Oct 2024 00:00:00 +0200"
+    },
+    {
         "title": "Euroliga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Euroliga",
         "pubdate": "Thu, 10 Oct 2024 01:00:00 +0200"
@@ -50,11 +55,6 @@
         "pubdate": "Wed, 09 Oct 2024 11:00:00 +0200"
     },
     {
-        "title": "Man City  Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Man%20City%20%20Barcelona",
-        "pubdate": "Wed, 09 Oct 2024 21:00:00 +0200"
-    },
-    {
         "title": "El hoyo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#El%20hoyo",
         "pubdate": "Wed, 09 Oct 2024 01:00:00 +0200"
@@ -80,8 +80,8 @@
         "pubdate": "Wed, 09 Oct 2024 09:00:00 +0200"
     },
     {
-        "title": "Robot Salvaje",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Robot%20Salvaje",
+        "title": "Robot salvaje",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Robot%20salvaje",
         "pubdate": "Wed, 09 Oct 2024 15:00:00 +0200"
     },
     {
@@ -95,8 +95,8 @@
         "pubdate": "Wed, 09 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "9 de octubre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#9%20de%20octubre",
-        "pubdate": "Wed, 09 Oct 2024 08:00:00 +0200"
+        "title": "Txiki Begiristain",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Txiki%20Begiristain",
+        "pubdate": "Wed, 09 Oct 2024 11:00:00 +0200"
     }
 ]

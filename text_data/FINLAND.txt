@@ -1,5 +1,6 @@
-NHL
 CNN
+NHL
+Jessica Campbell
 Hurricane Kirk
 Utah Hockey Club
 Windy
@@ -8,6 +9,7 @@ TVO
 Elon Musk
 Miami
 Florida
+Nordea
 Lisa Marie Presley
 Tesla
 CHL
@@ -16,5 +18,3 @@ Gen Z
 Gen X
 Cristiano Ronaldo
 Priscilla Presley
-Bianca Censori
-Taylor Swift

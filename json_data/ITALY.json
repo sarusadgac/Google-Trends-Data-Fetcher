@@ -20,6 +20,11 @@
         "pubdate": "Thu, 10 Oct 2024 00:00:00 +0200"
     },
     {
+        "title": "Miocardite",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Miocardite",
+        "pubdate": "Thu, 10 Oct 2024 00:00:00 +0200"
+    },
+    {
         "title": "Orlando",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Orlando",
         "pubdate": "Thu, 10 Oct 2024 01:00:00 +0200"
@@ -93,10 +98,5 @@
         "title": "Vasco Rossi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Vasco%20Rossi",
         "pubdate": "Wed, 09 Oct 2024 21:00:00 +0200"
-    },
-    {
-        "title": "Klopp",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Klopp",
-        "pubdate": "Wed, 09 Oct 2024 12:00:00 +0200"
     }
 ]

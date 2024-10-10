@@ -10,6 +10,11 @@
         "pubdate": "Wed, 09 Oct 2024 19:00:00 +0200"
     },
     {
+        "title": "Kirk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kirk",
+        "pubdate": "Wed, 09 Oct 2024 21:00:00 +0200"
+    },
+    {
         "title": "VW Tayron",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VW%20Tayron",
         "pubdate": "Wed, 09 Oct 2024 20:00:00 +0200"
@@ -93,10 +98,5 @@
         "title": "Kris Kristofferson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kris%20Kristofferson",
         "pubdate": "Mon, 30 Sep 2024 04:00:00 +0200"
-    },
-    {
-        "title": "Österreich-Wahl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#%C3%96sterreich-Wahl",
-        "pubdate": "Sun, 29 Sep 2024 12:00:00 +0200"
     }
 ]
