@@ -5,11 +5,6 @@
         "pubdate": "Thu, 10 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "Pedro Patiño",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Pedro%20Pati%C3%B1o",
-        "pubdate": "Thu, 10 Oct 2024 00:00:00 +0200"
-    },
-    {
         "title": "Euroliga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Euroliga",
         "pubdate": "Thu, 10 Oct 2024 01:00:00 +0200"
@@ -30,14 +25,19 @@
         "pubdate": "Thu, 10 Oct 2024 00:00:00 +0200"
     },
     {
+        "title": "Barça femenino",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Bar%C3%A7a%20femenino",
+        "pubdate": "Thu, 10 Oct 2024 00:00:00 +0200"
+    },
+    {
         "title": "Ratan Tata",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ratan%20Tata",
         "pubdate": "Thu, 10 Oct 2024 02:00:00 +0200"
     },
     {
-        "title": "Emma Ozores",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Emma%20Ozores",
-        "pubdate": "Thu, 10 Oct 2024 01:00:00 +0200"
+        "title": "Jordi molla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Jordi%20molla",
+        "pubdate": "Wed, 09 Oct 2024 23:00:00 +0200"
     },
     {
         "title": "Ana Guerra",
@@ -58,16 +58,6 @@
         "title": "El hoyo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#El%20hoyo",
         "pubdate": "Wed, 09 Oct 2024 01:00:00 +0200"
-    },
-    {
-        "title": "Magna Mariana de Jerez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Magna%20Mariana%20de%20Jerez",
-        "pubdate": "Wed, 09 Oct 2024 12:00:00 +0200"
-    },
-    {
-        "title": "Jordi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Jordi",
-        "pubdate": "Wed, 09 Oct 2024 23:00:00 +0200"
     },
     {
         "title": "Maria jesus Montero en silla de ruedas",
@@ -98,5 +88,15 @@
         "title": "Esther Arroyo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Esther%20Arroyo",
         "pubdate": "Wed, 09 Oct 2024 21:00:00 +0200"
+    },
+    {
+        "title": "Felipe González",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Felipe%20Gonz%C3%A1lez",
+        "pubdate": "Wed, 09 Oct 2024 00:00:00 +0200"
+    },
+    {
+        "title": "9 de octubre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#9%20de%20octubre",
+        "pubdate": "Wed, 09 Oct 2024 08:00:00 +0200"
     }
 ]
