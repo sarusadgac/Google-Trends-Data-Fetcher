@@ -20,6 +20,11 @@
         "pubdate": "Thu, 10 Oct 2024 03:30:00 +0530"
     },
     {
+        "title": "Breaking News",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Breaking%20News",
+        "pubdate": "Thu, 10 Oct 2024 06:30:00 +0530"
+    },
+    {
         "title": "India vs Bangladesh",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#India%20vs%20Bangladesh",
         "pubdate": "Wed, 09 Oct 2024 19:30:00 +0530"
@@ -58,11 +63,6 @@
         "title": "Hurricane Milton news",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Hurricane%20Milton%20news",
         "pubdate": "Wed, 09 Oct 2024 11:30:00 +0530"
-    },
-    {
-        "title": "Arshdeep Singh",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Arshdeep%20Singh",
-        "pubdate": "Wed, 09 Oct 2024 21:30:00 +0530"
     },
     {
         "title": "Riyan Parag",
