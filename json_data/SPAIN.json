@@ -50,14 +50,14 @@
         "pubdate": "Thu, 10 Oct 2024 21:00:00 +0200"
     },
     {
-        "title": "Nations League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Nations%20League",
-        "pubdate": "Thu, 10 Oct 2024 21:00:00 +0200"
-    },
-    {
         "title": "Euroliga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Euroliga",
         "pubdate": "Thu, 10 Oct 2024 01:00:00 +0200"
+    },
+    {
+        "title": "Nations League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Nations%20League",
+        "pubdate": "Thu, 10 Oct 2024 21:00:00 +0200"
     },
     {
         "title": "George Baldock",
@@ -65,8 +65,8 @@
         "pubdate": "Thu, 10 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "Ecuador  Paraguay",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ecuador%20%20Paraguay",
+        "title": "Ecuador - Paraguay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ecuador%20-%20Paraguay",
         "pubdate": "Thu, 10 Oct 2024 23:00:00 +0200"
     },
     {
@@ -90,13 +90,13 @@
         "pubdate": "Thu, 10 Oct 2024 11:00:00 +0200"
     },
     {
-        "title": "Eliminatorias Copa del Mundo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Eliminatorias%20Copa%20del%20Mundo",
-        "pubdate": "Thu, 10 Oct 2024 22:00:00 +0200"
-    },
-    {
         "title": "Outer Banks",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Outer%20Banks",
         "pubdate": "Thu, 10 Oct 2024 00:00:00 +0200"
+    },
+    {
+        "title": "CNN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#CNN",
+        "pubdate": "Thu, 10 Oct 2024 07:00:00 +0200"
     }
 ]
