@@ -5,11 +5,6 @@
         "pubdate": "Sat, 12 Oct 2024 09:00:00 +1300"
     },
     {
-        "title": "America's Cup schedule",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#America's%20Cup%20schedule",
-        "pubdate": "Sat, 12 Oct 2024 08:00:00 +1300"
-    },
-    {
         "title": "England vs Greece",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#England%20vs%20Greece",
         "pubdate": "Fri, 11 Oct 2024 08:00:00 +1300"
@@ -35,11 +30,6 @@
         "pubdate": "Fri, 11 Oct 2024 10:00:00 +1300"
     },
     {
-        "title": "Kylie Minogue",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Kylie%20Minogue",
-        "pubdate": "Fri, 11 Oct 2024 19:00:00 +1300"
-    },
-    {
         "title": "England Football",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#England%20Football",
         "pubdate": "Fri, 11 Oct 2024 10:00:00 +1300"
@@ -53,11 +43,6 @@
         "title": "Lily Ebert",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Lily%20Ebert",
         "pubdate": "Fri, 11 Oct 2024 07:00:00 +1300"
-    },
-    {
-        "title": "England vs Pakistan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#England%20vs%20Pakistan",
-        "pubdate": "Fri, 11 Oct 2024 16:00:00 +1300"
     },
     {
         "title": "Chile vs Brazil",
@@ -80,6 +65,16 @@
         "pubdate": "Fri, 11 Oct 2024 23:00:00 +1300"
     },
     {
+        "title": "England vs Pakistan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#England%20vs%20Pakistan",
+        "pubdate": "Fri, 11 Oct 2024 18:00:00 +1300"
+    },
+    {
+        "title": "Harry Brook",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Harry%20Brook",
+        "pubdate": "Fri, 11 Oct 2024 16:00:00 +1300"
+    },
+    {
         "title": "Yung Filly",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Yung%20Filly",
         "pubdate": "Thu, 10 Oct 2024 19:00:00 +1300"
@@ -98,5 +93,10 @@
         "title": "India vs Bangladesh",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#India%20vs%20Bangladesh",
         "pubdate": "Thu, 10 Oct 2024 05:00:00 +1300"
+    },
+    {
+        "title": "George Baldock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#George%20Baldock",
+        "pubdate": "Thu, 10 Oct 2024 12:00:00 +1300"
     }
 ]
