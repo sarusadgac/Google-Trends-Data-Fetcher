@@ -65,11 +65,6 @@
         "pubdate": "Wed, 09 Oct 2024 22:00:00 +0200"
     },
     {
-        "title": "Sancta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sancta",
-        "pubdate": "Wed, 09 Oct 2024 21:00:00 +0200"
-    },
-    {
         "title": "Milton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Milton",
         "pubdate": "Tue, 08 Oct 2024 10:00:00 +0200"
@@ -98,5 +93,10 @@
         "title": "Hurricane Milton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hurricane%20Milton",
         "pubdate": "Mon, 07 Oct 2024 19:00:00 +0200"
+    },
+    {
+        "title": "Hurrikan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hurrikan",
+        "pubdate": "Mon, 07 Oct 2024 14:00:00 +0200"
     }
 ]

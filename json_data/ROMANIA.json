@@ -45,6 +45,11 @@
         "pubdate": "Thu, 10 Oct 2024 15:00:00 +0300"
     },
     {
+        "title": "Aurora boreala",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Aurora%20boreala",
+        "pubdate": "Thu, 10 Oct 2024 23:00:00 +0300"
+    },
+    {
         "title": "Ratan Tata",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ratan%20Tata",
         "pubdate": "Thu, 10 Oct 2024 00:00:00 +0300"
@@ -70,18 +75,8 @@
         "pubdate": "Thu, 10 Oct 2024 10:00:00 +0300"
     },
     {
-        "title": "Aurora boreala romania",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Aurora%20boreala%20romania",
-        "pubdate": "Thu, 10 Oct 2024 23:00:00 +0300"
-    },
-    {
         "title": "Lefties",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Lefties",
-        "pubdate": "Thu, 10 Oct 2024 11:00:00 +0300"
-    },
-    {
-        "title": "Nelu Tătaru",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Nelu%20T%C4%83taru",
         "pubdate": "Thu, 10 Oct 2024 11:00:00 +0300"
     },
     {
@@ -98,5 +93,10 @@
         "title": "Schengen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Schengen",
         "pubdate": "Thu, 10 Oct 2024 19:00:00 +0300"
+    },
+    {
+        "title": "Victor Rebengiuc",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Victor%20Rebengiuc",
+        "pubdate": "Thu, 10 Oct 2024 21:00:00 +0300"
     }
 ]

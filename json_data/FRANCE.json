@@ -1,5 +1,10 @@
 [
     {
+        "title": "Gerald de Palmas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Gerald%20de%20Palmas",
+        "pubdate": "Fri, 11 Oct 2024 00:00:00 +0200"
+    },
+    {
         "title": "Michel Blanc",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Michel%20Blanc",
         "pubdate": "Thu, 10 Oct 2024 14:00:00 +0200"
@@ -60,19 +65,9 @@
         "pubdate": "Thu, 10 Oct 2024 14:00:00 +0200"
     },
     {
-        "title": "Tariq Ramadan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Tariq%20Ramadan",
-        "pubdate": "Thu, 10 Oct 2024 01:00:00 +0200"
-    },
-    {
         "title": "Martinique",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Martinique",
         "pubdate": "Thu, 10 Oct 2024 17:00:00 +0200"
-    },
-    {
-        "title": "Gérald de Palmas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#G%C3%A9rald%20de%20Palmas",
-        "pubdate": "Thu, 10 Oct 2024 20:00:00 +0200"
     },
     {
         "title": "Aurore boréale",
@@ -85,18 +80,23 @@
         "pubdate": "Thu, 10 Oct 2024 10:00:00 +0200"
     },
     {
-        "title": "Richard Gasquet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Richard%20Gasquet",
-        "pubdate": "Thu, 10 Oct 2024 21:00:00 +0200"
-    },
-    {
         "title": "Christian Clavier",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Christian%20Clavier",
         "pubdate": "Thu, 10 Oct 2024 22:00:00 +0200"
     },
     {
+        "title": "Richard Gasquet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Richard%20Gasquet",
+        "pubdate": "Thu, 10 Oct 2024 21:00:00 +0200"
+    },
+    {
         "title": "Edith Piaf",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Edith%20Piaf",
         "pubdate": "Thu, 10 Oct 2024 21:00:00 +0200"
+    },
+    {
+        "title": "Loic Prigent",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Loic%20Prigent",
+        "pubdate": "Thu, 10 Oct 2024 22:00:00 +0200"
     }
 ]

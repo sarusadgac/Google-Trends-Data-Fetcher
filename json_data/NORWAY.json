@@ -1,17 +1,12 @@
 [
     {
-        "title": "England",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#England",
-        "pubdate": "Fri, 11 Oct 2024 00:00:00 +0200"
-    },
-    {
         "title": "Aurora",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Aurora",
         "pubdate": "Fri, 11 Oct 2024 01:00:00 +0200"
     },
     {
-        "title": "Landskamp Norge",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Landskamp%20Norge",
+        "title": "Haaland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Haaland",
         "pubdate": "Thu, 10 Oct 2024 18:00:00 +0200"
     },
     {
@@ -40,19 +35,24 @@
         "pubdate": "Thu, 10 Oct 2024 11:00:00 +0200"
     },
     {
+        "title": "Ullevål STADION",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ullev%C3%A5l%20STADION",
+        "pubdate": "Thu, 10 Oct 2024 17:00:00 +0200"
+    },
+    {
         "title": "Unifil",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Unifil",
         "pubdate": "Thu, 10 Oct 2024 14:00:00 +0200"
     },
     {
-        "title": "Erika Fatland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Erika%20Fatland",
-        "pubdate": "Thu, 10 Oct 2024 08:00:00 +0200"
-    },
-    {
         "title": "Rafael Nadal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Rafael%20Nadal",
         "pubdate": "Thu, 10 Oct 2024 17:00:00 +0200"
+    },
+    {
+        "title": "Erika Fatland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Erika%20Fatland",
+        "pubdate": "Thu, 10 Oct 2024 08:00:00 +0200"
     },
     {
         "title": "Kathy Bates",
@@ -85,6 +85,11 @@
         "pubdate": "Thu, 10 Oct 2024 15:00:00 +0200"
     },
     {
+        "title": "Tiffany Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tiffany%20Trump",
+        "pubdate": "Thu, 10 Oct 2024 23:00:00 +0200"
+    },
+    {
         "title": "Ethel Kennedy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ethel%20Kennedy",
         "pubdate": "Thu, 10 Oct 2024 21:00:00 +0200"
@@ -93,10 +98,5 @@
         "title": "Kjeller flyplass",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kjeller%20flyplass",
         "pubdate": "Thu, 10 Oct 2024 09:00:00 +0200"
-    },
-    {
-        "title": "Tiffany Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tiffany%20Trump",
-        "pubdate": "Thu, 10 Oct 2024 23:00:00 +0200"
     }
 ]
