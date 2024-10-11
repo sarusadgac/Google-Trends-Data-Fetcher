@@ -45,6 +45,11 @@
         "pubdate": "Thu, 10 Oct 2024 19:00:00 +0200"
     },
     {
+        "title": "Hausrotschwanz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hausrotschwanz",
+        "pubdate": "Thu, 10 Oct 2024 17:00:00 +0200"
+    },
+    {
         "title": "Hurrikan Milton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hurrikan%20Milton",
         "pubdate": "Wed, 09 Oct 2024 15:00:00 +0200"
@@ -93,10 +98,5 @@
         "title": "Hurrikan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hurrikan",
         "pubdate": "Mon, 07 Oct 2024 14:00:00 +0200"
-    },
-    {
-        "title": "Schwerin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schwerin",
-        "pubdate": "Sun, 06 Oct 2024 13:00:00 +0200"
     }
 ]

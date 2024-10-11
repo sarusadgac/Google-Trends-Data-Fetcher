@@ -20,11 +20,6 @@
         "pubdate": "Thu, 10 Oct 2024 08:00:00 -0500"
     },
     {
-        "title": "Tabla de posiciones Eliminatorias 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Tabla%20de%20posiciones%20Eliminatorias%202024",
-        "pubdate": "Thu, 10 Oct 2024 17:00:00 -0500"
-    },
-    {
         "title": "Nations League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Nations%20League",
         "pubdate": "Thu, 10 Oct 2024 11:00:00 -0500"
@@ -98,5 +93,10 @@
         "title": "Rafael Nadal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Rafael%20Nadal",
         "pubdate": "Thu, 10 Oct 2024 11:00:00 -0500"
+    },
+    {
+        "title": "TV EN VIVO",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#TV%20EN%20VIVO",
+        "pubdate": "Thu, 10 Oct 2024 16:00:00 -0500"
     }
 ]

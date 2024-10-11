@@ -75,6 +75,11 @@
         "pubdate": "Thu, 10 Oct 2024 14:00:00 +0200"
     },
     {
+        "title": "Eliminatorias Copa del Mundo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Eliminatorias%20Copa%20del%20Mundo",
+        "pubdate": "Thu, 10 Oct 2024 22:00:00 +0200"
+    },
+    {
         "title": "Berto Romero",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Berto%20Romero",
         "pubdate": "Thu, 10 Oct 2024 23:00:00 +0200"
@@ -93,10 +98,5 @@
         "title": "Outer Banks",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Outer%20Banks",
         "pubdate": "Thu, 10 Oct 2024 00:00:00 +0200"
-    },
-    {
-        "title": "CNN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#CNN",
-        "pubdate": "Thu, 10 Oct 2024 07:00:00 +0200"
     }
 ]
