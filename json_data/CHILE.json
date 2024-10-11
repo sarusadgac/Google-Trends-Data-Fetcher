@@ -1,10 +1,5 @@
 [
     {
-        "title": "Novak Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Novak%20Djokovic",
-        "pubdate": "Fri, 11 Oct 2024 11:00:00 -0300"
-    },
-    {
         "title": "Dragon Ball Daima",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Dragon%20Ball%20Daima",
         "pubdate": "Fri, 11 Oct 2024 12:00:00 -0300"
@@ -20,6 +15,16 @@
         "pubdate": "Fri, 11 Oct 2024 00:00:00 -0300"
     },
     {
+        "title": "El Taiger",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#El%20Taiger",
+        "pubdate": "Fri, 11 Oct 2024 14:00:00 -0300"
+    },
+    {
+        "title": "Uruguay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Uruguay",
+        "pubdate": "Fri, 11 Oct 2024 14:00:00 -0300"
+    },
+    {
         "title": "Vinicius",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Vinicius",
         "pubdate": "Fri, 11 Oct 2024 08:00:00 -0300"
@@ -28,11 +33,6 @@
         "title": "Bolivia  Colombia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Bolivia%20%20Colombia",
         "pubdate": "Thu, 10 Oct 2024 08:00:00 -0300"
-    },
-    {
-        "title": "Chile",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Chile",
-        "pubdate": "Thu, 10 Oct 2024 18:00:00 -0300"
     },
     {
         "title": "Tabla de posiciones Eliminatorias 2024",
@@ -55,14 +55,19 @@
         "pubdate": "Thu, 10 Oct 2024 18:00:00 -0300"
     },
     {
+        "title": "Partidos hoy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Partidos%20hoy",
+        "pubdate": "Thu, 10 Oct 2024 17:00:00 -0300"
+    },
+    {
         "title": "Inglaterra  Grecia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Inglaterra%20%20Grecia",
         "pubdate": "Thu, 10 Oct 2024 16:00:00 -0300"
     },
     {
-        "title": "Partidos hoy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Partidos%20hoy",
-        "pubdate": "Thu, 10 Oct 2024 17:00:00 -0300"
+        "title": "Rafael Nadal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Rafael%20Nadal",
+        "pubdate": "Thu, 10 Oct 2024 10:00:00 -0300"
     },
     {
         "title": "Italia - Bélgica",
@@ -75,19 +80,9 @@
         "pubdate": "Thu, 10 Oct 2024 18:00:00 -0300"
     },
     {
-        "title": "Rafael Nadal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Rafael%20Nadal",
-        "pubdate": "Thu, 10 Oct 2024 10:00:00 -0300"
-    },
-    {
         "title": "Carlos Alcaraz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Carlos%20Alcaraz",
         "pubdate": "Thu, 10 Oct 2024 12:00:00 -0300"
-    },
-    {
-        "title": "Chile y Brasil",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Chile%20y%20Brasil",
-        "pubdate": "Thu, 10 Oct 2024 22:00:00 -0300"
     },
     {
         "title": "Marcianeke",
@@ -98,5 +93,10 @@
         "title": "Han Kang",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Han%20Kang",
         "pubdate": "Thu, 10 Oct 2024 10:00:00 -0300"
+    },
+    {
+        "title": "Chile y Brasil",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Chile%20y%20Brasil",
+        "pubdate": "Thu, 10 Oct 2024 22:00:00 -0300"
     }
 ]
