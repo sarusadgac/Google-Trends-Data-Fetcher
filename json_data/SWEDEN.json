@@ -5,8 +5,8 @@
         "pubdate": "Thu, 10 Oct 2024 08:00:00 +0200"
     },
     {
-        "title": "SL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#SL",
+        "title": "Sl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sl",
         "pubdate": "Thu, 10 Oct 2024 09:00:00 +0200"
     },
     {
@@ -18,6 +18,11 @@
         "title": "George Baldock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#George%20Baldock",
         "pubdate": "Thu, 10 Oct 2024 00:00:00 +0200"
+    },
+    {
+        "title": "Nations League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Nations%20League",
+        "pubdate": "Thu, 10 Oct 2024 22:00:00 +0200"
     },
     {
         "title": "Lisa Nilsson",
@@ -90,13 +95,8 @@
         "pubdate": "Wed, 09 Oct 2024 16:00:00 +0200"
     },
     {
-        "title": "Sollentuna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sollentuna",
-        "pubdate": "Wed, 09 Oct 2024 15:00:00 +0200"
-    },
-    {
-        "title": "Strul",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Strul",
-        "pubdate": "Wed, 09 Oct 2024 20:00:00 +0200"
+        "title": "Sollentuna centrum",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sollentuna%20centrum",
+        "pubdate": "Wed, 09 Oct 2024 13:00:00 +0200"
     }
 ]
