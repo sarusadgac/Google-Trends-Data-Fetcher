@@ -35,6 +35,11 @@
         "pubdate": "Thu, 10 Oct 2024 18:00:00 +0200"
     },
     {
+        "title": "Art Rooijakkers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Art%20Rooijakkers",
+        "pubdate": "Thu, 10 Oct 2024 22:00:00 +0200"
+    },
+    {
         "title": "Andre Hazes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Andre%20Hazes",
         "pubdate": "Wed, 09 Oct 2024 19:00:00 +0200"
@@ -93,10 +98,5 @@
         "title": "Girona Feyenoord",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Girona%20Feyenoord",
         "pubdate": "Wed, 02 Oct 2024 01:00:00 +0200"
-    },
-    {
-        "title": "Leidens Ontzet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Leidens%20Ontzet",
-        "pubdate": "Wed, 02 Oct 2024 20:00:00 +0200"
     }
 ]
