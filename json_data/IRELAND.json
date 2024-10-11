@@ -15,14 +15,14 @@
         "pubdate": "Fri, 11 Oct 2024 08:00:00 +0100"
     },
     {
-        "title": "Aurora boreal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Aurora%20boreal",
-        "pubdate": "Fri, 11 Oct 2024 11:00:00 +0100"
-    },
-    {
         "title": "Nations League games",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Nations%20League%20games",
         "pubdate": "Fri, 11 Oct 2024 11:00:00 +0100"
+    },
+    {
+        "title": "Aurora ireland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Aurora%20ireland",
+        "pubdate": "Fri, 11 Oct 2024 12:00:00 +0100"
     },
     {
         "title": "Ireland v Finland",
@@ -85,6 +85,11 @@
         "pubdate": "Thu, 10 Oct 2024 12:00:00 +0100"
     },
     {
+        "title": "England Football",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#England%20Football",
+        "pubdate": "Thu, 10 Oct 2024 21:00:00 +0100"
+    },
+    {
         "title": "England",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#England",
         "pubdate": "Thu, 10 Oct 2024 21:00:00 +0100"
@@ -93,10 +98,5 @@
         "title": "Andrew Schulz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Andrew%20Schulz",
         "pubdate": "Thu, 10 Oct 2024 10:00:00 +0100"
-    },
-    {
-        "title": "Liam Scales",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Liam%20Scales",
-        "pubdate": "Thu, 10 Oct 2024 22:00:00 +0100"
     }
 ]

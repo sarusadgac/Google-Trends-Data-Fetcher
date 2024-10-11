@@ -5,6 +5,21 @@
         "pubdate": "Fri, 11 Oct 2024 02:00:00 +0200"
     },
     {
+        "title": "Novak Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Novak%20Djokovic",
+        "pubdate": "Fri, 11 Oct 2024 15:00:00 +0200"
+    },
+    {
+        "title": "José Luis Ábalos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Jos%C3%A9%20Luis%20%C3%81balos",
+        "pubdate": "Fri, 11 Oct 2024 09:00:00 +0200"
+    },
+    {
+        "title": "Horarios Mercadona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Horarios%20Mercadona",
+        "pubdate": "Fri, 11 Oct 2024 15:00:00 +0200"
+    },
+    {
         "title": "United Airlines",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#United%20Airlines",
         "pubdate": "Fri, 11 Oct 2024 00:00:00 +0200"
@@ -30,6 +45,21 @@
         "pubdate": "Fri, 11 Oct 2024 14:00:00 +0200"
     },
     {
+        "title": "Aurora boreal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Aurora%20boreal",
+        "pubdate": "Fri, 11 Oct 2024 15:00:00 +0200"
+    },
+    {
+        "title": "El Tiger",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#El%20Tiger",
+        "pubdate": "Fri, 11 Oct 2024 15:00:00 +0200"
+    },
+    {
+        "title": "Bolivia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Bolivia",
+        "pubdate": "Fri, 11 Oct 2024 15:00:00 +0200"
+    },
+    {
         "title": "Rafa Nadal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Rafa%20Nadal",
         "pubdate": "Thu, 10 Oct 2024 12:00:00 +0200"
@@ -50,14 +80,14 @@
         "pubdate": "Thu, 10 Oct 2024 16:00:00 +0200"
     },
     {
-        "title": "Han Kang",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Han%20Kang",
-        "pubdate": "Thu, 10 Oct 2024 14:00:00 +0200"
-    },
-    {
         "title": "El Taiger",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#El%20Taiger",
         "pubdate": "Thu, 10 Oct 2024 20:00:00 +0200"
+    },
+    {
+        "title": "Han Kang",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Han%20Kang",
+        "pubdate": "Thu, 10 Oct 2024 14:00:00 +0200"
     },
     {
         "title": "Rey Carlos III",
@@ -68,35 +98,5 @@
         "title": "Mateo Joseph",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Mateo%20Joseph",
         "pubdate": "Thu, 10 Oct 2024 20:00:00 +0200"
-    },
-    {
-        "title": "Ecuador - Paraguay",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ecuador%20-%20Paraguay",
-        "pubdate": "Thu, 10 Oct 2024 23:00:00 +0200"
-    },
-    {
-        "title": "Abalos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Abalos",
-        "pubdate": "Thu, 10 Oct 2024 18:00:00 +0200"
-    },
-    {
-        "title": "Euroliga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Euroliga",
-        "pubdate": "Thu, 10 Oct 2024 01:00:00 +0200"
-    },
-    {
-        "title": "George Baldock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#George%20Baldock",
-        "pubdate": "Thu, 10 Oct 2024 00:00:00 +0200"
-    },
-    {
-        "title": "Inglaterra  Grecia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Inglaterra%20%20Grecia",
-        "pubdate": "Thu, 10 Oct 2024 21:00:00 +0200"
-    },
-    {
-        "title": "Italia - Bélgica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Italia%20-%20B%C3%A9lgica",
-        "pubdate": "Thu, 10 Oct 2024 21:00:00 +0200"
     }
 ]

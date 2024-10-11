@@ -2,7 +2,12 @@
     {
         "title": "Chile vs Brazil",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Chile%20vs%20Brazil",
-        "pubdate": "Fri, 11 Oct 2024 03:00:00 +0200"
+        "pubdate": "Fri, 11 Oct 2024 00:00:00 +0200"
+    },
+    {
+        "title": "Bafana Bafana",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bafana%20Bafana",
+        "pubdate": "Fri, 11 Oct 2024 10:00:00 +0200"
     },
     {
         "title": "Mohammed Hijab",
@@ -32,7 +37,7 @@
     {
         "title": "England vs Greece",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#England%20vs%20Greece",
-        "pubdate": "Thu, 10 Oct 2024 02:00:00 +0200"
+        "pubdate": "Thu, 10 Oct 2024 20:00:00 +0200"
     },
     {
         "title": "Venezuela vs Argentina",
@@ -65,14 +70,19 @@
         "pubdate": "Thu, 10 Oct 2024 21:00:00 +0200"
     },
     {
-        "title": "Afcon qualifiers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Afcon%20qualifiers",
-        "pubdate": "Thu, 10 Oct 2024 17:00:00 +0200"
+        "title": "George Baldock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#George%20Baldock",
+        "pubdate": "Thu, 10 Oct 2024 02:00:00 +0200"
     },
     {
         "title": "Lily Ebert",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Lily%20Ebert",
         "pubdate": "Thu, 10 Oct 2024 10:00:00 +0200"
+    },
+    {
+        "title": "Afcon qualifiers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Afcon%20qualifiers",
+        "pubdate": "Thu, 10 Oct 2024 17:00:00 +0200"
     },
     {
         "title": "Aaron Pierre",
@@ -88,15 +98,5 @@
         "title": "France",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#France",
         "pubdate": "Thu, 10 Oct 2024 22:00:00 +0200"
-    },
-    {
-        "title": "Tom Cruise",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Tom%20Cruise",
-        "pubdate": "Thu, 10 Oct 2024 21:00:00 +0200"
-    },
-    {
-        "title": "Outer Banks",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Outer%20Banks",
-        "pubdate": "Thu, 10 Oct 2024 17:00:00 +0200"
     }
 ]
