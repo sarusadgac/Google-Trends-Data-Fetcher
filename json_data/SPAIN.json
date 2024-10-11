@@ -90,13 +90,13 @@
         "pubdate": "Thu, 10 Oct 2024 11:00:00 +0200"
     },
     {
-        "title": "Outer Banks",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Outer%20Banks",
-        "pubdate": "Thu, 10 Oct 2024 00:00:00 +0200"
-    },
-    {
         "title": "Eliminatorias Copa del Mundo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Eliminatorias%20Copa%20del%20Mundo",
         "pubdate": "Thu, 10 Oct 2024 22:00:00 +0200"
+    },
+    {
+        "title": "Outer Banks",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Outer%20Banks",
+        "pubdate": "Thu, 10 Oct 2024 00:00:00 +0200"
     }
 ]
