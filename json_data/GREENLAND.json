@@ -1,20 +1,5 @@
 [
     {
-        "title": "Tesla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tesla",
-        "pubdate": "Fri, 11 Oct 2024 09:00:00 +0200"
-    },
-    {
-        "title": "Chili – Brésil",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Chili%20%E2%80%93%20Br%C3%A9sil",
-        "pubdate": "Fri, 11 Oct 2024 07:00:00 +0200"
-    },
-    {
-        "title": "太陽風暴",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%A4%AA%E9%99%BD%E9%A2%A8%E6%9A%B4",
-        "pubdate": "Fri, 11 Oct 2024 12:00:00 +0800"
-    },
-    {
         "title": "ドラえもん",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%89%E3%83%A9%E3%81%88%E3%82%82%E3%82%93",
         "pubdate": "Fri, 11 Oct 2024 14:00:00 +0900"
@@ -25,14 +10,14 @@
         "pubdate": "Fri, 11 Oct 2024 09:30:00 +0530"
     },
     {
-        "title": "Saka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Saka",
-        "pubdate": "Fri, 11 Oct 2024 00:00:00 +0100"
+        "title": "Tesla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Tesla",
+        "pubdate": "Fri, 11 Oct 2024 09:00:00 +0100"
     },
     {
-        "title": "Ethel Kennedy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ethel%20Kennedy",
-        "pubdate": "Fri, 11 Oct 2024 05:00:00 -0700"
+        "title": "太陽風暴",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%A4%AA%E9%99%BD%E9%A2%A8%E6%9A%B4",
+        "pubdate": "Fri, 11 Oct 2024 12:00:00 +0800"
     },
     {
         "title": "11 октября праздник",
@@ -40,39 +25,34 @@
         "pubdate": "Fri, 11 Oct 2024 01:00:00 +0300"
     },
     {
-        "title": "Venezuela vs Argentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Venezuela%20vs%20Argentina",
-        "pubdate": "Fri, 11 Oct 2024 01:00:00 +0700"
+        "title": "Ethel Kennedy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ethel%20Kennedy",
+        "pubdate": "Fri, 11 Oct 2024 05:00:00 -0700"
     },
     {
-        "title": "Kísértés",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#K%C3%ADs%C3%A9rt%C3%A9s",
-        "pubdate": "Fri, 11 Oct 2024 12:00:00 +0200"
+        "title": "Chili – Brésil",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Chili%20%E2%80%93%20Br%C3%A9sil",
+        "pubdate": "Fri, 11 Oct 2024 07:00:00 +0200"
     },
     {
-        "title": "Mary de Danemark",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mary%20de%20Danemark",
-        "pubdate": "Fri, 11 Oct 2024 08:00:00 +0200"
+        "title": "Marianne Rosenberg!",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Marianne%20Rosenberg!",
+        "pubdate": "Fri, 11 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "Palacios",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Palacios",
-        "pubdate": "Fri, 11 Oct 2024 00:00:00 -0300"
+        "title": "England vs Greece",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#England%20vs%20Greece",
+        "pubdate": "Fri, 11 Oct 2024 08:00:00 +1300"
     },
     {
-        "title": "Aaron Connolly",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Aaron%20Connolly",
-        "pubdate": "Fri, 11 Oct 2024 00:00:00 +0100"
+        "title": "Chile  Brasil",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Chile%20%20Brasil",
+        "pubdate": "Fri, 11 Oct 2024 01:00:00 +0100"
     },
     {
-        "title": "England",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#England",
-        "pubdate": "Fri, 11 Oct 2024 08:00:00 +0800"
-    },
-    {
-        "title": "Rojin Kabaiş başörtüsü",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Rojin%20Kabai%C5%9F%20ba%C5%9F%C3%B6rt%C3%BCs%C3%BC",
-        "pubdate": "Fri, 11 Oct 2024 01:00:00 +0300"
+        "title": "Lakers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lakers",
+        "pubdate": "Fri, 11 Oct 2024 01:00:00 -0400"
     },
     {
         "title": "Kiedy Zmiana czasu na zimowy",
@@ -80,9 +60,19 @@
         "pubdate": "Fri, 11 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "Niente panico Ghali",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Niente%20panico%20Ghali",
-        "pubdate": "Fri, 11 Oct 2024 07:00:00 +0200"
+        "title": "فنزويلا ضد الأرجنتين",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=EG#%D9%81%D9%86%D8%B2%D9%88%D9%8A%D9%84%D8%A7%20%D8%B6%D8%AF%20%D8%A7%D9%84%D8%A3%D8%B1%D8%AC%D9%86%D8%AA%D9%8A%D9%86",
+        "pubdate": "Fri, 11 Oct 2024 00:00:00 +0300"
+    },
+    {
+        "title": "特斯拉",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E7%89%B9%E6%96%AF%E6%8B%89",
+        "pubdate": "Fri, 11 Oct 2024 01:00:00 +0800"
+    },
+    {
+        "title": "Martín Insaurralde",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Mart%C3%ADn%20Insaurralde",
+        "pubdate": "Fri, 11 Oct 2024 00:00:00 -0300"
     },
     {
         "title": "Vladimir Putin",
@@ -90,13 +80,23 @@
         "pubdate": "Fri, 11 Oct 2024 16:00:00 +0800"
     },
     {
-        "title": "Polární záře",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Pol%C3%A1rn%C3%AD%20z%C3%A1%C5%99e",
-        "pubdate": "Fri, 11 Oct 2024 00:00:00 +0200"
+        "title": "Chile vs Brazil",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Chile%20vs%20Brazil",
+        "pubdate": "Fri, 11 Oct 2024 03:00:00 +0200"
     },
     {
-        "title": "特斯拉",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E7%89%B9%E6%96%AF%E6%8B%89",
-        "pubdate": "Fri, 11 Oct 2024 01:00:00 +0800"
+        "title": "Venezuela vs Argentina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Venezuela%20vs%20Argentina",
+        "pubdate": "Fri, 11 Oct 2024 00:00:00 +0300"
+    },
+    {
+        "title": "Aurora",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Aurora",
+        "pubdate": "Fri, 11 Oct 2024 10:00:00 +1100"
+    },
+    {
+        "title": "Haaland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Haaland",
+        "pubdate": "Fri, 11 Oct 2024 12:00:00 +0200"
     }
 ]
