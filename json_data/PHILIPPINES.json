@@ -1,10 +1,5 @@
 [
     {
-        "title": "Lakers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Lakers",
-        "pubdate": "Fri, 11 Oct 2024 12:00:00 +0800"
-    },
-    {
         "title": "Bucks vs Lakers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Bucks%20vs%20Lakers",
         "pubdate": "Fri, 11 Oct 2024 10:00:00 +0800"
@@ -20,11 +15,6 @@
         "pubdate": "Fri, 11 Oct 2024 01:00:00 +0800"
     },
     {
-        "title": "LANY",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#LANY",
-        "pubdate": "Fri, 11 Oct 2024 14:00:00 +0800"
-    },
-    {
         "title": "Aurora borealis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Aurora%20borealis",
         "pubdate": "Fri, 11 Oct 2024 13:00:00 +0800"
@@ -33,6 +23,11 @@
         "title": "Yung Filly",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Yung%20Filly",
         "pubdate": "Fri, 11 Oct 2024 03:00:00 +0800"
+    },
+    {
+        "title": "Dallas Mavericks",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Dallas%20Mavericks",
+        "pubdate": "Fri, 11 Oct 2024 11:00:00 +0800"
     },
     {
         "title": "Han Kang",
@@ -48,6 +43,11 @@
         "title": "Danny Green",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Danny%20Green",
         "pubdate": "Fri, 11 Oct 2024 07:00:00 +0800"
+    },
+    {
+        "title": "Apollo Quiboloy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Apollo%20Quiboloy",
+        "pubdate": "Fri, 11 Oct 2024 11:00:00 +0800"
     },
     {
         "title": "Caroline Calloway",
@@ -68,11 +68,6 @@
         "title": "Angelina Jolie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Angelina%20Jolie",
         "pubdate": "Fri, 11 Oct 2024 11:00:00 +0800"
-    },
-    {
-        "title": "Klay Thompson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Klay%20Thompson",
-        "pubdate": "Fri, 11 Oct 2024 13:00:00 +0800"
     },
     {
         "title": "Lotto result October 10, 2024",
@@ -98,5 +93,10 @@
         "title": "Wiccan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Wiccan",
         "pubdate": "Thu, 10 Oct 2024 20:00:00 +0800"
+    },
+    {
+        "title": "Spurs vs Magic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Spurs%20vs%20Magic",
+        "pubdate": "Thu, 10 Oct 2024 11:00:00 +0800"
     }
 ]
