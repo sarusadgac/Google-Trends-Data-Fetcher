@@ -1,20 +1,5 @@
 [
     {
-        "title": "Lukas Podolski",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Lukas%20Podolski",
-        "pubdate": "Fri, 11 Oct 2024 21:00:00 +0200"
-    },
-    {
-        "title": "Selena Gomez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Selena%20Gomez",
-        "pubdate": "Sat, 12 Oct 2024 00:00:00 +0100"
-    },
-    {
-        "title": "Padres vs Dodgers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Padres%20vs%20Dodgers",
-        "pubdate": "Fri, 11 Oct 2024 20:00:00 -0700"
-    },
-    {
         "title": "Бивол Бетербиев",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%91%D0%B8%D0%B2%D0%BE%D0%BB%20%D0%91%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D0%B8%D0%B5%D0%B2",
         "pubdate": "Fri, 11 Oct 2024 20:00:00 +0300"
@@ -30,73 +15,88 @@
         "pubdate": "Sat, 12 Oct 2024 04:30:00 +0530"
     },
     {
-        "title": "Equipe de France",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Equipe%20de%20France",
-        "pubdate": "Fri, 11 Oct 2024 00:00:00 +0200"
-    },
-    {
         "title": "ドラゴンボールDAIMA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%ABDAIMA",
         "pubdate": "Sat, 12 Oct 2024 00:00:00 +0900"
     },
     {
-        "title": "Nana Mouskouri",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Nana%20Mouskouri",
-        "pubdate": "Sat, 12 Oct 2024 00:00:00 +0200"
-    },
-    {
-        "title": "影視颶風",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%BD%B1%E8%A6%96%E9%A2%B6%E9%A2%A8",
-        "pubdate": "Sat, 12 Oct 2024 01:00:00 +0800"
-    },
-    {
-        "title": "Sandy Irvine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Sandy%20Irvine",
-        "pubdate": "Sat, 12 Oct 2024 00:00:00 +0800"
-    },
-    {
-        "title": "Ticketmaster",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ticketmaster",
-        "pubdate": "Fri, 11 Oct 2024 12:00:00 -0400"
-    },
-    {
-        "title": "Mount Everest",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Mount%20Everest",
-        "pubdate": "Sat, 12 Oct 2024 00:00:00 +0200"
-    },
-    {
-        "title": "Zbigniew Ziobro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Zbigniew%20Ziobro",
-        "pubdate": "Sat, 12 Oct 2024 00:00:00 +0200"
-    },
-    {
-        "title": "Paul Moody",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Paul%20Moody",
+        "title": "Selena Gomez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Selena%20Gomez",
         "pubdate": "Sat, 12 Oct 2024 00:00:00 +0100"
     },
     {
-        "title": "Iman Meskini",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Iman%20Meskini",
+        "title": "Dodgers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dodgers",
+        "pubdate": "Fri, 11 Oct 2024 20:00:00 -0700"
+    },
+    {
+        "title": "Equipe de France",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Equipe%20de%20France",
+        "pubdate": "Fri, 11 Oct 2024 00:00:00 +0200"
+    },
+    {
+        "title": "Lukas Podolski",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Lukas%20Podolski",
+        "pubdate": "Fri, 11 Oct 2024 21:00:00 +0200"
+    },
+    {
+        "title": "Robot salvaje",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Robot%20salvaje",
         "pubdate": "Sat, 12 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "Yom Kippur",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Yom%20Kippur",
-        "pubdate": "Sat, 12 Oct 2024 01:00:00 +0300"
+        "title": "América  Millonarios",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Am%C3%A9rica%20%20Millonarios",
+        "pubdate": "Fri, 11 Oct 2024 17:00:00 -0500"
     },
     {
-        "title": "Arda Güler",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Arda%20G%C3%BCler",
+        "title": "Anna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Anna",
+        "pubdate": "Sat, 12 Oct 2024 00:00:00 +0200"
+    },
+    {
+        "title": "Mount Everest",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Mount%20Everest",
+        "pubdate": "Sat, 12 Oct 2024 00:00:00 +0800"
+    },
+    {
+        "title": "Barack Obama",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Barack%20Obama",
+        "pubdate": "Sat, 12 Oct 2024 01:00:00 +0200"
+    },
+    {
+        "title": "Nederland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nederland",
+        "pubdate": "Fri, 11 Oct 2024 19:00:00 +0200"
+    },
+    {
+        "title": "Hungary vs Netherlands",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Hungary%20vs%20Netherlands",
+        "pubdate": "Sat, 12 Oct 2024 04:00:00 +0800"
+    },
+    {
+        "title": "Dussehra 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Dussehra%202024",
+        "pubdate": "Sat, 12 Oct 2024 12:00:00 +1300"
+    },
+    {
+        "title": "Bombers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bombers",
+        "pubdate": "Sat, 12 Oct 2024 00:00:00 -0400"
+    },
+    {
+        "title": "Venezuela vs Argentina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Venezuela%20vs%20Argentina",
+        "pubdate": "Fri, 11 Oct 2024 00:00:00 +0300"
+    },
+    {
+        "title": "تونس ضد جزر القمر",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=EG#%D8%AA%D9%88%D9%86%D8%B3%20%D8%B6%D8%AF%20%D8%AC%D8%B2%D8%B1%20%D8%A7%D9%84%D9%82%D9%85%D8%B1",
         "pubdate": "Sat, 12 Oct 2024 00:00:00 +0300"
     },
     {
-        "title": "Hungría - Países Bajos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Hungr%C3%ADa%20-%20Pa%C3%ADses%20Bajos",
-        "pubdate": "Fri, 11 Oct 2024 14:00:00 -0500"
-    },
-    {
-        "title": "Polární záře",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Pol%C3%A1rn%C3%AD%20z%C3%A1%C5%99e",
-        "pubdate": "Fri, 11 Oct 2024 00:00:00 +0200"
+        "title": "Westfield Doncaster",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Westfield%20Doncaster",
+        "pubdate": "Sat, 12 Oct 2024 12:00:00 +1100"
     }
 ]
