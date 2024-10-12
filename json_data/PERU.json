@@ -65,14 +65,14 @@
         "pubdate": "Fri, 11 Oct 2024 22:00:00 -0500"
     },
     {
-        "title": "Macarena Al fondo hay sitio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Macarena%20Al%20fondo%20hay%20sitio",
-        "pubdate": "Fri, 11 Oct 2024 02:00:00 -0500"
-    },
-    {
         "title": "Piero Quispe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Piero%20Quispe",
         "pubdate": "Fri, 11 Oct 2024 23:00:00 -0500"
+    },
+    {
+        "title": "Macarena Al fondo hay sitio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Macarena%20Al%20fondo%20hay%20sitio",
+        "pubdate": "Fri, 11 Oct 2024 02:00:00 -0500"
     },
     {
         "title": "Christopher Reeve",
@@ -85,11 +85,6 @@
         "pubdate": "Fri, 11 Oct 2024 03:00:00 -0500"
     },
     {
-        "title": "America",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#America",
-        "pubdate": "Fri, 11 Oct 2024 21:00:00 -0500"
-    },
-    {
         "title": "Ricardo Gareca",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Ricardo%20Gareca",
         "pubdate": "Fri, 11 Oct 2024 02:00:00 -0500"
@@ -98,5 +93,10 @@
         "title": "Soteldo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Soteldo",
         "pubdate": "Fri, 11 Oct 2024 12:00:00 -0500"
+    },
+    {
+        "title": "Novak Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Novak%20Djokovic",
+        "pubdate": "Fri, 11 Oct 2024 09:00:00 -0500"
     }
 ]
