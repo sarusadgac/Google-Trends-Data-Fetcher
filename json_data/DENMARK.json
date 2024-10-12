@@ -1,5 +1,10 @@
 [
     {
+        "title": "Lonely Planet film",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Lonely%20Planet%20film",
+        "pubdate": "Sat, 12 Oct 2024 01:00:00 +0200"
+    },
+    {
         "title": "Anna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Anna",
         "pubdate": "Sat, 12 Oct 2024 00:00:00 +0200"
@@ -70,6 +75,11 @@
         "pubdate": "Fri, 11 Oct 2024 20:00:00 +0200"
     },
     {
+        "title": "Saturday Night Fever",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Saturday%20Night%20Fever",
+        "pubdate": "Fri, 11 Oct 2024 22:00:00 +0200"
+    },
+    {
         "title": "Nations League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Nations%20League",
         "pubdate": "Thu, 10 Oct 2024 21:00:00 +0200"
@@ -88,15 +98,5 @@
         "title": "Han Kang",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Han%20Kang",
         "pubdate": "Thu, 10 Oct 2024 14:00:00 +0200"
-    },
-    {
-        "title": "Yung Filly",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Yung%20Filly",
-        "pubdate": "Thu, 10 Oct 2024 12:00:00 +0200"
-    },
-    {
-        "title": "My home",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#My%20home",
-        "pubdate": "Thu, 10 Oct 2024 23:00:00 +0200"
     }
 ]

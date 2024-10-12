@@ -25,19 +25,14 @@
         "pubdate": "Fri, 11 Oct 2024 09:00:00 -0700"
     },
     {
-        "title": "Yu Darvish",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Yu%20Darvish",
-        "pubdate": "Fri, 11 Oct 2024 18:00:00 -0700"
+        "title": "Deion Sanders",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Deion%20Sanders",
+        "pubdate": "Fri, 11 Oct 2024 12:00:00 -0700"
     },
     {
         "title": "Obama",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Obama",
         "pubdate": "Fri, 11 Oct 2024 04:00:00 -0700"
-    },
-    {
-        "title": "Deion Sanders",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Deion%20Sanders",
-        "pubdate": "Fri, 11 Oct 2024 12:00:00 -0700"
     },
     {
         "title": "Disclaimer",
@@ -65,14 +60,14 @@
         "pubdate": "Fri, 11 Oct 2024 08:00:00 -0700"
     },
     {
-        "title": "Northwestern football",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Northwestern%20football",
-        "pubdate": "Fri, 11 Oct 2024 18:00:00 -0700"
-    },
-    {
         "title": "ASU football",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#ASU%20football",
         "pubdate": "Fri, 11 Oct 2024 21:00:00 -0700"
+    },
+    {
+        "title": "Northwestern football",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Northwestern%20football",
+        "pubdate": "Fri, 11 Oct 2024 18:00:00 -0700"
     },
     {
         "title": "Piece by Piece",
@@ -98,5 +93,10 @@
         "title": "Flyers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Flyers",
         "pubdate": "Fri, 11 Oct 2024 21:00:00 -0700"
+    },
+    {
+        "title": "Boeing",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Boeing",
+        "pubdate": "Fri, 11 Oct 2024 18:00:00 -0700"
     }
 ]

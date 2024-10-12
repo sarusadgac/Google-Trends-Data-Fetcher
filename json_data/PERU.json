@@ -10,11 +10,6 @@
         "pubdate": "Sat, 12 Oct 2024 00:00:00 -0500"
     },
     {
-        "title": "Nahitan Nández",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Nahitan%20N%C3%A1ndez",
-        "pubdate": "Sat, 12 Oct 2024 01:00:00 -0500"
-    },
-    {
         "title": "Hungría - Países Bajos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Hungr%C3%ADa%20-%20Pa%C3%ADses%20Bajos",
         "pubdate": "Fri, 11 Oct 2024 14:00:00 -0500"
@@ -43,6 +38,11 @@
         "title": "Dia de la Niña",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Dia%20de%20la%20Ni%C3%B1a",
         "pubdate": "Fri, 11 Oct 2024 03:00:00 -0500"
+    },
+    {
+        "title": "Yape",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Yape",
+        "pubdate": "Fri, 11 Oct 2024 20:00:00 -0500"
     },
     {
         "title": "Harvey Colchado",
@@ -95,8 +95,8 @@
         "pubdate": "Fri, 11 Oct 2024 02:00:00 -0500"
     },
     {
-        "title": "Novak Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Novak%20Djokovic",
-        "pubdate": "Fri, 11 Oct 2024 09:00:00 -0500"
+        "title": "Soteldo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Soteldo",
+        "pubdate": "Fri, 11 Oct 2024 12:00:00 -0500"
     }
 ]
