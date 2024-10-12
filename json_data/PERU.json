@@ -1,5 +1,20 @@
 [
     {
+        "title": "Edison Flores",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Edison%20Flores",
+        "pubdate": "Sat, 12 Oct 2024 01:00:00 -0500"
+    },
+    {
+        "title": "Valverde",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Valverde",
+        "pubdate": "Sat, 12 Oct 2024 00:00:00 -0500"
+    },
+    {
+        "title": "Nahitan Nández",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Nahitan%20N%C3%A1ndez",
+        "pubdate": "Sat, 12 Oct 2024 01:00:00 -0500"
+    },
+    {
         "title": "Hungría - Países Bajos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Hungr%C3%ADa%20-%20Pa%C3%ADses%20Bajos",
         "pubdate": "Fri, 11 Oct 2024 14:00:00 -0500"
@@ -8,6 +23,11 @@
         "title": "APEC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#APEC",
         "pubdate": "Fri, 11 Oct 2024 09:00:00 -0500"
+    },
+    {
+        "title": "Peru vs Brasil",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Peru%20vs%20Brasil",
+        "pubdate": "Fri, 11 Oct 2024 10:00:00 -0500"
     },
     {
         "title": "Dragon Ball Daima",
@@ -25,28 +45,23 @@
         "pubdate": "Fri, 11 Oct 2024 03:00:00 -0500"
     },
     {
-        "title": "Yape",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Yape",
-        "pubdate": "Fri, 11 Oct 2024 20:00:00 -0500"
-    },
-    {
-        "title": "Brasil vs peru",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Brasil%20vs%20peru",
-        "pubdate": "Fri, 11 Oct 2024 23:00:00 -0500"
-    },
-    {
         "title": "Harvey Colchado",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Harvey%20Colchado",
         "pubdate": "Fri, 11 Oct 2024 14:00:00 -0500"
     },
     {
-        "title": "America EN VIVO",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#America%20EN%20VIVO",
+        "title": "Bielsa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bielsa",
+        "pubdate": "Fri, 11 Oct 2024 23:00:00 -0500"
+    },
+    {
+        "title": "Jessica Jurado",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Jessica%20Jurado",
         "pubdate": "Fri, 11 Oct 2024 22:00:00 -0500"
     },
     {
-        "title": "Federico Valverde",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Federico%20Valverde",
+        "title": "America EN VIVO",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#America%20EN%20VIVO",
         "pubdate": "Fri, 11 Oct 2024 22:00:00 -0500"
     },
     {
@@ -55,14 +70,14 @@
         "pubdate": "Fri, 11 Oct 2024 02:00:00 -0500"
     },
     {
-        "title": "Christopher Reeve",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Christopher%20Reeve",
-        "pubdate": "Fri, 11 Oct 2024 11:00:00 -0500"
-    },
-    {
         "title": "Piero Quispe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Piero%20Quispe",
         "pubdate": "Fri, 11 Oct 2024 23:00:00 -0500"
+    },
+    {
+        "title": "Christopher Reeve",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Christopher%20Reeve",
+        "pubdate": "Fri, 11 Oct 2024 11:00:00 -0500"
     },
     {
         "title": "Carlos Alcaraz",
@@ -80,23 +95,8 @@
         "pubdate": "Fri, 11 Oct 2024 02:00:00 -0500"
     },
     {
-        "title": "Costa Rica vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Costa%20Rica%20vs",
-        "pubdate": "Fri, 11 Oct 2024 19:00:00 -0500"
-    },
-    {
         "title": "Novak Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Novak%20Djokovic",
         "pubdate": "Fri, 11 Oct 2024 09:00:00 -0500"
-    },
-    {
-        "title": "Soteldo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Soteldo",
-        "pubdate": "Fri, 11 Oct 2024 12:00:00 -0500"
-    },
-    {
-        "title": "Turquía  Montenegro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Turqu%C3%ADa%20%20Montenegro",
-        "pubdate": "Fri, 11 Oct 2024 16:00:00 -0500"
     }
 ]
