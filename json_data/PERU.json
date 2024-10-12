@@ -15,6 +15,11 @@
         "pubdate": "Sat, 12 Oct 2024 03:00:00 -0500"
     },
     {
+        "title": "Valverde",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Valverde",
+        "pubdate": "Sat, 12 Oct 2024 00:00:00 -0500"
+    },
+    {
         "title": "Hungría - Países Bajos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Hungr%C3%ADa%20-%20Pa%C3%ADses%20Bajos",
         "pubdate": "Fri, 11 Oct 2024 14:00:00 -0500"
@@ -45,11 +50,6 @@
         "pubdate": "Fri, 11 Oct 2024 08:00:00 -0500"
     },
     {
-        "title": "Yape",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Yape",
-        "pubdate": "Fri, 11 Oct 2024 20:00:00 -0500"
-    },
-    {
         "title": "Harvey Colchado",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Harvey%20Colchado",
         "pubdate": "Fri, 11 Oct 2024 14:00:00 -0500"
@@ -60,19 +60,9 @@
         "pubdate": "Fri, 11 Oct 2024 23:00:00 -0500"
     },
     {
-        "title": "Jessica Jurado",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Jessica%20Jurado",
-        "pubdate": "Fri, 11 Oct 2024 22:00:00 -0500"
-    },
-    {
         "title": "Piero Quispe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Piero%20Quispe",
         "pubdate": "Fri, 11 Oct 2024 23:00:00 -0500"
-    },
-    {
-        "title": "Federico Valverde",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Federico%20Valverde",
-        "pubdate": "Fri, 11 Oct 2024 22:00:00 -0500"
     },
     {
         "title": "Macarena Al fondo hay sitio",
@@ -98,5 +88,15 @@
         "title": "Soteldo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Soteldo",
         "pubdate": "Fri, 11 Oct 2024 12:00:00 -0500"
+    },
+    {
+        "title": "Novak Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Novak%20Djokovic",
+        "pubdate": "Fri, 11 Oct 2024 09:00:00 -0500"
+    },
+    {
+        "title": "Sonne",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Sonne",
+        "pubdate": "Fri, 11 Oct 2024 23:00:00 -0500"
     }
 ]
