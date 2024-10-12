@@ -20,11 +20,6 @@
         "pubdate": "Sat, 12 Oct 2024 03:00:00 -0400"
     },
     {
-        "title": "Israel attacks Iran",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Israel%20attacks%20Iran",
-        "pubdate": "Sat, 12 Oct 2024 01:00:00 -0400"
-    },
-    {
         "title": "Bombers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bombers",
         "pubdate": "Sat, 12 Oct 2024 00:00:00 -0400"
@@ -93,6 +88,11 @@
         "title": "Obama",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Obama",
         "pubdate": "Fri, 11 Oct 2024 10:00:00 -0400"
+    },
+    {
+        "title": "Yu Darvish",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Yu%20Darvish",
+        "pubdate": "Fri, 11 Oct 2024 21:00:00 -0400"
     },
     {
         "title": "WNBA",
