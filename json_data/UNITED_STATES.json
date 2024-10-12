@@ -5,6 +5,11 @@
         "pubdate": "Sat, 12 Oct 2024 10:00:00 -0700"
     },
     {
+        "title": "Ohio State vs Oregon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ohio%20State%20vs%20Oregon",
+        "pubdate": "Sat, 12 Oct 2024 10:00:00 -0700"
+    },
+    {
         "title": "BYU football",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#BYU%20football",
         "pubdate": "Sat, 12 Oct 2024 07:00:00 -0700"
@@ -15,9 +20,9 @@
         "pubdate": "Sat, 12 Oct 2024 08:00:00 -0700"
     },
     {
-        "title": "Ohio State vs Oregon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ohio%20State%20vs%20Oregon",
-        "pubdate": "Sat, 12 Oct 2024 10:00:00 -0700"
+        "title": "NLCS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#NLCS",
+        "pubdate": "Sat, 12 Oct 2024 11:00:00 -0700"
     },
     {
         "title": "Texas vs Oklahoma",
@@ -30,18 +35,18 @@
         "pubdate": "Fri, 11 Oct 2024 20:00:00 -0700"
     },
     {
-        "title": "Ethel Kennedy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ethel%20Kennedy",
-        "pubdate": "Fri, 11 Oct 2024 05:00:00 -0700"
-    },
-    {
         "title": "Yom Kippur",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Yom%20Kippur",
         "pubdate": "Fri, 11 Oct 2024 08:00:00 -0700"
     },
     {
-        "title": "Utah football",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Utah%20football",
+        "title": "Ethel Kennedy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ethel%20Kennedy",
+        "pubdate": "Fri, 11 Oct 2024 05:00:00 -0700"
+    },
+    {
+        "title": "Utah Football",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Utah%20Football",
         "pubdate": "Fri, 11 Oct 2024 16:00:00 -0700"
     },
     {
@@ -55,11 +60,6 @@
         "pubdate": "Fri, 11 Oct 2024 22:00:00 -0700"
     },
     {
-        "title": "Utah vs Arizona State",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Utah%20vs%20Arizona%20State",
-        "pubdate": "Fri, 11 Oct 2024 21:00:00 -0700"
-    },
-    {
         "title": "ASU football",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#ASU%20football",
         "pubdate": "Fri, 11 Oct 2024 21:00:00 -0700"
@@ -70,14 +70,19 @@
         "pubdate": "Fri, 11 Oct 2024 04:00:00 -0700"
     },
     {
-        "title": "Coldplay",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Coldplay",
-        "pubdate": "Fri, 11 Oct 2024 14:00:00 -0700"
+        "title": "Utah vs Arizona State",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Utah%20vs%20Arizona%20State",
+        "pubdate": "Fri, 11 Oct 2024 21:00:00 -0700"
     },
     {
         "title": "Bivol vs Beterbiev",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bivol%20vs%20Beterbiev",
         "pubdate": "Fri, 11 Oct 2024 20:00:00 -0700"
+    },
+    {
+        "title": "Coldplay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Coldplay",
+        "pubdate": "Fri, 11 Oct 2024 14:00:00 -0700"
     },
     {
         "title": "Saturday Night Movie",
@@ -93,10 +98,5 @@
         "title": "Disclaimer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Disclaimer",
         "pubdate": "Fri, 11 Oct 2024 18:00:00 -0700"
-    },
-    {
-        "title": "Flyers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Flyers",
-        "pubdate": "Fri, 11 Oct 2024 21:00:00 -0700"
     }
 ]
