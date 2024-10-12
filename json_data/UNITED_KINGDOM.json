@@ -15,11 +15,6 @@
         "pubdate": "Sat, 12 Oct 2024 04:00:00 +0100"
     },
     {
-        "title": "Dragon Ball Daima",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Dragon%20Ball%20Daima",
-        "pubdate": "Sat, 12 Oct 2024 08:00:00 +0100"
-    },
-    {
         "title": "Virginia McCullough",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Virginia%20McCullough",
         "pubdate": "Fri, 11 Oct 2024 17:00:00 +0100"
@@ -30,14 +25,14 @@
         "pubdate": "Fri, 11 Oct 2024 09:00:00 +0100"
     },
     {
-        "title": "Saka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Saka",
-        "pubdate": "Fri, 11 Oct 2024 00:00:00 +0100"
-    },
-    {
         "title": "Vladimir Putin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Vladimir%20Putin",
         "pubdate": "Fri, 11 Oct 2024 20:00:00 +0100"
+    },
+    {
+        "title": "Saka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Saka",
+        "pubdate": "Fri, 11 Oct 2024 00:00:00 +0100"
     },
     {
         "title": "Bivol vs Beterbiev",
@@ -50,14 +45,14 @@
         "pubdate": "Fri, 11 Oct 2024 18:00:00 +0100"
     },
     {
-        "title": "Sandy Irvine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Sandy%20Irvine",
-        "pubdate": "Fri, 11 Oct 2024 15:00:00 +0100"
-    },
-    {
         "title": "Victoria Monet",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Victoria%20Monet",
         "pubdate": "Fri, 11 Oct 2024 23:00:00 +0100"
+    },
+    {
+        "title": "Sandy Irvine",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Sandy%20Irvine",
+        "pubdate": "Fri, 11 Oct 2024 15:00:00 +0100"
     },
     {
         "title": "Iceland vs Wales",
@@ -98,5 +93,10 @@
         "title": "Greece",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Greece",
         "pubdate": "Fri, 11 Oct 2024 10:00:00 +0100"
+    },
+    {
+        "title": "Glastonbury 2025",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Glastonbury%202025",
+        "pubdate": "Fri, 11 Oct 2024 17:00:00 +0100"
     }
 ]
