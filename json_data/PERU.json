@@ -5,11 +5,6 @@
         "pubdate": "Sat, 12 Oct 2024 01:00:00 -0500"
     },
     {
-        "title": "Valverde",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Valverde",
-        "pubdate": "Sat, 12 Oct 2024 00:00:00 -0500"
-    },
-    {
         "title": "Mr. Olympia 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Mr.%20Olympia%202024",
         "pubdate": "Sat, 12 Oct 2024 03:00:00 -0500"
@@ -55,18 +50,13 @@
         "pubdate": "Fri, 11 Oct 2024 14:00:00 -0500"
     },
     {
-        "title": "Bielsa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bielsa",
-        "pubdate": "Fri, 11 Oct 2024 23:00:00 -0500"
-    },
-    {
         "title": "Jessica Jurado",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Jessica%20Jurado",
         "pubdate": "Fri, 11 Oct 2024 22:00:00 -0500"
     },
     {
-        "title": "America EN VIVO",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#America%20EN%20VIVO",
+        "title": "Federico Valverde",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Federico%20Valverde",
         "pubdate": "Fri, 11 Oct 2024 22:00:00 -0500"
     },
     {
@@ -90,6 +80,11 @@
         "pubdate": "Fri, 11 Oct 2024 03:00:00 -0500"
     },
     {
+        "title": "Ricardo Gareca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Ricardo%20Gareca",
+        "pubdate": "Fri, 11 Oct 2024 02:00:00 -0500"
+    },
+    {
         "title": "Soteldo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Soteldo",
         "pubdate": "Fri, 11 Oct 2024 12:00:00 -0500"
@@ -98,5 +93,10 @@
         "title": "Novak Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Novak%20Djokovic",
         "pubdate": "Fri, 11 Oct 2024 09:00:00 -0500"
+    },
+    {
+        "title": "Turquía  Montenegro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Turqu%C3%ADa%20%20Montenegro",
+        "pubdate": "Fri, 11 Oct 2024 16:00:00 -0500"
     }
 ]
