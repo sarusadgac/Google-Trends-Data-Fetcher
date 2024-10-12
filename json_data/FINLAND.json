@@ -10,6 +10,11 @@
         "pubdate": "Sat, 12 Oct 2024 20:00:00 +0300"
     },
     {
+        "title": "Love story",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Love%20story",
+        "pubdate": "Sat, 12 Oct 2024 22:00:00 +0300"
+    },
+    {
         "title": "Waldo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Waldo",
         "pubdate": "Fri, 11 Oct 2024 18:00:00 +0300"
@@ -38,6 +43,11 @@
         "title": "Bianca Censori",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bianca%20Censori",
         "pubdate": "Fri, 11 Oct 2024 08:00:00 +0300"
+    },
+    {
+        "title": "Joel Blomqvist",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Joel%20Blomqvist",
+        "pubdate": "Fri, 11 Oct 2024 16:00:00 +0300"
     },
     {
         "title": "Obama",
@@ -87,16 +97,6 @@
     {
         "title": "Rocky",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Rocky",
-        "pubdate": "Thu, 10 Oct 2024 22:00:00 +0300"
-    },
-    {
-        "title": "Yung Filly",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Yung%20Filly",
-        "pubdate": "Thu, 10 Oct 2024 17:00:00 +0300"
-    },
-    {
-        "title": "Ethel Kennedy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Ethel%20Kennedy",
         "pubdate": "Thu, 10 Oct 2024 22:00:00 +0300"
     }
 ]
