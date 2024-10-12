@@ -10,6 +10,11 @@
         "pubdate": "Sat, 12 Oct 2024 15:00:00 +1300"
     },
     {
+        "title": "Rocky Elsom",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Rocky%20Elsom",
+        "pubdate": "Sat, 12 Oct 2024 16:00:00 +1300"
+    },
+    {
         "title": "England vs Greece",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#England%20vs%20Greece",
         "pubdate": "Fri, 11 Oct 2024 08:00:00 +1300"
@@ -25,8 +30,8 @@
         "pubdate": "Fri, 11 Oct 2024 19:00:00 +1300"
     },
     {
-        "title": "Aurora Australis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Aurora%20Australis",
+        "title": "Aurora australis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Aurora%20australis",
         "pubdate": "Fri, 11 Oct 2024 18:00:00 +1300"
     },
     {
@@ -93,10 +98,5 @@
         "title": "OCR",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#OCR",
         "pubdate": "Thu, 10 Oct 2024 11:00:00 +1300"
-    },
-    {
-        "title": "India vs Bangladesh",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#India%20vs%20Bangladesh",
-        "pubdate": "Thu, 10 Oct 2024 05:00:00 +1300"
     }
 ]
