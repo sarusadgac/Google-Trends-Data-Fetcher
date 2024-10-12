@@ -5,6 +5,11 @@
         "pubdate": "Sat, 12 Oct 2024 19:00:00 +1300"
     },
     {
+        "title": "America's Cup schedule",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#America's%20Cup%20schedule",
+        "pubdate": "Sat, 12 Oct 2024 08:00:00 +1300"
+    },
+    {
         "title": "Mount Everest",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Mount%20Everest",
         "pubdate": "Sat, 12 Oct 2024 15:00:00 +1300"
@@ -18,6 +23,11 @@
         "title": "Lonely Planet movie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Lonely%20Planet%20movie",
         "pubdate": "Sat, 12 Oct 2024 19:00:00 +1300"
+    },
+    {
+        "title": "Batman and Robin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Batman%20and%20Robin",
+        "pubdate": "Sat, 12 Oct 2024 22:00:00 +1300"
     },
     {
         "title": "Virginia McCullough",
@@ -45,14 +55,14 @@
         "pubdate": "Fri, 11 Oct 2024 18:00:00 +1300"
     },
     {
-        "title": "All Whites",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#All%20Whites",
-        "pubdate": "Fri, 11 Oct 2024 16:00:00 +1300"
-    },
-    {
         "title": "Aurora",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Aurora",
         "pubdate": "Fri, 11 Oct 2024 19:00:00 +1300"
+    },
+    {
+        "title": "All Whites",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#All%20Whites",
+        "pubdate": "Fri, 11 Oct 2024 16:00:00 +1300"
     },
     {
         "title": "Rafael Nadal",
@@ -75,6 +85,11 @@
         "pubdate": "Fri, 11 Oct 2024 07:00:00 +1300"
     },
     {
+        "title": "World Cup qualifiers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#World%20Cup%20qualifiers",
+        "pubdate": "Fri, 11 Oct 2024 18:00:00 +1300"
+    },
+    {
         "title": "Marcelo Montoya",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Marcelo%20Montoya",
         "pubdate": "Fri, 11 Oct 2024 19:00:00 +1300"
@@ -83,20 +98,5 @@
         "title": "Ethel Kennedy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Ethel%20Kennedy",
         "pubdate": "Fri, 11 Oct 2024 23:00:00 +1300"
-    },
-    {
-        "title": "England vs Pakistan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#England%20vs%20Pakistan",
-        "pubdate": "Fri, 11 Oct 2024 18:00:00 +1300"
-    },
-    {
-        "title": "Harry Brook",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Harry%20Brook",
-        "pubdate": "Fri, 11 Oct 2024 16:00:00 +1300"
-    },
-    {
-        "title": "Yung Filly",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Yung%20Filly",
-        "pubdate": "Thu, 10 Oct 2024 19:00:00 +1300"
     }
 ]
