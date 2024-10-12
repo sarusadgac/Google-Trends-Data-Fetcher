@@ -40,11 +40,6 @@
         "pubdate": "Fri, 11 Oct 2024 21:00:00 +0200"
     },
     {
-        "title": "Lizzy Aumeier",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Lizzy%20Aumeier",
-        "pubdate": "Fri, 11 Oct 2024 15:00:00 +0200"
-    },
-    {
         "title": "Eric Philippi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Eric%20Philippi",
         "pubdate": "Fri, 11 Oct 2024 19:00:00 +0200"
@@ -98,5 +93,10 @@
         "title": "Aaron Taylor-Johnson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Aaron%20Taylor-Johnson",
         "pubdate": "Fri, 11 Oct 2024 11:00:00 +0200"
+    },
+    {
+        "title": "Jom Kippur",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Jom%20Kippur",
+        "pubdate": "Fri, 11 Oct 2024 15:00:00 +0200"
     }
 ]
