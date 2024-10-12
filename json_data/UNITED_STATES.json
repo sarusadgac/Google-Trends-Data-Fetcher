@@ -1,5 +1,15 @@
 [
     {
+        "title": "Warriors",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Warriors",
+        "pubdate": "Sat, 12 Oct 2024 08:00:00 -0700"
+    },
+    {
+        "title": "BYU football",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#BYU%20football",
+        "pubdate": "Sat, 12 Oct 2024 07:00:00 -0700"
+    },
+    {
         "title": "What is Yom Kippur",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#What%20is%20Yom%20Kippur",
         "pubdate": "Sat, 12 Oct 2024 07:00:00 -0700"
@@ -65,11 +75,6 @@
         "pubdate": "Fri, 11 Oct 2024 08:00:00 -0700"
     },
     {
-        "title": "Northwestern football",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Northwestern%20football",
-        "pubdate": "Fri, 11 Oct 2024 18:00:00 -0700"
-    },
-    {
         "title": "Bivol vs Beterbiev",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bivol%20vs%20Beterbiev",
         "pubdate": "Fri, 11 Oct 2024 20:00:00 -0700"
@@ -93,10 +98,5 @@
         "title": "Comet tonight",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Comet%20tonight",
         "pubdate": "Fri, 11 Oct 2024 17:00:00 -0700"
-    },
-    {
-        "title": "Laura Dern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Laura%20Dern",
-        "pubdate": "Fri, 11 Oct 2024 21:00:00 -0700"
     }
 ]
