@@ -10,11 +10,6 @@
         "pubdate": "Sat, 12 Oct 2024 21:00:00 +0200"
     },
     {
-        "title": "Fußball",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fu%C3%9Fball",
-        "pubdate": "Fri, 11 Oct 2024 23:00:00 +0200"
-    },
-    {
         "title": "Lukas Podolski",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Lukas%20Podolski",
         "pubdate": "Thu, 10 Oct 2024 19:00:00 +0200"
@@ -98,5 +93,10 @@
         "title": "Tag der Deutschen Einheit",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tag%20der%20Deutschen%20Einheit",
         "pubdate": "Wed, 02 Oct 2024 19:00:00 +0200"
+    },
+    {
+        "title": "Marburg-Virus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Marburg-Virus",
+        "pubdate": "Wed, 02 Oct 2024 17:00:00 +0200"
     }
 ]

@@ -5,8 +5,8 @@
         "pubdate": "Sat, 12 Oct 2024 18:00:00 -0500"
     },
     {
-        "title": "Polonia  PORTUGAL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Polonia%20%20PORTUGAL",
+        "title": "Polonia  Portugal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Polonia%20%20Portugal",
         "pubdate": "Sat, 12 Oct 2024 11:00:00 -0500"
     },
     {
@@ -25,23 +25,18 @@
         "pubdate": "Sat, 12 Oct 2024 00:00:00 -0500"
     },
     {
+        "title": "Portugal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Portugal",
+        "pubdate": "Sat, 12 Oct 2024 15:00:00 -0500"
+    },
+    {
         "title": "Estados Unidos  Panamá",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Estados%20Unidos%20%20Panam%C3%A1",
         "pubdate": "Sat, 12 Oct 2024 21:00:00 -0500"
     },
     {
-        "title": "Suiza vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Suiza%20vs",
-        "pubdate": "Sat, 12 Oct 2024 15:00:00 -0500"
-    },
-    {
         "title": "Serbia - Suiza",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Serbia%20-%20Suiza",
-        "pubdate": "Sat, 12 Oct 2024 16:00:00 -0500"
-    },
-    {
-        "title": "Evo Morales",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Evo%20Morales",
         "pubdate": "Sat, 12 Oct 2024 16:00:00 -0500"
     },
     {
@@ -50,9 +45,9 @@
         "pubdate": "Sat, 12 Oct 2024 03:00:00 -0500"
     },
     {
-        "title": "Luana Alonso",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Luana%20Alonso",
-        "pubdate": "Sat, 12 Oct 2024 17:00:00 -0500"
+        "title": "Evo Morales",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Evo%20Morales",
+        "pubdate": "Sat, 12 Oct 2024 16:00:00 -0500"
     },
     {
         "title": "Lamine Yamal",
@@ -98,5 +93,10 @@
         "title": "Peru",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Peru",
         "pubdate": "Fri, 11 Oct 2024 15:00:00 -0500"
+    },
+    {
+        "title": "America TV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#America%20TV",
+        "pubdate": "Fri, 11 Oct 2024 22:00:00 -0500"
     }
 ]
