@@ -1,13 +1,28 @@
 [
     {
-        "title": "SpaceX",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#SpaceX",
+        "title": "Nina Chuba",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Nina%20Chuba",
         "pubdate": "Sun, 13 Oct 2024 14:00:00 +0200"
     },
     {
-        "title": "汪建民",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E6%B1%AA%E5%BB%BA%E6%B0%91",
-        "pubdate": "Mon, 14 Oct 2024 00:00:00 +0800"
+        "title": "名古屋グランパス",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%90%8D%E5%8F%A4%E5%B1%8B%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%91%E3%82%B9",
+        "pubdate": "Mon, 14 Oct 2024 01:00:00 +0900"
+    },
+    {
+        "title": "Finland vs England",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Finland%20vs%20England",
+        "pubdate": "Sun, 13 Oct 2024 14:00:00 +0100"
+    },
+    {
+        "title": "Екатерина Андреева",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B0",
+        "pubdate": "Sun, 13 Oct 2024 16:00:00 +0300"
+    },
+    {
+        "title": "Samuel Paty",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Samuel%20Paty",
+        "pubdate": "Sun, 13 Oct 2024 14:00:00 +0200"
     },
     {
         "title": "Jaguars vs Bears",
@@ -20,29 +35,29 @@
         "pubdate": "Sun, 13 Oct 2024 15:30:00 +0530"
     },
     {
-        "title": "Екатерина Андреева",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B0",
-        "pubdate": "Sun, 13 Oct 2024 16:00:00 +0300"
+        "title": "汪建民",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E6%B1%AA%E5%BB%BA%E6%B0%91",
+        "pubdate": "Mon, 14 Oct 2024 00:00:00 +0800"
     },
     {
-        "title": "Adele Exarchopoulos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Adele%20Exarchopoulos",
-        "pubdate": "Sun, 13 Oct 2024 00:00:00 +0200"
+        "title": "13 ตุลาคม",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TH#13%20%E0%B8%95%E0%B8%B8%E0%B8%A5%E0%B8%B2%E0%B8%84%E0%B8%A1",
+        "pubdate": "Sun, 13 Oct 2024 08:00:00 +0700"
     },
     {
-        "title": "マイファス Hiro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%9E%E3%82%A4%E3%83%95%E3%82%A1%E3%82%B9%20Hiro",
-        "pubdate": "Sun, 13 Oct 2024 13:00:00 +0900"
+        "title": "Fascist",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Fascist",
+        "pubdate": "Sun, 13 Oct 2024 13:00:00 +0200"
     },
     {
-        "title": "Finland vs England",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Finland%20vs%20England",
-        "pubdate": "Sun, 13 Oct 2024 14:00:00 +0100"
+        "title": "Super League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Super%20League",
+        "pubdate": "Mon, 14 Oct 2024 05:00:00 +1100"
     },
     {
-        "title": "Salina Turda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Salina%20Turda",
-        "pubdate": "Sun, 13 Oct 2024 01:00:00 +0300"
+        "title": "Angel Gomes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Angel%20Gomes",
+        "pubdate": "Mon, 14 Oct 2024 00:00:00 +0700"
     },
     {
         "title": "RIIZE",
@@ -50,53 +65,38 @@
         "pubdate": "Mon, 14 Oct 2024 01:00:00 +0800"
     },
     {
-        "title": "رئيس البرلمان الإيراني محمد باقر قاليباف",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#%D8%B1%D8%A6%D9%8A%D8%B3%20%D8%A7%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86%20%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%A8%D8%A7%D9%82%D8%B1%20%D9%82%D8%A7%D9%84%D9%8A%D8%A8%D8%A7%D9%81",
-        "pubdate": "Sun, 13 Oct 2024 08:00:00 +0300"
+        "title": "Poland vs Portugal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Poland%20vs%20Portugal",
+        "pubdate": "Sun, 13 Oct 2024 03:00:00 +0800"
     },
     {
-        "title": "Sal Da Vinci",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Sal%20Da%20Vinci",
-        "pubdate": "Sun, 13 Oct 2024 18:00:00 +0200"
+        "title": "Finlandia  Inglaterra",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Finlandia%20%20Inglaterra",
+        "pubdate": "Sun, 13 Oct 2024 10:00:00 -0600"
     },
     {
-        "title": "Ελλαδα ιρλανδια",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%95%CE%BB%CE%BB%CE%B1%CE%B4%CE%B1%20%CE%B9%CF%81%CE%BB%CE%B1%CE%BD%CE%B4%CE%B9%CE%B1",
-        "pubdate": "Sun, 13 Oct 2024 00:00:00 +0300"
+        "title": "Deprem",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Deprem",
+        "pubdate": "Sun, 13 Oct 2024 04:00:00 +0300"
     },
     {
-        "title": "Budda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Budda",
-        "pubdate": "Sun, 13 Oct 2024 12:00:00 +0200"
+        "title": "Austria vs Norwegia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Austria%20vs%20Norwegia",
+        "pubdate": "Mon, 14 Oct 2024 01:00:00 +0700"
     },
     {
-        "title": "Mayra Gómez Kemp",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Mayra%20G%C3%B3mez%20Kemp",
-        "pubdate": "Sun, 13 Oct 2024 14:00:00 +0200"
+        "title": "Bülent Ceylan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#B%C3%BClent%20Ceylan",
+        "pubdate": "Sun, 13 Oct 2024 10:00:00 +0200"
     },
     {
-        "title": "Джаред Лето",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=UA#%D0%94%D0%B6%D0%B0%D1%80%D0%B5%D0%B4%20%D0%9B%D0%B5%D1%82%D0%BE",
-        "pubdate": "Sun, 13 Oct 2024 11:00:00 +0300"
+        "title": "Juventus Women  Roma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Juventus%20Women%20%20Roma",
+        "pubdate": "Sun, 13 Oct 2024 16:00:00 +0200"
     },
     {
-        "title": "북한",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%B6%81%ED%95%9C",
-        "pubdate": "Mon, 14 Oct 2024 00:00:00 +0900"
-    },
-    {
-        "title": "حادث قطار اليوم",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=EG#%D8%AD%D8%A7%D8%AF%D8%AB%20%D9%82%D8%B7%D8%A7%D8%B1%20%D8%A7%D9%84%D9%8A%D9%88%D9%85",
-        "pubdate": "Sun, 13 Oct 2024 10:00:00 +0300"
-    },
-    {
-        "title": "Baba Siddique",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Baba%20Siddique",
-        "pubdate": "Sun, 13 Oct 2024 05:00:00 +0800"
-    },
-    {
-        "title": "North Korean",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#North%20Korean",
-        "pubdate": "Sun, 13 Oct 2024 04:00:00 +0100"
+        "title": "Kaizer Chiefs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Kaizer%20Chiefs",
+        "pubdate": "Sun, 13 Oct 2024 00:00:00 +0200"
     }
 ]
