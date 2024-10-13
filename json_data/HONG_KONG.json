@@ -30,6 +30,11 @@
         "pubdate": "Sun, 13 Oct 2024 19:00:00 +0800"
     },
     {
+        "title": "孫安佐",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%AD%AB%E5%AE%89%E4%BD%90",
+        "pubdate": "Sun, 13 Oct 2024 21:00:00 +0800"
+    },
+    {
         "title": "單車節封路",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%96%AE%E8%BB%8A%E7%AF%80%E5%B0%81%E8%B7%AF",
         "pubdate": "Sat, 12 Oct 2024 19:00:00 +0800"
@@ -93,10 +98,5 @@
         "title": "TSLA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#TSLA",
         "pubdate": "Fri, 11 Oct 2024 17:00:00 +0800"
-    },
-    {
-        "title": "極光",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E6%A5%B5%E5%85%89",
-        "pubdate": "Fri, 11 Oct 2024 15:00:00 +0800"
     }
 ]

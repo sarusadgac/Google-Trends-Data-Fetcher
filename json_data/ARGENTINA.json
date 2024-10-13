@@ -20,14 +20,14 @@
         "pubdate": "Sun, 13 Oct 2024 00:00:00 -0300"
     },
     {
-        "title": "Olimpia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Olimpia",
-        "pubdate": "Sun, 13 Oct 2024 00:00:00 -0300"
-    },
-    {
         "title": "Estados Unidos  Panamá",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Estados%20Unidos%20%20Panam%C3%A1",
         "pubdate": "Sun, 13 Oct 2024 03:00:00 -0300"
+    },
+    {
+        "title": "Olimpia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Olimpia",
+        "pubdate": "Sun, 13 Oct 2024 00:00:00 -0300"
     },
     {
         "title": "Tyrion Lannister",
@@ -85,6 +85,11 @@
         "pubdate": "Sat, 12 Oct 2024 18:00:00 -0300"
     },
     {
+        "title": "BKFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#BKFC",
+        "pubdate": "Sat, 12 Oct 2024 19:00:00 -0300"
+    },
+    {
         "title": "Portugal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Portugal",
         "pubdate": "Sat, 12 Oct 2024 17:00:00 -0300"
@@ -93,10 +98,5 @@
         "title": "Aldosivi  Defensores de Belgrano",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Aldosivi%20%20Defensores%20de%20Belgrano",
         "pubdate": "Sat, 12 Oct 2024 17:00:00 -0300"
-    },
-    {
-        "title": "Survivor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Survivor",
-        "pubdate": "Sat, 12 Oct 2024 10:00:00 -0300"
     }
 ]
