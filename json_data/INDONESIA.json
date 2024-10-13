@@ -15,11 +15,6 @@
         "pubdate": "Sun, 13 Oct 2024 04:00:00 +0700"
     },
     {
-        "title": "Kapolri Cup 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Kapolri%20Cup%202024",
-        "pubdate": "Sun, 13 Oct 2024 00:00:00 +0700"
-    },
-    {
         "title": "Copenhagen FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Copenhagen%20FC",
         "pubdate": "Sat, 12 Oct 2024 16:00:00 +0700"
@@ -80,6 +75,11 @@
         "pubdate": "Fri, 11 Oct 2024 09:00:00 +0700"
     },
     {
+        "title": "Polandia vs Portugal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Polandia%20vs%20Portugal",
+        "pubdate": "Fri, 11 Oct 2024 19:00:00 +0700"
+    },
+    {
         "title": "Venezuela vs Argentina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Venezuela%20vs%20Argentina",
         "pubdate": "Fri, 11 Oct 2024 01:00:00 +0700"
@@ -90,13 +90,13 @@
         "pubdate": "Fri, 11 Oct 2024 01:00:00 +0700"
     },
     {
-        "title": "Portugal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Portugal",
-        "pubdate": "Fri, 11 Oct 2024 19:00:00 +0700"
-    },
-    {
         "title": "Olahraga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Olahraga",
         "pubdate": "Fri, 11 Oct 2024 01:00:00 +0700"
+    },
+    {
+        "title": "Bola",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Bola",
+        "pubdate": "Fri, 11 Oct 2024 00:00:00 +0700"
     }
 ]

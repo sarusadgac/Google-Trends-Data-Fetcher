@@ -20,6 +20,11 @@
         "pubdate": "Sun, 13 Oct 2024 01:00:00 +0200"
     },
     {
+        "title": "PTB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#PTB",
+        "pubdate": "Sun, 13 Oct 2024 03:00:00 +0200"
+    },
+    {
         "title": "Hoe stemmen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Hoe%20stemmen",
         "pubdate": "Sun, 13 Oct 2024 01:00:00 +0200"
@@ -93,10 +98,5 @@
         "title": "Nyctalope",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Nyctalope",
         "pubdate": "Sat, 12 Oct 2024 08:00:00 +0200"
-    },
-    {
-        "title": "Clara Luciani",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Clara%20Luciani",
-        "pubdate": "Sat, 12 Oct 2024 22:00:00 +0200"
     }
 ]
