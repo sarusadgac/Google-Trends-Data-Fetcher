@@ -1,5 +1,10 @@
 [
     {
+        "title": "Pierre Garnier",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Pierre%20Garnier",
+        "pubdate": "Sun, 13 Oct 2024 00:00:00 +0200"
+    },
+    {
         "title": "Gilles Lellouche",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Gilles%20Lellouche",
         "pubdate": "Sun, 13 Oct 2024 00:00:00 +0200"
@@ -40,14 +45,14 @@
         "pubdate": "Sat, 12 Oct 2024 21:00:00 +0200"
     },
     {
-        "title": "Pologne – Portugal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Pologne%20%E2%80%93%20Portugal",
-        "pubdate": "Sat, 12 Oct 2024 21:00:00 +0200"
-    },
-    {
         "title": "Eleven All Stars 2",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Eleven%20All%20Stars%202",
         "pubdate": "Sat, 12 Oct 2024 19:00:00 +0200"
+    },
+    {
+        "title": "Pologne – Portugal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Pologne%20%E2%80%93%20Portugal",
+        "pubdate": "Sat, 12 Oct 2024 21:00:00 +0200"
     },
     {
         "title": "Pierre Vernier",
@@ -65,6 +70,11 @@
         "pubdate": "Sat, 12 Oct 2024 21:00:00 +0200"
     },
     {
+        "title": "Verkiezingen 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Verkiezingen%202024",
+        "pubdate": "Sat, 12 Oct 2024 14:00:00 +0200"
+    },
+    {
         "title": "Lars van der Haar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Lars%20van%20der%20Haar",
         "pubdate": "Sat, 12 Oct 2024 20:00:00 +0200"
@@ -80,11 +90,6 @@
         "pubdate": "Sat, 12 Oct 2024 22:00:00 +0200"
     },
     {
-        "title": "Nyctalope",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Nyctalope",
-        "pubdate": "Sat, 12 Oct 2024 08:00:00 +0200"
-    },
-    {
         "title": "Clara Luciani",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Clara%20Luciani",
         "pubdate": "Sat, 12 Oct 2024 22:00:00 +0200"
@@ -93,10 +98,5 @@
         "title": "Thomas Pesquet",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Thomas%20Pesquet",
         "pubdate": "Sat, 12 Oct 2024 00:00:00 +0200"
-    },
-    {
-        "title": "Dany Brillant",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Dany%20Brillant",
-        "pubdate": "Sat, 12 Oct 2024 19:00:00 +0200"
     }
 ]

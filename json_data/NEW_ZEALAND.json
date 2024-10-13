@@ -30,6 +30,11 @@
         "pubdate": "Sun, 13 Oct 2024 11:00:00 +1300"
     },
     {
+        "title": "Black Ferns",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Black%20Ferns",
+        "pubdate": "Sun, 13 Oct 2024 13:00:00 +1300"
+    },
+    {
         "title": "Puig",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Puig",
         "pubdate": "Sun, 13 Oct 2024 09:00:00 +1300"
@@ -93,10 +98,5 @@
         "title": "Dussehra 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Dussehra%202024",
         "pubdate": "Sat, 12 Oct 2024 12:00:00 +1300"
-    },
-    {
-        "title": "COO",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#COO",
-        "pubdate": "Sat, 12 Oct 2024 17:00:00 +1300"
     }
 ]
