@@ -1,5 +1,10 @@
 [
     {
+        "title": "Idol 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Idol%202024",
+        "pubdate": "Sat, 12 Oct 2024 21:00:00 +0200"
+    },
+    {
         "title": "Bivol vs Beterbiev",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bivol%20vs%20Beterbiev",
         "pubdate": "Sat, 12 Oct 2024 14:00:00 +0200"
@@ -10,14 +15,14 @@
         "pubdate": "Sat, 12 Oct 2024 19:00:00 +0200"
     },
     {
-        "title": "Idol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Idol",
-        "pubdate": "Sat, 12 Oct 2024 23:00:00 +0200"
-    },
-    {
         "title": "The Apprentice",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#The%20Apprentice",
         "pubdate": "Sat, 12 Oct 2024 09:00:00 +0200"
+    },
+    {
+        "title": "Sverige",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sverige",
+        "pubdate": "Sat, 12 Oct 2024 03:00:00 +0200"
     },
     {
         "title": "Anders Bagge",
@@ -50,11 +55,6 @@
         "pubdate": "Fri, 11 Oct 2024 22:00:00 +0200"
     },
     {
-        "title": "Yasin Ayari",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Yasin%20Ayari",
-        "pubdate": "Fri, 11 Oct 2024 22:00:00 +0200"
-    },
-    {
         "title": "Duplantis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Duplantis",
         "pubdate": "Fri, 11 Oct 2024 17:00:00 +0200"
@@ -63,6 +63,11 @@
         "title": "Nobels fredspris",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Nobels%20fredspris",
         "pubdate": "Fri, 11 Oct 2024 12:00:00 +0200"
+    },
+    {
+        "title": "Ayari",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ayari",
+        "pubdate": "Fri, 11 Oct 2024 22:00:00 +0200"
     },
     {
         "title": "Cecilia Lind",
@@ -93,10 +98,5 @@
         "title": "Sl",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sl",
         "pubdate": "Thu, 10 Oct 2024 09:00:00 +0200"
-    },
-    {
-        "title": "George Baldock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#George%20Baldock",
-        "pubdate": "Thu, 10 Oct 2024 00:00:00 +0200"
     }
 ]
