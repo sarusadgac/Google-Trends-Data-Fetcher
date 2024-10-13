@@ -1,5 +1,10 @@
 [
     {
+        "title": "Fotos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Fotos",
+        "pubdate": "Sun, 13 Oct 2024 05:00:00 -0500"
+    },
+    {
         "title": "Peru vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Peru%20vs",
         "pubdate": "Sat, 12 Oct 2024 18:00:00 -0500"
@@ -40,8 +45,13 @@
         "pubdate": "Sat, 12 Oct 2024 21:00:00 -0500"
     },
     {
-        "title": "Mr. Olympia 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Mr.%20Olympia%202024",
+        "title": "DNI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#DNI",
+        "pubdate": "Sat, 12 Oct 2024 11:00:00 -0500"
+    },
+    {
+        "title": "Mr Olympia 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Mr%20Olympia%202024",
         "pubdate": "Sat, 12 Oct 2024 03:00:00 -0500"
     },
     {
@@ -65,6 +75,11 @@
         "pubdate": "Sat, 12 Oct 2024 01:00:00 -0500"
     },
     {
+        "title": "Andrew Irvine",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Andrew%20Irvine",
+        "pubdate": "Sat, 12 Oct 2024 08:00:00 -0500"
+    },
+    {
         "title": "Columbus Crew  New England",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Columbus%20Crew%20%20New%20England",
         "pubdate": "Sat, 12 Oct 2024 21:00:00 -0500"
@@ -83,20 +98,5 @@
         "title": "Perú  Uruguay",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Per%C3%BA%20%20Uruguay",
         "pubdate": "Fri, 11 Oct 2024 09:00:00 -0500"
-    },
-    {
-        "title": "Peru",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Peru",
-        "pubdate": "Fri, 11 Oct 2024 15:00:00 -0500"
-    },
-    {
-        "title": "America TV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#America%20TV",
-        "pubdate": "Fri, 11 Oct 2024 22:00:00 -0500"
-    },
-    {
-        "title": "Peru vs Brasil",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Peru%20vs%20Brasil",
-        "pubdate": "Fri, 11 Oct 2024 10:00:00 -0500"
     }
 ]

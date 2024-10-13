@@ -5,11 +5,6 @@
         "pubdate": "Sun, 13 Oct 2024 00:00:00 -0600"
     },
     {
-        "title": "Mr. Olympia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Mr.%20Olympia",
-        "pubdate": "Sun, 13 Oct 2024 02:00:00 -0600"
-    },
-    {
         "title": "Mexico vs Valencia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Mexico%20vs%20Valencia",
         "pubdate": "Sat, 12 Oct 2024 09:00:00 -0600"
@@ -40,8 +35,8 @@
         "pubdate": "Sat, 12 Oct 2024 19:00:00 -0600"
     },
     {
-        "title": "Mr. Olympia 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Mr.%20Olympia%202024",
+        "title": "Mr Olympia 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Mr%20Olympia%202024",
         "pubdate": "Sat, 12 Oct 2024 18:00:00 -0600"
     },
     {
@@ -98,5 +93,10 @@
         "title": "Maria la del barrio",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Maria%20la%20del%20barrio",
         "pubdate": "Sat, 12 Oct 2024 16:00:00 -0600"
+    },
+    {
+        "title": "Quien gano el Mr Olympia 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Quien%20gano%20el%20Mr%20Olympia%202024",
+        "pubdate": "Sat, 12 Oct 2024 20:00:00 -0600"
     }
 ]
