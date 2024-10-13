@@ -5,11 +5,6 @@
         "pubdate": "Sun, 13 Oct 2024 02:00:00 +0700"
     },
     {
-        "title": "Spanyol vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Spanyol%20vs",
-        "pubdate": "Sun, 13 Oct 2024 04:00:00 +0700"
-    },
-    {
         "title": "Bayi kanker ovarium",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Bayi%20kanker%20ovarium",
         "pubdate": "Sun, 13 Oct 2024 12:00:00 +0700"
@@ -18,6 +13,11 @@
         "title": "Joel Matip",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Joel%20Matip",
         "pubdate": "Sun, 13 Oct 2024 12:00:00 +0700"
+    },
+    {
+        "title": "Futsal Indonesia vs Malaysia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Futsal%20Indonesia%20vs%20Malaysia",
+        "pubdate": "Sun, 13 Oct 2024 21:00:00 +0700"
     },
     {
         "title": "Polandia vs Portugal",
@@ -45,11 +45,6 @@
         "pubdate": "Sat, 12 Oct 2024 15:00:00 +0700"
     },
     {
-        "title": "Liga 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Liga%202",
-        "pubdate": "Sat, 12 Oct 2024 19:00:00 +0700"
-    },
-    {
         "title": "Prabowo Subianto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Prabowo%20Subianto",
         "pubdate": "Sat, 12 Oct 2024 19:00:00 +0700"
@@ -70,9 +65,9 @@
         "pubdate": "Sat, 12 Oct 2024 12:00:00 +0700"
     },
     {
-        "title": "Belanda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Belanda",
-        "pubdate": "Sat, 12 Oct 2024 09:00:00 +0700"
+        "title": "Klasemen Liga 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Klasemen%20Liga%202",
+        "pubdate": "Sat, 12 Oct 2024 19:00:00 +0700"
     },
     {
         "title": "Bahrain vs Indonesia",
@@ -98,5 +93,10 @@
         "title": "Olahraga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Olahraga",
         "pubdate": "Fri, 11 Oct 2024 01:00:00 +0700"
+    },
+    {
+        "title": "Bola",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Bola",
+        "pubdate": "Fri, 11 Oct 2024 00:00:00 +0700"
     }
 ]
