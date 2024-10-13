@@ -10,6 +10,11 @@
         "pubdate": "Sun, 13 Oct 2024 02:00:00 -0300"
     },
     {
+        "title": "Gimnasia de Jujuy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Gimnasia%20de%20Jujuy",
+        "pubdate": "Sun, 13 Oct 2024 00:00:00 -0300"
+    },
+    {
         "title": "Olimpia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Olimpia",
         "pubdate": "Sun, 13 Oct 2024 00:00:00 -0300"
@@ -35,8 +40,8 @@
         "pubdate": "Sat, 12 Oct 2024 16:00:00 -0300"
     },
     {
-        "title": "Polonia  Portugal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Polonia%20%20Portugal",
+        "title": "Polonia - Portugal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Polonia%20-%20Portugal",
         "pubdate": "Sat, 12 Oct 2024 16:00:00 -0300"
     },
     {
@@ -93,10 +98,5 @@
         "title": "Survivor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Survivor",
         "pubdate": "Sat, 12 Oct 2024 10:00:00 -0300"
-    },
-    {
-        "title": "Palacio Libertad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Palacio%20Libertad",
-        "pubdate": "Sat, 12 Oct 2024 20:00:00 -0300"
     }
 ]
