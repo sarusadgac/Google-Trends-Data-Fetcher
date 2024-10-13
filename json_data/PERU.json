@@ -1,18 +1,28 @@
 [
     {
-        "title": "Fotos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Fotos",
-        "pubdate": "Sun, 13 Oct 2024 05:00:00 -0500"
-    },
-    {
         "title": "Finlandia  Inglaterra",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Finlandia%20%20Inglaterra",
         "pubdate": "Sun, 13 Oct 2024 11:00:00 -0500"
     },
     {
+        "title": "Fotos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Fotos",
+        "pubdate": "Sun, 13 Oct 2024 05:00:00 -0500"
+    },
+    {
         "title": "Huachipato  colo-colo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Huachipato%20%20colo-colo",
         "pubdate": "Sun, 13 Oct 2024 11:00:00 -0500"
+    },
+    {
+        "title": "Barcelona  Espanyol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Barcelona%20%20Espanyol",
+        "pubdate": "Sun, 13 Oct 2024 12:00:00 -0500"
+    },
+    {
+        "title": "Austria vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Austria%20vs",
+        "pubdate": "Sun, 13 Oct 2024 12:00:00 -0500"
     },
     {
         "title": "Peru vs",
@@ -60,8 +70,8 @@
         "pubdate": "Sat, 12 Oct 2024 17:00:00 -0500"
     },
     {
-        "title": "Mr Olympia 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Mr%20Olympia%202024",
+        "title": "Mr. Olympia 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Mr.%20Olympia%202024",
         "pubdate": "Sat, 12 Oct 2024 03:00:00 -0500"
     },
     {
@@ -88,15 +98,5 @@
         "title": "Edison Flores",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Edison%20Flores",
         "pubdate": "Sat, 12 Oct 2024 01:00:00 -0500"
-    },
-    {
-        "title": "La Equidad  Junior",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#La%20Equidad%20%20Junior",
-        "pubdate": "Sat, 12 Oct 2024 22:00:00 -0500"
-    },
-    {
-        "title": "Perú  Uruguay",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Per%C3%BA%20%20Uruguay",
-        "pubdate": "Fri, 11 Oct 2024 09:00:00 -0500"
     }
 ]
