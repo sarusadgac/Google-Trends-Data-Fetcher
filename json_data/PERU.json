@@ -15,16 +15,6 @@
         "pubdate": "Sun, 13 Oct 2024 11:00:00 -0500"
     },
     {
-        "title": "Austria vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Austria%20vs",
-        "pubdate": "Sun, 13 Oct 2024 12:00:00 -0500"
-    },
-    {
-        "title": "Copa Libertadores Femenina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Copa%20Libertadores%20Femenina",
-        "pubdate": "Sun, 13 Oct 2024 15:00:00 -0500"
-    },
-    {
         "title": "Barcelona  Espanyol",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Barcelona%20%20Espanyol",
         "pubdate": "Sun, 13 Oct 2024 12:00:00 -0500"
@@ -32,6 +22,11 @@
     {
         "title": "Alianza Universidad",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Alianza%20Universidad",
+        "pubdate": "Sun, 13 Oct 2024 15:00:00 -0500"
+    },
+    {
+        "title": "Alex Salmond",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Alex%20Salmond",
         "pubdate": "Sun, 13 Oct 2024 15:00:00 -0500"
     },
     {
@@ -57,6 +52,11 @@
     {
         "title": "Alianza Lima vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Alianza%20Lima%20vs",
+        "pubdate": "Sat, 12 Oct 2024 19:00:00 -0500"
+    },
+    {
+        "title": "Alianza Lima vs Universitario",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Alianza%20Lima%20vs%20Universitario",
         "pubdate": "Sat, 12 Oct 2024 16:00:00 -0500"
     },
     {
@@ -80,11 +80,6 @@
         "pubdate": "Sat, 12 Oct 2024 21:00:00 -0500"
     },
     {
-        "title": "Luis Ramos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Luis%20Ramos",
-        "pubdate": "Sat, 12 Oct 2024 08:00:00 -0500"
-    },
-    {
         "title": "DNI",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#DNI",
         "pubdate": "Sat, 12 Oct 2024 11:00:00 -0500"
@@ -95,8 +90,13 @@
         "pubdate": "Sat, 12 Oct 2024 17:00:00 -0500"
     },
     {
-        "title": "Suiza vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Suiza%20vs",
-        "pubdate": "Sat, 12 Oct 2024 15:00:00 -0500"
+        "title": "Mr. Olympia 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Mr.%20Olympia%202024",
+        "pubdate": "Sat, 12 Oct 2024 03:00:00 -0500"
+    },
+    {
+        "title": "Evo Morales",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Evo%20Morales",
+        "pubdate": "Sat, 12 Oct 2024 16:00:00 -0500"
     }
 ]
