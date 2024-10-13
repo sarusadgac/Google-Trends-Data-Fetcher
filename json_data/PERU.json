@@ -40,6 +40,16 @@
         "pubdate": "Sat, 12 Oct 2024 21:00:00 -0500"
     },
     {
+        "title": "Luis Ramos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Luis%20Ramos",
+        "pubdate": "Sat, 12 Oct 2024 08:00:00 -0500"
+    },
+    {
+        "title": "DNI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#DNI",
+        "pubdate": "Sat, 12 Oct 2024 11:00:00 -0500"
+    },
+    {
         "title": "Luana Alonso",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Luana%20Alonso",
         "pubdate": "Sat, 12 Oct 2024 17:00:00 -0500"
@@ -65,14 +75,14 @@
         "pubdate": "Sat, 12 Oct 2024 18:00:00 -0500"
     },
     {
-        "title": "Edison Flores",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Edison%20Flores",
-        "pubdate": "Sat, 12 Oct 2024 01:00:00 -0500"
-    },
-    {
         "title": "Columbus Crew  New England",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Columbus%20Crew%20%20New%20England",
         "pubdate": "Sat, 12 Oct 2024 21:00:00 -0500"
+    },
+    {
+        "title": "Edison Flores",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Edison%20Flores",
+        "pubdate": "Sat, 12 Oct 2024 01:00:00 -0500"
     },
     {
         "title": "Valverde",
@@ -88,15 +98,5 @@
         "title": "Perú  Uruguay",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Per%C3%BA%20%20Uruguay",
         "pubdate": "Fri, 11 Oct 2024 09:00:00 -0500"
-    },
-    {
-        "title": "Peru",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Peru",
-        "pubdate": "Fri, 11 Oct 2024 15:00:00 -0500"
-    },
-    {
-        "title": "America TV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#America%20TV",
-        "pubdate": "Fri, 11 Oct 2024 22:00:00 -0500"
     }
 ]
