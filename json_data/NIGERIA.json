@@ -1,5 +1,10 @@
 [
     {
+        "title": "Sunday Igboho",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Sunday%20Igboho",
+        "pubdate": "Mon, 14 Oct 2024 00:00:00 +0100"
+    },
+    {
         "title": "Finland vs England",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Finland%20vs%20England",
         "pubdate": "Sun, 13 Oct 2024 16:00:00 +0100"
@@ -50,6 +55,11 @@
         "pubdate": "Sun, 13 Oct 2024 16:00:00 +0100"
     },
     {
+        "title": "Norway",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Norway",
+        "pubdate": "Sun, 13 Oct 2024 22:00:00 +0100"
+    },
+    {
         "title": "Greece",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Greece",
         "pubdate": "Sun, 13 Oct 2024 22:00:00 +0100"
@@ -88,15 +98,5 @@
         "title": "Amaechi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Amaechi",
         "pubdate": "Sat, 12 Oct 2024 19:00:00 +0100"
-    },
-    {
-        "title": "India vs Bangladesh",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#India%20vs%20Bangladesh",
-        "pubdate": "Sat, 12 Oct 2024 20:00:00 +0100"
-    },
-    {
-        "title": "Yom Kippur",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Yom%20Kippur",
-        "pubdate": "Sat, 12 Oct 2024 17:00:00 +0100"
     }
 ]
