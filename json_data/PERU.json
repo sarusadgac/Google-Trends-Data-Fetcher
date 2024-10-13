@@ -20,14 +20,14 @@
         "pubdate": "Sat, 12 Oct 2024 11:00:00 -0500"
     },
     {
-        "title": "Croacia vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Croacia%20vs",
-        "pubdate": "Sat, 12 Oct 2024 00:00:00 -0500"
-    },
-    {
         "title": "Alianza Lima vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Alianza%20Lima%20vs",
         "pubdate": "Sat, 12 Oct 2024 16:00:00 -0500"
+    },
+    {
+        "title": "Croacia  Escocia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Croacia%20%20Escocia",
+        "pubdate": "Sat, 12 Oct 2024 11:00:00 -0500"
     },
     {
         "title": "Portugal",
@@ -75,19 +75,9 @@
         "pubdate": "Sat, 12 Oct 2024 01:00:00 -0500"
     },
     {
-        "title": "Andrew Irvine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Andrew%20Irvine",
-        "pubdate": "Sat, 12 Oct 2024 08:00:00 -0500"
-    },
-    {
         "title": "Columbus Crew  New England",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Columbus%20Crew%20%20New%20England",
         "pubdate": "Sat, 12 Oct 2024 21:00:00 -0500"
-    },
-    {
-        "title": "Nicolás Fonseca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Nicol%C3%A1s%20Fonseca",
-        "pubdate": "Sat, 12 Oct 2024 00:00:00 -0500"
     },
     {
         "title": "La Equidad  Junior",
@@ -98,5 +88,15 @@
         "title": "Perú  Uruguay",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Per%C3%BA%20%20Uruguay",
         "pubdate": "Fri, 11 Oct 2024 09:00:00 -0500"
+    },
+    {
+        "title": "Peru",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Peru",
+        "pubdate": "Fri, 11 Oct 2024 15:00:00 -0500"
+    },
+    {
+        "title": "America TV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#America%20TV",
+        "pubdate": "Fri, 11 Oct 2024 22:00:00 -0500"
     }
 ]
