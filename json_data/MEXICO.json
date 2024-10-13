@@ -1,5 +1,10 @@
 [
     {
+        "title": "Muxe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Muxe",
+        "pubdate": "Sun, 13 Oct 2024 00:00:00 -0600"
+    },
+    {
         "title": "Mexico vs Valencia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Mexico%20vs%20Valencia",
         "pubdate": "Sat, 12 Oct 2024 09:00:00 -0600"
@@ -15,14 +20,14 @@
         "pubdate": "Sat, 12 Oct 2024 19:00:00 -0600"
     },
     {
-        "title": "Liga MX Femenil",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Liga%20MX%20Femenil",
-        "pubdate": "Sat, 12 Oct 2024 18:00:00 -0600"
-    },
-    {
         "title": "America vs Chivas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#America%20vs%20Chivas",
         "pubdate": "Sat, 12 Oct 2024 12:00:00 -0600"
+    },
+    {
+        "title": "Liga MX Femenil",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Liga%20MX%20Femenil",
+        "pubdate": "Sat, 12 Oct 2024 18:00:00 -0600"
     },
     {
         "title": "Mr Olympia 2024",
@@ -35,9 +40,9 @@
         "pubdate": "Sat, 12 Oct 2024 17:00:00 -0600"
     },
     {
-        "title": "Taylor Rousseau Grigg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Taylor%20Rousseau%20Grigg",
-        "pubdate": "Sat, 12 Oct 2024 02:00:00 -0600"
+        "title": "Mexico vs Valencia marcador",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Mexico%20vs%20Valencia%20marcador",
+        "pubdate": "Sat, 12 Oct 2024 21:00:00 -0600"
     },
     {
         "title": "Romper el circulo",
@@ -45,9 +50,9 @@
         "pubdate": "Sat, 12 Oct 2024 00:00:00 -0600"
     },
     {
-        "title": "Croacia  Escocia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Croacia%20%20Escocia",
-        "pubdate": "Sat, 12 Oct 2024 11:00:00 -0600"
+        "title": "Taylor Rousseau Grigg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Taylor%20Rousseau%20Grigg",
+        "pubdate": "Sat, 12 Oct 2024 02:00:00 -0600"
     },
     {
         "title": "Columbus Crew  New England",
@@ -55,14 +60,14 @@
         "pubdate": "Sat, 12 Oct 2024 18:00:00 -0600"
     },
     {
+        "title": "Croacia  Escocia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Croacia%20%20Escocia",
+        "pubdate": "Sat, 12 Oct 2024 11:00:00 -0600"
+    },
+    {
         "title": "Portugal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Portugal",
         "pubdate": "Sat, 12 Oct 2024 15:00:00 -0600"
-    },
-    {
-        "title": "Mexico vs Valencia marcador",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Mexico%20vs%20Valencia%20marcador",
-        "pubdate": "Sat, 12 Oct 2024 21:00:00 -0600"
     },
     {
         "title": "TV Azteca",
@@ -93,10 +98,5 @@
         "title": "Brenda Bezares",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Brenda%20Bezares",
         "pubdate": "Sat, 12 Oct 2024 20:00:00 -0600"
-    },
-    {
-        "title": "Manuel Espino",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Manuel%20Espino",
-        "pubdate": "Sat, 12 Oct 2024 08:00:00 -0600"
     }
 ]

@@ -25,11 +25,6 @@
         "pubdate": "Sun, 13 Oct 2024 01:00:00 +0200"
     },
     {
-        "title": "Mercadona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Mercadona",
-        "pubdate": "Sat, 12 Oct 2024 11:00:00 +0200"
-    },
-    {
         "title": "Cádiz - Málaga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#C%C3%A1diz%20-%20M%C3%A1laga",
         "pubdate": "Sat, 12 Oct 2024 18:00:00 +0200"
@@ -98,5 +93,10 @@
         "title": "Dia del Pilar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Dia%20del%20Pilar",
         "pubdate": "Sat, 12 Oct 2024 09:00:00 +0200"
+    },
+    {
+        "title": "La 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#La%201",
+        "pubdate": "Sat, 12 Oct 2024 21:00:00 +0200"
     }
 ]

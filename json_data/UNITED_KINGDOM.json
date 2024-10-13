@@ -5,6 +5,11 @@
         "pubdate": "Sun, 13 Oct 2024 00:00:00 +0100"
     },
     {
+        "title": "Us",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Us",
+        "pubdate": "Sun, 13 Oct 2024 01:00:00 +0100"
+    },
+    {
         "title": "Alex Salmond",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Alex%20Salmond",
         "pubdate": "Sat, 12 Oct 2024 18:00:00 +0100"
@@ -60,14 +65,14 @@
         "pubdate": "Sat, 12 Oct 2024 19:00:00 +0100"
     },
     {
-        "title": "America's Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#America's%20Cup",
-        "pubdate": "Sat, 12 Oct 2024 17:00:00 +0100"
-    },
-    {
         "title": "Jackmaster",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Jackmaster",
         "pubdate": "Sat, 12 Oct 2024 19:00:00 +0100"
+    },
+    {
+        "title": "America's Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#America's%20Cup",
+        "pubdate": "Sat, 12 Oct 2024 17:00:00 +0100"
     },
     {
         "title": "Stanley Tucci",
@@ -93,10 +98,5 @@
         "title": "Spain vs Denmark",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Spain%20vs%20Denmark",
         "pubdate": "Sat, 12 Oct 2024 20:00:00 +0100"
-    },
-    {
-        "title": "Conor Benn",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Conor%20Benn",
-        "pubdate": "Sat, 12 Oct 2024 10:00:00 +0100"
     }
 ]
