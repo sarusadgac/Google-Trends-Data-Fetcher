@@ -65,11 +65,6 @@
         "pubdate": "Sun, 13 Oct 2024 22:00:00 +0200"
     },
     {
-        "title": "Meningitis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Meningitis",
-        "pubdate": "Sun, 13 Oct 2024 22:00:00 +0200"
-    },
-    {
         "title": "Gold",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Gold",
         "pubdate": "Sun, 13 Oct 2024 23:00:00 +0200"
@@ -98,5 +93,10 @@
         "title": "Lamine Yamal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Lamine%20Yamal",
         "pubdate": "Sat, 12 Oct 2024 21:00:00 +0200"
+    },
+    {
+        "title": "Bivol vs Beterbiev",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bivol%20vs%20Beterbiev",
+        "pubdate": "Sat, 12 Oct 2024 18:00:00 +0200"
     }
 ]
