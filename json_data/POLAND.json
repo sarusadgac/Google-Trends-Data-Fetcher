@@ -15,6 +15,11 @@
         "pubdate": "Mon, 14 Oct 2024 00:00:00 +0200"
     },
     {
+        "title": "Budda",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Budda",
+        "pubdate": "Sun, 13 Oct 2024 12:00:00 +0200"
+    },
+    {
         "title": "Maciej Zakościelny",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Maciej%20Zako%C5%9Bcielny",
         "pubdate": "Sun, 13 Oct 2024 21:00:00 +0200"
@@ -93,10 +98,5 @@
         "title": "Legend",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Legend",
         "pubdate": "Sun, 13 Oct 2024 00:00:00 +0200"
-    },
-    {
-        "title": "Pieniądze to nie wszystko",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Pieni%C4%85dze%20to%20nie%20wszystko",
-        "pubdate": "Sun, 13 Oct 2024 17:00:00 +0200"
     }
 ]
