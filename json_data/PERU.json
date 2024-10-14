@@ -1,7 +1,7 @@
 [
     {
-        "title": "Paro nacional",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Paro%20nacional",
+        "title": "Paro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Paro",
         "pubdate": "Mon, 14 Oct 2024 02:00:00 -0500"
     },
     {
@@ -43,11 +43,6 @@
         "title": "Barcelona  Espanyol",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Barcelona%20%20Espanyol",
         "pubdate": "Sun, 13 Oct 2024 12:00:00 -0500"
-    },
-    {
-        "title": "Antauro Humala",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Antauro%20Humala",
-        "pubdate": "Sun, 13 Oct 2024 18:00:00 -0500"
     },
     {
         "title": "Copa peru",
@@ -98,5 +93,10 @@
         "title": "España",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Espa%C3%B1a",
         "pubdate": "Sat, 12 Oct 2024 20:00:00 -0500"
+    },
+    {
+        "title": "Alianza Lima vs Universitario",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Alianza%20Lima%20vs%20Universitario",
+        "pubdate": "Sat, 12 Oct 2024 16:00:00 -0500"
     }
 ]
