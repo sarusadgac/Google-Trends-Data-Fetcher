@@ -10,6 +10,11 @@
         "pubdate": "Mon, 14 Oct 2024 02:00:00 +0200"
     },
     {
+        "title": "Skanstullsbron",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Skanstullsbron",
+        "pubdate": "Mon, 14 Oct 2024 09:00:00 +0200"
+    },
+    {
         "title": "Azealia Banks",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Azealia%20Banks",
         "pubdate": "Mon, 14 Oct 2024 08:00:00 +0200"
@@ -33,6 +38,11 @@
         "title": "Damallsvenskan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Damallsvenskan",
         "pubdate": "Sun, 13 Oct 2024 08:00:00 +0200"
+    },
+    {
+        "title": "Partiledardebatt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Partiledardebatt",
+        "pubdate": "Sun, 13 Oct 2024 20:00:00 +0200"
     },
     {
         "title": "Bollnäs",
@@ -88,15 +98,5 @@
         "title": "Duplantis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Duplantis",
         "pubdate": "Fri, 11 Oct 2024 17:00:00 +0200"
-    },
-    {
-        "title": "Nihon Hidankyo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Nihon%20Hidankyo",
-        "pubdate": "Fri, 11 Oct 2024 12:00:00 +0200"
-    },
-    {
-        "title": "Cecilia Lind",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Cecilia%20Lind",
-        "pubdate": "Fri, 11 Oct 2024 14:00:00 +0200"
     }
 ]

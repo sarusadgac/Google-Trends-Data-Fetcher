@@ -15,11 +15,6 @@
         "pubdate": "Sun, 13 Oct 2024 17:00:00 -0500"
     },
     {
-        "title": "Austria  Noruega",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Austria%20%20Noruega",
-        "pubdate": "Sun, 13 Oct 2024 12:00:00 -0500"
-    },
-    {
         "title": "Paro indefinido",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Paro%20indefinido",
         "pubdate": "Sun, 13 Oct 2024 22:00:00 -0500"
@@ -27,6 +22,11 @@
     {
         "title": "Alianza Universidad",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Alianza%20Universidad",
+        "pubdate": "Sun, 13 Oct 2024 15:00:00 -0500"
+    },
+    {
+        "title": "Austria  Noruega",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Austria%20%20Noruega",
         "pubdate": "Sun, 13 Oct 2024 15:00:00 -0500"
     },
     {
@@ -38,6 +38,11 @@
         "title": "Barcelona  Espanyol",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Barcelona%20%20Espanyol",
         "pubdate": "Sun, 13 Oct 2024 12:00:00 -0500"
+    },
+    {
+        "title": "Grecia  Irlanda",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Grecia%20%20Irlanda",
+        "pubdate": "Sun, 13 Oct 2024 16:00:00 -0500"
     },
     {
         "title": "Lula Da Silva",
@@ -93,10 +98,5 @@
         "title": "Estados Unidos  Panamá",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Estados%20Unidos%20%20Panam%C3%A1",
         "pubdate": "Sat, 12 Oct 2024 21:00:00 -0500"
-    },
-    {
-        "title": "Torneo de Reservas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Torneo%20de%20Reservas",
-        "pubdate": "Sat, 12 Oct 2024 17:00:00 -0500"
     }
 ]
