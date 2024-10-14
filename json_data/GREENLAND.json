@@ -1,18 +1,8 @@
 [
     {
-        "title": "Cowboys",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cowboys",
-        "pubdate": "Sun, 13 Oct 2024 09:00:00 -0700"
-    },
-    {
-        "title": "Nina Chuba",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Nina%20Chuba",
-        "pubdate": "Sun, 13 Oct 2024 14:00:00 +0200"
-    },
-    {
-        "title": "Joker",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Joker",
-        "pubdate": "Sun, 13 Oct 2024 22:00:00 +0200"
+        "title": "Finland vs England",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Finland%20vs%20England",
+        "pubdate": "Sun, 13 Oct 2024 14:00:00 +0100"
     },
     {
         "title": "北韓",
@@ -20,19 +10,9 @@
         "pubdate": "Mon, 14 Oct 2024 00:00:00 +0800"
     },
     {
-        "title": "ドジャース対 メッツ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%89%E3%82%B8%E3%83%A3%E3%83%BC%E3%82%B9%E5%AF%BE%20%E3%83%A1%E3%83%83%E3%83%84",
-        "pubdate": "Mon, 14 Oct 2024 08:00:00 +0900"
-    },
-    {
         "title": "SpaceX",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#SpaceX",
         "pubdate": "Mon, 14 Oct 2024 05:30:00 +0530"
-    },
-    {
-        "title": "Finland vs England",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Finland%20vs%20England",
-        "pubdate": "Sun, 13 Oct 2024 14:00:00 +0100"
     },
     {
         "title": "Финляндия – Англия",
@@ -40,34 +20,49 @@
         "pubdate": "Sun, 13 Oct 2024 19:00:00 +0300"
     },
     {
+        "title": "Nina Chuba",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Nina%20Chuba",
+        "pubdate": "Sun, 13 Oct 2024 14:00:00 +0200"
+    },
+    {
+        "title": "Cowboys",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cowboys",
+        "pubdate": "Sun, 13 Oct 2024 09:00:00 -0700"
+    },
+    {
+        "title": "ドジャース対 メッツ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%89%E3%82%B8%E3%83%A3%E3%83%BC%E3%82%B9%E5%AF%BE%20%E3%83%A1%E3%83%83%E3%83%84",
+        "pubdate": "Mon, 14 Oct 2024 08:00:00 +0900"
+    },
+    {
+        "title": "Joker",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Joker",
+        "pubdate": "Sun, 13 Oct 2024 22:00:00 +0200"
+    },
+    {
+        "title": "Epic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Epic",
+        "pubdate": "Mon, 14 Oct 2024 11:00:00 +1300"
+    },
+    {
+        "title": "คิงส์คัพ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TH#%E0%B8%84%E0%B8%B4%E0%B8%87%E0%B8%AA%E0%B9%8C%E0%B8%84%E0%B8%B1%E0%B8%9E",
+        "pubdate": "Mon, 14 Oct 2024 10:00:00 +0700"
+    },
+    {
         "title": "Hasan Koyuncu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Hasan%20Koyuncu",
         "pubdate": "Mon, 14 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "Chicago Marathon 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Chicago%20Marathon%202024",
-        "pubdate": "Sun, 13 Oct 2024 12:00:00 +0300"
+        "title": "Áo – Na Uy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#%C3%81o%20%E2%80%93%20Na%20Uy",
+        "pubdate": "Mon, 14 Oct 2024 04:00:00 +0700"
     },
     {
-        "title": "Cluj-Napoca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Cluj-Napoca",
-        "pubdate": "Mon, 14 Oct 2024 00:00:00 +0300"
-    },
-    {
-        "title": "Landskamp Norge",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Landskamp%20Norge",
-        "pubdate": "Sun, 13 Oct 2024 09:00:00 +0200"
-    },
-    {
-        "title": "England",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#England",
-        "pubdate": "Mon, 14 Oct 2024 08:00:00 +0800"
-    },
-    {
-        "title": "Oktagon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Oktagon",
-        "pubdate": "Sun, 13 Oct 2024 11:00:00 +0200"
+        "title": "Liga Femenina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Liga%20Femenina",
+        "pubdate": "Mon, 14 Oct 2024 00:00:00 +0200"
     },
     {
         "title": "Pritam Singh",
@@ -75,28 +70,33 @@
         "pubdate": "Mon, 14 Oct 2024 10:00:00 +0800"
     },
     {
-        "title": "Clint Eastwood",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Clint%20Eastwood",
+        "title": "NAVI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=UA#NAVI",
+        "pubdate": "Mon, 14 Oct 2024 01:00:00 +0300"
+    },
+    {
+        "title": "Ambulance",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Ambulance",
+        "pubdate": "Mon, 14 Oct 2024 00:00:00 +0200"
+    },
+    {
+        "title": "Oktagon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Oktagon",
+        "pubdate": "Sun, 13 Oct 2024 11:00:00 +0200"
+    },
+    {
+        "title": "Selvi Boylum Al Yazmalım",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Selvi%20Boylum%20Al%20Yazmal%C4%B1m",
         "pubdate": "Mon, 14 Oct 2024 00:00:00 +0300"
     },
     {
-        "title": "Juan Pedro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Juan%20Pedro",
-        "pubdate": "Mon, 14 Oct 2024 00:00:00 -0300"
+        "title": "Fotos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Fotos",
+        "pubdate": "Sun, 13 Oct 2024 17:00:00 -0600"
     },
     {
-        "title": "Nana Mouskouri",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Nana%20Mouskouri",
-        "pubdate": "Mon, 14 Oct 2024 00:00:00 +0200"
-    },
-    {
-        "title": "Sunday Igboho",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Sunday%20Igboho",
-        "pubdate": "Mon, 14 Oct 2024 00:00:00 +0100"
-    },
-    {
-        "title": "Fuochi d'artificio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Fuochi%20d'artificio",
-        "pubdate": "Mon, 14 Oct 2024 00:00:00 +0200"
+        "title": "汪建民",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%B1%AA%E5%BB%BA%E6%B0%91",
+        "pubdate": "Mon, 14 Oct 2024 01:00:00 +0800"
     }
 ]
