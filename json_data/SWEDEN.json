@@ -25,11 +25,6 @@
         "pubdate": "Sun, 13 Oct 2024 15:00:00 +0200"
     },
     {
-        "title": "Per Carlén",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Per%20Carl%C3%A9n",
-        "pubdate": "Sun, 13 Oct 2024 00:00:00 +0200"
-    },
-    {
         "title": "R Kelly",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#R%20Kelly",
         "pubdate": "Sun, 13 Oct 2024 16:00:00 +0200"
@@ -98,5 +93,10 @@
         "title": "Nihon Hidankyo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Nihon%20Hidankyo",
         "pubdate": "Fri, 11 Oct 2024 12:00:00 +0200"
+    },
+    {
+        "title": "Cecilia Lind",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Cecilia%20Lind",
+        "pubdate": "Fri, 11 Oct 2024 14:00:00 +0200"
     }
 ]
