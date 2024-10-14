@@ -5,6 +5,11 @@
         "pubdate": "Mon, 14 Oct 2024 08:00:00 +0900"
     },
     {
+        "title": "スンハン",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%82%B9%E3%83%B3%E3%83%8F%E3%83%B3",
+        "pubdate": "Mon, 14 Oct 2024 10:00:00 +0900"
+    },
+    {
         "title": "府中牝馬ステークス",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%BA%9C%E4%B8%AD%E7%89%9D%E9%A6%AC%E3%82%B9%E3%83%86%E3%83%BC%E3%82%AF%E3%82%B9",
         "pubdate": "Mon, 14 Oct 2024 08:00:00 +0900"
@@ -93,10 +98,5 @@
         "title": "ドラゴンボールDAIMA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%ABDAIMA",
         "pubdate": "Sat, 12 Oct 2024 00:00:00 +0900"
-    },
-    {
-        "title": "ボクシング",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%9C%E3%82%AF%E3%82%B7%E3%83%B3%E3%82%B0",
-        "pubdate": "Sat, 12 Oct 2024 20:00:00 +0900"
     }
 ]

@@ -40,14 +40,14 @@
         "pubdate": "Sun, 13 Oct 2024 00:00:00 +0300"
     },
     {
-        "title": "Harry Kane",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Harry%20Kane",
-        "pubdate": "Sun, 13 Oct 2024 21:00:00 +0300"
-    },
-    {
         "title": "Jude Bellingham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Jude%20Bellingham",
         "pubdate": "Sun, 13 Oct 2024 22:00:00 +0300"
+    },
+    {
+        "title": "Harry Kane",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Harry%20Kane",
+        "pubdate": "Sun, 13 Oct 2024 21:00:00 +0300"
     },
     {
         "title": "Bellingham",
@@ -85,8 +85,8 @@
         "pubdate": "Sat, 12 Oct 2024 22:00:00 +0300"
     },
     {
-        "title": "Where do i begin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Where%20do%20i%20begin",
+        "title": "Where DO i begin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Where%20DO%20i%20begin",
         "pubdate": "Sat, 12 Oct 2024 22:00:00 +0300"
     },
     {
