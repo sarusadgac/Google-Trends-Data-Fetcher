@@ -20,6 +20,11 @@
         "pubdate": "Mon, 14 Oct 2024 11:00:00 +0800"
     },
     {
+        "title": "Allianz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Allianz",
+        "pubdate": "Mon, 14 Oct 2024 17:00:00 +0800"
+    },
+    {
         "title": "Mentimeter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Mentimeter",
         "pubdate": "Mon, 14 Oct 2024 12:00:00 +0800"
@@ -35,14 +40,19 @@
         "pubdate": "Mon, 14 Oct 2024 10:00:00 +0800"
     },
     {
+        "title": "Stamford Catering",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Stamford%20Catering",
+        "pubdate": "Mon, 14 Oct 2024 19:00:00 +0800"
+    },
+    {
+        "title": "Singapore rain",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Singapore%20rain",
+        "pubdate": "Mon, 14 Oct 2024 14:00:00 +0800"
+    },
+    {
         "title": "North Korea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#North%20Korea",
         "pubdate": "Mon, 14 Oct 2024 16:00:00 +0800"
-    },
-    {
-        "title": "Allianz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Allianz",
-        "pubdate": "Mon, 14 Oct 2024 17:00:00 +0800"
     },
     {
         "title": "Baba Siddique",
@@ -58,11 +68,6 @@
         "title": "Cricket",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Cricket",
         "pubdate": "Sun, 13 Oct 2024 06:00:00 +0800"
-    },
-    {
-        "title": "Jackson Wang",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Jackson%20Wang",
-        "pubdate": "Sun, 13 Oct 2024 01:00:00 +0800"
     },
     {
         "title": "Felicia Chin",
@@ -93,10 +98,5 @@
         "title": "Tesla",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Tesla",
         "pubdate": "Thu, 10 Oct 2024 23:00:00 +0800"
-    },
-    {
-        "title": "George Baldock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#George%20Baldock",
-        "pubdate": "Thu, 10 Oct 2024 07:00:00 +0800"
     }
 ]

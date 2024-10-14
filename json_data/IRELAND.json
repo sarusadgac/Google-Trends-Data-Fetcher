@@ -1,5 +1,10 @@
 [
     {
+        "title": "BPerfect",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#BPerfect",
+        "pubdate": "Mon, 14 Oct 2024 01:00:00 +0100"
+    },
+    {
         "title": "Cowboys vs Lions",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Cowboys%20vs%20Lions",
         "pubdate": "Mon, 14 Oct 2024 07:00:00 +0100"
@@ -50,8 +55,8 @@
         "pubdate": "Sun, 13 Oct 2024 20:00:00 +0100"
     },
     {
-        "title": "Geraldine plunkett",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Geraldine%20plunkett",
+        "title": "Geraldine Plunkett",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Geraldine%20Plunkett",
         "pubdate": "Sun, 13 Oct 2024 18:00:00 +0100"
     },
     {
@@ -93,10 +98,5 @@
         "title": "SpaceX",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#SpaceX",
         "pubdate": "Sun, 13 Oct 2024 16:00:00 +0100"
-    },
-    {
-        "title": "Chicago Marathon 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Chicago%20Marathon%202024",
-        "pubdate": "Sun, 13 Oct 2024 12:00:00 +0100"
     }
 ]
