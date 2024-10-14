@@ -5,19 +5,14 @@
         "pubdate": "Mon, 14 Oct 2024 12:00:00 -0500"
     },
     {
-        "title": "Alemania  Países Bajos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Alemania%20%20Pa%C3%ADses%20Bajos",
-        "pubdate": "Mon, 14 Oct 2024 09:00:00 -0500"
-    },
-    {
-        "title": "Bélgica - Francia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#B%C3%A9lgica%20-%20Francia",
+        "title": "Bélgica-Francia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#B%C3%A9lgica-Francia",
         "pubdate": "Mon, 14 Oct 2024 12:00:00 -0500"
     },
     {
-        "title": "Morat",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Morat",
-        "pubdate": "Mon, 14 Oct 2024 10:00:00 -0500"
+        "title": "Alemania  Países Bajos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Alemania%20%20Pa%C3%ADses%20Bajos",
+        "pubdate": "Mon, 14 Oct 2024 09:00:00 -0500"
     },
     {
         "title": "Italia vs",
@@ -27,12 +22,17 @@
     {
         "title": "Paro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Paro",
-        "pubdate": "Mon, 14 Oct 2024 07:00:00 -0500"
+        "pubdate": "Mon, 14 Oct 2024 02:00:00 -0500"
     },
     {
-        "title": "Paro nacional",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Paro%20nacional",
-        "pubdate": "Mon, 14 Oct 2024 02:00:00 -0500"
+        "title": "Morat",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Morat",
+        "pubdate": "Mon, 14 Oct 2024 10:00:00 -0500"
+    },
+    {
+        "title": "Partidos Eliminatorias",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Partidos%20Eliminatorias",
+        "pubdate": "Mon, 14 Oct 2024 15:00:00 -0500"
     },
     {
         "title": "Kevin Lugo",
@@ -65,6 +65,11 @@
         "pubdate": "Sun, 13 Oct 2024 17:00:00 -0500"
     },
     {
+        "title": "Copa Libertadores femenina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Copa%20Libertadores%20femenina",
+        "pubdate": "Sun, 13 Oct 2024 15:00:00 -0500"
+    },
+    {
         "title": "Austria  Noruega",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Austria%20%20Noruega",
         "pubdate": "Sun, 13 Oct 2024 15:00:00 -0500"
@@ -93,10 +98,5 @@
         "title": "Copa peru",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Copa%20peru",
         "pubdate": "Sun, 13 Oct 2024 20:00:00 -0500"
-    },
-    {
-        "title": "Lula da Silva",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Lula%20da%20Silva",
-        "pubdate": "Sun, 13 Oct 2024 11:00:00 -0500"
     }
 ]
