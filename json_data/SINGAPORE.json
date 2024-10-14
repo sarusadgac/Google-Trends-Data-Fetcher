@@ -1,5 +1,10 @@
 [
     {
+        "title": "Cat",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Cat",
+        "pubdate": "Tue, 15 Oct 2024 00:00:00 +0800"
+    },
+    {
         "title": "Pritam Singh",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Pritam%20Singh",
         "pubdate": "Mon, 14 Oct 2024 10:00:00 +0800"
@@ -73,11 +78,6 @@
         "title": "SpaceX",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#SpaceX",
         "pubdate": "Sun, 13 Oct 2024 22:00:00 +0800"
-    },
-    {
-        "title": "Cricket",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Cricket",
-        "pubdate": "Sun, 13 Oct 2024 06:00:00 +0800"
     },
     {
         "title": "Felicia Chin",
