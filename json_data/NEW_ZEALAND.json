@@ -40,11 +40,6 @@
         "pubdate": "Mon, 14 Oct 2024 18:00:00 +1300"
     },
     {
-        "title": "FIFA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#FIFA",
-        "pubdate": "Mon, 14 Oct 2024 22:00:00 +1300"
-    },
-    {
         "title": "Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Trump",
         "pubdate": "Mon, 14 Oct 2024 14:00:00 +1300"
@@ -98,5 +93,10 @@
         "title": "England Football",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#England%20Football",
         "pubdate": "Mon, 14 Oct 2024 10:00:00 +1300"
+    },
+    {
+        "title": "Tom Cruise",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Tom%20Cruise",
+        "pubdate": "Mon, 14 Oct 2024 14:00:00 +1300"
     }
 ]

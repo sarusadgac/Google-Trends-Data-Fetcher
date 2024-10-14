@@ -20,6 +20,11 @@
         "pubdate": "Mon, 14 Oct 2024 10:00:00 -0600"
     },
     {
+        "title": "Seunghan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Seunghan",
+        "pubdate": "Mon, 14 Oct 2024 02:00:00 -0600"
+    },
+    {
         "title": "Dodgers vs Mets",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Dodgers%20vs%20Mets",
         "pubdate": "Sun, 13 Oct 2024 14:00:00 -0600"
@@ -45,14 +50,14 @@
         "pubdate": "Sun, 13 Oct 2024 15:00:00 -0600"
     },
     {
-        "title": "Bengals",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Bengals",
-        "pubdate": "Sun, 13 Oct 2024 20:00:00 -0600"
-    },
-    {
         "title": "Barack Obama",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Barack%20Obama",
         "pubdate": "Sun, 13 Oct 2024 09:00:00 -0600"
+    },
+    {
+        "title": "Bengals",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Bengals",
+        "pubdate": "Sun, 13 Oct 2024 20:00:00 -0600"
     },
     {
         "title": "Bears  Jaguars",
@@ -93,10 +98,5 @@
         "title": "Indiana Jones",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Indiana%20Jones",
         "pubdate": "Sun, 13 Oct 2024 18:00:00 -0600"
-    },
-    {
-        "title": "Rafa Polinesio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Rafa%20Polinesio",
-        "pubdate": "Sun, 13 Oct 2024 22:00:00 -0600"
     }
 ]
