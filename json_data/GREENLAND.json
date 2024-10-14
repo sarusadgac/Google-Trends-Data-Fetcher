@@ -1,23 +1,8 @@
 [
     {
-        "title": "Cowboys",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cowboys",
-        "pubdate": "Sun, 13 Oct 2024 09:00:00 -0700"
-    },
-    {
-        "title": "施政報告2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A2024",
-        "pubdate": "Mon, 14 Oct 2024 09:00:00 +0800"
-    },
-    {
-        "title": "Hairy Bikers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Hairy%20Bikers",
-        "pubdate": "Mon, 14 Oct 2024 08:00:00 +0100"
-    },
-    {
-        "title": "Thomas Astan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Thomas%20Astan",
-        "pubdate": "Mon, 14 Oct 2024 09:00:00 +0200"
+        "title": "ドジャース対 メッツ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%89%E3%82%B8%E3%83%A3%E3%83%BC%E3%82%B9%E5%AF%BE%20%E3%83%A1%E3%83%83%E3%83%84",
+        "pubdate": "Mon, 14 Oct 2024 08:00:00 +0900"
     },
     {
         "title": "Stellantis",
@@ -25,14 +10,24 @@
         "pubdate": "Mon, 14 Oct 2024 09:00:00 +0200"
     },
     {
-        "title": "ドジャース対 メッツ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%89%E3%82%B8%E3%83%A3%E3%83%BC%E3%82%B9%E5%AF%BE%20%E3%83%A1%E3%83%83%E3%83%84",
-        "pubdate": "Mon, 14 Oct 2024 08:00:00 +0900"
+        "title": "Hairy Bikers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Hairy%20Bikers",
+        "pubdate": "Mon, 14 Oct 2024 08:00:00 +0100"
     },
     {
-        "title": "Hyundai IPO GMP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Hyundai%20IPO%20GMP",
-        "pubdate": "Mon, 14 Oct 2024 11:30:00 +0530"
+        "title": "施政報告2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A2024",
+        "pubdate": "Mon, 14 Oct 2024 09:00:00 +0800"
+    },
+    {
+        "title": "Thomas Astan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Thomas%20Astan",
+        "pubdate": "Mon, 14 Oct 2024 09:00:00 +0200"
+    },
+    {
+        "title": "Cowboys",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cowboys",
+        "pubdate": "Sun, 13 Oct 2024 09:00:00 -0700"
     },
     {
         "title": "Екатерина Андреева",
@@ -40,53 +35,23 @@
         "pubdate": "Sun, 13 Oct 2024 16:00:00 +0300"
     },
     {
+        "title": "Hyundai IPO GMP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Hyundai%20IPO%20GMP",
+        "pubdate": "Mon, 14 Oct 2024 11:30:00 +0530"
+    },
+    {
         "title": "NTNU",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#NTNU",
         "pubdate": "Mon, 14 Oct 2024 09:00:00 +0200"
     },
     {
-        "title": "Epic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Epic",
-        "pubdate": "Mon, 14 Oct 2024 11:00:00 +1300"
-    },
-    {
-        "title": "Nederland Duitsland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nederland%20Duitsland",
-        "pubdate": "Sun, 13 Oct 2024 15:00:00 +0200"
-    },
-    {
-        "title": "Adani",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Adani",
-        "pubdate": "Mon, 14 Oct 2024 10:00:00 +0300"
-    },
-    {
-        "title": "Δακτυλιοσ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%94%CE%B1%CE%BA%CF%84%CF%85%CE%BB%CE%B9%CE%BF%CF%83",
-        "pubdate": "Mon, 14 Oct 2024 07:00:00 +0300"
-    },
-    {
-        "title": "이진호",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9D%B4%EC%A7%84%ED%98%B8",
-        "pubdate": "Mon, 14 Oct 2024 11:00:00 +0900"
-    },
-    {
-        "title": "Mets vs Dodgers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Mets%20vs%20Dodgers",
-        "pubdate": "Mon, 14 Oct 2024 00:00:00 -0400"
-    },
-    {
-        "title": "China Taiwan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#China%20Taiwan",
-        "pubdate": "Mon, 14 Oct 2024 07:00:00 +0300"
-    },
-    {
-        "title": "Ehefrau landet Flugzeug",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ehefrau%20landet%20Flugzeug",
+        "title": "Han Kang",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Han%20Kang",
         "pubdate": "Mon, 14 Oct 2024 07:00:00 +0200"
     },
     {
-        "title": "شيماء سيف",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#%D8%B4%D9%8A%D9%85%D8%A7%D8%A1%20%D8%B3%D9%8A%D9%81",
+        "title": "Marcus Aurelius",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Marcus%20Aurelius",
         "pubdate": "Mon, 14 Oct 2024 00:00:00 +0300"
     },
     {
@@ -95,8 +60,43 @@
         "pubdate": "Mon, 14 Oct 2024 08:00:00 +0100"
     },
     {
-        "title": "Clint Eastwood",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Clint%20Eastwood",
-        "pubdate": "Mon, 14 Oct 2024 00:00:00 +0300"
+        "title": "RIIZE",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#RIIZE",
+        "pubdate": "Mon, 14 Oct 2024 01:00:00 +0800"
+    },
+    {
+        "title": "Mets vs Dodgers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Mets%20vs%20Dodgers",
+        "pubdate": "Mon, 14 Oct 2024 00:00:00 -0400"
+    },
+    {
+        "title": "Ruby Rubacuori",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Ruby%20Rubacuori",
+        "pubdate": "Mon, 14 Oct 2024 06:00:00 +0200"
+    },
+    {
+        "title": "โหนกระแสวันนี้",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TH#%E0%B9%82%E0%B8%AB%E0%B8%99%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B9%81%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%99%E0%B8%B5%E0%B9%89",
+        "pubdate": "Mon, 14 Oct 2024 14:00:00 +0700"
+    },
+    {
+        "title": "Bahrain",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Bahrain",
+        "pubdate": "Mon, 14 Oct 2024 01:00:00 +0700"
+    },
+    {
+        "title": "Ziobro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ziobro",
+        "pubdate": "Mon, 14 Oct 2024 09:00:00 +0200"
+    },
+    {
+        "title": "Cowboys vs Lions",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Cowboys%20vs%20Lions",
+        "pubdate": "Mon, 14 Oct 2024 07:00:00 +0100"
+    },
+    {
+        "title": "Áo – Na Uy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#%C3%81o%20%E2%80%93%20Na%20Uy",
+        "pubdate": "Mon, 14 Oct 2024 04:00:00 +0700"
     }
 ]
