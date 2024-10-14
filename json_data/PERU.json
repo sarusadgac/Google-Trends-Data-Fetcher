@@ -1,7 +1,7 @@
 [
     {
-        "title": "Bélgica  Francia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#B%C3%A9lgica%20%20Francia",
+        "title": "Bélgica - Francia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#B%C3%A9lgica%20-%20Francia",
         "pubdate": "Mon, 14 Oct 2024 12:00:00 -0500"
     },
     {
@@ -10,14 +10,19 @@
         "pubdate": "Mon, 14 Oct 2024 09:00:00 -0500"
     },
     {
+        "title": "Italia vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Italia%20vs",
+        "pubdate": "Mon, 14 Oct 2024 05:00:00 -0500"
+    },
+    {
         "title": "Paro de transportistas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Paro%20de%20transportistas",
         "pubdate": "Mon, 14 Oct 2024 02:00:00 -0500"
     },
     {
-        "title": "Italia vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Italia%20vs",
-        "pubdate": "Mon, 14 Oct 2024 05:00:00 -0500"
+        "title": "Eliminatorias Sudamericanas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Eliminatorias%20Sudamericanas",
+        "pubdate": "Mon, 14 Oct 2024 15:00:00 -0500"
     },
     {
         "title": "Morat",
@@ -25,19 +30,19 @@
         "pubdate": "Mon, 14 Oct 2024 10:00:00 -0500"
     },
     {
-        "title": "Partidos Eliminatorias",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Partidos%20Eliminatorias",
-        "pubdate": "Mon, 14 Oct 2024 15:00:00 -0500"
-    },
-    {
         "title": "Kevin Lugo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Kevin%20Lugo",
         "pubdate": "Mon, 14 Oct 2024 12:00:00 -0500"
     },
     {
-        "title": "Cathy Barriga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Cathy%20Barriga",
-        "pubdate": "Mon, 14 Oct 2024 15:00:00 -0500"
+        "title": "Eliminatorias Sudamericanas 2026",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Eliminatorias%20Sudamericanas%202026",
+        "pubdate": "Mon, 14 Oct 2024 17:00:00 -0500"
+    },
+    {
+        "title": "MEF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#MEF",
+        "pubdate": "Mon, 14 Oct 2024 14:00:00 -0500"
     },
     {
         "title": "Puente Ricardo Palma",
@@ -45,9 +50,14 @@
         "pubdate": "Mon, 14 Oct 2024 09:00:00 -0500"
     },
     {
-        "title": "MEF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#MEF",
-        "pubdate": "Mon, 14 Oct 2024 14:00:00 -0500"
+        "title": "PJ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#PJ",
+        "pubdate": "Mon, 14 Oct 2024 17:00:00 -0500"
+    },
+    {
+        "title": "Sutep",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Sutep",
+        "pubdate": "Mon, 14 Oct 2024 17:00:00 -0500"
     },
     {
         "title": "Finlandia  Inglaterra",
@@ -58,6 +68,11 @@
         "title": "Fotos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Fotos",
         "pubdate": "Sun, 13 Oct 2024 05:00:00 -0500"
+    },
+    {
+        "title": "Liga 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Liga%202",
+        "pubdate": "Sun, 13 Oct 2024 15:00:00 -0500"
     },
     {
         "title": "Comerciantes FC",
@@ -80,23 +95,8 @@
         "pubdate": "Sun, 13 Oct 2024 11:00:00 -0500"
     },
     {
-        "title": "Alianza Universidad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Alianza%20Universidad",
-        "pubdate": "Sun, 13 Oct 2024 15:00:00 -0500"
-    },
-    {
         "title": "Barcelona  Espanyol",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Barcelona%20%20Espanyol",
         "pubdate": "Sun, 13 Oct 2024 12:00:00 -0500"
-    },
-    {
-        "title": "Antauro Humala",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Antauro%20Humala",
-        "pubdate": "Sun, 13 Oct 2024 18:00:00 -0500"
-    },
-    {
-        "title": "Copa peru",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Copa%20peru",
-        "pubdate": "Sun, 13 Oct 2024 20:00:00 -0500"
     }
 ]

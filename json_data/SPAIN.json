@@ -1,5 +1,20 @@
 [
     {
+        "title": "Digi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Digi",
+        "pubdate": "Tue, 15 Oct 2024 00:00:00 +0200"
+    },
+    {
+        "title": "Capilla Sixtina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Capilla%20Sixtina",
+        "pubdate": "Tue, 15 Oct 2024 00:00:00 +0200"
+    },
+    {
+        "title": "Miguel angel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Miguel%20angel",
+        "pubdate": "Tue, 15 Oct 2024 00:00:00 +0200"
+    },
+    {
         "title": "La Oreja de Van Gogh",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#La%20Oreja%20de%20Van%20Gogh",
         "pubdate": "Mon, 14 Oct 2024 15:00:00 +0200"
@@ -30,9 +45,14 @@
         "pubdate": "Mon, 14 Oct 2024 21:00:00 +0200"
     },
     {
-        "title": "Virus influenza B",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Virus%20influenza%20B",
+        "title": "Virus Influenza B",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Virus%20Influenza%20B",
         "pubdate": "Mon, 14 Oct 2024 12:00:00 +0200"
+    },
+    {
+        "title": "Badosa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Badosa",
+        "pubdate": "Mon, 14 Oct 2024 15:00:00 +0200"
     },
     {
         "title": "Alaba",
@@ -40,19 +60,14 @@
         "pubdate": "Mon, 14 Oct 2024 13:00:00 +0200"
     },
     {
-        "title": "Paula Badosa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Paula%20Badosa",
-        "pubdate": "Mon, 14 Oct 2024 15:00:00 +0200"
+        "title": "Maria Pombo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Maria%20Pombo",
+        "pubdate": "Mon, 14 Oct 2024 18:00:00 +0200"
     },
     {
         "title": "Malu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Malu",
         "pubdate": "Mon, 14 Oct 2024 23:00:00 +0200"
-    },
-    {
-        "title": "Maria Pombo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Maria%20Pombo",
-        "pubdate": "Mon, 14 Oct 2024 18:00:00 +0200"
     },
     {
         "title": "Alemania  Países Bajos",
@@ -65,6 +80,16 @@
         "pubdate": "Mon, 14 Oct 2024 15:00:00 +0200"
     },
     {
+        "title": "Variante XEC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Variante%20XEC",
+        "pubdate": "Mon, 14 Oct 2024 12:00:00 +0200"
+    },
+    {
+        "title": "Coronel diego pérez de los cobos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Coronel%20diego%20p%C3%A9rez%20de%20los%20cobos",
+        "pubdate": "Mon, 14 Oct 2024 09:00:00 +0200"
+    },
+    {
         "title": "Cambio de hora 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Cambio%20de%20hora%202024",
         "pubdate": "Mon, 14 Oct 2024 20:00:00 +0200"
@@ -73,30 +98,5 @@
         "title": "Tiroteo en las 3000 Viviendas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Tiroteo%20en%20las%203000%20Viviendas",
         "pubdate": "Mon, 14 Oct 2024 12:00:00 +0200"
-    },
-    {
-        "title": "Belén Perea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Bel%C3%A9n%20Perea",
-        "pubdate": "Mon, 14 Oct 2024 11:00:00 +0200"
-    },
-    {
-        "title": "Mark Zuckerberg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Mark%20Zuckerberg",
-        "pubdate": "Mon, 14 Oct 2024 10:00:00 +0200"
-    },
-    {
-        "title": "Liga Femenina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Liga%20Femenina",
-        "pubdate": "Mon, 14 Oct 2024 00:00:00 +0200"
-    },
-    {
-        "title": "Angel llacer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Angel%20llacer",
-        "pubdate": "Mon, 14 Oct 2024 20:00:00 +0200"
-    },
-    {
-        "title": "Italia - Israel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Italia%20-%20Israel",
-        "pubdate": "Mon, 14 Oct 2024 22:00:00 +0200"
     }
 ]
