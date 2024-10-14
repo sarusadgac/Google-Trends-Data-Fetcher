@@ -10,14 +10,14 @@
         "pubdate": "Mon, 14 Oct 2024 12:00:00 +0200"
     },
     {
-        "title": "Virus Influenza B",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Virus%20Influenza%20B",
-        "pubdate": "Mon, 14 Oct 2024 12:00:00 +0200"
-    },
-    {
         "title": "Paula Badosa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Paula%20Badosa",
         "pubdate": "Mon, 14 Oct 2024 15:00:00 +0200"
+    },
+    {
+        "title": "Virus Influenza B",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Virus%20Influenza%20B",
+        "pubdate": "Mon, 14 Oct 2024 12:00:00 +0200"
     },
     {
         "title": "Tiroteo en las 3000 Viviendas",
@@ -40,19 +40,14 @@
         "pubdate": "Mon, 14 Oct 2024 01:00:00 +0200"
     },
     {
-        "title": "Variante Covid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Variante%20Covid",
-        "pubdate": "Mon, 14 Oct 2024 12:00:00 +0200"
-    },
-    {
         "title": "Belén Perea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Bel%C3%A9n%20Perea",
         "pubdate": "Mon, 14 Oct 2024 11:00:00 +0200"
     },
     {
-        "title": "Priscilla Chan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Priscilla%20Chan",
-        "pubdate": "Mon, 14 Oct 2024 10:00:00 +0200"
+        "title": "Variante Covid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Variante%20Covid",
+        "pubdate": "Mon, 14 Oct 2024 12:00:00 +0200"
     },
     {
         "title": "Meta",
@@ -60,14 +55,14 @@
         "pubdate": "Mon, 14 Oct 2024 00:00:00 +0200"
     },
     {
+        "title": "Priscilla Chan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Priscilla%20Chan",
+        "pubdate": "Mon, 14 Oct 2024 10:00:00 +0200"
+    },
+    {
         "title": "Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Trump",
         "pubdate": "Mon, 14 Oct 2024 08:00:00 +0200"
-    },
-    {
-        "title": "La reina Letizia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#La%20reina%20Letizia",
-        "pubdate": "Mon, 14 Oct 2024 15:00:00 +0200"
     },
     {
         "title": "Funcionarios Muface",
@@ -98,5 +93,10 @@
         "title": "Mayra Gómez Kemp",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Mayra%20G%C3%B3mez%20Kemp",
         "pubdate": "Sun, 13 Oct 2024 14:00:00 +0200"
+    },
+    {
+        "title": "Racing de Santander - Levante",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Racing%20de%20Santander%20-%20Levante",
+        "pubdate": "Sun, 13 Oct 2024 16:00:00 +0200"
     }
 ]
