@@ -22,7 +22,7 @@
     {
         "title": "Austria  Noruega",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Austria%20%20Noruega",
-        "pubdate": "Sun, 13 Oct 2024 15:00:00 -0500"
+        "pubdate": "Sun, 13 Oct 2024 12:00:00 -0500"
     },
     {
         "title": "Alianza Universidad",
@@ -38,11 +38,6 @@
         "title": "Barcelona  Espanyol",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Barcelona%20%20Espanyol",
         "pubdate": "Sun, 13 Oct 2024 12:00:00 -0500"
-    },
-    {
-        "title": "Grecia  Irlanda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Grecia%20%20Irlanda",
-        "pubdate": "Sun, 13 Oct 2024 16:00:00 -0500"
     },
     {
         "title": "Alex Salmond",
@@ -98,5 +93,10 @@
         "title": "Luis Ramos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Luis%20Ramos",
         "pubdate": "Sat, 12 Oct 2024 08:00:00 -0500"
+    },
+    {
+        "title": "DNI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#DNI",
+        "pubdate": "Sat, 12 Oct 2024 11:00:00 -0500"
     }
 ]
