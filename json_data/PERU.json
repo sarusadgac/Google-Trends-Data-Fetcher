@@ -1,8 +1,18 @@
 [
     {
+        "title": "Poder Judicial",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Poder%20Judicial",
+        "pubdate": "Tue, 15 Oct 2024 08:00:00 -0500"
+    },
+    {
         "title": "Peru vs Brasil",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Peru%20vs%20Brasil",
         "pubdate": "Mon, 14 Oct 2024 12:00:00 -0500"
+    },
+    {
+        "title": "Eliminatorias",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Eliminatorias",
+        "pubdate": "Mon, 14 Oct 2024 17:00:00 -0500"
     },
     {
         "title": "Bélgica  Francia",
@@ -10,19 +20,9 @@
         "pubdate": "Mon, 14 Oct 2024 12:00:00 -0500"
     },
     {
-        "title": "Eliminatorias",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Eliminatorias",
-        "pubdate": "Mon, 14 Oct 2024 15:00:00 -0500"
-    },
-    {
         "title": "Alemania  Países Bajos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Alemania%20%20Pa%C3%ADses%20Bajos",
         "pubdate": "Mon, 14 Oct 2024 09:00:00 -0500"
-    },
-    {
-        "title": "Eliminatorias 2026",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Eliminatorias%202026",
-        "pubdate": "Mon, 14 Oct 2024 17:00:00 -0500"
     },
     {
         "title": "Italia vs",
@@ -30,19 +30,19 @@
         "pubdate": "Mon, 14 Oct 2024 05:00:00 -0500"
     },
     {
+        "title": "Paro de transportistas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Paro%20de%20transportistas",
+        "pubdate": "Mon, 14 Oct 2024 02:00:00 -0500"
+    },
+    {
+        "title": "Eliminatorias Sudamericanas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Eliminatorias%20Sudamericanas",
+        "pubdate": "Mon, 14 Oct 2024 15:00:00 -0500"
+    },
+    {
         "title": "Morat",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Morat",
         "pubdate": "Mon, 14 Oct 2024 10:00:00 -0500"
-    },
-    {
-        "title": "Paro de transportistas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Paro%20de%20transportistas",
-        "pubdate": "Mon, 14 Oct 2024 08:00:00 -0500"
-    },
-    {
-        "title": "Paro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Paro",
-        "pubdate": "Mon, 14 Oct 2024 02:00:00 -0500"
     },
     {
         "title": "Venezuela vs",
@@ -60,11 +60,6 @@
         "pubdate": "Mon, 14 Oct 2024 22:00:00 -0500"
     },
     {
-        "title": "Cathy Barriga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Cathy%20Barriga",
-        "pubdate": "Mon, 14 Oct 2024 15:00:00 -0500"
-    },
-    {
         "title": "Eliminatorias Conmebol",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Eliminatorias%20Conmebol",
         "pubdate": "Mon, 14 Oct 2024 18:00:00 -0500"
@@ -78,6 +73,11 @@
         "title": "Concierto de Aventura",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Concierto%20de%20Aventura",
         "pubdate": "Mon, 14 Oct 2024 19:00:00 -0500"
+    },
+    {
+        "title": "Kevin Lugo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Kevin%20Lugo",
+        "pubdate": "Mon, 14 Oct 2024 12:00:00 -0500"
     },
     {
         "title": "Clasificatorias 2026",
