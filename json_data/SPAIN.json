@@ -1,10 +1,5 @@
 [
     {
-        "title": "Digi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Digi",
-        "pubdate": "Tue, 15 Oct 2024 00:00:00 +0200"
-    },
-    {
         "title": "Shakira",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Shakira",
         "pubdate": "Tue, 15 Oct 2024 02:00:00 +0200"
@@ -12,6 +7,11 @@
     {
         "title": "Capilla Sixtina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Capilla%20Sixtina",
+        "pubdate": "Tue, 15 Oct 2024 00:00:00 +0200"
+    },
+    {
+        "title": "Miguel angel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Miguel%20angel",
         "pubdate": "Tue, 15 Oct 2024 00:00:00 +0200"
     },
     {
@@ -85,14 +85,14 @@
         "pubdate": "Mon, 14 Oct 2024 15:00:00 +0200"
     },
     {
+        "title": "Coronel diego pérez de los cobos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Coronel%20diego%20p%C3%A9rez%20de%20los%20cobos",
+        "pubdate": "Mon, 14 Oct 2024 09:00:00 +0200"
+    },
+    {
         "title": "Tiroteo en las 3000 Viviendas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Tiroteo%20en%20las%203000%20Viviendas",
         "pubdate": "Mon, 14 Oct 2024 12:00:00 +0200"
-    },
-    {
-        "title": "Belén Perea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Bel%C3%A9n%20Perea",
-        "pubdate": "Mon, 14 Oct 2024 11:00:00 +0200"
     },
     {
         "title": "Variante Covid",
