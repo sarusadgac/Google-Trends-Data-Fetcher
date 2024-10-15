@@ -20,6 +20,11 @@
         "pubdate": "Tue, 15 Oct 2024 12:00:00 +0100"
     },
     {
+        "title": "Alien: Romulus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Alien:%20Romulus",
+        "pubdate": "Tue, 15 Oct 2024 12:00:00 +0100"
+    },
+    {
         "title": "Biodun Okeowo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Biodun%20Okeowo",
         "pubdate": "Tue, 15 Oct 2024 14:00:00 +0100"
@@ -93,10 +98,5 @@
         "title": "England",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#England",
         "pubdate": "Sun, 13 Oct 2024 19:00:00 +0100"
-    },
-    {
-        "title": "North Korean",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#North%20Korean",
-        "pubdate": "Sun, 13 Oct 2024 04:00:00 +0100"
     }
 ]
