@@ -5,11 +5,6 @@
         "pubdate": "Mon, 14 Oct 2024 12:00:00 -0500"
     },
     {
-        "title": "Eliminatorias",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Eliminatorias",
-        "pubdate": "Mon, 14 Oct 2024 15:00:00 -0500"
-    },
-    {
         "title": "Bélgica  Francia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#B%C3%A9lgica%20%20Francia",
         "pubdate": "Mon, 14 Oct 2024 12:00:00 -0500"
@@ -20,9 +15,19 @@
         "pubdate": "Mon, 14 Oct 2024 09:00:00 -0500"
     },
     {
+        "title": "Eliminatorias",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Eliminatorias",
+        "pubdate": "Mon, 14 Oct 2024 18:00:00 -0500"
+    },
+    {
         "title": "Italia vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Italia%20vs",
         "pubdate": "Mon, 14 Oct 2024 05:00:00 -0500"
+    },
+    {
+        "title": "Eliminatorias 2026",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Eliminatorias%202026",
+        "pubdate": "Mon, 14 Oct 2024 15:00:00 -0500"
     },
     {
         "title": "Paro de transportistas",
@@ -45,9 +50,9 @@
         "pubdate": "Mon, 14 Oct 2024 21:00:00 -0500"
     },
     {
-        "title": "Colombia vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Colombia%20vs",
-        "pubdate": "Mon, 14 Oct 2024 18:00:00 -0500"
+        "title": "Cathy Barriga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Cathy%20Barriga",
+        "pubdate": "Mon, 14 Oct 2024 15:00:00 -0500"
     },
     {
         "title": "Eliminatorias Conmebol",
@@ -63,6 +68,11 @@
         "title": "Uruguay vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Uruguay%20vs",
         "pubdate": "Mon, 14 Oct 2024 22:00:00 -0500"
+    },
+    {
+        "title": "Concierto de Aventura",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Concierto%20de%20Aventura",
+        "pubdate": "Mon, 14 Oct 2024 19:00:00 -0500"
     },
     {
         "title": "Kevin Lugo",
@@ -88,15 +98,5 @@
         "title": "Evo Morales",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Evo%20Morales",
         "pubdate": "Mon, 14 Oct 2024 21:00:00 -0500"
-    },
-    {
-        "title": "Colegio Julio C. Tello Ate",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Colegio%20Julio%20C.%20Tello%20Ate",
-        "pubdate": "Mon, 14 Oct 2024 23:00:00 -0500"
-    },
-    {
-        "title": "Puente Ricardo Palma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Puente%20Ricardo%20Palma",
-        "pubdate": "Mon, 14 Oct 2024 09:00:00 -0500"
     }
 ]
