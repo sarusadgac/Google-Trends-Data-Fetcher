@@ -15,14 +15,14 @@
         "pubdate": "Tue, 15 Oct 2024 02:00:00 +0800"
     },
     {
-        "title": "World Cup qualifiers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#World%20Cup%20qualifiers",
-        "pubdate": "Tue, 15 Oct 2024 15:00:00 +0800"
-    },
-    {
         "title": "Japan vs Australia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Japan%20vs%20Australia",
         "pubdate": "Tue, 15 Oct 2024 18:00:00 +0800"
+    },
+    {
+        "title": "World Cup qualifiers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#World%20Cup%20qualifiers",
+        "pubdate": "Tue, 15 Oct 2024 22:00:00 +0800"
     },
     {
         "title": "Fazley Yaakob",
@@ -40,11 +40,6 @@
         "pubdate": "Tue, 15 Oct 2024 14:00:00 +0800"
     },
     {
-        "title": "Bwf Denmark Open 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Bwf%20Denmark%20Open%202024",
-        "pubdate": "Tue, 15 Oct 2024 13:00:00 +0800"
-    },
-    {
         "title": "Weather forecast",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Weather%20forecast",
         "pubdate": "Tue, 15 Oct 2024 20:00:00 +0800"
@@ -60,9 +55,9 @@
         "pubdate": "Tue, 15 Oct 2024 00:00:00 +0800"
     },
     {
-        "title": "Benjamin Mendy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Benjamin%20Mendy",
-        "pubdate": "Tue, 15 Oct 2024 15:00:00 +0800"
+        "title": "Indian",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Indian",
+        "pubdate": "Tue, 15 Oct 2024 17:00:00 +0800"
     },
     {
         "title": "Alien: Romulus",
@@ -70,9 +65,9 @@
         "pubdate": "Tue, 15 Oct 2024 17:00:00 +0800"
     },
     {
-        "title": "Indian",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Indian",
-        "pubdate": "Tue, 15 Oct 2024 17:00:00 +0800"
+        "title": "Benjamin Mendy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Benjamin%20Mendy",
+        "pubdate": "Tue, 15 Oct 2024 15:00:00 +0800"
     },
     {
         "title": "Beirut",
@@ -98,5 +93,10 @@
         "title": "TVS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#TVS",
         "pubdate": "Mon, 14 Oct 2024 14:00:00 +0800"
+    },
+    {
+        "title": "North Korean",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#North%20Korean",
+        "pubdate": "Mon, 14 Oct 2024 17:00:00 +0800"
     }
 ]

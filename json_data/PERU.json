@@ -5,14 +5,14 @@
         "pubdate": "Tue, 15 Oct 2024 09:00:00 -0500"
     },
     {
-        "title": "España vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Espa%C3%B1a%20vs",
-        "pubdate": "Tue, 15 Oct 2024 09:00:00 -0500"
-    },
-    {
         "title": "Portugal vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Portugal%20vs",
         "pubdate": "Tue, 15 Oct 2024 11:00:00 -0500"
+    },
+    {
+        "title": "España vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Espa%C3%B1a%20vs",
+        "pubdate": "Tue, 15 Oct 2024 09:00:00 -0500"
     },
     {
         "title": "Cinepolis",
@@ -22,6 +22,11 @@
     {
         "title": "Poder Judicial",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Poder%20Judicial",
+        "pubdate": "Tue, 15 Oct 2024 08:00:00 -0500"
+    },
+    {
+        "title": "Corea del Sur vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Corea%20del%20Sur%20vs",
         "pubdate": "Tue, 15 Oct 2024 08:00:00 -0500"
     },
     {
@@ -60,11 +65,6 @@
         "pubdate": "Mon, 14 Oct 2024 09:00:00 -0500"
     },
     {
-        "title": "Eliminatorias 2026",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Eliminatorias%202026",
-        "pubdate": "Mon, 14 Oct 2024 15:00:00 -0500"
-    },
-    {
         "title": "Italia vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Italia%20vs",
         "pubdate": "Mon, 14 Oct 2024 05:00:00 -0500"
@@ -80,8 +80,13 @@
         "pubdate": "Mon, 14 Oct 2024 21:00:00 -0500"
     },
     {
-        "title": "Colombia vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Colombia%20vs",
+        "title": "Partidos Eliminatorias",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Partidos%20Eliminatorias",
+        "pubdate": "Mon, 14 Oct 2024 15:00:00 -0500"
+    },
+    {
+        "title": "Colombia vs Chile",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Colombia%20vs%20Chile",
         "pubdate": "Mon, 14 Oct 2024 18:00:00 -0500"
     },
     {
@@ -90,13 +95,8 @@
         "pubdate": "Mon, 14 Oct 2024 02:00:00 -0500"
     },
     {
-        "title": "Uruguay vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Uruguay%20vs",
-        "pubdate": "Mon, 14 Oct 2024 22:00:00 -0500"
-    },
-    {
-        "title": "Eliminatorias Conmebol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Eliminatorias%20Conmebol",
-        "pubdate": "Mon, 14 Oct 2024 18:00:00 -0500"
+        "title": "Cathy Barriga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Cathy%20Barriga",
+        "pubdate": "Mon, 14 Oct 2024 15:00:00 -0500"
     }
 ]
