@@ -10,6 +10,11 @@
         "pubdate": "Tue, 15 Oct 2024 14:00:00 +0200"
     },
     {
+        "title": "Kompani Lauritzen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kompani%20Lauritzen",
+        "pubdate": "Tue, 15 Oct 2024 22:00:00 +0200"
+    },
+    {
         "title": "Kongsberg Gruppen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kongsberg%20Gruppen",
         "pubdate": "Tue, 15 Oct 2024 08:00:00 +0200"
@@ -18,6 +23,11 @@
         "title": "Demi Moore",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Demi%20Moore",
         "pubdate": "Tue, 15 Oct 2024 09:00:00 +0200"
+    },
+    {
+        "title": "Martin Lepperød",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Martin%20Lepper%C3%B8d",
+        "pubdate": "Tue, 15 Oct 2024 21:00:00 +0200"
     },
     {
         "title": "Vann Stavanger",
@@ -35,9 +45,9 @@
         "pubdate": "Tue, 15 Oct 2024 20:00:00 +0200"
     },
     {
-        "title": "Martin Lepperød",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Martin%20Lepper%C3%B8d",
-        "pubdate": "Tue, 15 Oct 2024 21:00:00 +0200"
+        "title": "Morten Klein",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Morten%20Klein",
+        "pubdate": "Tue, 15 Oct 2024 01:00:00 +0200"
     },
     {
         "title": "Rolf Nordmo Janne Puhakka",
@@ -88,15 +98,5 @@
         "title": "Timer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Timer",
         "pubdate": "Mon, 14 Oct 2024 15:00:00 +0200"
-    },
-    {
-        "title": "FN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#FN",
-        "pubdate": "Mon, 14 Oct 2024 17:00:00 +0200"
-    },
-    {
-        "title": "SNL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#SNL",
-        "pubdate": "Mon, 14 Oct 2024 11:00:00 +0200"
     }
 ]
