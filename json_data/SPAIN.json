@@ -5,13 +5,13 @@
         "pubdate": "Tue, 15 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "Hiba Abouk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Hiba%20Abouk",
-        "pubdate": "Tue, 15 Oct 2024 08:00:00 +0200"
-    },
-    {
         "title": "Shakira",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Shakira",
+        "pubdate": "Tue, 15 Oct 2024 02:00:00 +0200"
+    },
+    {
+        "title": "Osteosarcoma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Osteosarcoma",
         "pubdate": "Tue, 15 Oct 2024 02:00:00 +0200"
     },
     {
@@ -40,9 +40,19 @@
         "pubdate": "Tue, 15 Oct 2024 10:00:00 +0200"
     },
     {
+        "title": "Santa Teresa dia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Santa%20Teresa%20dia",
+        "pubdate": "Tue, 15 Oct 2024 11:00:00 +0200"
+    },
+    {
         "title": "Blanca suarez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Blanca%20suarez",
         "pubdate": "Tue, 15 Oct 2024 10:00:00 +0200"
+    },
+    {
+        "title": "Santa Teresa de jesus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Santa%20Teresa%20de%20jesus",
+        "pubdate": "Tue, 15 Oct 2024 12:00:00 +0200"
     },
     {
         "title": "La Oreja de Van Gogh",
@@ -85,18 +95,8 @@
         "pubdate": "Mon, 14 Oct 2024 15:00:00 +0200"
     },
     {
-        "title": "María Pombo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Mar%C3%ADa%20Pombo",
-        "pubdate": "Mon, 14 Oct 2024 18:00:00 +0200"
-    },
-    {
         "title": "Alaba",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Alaba",
         "pubdate": "Mon, 14 Oct 2024 13:00:00 +0200"
-    },
-    {
-        "title": "Santa Teresa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Santa%20Teresa",
-        "pubdate": "Mon, 14 Oct 2024 11:00:00 +0200"
     }
 ]
