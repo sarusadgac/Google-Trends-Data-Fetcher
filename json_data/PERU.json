@@ -1,8 +1,8 @@
 [
     {
-        "title": "Poder Judicial",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Poder%20Judicial",
-        "pubdate": "Tue, 15 Oct 2024 08:00:00 -0500"
+        "title": "España vs Serbia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Espa%C3%B1a%20vs%20Serbia",
+        "pubdate": "Tue, 15 Oct 2024 09:00:00 -0500"
     },
     {
         "title": "Peru vs Brasil",
@@ -20,8 +20,8 @@
         "pubdate": "Mon, 14 Oct 2024 12:00:00 -0500"
     },
     {
-        "title": "Alemania  Países Bajos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Alemania%20%20Pa%C3%ADses%20Bajos",
+        "title": "Alemania - Países Bajos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Alemania%20-%20Pa%C3%ADses%20Bajos",
         "pubdate": "Mon, 14 Oct 2024 09:00:00 -0500"
     },
     {
@@ -35,14 +35,14 @@
         "pubdate": "Mon, 14 Oct 2024 02:00:00 -0500"
     },
     {
-        "title": "Eliminatorias Sudamericanas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Eliminatorias%20Sudamericanas",
-        "pubdate": "Mon, 14 Oct 2024 15:00:00 -0500"
-    },
-    {
         "title": "Morat",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Morat",
         "pubdate": "Mon, 14 Oct 2024 10:00:00 -0500"
+    },
+    {
+        "title": "Partidos Eliminatorias",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Partidos%20Eliminatorias",
+        "pubdate": "Mon, 14 Oct 2024 15:00:00 -0500"
     },
     {
         "title": "Venezuela vs",
@@ -58,6 +58,11 @@
         "title": "Uruguay vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Uruguay%20vs",
         "pubdate": "Mon, 14 Oct 2024 22:00:00 -0500"
+    },
+    {
+        "title": "Cathy Barriga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Cathy%20Barriga",
+        "pubdate": "Mon, 14 Oct 2024 15:00:00 -0500"
     },
     {
         "title": "Eliminatorias Conmebol",
@@ -85,18 +90,13 @@
         "pubdate": "Mon, 14 Oct 2024 21:00:00 -0500"
     },
     {
-        "title": "Evo Morales",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Evo%20Morales",
-        "pubdate": "Mon, 14 Oct 2024 21:00:00 -0500"
-    },
-    {
-        "title": "MEF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#MEF",
-        "pubdate": "Mon, 14 Oct 2024 14:00:00 -0500"
-    },
-    {
         "title": "Colegio Julio C. Tello Ate",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Colegio%20Julio%20C.%20Tello%20Ate",
         "pubdate": "Mon, 14 Oct 2024 23:00:00 -0500"
+    },
+    {
+        "title": "Evo Morales",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Evo%20Morales",
+        "pubdate": "Mon, 14 Oct 2024 21:00:00 -0500"
     }
 ]
