@@ -5,6 +5,16 @@
         "pubdate": "Tue, 15 Oct 2024 00:00:00 +0200"
     },
     {
+        "title": "Luis Enrique",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Luis%20Enrique",
+        "pubdate": "Tue, 15 Oct 2024 13:00:00 +0200"
+    },
+    {
+        "title": "Hiba Abouk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Hiba%20Abouk",
+        "pubdate": "Tue, 15 Oct 2024 08:00:00 +0200"
+    },
+    {
         "title": "Shakira",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Shakira",
         "pubdate": "Tue, 15 Oct 2024 02:00:00 +0200"
@@ -15,14 +25,14 @@
         "pubdate": "Tue, 15 Oct 2024 02:00:00 +0200"
     },
     {
-        "title": "Capilla Sixtina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Capilla%20Sixtina",
-        "pubdate": "Tue, 15 Oct 2024 00:00:00 +0200"
-    },
-    {
         "title": "Carmen Boza",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Carmen%20Boza",
         "pubdate": "Tue, 15 Oct 2024 08:00:00 +0200"
+    },
+    {
+        "title": "Capilla Sixtina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Capilla%20Sixtina",
+        "pubdate": "Tue, 15 Oct 2024 00:00:00 +0200"
     },
     {
         "title": "Ana Polvorosa",
@@ -45,14 +55,19 @@
         "pubdate": "Tue, 15 Oct 2024 11:00:00 +0200"
     },
     {
+        "title": "Santa Teresa de jesus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Santa%20Teresa%20de%20jesus",
+        "pubdate": "Tue, 15 Oct 2024 12:00:00 +0200"
+    },
+    {
         "title": "Blanca suarez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Blanca%20suarez",
         "pubdate": "Tue, 15 Oct 2024 10:00:00 +0200"
     },
     {
-        "title": "Santa Teresa de jesus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Santa%20Teresa%20de%20jesus",
-        "pubdate": "Tue, 15 Oct 2024 12:00:00 +0200"
+        "title": "Luana Alonso",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Luana%20Alonso",
+        "pubdate": "Tue, 15 Oct 2024 13:00:00 +0200"
     },
     {
         "title": "La Oreja de Van Gogh",
@@ -83,20 +98,5 @@
         "title": "Bélgica  Francia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#B%C3%A9lgica%20%20Francia",
         "pubdate": "Mon, 14 Oct 2024 21:00:00 +0200"
-    },
-    {
-        "title": "Virus Influenza B",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Virus%20Influenza%20B",
-        "pubdate": "Mon, 14 Oct 2024 12:00:00 +0200"
-    },
-    {
-        "title": "Badosa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Badosa",
-        "pubdate": "Mon, 14 Oct 2024 15:00:00 +0200"
-    },
-    {
-        "title": "Alaba",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Alaba",
-        "pubdate": "Mon, 14 Oct 2024 13:00:00 +0200"
     }
 ]
