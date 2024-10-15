@@ -1,10 +1,5 @@
 [
     {
-        "title": "Digi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Digi",
-        "pubdate": "Tue, 15 Oct 2024 00:00:00 +0200"
-    },
-    {
         "title": "Hiba Abouk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Hiba%20Abouk",
         "pubdate": "Tue, 15 Oct 2024 08:00:00 +0200"
@@ -80,14 +75,14 @@
         "pubdate": "Mon, 14 Oct 2024 13:00:00 +0200"
     },
     {
-        "title": "Alemania  Países Bajos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Alemania%20%20Pa%C3%ADses%20Bajos",
-        "pubdate": "Mon, 14 Oct 2024 21:00:00 +0200"
-    },
-    {
         "title": "Variante XEC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Variante%20XEC",
         "pubdate": "Mon, 14 Oct 2024 12:00:00 +0200"
+    },
+    {
+        "title": "Alemania  Países Bajos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Alemania%20%20Pa%C3%ADses%20Bajos",
+        "pubdate": "Mon, 14 Oct 2024 21:00:00 +0200"
     },
     {
         "title": "Malu",
@@ -95,8 +90,13 @@
         "pubdate": "Mon, 14 Oct 2024 23:00:00 +0200"
     },
     {
-        "title": "Coronel diego pérez de los cobos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Coronel%20diego%20p%C3%A9rez%20de%20los%20cobos",
-        "pubdate": "Mon, 14 Oct 2024 09:00:00 +0200"
+        "title": "La reina Letizia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#La%20reina%20Letizia",
+        "pubdate": "Mon, 14 Oct 2024 15:00:00 +0200"
+    },
+    {
+        "title": "María Pombo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Mar%C3%ADa%20Pombo",
+        "pubdate": "Mon, 14 Oct 2024 22:00:00 +0200"
     }
 ]
