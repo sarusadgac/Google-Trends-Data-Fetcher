@@ -1,5 +1,10 @@
 [
     {
+        "title": "Peru vs Brasil",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Peru%20vs%20Brasil",
+        "pubdate": "Mon, 14 Oct 2024 12:00:00 -0500"
+    },
+    {
         "title": "Bélgica - Francia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#B%C3%A9lgica%20-%20Francia",
         "pubdate": "Mon, 14 Oct 2024 12:00:00 -0500"
@@ -12,6 +17,11 @@
     {
         "title": "Eliminatorias",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Eliminatorias",
+        "pubdate": "Mon, 14 Oct 2024 15:00:00 -0500"
+    },
+    {
+        "title": "Eliminatorias 2026",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Eliminatorias%202026",
         "pubdate": "Mon, 14 Oct 2024 17:00:00 -0500"
     },
     {
@@ -25,19 +35,9 @@
         "pubdate": "Mon, 14 Oct 2024 02:00:00 -0500"
     },
     {
-        "title": "Partidos Eliminatorias",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Partidos%20Eliminatorias",
-        "pubdate": "Mon, 14 Oct 2024 15:00:00 -0500"
-    },
-    {
         "title": "Colombia vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Colombia%20vs",
         "pubdate": "Mon, 14 Oct 2024 18:00:00 -0500"
-    },
-    {
-        "title": "Kevin Lugo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Kevin%20Lugo",
-        "pubdate": "Mon, 14 Oct 2024 12:00:00 -0500"
     },
     {
         "title": "Morat en Lima",
@@ -55,9 +55,19 @@
         "pubdate": "Mon, 14 Oct 2024 09:00:00 -0500"
     },
     {
+        "title": "Conmebol eliminatorias",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Conmebol%20eliminatorias",
+        "pubdate": "Mon, 14 Oct 2024 18:00:00 -0500"
+    },
+    {
         "title": "PJ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#PJ",
         "pubdate": "Mon, 14 Oct 2024 17:00:00 -0500"
+    },
+    {
+        "title": "Concierto de Aventura",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Concierto%20de%20Aventura",
+        "pubdate": "Mon, 14 Oct 2024 19:00:00 -0500"
     },
     {
         "title": "Codigo Penal",
@@ -65,9 +75,9 @@
         "pubdate": "Mon, 14 Oct 2024 18:00:00 -0500"
     },
     {
-        "title": "Conmebol eliminatorias",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Conmebol%20eliminatorias",
-        "pubdate": "Mon, 14 Oct 2024 18:00:00 -0500"
+        "title": "Juan Pablo Varillas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Juan%20Pablo%20Varillas",
+        "pubdate": "Mon, 14 Oct 2024 19:00:00 -0500"
     },
     {
         "title": "Finlandia  Inglaterra",
@@ -87,16 +97,6 @@
     {
         "title": "Copa Libertadores femenina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Copa%20Libertadores%20femenina",
-        "pubdate": "Sun, 13 Oct 2024 15:00:00 -0500"
-    },
-    {
-        "title": "Paro indefinido",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Paro%20indefinido",
-        "pubdate": "Sun, 13 Oct 2024 22:00:00 -0500"
-    },
-    {
-        "title": "Austria  Noruega",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Austria%20%20Noruega",
         "pubdate": "Sun, 13 Oct 2024 15:00:00 -0500"
     }
 ]
