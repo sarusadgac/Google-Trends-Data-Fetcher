@@ -15,6 +15,11 @@
         "pubdate": "Tue, 15 Oct 2024 00:00:00 +0200"
     },
     {
+        "title": "Allemagne - Pays-Bas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Allemagne%20-%20Pays-Bas",
+        "pubdate": "Tue, 15 Oct 2024 03:00:00 +0200"
+    },
+    {
         "title": "Belgique – France",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Belgique%20%E2%80%93%20France",
         "pubdate": "Mon, 14 Oct 2024 15:00:00 +0200"
@@ -33,16 +38,6 @@
         "title": "Maryse Burgot",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Maryse%20Burgot",
         "pubdate": "Mon, 14 Oct 2024 10:00:00 +0200"
-    },
-    {
-        "title": "Allemagne – Pays-Bas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Allemagne%20%E2%80%93%20Pays-Bas",
-        "pubdate": "Mon, 14 Oct 2024 21:00:00 +0200"
-    },
-    {
-        "title": "Julien Doré",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Julien%20Dor%C3%A9",
-        "pubdate": "Mon, 14 Oct 2024 21:00:00 +0200"
     },
     {
         "title": "Stellantis",
@@ -98,5 +93,10 @@
         "title": "David Hallyday",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#David%20Hallyday",
         "pubdate": "Mon, 14 Oct 2024 21:00:00 +0200"
+    },
+    {
+        "title": "Coupe de France de Football",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Coupe%20de%20France%20de%20Football",
+        "pubdate": "Mon, 14 Oct 2024 08:00:00 +0200"
     }
 ]
