@@ -1,10 +1,5 @@
 [
     {
-        "title": "Digi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Digi",
-        "pubdate": "Tue, 15 Oct 2024 00:00:00 +0200"
-    },
-    {
         "title": "Mbappe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Mbappe",
         "pubdate": "Tue, 15 Oct 2024 11:00:00 +0200"
@@ -13,6 +8,16 @@
         "title": "Luis Enrique",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Luis%20Enrique",
         "pubdate": "Tue, 15 Oct 2024 13:00:00 +0200"
+    },
+    {
+        "title": "España sub-21  Malta sub-21",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Espa%C3%B1a%20sub-21%20%20Malta%20sub-21",
+        "pubdate": "Tue, 15 Oct 2024 17:00:00 +0200"
+    },
+    {
+        "title": "España futbol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Espa%C3%B1a%20futbol",
+        "pubdate": "Tue, 15 Oct 2024 10:00:00 +0200"
     },
     {
         "title": "Victoria Secret",
@@ -25,19 +30,14 @@
         "pubdate": "Tue, 15 Oct 2024 08:00:00 +0200"
     },
     {
-        "title": "Osteosarcoma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Osteosarcoma",
-        "pubdate": "Tue, 15 Oct 2024 02:00:00 +0200"
-    },
-    {
         "title": "Luana Alonso",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Luana%20Alonso",
         "pubdate": "Tue, 15 Oct 2024 13:00:00 +0200"
     },
     {
-        "title": "España sub-21  Malta sub-21",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Espa%C3%B1a%20sub-21%20%20Malta%20sub-21",
-        "pubdate": "Tue, 15 Oct 2024 17:00:00 +0200"
+        "title": "Osteosarcoma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Osteosarcoma",
+        "pubdate": "Tue, 15 Oct 2024 02:00:00 +0200"
     },
     {
         "title": "Carmen Boza",
@@ -48,11 +48,6 @@
         "title": "Shakira",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Shakira",
         "pubdate": "Tue, 15 Oct 2024 02:00:00 +0200"
-    },
-    {
-        "title": "España - Serbia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Espa%C3%B1a%20-%20Serbia",
-        "pubdate": "Tue, 15 Oct 2024 10:00:00 +0200"
     },
     {
         "title": "Capilla Sixtina",
@@ -70,6 +65,11 @@
         "pubdate": "Tue, 15 Oct 2024 15:00:00 +0200"
     },
     {
+        "title": "Elise Hodder",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Elise%20Hodder",
+        "pubdate": "Tue, 15 Oct 2024 10:00:00 +0200"
+    },
+    {
         "title": "Santa Teresa dia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Santa%20Teresa%20dia",
         "pubdate": "Tue, 15 Oct 2024 11:00:00 +0200"
@@ -85,11 +85,6 @@
         "pubdate": "Tue, 15 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "Samu Omorodion",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Samu%20Omorodion",
-        "pubdate": "Tue, 15 Oct 2024 18:00:00 +0200"
-    },
-    {
         "title": "Isabel Pantoja",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Isabel%20Pantoja",
         "pubdate": "Tue, 15 Oct 2024 17:00:00 +0200"
@@ -98,5 +93,10 @@
         "title": "Blanca suarez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Blanca%20suarez",
         "pubdate": "Tue, 15 Oct 2024 10:00:00 +0200"
+    },
+    {
+        "title": "La Oreja de Van Gogh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#La%20Oreja%20de%20Van%20Gogh",
+        "pubdate": "Mon, 14 Oct 2024 15:00:00 +0200"
     }
 ]

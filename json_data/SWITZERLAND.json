@@ -1,15 +1,5 @@
 [
     {
-        "title": "Katja Lewina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Katja%20Lewina",
-        "pubdate": "Tue, 15 Oct 2024 13:00:00 +0200"
-    },
-    {
-        "title": "Ligue des nations",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ligue%20des%20nations",
-        "pubdate": "Tue, 15 Oct 2024 16:00:00 +0200"
-    },
-    {
         "title": "Fentanyl",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Fentanyl",
         "pubdate": "Tue, 15 Oct 2024 09:00:00 +0200"
@@ -18,6 +8,11 @@
         "title": "Alisha Lehmann",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Alisha%20Lehmann",
         "pubdate": "Tue, 15 Oct 2024 10:00:00 +0200"
+    },
+    {
+        "title": "Victoria Secret",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Victoria%20Secret",
+        "pubdate": "Tue, 15 Oct 2024 19:00:00 +0200"
     },
     {
         "title": "Daniel Maldini",
@@ -30,6 +25,11 @@
         "pubdate": "Tue, 15 Oct 2024 00:00:00 +0200"
     },
     {
+        "title": "Zoe Scarlett",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Zoe%20Scarlett",
+        "pubdate": "Tue, 15 Oct 2024 12:00:00 +0200"
+    },
+    {
         "title": "Laurent Vinatier",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Laurent%20Vinatier",
         "pubdate": "Tue, 15 Oct 2024 08:00:00 +0200"
@@ -40,9 +40,24 @@
         "pubdate": "Tue, 15 Oct 2024 18:00:00 +0200"
     },
     {
+        "title": "Bodensee",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bodensee",
+        "pubdate": "Tue, 15 Oct 2024 19:00:00 +0200"
+    },
+    {
         "title": "David Alaba",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#David%20Alaba",
         "pubdate": "Tue, 15 Oct 2024 15:00:00 +0200"
+    },
+    {
+        "title": "Türkei Island",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#T%C3%BCrkei%20Island",
+        "pubdate": "Tue, 15 Oct 2024 08:00:00 +0200"
+    },
+    {
+        "title": "Benjamin Mendy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Benjamin%20Mendy",
+        "pubdate": "Tue, 15 Oct 2024 18:00:00 +0200"
     },
     {
         "title": "Oliver Baumann",
@@ -60,9 +75,9 @@
         "pubdate": "Tue, 15 Oct 2024 16:00:00 +0200"
     },
     {
-        "title": "Benjamin Mendy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Benjamin%20Mendy",
-        "pubdate": "Tue, 15 Oct 2024 18:00:00 +0200"
+        "title": "Olivia Rodrigo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Olivia%20Rodrigo",
+        "pubdate": "Tue, 15 Oct 2024 19:00:00 +0200"
     },
     {
         "title": "Deutschland – Niederlande",
@@ -83,20 +98,5 @@
         "title": "Marcus-Gunn-Syndrom",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Marcus-Gunn-Syndrom",
         "pubdate": "Mon, 14 Oct 2024 16:00:00 +0200"
-    },
-    {
-        "title": "Ehefrau landet Flugzeug",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ehefrau%20landet%20Flugzeug",
-        "pubdate": "Mon, 14 Oct 2024 07:00:00 +0200"
-    },
-    {
-        "title": "Schweiz Dänemark",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Schweiz%20D%C3%A4nemark",
-        "pubdate": "Mon, 14 Oct 2024 22:00:00 +0200"
-    },
-    {
-        "title": "Bianca Censori",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bianca%20Censori",
-        "pubdate": "Mon, 14 Oct 2024 12:00:00 +0200"
     }
 ]
