@@ -5,6 +5,16 @@
         "pubdate": "Tue, 15 Oct 2024 11:00:00 +0200"
     },
     {
+        "title": "Victoria Secret",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Victoria%20Secret",
+        "pubdate": "Tue, 15 Oct 2024 14:00:00 +0200"
+    },
+    {
+        "title": "BYD",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#BYD",
+        "pubdate": "Tue, 15 Oct 2024 10:00:00 +0200"
+    },
+    {
         "title": "Chase Atlantic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Chase%20Atlantic",
         "pubdate": "Tue, 15 Oct 2024 08:00:00 +0200"
@@ -28,6 +38,11 @@
         "title": "Heartland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Heartland",
         "pubdate": "Mon, 14 Oct 2024 14:00:00 +0200"
+    },
+    {
+        "title": "Supervive",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Supervive",
+        "pubdate": "Mon, 14 Oct 2024 22:00:00 +0200"
     },
     {
         "title": "Longboard Pharmaceuticals",
@@ -83,20 +98,5 @@
         "title": "Infinite",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Infinite",
         "pubdate": "Sun, 13 Oct 2024 22:00:00 +0200"
-    },
-    {
-        "title": "Kanye West",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Kanye%20West",
-        "pubdate": "Sun, 13 Oct 2024 21:00:00 +0200"
-    },
-    {
-        "title": "Meningitis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Meningitis",
-        "pubdate": "Sun, 13 Oct 2024 22:00:00 +0200"
-    },
-    {
-        "title": "Gold",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Gold",
-        "pubdate": "Sun, 13 Oct 2024 23:00:00 +0200"
     }
 ]
