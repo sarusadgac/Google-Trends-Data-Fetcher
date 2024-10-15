@@ -40,6 +40,11 @@
         "pubdate": "Mon, 14 Oct 2024 12:00:00 +0200"
     },
     {
+        "title": "Lindsey Vonn",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lindsey%20Vonn",
+        "pubdate": "Mon, 14 Oct 2024 00:00:00 +0200"
+    },
+    {
         "title": "Max Kruse",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Max%20Kruse",
         "pubdate": "Mon, 14 Oct 2024 00:00:00 +0200"
@@ -55,14 +60,14 @@
         "pubdate": "Mon, 14 Oct 2024 18:00:00 +0200"
     },
     {
-        "title": "Nana Mouskouri",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Nana%20Mouskouri",
-        "pubdate": "Mon, 14 Oct 2024 01:00:00 +0200"
-    },
-    {
         "title": "Belgien – Frankreich",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Belgien%20%E2%80%93%20Frankreich",
         "pubdate": "Mon, 14 Oct 2024 22:00:00 +0200"
+    },
+    {
+        "title": "Nana Mouskouri",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Nana%20Mouskouri",
+        "pubdate": "Mon, 14 Oct 2024 01:00:00 +0200"
     },
     {
         "title": "Vollmond",
@@ -90,13 +95,8 @@
         "pubdate": "Mon, 14 Oct 2024 20:00:00 +0200"
     },
     {
-        "title": "Island – Türkei",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Island%20%E2%80%93%20T%C3%BCrkei",
-        "pubdate": "Mon, 14 Oct 2024 23:00:00 +0200"
-    },
-    {
-        "title": "Betterview",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Betterview",
-        "pubdate": "Mon, 14 Oct 2024 15:00:00 +0200"
+        "title": "Schweiz Dänemark",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Schweiz%20D%C3%A4nemark",
+        "pubdate": "Mon, 14 Oct 2024 22:00:00 +0200"
     }
 ]
