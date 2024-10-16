@@ -40,11 +40,6 @@
         "pubdate": "Tue, 15 Oct 2024 11:00:00 +0300"
     },
     {
-        "title": "Έκτορας Μποτρίνι",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%88%CE%BA%CF%84%CE%BF%CF%81%CE%B1%CF%82%20%CE%9C%CF%80%CE%BF%CF%84%CF%81%CE%AF%CE%BD%CE%B9",
-        "pubdate": "Tue, 15 Oct 2024 00:00:00 +0300"
-    },
-    {
         "title": "Λεχου",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%9B%CE%B5%CF%87%CE%BF%CF%85",
         "pubdate": "Tue, 15 Oct 2024 17:00:00 +0300"
@@ -55,19 +50,9 @@
         "pubdate": "Tue, 15 Oct 2024 23:00:00 +0300"
     },
     {
-        "title": "Χρηστοσ μαστορασ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%A7%CF%81%CE%B7%CF%83%CF%84%CE%BF%CF%83%20%CE%BC%CE%B1%CF%83%CF%84%CE%BF%CF%81%CE%B1%CF%83",
-        "pubdate": "Tue, 15 Oct 2024 02:00:00 +0300"
-    },
-    {
         "title": "Τζακρη",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%A4%CE%B6%CE%B1%CE%BA%CF%81%CE%B7",
         "pubdate": "Tue, 15 Oct 2024 14:00:00 +0300"
-    },
-    {
-        "title": "Βίκυ Κάβουρα",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%92%CE%AF%CE%BA%CF%85%20%CE%9A%CE%AC%CE%B2%CE%BF%CF%85%CF%81%CE%B1",
-        "pubdate": "Tue, 15 Oct 2024 02:00:00 +0300"
     },
     {
         "title": "Victoria Secret",
@@ -75,14 +60,24 @@
         "pubdate": "Tue, 15 Oct 2024 20:00:00 +0300"
     },
     {
-        "title": "ΟΠΕΚΕΠΕ πληρωμεσ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%9F%CE%A0%CE%95%CE%9A%CE%95%CE%A0%CE%95%20%CF%80%CE%BB%CE%B7%CF%81%CF%89%CE%BC%CE%B5%CF%83",
-        "pubdate": "Tue, 15 Oct 2024 09:00:00 +0300"
+        "title": "Βίκυ Κάβουρα",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%92%CE%AF%CE%BA%CF%85%20%CE%9A%CE%AC%CE%B2%CE%BF%CF%85%CF%81%CE%B1",
+        "pubdate": "Tue, 15 Oct 2024 02:00:00 +0300"
+    },
+    {
+        "title": "Χρηστοσ μαστορασ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%A7%CF%81%CE%B7%CF%83%CF%84%CE%BF%CF%83%20%CE%BC%CE%B1%CF%83%CF%84%CE%BF%CF%81%CE%B1%CF%83",
+        "pubdate": "Tue, 15 Oct 2024 02:00:00 +0300"
     },
     {
         "title": "Ευρωλιγκα",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%95%CF%85%CF%81%CF%89%CE%BB%CE%B9%CE%B3%CE%BA%CE%B1",
         "pubdate": "Tue, 15 Oct 2024 20:00:00 +0300"
+    },
+    {
+        "title": "ΟΠΕΚΕΠΕ πληρωμεσ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%9F%CE%A0%CE%95%CE%9A%CE%95%CE%A0%CE%95%20%CF%80%CE%BB%CE%B7%CF%81%CF%89%CE%BC%CE%B5%CF%83",
+        "pubdate": "Tue, 15 Oct 2024 09:00:00 +0300"
     },
     {
         "title": "Γιαννακοπουλου",
@@ -93,6 +88,11 @@
         "title": "Ισπανια σερβια",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%99%CF%83%CF%80%CE%B1%CE%BD%CE%B9%CE%B1%20%CF%83%CE%B5%CF%81%CE%B2%CE%B9%CE%B1",
         "pubdate": "Tue, 15 Oct 2024 23:00:00 +0300"
+    },
+    {
+        "title": "Νικη καρτσωνα",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%9D%CE%B9%CE%BA%CE%B7%20%CE%BA%CE%B1%CF%81%CF%84%CF%83%CF%89%CE%BD%CE%B1",
+        "pubdate": "Tue, 15 Oct 2024 19:00:00 +0300"
     },
     {
         "title": "Σαχαρα",

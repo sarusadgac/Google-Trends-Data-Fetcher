@@ -30,14 +30,19 @@
         "pubdate": "Tue, 15 Oct 2024 15:00:00 -0500"
     },
     {
-        "title": "Peru",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Peru",
-        "pubdate": "Tue, 15 Oct 2024 18:00:00 -0500"
-    },
-    {
         "title": "Victoria Secret",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Victoria%20Secret",
         "pubdate": "Tue, 15 Oct 2024 14:00:00 -0500"
+    },
+    {
+        "title": "Latina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Latina",
+        "pubdate": "Tue, 15 Oct 2024 20:00:00 -0500"
+    },
+    {
+        "title": "Deportes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Deportes",
+        "pubdate": "Tue, 15 Oct 2024 19:00:00 -0500"
     },
     {
         "title": "Cinepolis",
@@ -45,8 +50,13 @@
         "pubdate": "Tue, 15 Oct 2024 11:00:00 -0500"
     },
     {
-        "title": "Suiza - Dinamarca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Suiza%20-%20Dinamarca",
+        "title": "Poder Judicial",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Poder%20Judicial",
+        "pubdate": "Tue, 15 Oct 2024 08:00:00 -0500"
+    },
+    {
+        "title": "Suiza  Dinamarca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Suiza%20%20Dinamarca",
         "pubdate": "Tue, 15 Oct 2024 15:00:00 -0500"
     },
     {
@@ -55,24 +65,29 @@
         "pubdate": "Tue, 15 Oct 2024 10:00:00 -0500"
     },
     {
-        "title": "Corea del Sur vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Corea%20del%20Sur%20vs",
-        "pubdate": "Tue, 15 Oct 2024 08:00:00 -0500"
-    },
-    {
-        "title": "Argentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Argentina",
-        "pubdate": "Tue, 15 Oct 2024 16:00:00 -0500"
-    },
-    {
         "title": "Temblor hoy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Temblor%20hoy",
         "pubdate": "Tue, 15 Oct 2024 12:00:00 -0500"
     },
     {
-        "title": "Venezuela",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Venezuela",
+        "title": "Futbol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Futbol",
         "pubdate": "Tue, 15 Oct 2024 17:00:00 -0500"
+    },
+    {
+        "title": "ATV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#ATV",
+        "pubdate": "Tue, 15 Oct 2024 20:00:00 -0500"
+    },
+    {
+        "title": "Cher",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Cher",
+        "pubdate": "Tue, 15 Oct 2024 19:00:00 -0500"
+    },
+    {
+        "title": "Peru vs Chile",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Peru%20vs%20Chile",
+        "pubdate": "Tue, 15 Oct 2024 20:00:00 -0500"
     },
     {
         "title": "CONMEBOL",
@@ -83,20 +98,5 @@
         "title": "Mexico vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Mexico%20vs",
         "pubdate": "Tue, 15 Oct 2024 18:00:00 -0500"
-    },
-    {
-        "title": "Futbol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Futbol",
-        "pubdate": "Tue, 15 Oct 2024 17:00:00 -0500"
-    },
-    {
-        "title": "Mbappe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Mbappe",
-        "pubdate": "Tue, 15 Oct 2024 14:00:00 -0500"
-    },
-    {
-        "title": "Temblor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Temblor",
-        "pubdate": "Tue, 15 Oct 2024 14:00:00 -0500"
     }
 ]
