@@ -5,11 +5,6 @@
         "pubdate": "Wed, 16 Oct 2024 00:00:00 -0500"
     },
     {
-        "title": "Fossati",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Fossati",
-        "pubdate": "Wed, 16 Oct 2024 02:00:00 -0500"
-    },
-    {
         "title": "Pensiones",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Pensiones",
         "pubdate": "Wed, 16 Oct 2024 06:00:00 -0500"
@@ -55,14 +50,14 @@
         "pubdate": "Tue, 15 Oct 2024 18:00:00 -0500"
     },
     {
-        "title": "Frecuencia Latina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Frecuencia%20Latina",
-        "pubdate": "Tue, 15 Oct 2024 20:00:00 -0500"
-    },
-    {
         "title": "Peru vs Chile",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Peru%20vs%20Chile",
         "pubdate": "Tue, 15 Oct 2024 20:00:00 -0500"
+    },
+    {
+        "title": "Canadá  Panamá",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Canad%C3%A1%20%20Panam%C3%A1",
+        "pubdate": "Tue, 15 Oct 2024 19:00:00 -0500"
     },
     {
         "title": "Deportes",
@@ -70,9 +65,9 @@
         "pubdate": "Tue, 15 Oct 2024 19:00:00 -0500"
     },
     {
-        "title": "Canadá  Panamá",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Canad%C3%A1%20%20Panam%C3%A1",
-        "pubdate": "Tue, 15 Oct 2024 19:00:00 -0500"
+        "title": "Valera",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Valera",
+        "pubdate": "Tue, 15 Oct 2024 21:00:00 -0500"
     },
     {
         "title": "Poder Judicial",
@@ -98,5 +93,10 @@
         "title": "Santiago Suárez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Santiago%20Su%C3%A1rez",
         "pubdate": "Tue, 15 Oct 2024 23:00:00 -0500"
+    },
+    {
+        "title": "Frecuencia Latina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Frecuencia%20Latina",
+        "pubdate": "Tue, 15 Oct 2024 20:00:00 -0500"
     }
 ]

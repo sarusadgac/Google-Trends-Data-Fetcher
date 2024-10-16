@@ -5,11 +5,6 @@
         "pubdate": "Wed, 16 Oct 2024 06:00:00 +0300"
     },
     {
-        "title": "Boala care ucide in 48 ore",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Boala%20care%20ucide%20in%2048%20ore",
-        "pubdate": "Wed, 16 Oct 2024 09:00:00 +0300"
-    },
-    {
         "title": "Anghel Damian",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Anghel%20Damian",
         "pubdate": "Wed, 16 Oct 2024 00:00:00 +0300"
@@ -35,14 +30,14 @@
         "pubdate": "Wed, 16 Oct 2024 11:00:00 +0300"
     },
     {
-        "title": "Ianis Hagi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ianis%20Hagi",
-        "pubdate": "Wed, 16 Oct 2024 15:00:00 +0300"
-    },
-    {
         "title": "Thomas Tuchel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Thomas%20Tuchel",
         "pubdate": "Wed, 16 Oct 2024 12:00:00 +0300"
+    },
+    {
+        "title": "Ianis Hagi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ianis%20Hagi",
+        "pubdate": "Wed, 16 Oct 2024 15:00:00 +0300"
     },
     {
         "title": "Octavian Popescu",
@@ -50,14 +45,14 @@
         "pubdate": "Wed, 16 Oct 2024 09:00:00 +0300"
     },
     {
-        "title": "Jurnalistul Marius Buga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Jurnalistul%20Marius%20Buga",
-        "pubdate": "Wed, 16 Oct 2024 12:00:00 +0300"
-    },
-    {
         "title": "Al Pacino",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Al%20Pacino",
         "pubdate": "Wed, 16 Oct 2024 01:00:00 +0300"
+    },
+    {
+        "title": "Tyra Banks",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Tyra%20Banks",
+        "pubdate": "Wed, 16 Oct 2024 16:00:00 +0300"
     },
     {
         "title": "Denis Drăguș",
@@ -68,11 +63,6 @@
         "title": "Romania Lituania",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Romania%20Lituania",
         "pubdate": "Tue, 15 Oct 2024 00:00:00 +0300"
-    },
-    {
-        "title": "Romania",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Romania",
-        "pubdate": "Tue, 15 Oct 2024 21:00:00 +0300"
     },
     {
         "title": "Antena 1",
@@ -90,6 +80,11 @@
         "pubdate": "Tue, 15 Oct 2024 18:00:00 +0300"
     },
     {
+        "title": "Boala care ucide in 48 ore",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Boala%20care%20ucide%20in%2048%20ore",
+        "pubdate": "Tue, 15 Oct 2024 15:00:00 +0300"
+    },
+    {
         "title": "Zile libere 2025",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Zile%20libere%202025",
         "pubdate": "Tue, 15 Oct 2024 10:00:00 +0300"
@@ -98,5 +93,10 @@
         "title": "Beny Steinmetz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Beny%20Steinmetz",
         "pubdate": "Tue, 15 Oct 2024 07:00:00 +0300"
+    },
+    {
+        "title": "Black Friday",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Black%20Friday",
+        "pubdate": "Tue, 15 Oct 2024 05:00:00 +0300"
     }
 ]
