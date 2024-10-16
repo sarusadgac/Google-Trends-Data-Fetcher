@@ -1,18 +1,13 @@
 [
     {
-        "title": "Nations League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nations%20League",
-        "pubdate": "Tue, 15 Oct 2024 04:00:00 +0200"
-    },
-    {
-        "title": "Komeet Tsuchinshan-ATLAS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Komeet%20Tsuchinshan-ATLAS",
-        "pubdate": "Tue, 15 Oct 2024 00:00:00 +0200"
-    },
-    {
         "title": "ASML",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#ASML",
         "pubdate": "Tue, 15 Oct 2024 17:00:00 +0200"
+    },
+    {
+        "title": "Komeet zichtbaar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Komeet%20zichtbaar",
+        "pubdate": "Tue, 15 Oct 2024 00:00:00 +0200"
     },
     {
         "title": "Faber",
@@ -73,6 +68,11 @@
         "title": "FC Groningen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Groningen",
         "pubdate": "Thu, 10 Oct 2024 20:00:00 +0200"
+    },
+    {
+        "title": "Orkaan Milton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Orkaan%20Milton",
+        "pubdate": "Tue, 08 Oct 2024 23:00:00 +0200"
     },
     {
         "title": "Orkaan Milton",

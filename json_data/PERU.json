@@ -10,6 +10,11 @@
         "pubdate": "Tue, 15 Oct 2024 09:00:00 -0500"
     },
     {
+        "title": "Partidos de hoy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Partidos%20de%20hoy",
+        "pubdate": "Tue, 15 Oct 2024 09:00:00 -0500"
+    },
+    {
         "title": "Polonia  Croacia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Polonia%20%20Croacia",
         "pubdate": "Tue, 15 Oct 2024 10:00:00 -0500"
@@ -35,6 +40,16 @@
         "pubdate": "Tue, 15 Oct 2024 20:00:00 -0500"
     },
     {
+        "title": "Peru vs Chile",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Peru%20vs%20Chile",
+        "pubdate": "Tue, 15 Oct 2024 20:00:00 -0500"
+    },
+    {
+        "title": "Mexico vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Mexico%20vs",
+        "pubdate": "Tue, 15 Oct 2024 18:00:00 -0500"
+    },
+    {
         "title": "Deportes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Deportes",
         "pubdate": "Tue, 15 Oct 2024 19:00:00 -0500"
@@ -50,19 +65,9 @@
         "pubdate": "Tue, 15 Oct 2024 08:00:00 -0500"
     },
     {
-        "title": "Futbol HOY",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Futbol%20HOY",
-        "pubdate": "Tue, 15 Oct 2024 17:00:00 -0500"
-    },
-    {
         "title": "Suiza  Dinamarca",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Suiza%20%20Dinamarca",
         "pubdate": "Tue, 15 Oct 2024 15:00:00 -0500"
-    },
-    {
-        "title": "Peru vs Chile",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Peru%20vs%20Chile",
-        "pubdate": "Tue, 15 Oct 2024 20:00:00 -0500"
     },
     {
         "title": "Canada vs",
@@ -70,13 +75,18 @@
         "pubdate": "Tue, 15 Oct 2024 20:00:00 -0500"
     },
     {
+        "title": "Futbol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Futbol",
+        "pubdate": "Tue, 15 Oct 2024 17:00:00 -0500"
+    },
+    {
         "title": "ATV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#ATV",
         "pubdate": "Tue, 15 Oct 2024 20:00:00 -0500"
     },
     {
-        "title": "Bryan Reyna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bryan%20Reyna",
+        "title": "Futbol en vivo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Futbol%20en%20vivo",
         "pubdate": "Tue, 15 Oct 2024 21:00:00 -0500"
     },
     {
@@ -85,18 +95,8 @@
         "pubdate": "Tue, 15 Oct 2024 10:00:00 -0500"
     },
     {
-        "title": "Temblor hoy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Temblor%20hoy",
-        "pubdate": "Tue, 15 Oct 2024 12:00:00 -0500"
-    },
-    {
-        "title": "Corea del Sur vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Corea%20del%20Sur%20vs",
-        "pubdate": "Tue, 15 Oct 2024 08:00:00 -0500"
-    },
-    {
-        "title": "Cher",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Cher",
-        "pubdate": "Tue, 15 Oct 2024 19:00:00 -0500"
+        "title": "Costa Rica vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Costa%20Rica%20vs",
+        "pubdate": "Tue, 15 Oct 2024 11:00:00 -0500"
     }
 ]
