@@ -15,11 +15,6 @@
         "pubdate": "Tue, 15 Oct 2024 21:00:00 +0200"
     },
     {
-        "title": "Leo Borg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Leo%20Borg",
-        "pubdate": "Tue, 15 Oct 2024 22:00:00 +0200"
-    },
-    {
         "title": "Sverige",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sverige",
         "pubdate": "Tue, 15 Oct 2024 10:00:00 +0200"
@@ -93,6 +88,11 @@
         "title": "Lena olin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Lena%20olin",
         "pubdate": "Mon, 14 Oct 2024 09:00:00 +0200"
+    },
+    {
+        "title": "Östersunds FK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#%C3%96stersunds%20FK",
+        "pubdate": "Mon, 14 Oct 2024 18:00:00 +0200"
     },
     {
         "title": "Han Kang",

@@ -55,11 +55,6 @@
         "pubdate": "Tue, 15 Oct 2024 20:00:00 +0200"
     },
     {
-        "title": "Nagy Zsolt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Nagy%20Zsolt",
-        "pubdate": "Tue, 15 Oct 2024 00:00:00 +0200"
-    },
-    {
         "title": "Mbappe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Mbappe",
         "pubdate": "Tue, 15 Oct 2024 16:00:00 +0200"
@@ -70,9 +65,9 @@
         "pubdate": "Tue, 15 Oct 2024 04:00:00 +0200"
     },
     {
-        "title": "Herceg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Herceg",
-        "pubdate": "Tue, 15 Oct 2024 09:00:00 +0200"
+        "title": "Borravaló",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Borraval%C3%B3",
+        "pubdate": "Tue, 15 Oct 2024 20:00:00 +0200"
     },
     {
         "title": "Gyöngyösi Márton",
@@ -98,5 +93,10 @@
         "title": "Jelenits István",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Jelenits%20Istv%C3%A1n",
         "pubdate": "Tue, 15 Oct 2024 22:00:00 +0200"
+    },
+    {
+        "title": "Október 15",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Okt%C3%B3ber%2015",
+        "pubdate": "Tue, 15 Oct 2024 18:00:00 +0200"
     }
 ]
