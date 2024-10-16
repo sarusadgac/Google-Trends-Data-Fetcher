@@ -40,9 +40,14 @@
         "pubdate": "Wed, 16 Oct 2024 02:00:00 +0200"
     },
     {
-        "title": "España  Serbia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Espa%C3%B1a%20%20Serbia",
+        "title": "España - Serbia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Espa%C3%B1a%20-%20Serbia",
         "pubdate": "Tue, 15 Oct 2024 10:00:00 +0200"
+    },
+    {
+        "title": "Laura Ponte",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Laura%20Ponte",
+        "pubdate": "Tue, 15 Oct 2024 23:00:00 +0200"
     },
     {
         "title": "Nieves alvarez",
@@ -80,23 +85,18 @@
         "pubdate": "Tue, 15 Oct 2024 07:00:00 +0200"
     },
     {
-        "title": "España Sub-21  Malta sub-21",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Espa%C3%B1a%20Sub-21%20%20Malta%20sub-21",
-        "pubdate": "Tue, 15 Oct 2024 17:00:00 +0200"
-    },
-    {
         "title": "Premio Planeta 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Premio%20Planeta%202024",
         "pubdate": "Tue, 15 Oct 2024 20:00:00 +0200"
     },
     {
+        "title": "España Sub-21  Malta sub-21",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Espa%C3%B1a%20Sub-21%20%20Malta%20sub-21",
+        "pubdate": "Tue, 15 Oct 2024 17:00:00 +0200"
+    },
+    {
         "title": "Pedro Porro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Pedro%20Porro",
         "pubdate": "Tue, 15 Oct 2024 21:00:00 +0200"
-    },
-    {
-        "title": "Digi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Digi",
-        "pubdate": "Tue, 15 Oct 2024 00:00:00 +0200"
     }
 ]

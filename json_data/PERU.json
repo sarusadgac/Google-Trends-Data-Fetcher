@@ -1,5 +1,10 @@
 [
     {
+        "title": "Nico Paz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Nico%20Paz",
+        "pubdate": "Wed, 16 Oct 2024 00:00:00 -0500"
+    },
+    {
         "title": "Portugal vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Portugal%20vs",
         "pubdate": "Tue, 15 Oct 2024 10:00:00 -0500"
@@ -7,11 +12,6 @@
     {
         "title": "España - Serbia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Espa%C3%B1a%20-%20Serbia",
-        "pubdate": "Tue, 15 Oct 2024 09:00:00 -0500"
-    },
-    {
-        "title": "Partidos de hoy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Partidos%20de%20hoy",
         "pubdate": "Tue, 15 Oct 2024 09:00:00 -0500"
     },
     {
@@ -45,6 +45,11 @@
         "pubdate": "Tue, 15 Oct 2024 18:00:00 -0500"
     },
     {
+        "title": "Canadá  Panamá",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Canad%C3%A1%20%20Panam%C3%A1",
+        "pubdate": "Tue, 15 Oct 2024 19:00:00 -0500"
+    },
+    {
         "title": "Deportes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Deportes",
         "pubdate": "Tue, 15 Oct 2024 19:00:00 -0500"
@@ -60,14 +65,14 @@
         "pubdate": "Tue, 15 Oct 2024 08:00:00 -0500"
     },
     {
+        "title": "Futbol HOY",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Futbol%20HOY",
+        "pubdate": "Tue, 15 Oct 2024 17:00:00 -0500"
+    },
+    {
         "title": "Temblor hoy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Temblor%20hoy",
         "pubdate": "Tue, 15 Oct 2024 12:00:00 -0500"
-    },
-    {
-        "title": "Canada vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Canada%20vs",
-        "pubdate": "Tue, 15 Oct 2024 20:00:00 -0500"
     },
     {
         "title": "Suiza  Dinamarca",
@@ -80,6 +85,11 @@
         "pubdate": "Tue, 15 Oct 2024 22:00:00 -0500"
     },
     {
+        "title": "Futbol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Futbol",
+        "pubdate": "Tue, 15 Oct 2024 17:00:00 -0500"
+    },
+    {
         "title": "ATV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#ATV",
         "pubdate": "Tue, 15 Oct 2024 20:00:00 -0500"
@@ -88,15 +98,5 @@
         "title": "Resultados de futbol",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Resultados%20de%20futbol",
         "pubdate": "Tue, 15 Oct 2024 21:00:00 -0500"
-    },
-    {
-        "title": "China taiwan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#China%20taiwan",
-        "pubdate": "Tue, 15 Oct 2024 10:00:00 -0500"
-    },
-    {
-        "title": "CONMEBOL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#CONMEBOL",
-        "pubdate": "Tue, 15 Oct 2024 18:00:00 -0500"
     }
 ]

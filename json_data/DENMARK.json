@@ -1,5 +1,10 @@
 [
     {
+        "title": "Cooper Koch",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Cooper%20Koch",
+        "pubdate": "Wed, 16 Oct 2024 07:00:00 +0200"
+    },
+    {
         "title": "Rihanna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Rihanna",
         "pubdate": "Wed, 16 Oct 2024 00:00:00 +0200"
@@ -93,10 +98,5 @@
         "title": "R. Kelly",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#R.%20Kelly",
         "pubdate": "Sun, 13 Oct 2024 09:00:00 +0200"
-    },
-    {
-        "title": "Cartoons",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Cartoons",
-        "pubdate": "Sun, 13 Oct 2024 18:00:00 +0200"
     }
 ]
