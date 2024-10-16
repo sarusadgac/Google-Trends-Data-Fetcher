@@ -55,6 +55,11 @@
         "pubdate": "Tue, 15 Oct 2024 14:00:00 +0300"
     },
     {
+        "title": "Spain vs Serbia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Spain%20vs%20Serbia",
+        "pubdate": "Tue, 15 Oct 2024 14:00:00 +0300"
+    },
+    {
         "title": "DV) Lottery",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#DV)%20Lottery",
         "pubdate": "Tue, 15 Oct 2024 12:00:00 +0300"
@@ -65,8 +70,8 @@
         "pubdate": "Tue, 15 Oct 2024 07:00:00 +0300"
     },
     {
-        "title": "Mbappe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Mbappe",
+        "title": "Kylian Mbappé",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Kylian%20Mbapp%C3%A9",
         "pubdate": "Tue, 15 Oct 2024 21:00:00 +0300"
     },
     {
@@ -93,10 +98,5 @@
         "title": "France",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#France",
         "pubdate": "Tue, 15 Oct 2024 00:00:00 +0300"
-    },
-    {
-        "title": "China Taiwan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#China%20Taiwan",
-        "pubdate": "Tue, 15 Oct 2024 23:00:00 +0300"
     }
 ]
