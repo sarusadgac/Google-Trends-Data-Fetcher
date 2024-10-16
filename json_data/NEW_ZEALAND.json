@@ -40,11 +40,6 @@
         "pubdate": "Wed, 16 Oct 2024 18:00:00 +1300"
     },
     {
-        "title": "Edgar allan Poe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Edgar%20allan%20Poe",
-        "pubdate": "Wed, 16 Oct 2024 17:00:00 +1300"
-    },
-    {
         "title": "Alien: Romulus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Alien:%20Romulus",
         "pubdate": "Wed, 16 Oct 2024 09:00:00 +1300"
@@ -98,5 +93,10 @@
         "title": "Belgium vs France",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Belgium%20vs%20France",
         "pubdate": "Tue, 15 Oct 2024 13:00:00 +1300"
+    },
+    {
+        "title": "Democrat",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Democrat",
+        "pubdate": "Tue, 15 Oct 2024 22:00:00 +1300"
     }
 ]
