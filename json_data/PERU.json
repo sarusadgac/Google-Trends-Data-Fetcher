@@ -60,6 +60,11 @@
         "pubdate": "Tue, 15 Oct 2024 08:00:00 -0500"
     },
     {
+        "title": "Futbol HOY",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Futbol%20HOY",
+        "pubdate": "Tue, 15 Oct 2024 17:00:00 -0500"
+    },
+    {
         "title": "Suiza  Dinamarca",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Suiza%20%20Dinamarca",
         "pubdate": "Tue, 15 Oct 2024 15:00:00 -0500"
@@ -80,23 +85,18 @@
         "pubdate": "Tue, 15 Oct 2024 20:00:00 -0500"
     },
     {
-        "title": "Resultados de futbol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Resultados%20de%20futbol",
-        "pubdate": "Tue, 15 Oct 2024 21:00:00 -0500"
+        "title": "Frecuencia Latina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Frecuencia%20Latina",
+        "pubdate": "Tue, 15 Oct 2024 20:00:00 -0500"
+    },
+    {
+        "title": "Santiago Suárez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Santiago%20Su%C3%A1rez",
+        "pubdate": "Tue, 15 Oct 2024 23:00:00 -0500"
     },
     {
         "title": "China taiwan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#China%20taiwan",
         "pubdate": "Tue, 15 Oct 2024 10:00:00 -0500"
-    },
-    {
-        "title": "CONMEBOL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#CONMEBOL",
-        "pubdate": "Tue, 15 Oct 2024 18:00:00 -0500"
-    },
-    {
-        "title": "Temblor hoy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Temblor%20hoy",
-        "pubdate": "Tue, 15 Oct 2024 12:00:00 -0500"
     }
 ]
