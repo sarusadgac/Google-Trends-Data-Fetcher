@@ -25,6 +25,11 @@
         "pubdate": "Tue, 15 Oct 2024 09:00:00 -0500"
     },
     {
+        "title": "Peru",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Peru",
+        "pubdate": "Tue, 15 Oct 2024 18:00:00 -0500"
+    },
+    {
         "title": "Polonia  Croacia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Polonia%20%20Croacia",
         "pubdate": "Tue, 15 Oct 2024 10:00:00 -0500"
@@ -55,19 +60,14 @@
         "pubdate": "Tue, 15 Oct 2024 20:00:00 -0500"
     },
     {
-        "title": "Canadá  Panamá",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Canad%C3%A1%20%20Panam%C3%A1",
-        "pubdate": "Tue, 15 Oct 2024 19:00:00 -0500"
-    },
-    {
         "title": "Deportes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Deportes",
         "pubdate": "Tue, 15 Oct 2024 19:00:00 -0500"
     },
     {
-        "title": "Valera",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Valera",
-        "pubdate": "Tue, 15 Oct 2024 21:00:00 -0500"
+        "title": "Canadá  Panamá",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Canad%C3%A1%20%20Panam%C3%A1",
+        "pubdate": "Tue, 15 Oct 2024 19:00:00 -0500"
     },
     {
         "title": "Poder Judicial",
@@ -85,14 +85,14 @@
         "pubdate": "Tue, 15 Oct 2024 17:00:00 -0500"
     },
     {
-        "title": "ATV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#ATV",
-        "pubdate": "Tue, 15 Oct 2024 20:00:00 -0500"
-    },
-    {
         "title": "Santiago Suárez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Santiago%20Su%C3%A1rez",
         "pubdate": "Tue, 15 Oct 2024 23:00:00 -0500"
+    },
+    {
+        "title": "ATV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#ATV",
+        "pubdate": "Tue, 15 Oct 2024 20:00:00 -0500"
     },
     {
         "title": "Frecuencia Latina",
