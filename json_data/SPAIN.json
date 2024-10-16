@@ -20,9 +20,9 @@
         "pubdate": "Wed, 16 Oct 2024 08:00:00 +0200"
     },
     {
-        "title": "Beatriz Serrano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Beatriz%20Serrano",
-        "pubdate": "Wed, 16 Oct 2024 00:00:00 +0200"
+        "title": "Los Morancos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Los%20Morancos",
+        "pubdate": "Wed, 16 Oct 2024 15:00:00 +0200"
     },
     {
         "title": "Lewandowski",
@@ -43,11 +43,6 @@
         "title": "Tuchel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Tuchel",
         "pubdate": "Wed, 16 Oct 2024 14:00:00 +0200"
-    },
-    {
-        "title": "Los Morancos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Los%20Morancos",
-        "pubdate": "Wed, 16 Oct 2024 15:00:00 +0200"
     },
     {
         "title": "Nico Paz",
@@ -75,19 +70,14 @@
         "pubdate": "Wed, 16 Oct 2024 08:00:00 +0200"
     },
     {
-        "title": "Colombia FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Colombia%20FC",
-        "pubdate": "Wed, 16 Oct 2024 01:00:00 +0200"
-    },
-    {
         "title": "Susana Díaz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Susana%20D%C3%ADaz",
         "pubdate": "Wed, 16 Oct 2024 11:00:00 +0200"
     },
     {
-        "title": "Embalses",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Embalses",
-        "pubdate": "Wed, 16 Oct 2024 00:00:00 +0200"
+        "title": "Colombia FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Colombia%20FC",
+        "pubdate": "Wed, 16 Oct 2024 01:00:00 +0200"
     },
     {
         "title": "Carlos Llamas",
@@ -98,5 +88,15 @@
         "title": "Six Kings Slam",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Six%20Kings%20Slam",
         "pubdate": "Wed, 16 Oct 2024 10:00:00 +0200"
+    },
+    {
+        "title": "EuroLeague",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#EuroLeague",
+        "pubdate": "Wed, 16 Oct 2024 00:00:00 +0200"
+    },
+    {
+        "title": "Lo Celso",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Lo%20Celso",
+        "pubdate": "Wed, 16 Oct 2024 14:00:00 +0200"
     }
 ]
