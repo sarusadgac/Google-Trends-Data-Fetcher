@@ -10,6 +10,11 @@
         "pubdate": "Wed, 16 Oct 2024 01:00:00 -0300"
     },
     {
+        "title": "Cabral",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cabral",
+        "pubdate": "Wed, 16 Oct 2024 00:00:00 -0300"
+    },
+    {
         "title": "Brasil vs peru",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Brasil%20vs%20peru",
         "pubdate": "Tue, 15 Oct 2024 15:00:00 -0300"
@@ -70,19 +75,14 @@
         "pubdate": "Tue, 15 Oct 2024 19:00:00 -0300"
     },
     {
-        "title": "Incendio Santiago",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Incendio%20Santiago",
-        "pubdate": "Tue, 15 Oct 2024 11:00:00 -0300"
-    },
-    {
         "title": "Deportes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Deportes",
         "pubdate": "Tue, 15 Oct 2024 22:00:00 -0300"
     },
     {
-        "title": "Luciano Cabral",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Luciano%20Cabral",
-        "pubdate": "Tue, 15 Oct 2024 20:00:00 -0300"
+        "title": "Dia del Profesor chile 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Dia%20del%20Profesor%20chile%202024",
+        "pubdate": "Tue, 15 Oct 2024 17:00:00 -0300"
     },
     {
         "title": "Ricardo Gareca",
@@ -90,13 +90,13 @@
         "pubdate": "Tue, 15 Oct 2024 21:00:00 -0300"
     },
     {
-        "title": "ADN Radio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#ADN%20Radio",
-        "pubdate": "Tue, 15 Oct 2024 20:00:00 -0300"
-    },
-    {
         "title": "Eduardo Vargas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Eduardo%20Vargas",
         "pubdate": "Tue, 15 Oct 2024 20:00:00 -0300"
+    },
+    {
+        "title": "Bill Gates",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Bill%20Gates",
+        "pubdate": "Tue, 15 Oct 2024 11:00:00 -0300"
     }
 ]

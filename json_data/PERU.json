@@ -15,6 +15,11 @@
         "pubdate": "Tue, 15 Oct 2024 09:00:00 -0500"
     },
     {
+        "title": "Partidos de hoy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Partidos%20de%20hoy",
+        "pubdate": "Tue, 15 Oct 2024 09:00:00 -0500"
+    },
+    {
         "title": "Polonia  Croacia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Polonia%20%20Croacia",
         "pubdate": "Tue, 15 Oct 2024 10:00:00 -0500"
@@ -30,13 +35,8 @@
         "pubdate": "Tue, 15 Oct 2024 15:00:00 -0500"
     },
     {
-        "title": "Latina noticias",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Latina%20noticias",
-        "pubdate": "Tue, 15 Oct 2024 20:00:00 -0500"
-    },
-    {
-        "title": "Peru vs Chile",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Peru%20vs%20Chile",
+        "title": "Canal 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Canal%202",
         "pubdate": "Tue, 15 Oct 2024 20:00:00 -0500"
     },
     {
@@ -45,14 +45,24 @@
         "pubdate": "Tue, 15 Oct 2024 18:00:00 -0500"
     },
     {
-        "title": "Venezuela",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Venezuela",
+        "title": "Peru vs Chile",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Peru%20vs%20Chile",
+        "pubdate": "Tue, 15 Oct 2024 20:00:00 -0500"
+    },
+    {
+        "title": "Frecuencia Latina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Frecuencia%20Latina",
+        "pubdate": "Tue, 15 Oct 2024 20:00:00 -0500"
+    },
+    {
+        "title": "Chile",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Chile",
         "pubdate": "Tue, 15 Oct 2024 17:00:00 -0500"
     },
     {
-        "title": "Deportes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Deportes",
-        "pubdate": "Tue, 15 Oct 2024 19:00:00 -0500"
+        "title": "Colombia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Colombia",
+        "pubdate": "Tue, 15 Oct 2024 15:00:00 -0500"
     },
     {
         "title": "Canadá  Panamá",
@@ -60,9 +70,9 @@
         "pubdate": "Tue, 15 Oct 2024 19:00:00 -0500"
     },
     {
-        "title": "México  Estados Unidos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#M%C3%A9xico%20%20Estados%20Unidos",
-        "pubdate": "Tue, 15 Oct 2024 22:00:00 -0500"
+        "title": "Deportes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Deportes",
+        "pubdate": "Tue, 15 Oct 2024 19:00:00 -0500"
     },
     {
         "title": "Poder Judicial",
@@ -88,15 +98,5 @@
         "title": "Futbol",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Futbol",
         "pubdate": "Tue, 15 Oct 2024 17:00:00 -0500"
-    },
-    {
-        "title": "ATV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#ATV",
-        "pubdate": "Tue, 15 Oct 2024 20:00:00 -0500"
-    },
-    {
-        "title": "Santiago Suárez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Santiago%20Su%C3%A1rez",
-        "pubdate": "Tue, 15 Oct 2024 23:00:00 -0500"
     }
 ]

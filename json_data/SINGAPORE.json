@@ -10,11 +10,6 @@
         "pubdate": "Wed, 16 Oct 2024 12:00:00 +0800"
     },
     {
-        "title": "HDB BTO",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#HDB%20BTO",
-        "pubdate": "Wed, 16 Oct 2024 12:00:00 +0800"
-    },
-    {
         "title": "ASML",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#ASML",
         "pubdate": "Wed, 16 Oct 2024 00:00:00 +0800"
@@ -98,5 +93,10 @@
         "title": "Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Trump",
         "pubdate": "Tue, 15 Oct 2024 05:00:00 +0800"
+    },
+    {
+        "title": "Hong Kong monkeys",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Hong%20Kong%20monkeys",
+        "pubdate": "Tue, 15 Oct 2024 16:00:00 +0800"
     }
 ]
