@@ -5,19 +5,14 @@
         "pubdate": "Thu, 17 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "Hír",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#H%C3%ADr",
-        "pubdate": "Thu, 17 Oct 2024 02:00:00 +0200"
-    },
-    {
-        "title": "Messi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Messi",
+        "title": "Szoboszlai Dominik",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szoboszlai%20Dominik",
         "pubdate": "Thu, 17 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "Földrengés Törökországban",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#F%C3%B6ldreng%C3%A9s%20T%C3%B6r%C3%B6korsz%C3%A1gban",
-        "pubdate": "Thu, 17 Oct 2024 08:00:00 +0200"
+        "title": "Hír",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#H%C3%ADr",
+        "pubdate": "Thu, 17 Oct 2024 02:00:00 +0200"
     },
     {
         "title": "Kozma Imre atya",
@@ -25,9 +20,14 @@
         "pubdate": "Thu, 17 Oct 2024 09:00:00 +0200"
     },
     {
-        "title": "Szoboszlai Dominik",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szoboszlai%20Dominik",
-        "pubdate": "Wed, 16 Oct 2024 20:00:00 +0200"
+        "title": "Földrengés Törökországban",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#F%C3%B6ldreng%C3%A9s%20T%C3%B6r%C3%B6korsz%C3%A1gban",
+        "pubdate": "Thu, 17 Oct 2024 08:00:00 +0200"
+    },
+    {
+        "title": "Messi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Messi",
+        "pubdate": "Thu, 17 Oct 2024 00:00:00 +0200"
     },
     {
         "title": "Kormányinfó",
@@ -53,6 +53,11 @@
         "title": "Cher",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Cher",
         "pubdate": "Wed, 16 Oct 2024 11:00:00 +0200"
+    },
+    {
+        "title": "Millenáris",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Millen%C3%A1ris",
+        "pubdate": "Wed, 16 Oct 2024 13:00:00 +0200"
     },
     {
         "title": "IDEA Intézet",
@@ -92,11 +97,6 @@
     {
         "title": "Monet kiállítás",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Monet%20ki%C3%A1ll%C3%ADt%C3%A1s",
-        "pubdate": "Wed, 16 Oct 2024 22:00:00 +0200"
-    },
-    {
-        "title": "Szabó Csilla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szab%C3%B3%20Csilla",
         "pubdate": "Wed, 16 Oct 2024 22:00:00 +0200"
     }
 ]
