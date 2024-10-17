@@ -5,6 +5,11 @@
         "pubdate": "Thu, 17 Oct 2024 01:00:00 +0300"
     },
     {
+        "title": "Nokia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Nokia",
+        "pubdate": "Thu, 17 Oct 2024 18:00:00 +0300"
+    },
+    {
         "title": "Cooper Koch",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Cooper%20Koch",
         "pubdate": "Thu, 17 Oct 2024 01:00:00 +0300"
@@ -75,6 +80,11 @@
         "pubdate": "Tue, 15 Oct 2024 20:00:00 +0300"
     },
     {
+        "title": "Hermes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Hermes",
+        "pubdate": "Tue, 15 Oct 2024 20:00:00 +0300"
+    },
+    {
         "title": "Emotion",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Emotion",
         "pubdate": "Tue, 15 Oct 2024 11:00:00 +0300"
@@ -88,15 +98,5 @@
         "title": "Alien: Romulus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Alien:%20Romulus",
         "pubdate": "Tue, 15 Oct 2024 23:00:00 +0300"
-    },
-    {
-        "title": "Janne Puhakka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Janne%20Puhakka",
-        "pubdate": "Mon, 14 Oct 2024 12:00:00 +0300"
-    },
-    {
-        "title": "The Offspring",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#The%20Offspring",
-        "pubdate": "Mon, 14 Oct 2024 21:00:00 +0300"
     }
 ]
