@@ -1,5 +1,20 @@
 [
     {
+        "title": "Unión Comercio  Comerciantes Unidos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Uni%C3%B3n%20Comercio%20%20Comerciantes%20Unidos",
+        "pubdate": "Thu, 17 Oct 2024 14:00:00 -0500"
+    },
+    {
+        "title": "Brasileirao",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Brasileirao",
+        "pubdate": "Thu, 17 Oct 2024 14:00:00 -0500"
+    },
+    {
+        "title": "Cusco FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Cusco%20FC",
+        "pubdate": "Thu, 17 Oct 2024 14:00:00 -0500"
+    },
+    {
         "title": "Millonarios  Fortaleza",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Millonarios%20%20Fortaleza",
         "pubdate": "Thu, 17 Oct 2024 09:00:00 -0500"
@@ -10,9 +25,9 @@
         "pubdate": "Wed, 16 Oct 2024 15:00:00 -0500"
     },
     {
-        "title": "Concierto de Aventura",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Concierto%20de%20Aventura",
-        "pubdate": "Wed, 16 Oct 2024 19:00:00 -0500"
+        "title": "Aventura en Lima",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Aventura%20en%20Lima",
+        "pubdate": "Wed, 16 Oct 2024 21:00:00 -0500"
     },
     {
         "title": "Ley 31980",
@@ -30,19 +45,14 @@
         "pubdate": "Wed, 16 Oct 2024 18:00:00 -0500"
     },
     {
-        "title": "Fortaleza , Atlético Mineiro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Fortaleza%20,%20Atl%C3%A9tico%20Mineiro",
+        "title": "Fortaleza  Atlético Mineiro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Fortaleza%20%20Atl%C3%A9tico%20Mineiro",
         "pubdate": "Wed, 16 Oct 2024 20:00:00 -0500"
     },
     {
         "title": "Nico Paz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Nico%20Paz",
         "pubdate": "Wed, 16 Oct 2024 00:00:00 -0500"
-    },
-    {
-        "title": "Ivan Quispe Palomino",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Ivan%20Quispe%20Palomino",
-        "pubdate": "Wed, 16 Oct 2024 14:00:00 -0500"
     },
     {
         "title": "Danubio  Peñarol",
@@ -65,6 +75,16 @@
         "pubdate": "Wed, 16 Oct 2024 23:00:00 -0500"
     },
     {
+        "title": "Peru Chile",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Peru%20Chile",
+        "pubdate": "Wed, 16 Oct 2024 16:00:00 -0500"
+    },
+    {
+        "title": "Peru vs Brasil en vivo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Peru%20vs%20Brasil%20en%20vivo",
+        "pubdate": "Tue, 15 Oct 2024 20:00:00 -0500"
+    },
+    {
         "title": "One Direction",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#One%20Direction",
         "pubdate": "Tue, 15 Oct 2024 16:00:00 -0500"
@@ -78,25 +98,5 @@
         "title": "Tabla de posiciones Eliminatorias 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Tabla%20de%20posiciones%20Eliminatorias%202024",
         "pubdate": "Tue, 15 Oct 2024 16:00:00 -0500"
-    },
-    {
-        "title": "Peru vs Brasil en vivo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Peru%20vs%20Brasil%20en%20vivo",
-        "pubdate": "Tue, 15 Oct 2024 20:00:00 -0500"
-    },
-    {
-        "title": "España - Serbia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Espa%C3%B1a%20-%20Serbia",
-        "pubdate": "Tue, 15 Oct 2024 09:00:00 -0500"
-    },
-    {
-        "title": "Escocia  Portugal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Escocia%20%20Portugal",
-        "pubdate": "Tue, 15 Oct 2024 10:00:00 -0500"
-    },
-    {
-        "title": "Peru",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Peru",
-        "pubdate": "Tue, 15 Oct 2024 18:00:00 -0500"
     }
 ]
