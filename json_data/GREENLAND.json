@@ -1,8 +1,18 @@
 [
     {
-        "title": "Katie Cassidy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Katie%20Cassidy",
-        "pubdate": "Thu, 17 Oct 2024 00:00:00 +0100"
+        "title": "Charlie Hebdo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Charlie%20Hebdo",
+        "pubdate": "Fri, 18 Oct 2024 00:00:00 +0200"
+    },
+    {
+        "title": "One Direction",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#One%20Direction",
+        "pubdate": "Thu, 17 Oct 2024 00:00:00 +0200"
+    },
+    {
+        "title": "Яхья Синвар",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%AF%D1%85%D1%8C%D1%8F%20%D0%A1%D0%B8%D0%BD%D0%B2%D0%B0%D1%80",
+        "pubdate": "Fri, 18 Oct 2024 01:00:00 +0300"
     },
     {
         "title": "LNG",
@@ -10,19 +20,14 @@
         "pubdate": "Fri, 18 Oct 2024 00:00:00 +0800"
     },
     {
-        "title": "Charlie Hebdo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Charlie%20Hebdo",
-        "pubdate": "Fri, 18 Oct 2024 00:00:00 +0200"
-    },
-    {
         "title": "Infosys Results",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Infosys%20Results",
         "pubdate": "Fri, 18 Oct 2024 00:30:00 +0530"
     },
     {
-        "title": "Яхья Синвар",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%AF%D1%85%D1%8C%D1%8F%20%D0%A1%D0%B8%D0%BD%D0%B2%D0%B0%D1%80",
-        "pubdate": "Fri, 18 Oct 2024 01:00:00 +0300"
+        "title": "Katie Cassidy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Katie%20Cassidy",
+        "pubdate": "Thu, 17 Oct 2024 00:00:00 +0100"
     },
     {
         "title": "Yahya Sinwar",
@@ -35,49 +40,9 @@
         "pubdate": "Fri, 18 Oct 2024 02:00:00 +0900"
     },
     {
-        "title": "One Direction",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#One%20Direction",
-        "pubdate": "Thu, 17 Oct 2024 00:00:00 +0200"
-    },
-    {
-        "title": "MemeFi giveaway",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#MemeFi%20giveaway",
-        "pubdate": "Thu, 17 Oct 2024 18:00:00 +0100"
-    },
-    {
-        "title": "Actor Valeriu Pavel Dan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Actor%20Valeriu%20Pavel%20Dan",
-        "pubdate": "Thu, 17 Oct 2024 15:00:00 +0300"
-    },
-    {
-        "title": "Dia do Eletricista",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dia%20do%20Eletricista",
-        "pubdate": "Thu, 17 Oct 2024 07:00:00 -0500"
-    },
-    {
-        "title": "Freddo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Freddo",
-        "pubdate": "Fri, 18 Oct 2024 00:00:00 +0200"
-    },
-    {
-        "title": "Liam Payne died",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Liam%20Payne%20died",
-        "pubdate": "Thu, 17 Oct 2024 06:00:00 +0800"
-    },
-    {
-        "title": "Twente vs Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Twente%20vs%20Chelsea",
-        "pubdate": "Thu, 17 Oct 2024 22:00:00 +0300"
-    },
-    {
-        "title": "Rachel Sobry",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Rachel%20Sobry",
-        "pubdate": "Fri, 18 Oct 2024 00:00:00 +0200"
-    },
-    {
-        "title": "סינוואר",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A1%D7%99%D7%A0%D7%95%D7%95%D7%90%D7%A8",
-        "pubdate": "Thu, 17 Oct 2024 16:00:00 +0300"
+        "title": "Tavares",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#Tavares",
+        "pubdate": "Fri, 18 Oct 2024 00:00:00 +0300"
     },
     {
         "title": "Weather radar",
@@ -85,9 +50,44 @@
         "pubdate": "Fri, 18 Oct 2024 09:00:00 +1100"
     },
     {
-        "title": "Günther Jauch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#G%C3%BCnther%20Jauch",
-        "pubdate": "Fri, 18 Oct 2024 00:00:00 +0200"
+        "title": "中石化",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E4%B8%AD%E7%9F%B3%E5%8C%96",
+        "pubdate": "Fri, 18 Oct 2024 01:00:00 +0800"
+    },
+    {
+        "title": "West Indies vs Sri Lanka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#West%20Indies%20vs%20Sri%20Lanka",
+        "pubdate": "Fri, 18 Oct 2024 07:00:00 +1300"
+    },
+    {
+        "title": "Twente vs Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Twente%20vs%20Chelsea",
+        "pubdate": "Thu, 17 Oct 2024 22:00:00 +0300"
+    },
+    {
+        "title": "Actor Valeriu Pavel Dan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Actor%20Valeriu%20Pavel%20Dan",
+        "pubdate": "Thu, 17 Oct 2024 15:00:00 +0300"
+    },
+    {
+        "title": "David Bowie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#David%20Bowie",
+        "pubdate": "Thu, 17 Oct 2024 23:00:00 +0300"
+    },
+    {
+        "title": "What age is Cheryl cole",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#What%20age%20is%20Cheryl%20cole",
+        "pubdate": "Thu, 17 Oct 2024 08:00:00 +0100"
+    },
+    {
+        "title": "סינוואר",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A1%D7%99%D7%A0%D7%95%D7%95%D7%90%D7%A8",
+        "pubdate": "Thu, 17 Oct 2024 16:00:00 +0300"
+    },
+    {
+        "title": "ليام باين",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#%D9%84%D9%8A%D8%A7%D9%85%20%D8%A8%D8%A7%D9%8A%D9%86",
+        "pubdate": "Thu, 17 Oct 2024 02:00:00 +0300"
     },
     {
         "title": "Vural Çelik",
@@ -95,8 +95,8 @@
         "pubdate": "Thu, 17 Oct 2024 21:00:00 +0300"
     },
     {
-        "title": "West Indies vs Sri Lanka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#West%20Indies%20vs%20Sri%20Lanka",
-        "pubdate": "Fri, 18 Oct 2024 07:00:00 +1300"
+        "title": "الجزيرة",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=EG#%D8%A7%D9%84%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9",
+        "pubdate": "Fri, 18 Oct 2024 00:00:00 +0300"
     }
 ]
