@@ -1,28 +1,8 @@
 [
     {
-        "title": "День отца",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%94%D0%B5%D0%BD%D1%8C%20%D0%BE%D1%82%D1%86%D0%B0",
-        "pubdate": "Thu, 17 Oct 2024 10:00:00 +0300"
-    },
-    {
-        "title": "One Direction",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#One%20Direction",
-        "pubdate": "Thu, 17 Oct 2024 00:00:00 +0200"
-    },
-    {
         "title": "復讐のレクイエム",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%BE%A9%E8%AE%90%E3%81%AE%E3%83%AC%E3%82%AF%E3%82%A4%E3%82%A8%E3%83%A0",
         "pubdate": "Fri, 18 Oct 2024 02:00:00 +0900"
-    },
-    {
-        "title": "Sinwar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Sinwar",
-        "pubdate": "Thu, 17 Oct 2024 08:00:00 -0700"
-    },
-    {
-        "title": "West Indies vs Sri Lanka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#West%20Indies%20vs%20Sri%20Lanka",
-        "pubdate": "Thu, 17 Oct 2024 19:30:00 +0530"
     },
     {
         "title": "LNG",
@@ -30,19 +10,44 @@
         "pubdate": "Fri, 18 Oct 2024 00:00:00 +0800"
     },
     {
+        "title": "One Direction",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#One%20Direction",
+        "pubdate": "Thu, 17 Oct 2024 00:00:00 +0200"
+    },
+    {
         "title": "Yahya Sinwar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Yahya%20Sinwar",
         "pubdate": "Thu, 17 Oct 2024 16:00:00 +0100"
     },
     {
-        "title": "EZB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#EZB",
-        "pubdate": "Thu, 17 Oct 2024 14:00:00 +0200"
+        "title": "Sinwar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Sinwar",
+        "pubdate": "Thu, 17 Oct 2024 08:00:00 -0700"
     },
     {
-        "title": "Potápi Árpád",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Pot%C3%A1pi%20%C3%81rp%C3%A1d",
-        "pubdate": "Thu, 17 Oct 2024 17:00:00 +0200"
+        "title": "Annonay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Annonay",
+        "pubdate": "Thu, 17 Oct 2024 13:00:00 +0200"
+    },
+    {
+        "title": "День отца",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%94%D0%B5%D0%BD%D1%8C%20%D0%BE%D1%82%D1%86%D0%B0",
+        "pubdate": "Thu, 17 Oct 2024 10:00:00 +0300"
+    },
+    {
+        "title": "West Indies vs Sri Lanka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#West%20Indies%20vs%20Sri%20Lanka",
+        "pubdate": "Thu, 17 Oct 2024 19:30:00 +0530"
+    },
+    {
+        "title": "Osby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Osby",
+        "pubdate": "Thu, 17 Oct 2024 05:00:00 +0200"
+    },
+    {
+        "title": "סינוואר",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A1%D7%99%D7%A0%D7%95%D7%95%D7%90%D7%A8",
+        "pubdate": "Thu, 17 Oct 2024 16:00:00 +0300"
     },
     {
         "title": "Bas Muijs",
@@ -50,29 +55,34 @@
         "pubdate": "Thu, 17 Oct 2024 11:00:00 +0200"
     },
     {
-        "title": "Millonarios  Fortaleza",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Millonarios%20%20Fortaleza",
-        "pubdate": "Thu, 17 Oct 2024 09:00:00 -0500"
+        "title": "O2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#O2",
+        "pubdate": "Thu, 17 Oct 2024 10:00:00 +0200"
     },
     {
-        "title": "Sydney Sweeney",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sydney%20Sweeney",
-        "pubdate": "Thu, 17 Oct 2024 00:00:00 +0100"
+        "title": "Liam Payne öldü mü",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Liam%20Payne%20%C3%B6ld%C3%BC%20m%C3%BC",
+        "pubdate": "Thu, 17 Oct 2024 02:00:00 +0300"
     },
     {
-        "title": "One Direction Mitglieder",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#One%20Direction%20Mitglieder",
-        "pubdate": "Thu, 17 Oct 2024 02:00:00 +0200"
+        "title": "EZB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#EZB",
+        "pubdate": "Thu, 17 Oct 2024 11:00:00 +0200"
     },
     {
-        "title": "Cynthia Erivo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Cynthia%20Erivo",
-        "pubdate": "Fri, 18 Oct 2024 02:00:00 +1100"
+        "title": "Лиам Пейн",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=UA#%D0%9B%D0%B8%D0%B0%D0%BC%20%D0%9F%D0%B5%D0%B9%D0%BD",
+        "pubdate": "Thu, 17 Oct 2024 02:00:00 +0300"
     },
     {
-        "title": "PSIS vs Persija Jakarta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#PSIS%20vs%20Persija%20Jakarta",
-        "pubdate": "Thu, 17 Oct 2024 19:00:00 +0700"
+        "title": "Nokia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Nokia",
+        "pubdate": "Thu, 17 Oct 2024 18:00:00 +0300"
+    },
+    {
+        "title": "Wim Fissette",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Wim%20Fissette",
+        "pubdate": "Thu, 17 Oct 2024 10:00:00 +0200"
     },
     {
         "title": "يحيى السنوار",
@@ -80,23 +90,13 @@
         "pubdate": "Thu, 17 Oct 2024 17:00:00 +0300"
     },
     {
-        "title": "Darleen Tana",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Darleen%20Tana",
-        "pubdate": "Fri, 18 Oct 2024 05:00:00 +1300"
+        "title": "Cynthia Erivo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Cynthia%20Erivo",
+        "pubdate": "Fri, 18 Oct 2024 02:00:00 +1100"
     },
     {
-        "title": "이주빈",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9D%B4%EC%A3%BC%EB%B9%88",
-        "pubdate": "Fri, 18 Oct 2024 02:00:00 +0900"
-    },
-    {
-        "title": "Trương Mỹ Lan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Tr%C6%B0%C6%A1ng%20M%E1%BB%B9%20Lan",
-        "pubdate": "Thu, 17 Oct 2024 11:00:00 +0700"
-    },
-    {
-        "title": "ليام باين",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=EG#%D9%84%D9%8A%D8%A7%D9%85%20%D8%A8%D8%A7%D9%8A%D9%86",
-        "pubdate": "Thu, 17 Oct 2024 03:00:00 +0300"
+        "title": "台積電ADR",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%8F%B0%E7%A9%8D%E9%9B%BBADR",
+        "pubdate": "Fri, 18 Oct 2024 00:00:00 +0800"
     }
 ]
