@@ -1,13 +1,13 @@
 [
     {
+        "title": "One Direction",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#One%20Direction",
+        "pubdate": "Thu, 17 Oct 2024 00:00:00 +0200"
+    },
+    {
         "title": "Vodafone vypadky",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vodafone%20vypadky",
         "pubdate": "Wed, 16 Oct 2024 07:00:00 +0200"
-    },
-    {
-        "title": "Victoria Secret",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Victoria%20Secret",
-        "pubdate": "Wed, 16 Oct 2024 00:00:00 +0200"
     },
     {
         "title": "Jonas Brothers",
@@ -50,6 +50,11 @@
         "pubdate": "Wed, 16 Oct 2024 00:00:00 +0200"
     },
     {
+        "title": "Vrbětice",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vrb%C4%9Btice",
+        "pubdate": "Wed, 16 Oct 2024 22:00:00 +0200"
+    },
+    {
         "title": "Petr Uhlík",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Petr%20Uhl%C3%ADk",
         "pubdate": "Wed, 16 Oct 2024 12:00:00 +0200"
@@ -60,14 +65,14 @@
         "pubdate": "Wed, 16 Oct 2024 18:00:00 +0200"
     },
     {
+        "title": "Kometa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kometa",
+        "pubdate": "Tue, 15 Oct 2024 20:00:00 +0200"
+    },
+    {
         "title": "Jiří Hromada",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ji%C5%99%C3%AD%20Hromada",
         "pubdate": "Tue, 15 Oct 2024 16:00:00 +0200"
-    },
-    {
-        "title": "Kometa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kometa",
-        "pubdate": "Tue, 15 Oct 2024 21:00:00 +0200"
     },
     {
         "title": "Robert Kodym",
@@ -88,11 +93,6 @@
         "title": "ASML",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#ASML",
         "pubdate": "Tue, 15 Oct 2024 21:00:00 +0200"
-    },
-    {
-        "title": "Vojta Dyk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vojta%20Dyk",
-        "pubdate": "Tue, 15 Oct 2024 23:00:00 +0200"
     },
     {
         "title": "Úplněk",
