@@ -5,8 +5,8 @@
         "pubdate": "Thu, 17 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "Vodafone výpadek",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vodafone%20v%C3%BDpadek",
+        "title": "Vodafone vypadky",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vodafone%20vypadky",
         "pubdate": "Wed, 16 Oct 2024 07:00:00 +0200"
     },
     {
@@ -45,11 +45,6 @@
         "pubdate": "Wed, 16 Oct 2024 09:00:00 +0200"
     },
     {
-        "title": "AVU",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#AVU",
-        "pubdate": "Wed, 16 Oct 2024 18:00:00 +0200"
-    },
-    {
         "title": "iPad mini",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#iPad%20mini",
         "pubdate": "Wed, 16 Oct 2024 00:00:00 +0200"
@@ -75,14 +70,14 @@
         "pubdate": "Wed, 16 Oct 2024 15:00:00 +0200"
     },
     {
+        "title": "Kometa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kometa",
+        "pubdate": "Tue, 15 Oct 2024 20:00:00 +0200"
+    },
+    {
         "title": "Jiří Hromada",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ji%C5%99%C3%AD%20Hromada",
         "pubdate": "Tue, 15 Oct 2024 16:00:00 +0200"
-    },
-    {
-        "title": "Kometa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kometa",
-        "pubdate": "Tue, 15 Oct 2024 21:00:00 +0200"
     },
     {
         "title": "Robert Kodym",
@@ -93,6 +88,11 @@
         "title": "Lobotomie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Lobotomie",
         "pubdate": "Tue, 15 Oct 2024 19:00:00 +0200"
+    },
+    {
+        "title": "Říjnový úplněk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C5%98%C3%ADjnov%C3%BD%20%C3%BApln%C4%9Bk",
+        "pubdate": "Tue, 15 Oct 2024 23:00:00 +0200"
     },
     {
         "title": "Patrik Kincl",
