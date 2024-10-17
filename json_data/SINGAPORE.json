@@ -35,6 +35,11 @@
         "pubdate": "Thu, 17 Oct 2024 17:00:00 +0800"
     },
     {
+        "title": "HDB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#HDB",
+        "pubdate": "Wed, 16 Oct 2024 20:00:00 +0800"
+    },
+    {
         "title": "ASML",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#ASML",
         "pubdate": "Wed, 16 Oct 2024 00:00:00 +0800"
@@ -92,11 +97,6 @@
     {
         "title": "Mbappe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Mbappe",
-        "pubdate": "Tue, 15 Oct 2024 21:00:00 +0800"
-    },
-    {
-        "title": "North Korean South Korea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#North%20Korean%20South%20Korea",
         "pubdate": "Tue, 15 Oct 2024 21:00:00 +0800"
     }
 ]

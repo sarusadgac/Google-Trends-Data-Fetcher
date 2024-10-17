@@ -1,5 +1,10 @@
 [
     {
+        "title": "Millonarios  Fortaleza",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Millonarios%20%20Fortaleza",
+        "pubdate": "Thu, 17 Oct 2024 09:00:00 -0500"
+    },
+    {
         "title": "Peru vs Brasil",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Peru%20vs%20Brasil",
         "pubdate": "Wed, 16 Oct 2024 14:00:00 -0500"
@@ -10,11 +15,6 @@
         "pubdate": "Wed, 16 Oct 2024 19:00:00 -0500"
     },
     {
-        "title": "U La Calera  colo-colo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#U%20La%20Calera%20%20colo-colo",
-        "pubdate": "Wed, 16 Oct 2024 18:00:00 -0500"
-    },
-    {
         "title": "Ley 31980",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Ley%2031980",
         "pubdate": "Wed, 16 Oct 2024 10:00:00 -0500"
@@ -23,6 +23,11 @@
         "title": "Millonarios vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Millonarios%20vs",
         "pubdate": "Wed, 16 Oct 2024 22:00:00 -0500"
+    },
+    {
+        "title": "Colo Colo vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Colo%20Colo%20vs",
+        "pubdate": "Wed, 16 Oct 2024 18:00:00 -0500"
     },
     {
         "title": "Fortaleza , Atlético Mineiro",
@@ -55,8 +60,8 @@
         "pubdate": "Wed, 16 Oct 2024 23:00:00 -0500"
     },
     {
-        "title": "Peru vs Brasil en vivo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Peru%20vs%20Brasil%20en%20vivo",
+        "title": "America TV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#America%20TV",
         "pubdate": "Tue, 15 Oct 2024 20:00:00 -0500"
     },
     {
@@ -93,10 +98,5 @@
         "title": "Victoria Secret",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Victoria%20Secret",
         "pubdate": "Tue, 15 Oct 2024 14:00:00 -0500"
-    },
-    {
-        "title": "Polonia  Croacia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Polonia%20%20Croacia",
-        "pubdate": "Tue, 15 Oct 2024 12:00:00 -0500"
     }
 ]
