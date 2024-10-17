@@ -1,5 +1,20 @@
 [
     {
+        "title": "Elon Musk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Elon%20Musk",
+        "pubdate": "Fri, 18 Oct 2024 00:00:00 +0200"
+    },
+    {
+        "title": "Las Ninyas del Corro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Las%20Ninyas%20del%20Corro",
+        "pubdate": "Fri, 18 Oct 2024 00:00:00 +0200"
+    },
+    {
+        "title": "Ferrari F80",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ferrari%20F80",
+        "pubdate": "Fri, 18 Oct 2024 00:00:00 +0200"
+    },
+    {
         "title": "One Direction",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#One%20Direction",
         "pubdate": "Thu, 17 Oct 2024 00:00:00 +0200"
@@ -35,14 +50,14 @@
         "pubdate": "Thu, 17 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "Eva Ugarte",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Eva%20Ugarte",
-        "pubdate": "Thu, 17 Oct 2024 23:00:00 +0200"
-    },
-    {
         "title": "Real Madrid - Panathinaikos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Real%20Madrid%20-%20Panathinaikos",
         "pubdate": "Thu, 17 Oct 2024 21:00:00 +0200"
+    },
+    {
+        "title": "Eva Ugarte",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Eva%20Ugarte",
+        "pubdate": "Thu, 17 Oct 2024 23:00:00 +0200"
     },
     {
         "title": "Juicio Samuel Luiz",
@@ -55,6 +70,11 @@
         "pubdate": "Thu, 17 Oct 2024 00:00:00 +0200"
     },
     {
+        "title": "Sinner Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Sinner%20Djokovic",
+        "pubdate": "Thu, 17 Oct 2024 22:00:00 +0200"
+    },
+    {
         "title": "Detención Alvise perez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Detenci%C3%B3n%20Alvise%20perez",
         "pubdate": "Thu, 17 Oct 2024 17:00:00 +0200"
@@ -65,14 +85,9 @@
         "pubdate": "Thu, 17 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "Sinner Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Sinner%20Djokovic",
-        "pubdate": "Thu, 17 Oct 2024 22:00:00 +0200"
-    },
-    {
-        "title": "Beguinas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Beguinas",
-        "pubdate": "Thu, 17 Oct 2024 20:00:00 +0200"
+        "title": "Matriz del destino",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Matriz%20del%20destino",
+        "pubdate": "Thu, 17 Oct 2024 13:00:00 +0200"
     },
     {
         "title": "Marta Riumbau",
@@ -83,20 +98,5 @@
         "title": "Aitana sanchez gijon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Aitana%20sanchez%20gijon",
         "pubdate": "Thu, 17 Oct 2024 16:00:00 +0200"
-    },
-    {
-        "title": "Taxista alcala de Henares",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Taxista%20alcala%20de%20Henares",
-        "pubdate": "Thu, 17 Oct 2024 10:00:00 +0200"
-    },
-    {
-        "title": "Lonzo Ball",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Lonzo%20Ball",
-        "pubdate": "Thu, 17 Oct 2024 15:00:00 +0200"
-    },
-    {
-        "title": "Diego gonzalez Rivas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Diego%20gonzalez%20Rivas",
-        "pubdate": "Thu, 17 Oct 2024 23:00:00 +0200"
     }
 ]
