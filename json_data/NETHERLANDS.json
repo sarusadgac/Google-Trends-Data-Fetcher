@@ -10,6 +10,11 @@
         "pubdate": "Thu, 17 Oct 2024 11:00:00 +0200"
     },
     {
+        "title": "Stroomhuis Eindhoven",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Stroomhuis%20Eindhoven",
+        "pubdate": "Thu, 17 Oct 2024 11:00:00 +0200"
+    },
+    {
         "title": "André van Duin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Andr%C3%A9%20van%20Duin",
         "pubdate": "Wed, 16 Oct 2024 20:00:00 +0200"
@@ -93,10 +98,5 @@
         "title": "FC Groningen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Groningen",
         "pubdate": "Thu, 10 Oct 2024 20:00:00 +0200"
-    },
-    {
-        "title": "Orkaan Milton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Orkaan%20Milton",
-        "pubdate": "Tue, 08 Oct 2024 09:00:00 +0200"
     }
 ]

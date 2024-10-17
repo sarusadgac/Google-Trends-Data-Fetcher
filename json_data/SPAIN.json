@@ -30,24 +30,14 @@
         "pubdate": "Thu, 17 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "Angela Tailandia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Angela%20Tailandia",
-        "pubdate": "Thu, 17 Oct 2024 00:00:00 +0200"
-    },
-    {
         "title": "Nadal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Nadal",
         "pubdate": "Thu, 17 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "Andres Montes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Andres%20Montes",
-        "pubdate": "Thu, 17 Oct 2024 07:00:00 +0200"
-    },
-    {
-        "title": "Sidenor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Sidenor",
-        "pubdate": "Thu, 17 Oct 2024 07:00:00 +0200"
+        "title": "Angela Tailandia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Angela%20Tailandia",
+        "pubdate": "Thu, 17 Oct 2024 00:00:00 +0200"
     },
     {
         "title": "Taxista alcala de Henares",
@@ -55,9 +45,19 @@
         "pubdate": "Thu, 17 Oct 2024 10:00:00 +0200"
     },
     {
+        "title": "Sidenor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Sidenor",
+        "pubdate": "Thu, 17 Oct 2024 07:00:00 +0200"
+    },
+    {
         "title": "Javier Ambrossi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Javier%20Ambrossi",
         "pubdate": "Thu, 17 Oct 2024 00:00:00 +0200"
+    },
+    {
+        "title": "Lonzo Ball",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Lonzo%20Ball",
+        "pubdate": "Thu, 17 Oct 2024 15:00:00 +0200"
     },
     {
         "title": "Julio Iglesias",
@@ -73,11 +73,6 @@
         "title": "Brasil vs peru",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Brasil%20vs%20peru",
         "pubdate": "Wed, 16 Oct 2024 03:00:00 +0200"
-    },
-    {
-        "title": "Teresa Urquijo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Teresa%20Urquijo",
-        "pubdate": "Wed, 16 Oct 2024 08:00:00 +0200"
     },
     {
         "title": "Paraguay - Venezuela",
@@ -98,5 +93,10 @@
         "title": "Six Kings Slam 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Six%20Kings%20Slam%202024",
         "pubdate": "Wed, 16 Oct 2024 10:00:00 +0200"
+    },
+    {
+        "title": "Teresa Urquijo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Teresa%20Urquijo",
+        "pubdate": "Wed, 16 Oct 2024 08:00:00 +0200"
     }
 ]

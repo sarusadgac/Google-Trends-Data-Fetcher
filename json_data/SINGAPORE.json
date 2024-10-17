@@ -15,14 +15,9 @@
         "pubdate": "Thu, 17 Oct 2024 16:00:00 +0800"
     },
     {
-        "title": "One Championship",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#One%20Championship",
+        "title": "ONE Championship",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#ONE%20Championship",
         "pubdate": "Thu, 17 Oct 2024 15:00:00 +0800"
-    },
-    {
-        "title": "HDB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#HDB",
-        "pubdate": "Wed, 16 Oct 2024 20:00:00 +0800"
     },
     {
         "title": "ASML",
@@ -53,11 +48,6 @@
         "title": "Adriana Lima",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Adriana%20Lima",
         "pubdate": "Wed, 16 Oct 2024 17:00:00 +0800"
-    },
-    {
-        "title": "Disney Cruise",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Disney%20Cruise",
-        "pubdate": "Wed, 16 Oct 2024 21:00:00 +0800"
     },
     {
         "title": "Gigi Hadid",
@@ -98,5 +88,15 @@
         "title": "North Korean South Korea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#North%20Korean%20South%20Korea",
         "pubdate": "Tue, 15 Oct 2024 21:00:00 +0800"
+    },
+    {
+        "title": "Cat",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Cat",
+        "pubdate": "Tue, 15 Oct 2024 00:00:00 +0800"
+    },
+    {
+        "title": "Gold price news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Gold%20price%20news",
+        "pubdate": "Tue, 15 Oct 2024 14:00:00 +0800"
     }
 ]
