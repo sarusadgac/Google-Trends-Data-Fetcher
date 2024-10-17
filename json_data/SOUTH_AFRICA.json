@@ -10,14 +10,14 @@
         "pubdate": "Thu, 17 Oct 2024 01:00:00 +0200"
     },
     {
-        "title": "Argentina vs Bolivia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Argentina%20vs%20Bolivia",
-        "pubdate": "Wed, 16 Oct 2024 03:00:00 +0200"
-    },
-    {
         "title": "Argentina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Argentina",
         "pubdate": "Wed, 16 Oct 2024 07:00:00 +0200"
+    },
+    {
+        "title": "Argentina vs Bolivia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Argentina%20vs%20Bolivia",
+        "pubdate": "Wed, 16 Oct 2024 03:00:00 +0200"
     },
     {
         "title": "Bosses Day",
