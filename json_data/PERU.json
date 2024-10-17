@@ -40,11 +40,6 @@
         "pubdate": "Wed, 16 Oct 2024 19:00:00 -0500"
     },
     {
-        "title": "Barcelona  Hammarby Fotboll",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Barcelona%20%20Hammarby%20Fotboll",
-        "pubdate": "Wed, 16 Oct 2024 16:00:00 -0500"
-    },
-    {
         "title": "Danubio  Peñarol",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Danubio%20%20Pe%C3%B1arol",
         "pubdate": "Wed, 16 Oct 2024 16:00:00 -0500"
@@ -98,5 +93,10 @@
         "title": "Partidos de hoy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Partidos%20de%20hoy",
         "pubdate": "Tue, 15 Oct 2024 09:00:00 -0500"
+    },
+    {
+        "title": "Peru",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Peru",
+        "pubdate": "Tue, 15 Oct 2024 18:00:00 -0500"
     }
 ]
