@@ -15,6 +15,11 @@
         "pubdate": "Fri, 18 Oct 2024 07:00:00 +0200"
     },
     {
+        "title": "Svátek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sv%C3%A1tek",
+        "pubdate": "Fri, 18 Oct 2024 14:00:00 +0200"
+    },
+    {
         "title": "One Direction",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#One%20Direction",
         "pubdate": "Thu, 17 Oct 2024 00:00:00 +0200"
@@ -93,10 +98,5 @@
         "title": "KLDR",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#KLDR",
         "pubdate": "Wed, 16 Oct 2024 08:00:00 +0200"
-    },
-    {
-        "title": "Hřebenatka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#H%C5%99ebenatka",
-        "pubdate": "Wed, 16 Oct 2024 01:00:00 +0200"
     }
 ]

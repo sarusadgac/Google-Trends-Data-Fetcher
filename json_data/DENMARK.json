@@ -1,5 +1,10 @@
 [
     {
+        "title": "Tom Hagen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tom%20Hagen",
+        "pubdate": "Fri, 18 Oct 2024 13:00:00 +0200"
+    },
+    {
         "title": "Liam Payne dead",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Liam%20Payne%20dead",
         "pubdate": "Thu, 17 Oct 2024 00:00:00 +0200"
@@ -30,14 +35,14 @@
         "pubdate": "Thu, 17 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "Bret Baier",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bret%20Baier",
-        "pubdate": "Thu, 17 Oct 2024 14:00:00 +0200"
-    },
-    {
         "title": "Roy Cohn",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Roy%20Cohn",
         "pubdate": "Thu, 17 Oct 2024 12:00:00 +0200"
+    },
+    {
+        "title": "Bret Baier",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bret%20Baier",
+        "pubdate": "Thu, 17 Oct 2024 14:00:00 +0200"
     },
     {
         "title": "Daily Mail",
@@ -55,14 +60,14 @@
         "pubdate": "Thu, 17 Oct 2024 11:00:00 +0200"
     },
     {
-        "title": "Bluesky",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bluesky",
-        "pubdate": "Thu, 17 Oct 2024 22:00:00 +0200"
-    },
-    {
         "title": "Ferrari F80",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ferrari%20F80",
         "pubdate": "Thu, 17 Oct 2024 23:00:00 +0200"
+    },
+    {
+        "title": "Bluesky",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bluesky",
+        "pubdate": "Thu, 17 Oct 2024 22:00:00 +0200"
     },
     {
         "title": "Nations League",
@@ -93,10 +98,5 @@
         "title": "Cher",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Cher",
         "pubdate": "Wed, 16 Oct 2024 10:00:00 +0200"
-    },
-    {
-        "title": "Rihanna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Rihanna",
-        "pubdate": "Wed, 16 Oct 2024 00:00:00 +0200"
     }
 ]
