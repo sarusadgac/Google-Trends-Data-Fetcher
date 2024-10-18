@@ -20,6 +20,11 @@
         "pubdate": "Fri, 18 Oct 2024 01:00:00 +0200"
     },
     {
+        "title": "One Direction",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#One%20Direction",
+        "pubdate": "Thu, 17 Oct 2024 00:00:00 +0200"
+    },
+    {
         "title": "Sara Carbonero cáncer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Sara%20Carbonero%20c%C3%A1ncer",
         "pubdate": "Thu, 17 Oct 2024 10:00:00 +0200"
@@ -93,10 +98,5 @@
         "title": "Taxista alcala de Henares",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Taxista%20alcala%20de%20Henares",
         "pubdate": "Thu, 17 Oct 2024 10:00:00 +0200"
-    },
-    {
-        "title": "Lonzo Ball",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Lonzo%20Ball",
-        "pubdate": "Thu, 17 Oct 2024 15:00:00 +0200"
     }
 ]
