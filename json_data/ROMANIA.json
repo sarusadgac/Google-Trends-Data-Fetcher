@@ -1,5 +1,10 @@
 [
     {
+        "title": "AUR",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#AUR",
+        "pubdate": "Fri, 18 Oct 2024 03:00:00 +0300"
+    },
+    {
         "title": "One Direction",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#One%20Direction",
         "pubdate": "Thu, 17 Oct 2024 01:00:00 +0300"
@@ -35,14 +40,14 @@
         "pubdate": "Thu, 17 Oct 2024 09:00:00 +0300"
     },
     {
-        "title": "Retreat Vama Veche",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Retreat%20Vama%20Veche",
-        "pubdate": "Thu, 17 Oct 2024 21:00:00 +0300"
-    },
-    {
         "title": "OSRAM",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#OSRAM",
         "pubdate": "Thu, 17 Oct 2024 20:00:00 +0300"
+    },
+    {
+        "title": "Retreat Vama Veche",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Retreat%20Vama%20Veche",
+        "pubdate": "Thu, 17 Oct 2024 21:00:00 +0300"
     },
     {
         "title": "Salariul minim pe economie",
@@ -50,8 +55,8 @@
         "pubdate": "Thu, 17 Oct 2024 10:00:00 +0300"
     },
     {
-        "title": "Elisabeta Lipa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Elisabeta%20Lipa",
+        "title": "Elisabeta lipa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Elisabeta%20lipa",
         "pubdate": "Thu, 17 Oct 2024 17:00:00 +0300"
     },
     {
@@ -88,11 +93,6 @@
         "title": "Luna plina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Luna%20plina",
         "pubdate": "Thu, 17 Oct 2024 15:00:00 +0300"
-    },
-    {
-        "title": "Ora de iarnă",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ora%20de%20iarn%C4%83",
-        "pubdate": "Thu, 17 Oct 2024 11:00:00 +0300"
     },
     {
         "title": "Andreea balan",

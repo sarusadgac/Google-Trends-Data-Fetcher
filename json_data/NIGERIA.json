@@ -1,5 +1,10 @@
 [
     {
+        "title": "MARCA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#MARCA",
+        "pubdate": "Fri, 18 Oct 2024 01:00:00 +0100"
+    },
+    {
         "title": "Troy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Troy",
         "pubdate": "Fri, 18 Oct 2024 00:00:00 +0100"
@@ -8,11 +13,6 @@
         "title": "MemeFi giveaway",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#MemeFi%20giveaway",
         "pubdate": "Thu, 17 Oct 2024 18:00:00 +0100"
-    },
-    {
-        "title": "Twente vs Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Twente%20vs%20Chelsea",
-        "pubdate": "Thu, 17 Oct 2024 20:00:00 +0100"
     },
     {
         "title": "Yahya Sinwar",
@@ -55,6 +55,11 @@
         "pubdate": "Thu, 17 Oct 2024 14:00:00 +0100"
     },
     {
+        "title": "Chelsea Women",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Chelsea%20Women",
+        "pubdate": "Thu, 17 Oct 2024 21:00:00 +0100"
+    },
+    {
         "title": "Cheryl Cole",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Cheryl%20Cole",
         "pubdate": "Thu, 17 Oct 2024 18:00:00 +0100"
@@ -75,14 +80,14 @@
         "pubdate": "Wed, 16 Oct 2024 07:00:00 +0100"
     },
     {
-        "title": "Ayobami Olabiyi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Ayobami%20Olabiyi",
-        "pubdate": "Wed, 16 Oct 2024 19:00:00 +0100"
-    },
-    {
         "title": "Arsenal vs vålerenga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Arsenal%20vs%20v%C3%A5lerenga",
         "pubdate": "Wed, 16 Oct 2024 20:00:00 +0100"
+    },
+    {
+        "title": "Ayobami Olabiyi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Ayobami%20Olabiyi",
+        "pubdate": "Wed, 16 Oct 2024 19:00:00 +0100"
     },
     {
         "title": "Thomas Tuchel",
@@ -93,10 +98,5 @@
         "title": "Kano Pillars",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Kano%20Pillars",
         "pubdate": "Wed, 16 Oct 2024 19:00:00 +0100"
-    },
-    {
-        "title": "Argentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Argentina",
-        "pubdate": "Wed, 16 Oct 2024 04:00:00 +0100"
     }
 ]

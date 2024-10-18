@@ -55,19 +55,24 @@
         "pubdate": "Thu, 17 Oct 2024 15:00:00 +0300"
     },
     {
-        "title": "Αμβερσα",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%91%CE%BC%CE%B2%CE%B5%CF%81%CF%83%CE%B1",
-        "pubdate": "Thu, 17 Oct 2024 21:00:00 +0300"
-    },
-    {
         "title": "Γιαχία Σινουάρ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%93%CE%B9%CE%B1%CF%87%CE%AF%CE%B1%20%CE%A3%CE%B9%CE%BD%CE%BF%CF%85%CE%AC%CF%81",
         "pubdate": "Thu, 17 Oct 2024 19:00:00 +0300"
     },
     {
+        "title": "Αμβερσα",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%91%CE%BC%CE%B2%CE%B5%CF%81%CF%83%CE%B1",
+        "pubdate": "Thu, 17 Oct 2024 21:00:00 +0300"
+    },
+    {
         "title": "Κορεα",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%9A%CE%BF%CF%81%CE%B5%CE%B1",
         "pubdate": "Thu, 17 Oct 2024 14:00:00 +0300"
+    },
+    {
+        "title": "Θερμοκρασία",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%98%CE%B5%CF%81%CE%BC%CE%BF%CE%BA%CF%81%CE%B1%CF%83%CE%AF%CE%B1",
+        "pubdate": "Thu, 17 Oct 2024 00:00:00 +0300"
     },
     {
         "title": "Κατώτατος μισθός",
@@ -88,11 +93,6 @@
         "title": "Καλλιοπη χασκα",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%9A%CE%B1%CE%BB%CE%BB%CE%B9%CE%BF%CF%80%CE%B7%20%CF%87%CE%B1%CF%83%CE%BA%CE%B1",
         "pubdate": "Thu, 17 Oct 2024 01:00:00 +0300"
-    },
-    {
-        "title": "Θερμοκρασία",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%98%CE%B5%CF%81%CE%BC%CE%BF%CE%BA%CF%81%CE%B1%CF%83%CE%AF%CE%B1",
-        "pubdate": "Thu, 17 Oct 2024 00:00:00 +0300"
     },
     {
         "title": "Ελληνικο FBI",
