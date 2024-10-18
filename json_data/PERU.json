@@ -1,10 +1,5 @@
 [
     {
-        "title": "Liga 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Liga%201",
-        "pubdate": "Thu, 17 Oct 2024 16:00:00 -0500"
-    },
-    {
         "title": "Sport Huancayo  Atlético Grau",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Sport%20Huancayo%20%20Atl%C3%A9tico%20Grau",
         "pubdate": "Thu, 17 Oct 2024 18:00:00 -0500"
@@ -20,14 +15,29 @@
         "pubdate": "Thu, 17 Oct 2024 18:00:00 -0500"
     },
     {
+        "title": "Matriz del destino",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Matriz%20del%20destino",
+        "pubdate": "Thu, 17 Oct 2024 06:00:00 -0500"
+    },
+    {
         "title": "Cusco FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Cusco%20FC",
         "pubdate": "Thu, 17 Oct 2024 14:00:00 -0500"
     },
     {
+        "title": "Alianza Lima vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Alianza%20Lima%20vs",
+        "pubdate": "Thu, 17 Oct 2024 19:00:00 -0500"
+    },
+    {
         "title": "Recorrido del Señor de los Milagros 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Recorrido%20del%20Se%C3%B1or%20de%20los%20Milagros%202024",
         "pubdate": "Thu, 17 Oct 2024 22:00:00 -0500"
+    },
+    {
+        "title": "Posiciones de Liga 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Posiciones%20de%20Liga%201",
+        "pubdate": "Thu, 17 Oct 2024 18:00:00 -0500"
     },
     {
         "title": "San Marcos",
@@ -40,9 +50,9 @@
         "pubdate": "Thu, 17 Oct 2024 19:00:00 -0500"
     },
     {
-        "title": "Alianza vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Alianza%20vs",
-        "pubdate": "Thu, 17 Oct 2024 19:00:00 -0500"
+        "title": "Kompayaso",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Kompayaso",
+        "pubdate": "Thu, 17 Oct 2024 15:00:00 -0500"
     },
     {
         "title": "Yahya Sinwar",
@@ -65,6 +75,11 @@
         "pubdate": "Thu, 17 Oct 2024 22:00:00 -0500"
     },
     {
+        "title": "Geraldine Pinto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Geraldine%20Pinto",
+        "pubdate": "Thu, 17 Oct 2024 17:00:00 -0500"
+    },
+    {
         "title": "One Direction",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#One%20Direction",
         "pubdate": "Wed, 16 Oct 2024 17:00:00 -0500"
@@ -83,20 +98,5 @@
         "title": "Nico Paz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Nico%20Paz",
         "pubdate": "Wed, 16 Oct 2024 00:00:00 -0500"
-    },
-    {
-        "title": "Colo Colo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Colo%20Colo",
-        "pubdate": "Wed, 16 Oct 2024 19:00:00 -0500"
-    },
-    {
-        "title": "Pensiones",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Pensiones",
-        "pubdate": "Wed, 16 Oct 2024 06:00:00 -0500"
-    },
-    {
-        "title": "Peru Chile",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Peru%20Chile",
-        "pubdate": "Wed, 16 Oct 2024 16:00:00 -0500"
     }
 ]
