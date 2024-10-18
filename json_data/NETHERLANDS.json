@@ -1,5 +1,10 @@
 [
     {
+        "title": "Eredivisie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Eredivisie",
+        "pubdate": "Fri, 18 Oct 2024 19:00:00 +0200"
+    },
+    {
         "title": "Peter Pannekoek",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Peter%20Pannekoek",
         "pubdate": "Fri, 18 Oct 2024 08:00:00 +0200"
@@ -93,10 +98,5 @@
         "title": "Carola Schouten",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Carola%20Schouten",
         "pubdate": "Thu, 10 Oct 2024 09:00:00 +0200"
-    },
-    {
-        "title": "Noorderlicht",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Noorderlicht",
-        "pubdate": "Thu, 10 Oct 2024 22:00:00 +0200"
     }
 ]
