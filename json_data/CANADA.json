@@ -20,11 +20,6 @@
         "pubdate": "Thu, 17 Oct 2024 11:00:00 -0400"
     },
     {
-        "title": "SAQ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#SAQ",
-        "pubdate": "Thu, 17 Oct 2024 18:00:00 -0400"
-    },
-    {
         "title": "Broncos vs Saints",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Broncos%20vs%20Saints",
         "pubdate": "Thu, 17 Oct 2024 22:00:00 -0400"
@@ -55,11 +50,6 @@
         "pubdate": "Thu, 17 Oct 2024 00:00:00 -0400"
     },
     {
-        "title": "Canucks vs Panthers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canucks%20vs%20Panthers",
-        "pubdate": "Thu, 17 Oct 2024 20:00:00 -0400"
-    },
-    {
         "title": "Sidney Crosby",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Sidney%20Crosby",
         "pubdate": "Thu, 17 Oct 2024 03:00:00 -0400"
@@ -75,9 +65,9 @@
         "pubdate": "Thu, 17 Oct 2024 20:00:00 -0400"
     },
     {
-        "title": "North Korean troops",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#North%20Korean%20troops",
-        "pubdate": "Thu, 17 Oct 2024 06:00:00 -0400"
+        "title": "SAQ greve",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#SAQ%20greve",
+        "pubdate": "Thu, 17 Oct 2024 18:00:00 -0400"
     },
     {
         "title": "Mitzi Gaynor",
@@ -98,5 +88,15 @@
         "title": "Matlock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Matlock",
         "pubdate": "Thu, 17 Oct 2024 22:00:00 -0400"
+    },
+    {
+        "title": "Lincoln Lawyer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lincoln%20Lawyer",
+        "pubdate": "Thu, 17 Oct 2024 20:00:00 -0400"
+    },
+    {
+        "title": "Bo Nix",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bo%20Nix",
+        "pubdate": "Thu, 17 Oct 2024 21:00:00 -0400"
     }
 ]

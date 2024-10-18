@@ -20,24 +20,19 @@
         "pubdate": "Thu, 17 Oct 2024 18:00:00 -0500"
     },
     {
-        "title": "Matriz del destino",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Matriz%20del%20destino",
-        "pubdate": "Thu, 17 Oct 2024 06:00:00 -0500"
-    },
-    {
         "title": "Cusco FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Cusco%20FC",
         "pubdate": "Thu, 17 Oct 2024 14:00:00 -0500"
     },
     {
-        "title": "San Marcos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#San%20Marcos",
-        "pubdate": "Thu, 17 Oct 2024 22:00:00 -0500"
-    },
-    {
         "title": "Corinthians",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Corinthians",
         "pubdate": "Thu, 17 Oct 2024 19:00:00 -0500"
+    },
+    {
+        "title": "San Marcos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#San%20Marcos",
+        "pubdate": "Thu, 17 Oct 2024 22:00:00 -0500"
     },
     {
         "title": "Brasileirao",
@@ -70,13 +65,13 @@
         "pubdate": "Thu, 17 Oct 2024 13:00:00 -0500"
     },
     {
-        "title": "Aaron Ramsey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Aaron%20Ramsey",
+        "title": "Recorrido del Señor de los Milagros 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Recorrido%20del%20Se%C3%B1or%20de%20los%20Milagros%202024",
         "pubdate": "Thu, 17 Oct 2024 22:00:00 -0500"
     },
     {
-        "title": "Recorrido del Señor de los Milagros 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Recorrido%20del%20Se%C3%B1or%20de%20los%20Milagros%202024",
+        "title": "Aaron Ramsey",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Aaron%20Ramsey",
         "pubdate": "Thu, 17 Oct 2024 22:00:00 -0500"
     },
     {
@@ -95,8 +90,13 @@
         "pubdate": "Wed, 16 Oct 2024 19:00:00 -0500"
     },
     {
-        "title": "Ley 31980",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Ley%2031980",
-        "pubdate": "Wed, 16 Oct 2024 10:00:00 -0500"
+        "title": "Millonarios vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Millonarios%20vs",
+        "pubdate": "Wed, 16 Oct 2024 22:00:00 -0500"
+    },
+    {
+        "title": "Nico Paz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Nico%20Paz",
+        "pubdate": "Wed, 16 Oct 2024 00:00:00 -0500"
     }
 ]
