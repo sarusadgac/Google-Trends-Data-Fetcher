@@ -5,6 +5,16 @@
         "pubdate": "Fri, 18 Oct 2024 07:00:00 +0200"
     },
     {
+        "title": "Tommy Nilsson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tommy%20Nilsson",
+        "pubdate": "Fri, 18 Oct 2024 21:00:00 +0200"
+    },
+    {
+        "title": "Lisa Miskovsky",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Lisa%20Miskovsky",
+        "pubdate": "Fri, 18 Oct 2024 21:00:00 +0200"
+    },
+    {
         "title": "Mats Sundin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mats%20Sundin",
         "pubdate": "Fri, 18 Oct 2024 09:00:00 +0200"
@@ -15,14 +25,14 @@
         "pubdate": "Fri, 18 Oct 2024 12:00:00 +0200"
     },
     {
-        "title": "Tele2 Arena",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tele2%20Arena",
-        "pubdate": "Fri, 18 Oct 2024 10:00:00 +0200"
-    },
-    {
         "title": "F1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#F1",
         "pubdate": "Fri, 18 Oct 2024 20:00:00 +0200"
+    },
+    {
+        "title": "Tele2 Arena",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tele2%20Arena",
+        "pubdate": "Fri, 18 Oct 2024 10:00:00 +0200"
     },
     {
         "title": "Thåström",
@@ -45,8 +55,8 @@
         "pubdate": "Fri, 18 Oct 2024 07:00:00 +0200"
     },
     {
-        "title": "Ukraina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ukraina",
+        "title": "Tom Hagen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tom%20Hagen",
         "pubdate": "Fri, 18 Oct 2024 19:00:00 +0200"
     },
     {
@@ -70,9 +80,9 @@
         "pubdate": "Thu, 17 Oct 2024 17:00:00 +0200"
     },
     {
-        "title": "Osby",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Osby",
-        "pubdate": "Thu, 17 Oct 2024 05:00:00 +0200"
+        "title": "Gustaf Reinfeldt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gustaf%20Reinfeldt",
+        "pubdate": "Thu, 17 Oct 2024 11:00:00 +0200"
     },
     {
         "title": "Björklöven",
@@ -88,15 +98,5 @@
         "title": "Paul Pogba",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Paul%20Pogba",
         "pubdate": "Thu, 17 Oct 2024 01:00:00 +0200"
-    },
-    {
-        "title": "Chris Abbott",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Chris%20Abbott",
-        "pubdate": "Thu, 17 Oct 2024 00:00:00 +0200"
-    },
-    {
-        "title": "Brödernas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Br%C3%B6dernas",
-        "pubdate": "Wed, 16 Oct 2024 10:00:00 +0200"
     }
 ]
