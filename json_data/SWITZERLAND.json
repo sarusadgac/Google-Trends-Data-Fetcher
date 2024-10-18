@@ -5,6 +5,11 @@
         "pubdate": "Fri, 18 Oct 2024 00:00:00 +0200"
     },
     {
+        "title": "Givors",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Givors",
+        "pubdate": "Fri, 18 Oct 2024 07:00:00 +0200"
+    },
+    {
         "title": "One Direction",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#One%20Direction",
         "pubdate": "Thu, 17 Oct 2024 00:00:00 +0200"
@@ -80,11 +85,6 @@
         "pubdate": "Thu, 17 Oct 2024 22:00:00 +0200"
     },
     {
-        "title": "Tahar Rahim",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tahar%20Rahim",
-        "pubdate": "Thu, 17 Oct 2024 20:00:00 +0200"
-    },
-    {
         "title": "Lissage bresilien acide glyoxylique",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lissage%20bresilien%20acide%20glyoxylique",
         "pubdate": "Thu, 17 Oct 2024 01:00:00 +0200"
@@ -95,8 +95,8 @@
         "pubdate": "Thu, 17 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "Grüezi wohl Frau Stirnimaa!",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gr%C3%BCezi%20wohl%20Frau%20Stirnimaa!",
+        "title": "Grüezi wohl, Frau Stirnimaa!",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gr%C3%BCezi%20wohl,%20Frau%20Stirnimaa!",
         "pubdate": "Thu, 17 Oct 2024 21:00:00 +0200"
     }
 ]
