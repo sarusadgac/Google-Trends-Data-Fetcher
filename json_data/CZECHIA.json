@@ -45,11 +45,6 @@
         "pubdate": "Fri, 18 Oct 2024 13:00:00 +0200"
     },
     {
-        "title": "KSW",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#KSW",
-        "pubdate": "Fri, 18 Oct 2024 22:00:00 +0200"
-    },
-    {
         "title": "Putin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Putin",
         "pubdate": "Fri, 18 Oct 2024 21:00:00 +0200"
@@ -98,5 +93,10 @@
         "title": "Vyjimecny stav",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vyjimecny%20stav",
         "pubdate": "Thu, 17 Oct 2024 20:00:00 +0200"
+    },
+    {
+        "title": "Digitalizace stavebního řízení",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Digitalizace%20stavebn%C3%ADho%20%C5%99%C3%ADzen%C3%AD",
+        "pubdate": "Thu, 17 Oct 2024 13:00:00 +0200"
     }
 ]
