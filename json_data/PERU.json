@@ -5,14 +5,14 @@
         "pubdate": "Fri, 18 Oct 2024 10:00:00 -0500"
     },
     {
-        "title": "Al-shabab  al-nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Al-shabab%20%20al-nassr",
-        "pubdate": "Fri, 18 Oct 2024 12:00:00 -0500"
-    },
-    {
         "title": "Dortmund  St. Pauli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Dortmund%20%20St.%20Pauli",
         "pubdate": "Fri, 18 Oct 2024 14:00:00 -0500"
+    },
+    {
+        "title": "Al-shabab  al-nassr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Al-shabab%20%20al-nassr",
+        "pubdate": "Fri, 18 Oct 2024 12:00:00 -0500"
     },
     {
         "title": "Bundesliga",
@@ -20,9 +20,19 @@
         "pubdate": "Fri, 18 Oct 2024 10:00:00 -0500"
     },
     {
+        "title": "Alavés - Valladolid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Alav%C3%A9s%20-%20Valladolid",
+        "pubdate": "Fri, 18 Oct 2024 15:00:00 -0500"
+    },
+    {
         "title": "Al-Hilal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Al-Hilal",
         "pubdate": "Fri, 18 Oct 2024 11:00:00 -0500"
+    },
+    {
+        "title": "Liga Española",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Liga%20Espa%C3%B1ola",
+        "pubdate": "Fri, 18 Oct 2024 15:00:00 -0500"
     },
     {
         "title": "Bruno Mars",
@@ -35,9 +45,9 @@
         "pubdate": "Fri, 18 Oct 2024 13:00:00 -0500"
     },
     {
-        "title": "Vaguito",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Vaguito",
-        "pubdate": "Fri, 18 Oct 2024 11:00:00 -0500"
+        "title": "LaLiga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#LaLiga",
+        "pubdate": "Fri, 18 Oct 2024 15:00:00 -0500"
     },
     {
         "title": "Cathy Barriga",
@@ -45,9 +55,19 @@
         "pubdate": "Fri, 18 Oct 2024 14:00:00 -0500"
     },
     {
-        "title": "Liga 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Liga%201",
-        "pubdate": "Thu, 17 Oct 2024 16:00:00 -0500"
+        "title": "Vaguito",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Vaguito",
+        "pubdate": "Fri, 18 Oct 2024 11:00:00 -0500"
+    },
+    {
+        "title": "Vinicius Tobias",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Vinicius%20Tobias",
+        "pubdate": "Fri, 18 Oct 2024 15:00:00 -0500"
+    },
+    {
+        "title": "UTC Cajamarca  Alianza Lima",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#UTC%20Cajamarca%20%20Alianza%20Lima",
+        "pubdate": "Thu, 17 Oct 2024 19:00:00 -0500"
     },
     {
         "title": "Sport Huancayo  Atlético Grau",
@@ -65,11 +85,6 @@
         "pubdate": "Thu, 17 Oct 2024 18:00:00 -0500"
     },
     {
-        "title": "Matriz del destino",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Matriz%20del%20destino",
-        "pubdate": "Thu, 17 Oct 2024 06:00:00 -0500"
-    },
-    {
         "title": "Recorrido del Señor de los Milagros 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Recorrido%20del%20Se%C3%B1or%20de%20los%20Milagros%202024",
         "pubdate": "Thu, 17 Oct 2024 22:00:00 -0500"
@@ -83,20 +98,5 @@
         "title": "Posiciones de Liga 1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Posiciones%20de%20Liga%201",
         "pubdate": "Thu, 17 Oct 2024 18:00:00 -0500"
-    },
-    {
-        "title": "San Marcos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#San%20Marcos",
-        "pubdate": "Thu, 17 Oct 2024 22:00:00 -0500"
-    },
-    {
-        "title": "Corinthians",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Corinthians",
-        "pubdate": "Thu, 17 Oct 2024 19:00:00 -0500"
-    },
-    {
-        "title": "Kompayaso",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Kompayaso",
-        "pubdate": "Thu, 17 Oct 2024 15:00:00 -0500"
     }
 ]
