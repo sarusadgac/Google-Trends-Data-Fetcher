@@ -7,21 +7,16 @@
     {
         "title": "Dortmund  St. Pauli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Dortmund%20%20St.%20Pauli",
-        "pubdate": "Fri, 18 Oct 2024 14:00:00 -0500"
-    },
-    {
-        "title": "Al-shabab  al-nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Al-shabab%20%20al-nassr",
-        "pubdate": "Fri, 18 Oct 2024 12:00:00 -0500"
-    },
-    {
-        "title": "Bundesliga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bundesliga",
         "pubdate": "Fri, 18 Oct 2024 10:00:00 -0500"
     },
     {
-        "title": "Alavés - Valladolid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Alav%C3%A9s%20-%20Valladolid",
+        "title": "Al-shabab  Al-Nassr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Al-shabab%20%20Al-Nassr",
+        "pubdate": "Fri, 18 Oct 2024 12:00:00 -0500"
+    },
+    {
+        "title": "Alavés  Valladolid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Alav%C3%A9s%20%20Valladolid",
         "pubdate": "Fri, 18 Oct 2024 15:00:00 -0500"
     },
     {
@@ -35,6 +30,11 @@
         "pubdate": "Fri, 18 Oct 2024 15:00:00 -0500"
     },
     {
+        "title": "LaLiga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#LaLiga",
+        "pubdate": "Fri, 18 Oct 2024 15:00:00 -0500"
+    },
+    {
         "title": "Bruno Mars",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bruno%20Mars",
         "pubdate": "Fri, 18 Oct 2024 13:00:00 -0500"
@@ -45,14 +45,14 @@
         "pubdate": "Fri, 18 Oct 2024 13:00:00 -0500"
     },
     {
-        "title": "LaLiga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#LaLiga",
-        "pubdate": "Fri, 18 Oct 2024 15:00:00 -0500"
-    },
-    {
         "title": "Cathy Barriga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Cathy%20Barriga",
         "pubdate": "Fri, 18 Oct 2024 14:00:00 -0500"
+    },
+    {
+        "title": "Tabla Liga 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Tabla%20Liga%201",
+        "pubdate": "Fri, 18 Oct 2024 15:00:00 -0500"
     },
     {
         "title": "Vaguito",
@@ -65,9 +65,14 @@
         "pubdate": "Fri, 18 Oct 2024 15:00:00 -0500"
     },
     {
-        "title": "UTC Cajamarca  Alianza Lima",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#UTC%20Cajamarca%20%20Alianza%20Lima",
+        "title": "UTC Cajamarca . Alianza Lima",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#UTC%20Cajamarca%20.%20Alianza%20Lima",
         "pubdate": "Thu, 17 Oct 2024 19:00:00 -0500"
+    },
+    {
+        "title": "Liga 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Liga%201",
+        "pubdate": "Thu, 17 Oct 2024 16:00:00 -0500"
     },
     {
         "title": "Sport Huancayo  Atlético Grau",
@@ -93,10 +98,5 @@
         "title": "Cusco FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Cusco%20FC",
         "pubdate": "Thu, 17 Oct 2024 14:00:00 -0500"
-    },
-    {
-        "title": "Posiciones de Liga 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Posiciones%20de%20Liga%201",
-        "pubdate": "Thu, 17 Oct 2024 18:00:00 -0500"
     }
 ]
