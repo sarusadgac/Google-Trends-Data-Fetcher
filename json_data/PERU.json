@@ -10,14 +10,14 @@
         "pubdate": "Fri, 18 Oct 2024 10:00:00 -0500"
     },
     {
-        "title": "Al-Shabab  Al-Nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Al-Shabab%20%20Al-Nassr",
+        "title": "Al-shabab  al-nassr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Al-shabab%20%20al-nassr",
         "pubdate": "Fri, 18 Oct 2024 12:00:00 -0500"
     },
     {
-        "title": "Alavés  Valladolid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Alav%C3%A9s%20%20Valladolid",
-        "pubdate": "Fri, 18 Oct 2024 15:00:00 -0500"
+        "title": "Universitario",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Universitario",
+        "pubdate": "Fri, 18 Oct 2024 18:00:00 -0500"
     },
     {
         "title": "César Vallejo  Cienciano",
@@ -25,13 +25,28 @@
         "pubdate": "Fri, 18 Oct 2024 17:00:00 -0500"
     },
     {
+        "title": "Alavés  Valladolid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Alav%C3%A9s%20%20Valladolid",
+        "pubdate": "Fri, 18 Oct 2024 15:00:00 -0500"
+    },
+    {
+        "title": "Cristal vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Cristal%20vs",
+        "pubdate": "Fri, 18 Oct 2024 12:00:00 -0500"
+    },
+    {
         "title": "Al-Hilal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Al-Hilal",
         "pubdate": "Fri, 18 Oct 2024 11:00:00 -0500"
     },
     {
-        "title": "Liga Española",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Liga%20Espa%C3%B1ola",
+        "title": "Cathy Barriga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Cathy%20Barriga",
+        "pubdate": "Fri, 18 Oct 2024 14:00:00 -0500"
+    },
+    {
+        "title": "Liga española",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Liga%20espa%C3%B1ola",
         "pubdate": "Fri, 18 Oct 2024 15:00:00 -0500"
     },
     {
@@ -50,9 +65,9 @@
         "pubdate": "Fri, 18 Oct 2024 13:00:00 -0500"
     },
     {
-        "title": "Tabla Liga 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Tabla%20Liga%201",
-        "pubdate": "Fri, 18 Oct 2024 15:00:00 -0500"
+        "title": "Liga Argentina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Liga%20Argentina",
+        "pubdate": "Fri, 18 Oct 2024 17:00:00 -0500"
     },
     {
         "title": "Vaguito",
@@ -65,18 +80,8 @@
         "pubdate": "Fri, 18 Oct 2024 15:00:00 -0500"
     },
     {
-        "title": "Liga Argentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Liga%20Argentina",
-        "pubdate": "Fri, 18 Oct 2024 17:00:00 -0500"
-    },
-    {
         "title": "UTC Cajamarca  Alianza Lima",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#UTC%20Cajamarca%20%20Alianza%20Lima",
-        "pubdate": "Thu, 17 Oct 2024 19:00:00 -0500"
-    },
-    {
-        "title": "Liga 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Liga%201",
         "pubdate": "Thu, 17 Oct 2024 16:00:00 -0500"
     },
     {
@@ -93,10 +98,5 @@
         "title": "Flamengo  Fluminense",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Flamengo%20%20Fluminense",
         "pubdate": "Thu, 17 Oct 2024 18:00:00 -0500"
-    },
-    {
-        "title": "Recorrido del Señor de los Milagros 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Recorrido%20del%20Se%C3%B1or%20de%20los%20Milagros%202024",
-        "pubdate": "Thu, 17 Oct 2024 22:00:00 -0500"
     }
 ]
