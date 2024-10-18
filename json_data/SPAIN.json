@@ -25,14 +25,14 @@
         "pubdate": "Fri, 18 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "Horario MotoGP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Horario%20MotoGP",
-        "pubdate": "Fri, 18 Oct 2024 06:00:00 +0200"
-    },
-    {
         "title": "Ferrari F80",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ferrari%20F80",
         "pubdate": "Fri, 18 Oct 2024 00:00:00 +0200"
+    },
+    {
+        "title": "Horario MotoGP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Horario%20MotoGP",
+        "pubdate": "Fri, 18 Oct 2024 06:00:00 +0200"
     },
     {
         "title": "Horario F1",
@@ -43,11 +43,6 @@
         "title": "América  Deportivo Cali",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Am%C3%A9rica%20%20Deportivo%20Cali",
         "pubdate": "Fri, 18 Oct 2024 08:00:00 +0200"
-    },
-    {
-        "title": "Angel Cristo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Angel%20Cristo",
-        "pubdate": "Fri, 18 Oct 2024 10:00:00 +0200"
     },
     {
         "title": "Real Madrid Femenino",
@@ -95,8 +90,13 @@
         "pubdate": "Thu, 17 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "Beguinas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Beguinas",
-        "pubdate": "Thu, 17 Oct 2024 20:00:00 +0200"
+        "title": "Real Madrid - Panathinaikos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Real%20Madrid%20-%20Panathinaikos",
+        "pubdate": "Thu, 17 Oct 2024 21:00:00 +0200"
+    },
+    {
+        "title": "Juicio Samuel Luiz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Juicio%20Samuel%20Luiz",
+        "pubdate": "Thu, 17 Oct 2024 17:00:00 +0200"
     }
 ]
