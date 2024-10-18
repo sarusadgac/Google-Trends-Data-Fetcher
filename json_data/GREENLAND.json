@@ -1,28 +1,18 @@
 [
     {
-        "title": "Charlie Hebdo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Charlie%20Hebdo",
-        "pubdate": "Fri, 18 Oct 2024 00:00:00 +0200"
-    },
-    {
-        "title": "綾瀬はるか",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E7%B6%BE%E7%80%AC%E3%81%AF%E3%82%8B%E3%81%8B",
-        "pubdate": "Fri, 18 Oct 2024 12:00:00 +0900"
-    },
-    {
-        "title": "PKL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#PKL",
-        "pubdate": "Fri, 18 Oct 2024 12:30:00 +0530"
-    },
-    {
-        "title": "Subnautica 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Subnautica%202",
-        "pubdate": "Fri, 18 Oct 2024 00:00:00 -0700"
-    },
-    {
         "title": "Яхья Синвар",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%AF%D1%85%D1%8C%D1%8F%20%D0%A1%D0%B8%D0%BD%D0%B2%D0%B0%D1%80",
         "pubdate": "Fri, 18 Oct 2024 01:00:00 +0300"
+    },
+    {
+        "title": "Fog warning",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Fog%20warning",
+        "pubdate": "Fri, 18 Oct 2024 06:00:00 +0100"
+    },
+    {
+        "title": "VIRAT KOHLI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#VIRAT%20KOHLI",
+        "pubdate": "Fri, 18 Oct 2024 00:30:00 +0530"
     },
     {
         "title": "辛瓦爾",
@@ -30,9 +20,9 @@
         "pubdate": "Fri, 18 Oct 2024 10:00:00 +0800"
     },
     {
-        "title": "Harvard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Harvard",
-        "pubdate": "Fri, 18 Oct 2024 00:00:00 +0100"
+        "title": "マイナ保険証",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%9E%E3%82%A4%E3%83%8A%E4%BF%9D%E9%99%BA%E8%A8%BC",
+        "pubdate": "Fri, 18 Oct 2024 14:00:00 +0900"
     },
     {
         "title": "One Direction",
@@ -40,39 +30,24 @@
         "pubdate": "Thu, 17 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "Günther Jauch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#G%C3%BCnther%20Jauch",
+        "title": "Charlie Hebdo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Charlie%20Hebdo",
         "pubdate": "Fri, 18 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "Cheryl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Cheryl",
-        "pubdate": "Thu, 17 Oct 2024 00:00:00 +0100"
+        "title": "Broncos vs Saints",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Broncos%20vs%20Saints",
+        "pubdate": "Thu, 17 Oct 2024 12:00:00 -0700"
     },
     {
-        "title": "Zizou Bergs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Zizou%20Bergs",
-        "pubdate": "Fri, 18 Oct 2024 08:00:00 +0200"
-    },
-    {
-        "title": "M3 metró",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M3%20metr%C3%B3",
+        "title": "Carina Dahl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Carina%20Dahl",
         "pubdate": "Fri, 18 Oct 2024 09:00:00 +0200"
     },
     {
-        "title": "Culiacan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Culiacan",
-        "pubdate": "Fri, 18 Oct 2024 01:00:00 -0600"
-    },
-    {
-        "title": "기상청",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B8%B0%EC%83%81%EC%B2%AD",
-        "pubdate": "Fri, 18 Oct 2024 14:00:00 +0900"
-    },
-    {
-        "title": "Kamala Harris",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Kamala%20Harris",
-        "pubdate": "Fri, 18 Oct 2024 02:00:00 +0200"
+        "title": "Kindiki",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Kindiki",
+        "pubdate": "Fri, 18 Oct 2024 11:00:00 +0300"
     },
     {
         "title": "Flamengo",
@@ -80,23 +55,48 @@
         "pubdate": "Fri, 18 Oct 2024 00:00:00 +0100"
     },
     {
-        "title": "Liga 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Liga%201",
-        "pubdate": "Thu, 17 Oct 2024 16:00:00 -0500"
+        "title": "Kompayaso",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Kompayaso",
+        "pubdate": "Fri, 18 Oct 2024 02:00:00 -0300"
     },
     {
-        "title": "Kent",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kent",
-        "pubdate": "Fri, 18 Oct 2024 07:00:00 +0200"
+        "title": "Lincoln Lawyer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Lincoln%20Lawyer",
+        "pubdate": "Fri, 18 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "Yahya Sinwar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Yahya%20Sinwar",
-        "pubdate": "Thu, 17 Oct 2024 18:00:00 +0300"
+        "title": "ميرفت أمين",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#%D9%85%D9%8A%D8%B1%D9%81%D8%AA%20%D8%A3%D9%85%D9%8A%D9%86",
+        "pubdate": "Fri, 18 Oct 2024 04:00:00 +0300"
+    },
+    {
+        "title": "Günther Jauch",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#G%C3%BCnther%20Jauch",
+        "pubdate": "Fri, 18 Oct 2024 00:00:00 +0200"
+    },
+    {
+        "title": "الجزيرة",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=EG#%D8%A7%D9%84%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9",
+        "pubdate": "Fri, 18 Oct 2024 00:00:00 +0300"
+    },
+    {
+        "title": "Adriaan van Dis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Adriaan%20van%20Dis",
+        "pubdate": "Fri, 18 Oct 2024 00:00:00 +0200"
+    },
+    {
+        "title": "Tiramisu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Tiramisu",
+        "pubdate": "Fri, 18 Oct 2024 00:00:00 -0300"
     },
     {
         "title": "North Korean",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#North%20Korean",
         "pubdate": "Fri, 18 Oct 2024 00:00:00 +0800"
+    },
+    {
+        "title": "颱風",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%A2%B1%E9%A2%A8",
+        "pubdate": "Fri, 18 Oct 2024 11:00:00 +0800"
     }
 ]

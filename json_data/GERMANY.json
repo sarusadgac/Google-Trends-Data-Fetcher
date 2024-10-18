@@ -20,11 +20,6 @@
         "pubdate": "Wed, 16 Oct 2024 22:00:00 +0200"
     },
     {
-        "title": "Six Kings Slam",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Six%20Kings%20Slam",
-        "pubdate": "Wed, 16 Oct 2024 21:00:00 +0200"
-    },
-    {
         "title": "Tuchel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tuchel",
         "pubdate": "Tue, 15 Oct 2024 21:00:00 +0200"
@@ -35,8 +30,8 @@
         "pubdate": "Sat, 12 Oct 2024 17:00:00 +0200"
     },
     {
-        "title": "Podolski",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Podolski",
+        "title": "Lukas Podolski",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Lukas%20Podolski",
         "pubdate": "Thu, 10 Oct 2024 19:00:00 +0200"
     },
     {
@@ -60,11 +55,6 @@
         "pubdate": "Wed, 09 Oct 2024 21:00:00 +0200"
     },
     {
-        "title": "Hurrikan Milton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hurrikan%20Milton",
-        "pubdate": "Tue, 08 Oct 2024 21:00:00 +0200"
-    },
-    {
         "title": "Milton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Milton",
         "pubdate": "Tue, 08 Oct 2024 10:00:00 +0200"
@@ -78,6 +68,11 @@
         "title": "Florida",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Florida",
         "pubdate": "Tue, 08 Oct 2024 08:00:00 +0200"
+    },
+    {
+        "title": "Hurrikan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hurrikan",
+        "pubdate": "Tue, 08 Oct 2024 21:00:00 +0200"
     },
     {
         "title": "Kevin Kühnert",
@@ -98,5 +93,10 @@
         "title": "Schwerin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schwerin",
         "pubdate": "Sun, 06 Oct 2024 13:00:00 +0200"
+    },
+    {
+        "title": "Flughafen Frankfurt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Flughafen%20Frankfurt",
+        "pubdate": "Fri, 04 Oct 2024 20:00:00 +0200"
     }
 ]
