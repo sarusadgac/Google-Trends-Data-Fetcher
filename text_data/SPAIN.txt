@@ -3,10 +3,9 @@ Sinner
 Elon Musk
 San Lucas
 Horario F1
+Horario MotoGP
 Ferrari F80
 Las Ninyas del Corro
-Horario MotoGP
-América  Deportivo Cali
 Nacho Abad
 Angel Cristo
 Real Madrid Femenino
@@ -18,3 +17,4 @@ Maria Galiana
 Eva Ugarte
 Yahya Sinwar
 Lo Celso
+Nadal

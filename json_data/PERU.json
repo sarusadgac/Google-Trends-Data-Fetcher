@@ -20,23 +20,18 @@
         "pubdate": "Thu, 17 Oct 2024 18:00:00 -0500"
     },
     {
-        "title": "Matriz del destino",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Matriz%20del%20destino",
-        "pubdate": "Thu, 17 Oct 2024 06:00:00 -0500"
-    },
-    {
         "title": "Cusco FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Cusco%20FC",
         "pubdate": "Thu, 17 Oct 2024 14:00:00 -0500"
     },
     {
-        "title": "Posiciones de Liga 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Posiciones%20de%20Liga%201",
-        "pubdate": "Thu, 17 Oct 2024 18:00:00 -0500"
-    },
-    {
         "title": "San Marcos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#San%20Marcos",
+        "pubdate": "Thu, 17 Oct 2024 22:00:00 -0500"
+    },
+    {
+        "title": "Recorrido del Señor de los Milagros 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Recorrido%20del%20Se%C3%B1or%20de%20los%20Milagros%202024",
         "pubdate": "Thu, 17 Oct 2024 22:00:00 -0500"
     },
     {
@@ -50,9 +45,9 @@
         "pubdate": "Thu, 17 Oct 2024 14:00:00 -0500"
     },
     {
-        "title": "Recorrido del Señor de los Milagros 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Recorrido%20del%20Se%C3%B1or%20de%20los%20Milagros%202024",
-        "pubdate": "Thu, 17 Oct 2024 22:00:00 -0500"
+        "title": "Alianza vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Alianza%20vs",
+        "pubdate": "Thu, 17 Oct 2024 19:00:00 -0500"
     },
     {
         "title": "Kompayaso",
@@ -98,5 +93,10 @@
         "title": "Millonarios vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Millonarios%20vs",
         "pubdate": "Wed, 16 Oct 2024 22:00:00 -0500"
+    },
+    {
+        "title": "Nico Paz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Nico%20Paz",
+        "pubdate": "Wed, 16 Oct 2024 00:00:00 -0500"
     }
 ]

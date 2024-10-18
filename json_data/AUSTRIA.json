@@ -25,6 +25,16 @@
         "pubdate": "Fri, 18 Oct 2024 00:00:00 +0200"
     },
     {
+        "title": "Joe Biden Berlin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Joe%20Biden%20Berlin",
+        "pubdate": "Fri, 18 Oct 2024 15:00:00 +0200"
+    },
+    {
+        "title": "Yvonne Catterfeld",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Yvonne%20Catterfeld",
+        "pubdate": "Fri, 18 Oct 2024 08:00:00 +0200"
+    },
+    {
         "title": "Bank",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bank",
         "pubdate": "Fri, 18 Oct 2024 11:00:00 +0200"
@@ -45,11 +55,6 @@
         "pubdate": "Thu, 17 Oct 2024 09:00:00 +0200"
     },
     {
-        "title": "EZB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#EZB",
-        "pubdate": "Thu, 17 Oct 2024 11:00:00 +0200"
-    },
-    {
         "title": "Ferrari F80",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ferrari%20F80",
         "pubdate": "Thu, 17 Oct 2024 17:00:00 +0200"
@@ -63,6 +68,11 @@
         "title": "Niall Horan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Niall%20Horan",
         "pubdate": "Thu, 17 Oct 2024 09:00:00 +0200"
+    },
+    {
+        "title": "EZB-Zinsentscheid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#EZB-Zinsentscheid",
+        "pubdate": "Thu, 17 Oct 2024 15:00:00 +0200"
     },
     {
         "title": "Anna Veith",
@@ -80,11 +90,6 @@
         "pubdate": "Thu, 17 Oct 2024 19:00:00 +0200"
     },
     {
-        "title": "Shitstorm",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Shitstorm",
-        "pubdate": "Thu, 17 Oct 2024 10:00:00 +0200"
-    },
-    {
         "title": "Mond",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Mond",
         "pubdate": "Thu, 17 Oct 2024 20:00:00 +0200"
@@ -93,10 +98,5 @@
         "title": "Lotto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Lotto",
         "pubdate": "Wed, 16 Oct 2024 20:00:00 +0200"
-    },
-    {
-        "title": "Schwarze Kugeln Strand Sydney",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Schwarze%20Kugeln%20Strand%20Sydney",
-        "pubdate": "Wed, 16 Oct 2024 17:00:00 +0200"
     }
 ]
