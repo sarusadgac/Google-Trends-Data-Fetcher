@@ -10,6 +10,11 @@
         "pubdate": "Fri, 18 Oct 2024 09:00:00 +0200"
     },
     {
+        "title": "Indy NXT",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Indy%20NXT",
+        "pubdate": "Fri, 18 Oct 2024 17:00:00 +0200"
+    },
+    {
         "title": "Kulturnatt Bodø",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kulturnatt%20Bod%C3%B8",
         "pubdate": "Fri, 18 Oct 2024 13:00:00 +0200"
@@ -20,9 +25,9 @@
         "pubdate": "Fri, 18 Oct 2024 10:00:00 +0200"
     },
     {
-        "title": "Hellerudsvingen NRK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Hellerudsvingen%20NRK",
-        "pubdate": "Fri, 18 Oct 2024 00:00:00 +0200"
+        "title": "Vipers Kristiansand",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Vipers%20Kristiansand",
+        "pubdate": "Fri, 18 Oct 2024 17:00:00 +0200"
     },
     {
         "title": "Fantasy Premier League",
@@ -55,14 +60,19 @@
         "pubdate": "Thu, 17 Oct 2024 22:00:00 +0200"
     },
     {
-        "title": "Tom Hagen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tom%20Hagen",
-        "pubdate": "Thu, 17 Oct 2024 22:00:00 +0200"
-    },
-    {
         "title": "Moillrock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Moillrock",
         "pubdate": "Thu, 17 Oct 2024 21:00:00 +0200"
+    },
+    {
+        "title": "Refleks",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Refleks",
+        "pubdate": "Thu, 17 Oct 2024 10:00:00 +0200"
+    },
+    {
+        "title": "Nidaros",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nidaros",
+        "pubdate": "Thu, 17 Oct 2024 23:00:00 +0200"
     },
     {
         "title": "Sydney Sweeney",
@@ -70,9 +80,9 @@
         "pubdate": "Thu, 17 Oct 2024 01:00:00 +0200"
     },
     {
-        "title": "Nidaros",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nidaros",
-        "pubdate": "Thu, 17 Oct 2024 23:00:00 +0200"
+        "title": "Gro Holm",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Gro%20Holm",
+        "pubdate": "Wed, 16 Oct 2024 22:00:00 +0200"
     },
     {
         "title": "Jimmy Carter",
@@ -88,15 +98,5 @@
         "title": "Agder",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Agder",
         "pubdate": "Wed, 16 Oct 2024 11:00:00 +0200"
-    },
-    {
-        "title": "Vanessa Baird",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Vanessa%20Baird",
-        "pubdate": "Wed, 16 Oct 2024 07:00:00 +0200"
-    },
-    {
-        "title": "Egil Ødegård",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Egil%20%C3%98deg%C3%A5rd",
-        "pubdate": "Wed, 16 Oct 2024 16:00:00 +0200"
     }
 ]
