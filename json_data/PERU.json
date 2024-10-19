@@ -15,14 +15,19 @@
         "pubdate": "Fri, 18 Oct 2024 10:00:00 -0500"
     },
     {
+        "title": "Universitario",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Universitario",
+        "pubdate": "Fri, 18 Oct 2024 18:00:00 -0500"
+    },
+    {
         "title": "Al-shabab  al-nassr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Al-shabab%20%20al-nassr",
         "pubdate": "Fri, 18 Oct 2024 12:00:00 -0500"
     },
     {
-        "title": "Universitario",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Universitario",
-        "pubdate": "Fri, 18 Oct 2024 18:00:00 -0500"
+        "title": "River Plate  Vélez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#River%20Plate%20%20V%C3%A9lez",
+        "pubdate": "Fri, 18 Oct 2024 20:00:00 -0500"
     },
     {
         "title": "Alavés  Valladolid",
@@ -30,9 +35,14 @@
         "pubdate": "Fri, 18 Oct 2024 15:00:00 -0500"
     },
     {
-        "title": "River Plate  Vélez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#River%20Plate%20%20V%C3%A9lez",
-        "pubdate": "Fri, 18 Oct 2024 20:00:00 -0500"
+        "title": "Botafogo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Botafogo",
+        "pubdate": "Fri, 18 Oct 2024 19:00:00 -0500"
+    },
+    {
+        "title": "Garcilaso vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Garcilaso%20vs",
+        "pubdate": "Fri, 18 Oct 2024 19:00:00 -0500"
     },
     {
         "title": "Cienciano vs",
@@ -45,16 +55,6 @@
         "pubdate": "Fri, 18 Oct 2024 12:00:00 -0500"
     },
     {
-        "title": "Garcilaso vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Garcilaso%20vs",
-        "pubdate": "Fri, 18 Oct 2024 19:00:00 -0500"
-    },
-    {
-        "title": "Botafogo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Botafogo",
-        "pubdate": "Fri, 18 Oct 2024 19:00:00 -0500"
-    },
-    {
         "title": "Cathy Barriga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Cathy%20Barriga",
         "pubdate": "Fri, 18 Oct 2024 14:00:00 -0500"
@@ -65,9 +65,9 @@
         "pubdate": "Fri, 18 Oct 2024 15:00:00 -0500"
     },
     {
-        "title": "Al-Hilal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Al-Hilal",
-        "pubdate": "Fri, 18 Oct 2024 11:00:00 -0500"
+        "title": "Bruno Mars",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bruno%20Mars",
+        "pubdate": "Fri, 18 Oct 2024 13:00:00 -0500"
     },
     {
         "title": "LaLiga",
@@ -75,9 +75,14 @@
         "pubdate": "Fri, 18 Oct 2024 15:00:00 -0500"
     },
     {
-        "title": "Bruno Mars",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bruno%20Mars",
-        "pubdate": "Fri, 18 Oct 2024 13:00:00 -0500"
+        "title": "Al-Hilal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Al-Hilal",
+        "pubdate": "Fri, 18 Oct 2024 11:00:00 -0500"
+    },
+    {
+        "title": "Futbol peruano",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Futbol%20peruano",
+        "pubdate": "Fri, 18 Oct 2024 14:00:00 -0500"
     },
     {
         "title": "Delia Espinoza",
@@ -93,10 +98,5 @@
         "title": "Tabla Acumulada, Liga 1 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Tabla%20Acumulada,%20Liga%201%202024",
         "pubdate": "Fri, 18 Oct 2024 18:00:00 -0500"
-    },
-    {
-        "title": "Serie a",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Serie%20a",
-        "pubdate": "Fri, 18 Oct 2024 19:00:00 -0500"
     }
 ]

@@ -15,11 +15,6 @@
         "pubdate": "Fri, 18 Oct 2024 20:00:00 +0100"
     },
     {
-        "title": "Leeds United vs Sheffield United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Leeds%20United%20vs%20Sheffield%20United",
-        "pubdate": "Fri, 18 Oct 2024 20:00:00 +0100"
-    },
-    {
         "title": "Liverpool vs Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Liverpool%20vs%20Chelsea",
         "pubdate": "Fri, 18 Oct 2024 20:00:00 +0100"
@@ -55,11 +50,6 @@
         "pubdate": "Fri, 18 Oct 2024 12:00:00 +0100"
     },
     {
-        "title": "Bundesliga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Bundesliga",
-        "pubdate": "Fri, 18 Oct 2024 21:00:00 +0100"
-    },
-    {
         "title": "Sporting CP",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Sporting%20CP",
         "pubdate": "Fri, 18 Oct 2024 22:00:00 +0100"
@@ -68,6 +58,11 @@
         "title": "NGO",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#NGO",
         "pubdate": "Fri, 18 Oct 2024 10:00:00 +0100"
+    },
+    {
+        "title": "Leeds United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Leeds%20United",
+        "pubdate": "Fri, 18 Oct 2024 22:00:00 +0100"
     },
     {
         "title": "La Liga",
@@ -98,5 +93,10 @@
         "title": "Veritas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Veritas",
         "pubdate": "Thu, 17 Oct 2024 14:00:00 +0100"
+    },
+    {
+        "title": "NotebookLM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#NotebookLM",
+        "pubdate": "Thu, 17 Oct 2024 17:00:00 +0100"
     }
 ]
