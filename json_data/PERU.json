@@ -10,18 +10,28 @@
         "pubdate": "Sat, 19 Oct 2024 05:00:00 -0500"
     },
     {
+        "title": "Tottenham  West Ham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Tottenham%20%20West%20Ham",
+        "pubdate": "Sat, 19 Oct 2024 07:00:00 -0500"
+    },
+    {
+        "title": "Bayern  Stuttgart",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bayern%20%20Stuttgart",
+        "pubdate": "Sat, 19 Oct 2024 10:00:00 -0500"
+    },
+    {
+        "title": "Bournemouth - Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bournemouth%20-%20Arsenal",
+        "pubdate": "Sat, 19 Oct 2024 10:00:00 -0500"
+    },
+    {
         "title": "Athletic  rcd Espanyol",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Athletic%20%20rcd%20Espanyol",
         "pubdate": "Sat, 19 Oct 2024 08:00:00 -0500"
     },
     {
-        "title": "Fulham - Aston Villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Fulham%20-%20Aston%20Villa",
-        "pubdate": "Sat, 19 Oct 2024 10:00:00 -0500"
-    },
-    {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Arsenal",
+        "title": "Newcastle  Brighton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Newcastle%20%20Brighton",
         "pubdate": "Sat, 19 Oct 2024 10:00:00 -0500"
     },
     {
@@ -35,9 +45,14 @@
         "pubdate": "Sat, 19 Oct 2024 10:00:00 -0500"
     },
     {
-        "title": "Newcastle, Brighton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Newcastle,%20Brighton",
+        "title": "Staurikosaurus dinosaurio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Staurikosaurus%20dinosaurio",
         "pubdate": "Sat, 19 Oct 2024 10:00:00 -0500"
+    },
+    {
+        "title": "Milan - Udinese",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Milan%20-%20Udinese",
+        "pubdate": "Sat, 19 Oct 2024 12:00:00 -0500"
     },
     {
         "title": "Manchester City",
@@ -48,6 +63,16 @@
         "title": "Aston Villa vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Aston%20Villa%20vs",
         "pubdate": "Sat, 19 Oct 2024 11:00:00 -0500"
+    },
+    {
+        "title": "Girona  Real Sociedad",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Girona%20%20Real%20Sociedad",
+        "pubdate": "Sat, 19 Oct 2024 12:00:00 -0500"
+    },
+    {
+        "title": "Southampton  Leicester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Southampton%20%20Leicester%20City",
+        "pubdate": "Sat, 19 Oct 2024 12:00:00 -0500"
     },
     {
         "title": "Melgar",
@@ -70,33 +95,8 @@
         "pubdate": "Fri, 18 Oct 2024 19:00:00 -0500"
     },
     {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Real%20Madrid",
-        "pubdate": "Fri, 18 Oct 2024 15:00:00 -0500"
-    },
-    {
-        "title": "Dortmund  St. Pauli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Dortmund%20%20St.%20Pauli",
-        "pubdate": "Fri, 18 Oct 2024 14:00:00 -0500"
-    },
-    {
-        "title": "Bundesliga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bundesliga",
-        "pubdate": "Fri, 18 Oct 2024 10:00:00 -0500"
-    },
-    {
-        "title": "Sporting Cristal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Sporting%20Cristal",
-        "pubdate": "Fri, 18 Oct 2024 12:00:00 -0500"
-    },
-    {
-        "title": "River Plate  Vélez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#River%20Plate%20%20V%C3%A9lez",
-        "pubdate": "Fri, 18 Oct 2024 20:00:00 -0500"
-    },
-    {
-        "title": "Al Nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Al%20Nassr",
+        "title": "Al-shabab  al-nassr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Al-shabab%20%20al-nassr",
         "pubdate": "Fri, 18 Oct 2024 12:00:00 -0500"
     }
 ]

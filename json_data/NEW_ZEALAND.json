@@ -85,11 +85,6 @@
         "pubdate": "Sat, 19 Oct 2024 14:00:00 +1300"
     },
     {
-        "title": "North Korea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#North%20Korea",
-        "pubdate": "Sat, 19 Oct 2024 22:00:00 +1300"
-    },
-    {
         "title": "Auckland FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Auckland%20FC",
         "pubdate": "Fri, 18 Oct 2024 19:00:00 +1300"
@@ -98,5 +93,10 @@
         "title": "Air nz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Air%20nz",
         "pubdate": "Fri, 18 Oct 2024 16:00:00 +1300"
+    },
+    {
+        "title": "Air New Zealand",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Air%20New%20Zealand",
+        "pubdate": "Fri, 18 Oct 2024 17:00:00 +1300"
     }
 ]
