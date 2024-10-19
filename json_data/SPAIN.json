@@ -15,16 +15,6 @@
         "pubdate": "Sat, 19 Oct 2024 02:00:00 +0200"
     },
     {
-        "title": "F1 hoy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#F1%20hoy",
-        "pubdate": "Sat, 19 Oct 2024 00:00:00 +0200"
-    },
-    {
-        "title": "Serie a",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Serie%20a",
-        "pubdate": "Sat, 19 Oct 2024 02:00:00 +0200"
-    },
-    {
         "title": "Lenny Kravitz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Lenny%20Kravitz",
         "pubdate": "Sat, 19 Oct 2024 01:00:00 +0200"
@@ -80,11 +70,6 @@
         "pubdate": "Fri, 18 Oct 2024 22:00:00 +0200"
     },
     {
-        "title": "Horario MotoGP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Horario%20MotoGP",
-        "pubdate": "Fri, 18 Oct 2024 06:00:00 +0200"
-    },
-    {
         "title": "Smile 2",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Smile%202",
         "pubdate": "Fri, 18 Oct 2024 23:00:00 +0200"
@@ -98,5 +83,20 @@
         "title": "Sinner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Sinner",
         "pubdate": "Fri, 18 Oct 2024 12:00:00 +0200"
+    },
+    {
+        "title": "Al-Shabab  al-nassr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Al-Shabab%20%20al-nassr",
+        "pubdate": "Fri, 18 Oct 2024 21:00:00 +0200"
+    },
+    {
+        "title": "San Lucas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#San%20Lucas",
+        "pubdate": "Fri, 18 Oct 2024 09:00:00 +0200"
+    },
+    {
+        "title": "Nadie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Nadie",
+        "pubdate": "Fri, 18 Oct 2024 23:00:00 +0200"
     }
 ]
