@@ -1,5 +1,10 @@
 [
     {
+        "title": "Steaua Dinamo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Steaua%20Dinamo",
+        "pubdate": "Sun, 20 Oct 2024 00:00:00 +0300"
+    },
+    {
         "title": "Dece a murit Delia Budeanu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Dece%20a%20murit%20Delia%20Budeanu",
         "pubdate": "Sat, 19 Oct 2024 20:00:00 +0300"
@@ -40,14 +45,14 @@
         "pubdate": "Sat, 19 Oct 2024 20:00:00 +0300"
     },
     {
-        "title": "FCSB Dinamo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#FCSB%20Dinamo",
-        "pubdate": "Sat, 19 Oct 2024 20:00:00 +0300"
-    },
-    {
         "title": "Cuba",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Cuba",
         "pubdate": "Sat, 19 Oct 2024 14:00:00 +0300"
+    },
+    {
+        "title": "FCSB Dinamo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#FCSB%20Dinamo",
+        "pubdate": "Sat, 19 Oct 2024 20:00:00 +0300"
     },
     {
         "title": "Ora de iarna 2024",
@@ -55,14 +60,14 @@
         "pubdate": "Sat, 19 Oct 2024 18:00:00 +0300"
     },
     {
-        "title": "Al Nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Al%20Nassr",
-        "pubdate": "Sat, 19 Oct 2024 01:00:00 +0300"
-    },
-    {
         "title": "Juventus - Lazio",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Juventus%20-%20Lazio",
         "pubdate": "Sat, 19 Oct 2024 23:00:00 +0300"
+    },
+    {
+        "title": "Al Nassr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Al%20Nassr",
+        "pubdate": "Sat, 19 Oct 2024 01:00:00 +0300"
     },
     {
         "title": "Manchester United",
@@ -85,18 +90,13 @@
         "pubdate": "Sat, 19 Oct 2024 01:00:00 +0300"
     },
     {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Liverpool",
-        "pubdate": "Sat, 19 Oct 2024 21:00:00 +0300"
-    },
-    {
         "title": "Alegeri Moldova",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Alegeri%20Moldova",
         "pubdate": "Sat, 19 Oct 2024 21:00:00 +0300"
     },
     {
-        "title": "Superliga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Superliga",
-        "pubdate": "Fri, 18 Oct 2024 20:00:00 +0300"
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Liverpool",
+        "pubdate": "Sat, 19 Oct 2024 21:00:00 +0300"
     }
 ]

@@ -2,7 +2,12 @@
     {
         "title": "Manchester United - Brentford",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Manchester%20United%20-%20Brentford",
-        "pubdate": "Sat, 19 Oct 2024 09:00:00 -0500"
+        "pubdate": "Sat, 19 Oct 2024 05:00:00 -0500"
+    },
+    {
+        "title": "Bournemouth - Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bournemouth%20-%20Arsenal",
+        "pubdate": "Sat, 19 Oct 2024 10:00:00 -0500"
     },
     {
         "title": "Tottenham  West Ham",
@@ -20,19 +25,34 @@
         "pubdate": "Sat, 19 Oct 2024 13:00:00 -0500"
     },
     {
-        "title": "Fulham  Aston Villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Fulham%20%20Aston%20Villa",
+        "title": "Fulham. Aston Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Fulham.%20Aston%20Villa",
         "pubdate": "Sat, 19 Oct 2024 10:00:00 -0500"
     },
     {
-        "title": "Milan - Udinese",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Milan%20-%20Udinese",
+        "title": "Inter Miami - New England",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Inter%20Miami%20-%20New%20England",
+        "pubdate": "Sat, 19 Oct 2024 17:00:00 -0500"
+    },
+    {
+        "title": "Milan  Udinese",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Milan%20%20Udinese",
         "pubdate": "Sat, 19 Oct 2024 12:00:00 -0500"
     },
     {
         "title": "Athletic  rcd Espanyol",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Athletic%20%20rcd%20Espanyol",
         "pubdate": "Sat, 19 Oct 2024 08:00:00 -0500"
+    },
+    {
+        "title": "Bayern Munich",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bayern%20Munich",
+        "pubdate": "Sat, 19 Oct 2024 12:00:00 -0500"
+    },
+    {
+        "title": "Staurikosaurus dinosaurio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Staurikosaurus%20dinosaurio",
+        "pubdate": "Sat, 19 Oct 2024 10:00:00 -0500"
     },
     {
         "title": "Newcastle - Brighton",
@@ -45,9 +65,9 @@
         "pubdate": "Sat, 19 Oct 2024 10:00:00 -0500"
     },
     {
-        "title": "Staurikosaurus dinosaurio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Staurikosaurus%20dinosaurio",
-        "pubdate": "Sat, 19 Oct 2024 10:00:00 -0500"
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#PSG",
+        "pubdate": "Sat, 19 Oct 2024 13:00:00 -0500"
     },
     {
         "title": "Girona  Real Sociedad",
@@ -60,9 +80,9 @@
         "pubdate": "Sat, 19 Oct 2024 10:00:00 -0500"
     },
     {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#PSG",
-        "pubdate": "Sat, 19 Oct 2024 13:00:00 -0500"
+        "title": "MLS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#MLS",
+        "pubdate": "Sat, 19 Oct 2024 17:00:00 -0500"
     },
     {
         "title": "Manchester City",
@@ -78,25 +98,5 @@
         "title": "Southampton  Leicester City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Southampton%20%20Leicester%20City",
         "pubdate": "Sat, 19 Oct 2024 12:00:00 -0500"
-    },
-    {
-        "title": "Liverpool vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Liverpool%20vs",
-        "pubdate": "Sat, 19 Oct 2024 14:00:00 -0500"
-    },
-    {
-        "title": "Belgrano  Platense",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Belgrano%20%20Platense",
-        "pubdate": "Sat, 19 Oct 2024 16:00:00 -0500"
-    },
-    {
-        "title": "Liga MX",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Liga%20MX",
-        "pubdate": "Sat, 19 Oct 2024 16:00:00 -0500"
-    },
-    {
-        "title": "Celta de Vigo - Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Celta%20de%20Vigo%20-%20Real%20Madrid",
-        "pubdate": "Fri, 18 Oct 2024 15:00:00 -0500"
     }
 ]

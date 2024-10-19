@@ -1,5 +1,20 @@
 [
     {
+        "title": "Nadal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Nadal",
+        "pubdate": "Sun, 20 Oct 2024 00:00:00 +0200"
+    },
+    {
+        "title": "Bilbao Night Marathon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Bilbao%20Night%20Marathon",
+        "pubdate": "Sun, 20 Oct 2024 00:00:00 +0200"
+    },
+    {
+        "title": "Tom Hanks",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Tom%20Hanks",
+        "pubdate": "Sun, 20 Oct 2024 00:00:00 +0200"
+    },
+    {
         "title": "Celta de Vigo - Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Celta%20de%20Vigo%20-%20Real%20Madrid",
         "pubdate": "Sat, 19 Oct 2024 16:00:00 +0200"
@@ -20,24 +35,14 @@
         "pubdate": "Sat, 19 Oct 2024 18:00:00 +0200"
     },
     {
+        "title": "Nadal Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Nadal%20Djokovic",
+        "pubdate": "Sat, 19 Oct 2024 12:00:00 +0200"
+    },
+    {
         "title": "Premier League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Premier%20League",
         "pubdate": "Sat, 19 Oct 2024 01:00:00 +0200"
-    },
-    {
-        "title": "F1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#F1",
-        "pubdate": "Sat, 19 Oct 2024 02:00:00 +0200"
-    },
-    {
-        "title": "Bournemouth - Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Bournemouth%20-%20Arsenal",
-        "pubdate": "Sat, 19 Oct 2024 15:00:00 +0200"
-    },
-    {
-        "title": "Málaga  Real Oviedo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#M%C3%A1laga%20%20Real%20Oviedo",
-        "pubdate": "Sat, 19 Oct 2024 16:00:00 +0200"
     },
     {
         "title": "Granada - Tenerife",
@@ -45,14 +50,34 @@
         "pubdate": "Sat, 19 Oct 2024 19:00:00 +0200"
     },
     {
-        "title": "Begoña gomez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Bego%C3%B1a%20gomez",
-        "pubdate": "Sat, 19 Oct 2024 02:00:00 +0200"
+        "title": "Málaga  Real Oviedo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#M%C3%A1laga%20%20Real%20Oviedo",
+        "pubdate": "Sat, 19 Oct 2024 16:00:00 +0200"
     },
     {
         "title": "Moneda de 2 euros",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Moneda%20de%202%20euros",
         "pubdate": "Sat, 19 Oct 2024 18:00:00 +0200"
+    },
+    {
+        "title": "Manchester United - Brentford",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Manchester%20United%20-%20Brentford",
+        "pubdate": "Sat, 19 Oct 2024 17:00:00 +0200"
+    },
+    {
+        "title": "DAZN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#DAZN",
+        "pubdate": "Sat, 19 Oct 2024 20:00:00 +0200"
+    },
+    {
+        "title": "Begoña gomez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Bego%C3%B1a%20gomez",
+        "pubdate": "Sat, 19 Oct 2024 02:00:00 +0200"
+    },
+    {
+        "title": "Bournemouth - Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Bournemouth%20-%20Arsenal",
+        "pubdate": "Sat, 19 Oct 2024 20:00:00 +0200"
     },
     {
         "title": "Deportivo de La Coruña",
@@ -73,30 +98,5 @@
         "title": "Primera División",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Primera%20Divisi%C3%B3n",
         "pubdate": "Sat, 19 Oct 2024 08:00:00 +0200"
-    },
-    {
-        "title": "Serie a",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Serie%20a",
-        "pubdate": "Sat, 19 Oct 2024 02:00:00 +0200"
-    },
-    {
-        "title": "Cancer de mama",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Cancer%20de%20mama",
-        "pubdate": "Sat, 19 Oct 2024 11:00:00 +0200"
-    },
-    {
-        "title": "Castellón - Levante",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Castell%C3%B3n%20-%20Levante",
-        "pubdate": "Sat, 19 Oct 2024 19:00:00 +0200"
-    },
-    {
-        "title": "Milan - Udinese",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Milan%20-%20Udinese",
-        "pubdate": "Sat, 19 Oct 2024 19:00:00 +0200"
-    },
-    {
-        "title": "Atocha",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Atocha",
-        "pubdate": "Sat, 19 Oct 2024 22:00:00 +0200"
     }
 ]
