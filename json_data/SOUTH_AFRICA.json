@@ -35,6 +35,11 @@
         "pubdate": "Sat, 19 Oct 2024 09:00:00 +0200"
     },
     {
+        "title": "Formula 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Formula%201",
+        "pubdate": "Sat, 19 Oct 2024 10:00:00 +0200"
+    },
+    {
         "title": "AmaZulu vs Stellenbosch",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#AmaZulu%20vs%20Stellenbosch",
         "pubdate": "Fri, 18 Oct 2024 19:00:00 +0200"
@@ -93,10 +98,5 @@
         "title": "Sporting CP",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sporting%20CP",
         "pubdate": "Fri, 18 Oct 2024 23:00:00 +0200"
-    },
-    {
-        "title": "Carling Knockout",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Carling%20Knockout",
-        "pubdate": "Fri, 18 Oct 2024 22:00:00 +0200"
     }
 ]

@@ -10,6 +10,11 @@
         "pubdate": "Fri, 18 Oct 2024 17:00:00 -0500"
     },
     {
+        "title": "Universitario",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Universitario",
+        "pubdate": "Fri, 18 Oct 2024 18:00:00 -0500"
+    },
+    {
         "title": "Al-shabab  al-nassr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Al-shabab%20%20al-nassr",
         "pubdate": "Fri, 18 Oct 2024 12:00:00 -0500"
@@ -40,9 +45,9 @@
         "pubdate": "Fri, 18 Oct 2024 15:00:00 -0500"
     },
     {
-        "title": "Sporting Cristal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Sporting%20Cristal",
-        "pubdate": "Fri, 18 Oct 2024 18:00:00 -0500"
+        "title": "Botafogo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Botafogo",
+        "pubdate": "Fri, 18 Oct 2024 19:00:00 -0500"
     },
     {
         "title": "Cienciano vs",
@@ -58,16 +63,6 @@
         "title": "Cathy Barriga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Cathy%20Barriga",
         "pubdate": "Fri, 18 Oct 2024 14:00:00 -0500"
-    },
-    {
-        "title": "Botafogo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Botafogo",
-        "pubdate": "Fri, 18 Oct 2024 19:00:00 -0500"
-    },
-    {
-        "title": "Botafogo  Criciúma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Botafogo%20%20Crici%C3%BAma",
-        "pubdate": "Fri, 18 Oct 2024 19:00:00 -0500"
     },
     {
         "title": "LaLiga",
@@ -98,5 +93,10 @@
         "title": "Vinicius Tobias",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Vinicius%20Tobias",
         "pubdate": "Fri, 18 Oct 2024 15:00:00 -0500"
+    },
+    {
+        "title": "Vaguito",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Vaguito",
+        "pubdate": "Fri, 18 Oct 2024 11:00:00 -0500"
     }
 ]
