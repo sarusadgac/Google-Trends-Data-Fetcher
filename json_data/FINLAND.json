@@ -5,6 +5,11 @@
         "pubdate": "Sat, 19 Oct 2024 11:00:00 +0300"
     },
     {
+        "title": "Premier League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Premier%20League",
+        "pubdate": "Sat, 19 Oct 2024 11:00:00 +0300"
+    },
+    {
         "title": "Sydney Sweeney",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Sydney%20Sweeney",
         "pubdate": "Sat, 19 Oct 2024 01:00:00 +0300"
@@ -13,21 +18,6 @@
         "title": "Queen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Queen",
         "pubdate": "Sat, 19 Oct 2024 01:00:00 +0300"
-    },
-    {
-        "title": "Premier League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Premier%20League",
-        "pubdate": "Sat, 19 Oct 2024 11:00:00 +0300"
-    },
-    {
-        "title": "Tottenham – West Ham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tottenham%20%E2%80%93%20West%20Ham",
-        "pubdate": "Sat, 19 Oct 2024 16:00:00 +0300"
-    },
-    {
-        "title": "Neon 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Neon%202",
-        "pubdate": "Fri, 18 Oct 2024 21:00:00 +0300"
     },
     {
         "title": "Kent",
@@ -98,5 +88,15 @@
         "title": "Adriana Lima",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Adriana%20Lima",
         "pubdate": "Wed, 16 Oct 2024 01:00:00 +0300"
+    },
+    {
+        "title": "Johnny Gaudreau",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Johnny%20Gaudreau",
+        "pubdate": "Wed, 16 Oct 2024 11:00:00 +0300"
+    },
+    {
+        "title": "Victoria's Secret",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Victoria's%20Secret",
+        "pubdate": "Wed, 16 Oct 2024 22:00:00 +0300"
     }
 ]

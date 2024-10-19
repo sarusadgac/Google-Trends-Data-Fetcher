@@ -1,5 +1,10 @@
 [
     {
+        "title": "Schalke",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schalke",
+        "pubdate": "Sat, 19 Oct 2024 16:00:00 +0200"
+    },
+    {
         "title": "Bundesliga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bundesliga",
         "pubdate": "Fri, 18 Oct 2024 19:00:00 +0200"
@@ -93,10 +98,5 @@
         "title": "Florida",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Florida",
         "pubdate": "Tue, 08 Oct 2024 08:00:00 +0200"
-    },
-    {
-        "title": "Hurrikan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hurrikan",
-        "pubdate": "Tue, 08 Oct 2024 21:00:00 +0200"
     }
 ]

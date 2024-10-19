@@ -1,23 +1,33 @@
 [
     {
-        "title": "Tottenham , West Ham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Tottenham%20,%20West%20Ham",
-        "pubdate": "Sat, 19 Oct 2024 07:00:00 -0500"
+        "title": "Premier League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Premier%20League",
+        "pubdate": "Sat, 19 Oct 2024 00:00:00 -0500"
     },
     {
-        "title": "La Liga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#La%20Liga",
-        "pubdate": "Sat, 19 Oct 2024 08:00:00 -0500"
-    },
-    {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Manchester%20United",
+        "title": "Manchester United  Brentford",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Manchester%20United%20%20Brentford",
         "pubdate": "Sat, 19 Oct 2024 05:00:00 -0500"
     },
     {
-        "title": "Melgar vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Melgar%20vs",
-        "pubdate": "Fri, 18 Oct 2024 10:00:00 -0500"
+        "title": "Athletic  - RCD Espanyol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Athletic%20%20-%20RCD%20Espanyol",
+        "pubdate": "Sat, 19 Oct 2024 08:00:00 -0500"
+    },
+    {
+        "title": "Arsenal vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Arsenal%20vs",
+        "pubdate": "Sat, 19 Oct 2024 09:00:00 -0500"
+    },
+    {
+        "title": "Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Manchester%20City",
+        "pubdate": "Sat, 19 Oct 2024 09:00:00 -0500"
+    },
+    {
+        "title": "Melgar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Melgar",
+        "pubdate": "Fri, 18 Oct 2024 12:00:00 -0500"
     },
     {
         "title": "César Vallejo  Cienciano",
@@ -28,6 +38,11 @@
         "title": "Universitario",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Universitario",
         "pubdate": "Fri, 18 Oct 2024 18:00:00 -0500"
+    },
+    {
+        "title": "Deportivo Garcilaso  Carlos Mannucci",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Deportivo%20Garcilaso%20%20Carlos%20Mannucci",
+        "pubdate": "Fri, 18 Oct 2024 19:00:00 -0500"
     },
     {
         "title": "Al-shabab  al-nassr",
@@ -50,16 +65,6 @@
         "pubdate": "Fri, 18 Oct 2024 12:00:00 -0500"
     },
     {
-        "title": "Premier League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Premier%20League",
-        "pubdate": "Fri, 18 Oct 2024 23:00:00 -0500"
-    },
-    {
-        "title": "Garcilaso vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Garcilaso%20vs",
-        "pubdate": "Fri, 18 Oct 2024 19:00:00 -0500"
-    },
-    {
         "title": "Alavés  Valladolid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Alav%C3%A9s%20%20Valladolid",
         "pubdate": "Fri, 18 Oct 2024 15:00:00 -0500"
@@ -70,14 +75,14 @@
         "pubdate": "Fri, 18 Oct 2024 19:00:00 -0500"
     },
     {
-        "title": "Cienciano vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Cienciano%20vs",
-        "pubdate": "Fri, 18 Oct 2024 17:00:00 -0500"
-    },
-    {
         "title": "Bundesliga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bundesliga",
         "pubdate": "Fri, 18 Oct 2024 10:00:00 -0500"
+    },
+    {
+        "title": "Cienciano vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Cienciano%20vs",
+        "pubdate": "Fri, 18 Oct 2024 17:00:00 -0500"
     },
     {
         "title": "Cathy Barriga",
@@ -93,10 +98,5 @@
         "title": "LaLiga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#LaLiga",
         "pubdate": "Fri, 18 Oct 2024 15:00:00 -0500"
-    },
-    {
-        "title": "Bruno Mars",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bruno%20Mars",
-        "pubdate": "Fri, 18 Oct 2024 13:00:00 -0500"
     }
 ]
