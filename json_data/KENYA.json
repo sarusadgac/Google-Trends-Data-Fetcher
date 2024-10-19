@@ -25,11 +25,6 @@
         "pubdate": "Fri, 18 Oct 2024 15:00:00 +0300"
     },
     {
-        "title": "Pankaj Oswal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Pankaj%20Oswal",
-        "pubdate": "Fri, 18 Oct 2024 10:00:00 +0300"
-    },
-    {
         "title": "Tecra Muigai",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Tecra%20Muigai",
         "pubdate": "Fri, 18 Oct 2024 16:00:00 +0300"
@@ -60,8 +55,8 @@
         "pubdate": "Fri, 18 Oct 2024 15:00:00 +0300"
     },
     {
-        "title": "Steve Harvey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Steve%20Harvey",
+        "title": "Leedsunited",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Leedsunited",
         "pubdate": "Fri, 18 Oct 2024 22:00:00 +0300"
     },
     {
@@ -98,5 +93,10 @@
         "title": "Register",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Register",
         "pubdate": "Thu, 17 Oct 2024 12:00:00 +0300"
+    },
+    {
+        "title": "Big Meech",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Big%20Meech",
+        "pubdate": "Thu, 17 Oct 2024 20:00:00 +0300"
     }
 ]

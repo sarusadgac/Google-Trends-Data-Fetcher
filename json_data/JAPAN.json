@@ -10,14 +10,9 @@
         "pubdate": "Fri, 18 Oct 2024 14:00:00 +0900"
     },
     {
-        "title": "綾瀬はるか",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E7%B6%BE%E7%80%AC%E3%81%AF%E3%82%8B%E3%81%8B",
-        "pubdate": "Fri, 18 Oct 2024 12:00:00 +0900"
-    },
-    {
-        "title": "Mステ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#M%E3%82%B9%E3%83%86",
-        "pubdate": "Fri, 18 Oct 2024 19:00:00 +0900"
+        "title": "箱根駅伝予選会",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E7%AE%B1%E6%A0%B9%E9%A7%85%E4%BC%9D%E4%BA%88%E9%81%B8%E4%BC%9A",
+        "pubdate": "Fri, 18 Oct 2024 22:00:00 +0900"
     },
     {
         "title": "J1",
@@ -25,8 +20,8 @@
         "pubdate": "Fri, 18 Oct 2024 21:00:00 +0900"
     },
     {
-        "title": "箱根駅伝予選会",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E7%AE%B1%E6%A0%B9%E9%A7%85%E4%BC%9D%E4%BA%88%E9%81%B8%E4%BC%9A",
+        "title": "横浜ベイスターズ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E6%A8%AA%E6%B5%9C%E3%83%99%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA",
         "pubdate": "Fri, 18 Oct 2024 22:00:00 +0900"
     },
     {
@@ -40,18 +35,13 @@
         "pubdate": "Fri, 18 Oct 2024 21:00:00 +0900"
     },
     {
-        "title": "虚血性心疾患",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E8%99%9A%E8%A1%80%E6%80%A7%E5%BF%83%E7%96%BE%E6%82%A3",
+        "title": "西田敏行",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E8%A5%BF%E7%94%B0%E6%95%8F%E8%A1%8C",
         "pubdate": "Thu, 17 Oct 2024 14:00:00 +0900"
     },
     {
-        "title": "メッツ対 ドジャース",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%A1%E3%83%83%E3%83%84%E5%AF%BE%20%E3%83%89%E3%82%B8%E3%83%A3%E3%83%BC%E3%82%B9",
-        "pubdate": "Thu, 17 Oct 2024 10:00:00 +0900"
-    },
-    {
-        "title": "リアム",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%AA%E3%82%A2%E3%83%A0",
+        "title": "メッツ 対 ドジャース",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%A1%E3%83%83%E3%83%84%20%E5%AF%BE%20%E3%83%89%E3%82%B8%E3%83%A3%E3%83%BC%E3%82%B9",
         "pubdate": "Thu, 17 Oct 2024 10:00:00 +0900"
     },
     {
@@ -98,5 +88,15 @@
         "title": "ASML",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#ASML",
         "pubdate": "Wed, 16 Oct 2024 12:00:00 +0900"
+    },
+    {
+        "title": "横浜市青葉区 殺人事件",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%9D%92%E8%91%89%E5%8C%BA%20%E6%AE%BA%E4%BA%BA%E4%BA%8B%E4%BB%B6",
+        "pubdate": "Wed, 16 Oct 2024 19:00:00 +0900"
+    },
+    {
+        "title": "フロンクス",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%95%E3%83%AD%E3%83%B3%E3%82%AF%E3%82%B9",
+        "pubdate": "Wed, 16 Oct 2024 23:00:00 +0900"
     }
 ]
