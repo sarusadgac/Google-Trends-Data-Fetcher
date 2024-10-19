@@ -10,19 +10,29 @@
         "pubdate": "Sat, 19 Oct 2024 07:00:00 -0500"
     },
     {
-        "title": "Leverkusen  Frankfurt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Leverkusen%20%20Frankfurt",
-        "pubdate": "Sat, 19 Oct 2024 09:00:00 -0500"
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Barcelona",
+        "pubdate": "Sat, 19 Oct 2024 15:00:00 -0500"
     },
     {
-        "title": "Fulham  Aston Villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Fulham%20%20Aston%20Villa",
+        "title": "Fulham. Aston Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Fulham.%20Aston%20Villa",
         "pubdate": "Sat, 19 Oct 2024 10:00:00 -0500"
     },
     {
         "title": "Barcelona vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Barcelona%20vs",
         "pubdate": "Sat, 19 Oct 2024 13:00:00 -0500"
+    },
+    {
+        "title": "Juventus vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Juventus%20vs",
+        "pubdate": "Sat, 19 Oct 2024 14:00:00 -0500"
+    },
+    {
+        "title": "Milan - Udinese",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Milan%20-%20Udinese",
+        "pubdate": "Sat, 19 Oct 2024 12:00:00 -0500"
     },
     {
         "title": "Athletic  rcd Espanyol",
@@ -35,8 +45,8 @@
         "pubdate": "Sat, 19 Oct 2024 10:00:00 -0500"
     },
     {
-        "title": "Osasuna - Betis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Osasuna%20-%20Betis",
+        "title": "Bayer Leverkusen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bayer%20Leverkusen",
         "pubdate": "Sat, 19 Oct 2024 10:00:00 -0500"
     },
     {
@@ -48,6 +58,16 @@
         "title": "Staurikosaurus dinosaurio",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Staurikosaurus%20dinosaurio",
         "pubdate": "Sat, 19 Oct 2024 10:00:00 -0500"
+    },
+    {
+        "title": "Osasuna - Betis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Osasuna%20-%20Betis",
+        "pubdate": "Sat, 19 Oct 2024 10:00:00 -0500"
+    },
+    {
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#PSG",
+        "pubdate": "Sat, 19 Oct 2024 13:00:00 -0500"
     },
     {
         "title": "Manchester City",
@@ -65,16 +85,6 @@
         "pubdate": "Sat, 19 Oct 2024 12:00:00 -0500"
     },
     {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#PSG",
-        "pubdate": "Sat, 19 Oct 2024 13:00:00 -0500"
-    },
-    {
-        "title": "Juventus vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Juventus%20vs",
-        "pubdate": "Sat, 19 Oct 2024 14:00:00 -0500"
-    },
-    {
         "title": "Liverpool vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Liverpool%20vs",
         "pubdate": "Sat, 19 Oct 2024 14:00:00 -0500"
@@ -85,18 +95,8 @@
         "pubdate": "Fri, 18 Oct 2024 12:00:00 -0500"
     },
     {
-        "title": "Celta de Vigo  Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Celta%20de%20Vigo%20%20Real%20Madrid",
+        "title": "Celta de Vigo - Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Celta%20de%20Vigo%20-%20Real%20Madrid",
         "pubdate": "Fri, 18 Oct 2024 15:00:00 -0500"
-    },
-    {
-        "title": "Melgar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Melgar",
-        "pubdate": "Fri, 18 Oct 2024 12:00:00 -0500"
-    },
-    {
-        "title": "César Vallejo  Cienciano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#C%C3%A9sar%20Vallejo%20%20Cienciano",
-        "pubdate": "Fri, 18 Oct 2024 17:00:00 -0500"
     }
 ]

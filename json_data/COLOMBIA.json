@@ -1,8 +1,8 @@
 [
     {
-        "title": "Manchester United - Brentford",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Manchester%20United%20-%20Brentford",
-        "pubdate": "Sat, 19 Oct 2024 07:00:00 -0500"
+        "title": "Fulham. Aston Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Fulham.%20Aston%20Villa",
+        "pubdate": "Sat, 19 Oct 2024 01:00:00 -0500"
     },
     {
         "title": "Tottenham  West Ham",
@@ -30,9 +30,14 @@
         "pubdate": "Sat, 19 Oct 2024 09:00:00 -0500"
     },
     {
-        "title": "Milan  Udinese",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Milan%20%20Udinese",
+        "title": "Milan - Udinese",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Milan%20-%20Udinese",
         "pubdate": "Sat, 19 Oct 2024 12:00:00 -0500"
+    },
+    {
+        "title": "Staurikosaurus dinosaurio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Staurikosaurus%20dinosaurio",
+        "pubdate": "Sat, 19 Oct 2024 09:00:00 -0500"
     },
     {
         "title": "Athletic  rcd Espanyol",
@@ -45,11 +50,6 @@
         "pubdate": "Sat, 19 Oct 2024 10:00:00 -0500"
     },
     {
-        "title": "Staurikosaurus dinosaurio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Staurikosaurus%20dinosaurio",
-        "pubdate": "Sat, 19 Oct 2024 09:00:00 -0500"
-    },
-    {
         "title": "Rayo Vallecano",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Rayo%20Vallecano",
         "pubdate": "Sat, 19 Oct 2024 00:00:00 -0500"
@@ -58,11 +58,6 @@
         "title": "Osasuna - Betis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Osasuna%20-%20Betis",
         "pubdate": "Sat, 19 Oct 2024 10:00:00 -0500"
-    },
-    {
-        "title": "Juventus - Lazio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Juventus%20-%20Lazio",
-        "pubdate": "Sat, 19 Oct 2024 14:00:00 -0500"
     },
     {
         "title": "Ipswich  Everton",
@@ -85,6 +80,11 @@
         "pubdate": "Sat, 19 Oct 2024 10:00:00 -0500"
     },
     {
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#PSG",
+        "pubdate": "Sat, 19 Oct 2024 15:00:00 -0500"
+    },
+    {
         "title": "Mets  Dodgers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Mets%20%20Dodgers",
         "pubdate": "Sat, 19 Oct 2024 00:00:00 -0500"
@@ -95,8 +95,8 @@
         "pubdate": "Sat, 19 Oct 2024 02:00:00 -0500"
     },
     {
-        "title": "Fulham  (Aston Villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Fulham%20%20(Aston%20Villa",
-        "pubdate": "Fri, 18 Oct 2024 21:00:00 -0500"
+        "title": "Celta de Vigo - Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Celta%20de%20Vigo%20-%20Real%20Madrid",
+        "pubdate": "Fri, 18 Oct 2024 17:00:00 -0500"
     }
 ]
