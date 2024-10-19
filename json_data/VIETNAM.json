@@ -10,6 +10,11 @@
         "pubdate": "Sat, 19 Oct 2024 02:00:00 +0700"
     },
     {
+        "title": "Temu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Temu",
+        "pubdate": "Sat, 19 Oct 2024 11:00:00 +0700"
+    },
+    {
         "title": "Tra cứu phạt nguội",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Tra%20c%E1%BB%A9u%20ph%E1%BA%A1t%20ngu%E1%BB%99i",
         "pubdate": "Sat, 19 Oct 2024 00:00:00 +0700"
@@ -93,10 +98,5 @@
         "title": "Trương Mỹ Lan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Tr%C6%B0%C6%A1ng%20M%E1%BB%B9%20Lan",
         "pubdate": "Thu, 17 Oct 2024 11:00:00 +0700"
-    },
-    {
-        "title": "Tổng bị thư Tô Lâm",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#T%E1%BB%95ng%20b%E1%BB%8B%20th%C6%B0%20T%C3%B4%20L%C3%A2m",
-        "pubdate": "Thu, 17 Oct 2024 01:00:00 +0700"
     }
 ]
