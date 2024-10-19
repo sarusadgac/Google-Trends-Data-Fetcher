@@ -1,13 +1,13 @@
-Mets  Dodgers
-Rayo Vallecano
+Tottenham  West Ham
 Aston Villa
+Rayo Vallecano
+Mets  Dodgers
 Santa Fe  Medellín
 River Plate  Vélez
-Tarjeta roja
 Dortmund  St. Pauli
 Al Nassr
-Alavés  Valladolid
 Premier League
+Alavés  Valladolid
 Bundesliga
 Inpec
 Premier
@@ -15,6 +15,6 @@ Bucaramanga
 F1
 LaLiga
 Botafogo
-Serie A
+Serie a
 Walter Mercado
 Centro Felicidad Chapinero
