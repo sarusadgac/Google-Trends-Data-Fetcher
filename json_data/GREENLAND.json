@@ -40,54 +40,14 @@
         "pubdate": "Fri, 18 Oct 2024 21:00:00 +0200"
     },
     {
-        "title": "Andrew Garfield",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Andrew%20Garfield",
-        "pubdate": "Sat, 19 Oct 2024 02:00:00 +0200"
+        "title": "문다혜",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%AC%B8%EB%8B%A4%ED%98%9C",
+        "pubdate": "Sat, 19 Oct 2024 02:00:00 +0900"
     },
     {
         "title": "Ole Ivars",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ole%20Ivars",
         "pubdate": "Sat, 19 Oct 2024 00:00:00 +0200"
-    },
-    {
-        "title": "Al Shabab đấu với al-nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Al%20Shabab%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20al-nassr",
-        "pubdate": "Sat, 19 Oct 2024 00:00:00 +0700"
-    },
-    {
-        "title": "Woman of the Hour",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Woman%20of%20the%20Hour",
-        "pubdate": "Sat, 19 Oct 2024 00:00:00 +0800"
-    },
-    {
-        "title": "ดอร์ทมุนด์",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TH#%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%A1%E0%B8%B8%E0%B8%99%E0%B8%94%E0%B9%8C",
-        "pubdate": "Sat, 19 Oct 2024 04:00:00 +0700"
-    },
-    {
-        "title": "BLACKPINK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#BLACKPINK",
-        "pubdate": "Sat, 19 Oct 2024 10:00:00 +0800"
-    },
-    {
-        "title": "Premier League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Premier%20League",
-        "pubdate": "Sat, 19 Oct 2024 00:00:00 +0100"
-    },
-    {
-        "title": "New Zealand Women vs West Indies Women",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#New%20Zealand%20Women%20vs%20West%20Indies%20Women",
-        "pubdate": "Sat, 19 Oct 2024 07:00:00 +1300"
-    },
-    {
-        "title": "Noman Ali",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Noman%20Ali",
-        "pubdate": "Sat, 19 Oct 2024 00:00:00 +0800"
-    },
-    {
-        "title": "Inter Miami",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Inter%20Miami",
-        "pubdate": "Sat, 19 Oct 2024 01:00:00 -0300"
     },
     {
         "title": "Al Shabab vs al-nassr",
@@ -98,5 +58,45 @@
         "title": "Botafogo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Botafogo",
         "pubdate": "Sat, 19 Oct 2024 01:00:00 +0100"
+    },
+    {
+        "title": "Premier League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Premier%20League",
+        "pubdate": "Sat, 19 Oct 2024 00:00:00 +0200"
+    },
+    {
+        "title": "Anadolu Efes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Anadolu%20Efes",
+        "pubdate": "Sat, 19 Oct 2024 00:00:00 +0300"
+    },
+    {
+        "title": "Queen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Queen",
+        "pubdate": "Sat, 19 Oct 2024 01:00:00 +0300"
+    },
+    {
+        "title": "Partite serie a",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Partite%20serie%20a",
+        "pubdate": "Sat, 19 Oct 2024 01:00:00 +0200"
+    },
+    {
+        "title": "Tito Mboweni",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Tito%20Mboweni",
+        "pubdate": "Sat, 19 Oct 2024 03:00:00 +0200"
+    },
+    {
+        "title": "Vanessa Williams",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Vanessa%20Williams",
+        "pubdate": "Sat, 19 Oct 2024 00:00:00 +0100"
+    },
+    {
+        "title": "ดอร์ทมุนด์",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TH#%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%A1%E0%B8%B8%E0%B8%99%E0%B8%94%E0%B9%8C",
+        "pubdate": "Sat, 19 Oct 2024 04:00:00 +0700"
+    },
+    {
+        "title": "Time",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#Time",
+        "pubdate": "Sat, 19 Oct 2024 00:00:00 +0300"
     }
 ]
