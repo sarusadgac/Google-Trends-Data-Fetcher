@@ -45,11 +45,6 @@
         "pubdate": "Fri, 18 Oct 2024 14:00:00 +0100"
     },
     {
-        "title": "Pevidem Benfica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pevidem%20Benfica",
-        "pubdate": "Fri, 18 Oct 2024 14:00:00 +0100"
-    },
-    {
         "title": "Placard",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Placard",
         "pubdate": "Fri, 18 Oct 2024 18:00:00 +0100"
@@ -70,9 +65,24 @@
         "pubdate": "Fri, 18 Oct 2024 01:00:00 +0100"
     },
     {
+        "title": "Pevidem",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pevidem",
+        "pubdate": "Fri, 18 Oct 2024 14:00:00 +0100"
+    },
+    {
+        "title": "Lenny Kravitz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Lenny%20Kravitz",
+        "pubdate": "Fri, 18 Oct 2024 11:00:00 +0100"
+    },
+    {
         "title": "Nani",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Nani",
         "pubdate": "Fri, 18 Oct 2024 12:00:00 +0100"
+    },
+    {
+        "title": "Vespa asiatica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Vespa%20asiatica",
+        "pubdate": "Fri, 18 Oct 2024 17:00:00 +0100"
     },
     {
         "title": "Brasileirão série a",
@@ -85,18 +95,8 @@
         "pubdate": "Fri, 18 Oct 2024 17:00:00 +0100"
     },
     {
-        "title": "Vespa asiatica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Vespa%20asiatica",
-        "pubdate": "Fri, 18 Oct 2024 17:00:00 +0100"
-    },
-    {
         "title": "MotoGP",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#MotoGP",
         "pubdate": "Fri, 18 Oct 2024 12:00:00 +0100"
-    },
-    {
-        "title": "Lenny Kravitz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Lenny%20Kravitz",
-        "pubdate": "Fri, 18 Oct 2024 11:00:00 +0100"
     }
 ]

@@ -10,6 +10,11 @@
         "pubdate": "Sat, 19 Oct 2024 00:00:00 +0200"
     },
     {
+        "title": "AS Monaco",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#AS%20Monaco",
+        "pubdate": "Sat, 19 Oct 2024 11:00:00 +0200"
+    },
+    {
         "title": "Ligue 1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Ligue%201",
         "pubdate": "Fri, 18 Oct 2024 21:00:00 +0200"
@@ -93,10 +98,5 @@
         "title": "Vigilance inondations",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Vigilance%20inondations",
         "pubdate": "Thu, 17 Oct 2024 13:00:00 +0200"
-    },
-    {
-        "title": "Givors",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Givors",
-        "pubdate": "Thu, 17 Oct 2024 14:00:00 +0200"
     }
 ]
