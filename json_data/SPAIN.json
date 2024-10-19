@@ -5,6 +5,11 @@
         "pubdate": "Sat, 19 Oct 2024 14:00:00 +0200"
     },
     {
+        "title": "Premier League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Premier%20League",
+        "pubdate": "Sat, 19 Oct 2024 01:00:00 +0200"
+    },
+    {
         "title": "Dia Mundial cancer de Mama",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Dia%20Mundial%20cancer%20de%20Mama",
         "pubdate": "Sat, 19 Oct 2024 11:00:00 +0200"
@@ -15,9 +20,14 @@
         "pubdate": "Sat, 19 Oct 2024 02:00:00 +0200"
     },
     {
-        "title": "Premier League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Premier%20League",
-        "pubdate": "Sat, 19 Oct 2024 01:00:00 +0200"
+        "title": "Tottenham , West Ham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Tottenham%20,%20West%20Ham",
+        "pubdate": "Sat, 19 Oct 2024 14:00:00 +0200"
+    },
+    {
+        "title": "Isa Pantoja",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Isa%20Pantoja",
+        "pubdate": "Sat, 19 Oct 2024 02:00:00 +0200"
     },
     {
         "title": "Cancer de mama",
@@ -30,19 +40,19 @@
         "pubdate": "Sat, 19 Oct 2024 08:00:00 +0200"
     },
     {
+        "title": "Nadal Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Nadal%20Djokovic",
+        "pubdate": "Sat, 19 Oct 2024 12:00:00 +0200"
+    },
+    {
         "title": "Serie a",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Serie%20a",
         "pubdate": "Sat, 19 Oct 2024 02:00:00 +0200"
     },
     {
-        "title": "Tottenham  West Ham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Tottenham%20%20West%20Ham",
-        "pubdate": "Sat, 19 Oct 2024 14:00:00 +0200"
-    },
-    {
-        "title": "Nadal Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Nadal%20Djokovic",
-        "pubdate": "Sat, 19 Oct 2024 12:00:00 +0200"
+        "title": "Primera División",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Primera%20Divisi%C3%B3n",
+        "pubdate": "Sat, 19 Oct 2024 08:00:00 +0200"
     },
     {
         "title": "Cuba",
@@ -75,8 +85,8 @@
         "pubdate": "Fri, 18 Oct 2024 21:00:00 +0200"
     },
     {
-        "title": "La liga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#La%20liga",
+        "title": "La Liga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#La%20Liga",
         "pubdate": "Fri, 18 Oct 2024 22:00:00 +0200"
     },
     {
@@ -88,15 +98,5 @@
         "title": "LaLiga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#LaLiga",
         "pubdate": "Fri, 18 Oct 2024 22:00:00 +0200"
-    },
-    {
-        "title": "Jose Luis Martínez-Almeida",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Jose%20Luis%20Mart%C3%ADnez-Almeida",
-        "pubdate": "Fri, 18 Oct 2024 18:00:00 +0200"
-    },
-    {
-        "title": "Periodista victor de la Serna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Periodista%20victor%20de%20la%20Serna",
-        "pubdate": "Fri, 18 Oct 2024 16:00:00 +0200"
     }
 ]

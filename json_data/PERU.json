@@ -1,8 +1,18 @@
 [
     {
-        "title": "Tottenham  West Ham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Tottenham%20%20West%20Ham",
+        "title": "Tottenham , West Ham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Tottenham%20,%20West%20Ham",
         "pubdate": "Sat, 19 Oct 2024 07:00:00 -0500"
+    },
+    {
+        "title": "La Liga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#La%20Liga",
+        "pubdate": "Sat, 19 Oct 2024 08:00:00 -0500"
+    },
+    {
+        "title": "Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Manchester%20United",
+        "pubdate": "Sat, 19 Oct 2024 05:00:00 -0500"
     },
     {
         "title": "Melgar vs",
@@ -33,6 +43,11 @@
         "title": "River Plate  Vélez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#River%20Plate%20%20V%C3%A9lez",
         "pubdate": "Fri, 18 Oct 2024 20:00:00 -0500"
+    },
+    {
+        "title": "Sporting Cristal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Sporting%20Cristal",
+        "pubdate": "Fri, 18 Oct 2024 12:00:00 -0500"
     },
     {
         "title": "Premier League",
@@ -70,6 +85,11 @@
         "pubdate": "Fri, 18 Oct 2024 14:00:00 -0500"
     },
     {
+        "title": "Monaco vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Monaco%20vs",
+        "pubdate": "Fri, 18 Oct 2024 14:00:00 -0500"
+    },
+    {
         "title": "LaLiga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#LaLiga",
         "pubdate": "Fri, 18 Oct 2024 15:00:00 -0500"
@@ -78,25 +98,5 @@
         "title": "Bruno Mars",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bruno%20Mars",
         "pubdate": "Fri, 18 Oct 2024 13:00:00 -0500"
-    },
-    {
-        "title": "Al-Hilal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Al-Hilal",
-        "pubdate": "Fri, 18 Oct 2024 11:00:00 -0500"
-    },
-    {
-        "title": "Delia Espinoza",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Delia%20Espinoza",
-        "pubdate": "Fri, 18 Oct 2024 13:00:00 -0500"
-    },
-    {
-        "title": "Serie a",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Serie%20a",
-        "pubdate": "Fri, 18 Oct 2024 19:00:00 -0500"
-    },
-    {
-        "title": "F1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#F1",
-        "pubdate": "Fri, 18 Oct 2024 23:00:00 -0500"
     }
 ]

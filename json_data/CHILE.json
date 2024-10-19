@@ -1,8 +1,18 @@
 [
     {
+        "title": "Titi Ahubert",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Titi%20Ahubert",
+        "pubdate": "Sat, 19 Oct 2024 00:00:00 -0300"
+    },
+    {
         "title": "Catolica vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Catolica%20vs",
         "pubdate": "Sat, 19 Oct 2024 03:00:00 -0300"
+    },
+    {
+        "title": "Tottenham , West Ham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Tottenham%20,%20West%20Ham",
+        "pubdate": "Sat, 19 Oct 2024 10:00:00 -0300"
     },
     {
         "title": "Premier",
@@ -10,14 +20,19 @@
         "pubdate": "Sat, 19 Oct 2024 08:00:00 -0300"
     },
     {
-        "title": "Noticias de Hoy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Noticias%20de%20Hoy",
+        "title": "Noticias de hoy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Noticias%20de%20hoy",
         "pubdate": "Sat, 19 Oct 2024 00:00:00 -0300"
     },
     {
         "title": "Lanús  Independiente",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Lan%C3%BAs%20%20Independiente",
         "pubdate": "Sat, 19 Oct 2024 00:00:00 -0300"
+    },
+    {
+        "title": "Serie a",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Serie%20a",
+        "pubdate": "Sat, 19 Oct 2024 10:00:00 -0300"
     },
     {
         "title": "River Plate  Vélez",
@@ -60,11 +75,6 @@
         "pubdate": "Fri, 18 Oct 2024 17:00:00 -0300"
     },
     {
-        "title": "Isabel Perón",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Isabel%20Per%C3%B3n",
-        "pubdate": "Fri, 18 Oct 2024 16:00:00 -0300"
-    },
-    {
         "title": "Signal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Signal",
         "pubdate": "Fri, 18 Oct 2024 11:00:00 -0300"
@@ -75,9 +85,9 @@
         "pubdate": "Fri, 18 Oct 2024 18:00:00 -0300"
     },
     {
-        "title": "Bruno Mars",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Bruno%20Mars",
-        "pubdate": "Fri, 18 Oct 2024 16:00:00 -0300"
+        "title": "Bundesliga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Bundesliga",
+        "pubdate": "Fri, 18 Oct 2024 18:00:00 -0300"
     },
     {
         "title": "Formula 1",
@@ -85,18 +95,8 @@
         "pubdate": "Fri, 18 Oct 2024 21:00:00 -0300"
     },
     {
-        "title": "Bundesliga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Bundesliga",
-        "pubdate": "Fri, 18 Oct 2024 18:00:00 -0300"
-    },
-    {
-        "title": "Aire acondicionado",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Aire%20acondicionado",
-        "pubdate": "Fri, 18 Oct 2024 19:00:00 -0300"
-    },
-    {
-        "title": "Kompayaso",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Kompayaso",
-        "pubdate": "Fri, 18 Oct 2024 02:00:00 -0300"
+        "title": "Bruno Mars",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Bruno%20Mars",
+        "pubdate": "Fri, 18 Oct 2024 16:00:00 -0300"
     }
 ]
