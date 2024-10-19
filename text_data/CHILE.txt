@@ -1,5 +1,5 @@
 Catolica vs
-Noticias de hoy
+Noticias de Hoy
 Lanús  Independiente
 River Plate  Vélez
 Metro de Santiago
@@ -9,6 +9,7 @@ Al Nassr
 F1
 Dortmund  St. Pauli
 Alavés  Valladolid
+Signal
 Bruno Mars
 La liga
 Bundesliga
@@ -17,4 +18,3 @@ Kompayaso
 Botafogo
 LaLiga
 Barnechea
-Corinthians
