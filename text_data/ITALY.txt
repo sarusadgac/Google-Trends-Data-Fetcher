@@ -1,9 +1,10 @@
 Freddo
 Raoul Bova
 Situazione fiumi Emilia-Romagna
+Parma
 Cesenatico
-Juventus-Lazio
 Genoa-Bologna
+Juventus
 Como-Parma
 Pesce spada
 Nadal
@@ -16,5 +17,4 @@ Alessandro Basciano
 Salernitana-Spezia
 Brescia-Sassuolo
 Sonia Bruganelli
-Alan Friedman
-Real Madrid
+Roma-Inter

@@ -5,14 +5,14 @@
         "pubdate": "Sun, 20 Oct 2024 09:00:00 +0200"
     },
     {
-        "title": "AFN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AFN",
-        "pubdate": "Sun, 20 Oct 2024 00:00:00 +0200"
-    },
-    {
         "title": "Hans Dahlgren",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hans%20Dahlgren",
         "pubdate": "Sun, 20 Oct 2024 09:00:00 +0200"
+    },
+    {
+        "title": "AFN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AFN",
+        "pubdate": "Sun, 20 Oct 2024 00:00:00 +0200"
     },
     {
         "title": "Allsvenskan",
@@ -50,6 +50,11 @@
         "pubdate": "Sat, 19 Oct 2024 16:00:00 +0200"
     },
     {
+        "title": "Liam Pitts",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Liam%20Pitts",
+        "pubdate": "Sat, 19 Oct 2024 22:00:00 +0200"
+    },
+    {
         "title": "Peter Jöback",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Peter%20J%C3%B6back",
         "pubdate": "Sat, 19 Oct 2024 10:00:00 +0200"
@@ -60,14 +65,14 @@
         "pubdate": "Sat, 19 Oct 2024 15:00:00 +0200"
     },
     {
-        "title": "Liam Pitts",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Liam%20Pitts",
-        "pubdate": "Sat, 19 Oct 2024 22:00:00 +0200"
-    },
-    {
         "title": "Juventus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Juventus",
         "pubdate": "Sat, 19 Oct 2024 21:00:00 +0200"
+    },
+    {
+        "title": "SKMA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#SKMA",
+        "pubdate": "Sat, 19 Oct 2024 00:00:00 +0200"
     },
     {
         "title": "Chris Hemsworth",
@@ -93,10 +98,5 @@
         "title": "Gåsmamman",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#G%C3%A5smamman",
         "pubdate": "Fri, 18 Oct 2024 15:00:00 +0200"
-    },
-    {
-        "title": "Lisa Miskovsky",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Lisa%20Miskovsky",
-        "pubdate": "Fri, 18 Oct 2024 21:00:00 +0200"
     }
 ]
