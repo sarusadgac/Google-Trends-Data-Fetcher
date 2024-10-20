@@ -15,6 +15,11 @@
         "pubdate": "Sun, 20 Oct 2024 01:00:00 +0200"
     },
     {
+        "title": "Salamanca24horas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Salamanca24horas",
+        "pubdate": "Sun, 20 Oct 2024 08:00:00 +0200"
+    },
+    {
         "title": "Bilbao Night Marathon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Bilbao%20Night%20Marathon",
         "pubdate": "Sun, 20 Oct 2024 00:00:00 +0200"
@@ -30,8 +35,8 @@
         "pubdate": "Sun, 20 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "Athletic  - RCD Espanyol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Athletic%20%20-%20RCD%20Espanyol",
+        "title": "Athletic  RCD Espanyol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Athletic%20%20RCD%20Espanyol",
         "pubdate": "Sat, 19 Oct 2024 14:00:00 +0200"
     },
     {
@@ -52,7 +57,7 @@
     {
         "title": "F1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#F1",
-        "pubdate": "Sat, 19 Oct 2024 02:00:00 +0200"
+        "pubdate": "Sat, 19 Oct 2024 00:00:00 +0200"
     },
     {
         "title": "Premier League",
@@ -93,10 +98,5 @@
         "title": "Deportivo de La Coruña",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Deportivo%20de%20La%20Coru%C3%B1a",
         "pubdate": "Sat, 19 Oct 2024 18:00:00 +0200"
-    },
-    {
-        "title": "Girona FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Girona%20FC",
-        "pubdate": "Sat, 19 Oct 2024 17:00:00 +0200"
     }
 ]
