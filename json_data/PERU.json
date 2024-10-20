@@ -5,6 +5,11 @@
         "pubdate": "Sun, 20 Oct 2024 09:00:00 -0500"
     },
     {
+        "title": "Cristal vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Cristal%20vs",
+        "pubdate": "Sun, 20 Oct 2024 01:00:00 -0500"
+    },
+    {
         "title": "Roma - Inter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Roma%20-%20Inter",
         "pubdate": "Sun, 20 Oct 2024 14:00:00 -0500"
@@ -25,19 +30,14 @@
         "pubdate": "Sun, 20 Oct 2024 14:00:00 -0500"
     },
     {
-        "title": "RCD Mallorca  Rayo Vallecano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#RCD%20Mallorca%20%20Rayo%20Vallecano",
-        "pubdate": "Sun, 20 Oct 2024 09:00:00 -0500"
-    },
-    {
-        "title": "Palestino  Colo-Colo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Palestino%20%20Colo-Colo",
-        "pubdate": "Sun, 20 Oct 2024 14:00:00 -0500"
-    },
-    {
-        "title": "U vs Alianza Reserva",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#U%20vs%20Alianza%20Reserva",
+        "title": "Universitario vs Alianza Lima Reserva",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Universitario%20vs%20Alianza%20Lima%20Reserva",
         "pubdate": "Sun, 20 Oct 2024 15:00:00 -0500"
+    },
+    {
+        "title": "Palestino  colo-colo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Palestino%20%20colo-colo",
+        "pubdate": "Sun, 20 Oct 2024 14:00:00 -0500"
     },
     {
         "title": "Venezia - Atalanta",
@@ -45,24 +45,39 @@
         "pubdate": "Sun, 20 Oct 2024 10:00:00 -0500"
     },
     {
-        "title": "Lecce  Fiorentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Lecce%20%20Fiorentina",
-        "pubdate": "Sun, 20 Oct 2024 11:00:00 -0500"
-    },
-    {
         "title": "Levante  Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Levante%20%20Barcelona",
         "pubdate": "Sun, 20 Oct 2024 12:00:00 -0500"
     },
     {
+        "title": "Lecce  Fiorentina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Lecce%20%20Fiorentina",
+        "pubdate": "Sun, 20 Oct 2024 11:00:00 -0500"
+    },
+    {
+        "title": "Renato Tapia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Renato%20Tapia",
+        "pubdate": "Sun, 20 Oct 2024 13:00:00 -0500"
+    },
+    {
+        "title": "Mallorca vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Mallorca%20vs",
+        "pubdate": "Sun, 20 Oct 2024 15:00:00 -0500"
+    },
+    {
+        "title": "Napoli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Napoli",
+        "pubdate": "Sun, 20 Oct 2024 16:00:00 -0500"
+    },
+    {
+        "title": "Barcelona  Sevilla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Barcelona%20%20Sevilla",
+        "pubdate": "Sat, 19 Oct 2024 13:00:00 -0500"
+    },
+    {
         "title": "Celta de Vigo - Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Celta%20de%20Vigo%20-%20Real%20Madrid",
         "pubdate": "Sat, 19 Oct 2024 08:00:00 -0500"
-    },
-    {
-        "title": "Barcelona - Sevilla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Barcelona%20-%20Sevilla",
-        "pubdate": "Sat, 19 Oct 2024 13:00:00 -0500"
     },
     {
         "title": "Inter Miami - New England",
@@ -83,20 +98,5 @@
         "title": "Manchester United  Brentford",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Manchester%20United%20%20Brentford",
         "pubdate": "Sat, 19 Oct 2024 05:00:00 -0500"
-    },
-    {
-        "title": "Tigre  Boca Juniors",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Tigre%20%20Boca%20Juniors",
-        "pubdate": "Sat, 19 Oct 2024 18:00:00 -0500"
-    },
-    {
-        "title": "Tottenham  West Ham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Tottenham%20%20West%20Ham",
-        "pubdate": "Sat, 19 Oct 2024 07:00:00 -0500"
-    },
-    {
-        "title": "Bournemouth - Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bournemouth%20-%20Arsenal",
-        "pubdate": "Sat, 19 Oct 2024 11:00:00 -0500"
     }
 ]
