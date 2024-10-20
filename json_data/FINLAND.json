@@ -50,6 +50,11 @@
         "pubdate": "Sat, 19 Oct 2024 22:00:00 +0300"
     },
     {
+        "title": "District 9",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#District%209",
+        "pubdate": "Sat, 19 Oct 2024 22:00:00 +0300"
+    },
+    {
         "title": "Tottenham – West Ham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tottenham%20%E2%80%93%20West%20Ham",
         "pubdate": "Sat, 19 Oct 2024 16:00:00 +0300"
@@ -63,6 +68,11 @@
         "title": "Bundesliga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bundesliga",
         "pubdate": "Sat, 19 Oct 2024 20:00:00 +0300"
+    },
+    {
+        "title": "Joe Biden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Joe%20Biden",
+        "pubdate": "Sat, 19 Oct 2024 23:00:00 +0300"
     },
     {
         "title": "The Kitchen",
@@ -88,15 +98,5 @@
         "title": "F1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#F1",
         "pubdate": "Fri, 18 Oct 2024 21:00:00 +0300"
-    },
-    {
-        "title": "Vince McMahon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Vince%20McMahon",
-        "pubdate": "Fri, 18 Oct 2024 21:00:00 +0300"
-    },
-    {
-        "title": "WRC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#WRC",
-        "pubdate": "Fri, 18 Oct 2024 10:00:00 +0300"
     }
 ]
