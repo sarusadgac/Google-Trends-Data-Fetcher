@@ -15,6 +15,11 @@
         "pubdate": "Sun, 20 Oct 2024 09:00:00 +0300"
     },
     {
+        "title": "Laura Dern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Laura%20Dern",
+        "pubdate": "Sun, 20 Oct 2024 14:00:00 +0300"
+    },
+    {
         "title": "Celta Vigo – Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Celta%20Vigo%20%E2%80%93%20Real%20Madrid",
         "pubdate": "Sat, 19 Oct 2024 23:00:00 +0300"
@@ -93,10 +98,5 @@
         "title": "One Direction",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#One%20Direction",
         "pubdate": "Thu, 17 Oct 2024 01:00:00 +0300"
-    },
-    {
-        "title": "Yahya Sinwar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Yahya%20Sinwar",
-        "pubdate": "Thu, 17 Oct 2024 20:00:00 +0300"
     }
 ]
