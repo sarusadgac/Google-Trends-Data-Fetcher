@@ -1,13 +1,18 @@
 [
     {
+        "title": "Wolves - Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Wolves%20-%20Manchester%20City",
+        "pubdate": "Sun, 20 Oct 2024 08:00:00 -0500"
+    },
+    {
         "title": "Atlético Madrid  Leganés",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Atl%C3%A9tico%20Madrid%20%20Legan%C3%A9s",
         "pubdate": "Sun, 20 Oct 2024 09:00:00 -0500"
     },
     {
-        "title": "City vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#City%20vs",
-        "pubdate": "Sun, 20 Oct 2024 02:00:00 -0500"
+        "title": "RCD Mallorca  Rayo Vallecano",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#RCD%20Mallorca%20%20Rayo%20Vallecano",
+        "pubdate": "Sun, 20 Oct 2024 09:00:00 -0500"
     },
     {
         "title": "Empoli - Napoli",
@@ -15,9 +20,9 @@
         "pubdate": "Sun, 20 Oct 2024 08:00:00 -0500"
     },
     {
-        "title": "RCD Mallorca  Rayo Vallecano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#RCD%20Mallorca%20%20Rayo%20Vallecano",
-        "pubdate": "Sun, 20 Oct 2024 09:00:00 -0500"
+        "title": "Venezia - Atalanta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Venezia%20-%20Atalanta",
+        "pubdate": "Sun, 20 Oct 2024 10:00:00 -0500"
     },
     {
         "title": "Celta de Vigo - Real Madrid",
@@ -30,9 +35,19 @@
         "pubdate": "Sat, 19 Oct 2024 17:00:00 -0500"
     },
     {
+        "title": "Premier League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Premier%20League",
+        "pubdate": "Sat, 19 Oct 2024 00:00:00 -0500"
+    },
+    {
         "title": "Tigre  Boca Juniors",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Tigre%20%20Boca%20Juniors",
         "pubdate": "Sat, 19 Oct 2024 17:00:00 -0500"
+    },
+    {
+        "title": "Bayern  Stuttgart",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bayern%20%20Stuttgart",
+        "pubdate": "Sat, 19 Oct 2024 10:00:00 -0500"
     },
     {
         "title": "Manchester United  Brentford",
@@ -40,14 +55,14 @@
         "pubdate": "Sat, 19 Oct 2024 05:00:00 -0500"
     },
     {
-        "title": "Wolves - Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Wolves%20-%20Manchester%20City",
-        "pubdate": "Sat, 19 Oct 2024 09:00:00 -0500"
-    },
-    {
         "title": "Bournemouth - Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bournemouth%20-%20Arsenal",
         "pubdate": "Sat, 19 Oct 2024 10:00:00 -0500"
+    },
+    {
+        "title": "Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Manchester%20City",
+        "pubdate": "Sat, 19 Oct 2024 09:00:00 -0500"
     },
     {
         "title": "Tottenham  West Ham",
@@ -75,11 +90,6 @@
         "pubdate": "Sat, 19 Oct 2024 12:00:00 -0500"
     },
     {
-        "title": "Liverpool vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Liverpool%20vs",
-        "pubdate": "Sat, 19 Oct 2024 14:00:00 -0500"
-    },
-    {
         "title": "Newcastle - Brighton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Newcastle%20-%20Brighton",
         "pubdate": "Sat, 19 Oct 2024 10:00:00 -0500"
@@ -88,15 +98,5 @@
         "title": "Bayer Leverkusen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bayer%20Leverkusen",
         "pubdate": "Sat, 19 Oct 2024 10:00:00 -0500"
-    },
-    {
-        "title": "Boca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Boca",
-        "pubdate": "Sat, 19 Oct 2024 18:00:00 -0500"
-    },
-    {
-        "title": "Girona  Real Sociedad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Girona%20%20Real%20Sociedad",
-        "pubdate": "Sat, 19 Oct 2024 12:00:00 -0500"
     }
 ]
