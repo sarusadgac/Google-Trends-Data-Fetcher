@@ -1,5 +1,25 @@
 [
     {
+        "title": "Atlético Madrid  Leganés",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Atl%C3%A9tico%20Madrid%20%20Legan%C3%A9s",
+        "pubdate": "Sun, 20 Oct 2024 09:00:00 -0500"
+    },
+    {
+        "title": "City vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#City%20vs",
+        "pubdate": "Sun, 20 Oct 2024 02:00:00 -0500"
+    },
+    {
+        "title": "Empoli - Napoli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Empoli%20-%20Napoli",
+        "pubdate": "Sun, 20 Oct 2024 08:00:00 -0500"
+    },
+    {
+        "title": "RCD Mallorca  Rayo Vallecano",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#RCD%20Mallorca%20%20Rayo%20Vallecano",
+        "pubdate": "Sun, 20 Oct 2024 09:00:00 -0500"
+    },
+    {
         "title": "Celta de Vigo - Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Celta%20de%20Vigo%20-%20Real%20Madrid",
         "pubdate": "Sat, 19 Oct 2024 08:00:00 -0500"
@@ -20,29 +40,19 @@
         "pubdate": "Sat, 19 Oct 2024 05:00:00 -0500"
     },
     {
+        "title": "Wolves - Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Wolves%20-%20Manchester%20City",
+        "pubdate": "Sat, 19 Oct 2024 09:00:00 -0500"
+    },
+    {
         "title": "Bournemouth - Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bournemouth%20-%20Arsenal",
         "pubdate": "Sat, 19 Oct 2024 10:00:00 -0500"
     },
     {
-        "title": "La Liga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#La%20Liga",
-        "pubdate": "Sat, 19 Oct 2024 08:00:00 -0500"
-    },
-    {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Barcelona",
-        "pubdate": "Sat, 19 Oct 2024 15:00:00 -0500"
-    },
-    {
         "title": "Tottenham  West Ham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Tottenham%20%20West%20Ham",
         "pubdate": "Sat, 19 Oct 2024 07:00:00 -0500"
-    },
-    {
-        "title": "Wolves - Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Wolves%20-%20Manchester%20City",
-        "pubdate": "Sat, 19 Oct 2024 09:00:00 -0500"
     },
     {
         "title": "Fulham  (Aston Villa",
@@ -88,15 +98,5 @@
         "title": "Girona  Real Sociedad",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Girona%20%20Real%20Sociedad",
         "pubdate": "Sat, 19 Oct 2024 12:00:00 -0500"
-    },
-    {
-        "title": "Osasuna - Betis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Osasuna%20-%20Betis",
-        "pubdate": "Sat, 19 Oct 2024 10:00:00 -0500"
-    },
-    {
-        "title": "Belgrano  Platense",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Belgrano%20%20Platense",
-        "pubdate": "Sat, 19 Oct 2024 16:00:00 -0500"
     }
 ]
