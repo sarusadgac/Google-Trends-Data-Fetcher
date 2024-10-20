@@ -5,6 +5,11 @@
         "pubdate": "Sun, 20 Oct 2024 00:00:00 +0200"
     },
     {
+        "title": "Martin Sellner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Martin%20Sellner",
+        "pubdate": "Sun, 20 Oct 2024 01:00:00 +0200"
+    },
+    {
         "title": "DJ Ötzi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#DJ%20%C3%96tzi",
         "pubdate": "Sun, 20 Oct 2024 00:00:00 +0200"
@@ -50,9 +55,14 @@
         "pubdate": "Sat, 19 Oct 2024 16:00:00 +0200"
     },
     {
-        "title": "Bournemouth – Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bournemouth%20%E2%80%93%20Arsenal",
-        "pubdate": "Sat, 19 Oct 2024 19:00:00 +0200"
+        "title": "Sky",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sky",
+        "pubdate": "Sat, 19 Oct 2024 18:00:00 +0200"
+    },
+    {
+        "title": "Galatasaray",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Galatasaray",
+        "pubdate": "Sat, 19 Oct 2024 18:00:00 +0200"
     },
     {
         "title": "Florian Silbereisen",
@@ -75,11 +85,6 @@
         "pubdate": "Sat, 19 Oct 2024 21:00:00 +0200"
     },
     {
-        "title": "Sky",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sky",
-        "pubdate": "Sat, 19 Oct 2024 20:00:00 +0200"
-    },
-    {
         "title": "Kürbis schnitzen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#K%C3%BCrbis%20schnitzen",
         "pubdate": "Sat, 19 Oct 2024 16:00:00 +0200"
@@ -93,10 +98,5 @@
         "title": "Jugendwort 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Jugendwort%202024",
         "pubdate": "Sat, 19 Oct 2024 16:00:00 +0200"
-    },
-    {
-        "title": "Silvia schneider",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Silvia%20schneider",
-        "pubdate": "Sat, 19 Oct 2024 19:00:00 +0200"
     }
 ]
