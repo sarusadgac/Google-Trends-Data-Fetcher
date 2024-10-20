@@ -30,6 +30,11 @@
         "pubdate": "Sat, 19 Oct 2024 15:00:00 -0500"
     },
     {
+        "title": "La Liga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#La%20Liga",
+        "pubdate": "Sat, 19 Oct 2024 08:00:00 -0500"
+    },
+    {
         "title": "Tottenham  West Ham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Tottenham%20%20West%20Ham",
         "pubdate": "Sat, 19 Oct 2024 07:00:00 -0500"
@@ -55,11 +60,6 @@
         "pubdate": "Sat, 19 Oct 2024 12:00:00 -0500"
     },
     {
-        "title": "Athletic  rcd Espanyol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Athletic%20%20rcd%20Espanyol",
-        "pubdate": "Sat, 19 Oct 2024 08:00:00 -0500"
-    },
-    {
         "title": "Bayern Munich",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bayern%20Munich",
         "pubdate": "Sat, 19 Oct 2024 12:00:00 -0500"
@@ -70,14 +70,14 @@
         "pubdate": "Sat, 19 Oct 2024 09:00:00 -0500"
     },
     {
-        "title": "Newcastle - Brighton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Newcastle%20-%20Brighton",
-        "pubdate": "Sat, 19 Oct 2024 10:00:00 -0500"
-    },
-    {
         "title": "Liverpool vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Liverpool%20vs",
         "pubdate": "Sat, 19 Oct 2024 14:00:00 -0500"
+    },
+    {
+        "title": "Newcastle - Brighton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Newcastle%20-%20Brighton",
+        "pubdate": "Sat, 19 Oct 2024 10:00:00 -0500"
     },
     {
         "title": "Bayer Leverkusen",
