@@ -10,34 +10,24 @@
         "pubdate": "Sun, 20 Oct 2024 01:00:00 +0200"
     },
     {
-        "title": "Djokovic Nadal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Djokovic%20Nadal",
-        "pubdate": "Sun, 20 Oct 2024 00:00:00 +0200"
-    },
-    {
-        "title": "Celta Vigo vs Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Celta%20Vigo%20vs%20Real%20Madrid",
-        "pubdate": "Sun, 20 Oct 2024 00:00:00 +0200"
-    },
-    {
-        "title": "Grasshoppers – Zürich",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Grasshoppers%20%E2%80%93%20Z%C3%BCrich",
-        "pubdate": "Sat, 19 Oct 2024 17:00:00 +0200"
-    },
-    {
         "title": "Premier League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Premier%20League",
         "pubdate": "Sat, 19 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "YB Luzern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#YB%20Luzern",
+        "title": "FC Luzern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Luzern",
         "pubdate": "Sat, 19 Oct 2024 18:00:00 +0200"
     },
     {
-        "title": "Serie a",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Serie%20a",
+        "title": "Serie A",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Serie%20A",
         "pubdate": "Sat, 19 Oct 2024 17:00:00 +0200"
+    },
+    {
+        "title": "Grasshoppers – Zürich",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Grasshoppers%20%E2%80%93%20Z%C3%BCrich",
+        "pubdate": "Sat, 19 Oct 2024 18:00:00 +0200"
     },
     {
         "title": "F1",
@@ -70,6 +60,11 @@
         "pubdate": "Sat, 19 Oct 2024 23:00:00 +0200"
     },
     {
+        "title": "Sinner Alcaraz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sinner%20Alcaraz",
+        "pubdate": "Sat, 19 Oct 2024 22:00:00 +0200"
+    },
+    {
         "title": "Eric Philippi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Eric%20Philippi",
         "pubdate": "Sat, 19 Oct 2024 22:00:00 +0200"
@@ -98,5 +93,10 @@
         "title": "Juventus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Juventus",
         "pubdate": "Sat, 19 Oct 2024 22:00:00 +0200"
+    },
+    {
+        "title": "Aydan özoğuz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Aydan%20%C3%B6zo%C4%9Fuz",
+        "pubdate": "Sat, 19 Oct 2024 00:00:00 +0200"
     }
 ]

@@ -15,14 +15,19 @@
         "pubdate": "Sat, 19 Oct 2024 22:00:00 +0800"
     },
     {
-        "title": "有生之年",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E6%9C%89%E7%94%9F%E4%B9%8B%E5%B9%B4",
-        "pubdate": "Sat, 19 Oct 2024 21:00:00 +0800"
-    },
-    {
         "title": "維園巴士展",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E7%B6%AD%E5%9C%92%E5%B7%B4%E5%A3%AB%E5%B1%95",
         "pubdate": "Sat, 19 Oct 2024 10:00:00 +0800"
+    },
+    {
+        "title": "黃子華",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E9%BB%83%E5%AD%90%E8%8F%AF",
+        "pubdate": "Sat, 19 Oct 2024 22:00:00 +0800"
+    },
+    {
+        "title": "金鐘59",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E9%87%91%E9%90%9859",
+        "pubdate": "Sat, 19 Oct 2024 21:00:00 +0800"
     },
     {
         "title": "熱刺",
@@ -60,9 +65,9 @@
         "pubdate": "Fri, 18 Oct 2024 10:00:00 +0800"
     },
     {
-        "title": "杨笠",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E6%9D%A8%E7%AC%A0",
-        "pubdate": "Fri, 18 Oct 2024 16:00:00 +0800"
+        "title": "CRAVITY",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#CRAVITY",
+        "pubdate": "Fri, 18 Oct 2024 19:00:00 +0800"
     },
     {
         "title": "鳥貴族",
@@ -93,10 +98,5 @@
         "title": "台積電",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%8F%B0%E7%A9%8D%E9%9B%BB",
         "pubdate": "Thu, 17 Oct 2024 20:00:00 +0800"
-    },
-    {
-        "title": "超級月亮",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E8%B6%85%E7%B4%9A%E6%9C%88%E4%BA%AE",
-        "pubdate": "Thu, 17 Oct 2024 21:00:00 +0800"
     }
 ]
