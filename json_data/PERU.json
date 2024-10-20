@@ -15,14 +15,14 @@
         "pubdate": "Sat, 19 Oct 2024 10:00:00 -0500"
     },
     {
+        "title": "Tigre  Boca Juniors",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Tigre%20%20Boca%20Juniors",
+        "pubdate": "Sat, 19 Oct 2024 18:00:00 -0500"
+    },
+    {
         "title": "La Liga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#La%20Liga",
         "pubdate": "Sat, 19 Oct 2024 08:00:00 -0500"
-    },
-    {
-        "title": "Tottenham  West Ham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Tottenham%20%20West%20Ham",
-        "pubdate": "Sat, 19 Oct 2024 07:00:00 -0500"
     },
     {
         "title": "Barcelona",
@@ -30,9 +30,9 @@
         "pubdate": "Sat, 19 Oct 2024 15:00:00 -0500"
     },
     {
-        "title": "Tigre  Boca Juniors",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Tigre%20%20Boca%20Juniors",
-        "pubdate": "Sat, 19 Oct 2024 18:00:00 -0500"
+        "title": "Tottenham  West Ham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Tottenham%20%20West%20Ham",
+        "pubdate": "Sat, 19 Oct 2024 07:00:00 -0500"
     },
     {
         "title": "Barcelona vs",
@@ -48,6 +48,11 @@
         "title": "Fulham  (Aston Villa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Fulham%20%20(Aston%20Villa",
         "pubdate": "Sat, 19 Oct 2024 10:00:00 -0500"
+    },
+    {
+        "title": "MLS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#MLS",
+        "pubdate": "Sat, 19 Oct 2024 17:00:00 -0500"
     },
     {
         "title": "Juventus  (Lazio",
@@ -93,10 +98,5 @@
         "title": "Liverpool vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Liverpool%20vs",
         "pubdate": "Sat, 19 Oct 2024 14:00:00 -0500"
-    },
-    {
-        "title": "Belgrano  Platense",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Belgrano%20%20Platense",
-        "pubdate": "Sat, 19 Oct 2024 16:00:00 -0500"
     }
 ]

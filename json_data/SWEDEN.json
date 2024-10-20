@@ -5,11 +5,6 @@
         "pubdate": "Sun, 20 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "Wanda Bendjelloul",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Wanda%20Bendjelloul",
-        "pubdate": "Sun, 20 Oct 2024 01:00:00 +0200"
-    },
-    {
         "title": "Allsvenskan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Allsvenskan",
         "pubdate": "Sat, 19 Oct 2024 16:00:00 +0200"
@@ -75,14 +70,14 @@
         "pubdate": "Sat, 19 Oct 2024 21:00:00 +0200"
     },
     {
-        "title": "SKMA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#SKMA",
-        "pubdate": "Sat, 19 Oct 2024 00:00:00 +0200"
-    },
-    {
         "title": "Chris Hemsworth",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Chris%20Hemsworth",
         "pubdate": "Sat, 19 Oct 2024 09:00:00 +0200"
+    },
+    {
+        "title": "Bayern mot Stuttgart",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bayern%20mot%20Stuttgart",
+        "pubdate": "Sat, 19 Oct 2024 21:00:00 +0200"
     },
     {
         "title": "Gladiator",
@@ -98,5 +93,10 @@
         "title": "Gåsmamman",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#G%C3%A5smamman",
         "pubdate": "Fri, 18 Oct 2024 15:00:00 +0200"
+    },
+    {
+        "title": "Lisa Miskovsky",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Lisa%20Miskovsky",
+        "pubdate": "Fri, 18 Oct 2024 21:00:00 +0200"
     }
 ]

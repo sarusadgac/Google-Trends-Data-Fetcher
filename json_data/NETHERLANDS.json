@@ -40,11 +40,6 @@
         "pubdate": "Sat, 19 Oct 2024 19:00:00 +0200"
     },
     {
-        "title": "Johnny Jordaan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Johnny%20Jordaan",
-        "pubdate": "Sat, 19 Oct 2024 18:00:00 +0200"
-    },
-    {
         "title": "Serie a",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Serie%20a",
         "pubdate": "Sat, 19 Oct 2024 21:00:00 +0200"
@@ -98,5 +93,10 @@
         "title": "Televizier-Ring",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Televizier-Ring",
         "pubdate": "Thu, 17 Oct 2024 00:00:00 +0200"
+    },
+    {
+        "title": "Linda Wagenmakers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Linda%20Wagenmakers",
+        "pubdate": "Thu, 17 Oct 2024 22:00:00 +0200"
     }
 ]
