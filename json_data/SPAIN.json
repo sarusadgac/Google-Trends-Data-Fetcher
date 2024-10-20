@@ -15,19 +15,24 @@
         "pubdate": "Sun, 20 Oct 2024 15:00:00 +0200"
     },
     {
+        "title": "Mario Vaquerizo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Mario%20Vaquerizo",
+        "pubdate": "Sun, 20 Oct 2024 16:00:00 +0200"
+    },
+    {
         "title": "Pez aguja",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Pez%20aguja",
         "pubdate": "Sun, 20 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "Cádiz  Racing de Santander",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#C%C3%A1diz%20%20Racing%20de%20Santander",
+        "title": "Cádiz - Racing de Santander",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#C%C3%A1diz%20-%20Racing%20de%20Santander",
         "pubdate": "Sun, 20 Oct 2024 14:00:00 +0200"
     },
     {
-        "title": "Mario Vaquerizo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Mario%20Vaquerizo",
-        "pubdate": "Sun, 20 Oct 2024 16:00:00 +0200"
+        "title": "Liverpool  (Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Liverpool%20%20(Chelsea",
+        "pubdate": "Sun, 20 Oct 2024 17:00:00 +0200"
     },
     {
         "title": "Real Madrid  Bàsquet Girona",
@@ -35,9 +40,14 @@
         "pubdate": "Sun, 20 Oct 2024 13:00:00 +0200"
     },
     {
-        "title": "Liverpool - Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Liverpool%20-%20Chelsea",
-        "pubdate": "Sun, 20 Oct 2024 17:00:00 +0200"
+        "title": "Villarreal-Getafe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Villarreal-Getafe",
+        "pubdate": "Sun, 20 Oct 2024 18:00:00 +0200"
+    },
+    {
+        "title": "Sandra Bruman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Sandra%20Bruman",
+        "pubdate": "Sun, 20 Oct 2024 14:00:00 +0200"
     },
     {
         "title": "Chris Hoy",
@@ -48,6 +58,11 @@
         "title": "Barça hoy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Bar%C3%A7a%20hoy",
         "pubdate": "Sun, 20 Oct 2024 10:00:00 +0200"
+    },
+    {
+        "title": "RACING FERROL  SD HUESCA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#RACING%20FERROL%20%20SD%20HUESCA",
+        "pubdate": "Sun, 20 Oct 2024 17:00:00 +0200"
     },
     {
         "title": "MotoGP hoy",
@@ -70,33 +85,18 @@
         "pubdate": "Sun, 20 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#PSG",
-        "pubdate": "Sun, 20 Oct 2024 00:00:00 +0200"
-    },
-    {
-        "title": "Salamanca24horas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Salamanca24horas",
-        "pubdate": "Sun, 20 Oct 2024 08:00:00 +0200"
-    },
-    {
         "title": "Joan Laporta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Joan%20Laporta",
         "pubdate": "Sun, 20 Oct 2024 16:00:00 +0200"
     },
     {
-        "title": "Vitor Roque",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Vitor%20Roque",
-        "pubdate": "Sun, 20 Oct 2024 12:00:00 +0200"
-    },
-    {
-        "title": "Hiba Abouk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Hiba%20Abouk",
-        "pubdate": "Sun, 20 Oct 2024 15:00:00 +0200"
-    },
-    {
-        "title": "Racing Ferrol  SD Huesca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Racing%20Ferrol%20%20SD%20Huesca",
+        "title": "Martin caparros ELA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Martin%20caparros%20ELA",
         "pubdate": "Sun, 20 Oct 2024 17:00:00 +0200"
+    },
+    {
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#PSG",
+        "pubdate": "Sun, 20 Oct 2024 00:00:00 +0200"
     }
 ]

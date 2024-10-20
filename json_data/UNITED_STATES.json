@@ -1,7 +1,7 @@
 [
     {
-        "title": "Patriots",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Patriots",
+        "title": "Patriots vs Jaguars",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Patriots%20vs%20Jaguars",
         "pubdate": "Sun, 20 Oct 2024 07:00:00 -0700"
     },
     {
@@ -10,9 +10,24 @@
         "pubdate": "Sun, 20 Oct 2024 07:00:00 -0700"
     },
     {
+        "title": "Kenneth Walker",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kenneth%20Walker",
+        "pubdate": "Sun, 20 Oct 2024 07:00:00 -0700"
+    },
+    {
+        "title": "Nick Chubb",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Nick%20Chubb",
+        "pubdate": "Sun, 20 Oct 2024 09:00:00 -0700"
+    },
+    {
         "title": "Elon Musk petition",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Elon%20Musk%20petition",
         "pubdate": "Sun, 20 Oct 2024 08:00:00 -0700"
+    },
+    {
+        "title": "Zendaya",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Zendaya",
+        "pubdate": "Sun, 20 Oct 2024 09:00:00 -0700"
     },
     {
         "title": "Georgia football",
@@ -35,11 +50,6 @@
         "pubdate": "Sat, 19 Oct 2024 10:00:00 -0700"
     },
     {
-        "title": "Miami football",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Miami%20football",
-        "pubdate": "Sat, 19 Oct 2024 10:00:00 -0700"
-    },
-    {
         "title": "Arkansas football",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Arkansas%20football",
         "pubdate": "Sat, 19 Oct 2024 17:00:00 -0700"
@@ -48,6 +58,11 @@
         "title": "Auburn football",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Auburn%20football",
         "pubdate": "Sat, 19 Oct 2024 13:00:00 -0700"
+    },
+    {
+        "title": "Miami football",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Miami%20football",
+        "pubdate": "Sat, 19 Oct 2024 10:00:00 -0700"
     },
     {
         "title": "Arch Manning",
@@ -83,20 +98,5 @@
         "title": "Michigan vs Illinois",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Michigan%20vs%20Illinois",
         "pubdate": "Sat, 19 Oct 2024 13:00:00 -0700"
-    },
-    {
-        "title": "Arnold Palmer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Arnold%20Palmer",
-        "pubdate": "Sat, 19 Oct 2024 19:00:00 -0700"
-    },
-    {
-        "title": "Inter Miami",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Inter%20Miami",
-        "pubdate": "Sat, 19 Oct 2024 15:00:00 -0700"
-    },
-    {
-        "title": "Cher",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cher",
-        "pubdate": "Sat, 19 Oct 2024 19:00:00 -0700"
     }
 ]
