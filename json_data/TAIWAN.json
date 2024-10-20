@@ -40,6 +40,11 @@
         "pubdate": "Sun, 20 Oct 2024 16:00:00 +0800"
     },
     {
+        "title": "凌濤",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%87%8C%E6%BF%A4",
+        "pubdate": "Sun, 20 Oct 2024 13:00:00 +0800"
+    },
+    {
         "title": "邊荷律",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%82%8A%E8%8D%B7%E5%BE%8B",
         "pubdate": "Sun, 20 Oct 2024 03:00:00 +0800"
@@ -92,11 +97,6 @@
     {
         "title": "麥當勞獵人",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%BA%A5%E7%95%B6%E5%8B%9E%E7%8D%B5%E4%BA%BA",
-        "pubdate": "Sat, 19 Oct 2024 18:00:00 +0800"
-    },
-    {
-        "title": "台灣大賽",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%8F%B0%E7%81%A3%E5%A4%A7%E8%B3%BD",
         "pubdate": "Sat, 19 Oct 2024 18:00:00 +0800"
     }
 ]
