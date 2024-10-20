@@ -15,6 +15,11 @@
         "pubdate": "Sun, 20 Oct 2024 00:00:00 +0300"
     },
     {
+        "title": "Roland Sallai",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Roland%20Sallai",
+        "pubdate": "Sun, 20 Oct 2024 02:00:00 +0300"
+    },
+    {
         "title": "Celta  Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Celta%20%20Real%20Madrid",
         "pubdate": "Sat, 19 Oct 2024 22:00:00 +0300"
@@ -75,14 +80,14 @@
         "pubdate": "Sat, 19 Oct 2024 21:00:00 +0300"
     },
     {
-        "title": "Top Gun: Maverick",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Top%20Gun:%20Maverick",
-        "pubdate": "Sat, 19 Oct 2024 21:00:00 +0300"
-    },
-    {
         "title": "Bandırmaspor  Karagümrük",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Band%C4%B1rmaspor%20%20Karag%C3%BCmr%C3%BCk",
         "pubdate": "Sat, 19 Oct 2024 14:00:00 +0300"
+    },
+    {
+        "title": "Top Gun: Maverick",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Top%20Gun:%20Maverick",
+        "pubdate": "Sat, 19 Oct 2024 21:00:00 +0300"
     },
     {
         "title": "Aliya İzzetbegoviç",
@@ -93,10 +98,5 @@
         "title": "Eskişehirspor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Eski%C5%9Fehirspor",
         "pubdate": "Sat, 19 Oct 2024 19:00:00 +0300"
-    },
-    {
-        "title": "Anadolu Efes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Anadolu%20Efes",
-        "pubdate": "Sat, 19 Oct 2024 00:00:00 +0300"
     }
 ]
