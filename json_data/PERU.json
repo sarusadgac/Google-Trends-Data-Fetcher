@@ -5,8 +5,13 @@
         "pubdate": "Sat, 19 Oct 2024 08:00:00 -0500"
     },
     {
-        "title": "Inter Miami  New England",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Inter%20Miami%20%20New%20England",
+        "title": "Inter Miami - New England",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Inter%20Miami%20-%20New%20England",
+        "pubdate": "Sat, 19 Oct 2024 17:00:00 -0500"
+    },
+    {
+        "title": "Tigre  Boca Juniors",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Tigre%20%20Boca%20Juniors",
         "pubdate": "Sat, 19 Oct 2024 17:00:00 -0500"
     },
     {
@@ -20,11 +25,6 @@
         "pubdate": "Sat, 19 Oct 2024 10:00:00 -0500"
     },
     {
-        "title": "Tigre  Boca Juniors",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Tigre%20%20Boca%20Juniors",
-        "pubdate": "Sat, 19 Oct 2024 18:00:00 -0500"
-    },
-    {
         "title": "Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Barcelona",
         "pubdate": "Sat, 19 Oct 2024 15:00:00 -0500"
@@ -35,13 +35,18 @@
         "pubdate": "Sat, 19 Oct 2024 07:00:00 -0500"
     },
     {
-        "title": "Boca vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Boca%20vs",
+        "title": "Fulham  Aston Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Fulham%20%20Aston%20Villa",
+        "pubdate": "Sat, 19 Oct 2024 10:00:00 -0500"
+    },
+    {
+        "title": "MLS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#MLS",
         "pubdate": "Sat, 19 Oct 2024 17:00:00 -0500"
     },
     {
-        "title": "Fulham  (Aston Villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Fulham%20%20(Aston%20Villa",
+        "title": "Staurikosaurus dinosaurio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Staurikosaurus%20dinosaurio",
         "pubdate": "Sat, 19 Oct 2024 10:00:00 -0500"
     },
     {
@@ -50,19 +55,9 @@
         "pubdate": "Sat, 19 Oct 2024 15:00:00 -0500"
     },
     {
-        "title": "MLS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#MLS",
-        "pubdate": "Sat, 19 Oct 2024 17:00:00 -0500"
-    },
-    {
         "title": "Milan - Udinese",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Milan%20-%20Udinese",
         "pubdate": "Sat, 19 Oct 2024 12:00:00 -0500"
-    },
-    {
-        "title": "Staurikosaurus dinosaurio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Staurikosaurus%20dinosaurio",
-        "pubdate": "Sat, 19 Oct 2024 10:00:00 -0500"
     },
     {
         "title": "Athletic  rcd Espanyol",
@@ -93,6 +88,11 @@
         "title": "Girona  Real Sociedad",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Girona%20%20Real%20Sociedad",
         "pubdate": "Sat, 19 Oct 2024 12:00:00 -0500"
+    },
+    {
+        "title": "Boca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Boca",
+        "pubdate": "Sat, 19 Oct 2024 18:00:00 -0500"
     },
     {
         "title": "Osasuna  Betis",

@@ -1,8 +1,8 @@
 [
     {
-        "title": "Bournemouth vs Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bournemouth%20vs%20Arsenal",
-        "pubdate": "Sun, 20 Oct 2024 00:00:00 +0800"
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Arsenal",
+        "pubdate": "Sun, 20 Oct 2024 01:00:00 +0800"
     },
     {
         "title": "Real Madrid",
@@ -15,11 +15,6 @@
         "pubdate": "Sun, 20 Oct 2024 09:00:00 +0800"
     },
     {
-        "title": "Serie A",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Serie%20A",
-        "pubdate": "Sun, 20 Oct 2024 01:00:00 +0800"
-    },
-    {
         "title": "Man City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Man%20City",
         "pubdate": "Sun, 20 Oct 2024 02:00:00 +0800"
@@ -28,11 +23,6 @@
         "title": "Bayern Munich",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bayern%20Munich",
         "pubdate": "Sun, 20 Oct 2024 09:00:00 +0800"
-    },
-    {
-        "title": "Man United vs Brentford",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Man%20United%20vs%20Brentford",
-        "pubdate": "Sat, 19 Oct 2024 22:00:00 +0800"
     },
     {
         "title": "Premier League",
@@ -48,6 +38,11 @@
         "title": "F1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#F1",
         "pubdate": "Sat, 19 Oct 2024 02:00:00 +0800"
+    },
+    {
+        "title": "Vice-principal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Vice-principal",
+        "pubdate": "Sat, 19 Oct 2024 16:00:00 +0800"
     },
     {
         "title": "Woman of the Hour",
@@ -70,11 +65,6 @@
         "pubdate": "Sat, 19 Oct 2024 21:00:00 +0800"
     },
     {
-        "title": "Vice-principal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Vice-principal",
-        "pubdate": "Sat, 19 Oct 2024 16:00:00 +0800"
-    },
-    {
         "title": "Bronny James",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bronny%20James",
         "pubdate": "Sat, 19 Oct 2024 13:00:00 +0800"
@@ -83,6 +73,11 @@
         "title": "South korean",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#South%20korean",
         "pubdate": "Sat, 19 Oct 2024 22:00:00 +0800"
+    },
+    {
+        "title": "One love asia festival",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#One%20love%20asia%20festival",
+        "pubdate": "Fri, 18 Oct 2024 23:00:00 +0800"
     },
     {
         "title": "North Korean",
@@ -98,5 +93,10 @@
         "title": "Yahya Sinwar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Yahya%20Sinwar",
         "pubdate": "Thu, 17 Oct 2024 23:00:00 +0800"
+    },
+    {
+        "title": "Loh Pei Ying",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Loh%20Pei%20Ying",
+        "pubdate": "Thu, 17 Oct 2024 15:00:00 +0800"
     }
 ]
