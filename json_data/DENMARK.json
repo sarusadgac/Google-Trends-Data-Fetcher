@@ -35,11 +35,6 @@
         "pubdate": "Sat, 19 Oct 2024 14:00:00 +0200"
     },
     {
-        "title": "Man Utd",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Man%20Utd",
-        "pubdate": "Sat, 19 Oct 2024 18:00:00 +0200"
-    },
-    {
         "title": "Patek Philippe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Patek%20Philippe",
         "pubdate": "Sat, 19 Oct 2024 00:00:00 +0200"
@@ -98,5 +93,10 @@
         "title": "Kent",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Kent",
         "pubdate": "Fri, 18 Oct 2024 14:00:00 +0200"
+    },
+    {
+        "title": "Liam Payne dead",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Liam%20Payne%20dead",
+        "pubdate": "Thu, 17 Oct 2024 00:00:00 +0200"
     }
 ]
