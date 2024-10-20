@@ -1,7 +1,6 @@
-Heracles  Ajax
-Eredivisie
+Ajax
+PEC  NAC
 FC Groningen
-NAC
 Willem II  Fortuna
 Martin Garrix
 Suzan Lamens
@@ -18,3 +17,4 @@ Eredivisie
 Vitesse
 Streamers
 ADO Den Haag
+One Direction
