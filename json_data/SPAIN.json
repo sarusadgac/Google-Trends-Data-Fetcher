@@ -15,6 +15,11 @@
         "pubdate": "Sun, 20 Oct 2024 01:00:00 +0200"
     },
     {
+        "title": "Bilbao Night Marathon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Bilbao%20Night%20Marathon",
+        "pubdate": "Sun, 20 Oct 2024 00:00:00 +0200"
+    },
+    {
         "title": "Tom Hanks",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Tom%20Hanks",
         "pubdate": "Sun, 20 Oct 2024 00:00:00 +0200"
@@ -47,7 +52,7 @@
     {
         "title": "F1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#F1",
-        "pubdate": "Sat, 19 Oct 2024 00:00:00 +0200"
+        "pubdate": "Sat, 19 Oct 2024 02:00:00 +0200"
     },
     {
         "title": "Premier League",
@@ -93,10 +98,5 @@
         "title": "Girona FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Girona%20FC",
         "pubdate": "Sat, 19 Oct 2024 17:00:00 +0200"
-    },
-    {
-        "title": "Tottenham  West Ham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Tottenham%20%20West%20Ham",
-        "pubdate": "Sat, 19 Oct 2024 14:00:00 +0200"
     }
 ]
