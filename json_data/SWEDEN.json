@@ -15,16 +15,6 @@
         "pubdate": "Sun, 20 Oct 2024 09:00:00 +0200"
     },
     {
-        "title": "Djurgården",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Djurg%C3%A5rden",
-        "pubdate": "Sun, 20 Oct 2024 15:00:00 +0200"
-    },
-    {
-        "title": "Lebrun",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Lebrun",
-        "pubdate": "Sun, 20 Oct 2024 15:00:00 +0200"
-    },
-    {
         "title": "Gais",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gais",
         "pubdate": "Sun, 20 Oct 2024 16:00:00 +0200"
@@ -45,19 +35,24 @@
         "pubdate": "Sun, 20 Oct 2024 16:00:00 +0200"
     },
     {
+        "title": "Lebrun",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Lebrun",
+        "pubdate": "Sun, 20 Oct 2024 17:00:00 +0200"
+    },
+    {
         "title": "Nahir Besara",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Nahir%20Besara",
         "pubdate": "Sun, 20 Oct 2024 16:00:00 +0200"
     },
     {
-        "title": "AFN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AFN",
-        "pubdate": "Sun, 20 Oct 2024 00:00:00 +0200"
-    },
-    {
         "title": "Manchester City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Manchester%20City",
         "pubdate": "Sun, 20 Oct 2024 18:00:00 +0200"
+    },
+    {
+        "title": "AFN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AFN",
+        "pubdate": "Sun, 20 Oct 2024 00:00:00 +0200"
     },
     {
         "title": "Star Trek",
@@ -82,7 +77,7 @@
     {
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Real%20Madrid",
-        "pubdate": "Sat, 19 Oct 2024 21:00:00 +0200"
+        "pubdate": "Sat, 19 Oct 2024 22:00:00 +0200"
     },
     {
         "title": "Arsenal",
@@ -98,5 +93,10 @@
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Manchester%20United",
         "pubdate": "Sat, 19 Oct 2024 17:00:00 +0200"
+    },
+    {
+        "title": "Liam Pitts",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Liam%20Pitts",
+        "pubdate": "Sat, 19 Oct 2024 22:00:00 +0200"
     }
 ]
