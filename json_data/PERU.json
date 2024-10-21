@@ -1,7 +1,7 @@
 [
     {
-        "title": "Al Ain  al Hilal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Al%20Ain%20%20al%20Hilal",
+        "title": "Al Ain  Al Hilal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Al%20Ain%20%20Al%20Hilal",
         "pubdate": "Mon, 21 Oct 2024 00:00:00 -0500"
     },
     {
@@ -10,8 +10,8 @@
         "pubdate": "Mon, 21 Oct 2024 07:00:00 -0500"
     },
     {
-        "title": "Valencia vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Valencia%20vs",
+        "title": "Valencia CF  UD Las Palmas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Valencia%20CF%20%20UD%20Las%20Palmas",
         "pubdate": "Mon, 21 Oct 2024 10:00:00 -0500"
     },
     {
@@ -48,11 +48,6 @@
         "title": "San Lorenzo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#San%20Lorenzo",
         "pubdate": "Mon, 21 Oct 2024 00:00:00 -0500"
-    },
-    {
-        "title": "UEFA Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#UEFA%20Champions%20League",
-        "pubdate": "Mon, 21 Oct 2024 16:00:00 -0500"
     },
     {
         "title": "Picus",
@@ -98,5 +93,10 @@
         "title": "Cagliari - Torino",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Cagliari%20-%20Torino",
         "pubdate": "Sun, 20 Oct 2024 12:00:00 -0500"
+    },
+    {
+        "title": "Roma vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Roma%20vs",
+        "pubdate": "Sun, 20 Oct 2024 14:00:00 -0500"
     }
 ]
