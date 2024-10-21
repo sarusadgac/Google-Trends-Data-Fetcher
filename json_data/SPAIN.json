@@ -40,19 +40,24 @@
         "pubdate": "Mon, 21 Oct 2024 01:00:00 +0200"
     },
     {
+        "title": "Pepe' Mujica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Pepe'%20Mujica",
+        "pubdate": "Mon, 21 Oct 2024 08:00:00 +0200"
+    },
+    {
         "title": "Iñaki Peña",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#I%C3%B1aki%20Pe%C3%B1a",
         "pubdate": "Mon, 21 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "Pepe Mujica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Pepe%20Mujica",
-        "pubdate": "Mon, 21 Oct 2024 08:00:00 +0200"
-    },
-    {
         "title": "Lula",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Lula",
         "pubdate": "Mon, 21 Oct 2024 14:00:00 +0200"
+    },
+    {
+        "title": "Laprovittola",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Laprovittola",
+        "pubdate": "Mon, 21 Oct 2024 16:00:00 +0200"
     },
     {
         "title": "Cambio hora octubre",
@@ -63,6 +68,11 @@
         "title": "Lenglet",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Lenglet",
         "pubdate": "Mon, 21 Oct 2024 15:00:00 +0200"
+    },
+    {
+        "title": "Laura Escanes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Laura%20Escanes",
+        "pubdate": "Mon, 21 Oct 2024 16:00:00 +0200"
     },
     {
         "title": "Barcelona  Sevilla",
@@ -88,15 +98,5 @@
         "title": "Mario Vaquerizo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Mario%20Vaquerizo",
         "pubdate": "Sun, 20 Oct 2024 16:00:00 +0200"
-    },
-    {
-        "title": "Barça",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Bar%C3%A7a",
-        "pubdate": "Sun, 20 Oct 2024 20:00:00 +0200"
-    },
-    {
-        "title": "Liverpool - Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Liverpool%20-%20Chelsea",
-        "pubdate": "Sun, 20 Oct 2024 17:00:00 +0200"
     }
 ]

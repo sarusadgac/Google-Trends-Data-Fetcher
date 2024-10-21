@@ -2,17 +2,17 @@
     {
         "title": "Champions League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Champions%20League",
-        "pubdate": "Mon, 21 Oct 2024 07:00:00 -0500"
-    },
-    {
-        "title": "Champions",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Champions",
         "pubdate": "Mon, 21 Oct 2024 00:00:00 -0500"
     },
     {
         "title": "San Lorenzo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#San%20Lorenzo",
         "pubdate": "Mon, 21 Oct 2024 00:00:00 -0500"
+    },
+    {
+        "title": "Picus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Picus",
+        "pubdate": "Mon, 21 Oct 2024 09:00:00 -0500"
     },
     {
         "title": "Universitario vs",
@@ -50,16 +50,6 @@
         "pubdate": "Sun, 20 Oct 2024 12:00:00 -0500"
     },
     {
-        "title": "City vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#City%20vs",
-        "pubdate": "Sun, 20 Oct 2024 02:00:00 -0500"
-    },
-    {
-        "title": "Paro 23 de octubre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Paro%2023%20de%20octubre",
-        "pubdate": "Sun, 20 Oct 2024 15:00:00 -0500"
-    },
-    {
         "title": "Palestino  colo-colo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Palestino%20%20colo-colo",
         "pubdate": "Sun, 20 Oct 2024 14:00:00 -0500"
@@ -68,6 +58,11 @@
         "title": "Corinthians",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Corinthians",
         "pubdate": "Sun, 20 Oct 2024 16:00:00 -0500"
+    },
+    {
+        "title": "Barca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Barca",
+        "pubdate": "Sun, 20 Oct 2024 11:00:00 -0500"
     },
     {
         "title": "Palmeiras",
@@ -98,5 +93,10 @@
         "title": "Gavi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Gavi",
         "pubdate": "Sun, 20 Oct 2024 23:00:00 -0500"
+    },
+    {
+        "title": "Dia de la Madre Argentina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Dia%20de%20la%20Madre%20Argentina",
+        "pubdate": "Sun, 20 Oct 2024 20:00:00 -0500"
     }
 ]
