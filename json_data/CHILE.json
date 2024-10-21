@@ -5,11 +5,6 @@
         "pubdate": "Sun, 20 Oct 2024 18:00:00 -0300"
     },
     {
-        "title": "Copiapó  Everton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Copiap%C3%B3%20%20Everton",
-        "pubdate": "Sun, 20 Oct 2024 18:00:00 -0300"
-    },
-    {
         "title": "Audax Italiano  Huachipato",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Audax%20Italiano%20%20Huachipato",
         "pubdate": "Sun, 20 Oct 2024 17:00:00 -0300"
@@ -20,13 +15,13 @@
         "pubdate": "Sun, 20 Oct 2024 00:00:00 -0300"
     },
     {
-        "title": "F1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#F1",
+        "title": "Coquimbo Unido  Cobresal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Coquimbo%20Unido%20%20Cobresal",
         "pubdate": "Sun, 20 Oct 2024 18:00:00 -0300"
     },
     {
-        "title": "Coquimbo Unido  Cobresal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Coquimbo%20Unido%20%20Cobresal",
+        "title": "F1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#F1",
         "pubdate": "Sun, 20 Oct 2024 18:00:00 -0300"
     },
     {
@@ -75,14 +70,14 @@
         "pubdate": "Sun, 20 Oct 2024 01:00:00 -0300"
     },
     {
-        "title": "F1 hoy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#F1%20hoy",
-        "pubdate": "Sun, 20 Oct 2024 17:00:00 -0300"
-    },
-    {
         "title": "Temblor hoy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Temblor%20hoy",
         "pubdate": "Sun, 20 Oct 2024 21:00:00 -0300"
+    },
+    {
+        "title": "F1 hoy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#F1%20hoy",
+        "pubdate": "Sun, 20 Oct 2024 17:00:00 -0300"
     },
     {
         "title": "Pablo Herrera",
@@ -98,5 +93,10 @@
         "title": "Damián Pizarro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Dami%C3%A1n%20Pizarro",
         "pubdate": "Sun, 20 Oct 2024 11:00:00 -0300"
+    },
+    {
+        "title": "Palestino  colo-colo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Palestino%20%20colo-colo",
+        "pubdate": "Sat, 19 Oct 2024 16:00:00 -0300"
     }
 ]
