@@ -65,11 +65,6 @@
         "pubdate": "Sun, 20 Oct 2024 19:00:00 -0500"
     },
     {
-        "title": "Dia de la Madre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Dia%20de%20la%20Madre",
-        "pubdate": "Sun, 20 Oct 2024 20:00:00 -0500"
-    },
-    {
         "title": "Venezia - Atalanta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Venezia%20-%20Atalanta",
         "pubdate": "Sun, 20 Oct 2024 10:00:00 -0500"
@@ -90,13 +85,18 @@
         "pubdate": "Sun, 20 Oct 2024 12:00:00 -0500"
     },
     {
-        "title": "Pablo Torre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Pablo%20Torre",
-        "pubdate": "Sun, 20 Oct 2024 19:00:00 -0500"
-    },
-    {
         "title": "Copa de Brasil",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Copa%20de%20Brasil",
         "pubdate": "Sun, 20 Oct 2024 22:00:00 -0500"
+    },
+    {
+        "title": "Dia de la Madre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Dia%20de%20la%20Madre",
+        "pubdate": "Sun, 20 Oct 2024 20:00:00 -0500"
+    },
+    {
+        "title": "Dia de la Madre Argentina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Dia%20de%20la%20Madre%20Argentina",
+        "pubdate": "Sun, 20 Oct 2024 20:00:00 -0500"
     }
 ]
