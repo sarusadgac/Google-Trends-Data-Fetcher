@@ -35,6 +35,11 @@
         "pubdate": "Sun, 20 Oct 2024 14:00:00 -0500"
     },
     {
+        "title": "Corinthians",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Corinthians",
+        "pubdate": "Sun, 20 Oct 2024 16:00:00 -0500"
+    },
+    {
         "title": "Napoli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Napoli",
         "pubdate": "Sun, 20 Oct 2024 08:00:00 -0500"
@@ -43,6 +48,11 @@
         "title": "Paro 23 de octubre",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Paro%2023%20de%20octubre",
         "pubdate": "Sun, 20 Oct 2024 15:00:00 -0500"
+    },
+    {
+        "title": "Palmeiras",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Palmeiras",
+        "pubdate": "Sun, 20 Oct 2024 19:00:00 -0500"
     },
     {
         "title": "Dia de la Madre",
@@ -60,14 +70,14 @@
         "pubdate": "Sun, 20 Oct 2024 14:00:00 -0500"
     },
     {
-        "title": "Levante  Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Levante%20%20Barcelona",
-        "pubdate": "Sun, 20 Oct 2024 12:00:00 -0500"
-    },
-    {
         "title": "Renato Tapia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Renato%20Tapia",
         "pubdate": "Sun, 20 Oct 2024 13:00:00 -0500"
+    },
+    {
+        "title": "Levante  Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Levante%20%20Barcelona",
+        "pubdate": "Sun, 20 Oct 2024 12:00:00 -0500"
     },
     {
         "title": "Mallorca vs",
@@ -85,18 +95,8 @@
         "pubdate": "Sat, 19 Oct 2024 08:00:00 -0500"
     },
     {
-        "title": "Inter Miami  New England",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Inter%20Miami%20%20New%20England",
+        "title": "Inter Miami - New England",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Inter%20Miami%20-%20New%20England",
         "pubdate": "Sat, 19 Oct 2024 17:00:00 -0500"
-    },
-    {
-        "title": "Wolves - Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Wolves%20-%20Manchester%20City",
-        "pubdate": "Sat, 19 Oct 2024 09:00:00 -0500"
-    },
-    {
-        "title": "Bayern  Stuttgart",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bayern%20%20Stuttgart",
-        "pubdate": "Sat, 19 Oct 2024 10:00:00 -0500"
     }
 ]

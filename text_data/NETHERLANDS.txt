@@ -1,4 +1,5 @@
 Ajax
+Eredivisie
 FC Groningen
 NAC
 Willem II  Fortuna
@@ -6,10 +7,10 @@ Martin Garrix
 Feyenoord
 PSV
 Max Verstappen
-Liverpool
 Marathon Amsterdam
 FC Twente
 NEC
+Twente
 Eredivisie
 Vitesse
 Streamers
@@ -17,4 +18,3 @@ ADO Den Haag
 One Direction
 Televizier-Ring
 Linda Wagenmakers
-ASML
