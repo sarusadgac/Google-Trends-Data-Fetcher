@@ -15,24 +15,9 @@
         "pubdate": "Mon, 21 Oct 2024 08:00:00 -0400"
     },
     {
-        "title": "Epic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Epic",
-        "pubdate": "Mon, 21 Oct 2024 10:00:00 -0400"
-    },
-    {
         "title": "Teams",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Teams",
         "pubdate": "Mon, 21 Oct 2024 10:00:00 -0400"
-    },
-    {
-        "title": "Snake",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Snake",
-        "pubdate": "Mon, 21 Oct 2024 11:00:00 -0400"
-    },
-    {
-        "title": "Microsoft 365",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Microsoft%20365",
-        "pubdate": "Mon, 21 Oct 2024 12:00:00 -0400"
     },
     {
         "title": "Fethullah Gülen",
@@ -40,14 +25,19 @@
         "pubdate": "Mon, 21 Oct 2024 09:00:00 -0400"
     },
     {
+        "title": "Microsoft 365",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Microsoft%20365",
+        "pubdate": "Mon, 21 Oct 2024 12:00:00 -0400"
+    },
+    {
         "title": "Purolator",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Purolator",
         "pubdate": "Mon, 21 Oct 2024 12:00:00 -0400"
     },
     {
-        "title": "FedEx",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#FedEx",
-        "pubdate": "Mon, 21 Oct 2024 12:00:00 -0400"
+        "title": "Paul Di'Anno",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Paul%20Di'Anno",
+        "pubdate": "Mon, 21 Oct 2024 13:00:00 -0400"
     },
     {
         "title": "ARC",
@@ -60,14 +50,14 @@
         "pubdate": "Mon, 21 Oct 2024 10:00:00 -0400"
     },
     {
-        "title": "Paul Di'Anno",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Paul%20Di'Anno",
-        "pubdate": "Mon, 21 Oct 2024 13:00:00 -0400"
-    },
-    {
         "title": "Lidia Thorpe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lidia%20Thorpe",
         "pubdate": "Mon, 21 Oct 2024 11:00:00 -0400"
+    },
+    {
+        "title": "Christy Clark",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Christy%20Clark",
+        "pubdate": "Mon, 21 Oct 2024 12:00:00 -0400"
     },
     {
         "title": "Tommy Edman",
@@ -80,9 +70,14 @@
         "pubdate": "Mon, 21 Oct 2024 01:00:00 -0400"
     },
     {
-        "title": "Christy Clark",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Christy%20Clark",
-        "pubdate": "Mon, 21 Oct 2024 12:00:00 -0400"
+        "title": "Pink cocaine",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Pink%20cocaine",
+        "pubdate": "Mon, 21 Oct 2024 15:00:00 -0400"
+    },
+    {
+        "title": "Moldova",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Moldova",
+        "pubdate": "Mon, 21 Oct 2024 13:00:00 -0400"
     },
     {
         "title": "Colorado Avalanche",
@@ -90,13 +85,18 @@
         "pubdate": "Mon, 21 Oct 2024 03:00:00 -0400"
     },
     {
-        "title": "World Series schedule",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#World%20Series%20schedule",
-        "pubdate": "Mon, 21 Oct 2024 12:00:00 -0400"
+        "title": "New Brunswick election",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#New%20Brunswick%20election",
+        "pubdate": "Mon, 21 Oct 2024 13:00:00 -0400"
     },
     {
-        "title": "Moldova",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Moldova",
+        "title": "Brandon Aiyuk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Brandon%20Aiyuk",
         "pubdate": "Mon, 21 Oct 2024 13:00:00 -0400"
+    },
+    {
+        "title": "Daylight savings Time",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Daylight%20savings%20Time",
+        "pubdate": "Mon, 21 Oct 2024 15:00:00 -0400"
     }
 ]

@@ -1,7 +1,7 @@
 [
     {
-        "title": "Al-Ain  Al Hilal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Al-Ain%20%20Al%20Hilal",
+        "title": "Al Ain  Al Hilal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Al%20Ain%20%20Al%20Hilal",
         "pubdate": "Mon, 21 Oct 2024 00:00:00 -0500"
     },
     {
@@ -15,9 +15,14 @@
         "pubdate": "Mon, 21 Oct 2024 08:00:00 -0500"
     },
     {
-        "title": "Paro nacional 23 de octubre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Paro%20nacional%2023%20de%20octubre",
-        "pubdate": "Mon, 21 Oct 2024 10:00:00 -0500"
+        "title": "Barcelona vs Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Barcelona%20vs%20Bayern",
+        "pubdate": "Mon, 21 Oct 2024 09:00:00 -0500"
+    },
+    {
+        "title": "Nottingham Forest",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Nottingham%20Forest",
+        "pubdate": "Mon, 21 Oct 2024 14:00:00 -0500"
     },
     {
         "title": "San Lorenzo",
@@ -50,6 +55,11 @@
         "pubdate": "Sun, 20 Oct 2024 14:00:00 -0500"
     },
     {
+        "title": "Paro 23 de octubre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Paro%2023%20de%20octubre",
+        "pubdate": "Sun, 20 Oct 2024 15:00:00 -0500"
+    },
+    {
         "title": "Torneo de Reservas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Torneo%20de%20Reservas",
         "pubdate": "Sun, 20 Oct 2024 15:00:00 -0500"
@@ -62,11 +72,6 @@
     {
         "title": "Cagliari - Torino",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Cagliari%20-%20Torino",
-        "pubdate": "Sun, 20 Oct 2024 12:00:00 -0500"
-    },
-    {
-        "title": "Villarreal  Getafe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Villarreal%20%20Getafe",
         "pubdate": "Sun, 20 Oct 2024 12:00:00 -0500"
     },
     {
@@ -85,18 +90,13 @@
         "pubdate": "Sun, 20 Oct 2024 19:00:00 -0500"
     },
     {
+        "title": "Villarreal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Villarreal",
+        "pubdate": "Sun, 20 Oct 2024 13:00:00 -0500"
+    },
+    {
         "title": "Venezia - Atalanta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Venezia%20-%20Atalanta",
         "pubdate": "Sun, 20 Oct 2024 10:00:00 -0500"
-    },
-    {
-        "title": "Que Se celebra el 20 de octubre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Que%20Se%20celebra%20el%2020%20de%20octubre",
-        "pubdate": "Sun, 20 Oct 2024 14:00:00 -0500"
-    },
-    {
-        "title": "Gavi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Gavi",
-        "pubdate": "Sun, 20 Oct 2024 23:00:00 -0500"
     }
 ]
