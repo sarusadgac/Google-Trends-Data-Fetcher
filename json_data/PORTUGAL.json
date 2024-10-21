@@ -20,11 +20,6 @@
         "pubdate": "Mon, 21 Oct 2024 01:00:00 +0100"
     },
     {
-        "title": "Moldavia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Moldavia",
-        "pubdate": "Mon, 21 Oct 2024 00:00:00 +0100"
-    },
-    {
         "title": "Dua Lipa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Dua%20Lipa",
         "pubdate": "Mon, 21 Oct 2024 01:00:00 +0100"
@@ -93,6 +88,11 @@
         "title": "Inter Miami  New England",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Inter%20Miami%20%20New%20England",
         "pubdate": "Sun, 20 Oct 2024 00:00:00 +0100"
+    },
+    {
+        "title": "Moldova",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Moldova",
+        "pubdate": "Sun, 20 Oct 2024 19:00:00 +0100"
     },
     {
         "title": "Leiria  Nacional",
