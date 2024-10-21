@@ -1,18 +1,13 @@
 [
     {
+        "title": "Romerikes Blad",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Romerikes%20Blad",
+        "pubdate": "Mon, 21 Oct 2024 00:00:00 +0200"
+    },
+    {
         "title": "Orkan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Orkan",
         "pubdate": "Mon, 21 Oct 2024 00:00:00 +0200"
-    },
-    {
-        "title": "Lillestrøm",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lillestr%C3%B8m",
-        "pubdate": "Mon, 21 Oct 2024 00:00:00 +0200"
-    },
-    {
-        "title": "TV-aksjonen 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#TV-aksjonen%202024",
-        "pubdate": "Sun, 20 Oct 2024 13:00:00 +0200"
     },
     {
         "title": "Liverpool mot Chelsea",
@@ -43,6 +38,16 @@
         "title": "Viking",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Viking",
         "pubdate": "Sun, 20 Oct 2024 18:00:00 +0200"
+    },
+    {
+        "title": "Dronning Sonja",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Dronning%20Sonja",
+        "pubdate": "Sun, 20 Oct 2024 22:00:00 +0200"
+    },
+    {
+        "title": "Barcelona mot sevilla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Barcelona%20mot%20sevilla",
+        "pubdate": "Sun, 20 Oct 2024 21:00:00 +0200"
     },
     {
         "title": "Lovise Skarbøvik Andresen",
@@ -93,10 +98,5 @@
         "title": "Moldova",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Moldova",
         "pubdate": "Sun, 20 Oct 2024 20:00:00 +0200"
-    },
-    {
-        "title": "Gladiator 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Gladiator%202",
-        "pubdate": "Sun, 20 Oct 2024 23:00:00 +0200"
     }
 ]

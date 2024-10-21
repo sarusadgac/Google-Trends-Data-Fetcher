@@ -1,6 +1,6 @@
 Carlos III
-F1 clasificacion
 Moldavia
+F1 clasificacion
 Iñaki Peña
 Fcbarcelona
 Barcelona  Sevilla
@@ -8,6 +8,7 @@ Atlético Madrid  Leganés
 Villarreal - Getafe
 RCD Mallorca  Rayo Vallecano
 Mario Vaquerizo
+Liverpool - Chelsea
 Inter Miami - New England
 Wolves - Manchester City
 Pez aguja
@@ -17,4 +18,3 @@ Cádiz - Racing de Santander
 Levante  Barcelona
 Martín Caparrós ELA
 Barça  Baskonia
-Real Madrid  Bàsquet Girona
