@@ -1,9 +1,10 @@
-Junior  Deportivo Pereira
 La Equidad  América
+Junior  Deportivo Pereira
 Águilas Doradas  Bucaramanga
 Atlético Madrid  Leganés
 Rayo Vallecano
 COP16
+Roma - Inter
 Venezia - Atalanta
 Villarreal  Getafe
 Cagliari  Torino
@@ -17,4 +18,3 @@ David Alonso
 Liverpool - Chelsea
 Barcelona  Sevilla
 Celta de Vigo - Real Madrid
-Jaguares  Atlético Nacional
