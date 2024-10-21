@@ -10,6 +10,11 @@
         "pubdate": "Sun, 20 Oct 2024 00:00:00 +0800"
     },
     {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Liverpool",
+        "pubdate": "Sun, 20 Oct 2024 03:00:00 +0800"
+    },
+    {
         "title": "Bournemouth vs Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Bournemouth%20vs%20Arsenal",
         "pubdate": "Sun, 20 Oct 2024 00:00:00 +0800"
@@ -17,11 +22,6 @@
     {
         "title": "Celta Vigo vs Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Celta%20Vigo%20vs%20Real%20Madrid",
-        "pubdate": "Sun, 20 Oct 2024 03:00:00 +0800"
-    },
-    {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Chelsea",
         "pubdate": "Sun, 20 Oct 2024 03:00:00 +0800"
     },
     {
@@ -55,14 +55,14 @@
         "pubdate": "Sun, 20 Oct 2024 11:00:00 +0800"
     },
     {
-        "title": "Juventus vs Lazio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Juventus%20vs%20Lazio",
-        "pubdate": "Sun, 20 Oct 2024 06:00:00 +0800"
-    },
-    {
         "title": "New Zealand Women vs South Africa Women",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#New%20Zealand%20Women%20vs%20South%20Africa%20Women",
         "pubdate": "Sun, 20 Oct 2024 23:00:00 +0800"
+    },
+    {
+        "title": "Juventus vs Lazio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Juventus%20vs%20Lazio",
+        "pubdate": "Sun, 20 Oct 2024 06:00:00 +0800"
     },
     {
         "title": "Bayern Munich",
@@ -80,9 +80,9 @@
         "pubdate": "Sun, 20 Oct 2024 12:00:00 +0800"
     },
     {
-        "title": "Arsenal FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Arsenal%20FC",
-        "pubdate": "Sun, 20 Oct 2024 03:00:00 +0800"
+        "title": "Man United vs Brentford",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Man%20United%20vs%20Brentford",
+        "pubdate": "Sat, 19 Oct 2024 22:00:00 +0800"
     },
     {
         "title": "Liverpool vs Chelsea",
@@ -90,13 +90,13 @@
         "pubdate": "Sat, 19 Oct 2024 20:00:00 +0800"
     },
     {
-        "title": "EPL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#EPL",
-        "pubdate": "Sat, 19 Oct 2024 21:00:00 +0800"
+        "title": "Premier League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Premier%20League",
+        "pubdate": "Sat, 19 Oct 2024 19:00:00 +0800"
     },
     {
-        "title": "Man United vs Brentford",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Man%20United%20vs%20Brentford",
-        "pubdate": "Sat, 19 Oct 2024 22:00:00 +0800"
+        "title": "Tottenham vs West Ham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Tottenham%20vs%20West%20Ham",
+        "pubdate": "Sat, 19 Oct 2024 19:00:00 +0800"
     }
 ]
