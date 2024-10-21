@@ -25,8 +25,8 @@
         "pubdate": "Mon, 21 Oct 2024 12:00:00 +0200"
     },
     {
-        "title": "Paul Di'Anno",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Paul%20Di'Anno",
+        "title": "Lionel Richie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Lionel%20Richie",
         "pubdate": "Mon, 21 Oct 2024 20:00:00 +0200"
     },
     {
@@ -57,6 +57,11 @@
     {
         "title": "FC Utrecht",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Utrecht",
+        "pubdate": "Sun, 20 Oct 2024 15:00:00 +0200"
+    },
+    {
+        "title": "Moldavie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Moldavie",
         "pubdate": "Sun, 20 Oct 2024 15:00:00 +0200"
     },
     {
@@ -93,10 +98,5 @@
         "title": "FC Twente",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Twente",
         "pubdate": "Sat, 19 Oct 2024 22:00:00 +0200"
-    },
-    {
-        "title": "N.E.C",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#N.E.C",
-        "pubdate": "Sat, 19 Oct 2024 19:00:00 +0200"
     }
 ]

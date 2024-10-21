@@ -5,11 +5,6 @@
         "pubdate": "Mon, 21 Oct 2024 07:00:00 +0200"
     },
     {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Barcelona",
-        "pubdate": "Mon, 21 Oct 2024 20:00:00 +0200"
-    },
-    {
         "title": "Nottm Forest vs Crystal Palace",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Nottm%20Forest%20vs%20Crystal%20Palace",
         "pubdate": "Mon, 21 Oct 2024 17:00:00 +0200"
@@ -20,14 +15,14 @@
         "pubdate": "Mon, 21 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "Matric exams 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Matric%20exams%202024",
-        "pubdate": "Mon, 21 Oct 2024 07:00:00 +0200"
-    },
-    {
         "title": "Al Pacino",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Al%20Pacino",
         "pubdate": "Mon, 21 Oct 2024 17:00:00 +0200"
+    },
+    {
+        "title": "Matric exams 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Matric%20exams%202024",
+        "pubdate": "Mon, 21 Oct 2024 07:00:00 +0200"
     },
     {
         "title": "F1 Results",
@@ -80,9 +75,14 @@
         "pubdate": "Sun, 20 Oct 2024 17:00:00 +0200"
     },
     {
-        "title": "Atletico Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Atletico%20Madrid",
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Barcelona",
         "pubdate": "Sun, 20 Oct 2024 10:00:00 +0200"
+    },
+    {
+        "title": "Inter Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Inter%20Milan",
+        "pubdate": "Sun, 20 Oct 2024 13:00:00 +0200"
     },
     {
         "title": "Liverpool FC",
@@ -95,8 +95,8 @@
         "pubdate": "Sun, 20 Oct 2024 13:00:00 +0200"
     },
     {
-        "title": "Inter Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Inter%20Milan",
-        "pubdate": "Sun, 20 Oct 2024 13:00:00 +0200"
+        "title": "Man City vs Wolves",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Man%20City%20vs%20Wolves",
+        "pubdate": "Sun, 20 Oct 2024 16:00:00 +0200"
     }
 ]
