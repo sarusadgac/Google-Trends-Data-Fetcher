@@ -1,15 +1,5 @@
 [
     {
-        "title": "ワールドシリーズ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA",
-        "pubdate": "Mon, 21 Oct 2024 13:00:00 +0900"
-    },
-    {
-        "title": "打風",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E6%89%93%E9%A2%A8",
-        "pubdate": "Mon, 21 Oct 2024 14:00:00 +0800"
-    },
-    {
         "title": "Lidia Thorpe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Lidia%20Thorpe",
         "pubdate": "Mon, 21 Oct 2024 08:00:00 +0100"
@@ -20,14 +10,29 @@
         "pubdate": "Mon, 21 Oct 2024 09:00:00 +0200"
     },
     {
+        "title": "Выборы В Молдове",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B%20%D0%92%20%D0%9C%D0%BE%D0%BB%D0%B4%D0%BE%D0%B2%D0%B5",
+        "pubdate": "Mon, 21 Oct 2024 07:00:00 +0300"
+    },
+    {
+        "title": "地震",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%9C%B0%E9%9C%87",
+        "pubdate": "Mon, 21 Oct 2024 16:00:00 +0900"
+    },
+    {
+        "title": "Thomas Scimeca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Thomas%20Scimeca",
+        "pubdate": "Mon, 21 Oct 2024 09:00:00 +0200"
+    },
+    {
+        "title": "打風",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E6%89%93%E9%A2%A8",
+        "pubdate": "Mon, 21 Oct 2024 14:00:00 +0800"
+    },
+    {
         "title": "Chiefs vs 49ers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chiefs%20vs%2049ers",
         "pubdate": "Sun, 20 Oct 2024 12:00:00 -0700"
-    },
-    {
-        "title": "PPDA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#PPDA",
-        "pubdate": "Mon, 21 Oct 2024 09:00:00 +0200"
     },
     {
         "title": "Bangladesh vs South Africa",
@@ -35,68 +40,63 @@
         "pubdate": "Mon, 21 Oct 2024 09:30:00 +0530"
     },
     {
-        "title": "Выборы В Молдове",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B%20%D0%92%20%D0%9C%D0%BE%D0%BB%D0%B4%D0%BE%D0%B2%D0%B5",
-        "pubdate": "Mon, 21 Oct 2024 07:00:00 +0300"
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#Barcelona",
+        "pubdate": "Mon, 21 Oct 2024 01:00:00 +0300"
     },
     {
-        "title": "Csárdi Antal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Cs%C3%A1rdi%20Antal",
+        "title": "Palmeiras",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Palmeiras",
+        "pubdate": "Mon, 21 Oct 2024 01:00:00 +0100"
+    },
+    {
+        "title": "Iquique  Cobreloa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Iquique%20%20Cobreloa",
+        "pubdate": "Sun, 20 Oct 2024 18:00:00 -0300"
+    },
+    {
+        "title": "28 Ekim TATİL Mİ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#28%20Ekim%20TAT%C4%B0L%20M%C4%B0",
+        "pubdate": "Mon, 21 Oct 2024 11:00:00 +0300"
+    },
+    {
+        "title": "F1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#F1",
         "pubdate": "Mon, 21 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "Jennifer Lawrence",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jennifer%20Lawrence",
-        "pubdate": "Mon, 21 Oct 2024 05:00:00 +0200"
+        "title": "Alisha Lehmann",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Alisha%20Lehmann",
+        "pubdate": "Mon, 21 Oct 2024 07:00:00 +0200"
     },
     {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Barcelona",
-        "pubdate": "Mon, 21 Oct 2024 06:00:00 +0200"
-    },
-    {
-        "title": "星宇航空抽籤",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%98%9F%E5%AE%87%E8%88%AA%E7%A9%BA%E6%8A%BD%E7%B1%A4",
-        "pubdate": "Mon, 21 Oct 2024 09:00:00 +0800"
+        "title": "TP.HCM đấu với Phù Đổng",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#TP.HCM%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Ph%C3%B9%20%C4%90%E1%BB%95ng",
+        "pubdate": "Mon, 21 Oct 2024 10:00:00 +0700"
     },
     {
         "title": "Classroom",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Classroom",
-        "pubdate": "Mon, 21 Oct 2024 10:00:00 +0300"
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TH#Classroom",
+        "pubdate": "Mon, 21 Oct 2024 11:00:00 +0700"
     },
     {
-        "title": "Snoop Dogg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Snoop%20Dogg",
-        "pubdate": "Mon, 21 Oct 2024 01:00:00 -0400"
+        "title": "Повітряна тривога",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=UA#%D0%9F%D0%BE%D0%B2%D1%96%D1%82%D1%80%D1%8F%D0%BD%D0%B0%20%D1%82%D1%80%D0%B8%D0%B2%D0%BE%D0%B3%D0%B0",
+        "pubdate": "Mon, 21 Oct 2024 14:00:00 +0300"
     },
     {
-        "title": "Tananai",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Tananai",
-        "pubdate": "Mon, 21 Oct 2024 00:00:00 +0200"
+        "title": "FIRS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#FIRS",
+        "pubdate": "Mon, 21 Oct 2024 11:00:00 +0100"
     },
     {
-        "title": "Dự báo thời tiết Hà Nội",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#D%E1%BB%B1%20b%C3%A1o%20th%E1%BB%9Di%20ti%E1%BA%BFt%20H%C3%A0%20N%E1%BB%99i",
-        "pubdate": "Mon, 21 Oct 2024 14:00:00 +0700"
+        "title": "Gachagua",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Gachagua",
+        "pubdate": "Mon, 21 Oct 2024 13:00:00 +0300"
     },
     {
-        "title": "WNBA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#WNBA",
-        "pubdate": "Mon, 21 Oct 2024 12:00:00 +0800"
-    },
-    {
-        "title": "Marko",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Marko",
-        "pubdate": "Mon, 21 Oct 2024 00:00:00 -0600"
-    },
-    {
-        "title": "La Equidad  América",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#La%20Equidad%20%20Am%C3%A9rica",
-        "pubdate": "Sun, 20 Oct 2024 14:00:00 -0500"
-    },
-    {
-        "title": "Hari Santri",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Hari%20Santri",
-        "pubdate": "Mon, 21 Oct 2024 10:00:00 +0700"
+        "title": "Al Hilal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Al%20Hilal",
+        "pubdate": "Mon, 21 Oct 2024 00:00:00 -0500"
     }
 ]
