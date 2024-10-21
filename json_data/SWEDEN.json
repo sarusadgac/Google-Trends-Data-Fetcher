@@ -5,6 +5,11 @@
         "pubdate": "Mon, 21 Oct 2024 07:00:00 +0200"
     },
     {
+        "title": "Carnegie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Carnegie",
+        "pubdate": "Mon, 21 Oct 2024 12:00:00 +0200"
+    },
+    {
         "title": "Hammarby Djurgården",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hammarby%20Djurg%C3%A5rden",
         "pubdate": "Sun, 20 Oct 2024 02:00:00 +0200"
@@ -30,14 +35,14 @@
         "pubdate": "Sun, 20 Oct 2024 09:00:00 +0200"
     },
     {
+        "title": "Sportbladet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sportbladet",
+        "pubdate": "Sun, 20 Oct 2024 17:00:00 +0200"
+    },
+    {
         "title": "Fotbollskanalen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Fotbollskanalen",
         "pubdate": "Sun, 20 Oct 2024 18:00:00 +0200"
-    },
-    {
-        "title": "Lebrun",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Lebrun",
-        "pubdate": "Sun, 20 Oct 2024 15:00:00 +0200"
     },
     {
         "title": "Jennifer Lawrence",
@@ -45,19 +50,24 @@
         "pubdate": "Sun, 20 Oct 2024 20:00:00 +0200"
     },
     {
+        "title": "Lebrun",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Lebrun",
+        "pubdate": "Sun, 20 Oct 2024 15:00:00 +0200"
+    },
+    {
         "title": "Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Chelsea",
         "pubdate": "Sun, 20 Oct 2024 17:00:00 +0200"
     },
     {
-        "title": "Kalmar FF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kalmar%20FF",
-        "pubdate": "Sun, 20 Oct 2024 15:00:00 +0200"
-    },
-    {
         "title": "På spåret",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#P%C3%A5%20sp%C3%A5ret",
         "pubdate": "Sun, 20 Oct 2024 20:00:00 +0200"
+    },
+    {
+        "title": "Kalmar FF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kalmar%20FF",
+        "pubdate": "Sun, 20 Oct 2024 15:00:00 +0200"
     },
     {
         "title": "Carola",
@@ -88,15 +98,5 @@
         "title": "Manchester City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Manchester%20City",
         "pubdate": "Sun, 20 Oct 2024 18:00:00 +0200"
-    },
-    {
-        "title": "Star Trek",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Star%20Trek",
-        "pubdate": "Sun, 20 Oct 2024 14:00:00 +0200"
-    },
-    {
-        "title": "Luleå",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Lule%C3%A5",
-        "pubdate": "Sun, 20 Oct 2024 22:00:00 +0200"
     }
 ]
