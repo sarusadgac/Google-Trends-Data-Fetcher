@@ -5,11 +5,6 @@
         "pubdate": "Mon, 21 Oct 2024 15:00:00 +1100"
     },
     {
-        "title": "F1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#F1",
-        "pubdate": "Mon, 21 Oct 2024 09:00:00 +1100"
-    },
-    {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Liverpool",
         "pubdate": "Mon, 21 Oct 2024 03:00:00 +1100"
@@ -98,5 +93,10 @@
         "title": "Liam Lawson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Liam%20Lawson",
         "pubdate": "Mon, 21 Oct 2024 09:00:00 +1100"
+    },
+    {
+        "title": "Richard White",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Richard%20White",
+        "pubdate": "Mon, 21 Oct 2024 16:00:00 +1100"
     }
 ]

@@ -5,11 +5,6 @@
         "pubdate": "Mon, 21 Oct 2024 07:00:00 -0500"
     },
     {
-        "title": "Champions",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Champions",
-        "pubdate": "Mon, 21 Oct 2024 08:00:00 -0500"
-    },
-    {
         "title": "Al Hilal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Al%20Hilal",
         "pubdate": "Mon, 21 Oct 2024 00:00:00 -0500"
@@ -27,7 +22,7 @@
     {
         "title": "Universitario vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Universitario%20vs",
-        "pubdate": "Sun, 20 Oct 2024 15:00:00 -0500"
+        "pubdate": "Sun, 20 Oct 2024 12:00:00 -0500"
     },
     {
         "title": "Atlético Madrid  Leganés",
@@ -35,14 +30,14 @@
         "pubdate": "Sun, 20 Oct 2024 09:00:00 -0500"
     },
     {
-        "title": "Cristal vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Cristal%20vs",
-        "pubdate": "Sun, 20 Oct 2024 01:00:00 -0500"
-    },
-    {
         "title": "Roma - Inter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Roma%20-%20Inter",
         "pubdate": "Sun, 20 Oct 2024 14:00:00 -0500"
+    },
+    {
+        "title": "Torneo de Reservas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Torneo%20de%20Reservas",
+        "pubdate": "Sun, 20 Oct 2024 15:00:00 -0500"
     },
     {
         "title": "Pumas  Atl San Luis",
@@ -90,13 +85,18 @@
         "pubdate": "Sun, 20 Oct 2024 14:00:00 -0500"
     },
     {
-        "title": "Renato Tapia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Renato%20Tapia",
-        "pubdate": "Sun, 20 Oct 2024 13:00:00 -0500"
-    },
-    {
         "title": "Stream Fighters 3",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Stream%20Fighters%203",
         "pubdate": "Sun, 20 Oct 2024 22:00:00 -0500"
+    },
+    {
+        "title": "Gavi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Gavi",
+        "pubdate": "Sun, 20 Oct 2024 23:00:00 -0500"
+    },
+    {
+        "title": "Dia de la Madre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Dia%20de%20la%20Madre",
+        "pubdate": "Sun, 20 Oct 2024 20:00:00 -0500"
     }
 ]

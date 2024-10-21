@@ -15,6 +15,16 @@
         "pubdate": "Mon, 21 Oct 2024 16:00:00 +0100"
     },
     {
+        "title": "Rosa do Canto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rosa%20do%20Canto",
+        "pubdate": "Mon, 21 Oct 2024 17:00:00 +0100"
+    },
+    {
+        "title": "PSP Cova da Moura",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#PSP%20Cova%20da%20Moura",
+        "pubdate": "Mon, 21 Oct 2024 15:00:00 +0100"
+    },
+    {
         "title": "Lula",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Lula",
         "pubdate": "Mon, 21 Oct 2024 01:00:00 +0100"
@@ -45,11 +55,6 @@
         "pubdate": "Mon, 21 Oct 2024 01:00:00 +0100"
     },
     {
-        "title": "PSP Cova da Moura",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#PSP%20Cova%20da%20Moura",
-        "pubdate": "Mon, 21 Oct 2024 15:00:00 +0100"
-    },
-    {
         "title": "Livro Pinto da Costa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Livro%20Pinto%20da%20Costa",
         "pubdate": "Mon, 21 Oct 2024 14:00:00 +0100"
@@ -70,6 +75,11 @@
         "pubdate": "Mon, 21 Oct 2024 13:00:00 +0100"
     },
     {
+        "title": "Liga Europa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Liga%20Europa",
+        "pubdate": "Mon, 21 Oct 2024 13:00:00 +0100"
+    },
+    {
         "title": "Dua Lipa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Dua%20Lipa",
         "pubdate": "Mon, 21 Oct 2024 01:00:00 +0100"
@@ -80,23 +90,13 @@
         "pubdate": "Mon, 21 Oct 2024 10:00:00 +0100"
     },
     {
-        "title": "Liga Europa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Liga%20Europa",
-        "pubdate": "Mon, 21 Oct 2024 13:00:00 +0100"
-    },
-    {
-        "title": "Alberto Ferreira da Costa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Alberto%20Ferreira%20da%20Costa",
-        "pubdate": "Mon, 21 Oct 2024 01:00:00 +0100"
+        "title": "Soldados norte-coreanos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Soldados%20norte-coreanos",
+        "pubdate": "Mon, 21 Oct 2024 17:00:00 +0100"
     },
     {
         "title": "Sturm Graz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sturm%20Graz",
         "pubdate": "Mon, 21 Oct 2024 16:00:00 +0100"
-    },
-    {
-        "title": "Papa Francisco",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Papa%20Francisco",
-        "pubdate": "Mon, 21 Oct 2024 02:00:00 +0100"
     }
 ]
