@@ -15,11 +15,6 @@
         "pubdate": "Mon, 21 Oct 2024 08:00:00 +0200"
     },
     {
-        "title": "Sevilla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Sevilla",
-        "pubdate": "Mon, 21 Oct 2024 08:00:00 +0200"
-    },
-    {
         "title": "Donald Trump McDonald's",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Donald%20Trump%20McDonald's",
         "pubdate": "Mon, 21 Oct 2024 11:00:00 +0200"
@@ -28,6 +23,11 @@
         "title": "Moldavia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Moldavia",
         "pubdate": "Mon, 21 Oct 2024 01:00:00 +0200"
+    },
+    {
+        "title": "Sevilla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Sevilla",
+        "pubdate": "Mon, 21 Oct 2024 08:00:00 +0200"
     },
     {
         "title": "Colapinto",
@@ -45,9 +45,14 @@
         "pubdate": "Mon, 21 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "Pepe' Mujica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Pepe'%20Mujica",
+        "title": "Pepe Mujica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Pepe%20Mujica",
         "pubdate": "Mon, 21 Oct 2024 08:00:00 +0200"
+    },
+    {
+        "title": "Lula",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Lula",
+        "pubdate": "Mon, 21 Oct 2024 14:00:00 +0200"
     },
     {
         "title": "Cambio hora octubre",
@@ -55,9 +60,9 @@
         "pubdate": "Mon, 21 Oct 2024 09:00:00 +0200"
     },
     {
-        "title": "Lula",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Lula",
-        "pubdate": "Mon, 21 Oct 2024 14:00:00 +0200"
+        "title": "Lenglet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Lenglet",
+        "pubdate": "Mon, 21 Oct 2024 15:00:00 +0200"
     },
     {
         "title": "Barcelona  Sevilla",
@@ -85,18 +90,13 @@
         "pubdate": "Sun, 20 Oct 2024 16:00:00 +0200"
     },
     {
-        "title": "Inter Miami - New England",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Inter%20Miami%20-%20New%20England",
-        "pubdate": "Sun, 20 Oct 2024 01:00:00 +0200"
+        "title": "Barça",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Bar%C3%A7a",
+        "pubdate": "Sun, 20 Oct 2024 20:00:00 +0200"
     },
     {
-        "title": "Wolves - Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Wolves%20-%20Manchester%20City",
-        "pubdate": "Sun, 20 Oct 2024 15:00:00 +0200"
-    },
-    {
-        "title": "Paz Padilla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Paz%20Padilla",
-        "pubdate": "Sun, 20 Oct 2024 21:00:00 +0200"
+        "title": "Liverpool - Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Liverpool%20-%20Chelsea",
+        "pubdate": "Sun, 20 Oct 2024 17:00:00 +0200"
     }
 ]
