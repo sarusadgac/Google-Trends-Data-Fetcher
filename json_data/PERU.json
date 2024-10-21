@@ -5,9 +5,19 @@
         "pubdate": "Mon, 21 Oct 2024 07:00:00 -0500"
     },
     {
-        "title": "Al Hilal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Al%20Hilal",
+        "title": "Al-Hilal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Al-Hilal",
         "pubdate": "Mon, 21 Oct 2024 00:00:00 -0500"
+    },
+    {
+        "title": "Paro nacional 23 de octubre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Paro%20nacional%2023%20de%20octubre",
+        "pubdate": "Mon, 21 Oct 2024 10:00:00 -0500"
+    },
+    {
+        "title": "Colo Colo vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Colo%20Colo%20vs",
+        "pubdate": "Mon, 21 Oct 2024 11:00:00 -0500"
     },
     {
         "title": "San Lorenzo",
@@ -65,11 +75,6 @@
         "pubdate": "Sun, 20 Oct 2024 16:00:00 -0500"
     },
     {
-        "title": "Barca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Barca",
-        "pubdate": "Sun, 20 Oct 2024 11:00:00 -0500"
-    },
-    {
         "title": "Palmeiras",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Palmeiras",
         "pubdate": "Sun, 20 Oct 2024 19:00:00 -0500"
@@ -93,10 +98,5 @@
         "title": "Gavi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Gavi",
         "pubdate": "Sun, 20 Oct 2024 23:00:00 -0500"
-    },
-    {
-        "title": "Dia de la Madre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Dia%20de%20la%20Madre",
-        "pubdate": "Sun, 20 Oct 2024 20:00:00 -0500"
     }
 ]
