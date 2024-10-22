@@ -35,6 +35,11 @@
         "pubdate": "Mon, 21 Oct 2024 20:00:00 +0200"
     },
     {
+        "title": "US-Wahl 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#US-Wahl%202024",
+        "pubdate": "Mon, 21 Oct 2024 07:00:00 +0200"
+    },
+    {
         "title": "HSV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#HSV",
         "pubdate": "Sun, 20 Oct 2024 15:00:00 +0200"
@@ -93,10 +98,5 @@
         "title": "Sinwar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sinwar",
         "pubdate": "Thu, 17 Oct 2024 17:00:00 +0200"
-    },
-    {
-        "title": "Joe Biden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Joe%20Biden",
-        "pubdate": "Thu, 17 Oct 2024 20:00:00 +0200"
     }
 ]
