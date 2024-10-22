@@ -1,5 +1,10 @@
 [
     {
+        "title": "Chris Hoy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Chris%20Hoy",
+        "pubdate": "Tue, 22 Oct 2024 01:00:00 -0500"
+    },
+    {
         "title": "Al Ain  Al Hilal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Al%20Ain%20%20Al%20Hilal",
         "pubdate": "Mon, 21 Oct 2024 00:00:00 -0500"
@@ -20,14 +25,14 @@
         "pubdate": "Mon, 21 Oct 2024 14:00:00 -0500"
     },
     {
+        "title": "Champions",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Champions",
+        "pubdate": "Mon, 21 Oct 2024 08:00:00 -0500"
+    },
+    {
         "title": "Valencia CF  UD Las Palmas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Valencia%20CF%20%20UD%20Las%20Palmas",
         "pubdate": "Mon, 21 Oct 2024 15:00:00 -0500"
-    },
-    {
-        "title": "Maria pia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Maria%20pia",
-        "pubdate": "Mon, 21 Oct 2024 21:00:00 -0500"
     },
     {
         "title": "Arlette Rujel",
@@ -45,9 +50,9 @@
         "pubdate": "Mon, 21 Oct 2024 11:00:00 -0500"
     },
     {
-        "title": "Barcelona vs Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Barcelona%20vs%20Bayern",
-        "pubdate": "Mon, 21 Oct 2024 09:00:00 -0500"
+        "title": "Maria pia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Maria%20pia",
+        "pubdate": "Mon, 21 Oct 2024 21:00:00 -0500"
     },
     {
         "title": "Paul Di'Anno",
@@ -93,10 +98,5 @@
         "title": "Universitario",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Universitario",
         "pubdate": "Sun, 20 Oct 2024 12:00:00 -0500"
-    },
-    {
-        "title": "Universitario vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Universitario%20vs",
-        "pubdate": "Sun, 20 Oct 2024 16:00:00 -0500"
     }
 ]
