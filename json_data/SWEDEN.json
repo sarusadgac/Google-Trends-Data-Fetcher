@@ -1,10 +1,5 @@
 [
     {
-        "title": "Ownit",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ownit",
-        "pubdate": "Tue, 22 Oct 2024 00:00:00 +0200"
-    },
-    {
         "title": "Carter Ashton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Carter%20Ashton",
         "pubdate": "Tue, 22 Oct 2024 00:00:00 +0200"
@@ -98,5 +93,10 @@
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Liverpool",
         "pubdate": "Sun, 20 Oct 2024 18:00:00 +0200"
+    },
+    {
+        "title": "Gais",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gais",
+        "pubdate": "Sun, 20 Oct 2024 16:00:00 +0200"
     }
 ]

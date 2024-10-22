@@ -5,14 +5,14 @@
         "pubdate": "Tue, 22 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "Milei",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Milei",
-        "pubdate": "Tue, 22 Oct 2024 02:00:00 +0200"
-    },
-    {
         "title": "Gonorrea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Gonorrea",
         "pubdate": "Tue, 22 Oct 2024 03:00:00 +0200"
+    },
+    {
+        "title": "Milei",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Milei",
+        "pubdate": "Tue, 22 Oct 2024 02:00:00 +0200"
     },
     {
         "title": "Mujer de andres Pajares",
@@ -45,6 +45,11 @@
         "pubdate": "Mon, 21 Oct 2024 08:00:00 +0200"
     },
     {
+        "title": "F1 hoy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#F1%20hoy",
+        "pubdate": "Mon, 21 Oct 2024 00:00:00 +0200"
+    },
+    {
         "title": "Hichem Aboud",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Hichem%20Aboud",
         "pubdate": "Mon, 21 Oct 2024 02:00:00 +0200"
@@ -75,14 +80,14 @@
         "pubdate": "Mon, 21 Oct 2024 21:00:00 +0200"
     },
     {
-        "title": "Al Ain  Al Hilal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Al%20Ain%20%20Al%20Hilal",
-        "pubdate": "Mon, 21 Oct 2024 20:00:00 +0200"
-    },
-    {
         "title": "Albacete - Burgos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Albacete%20-%20Burgos",
         "pubdate": "Mon, 21 Oct 2024 21:00:00 +0200"
+    },
+    {
+        "title": "Al Ain  Al Hilal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Al%20Ain%20%20Al%20Hilal",
+        "pubdate": "Mon, 21 Oct 2024 20:00:00 +0200"
     },
     {
         "title": "Sevilla",
@@ -93,10 +98,5 @@
         "title": "Lula da Silva",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Lula%20da%20Silva",
         "pubdate": "Mon, 21 Oct 2024 14:00:00 +0200"
-    },
-    {
-        "title": "Colapinto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Colapinto",
-        "pubdate": "Mon, 21 Oct 2024 10:00:00 +0200"
     }
 ]

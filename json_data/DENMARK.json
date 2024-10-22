@@ -10,11 +10,6 @@
         "pubdate": "Mon, 21 Oct 2024 10:00:00 +0200"
     },
     {
-        "title": "Kamala Harris",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Kamala%20Harris",
-        "pubdate": "Mon, 21 Oct 2024 09:00:00 +0200"
-    },
-    {
         "title": "Margrethe Vestager",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Margrethe%20Vestager",
         "pubdate": "Mon, 21 Oct 2024 08:00:00 +0200"
@@ -28,6 +23,11 @@
         "title": "TikTok",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#TikTok",
         "pubdate": "Mon, 21 Oct 2024 15:00:00 +0200"
+    },
+    {
+        "title": "Kamala Harris",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Kamala%20Harris",
+        "pubdate": "Mon, 21 Oct 2024 09:00:00 +0200"
     },
     {
         "title": "Snake",
@@ -60,6 +60,11 @@
         "pubdate": "Mon, 21 Oct 2024 17:00:00 +0200"
     },
     {
+        "title": "Donald Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Donald%20Trump",
+        "pubdate": "Mon, 21 Oct 2024 13:00:00 +0200"
+    },
+    {
         "title": "Ryan Gosling",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ryan%20Gosling",
         "pubdate": "Mon, 21 Oct 2024 21:00:00 +0200"
@@ -70,8 +75,8 @@
         "pubdate": "Mon, 21 Oct 2024 12:00:00 +0200"
     },
     {
-        "title": "HK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#HK",
+        "title": "Hk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Hk",
         "pubdate": "Mon, 21 Oct 2024 11:00:00 +0200"
     },
     {
@@ -93,10 +98,5 @@
         "title": "Slides",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Slides",
         "pubdate": "Mon, 21 Oct 2024 10:00:00 +0200"
-    },
-    {
-        "title": "MrBeast",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#MrBeast",
-        "pubdate": "Mon, 21 Oct 2024 04:00:00 +0200"
     }
 ]
