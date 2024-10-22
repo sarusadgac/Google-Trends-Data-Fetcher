@@ -10,11 +10,6 @@
         "pubdate": "Tue, 22 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "Crystal Palace",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Crystal%20Palace",
-        "pubdate": "Tue, 22 Oct 2024 00:00:00 +0200"
-    },
-    {
         "title": "Fethullah Gülen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Fethullah%20G%C3%BClen",
         "pubdate": "Mon, 21 Oct 2024 09:00:00 +0200"
@@ -70,14 +65,14 @@
         "pubdate": "Mon, 21 Oct 2024 16:00:00 +0200"
     },
     {
-        "title": "Zeitumstellung Winterzeit",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Zeitumstellung%20Winterzeit",
-        "pubdate": "Mon, 21 Oct 2024 19:00:00 +0200"
-    },
-    {
         "title": "Peter Pilz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Peter%20Pilz",
         "pubdate": "Mon, 21 Oct 2024 16:00:00 +0200"
+    },
+    {
+        "title": "Mike Heiter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Mike%20Heiter",
+        "pubdate": "Mon, 21 Oct 2024 15:00:00 +0200"
     },
     {
         "title": "Donald Trump McDonald's",
@@ -98,5 +93,10 @@
         "title": "Liam Lawson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Liam%20Lawson",
         "pubdate": "Mon, 21 Oct 2024 00:00:00 +0200"
+    },
+    {
+        "title": "Lena Schilling",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Lena%20Schilling",
+        "pubdate": "Mon, 21 Oct 2024 19:00:00 +0200"
     }
 ]

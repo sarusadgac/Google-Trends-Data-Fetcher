@@ -60,6 +60,11 @@
         "pubdate": "Mon, 21 Oct 2024 11:00:00 -0500"
     },
     {
+        "title": "Maria Pia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Maria%20Pia",
+        "pubdate": "Mon, 21 Oct 2024 21:00:00 -0500"
+    },
+    {
         "title": "San Lorenzo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#San%20Lorenzo",
         "pubdate": "Mon, 21 Oct 2024 00:00:00 -0500"
@@ -87,16 +92,11 @@
     {
         "title": "Universitario vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Universitario%20vs",
-        "pubdate": "Sun, 20 Oct 2024 15:00:00 -0500"
+        "pubdate": "Sun, 20 Oct 2024 16:00:00 -0500"
     },
     {
         "title": "Atlético Madrid  Leganés",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Atl%C3%A9tico%20Madrid%20%20Legan%C3%A9s",
         "pubdate": "Sun, 20 Oct 2024 09:00:00 -0500"
-    },
-    {
-        "title": "Paro 23 de octubre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Paro%2023%20de%20octubre",
-        "pubdate": "Sun, 20 Oct 2024 15:00:00 -0500"
     }
 ]
