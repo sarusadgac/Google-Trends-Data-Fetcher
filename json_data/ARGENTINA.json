@@ -5,11 +5,6 @@
         "pubdate": "Tue, 22 Oct 2024 01:00:00 -0300"
     },
     {
-        "title": "Aston Villa  Bolonia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Aston%20Villa%20%20Bolonia",
-        "pubdate": "Tue, 22 Oct 2024 16:00:00 -0300"
-    },
-    {
         "title": "PSG  PSV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#PSG%20%20PSV",
         "pubdate": "Tue, 22 Oct 2024 17:00:00 -0300"
@@ -25,11 +20,6 @@
         "pubdate": "Tue, 22 Oct 2024 17:00:00 -0300"
     },
     {
-        "title": "Brandoni",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Brandoni",
-        "pubdate": "Tue, 22 Oct 2024 10:00:00 -0300"
-    },
-    {
         "title": "Santiago Artemis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Santiago%20Artemis",
         "pubdate": "Tue, 22 Oct 2024 02:00:00 -0300"
@@ -40,9 +30,9 @@
         "pubdate": "Tue, 22 Oct 2024 00:00:00 -0300"
     },
     {
-        "title": "Boca vs Gimnasia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Boca%20vs%20Gimnasia",
-        "pubdate": "Tue, 22 Oct 2024 00:00:00 -0300"
+        "title": "Peñarol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Pe%C3%B1arol",
+        "pubdate": "Tue, 22 Oct 2024 08:00:00 -0300"
     },
     {
         "title": "Milan",
@@ -55,9 +45,9 @@
         "pubdate": "Tue, 22 Oct 2024 14:00:00 -0300"
     },
     {
-        "title": "Peñarol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Pe%C3%B1arol",
-        "pubdate": "Tue, 22 Oct 2024 08:00:00 -0300"
+        "title": "UEFA Champions",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#UEFA%20Champions",
+        "pubdate": "Tue, 22 Oct 2024 17:00:00 -0300"
     },
     {
         "title": "Natalia Oreiro",
@@ -65,14 +55,19 @@
         "pubdate": "Tue, 22 Oct 2024 02:00:00 -0300"
     },
     {
-        "title": "Vacuna dengue",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Vacuna%20dengue",
-        "pubdate": "Tue, 22 Oct 2024 16:00:00 -0300"
+        "title": "Sudamericana",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Sudamericana",
+        "pubdate": "Tue, 22 Oct 2024 07:00:00 -0300"
     },
     {
         "title": "Gaza",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Gaza",
         "pubdate": "Tue, 22 Oct 2024 15:00:00 -0300"
+    },
+    {
+        "title": "Vacuna dengue",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Vacuna%20dengue",
+        "pubdate": "Tue, 22 Oct 2024 16:00:00 -0300"
     },
     {
         "title": "Cuando acecha la maldad",
@@ -85,11 +80,6 @@
         "pubdate": "Tue, 22 Oct 2024 11:00:00 -0300"
     },
     {
-        "title": "Sudamericana",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Sudamericana",
-        "pubdate": "Tue, 22 Oct 2024 07:00:00 -0300"
-    },
-    {
         "title": "Cumpleaños de Milei",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Cumplea%C3%B1os%20de%20Milei",
         "pubdate": "Tue, 22 Oct 2024 15:00:00 -0300"
@@ -97,6 +87,16 @@
     {
         "title": "Escorpio",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Escorpio",
+        "pubdate": "Tue, 22 Oct 2024 14:00:00 -0300"
+    },
+    {
+        "title": "Boca Gimnasia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Boca%20Gimnasia",
+        "pubdate": "Tue, 22 Oct 2024 07:00:00 -0300"
+    },
+    {
+        "title": "Martin Brundle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Martin%20Brundle",
         "pubdate": "Tue, 22 Oct 2024 14:00:00 -0300"
     }
 ]

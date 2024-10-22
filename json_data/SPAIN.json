@@ -1,5 +1,15 @@
 [
     {
+        "title": "Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Champions%20League",
+        "pubdate": "Wed, 23 Oct 2024 01:00:00 +0200"
+    },
+    {
+        "title": "Real Madrid  Dortmund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Real%20Madrid%20%20Dortmund",
+        "pubdate": "Tue, 22 Oct 2024 14:00:00 +0200"
+    },
+    {
         "title": "Girona - Slovan Bratislava",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Girona%20-%20Slovan%20Bratislava",
         "pubdate": "Tue, 22 Oct 2024 20:00:00 +0200"
@@ -15,8 +25,8 @@
         "pubdate": "Tue, 22 Oct 2024 19:00:00 +0200"
     },
     {
-        "title": "PSG  PSV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#PSG%20%20PSV",
+        "title": "PSG - PSV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#PSG%20-%20PSV",
         "pubdate": "Tue, 22 Oct 2024 21:00:00 +0200"
     },
     {
@@ -27,6 +37,11 @@
     {
         "title": "Castellón  Granada",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Castell%C3%B3n%20%20Granada",
+        "pubdate": "Tue, 22 Oct 2024 21:00:00 +0200"
+    },
+    {
+        "title": "Madrid FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Madrid%20FC",
         "pubdate": "Tue, 22 Oct 2024 21:00:00 +0200"
     },
     {
@@ -55,14 +70,14 @@
         "pubdate": "Tue, 22 Oct 2024 22:00:00 +0200"
     },
     {
-        "title": "Gonorrea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Gonorrea",
-        "pubdate": "Tue, 22 Oct 2024 03:00:00 +0200"
-    },
-    {
         "title": "Infanta sofia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Infanta%20sofia",
         "pubdate": "Tue, 22 Oct 2024 00:00:00 +0200"
+    },
+    {
+        "title": "Gonorrea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Gonorrea",
+        "pubdate": "Tue, 22 Oct 2024 03:00:00 +0200"
     },
     {
         "title": "Aston Villa",
@@ -75,28 +90,13 @@
         "pubdate": "Tue, 22 Oct 2024 20:00:00 +0200"
     },
     {
-        "title": "Joker",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Joker",
-        "pubdate": "Tue, 22 Oct 2024 17:00:00 +0200"
-    },
-    {
-        "title": "Joan Manuel Serrat",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Joan%20Manuel%20Serrat",
-        "pubdate": "Tue, 22 Oct 2024 22:00:00 +0200"
-    },
-    {
-        "title": "Mónaco  Estrella Roja",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#M%C3%B3naco%20%20Estrella%20Roja",
-        "pubdate": "Tue, 22 Oct 2024 20:00:00 +0200"
-    },
-    {
         "title": "Milei",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Milei",
         "pubdate": "Tue, 22 Oct 2024 02:00:00 +0200"
     },
     {
-        "title": "Veronica Hidalgo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Veronica%20Hidalgo",
-        "pubdate": "Tue, 22 Oct 2024 21:00:00 +0200"
+        "title": "Joker",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Joker",
+        "pubdate": "Tue, 22 Oct 2024 17:00:00 +0200"
     }
 ]
