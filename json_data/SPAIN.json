@@ -5,11 +5,6 @@
         "pubdate": "Tue, 22 Oct 2024 03:00:00 +0200"
     },
     {
-        "title": "Infanta sofia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Infanta%20sofia",
-        "pubdate": "Tue, 22 Oct 2024 00:00:00 +0200"
-    },
-    {
         "title": "Milei",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Milei",
         "pubdate": "Tue, 22 Oct 2024 02:00:00 +0200"
@@ -43,11 +38,6 @@
         "title": "Entradas Sabina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Entradas%20Sabina",
         "pubdate": "Mon, 21 Oct 2024 12:00:00 +0200"
-    },
-    {
-        "title": "Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Champions%20League",
-        "pubdate": "Mon, 21 Oct 2024 01:00:00 +0200"
     },
     {
         "title": "Ptazeta",
@@ -90,6 +80,11 @@
         "pubdate": "Mon, 21 Oct 2024 01:00:00 +0200"
     },
     {
+        "title": "Valencia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Valencia",
+        "pubdate": "Mon, 21 Oct 2024 23:00:00 +0200"
+    },
+    {
         "title": "Albacete - Burgos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Albacete%20-%20Burgos",
         "pubdate": "Mon, 21 Oct 2024 21:00:00 +0200"
@@ -98,5 +93,10 @@
         "title": "Candela marquez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Candela%20marquez",
         "pubdate": "Mon, 21 Oct 2024 21:00:00 +0200"
+    },
+    {
+        "title": "Lula da Silva",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Lula%20da%20Silva",
+        "pubdate": "Mon, 21 Oct 2024 14:00:00 +0200"
     }
 ]

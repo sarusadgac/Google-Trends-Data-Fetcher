@@ -10,14 +10,14 @@
         "pubdate": "Mon, 21 Oct 2024 00:00:00 -0500"
     },
     {
-        "title": "Alejandro Toledo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Alejandro%20Toledo",
-        "pubdate": "Mon, 21 Oct 2024 15:00:00 -0500"
-    },
-    {
         "title": "Champions League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Champions%20League",
         "pubdate": "Mon, 21 Oct 2024 07:00:00 -0500"
+    },
+    {
+        "title": "Alejandro Toledo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Alejandro%20Toledo",
+        "pubdate": "Mon, 21 Oct 2024 15:00:00 -0500"
     },
     {
         "title": "Nottingham Forest  Crystal Palace",
@@ -30,11 +30,6 @@
         "pubdate": "Mon, 21 Oct 2024 15:00:00 -0500"
     },
     {
-        "title": "Arlette Rujel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Arlette%20Rujel",
-        "pubdate": "Mon, 21 Oct 2024 08:00:00 -0500"
-    },
-    {
         "title": "Copa Libertadores",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Copa%20Libertadores",
         "pubdate": "Mon, 21 Oct 2024 22:00:00 -0500"
@@ -43,11 +38,6 @@
         "title": "Ciro Castillo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Ciro%20Castillo",
         "pubdate": "Mon, 21 Oct 2024 11:00:00 -0500"
-    },
-    {
-        "title": "Barcelona vs Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Barcelona%20vs%20Bayern",
-        "pubdate": "Mon, 21 Oct 2024 09:00:00 -0500"
     },
     {
         "title": "Valencia CF",
@@ -75,6 +65,11 @@
         "pubdate": "Mon, 21 Oct 2024 22:00:00 -0500"
     },
     {
+        "title": "Nottingham Forest vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Nottingham%20Forest%20vs",
+        "pubdate": "Mon, 21 Oct 2024 16:00:00 -0500"
+    },
+    {
         "title": "Colo Colo vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Colo%20Colo%20vs",
         "pubdate": "Mon, 21 Oct 2024 11:00:00 -0500"
@@ -98,5 +93,10 @@
         "title": "Universitario",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Universitario",
         "pubdate": "Sun, 20 Oct 2024 12:00:00 -0500"
+    },
+    {
+        "title": "Universitario vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Universitario%20vs",
+        "pubdate": "Sun, 20 Oct 2024 16:00:00 -0500"
     }
 ]
