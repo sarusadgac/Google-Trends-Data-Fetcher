@@ -10,11 +10,6 @@
         "pubdate": "Tue, 22 Oct 2024 13:00:00 +0800"
     },
     {
-        "title": "UEFA Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#UEFA%20Champions%20League",
-        "pubdate": "Tue, 22 Oct 2024 09:00:00 +0800"
-    },
-    {
         "title": "Clementi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Clementi",
         "pubdate": "Tue, 22 Oct 2024 01:00:00 +0800"
@@ -50,11 +45,6 @@
         "pubdate": "Mon, 21 Oct 2024 20:00:00 +0800"
     },
     {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Barcelona",
-        "pubdate": "Mon, 21 Oct 2024 04:00:00 +0800"
-    },
-    {
         "title": "WNBA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#WNBA",
         "pubdate": "Mon, 21 Oct 2024 11:00:00 +0800"
@@ -63,11 +53,6 @@
         "title": "Liverpool FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Liverpool%20FC",
         "pubdate": "Mon, 21 Oct 2024 02:00:00 +0800"
-    },
-    {
-        "title": "Dodgers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Dodgers",
-        "pubdate": "Mon, 21 Oct 2024 09:00:00 +0800"
     },
     {
         "title": "US election",
@@ -98,5 +83,20 @@
         "title": "Mezzanine floor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Mezzanine%20floor",
         "pubdate": "Sun, 20 Oct 2024 18:00:00 +0800"
+    },
+    {
+        "title": "Premier League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Premier%20League",
+        "pubdate": "Sat, 19 Oct 2024 19:00:00 +0800"
+    },
+    {
+        "title": "F1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#F1",
+        "pubdate": "Sat, 19 Oct 2024 02:00:00 +0800"
+    },
+    {
+        "title": "Norwood Grand",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Norwood%20Grand",
+        "pubdate": "Sat, 19 Oct 2024 16:00:00 +0800"
     }
 ]

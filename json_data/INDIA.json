@@ -1,5 +1,10 @@
 [
     {
+        "title": "Siddique",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Siddique",
+        "pubdate": "Wed, 23 Oct 2024 00:30:00 +0530"
+    },
+    {
         "title": "Lidia Thorpe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Lidia%20Thorpe",
         "pubdate": "Tue, 22 Oct 2024 07:30:00 +0530"
@@ -10,11 +15,6 @@
         "pubdate": "Tue, 22 Oct 2024 17:30:00 +0530"
     },
     {
-        "title": "BRICS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#BRICS",
-        "pubdate": "Tue, 22 Oct 2024 13:30:00 +0530"
-    },
-    {
         "title": "Prithvi Shaw",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Prithvi%20Shaw",
         "pubdate": "Tue, 22 Oct 2024 14:30:00 +0530"
@@ -22,7 +22,7 @@
     {
         "title": "Share Market today",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Share%20Market%20today",
-        "pubdate": "Tue, 22 Oct 2024 21:30:00 +0530"
+        "pubdate": "Tue, 22 Oct 2024 20:30:00 +0530"
     },
     {
         "title": "Indian airlines bomb threats",
@@ -43,11 +43,6 @@
         "title": "Godavari Biorefineries IPO",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Godavari%20Biorefineries%20IPO",
         "pubdate": "Tue, 22 Oct 2024 10:30:00 +0530"
-    },
-    {
-        "title": "Stock market today",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Stock%20market%20today",
-        "pubdate": "Tue, 22 Oct 2024 20:30:00 +0530"
     },
     {
         "title": "Bangladesh vs South Africa",
@@ -75,6 +70,16 @@
         "pubdate": "Mon, 21 Oct 2024 22:30:00 +0530"
     },
     {
+        "title": "Real Madrid vs Dortmund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Real%20Madrid%20vs%20Dortmund",
+        "pubdate": "Mon, 21 Oct 2024 19:30:00 +0530"
+    },
+    {
+        "title": "BRICS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#BRICS",
+        "pubdate": "Mon, 21 Oct 2024 15:30:00 +0530"
+    },
+    {
         "title": "UEFA Champions League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#UEFA%20Champions%20League",
         "pubdate": "Mon, 21 Oct 2024 14:30:00 +0530"
@@ -83,11 +88,6 @@
         "title": "Mohammed Shami",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Mohammed%20Shami",
         "pubdate": "Mon, 21 Oct 2024 16:30:00 +0530"
-    },
-    {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Barcelona",
-        "pubdate": "Mon, 21 Oct 2024 01:30:00 +0530"
     },
     {
         "title": "Deepak Builders and Engineers IPO GMP",
