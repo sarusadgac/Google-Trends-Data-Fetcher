@@ -1,5 +1,10 @@
 [
     {
+        "title": "Jacob Mark",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jacob%20Mark",
+        "pubdate": "Tue, 22 Oct 2024 09:00:00 +0200"
+    },
+    {
         "title": "Docs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Docs",
         "pubdate": "Mon, 21 Oct 2024 09:00:00 +0200"
@@ -80,8 +85,8 @@
         "pubdate": "Mon, 21 Oct 2024 12:00:00 +0200"
     },
     {
-        "title": "Hk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Hk",
+        "title": "HK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#HK",
         "pubdate": "Mon, 21 Oct 2024 11:00:00 +0200"
     },
     {
@@ -93,10 +98,5 @@
         "title": "AI",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#AI",
         "pubdate": "Mon, 21 Oct 2024 15:00:00 +0200"
-    },
-    {
-        "title": "Slides",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Slides",
-        "pubdate": "Mon, 21 Oct 2024 10:00:00 +0200"
     }
 ]
