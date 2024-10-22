@@ -15,11 +15,6 @@
         "pubdate": "Mon, 21 Oct 2024 12:00:00 +0800"
     },
     {
-        "title": "SSPA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#SSPA",
-        "pubdate": "Mon, 21 Oct 2024 09:00:00 +0800"
-    },
-    {
         "title": "Al Hilal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Al%20Hilal",
         "pubdate": "Mon, 21 Oct 2024 08:00:00 +0800"
@@ -98,5 +93,10 @@
         "title": "Prabowo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Prabowo",
         "pubdate": "Sun, 20 Oct 2024 13:00:00 +0800"
+    },
+    {
+        "title": "Fantasy Premier League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Fantasy%20Premier%20League",
+        "pubdate": "Sun, 20 Oct 2024 01:00:00 +0800"
     }
 ]
