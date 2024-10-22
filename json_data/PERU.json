@@ -30,14 +30,19 @@
         "pubdate": "Mon, 21 Oct 2024 08:00:00 -0500"
     },
     {
+        "title": "Copa Libertadores",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Copa%20Libertadores",
+        "pubdate": "Mon, 21 Oct 2024 22:00:00 -0500"
+    },
+    {
+        "title": "Ciro Castillo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Ciro%20Castillo",
+        "pubdate": "Mon, 21 Oct 2024 11:00:00 -0500"
+    },
+    {
         "title": "Barcelona vs Bayern",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Barcelona%20vs%20Bayern",
         "pubdate": "Mon, 21 Oct 2024 09:00:00 -0500"
-    },
-    {
-        "title": "Colo Colo vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Colo%20Colo%20vs",
-        "pubdate": "Mon, 21 Oct 2024 11:00:00 -0500"
     },
     {
         "title": "Paul Di'Anno",
@@ -45,14 +50,24 @@
         "pubdate": "Mon, 21 Oct 2024 17:00:00 -0500"
     },
     {
+        "title": "Al Nassr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Al%20Nassr",
+        "pubdate": "Mon, 21 Oct 2024 22:00:00 -0500"
+    },
+    {
+        "title": "Colo Colo vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Colo%20Colo%20vs",
+        "pubdate": "Mon, 21 Oct 2024 11:00:00 -0500"
+    },
+    {
         "title": "San Lorenzo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#San%20Lorenzo",
         "pubdate": "Mon, 21 Oct 2024 00:00:00 -0500"
     },
     {
-        "title": "Maria pia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Maria%20pia",
-        "pubdate": "Mon, 21 Oct 2024 21:00:00 -0500"
+        "title": "Alanis Morissette",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Alanis%20Morissette",
+        "pubdate": "Mon, 21 Oct 2024 22:00:00 -0500"
     },
     {
         "title": "Picus",
@@ -65,6 +80,11 @@
         "pubdate": "Mon, 21 Oct 2024 07:00:00 -0500"
     },
     {
+        "title": "Universitario",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Universitario",
+        "pubdate": "Sun, 20 Oct 2024 12:00:00 -0500"
+    },
+    {
         "title": "Universitario vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Universitario%20vs",
         "pubdate": "Sun, 20 Oct 2024 15:00:00 -0500"
@@ -75,28 +95,8 @@
         "pubdate": "Sun, 20 Oct 2024 09:00:00 -0500"
     },
     {
-        "title": "Cristal vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Cristal%20vs",
-        "pubdate": "Sun, 20 Oct 2024 12:00:00 -0500"
-    },
-    {
         "title": "Paro 23 de octubre",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Paro%2023%20de%20octubre",
         "pubdate": "Sun, 20 Oct 2024 15:00:00 -0500"
-    },
-    {
-        "title": "Roma - Inter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Roma%20-%20Inter",
-        "pubdate": "Sun, 20 Oct 2024 14:00:00 -0500"
-    },
-    {
-        "title": "Pumas  Atl San Luis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Pumas%20%20Atl%20San%20Luis",
-        "pubdate": "Sun, 20 Oct 2024 14:00:00 -0500"
-    },
-    {
-        "title": "Cagliari - Torino",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Cagliari%20-%20Torino",
-        "pubdate": "Sun, 20 Oct 2024 12:00:00 -0500"
     }
 ]
