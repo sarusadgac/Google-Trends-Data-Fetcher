@@ -10,11 +10,6 @@
         "pubdate": "Mon, 21 Oct 2024 15:00:00 -0500"
     },
     {
-        "title": "Valencia CF  UD Las Palmas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Valencia%20CF%20%20UD%20Las%20Palmas",
-        "pubdate": "Mon, 21 Oct 2024 10:00:00 -0500"
-    },
-    {
         "title": "Champions League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Champions%20League",
         "pubdate": "Mon, 21 Oct 2024 07:00:00 -0500"
@@ -23,6 +18,16 @@
         "title": "Nottingham Forest  Crystal Palace",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Nottingham%20Forest%20%20Crystal%20Palace",
         "pubdate": "Mon, 21 Oct 2024 14:00:00 -0500"
+    },
+    {
+        "title": "Valencia CF  UD Las Palmas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Valencia%20CF%20%20UD%20Las%20Palmas",
+        "pubdate": "Mon, 21 Oct 2024 15:00:00 -0500"
+    },
+    {
+        "title": "Maria pia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Maria%20pia",
+        "pubdate": "Mon, 21 Oct 2024 21:00:00 -0500"
     },
     {
         "title": "Arlette Rujel",
@@ -60,9 +65,9 @@
         "pubdate": "Mon, 21 Oct 2024 11:00:00 -0500"
     },
     {
-        "title": "Maria Pia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Maria%20Pia",
-        "pubdate": "Mon, 21 Oct 2024 21:00:00 -0500"
+        "title": "Alanis Morissette",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Alanis%20Morissette",
+        "pubdate": "Mon, 21 Oct 2024 22:00:00 -0500"
     },
     {
         "title": "San Lorenzo",
@@ -70,9 +75,9 @@
         "pubdate": "Mon, 21 Oct 2024 00:00:00 -0500"
     },
     {
-        "title": "Alanis Morissette",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Alanis%20Morissette",
-        "pubdate": "Mon, 21 Oct 2024 22:00:00 -0500"
+        "title": "Champions League 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Champions%20League%202024",
+        "pubdate": "Mon, 21 Oct 2024 23:00:00 -0500"
     },
     {
         "title": "Picus",
@@ -93,10 +98,5 @@
         "title": "Universitario vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Universitario%20vs",
         "pubdate": "Sun, 20 Oct 2024 16:00:00 -0500"
-    },
-    {
-        "title": "Atlético Madrid  Leganés",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Atl%C3%A9tico%20Madrid%20%20Legan%C3%A9s",
-        "pubdate": "Sun, 20 Oct 2024 09:00:00 -0500"
     }
 ]

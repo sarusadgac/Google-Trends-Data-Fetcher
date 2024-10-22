@@ -50,11 +50,6 @@
         "pubdate": "Mon, 21 Oct 2024 22:00:00 +0100"
     },
     {
-        "title": "Victor Boniface car accident",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Victor%20Boniface%20car%20accident",
-        "pubdate": "Mon, 21 Oct 2024 09:00:00 +0100"
-    },
-    {
         "title": "Toke Makinwa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Toke%20Makinwa",
         "pubdate": "Mon, 21 Oct 2024 07:00:00 +0100"
@@ -98,5 +93,10 @@
         "title": "Francis Ngannou",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Francis%20Ngannou",
         "pubdate": "Sun, 20 Oct 2024 01:00:00 +0100"
+    },
+    {
+        "title": "Napoli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Napoli",
+        "pubdate": "Sun, 20 Oct 2024 10:00:00 +0100"
     }
 ]
