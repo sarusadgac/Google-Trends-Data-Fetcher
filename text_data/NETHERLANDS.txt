@@ -1,11 +1,8 @@
-PSV
-Real Madrid
 Mpox
 FC Emmen
 Vitesse
 Iris Hond
-Champions League
-Sonja Barend
+PSV
 Cambuur
 Ebusco
 Helmond Sport
@@ -18,3 +15,6 @@ PSV
 Max Verstappen
 FC Twente
 N.E.C
+Eredivisie
+Vitesse
+Streamers
