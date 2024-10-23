@@ -15,6 +15,11 @@
         "pubdate": "Wed, 23 Oct 2024 01:00:00 +0100"
     },
     {
+        "title": "Maniche",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Maniche",
+        "pubdate": "Wed, 23 Oct 2024 07:00:00 +0100"
+    },
+    {
         "title": "Linkin Park",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Linkin%20Park",
         "pubdate": "Wed, 23 Oct 2024 00:00:00 +0100"
@@ -93,10 +98,5 @@
         "title": "Juventus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Juventus",
         "pubdate": "Tue, 22 Oct 2024 21:00:00 +0100"
-    },
-    {
-        "title": "Totti",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Totti",
-        "pubdate": "Tue, 22 Oct 2024 18:00:00 +0100"
     }
 ]

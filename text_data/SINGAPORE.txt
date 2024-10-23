@@ -1,9 +1,7 @@
 NBA
 Arsenal vs Shakhtar Donetsk
-Lakers vs Timberwolves
 Mike Jeffries
 Aston Villa
-Sembawang North
 Lee Hsien Yang
 Swordfish
 Al-Hilal
@@ -18,3 +16,5 @@ Arsenal
 Man City
 Prabowo
 Mezzanine floor
+Premier League
+F1

@@ -5,6 +5,11 @@
         "pubdate": "Wed, 23 Oct 2024 01:00:00 +0200"
     },
     {
+        "title": "NBA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#NBA",
+        "pubdate": "Wed, 23 Oct 2024 08:00:00 +0200"
+    },
+    {
         "title": "River",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#River",
         "pubdate": "Wed, 23 Oct 2024 05:00:00 +0200"
@@ -15,9 +20,19 @@
         "pubdate": "Wed, 23 Oct 2024 02:00:00 +0200"
     },
     {
+        "title": "Lakers  Timberwolves",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Lakers%20%20Timberwolves",
+        "pubdate": "Wed, 23 Oct 2024 08:00:00 +0200"
+    },
+    {
         "title": "Michael Newman",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Michael%20Newman",
         "pubdate": "Wed, 23 Oct 2024 07:00:00 +0200"
+    },
+    {
+        "title": "Barca Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Barca%20Bayern",
+        "pubdate": "Wed, 23 Oct 2024 08:00:00 +0200"
     },
     {
         "title": "Real Madrid  Dortmund",
@@ -28,11 +43,6 @@
         "title": "Girona - Slovan Bratislava",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Girona%20-%20Slovan%20Bratislava",
         "pubdate": "Tue, 22 Oct 2024 20:00:00 +0200"
-    },
-    {
-        "title": "Ceciarmy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ceciarmy",
-        "pubdate": "Tue, 22 Oct 2024 22:00:00 +0200"
     },
     {
         "title": "Madrid FC",
@@ -55,24 +65,24 @@
         "pubdate": "Tue, 22 Oct 2024 19:00:00 +0200"
     },
     {
-        "title": "Sonya Yoncheva",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Sonya%20Yoncheva",
-        "pubdate": "Tue, 22 Oct 2024 23:00:00 +0200"
-    },
-    {
         "title": "Castellón - Granada",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Castell%C3%B3n%20-%20Granada",
         "pubdate": "Tue, 22 Oct 2024 21:00:00 +0200"
     },
     {
+        "title": "Sonya Yoncheva",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Sonya%20Yoncheva",
+        "pubdate": "Tue, 22 Oct 2024 23:00:00 +0200"
+    },
+    {
+        "title": "Ceciarmy cara",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ceciarmy%20cara",
+        "pubdate": "Tue, 22 Oct 2024 23:00:00 +0200"
+    },
+    {
         "title": "Niño desaparecido en Almería",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ni%C3%B1o%20desaparecido%20en%20Almer%C3%ADa",
         "pubdate": "Tue, 22 Oct 2024 15:00:00 +0200"
-    },
-    {
-        "title": "Milan  Club Brujas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Milan%20%20Club%20Brujas",
-        "pubdate": "Tue, 22 Oct 2024 19:00:00 +0200"
     },
     {
         "title": "Juventus  Stuttgart",
@@ -87,16 +97,6 @@
     {
         "title": "Arsenal - Shakhtar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Arsenal%20-%20Shakhtar",
-        "pubdate": "Tue, 22 Oct 2024 22:00:00 +0200"
-    },
-    {
-        "title": "Princesa Leonor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Princesa%20Leonor",
-        "pubdate": "Tue, 22 Oct 2024 00:00:00 +0200"
-    },
-    {
-        "title": "Nuri Sahin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Nuri%20Sahin",
         "pubdate": "Tue, 22 Oct 2024 22:00:00 +0200"
     }
 ]
