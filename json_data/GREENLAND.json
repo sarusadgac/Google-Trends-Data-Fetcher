@@ -1,38 +1,13 @@
 [
     {
         "title": "NBA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#NBA",
-        "pubdate": "Wed, 23 Oct 2024 14:00:00 +0800"
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#NBA",
+        "pubdate": "Tue, 22 Oct 2024 15:00:00 -0700"
     },
     {
-        "title": "Celtics",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Celtics",
-        "pubdate": "Tue, 22 Oct 2024 10:00:00 -0700"
-    },
-    {
-        "title": "東京メトロ 株価",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%20%E6%A0%AA%E4%BE%A1",
-        "pubdate": "Wed, 23 Oct 2024 10:00:00 +0900"
-    },
-    {
-        "title": "Classement Ligue des champions",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Classement%20Ligue%20des%20champions",
-        "pubdate": "Wed, 23 Oct 2024 00:00:00 +0200"
-    },
-    {
-        "title": "Южной Кореи",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%AE%D0%B6%D0%BD%D0%BE%D0%B9%20%D0%9A%D0%BE%D1%80%D0%B5%D0%B8",
-        "pubdate": "Wed, 23 Oct 2024 05:00:00 +0300"
-    },
-    {
-        "title": "Arsenal vs Shakhtar Donetsk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Arsenal%20vs%20Shakhtar%20Donetsk",
-        "pubdate": "Wed, 23 Oct 2024 00:30:00 +0530"
-    },
-    {
-        "title": "Juventus – VfB Stuttgart",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Juventus%20%E2%80%93%20VfB%20Stuttgart",
-        "pubdate": "Tue, 22 Oct 2024 21:00:00 +0200"
+        "title": "孫明揚",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%AD%AB%E6%98%8E%E6%8F%9A",
+        "pubdate": "Wed, 23 Oct 2024 08:00:00 +0800"
     },
     {
         "title": "Victoria Taylor",
@@ -40,34 +15,44 @@
         "pubdate": "Wed, 23 Oct 2024 03:00:00 +0100"
     },
     {
+        "title": "Classement Ligue des champions",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Classement%20Ligue%20des%20champions",
+        "pubdate": "Wed, 23 Oct 2024 00:00:00 +0200"
+    },
+    {
+        "title": "Arsenal vs Shakhtar Donetsk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Arsenal%20vs%20Shakhtar%20Donetsk",
+        "pubdate": "Wed, 23 Oct 2024 00:30:00 +0530"
+    },
+    {
+        "title": "東京メトロ 株価",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%20%E6%A0%AA%E4%BE%A1",
+        "pubdate": "Wed, 23 Oct 2024 10:00:00 +0900"
+    },
+    {
+        "title": "Juventus – VfB Stuttgart",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Juventus%20%E2%80%93%20VfB%20Stuttgart",
+        "pubdate": "Tue, 22 Oct 2024 21:00:00 +0200"
+    },
+    {
+        "title": "Южной Кореи",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%AE%D0%B6%D0%BD%D0%BE%D0%B9%20%D0%9A%D0%BE%D1%80%D0%B5%D0%B8",
+        "pubdate": "Wed, 23 Oct 2024 05:00:00 +0300"
+    },
+    {
+        "title": "Lakers vs Timberwolves",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Lakers%20vs%20Timberwolves",
+        "pubdate": "Wed, 23 Oct 2024 08:00:00 +0300"
+    },
+    {
+        "title": "Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Champions%20League",
+        "pubdate": "Wed, 23 Oct 2024 01:00:00 +0200"
+    },
+    {
         "title": "Europa League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Europa%20League",
         "pubdate": "Wed, 23 Oct 2024 00:00:00 +0200"
-    },
-    {
-        "title": "Barbara Sarafian",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Barbara%20Sarafian",
-        "pubdate": "Wed, 23 Oct 2024 09:00:00 +0200"
-    },
-    {
-        "title": "Borderline",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Borderline",
-        "pubdate": "Wed, 23 Oct 2024 09:00:00 +0200"
-    },
-    {
-        "title": "Sparta Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sparta%20Manchester%20City",
-        "pubdate": "Wed, 23 Oct 2024 00:00:00 +0200"
-    },
-    {
-        "title": "Mike Jeffries",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Mike%20Jeffries",
-        "pubdate": "Wed, 23 Oct 2024 10:00:00 +0800"
-    },
-    {
-        "title": "Travis Scott",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Travis%20Scott",
-        "pubdate": "Wed, 23 Oct 2024 10:00:00 +1100"
     },
     {
         "title": "เรอัลมาดริด พบ ดอร์ทมุนด์",
@@ -75,9 +60,9 @@
         "pubdate": "Wed, 23 Oct 2024 02:00:00 +0700"
     },
     {
-        "title": "Lakers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Lakers",
-        "pubdate": "Wed, 23 Oct 2024 01:00:00 -0300"
+        "title": "율희",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9C%A8%ED%9D%AC",
+        "pubdate": "Wed, 23 Oct 2024 01:00:00 +0900"
     },
     {
         "title": "Aston Villa  Bolonia",
@@ -85,9 +70,9 @@
         "pubdate": "Tue, 22 Oct 2024 14:00:00 -0500"
     },
     {
-        "title": "Robert Sheehan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Robert%20Sheehan",
-        "pubdate": "Wed, 23 Oct 2024 01:00:00 +0100"
+        "title": "Sparta Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sparta%20Manchester%20City",
+        "pubdate": "Wed, 23 Oct 2024 00:00:00 +0200"
     },
     {
         "title": "台灣大賽",
@@ -95,8 +80,23 @@
         "pubdate": "Wed, 23 Oct 2024 13:00:00 +0800"
     },
     {
-        "title": "Lakers vs Timberwolves",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Lakers%20vs%20Timberwolves",
-        "pubdate": "Wed, 23 Oct 2024 07:00:00 +0200"
+        "title": "Winnipeg Jets",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Winnipeg%20Jets",
+        "pubdate": "Wed, 23 Oct 2024 00:00:00 -0400"
+    },
+    {
+        "title": "Ellen ten Damme",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ellen%20ten%20Damme",
+        "pubdate": "Wed, 23 Oct 2024 00:00:00 +0200"
+    },
+    {
+        "title": "Arsenal đấu với Shakhtar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Arsenal%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Shakhtar",
+        "pubdate": "Wed, 23 Oct 2024 02:00:00 +0700"
+    },
+    {
+        "title": "Vinicius",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Vinicius",
+        "pubdate": "Wed, 23 Oct 2024 08:00:00 +0300"
     }
 ]
