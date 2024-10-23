@@ -1,6 +1,5 @@
 NBA
 UEFA Champions League
-Real Madrid
 Champions League
 Uniqlo
 Mike Van Wyck
@@ -9,9 +8,10 @@ Korea
 Kazan
 London
 Giulia Manfrini
+UCL
 District 9
-AITTAKUMPU
 BOLT
+AITTAKUMPU
 Stanley Tucci
 NAS
 Dior

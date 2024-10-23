@@ -35,14 +35,14 @@
         "pubdate": "Wed, 23 Oct 2024 13:00:00 +0200"
     },
     {
-        "title": "Michael Newman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Michael%20Newman",
-        "pubdate": "Wed, 23 Oct 2024 07:00:00 +0200"
-    },
-    {
         "title": "Abogados Cristianos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Abogados%20Cristianos",
         "pubdate": "Wed, 23 Oct 2024 09:00:00 +0200"
+    },
+    {
+        "title": "Michael Newman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Michael%20Newman",
+        "pubdate": "Wed, 23 Oct 2024 07:00:00 +0200"
     },
     {
         "title": "Lakers  Timberwolves",
@@ -50,14 +50,19 @@
         "pubdate": "Wed, 23 Oct 2024 08:00:00 +0200"
     },
     {
+        "title": "Balon de Oro 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Balon%20de%20Oro%202024",
+        "pubdate": "Wed, 23 Oct 2024 01:00:00 +0200"
+    },
+    {
         "title": "Europa League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Europa%20League",
         "pubdate": "Wed, 23 Oct 2024 10:00:00 +0200"
     },
     {
-        "title": "Balon de Oro 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Balon%20de%20Oro%202024",
-        "pubdate": "Wed, 23 Oct 2024 01:00:00 +0200"
+        "title": "Queque",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Queque",
+        "pubdate": "Wed, 23 Oct 2024 13:00:00 +0200"
     },
     {
         "title": "Itziar Miranda",
@@ -75,11 +80,6 @@
         "pubdate": "Wed, 23 Oct 2024 14:00:00 +0200"
     },
     {
-        "title": "Juan galan torero",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Juan%20galan%20torero",
-        "pubdate": "Wed, 23 Oct 2024 01:00:00 +0200"
-    },
-    {
         "title": "Real Madrid  Dortmund",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Real%20Madrid%20%20Dortmund",
         "pubdate": "Tue, 22 Oct 2024 14:00:00 +0200"
@@ -90,9 +90,9 @@
         "pubdate": "Tue, 22 Oct 2024 20:00:00 +0200"
     },
     {
-        "title": "Ceciarmy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ceciarmy",
-        "pubdate": "Tue, 22 Oct 2024 22:00:00 +0200"
+        "title": "Sonya Yoncheva",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Sonya%20Yoncheva",
+        "pubdate": "Tue, 22 Oct 2024 23:00:00 +0200"
     },
     {
         "title": "Madrid",
