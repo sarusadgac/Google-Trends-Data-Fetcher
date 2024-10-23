@@ -5,6 +5,11 @@
         "pubdate": "Wed, 23 Oct 2024 00:00:00 +0100"
     },
     {
+        "title": "Uefa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Uefa",
+        "pubdate": "Wed, 23 Oct 2024 01:00:00 +0100"
+    },
+    {
         "title": "Arsenal vs Shakhtar Donetsk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Arsenal%20vs%20Shakhtar%20Donetsk",
         "pubdate": "Tue, 22 Oct 2024 15:00:00 +0100"
@@ -15,14 +20,14 @@
         "pubdate": "Tue, 22 Oct 2024 19:00:00 +0100"
     },
     {
-        "title": "Milan vs Club Brugge",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Milan%20vs%20Club%20Brugge",
-        "pubdate": "Tue, 22 Oct 2024 16:00:00 +0100"
-    },
-    {
         "title": "Aston Villa vs Bologna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Aston%20Villa%20vs%20Bologna",
         "pubdate": "Tue, 22 Oct 2024 17:00:00 +0100"
+    },
+    {
+        "title": "Milan vs Club Brugge",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Milan%20vs%20Club%20Brugge",
+        "pubdate": "Tue, 22 Oct 2024 16:00:00 +0100"
     },
     {
         "title": "Juventus",
@@ -35,8 +40,13 @@
         "pubdate": "Tue, 22 Oct 2024 02:00:00 +0100"
     },
     {
-        "title": "Al Nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Al%20Nassr",
+        "title": "Champions League table",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Champions%20League%20table",
+        "pubdate": "Tue, 22 Oct 2024 23:00:00 +0100"
+    },
+    {
+        "title": "Al-Nassr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Al-Nassr",
         "pubdate": "Tue, 22 Oct 2024 17:00:00 +0100"
     },
     {
@@ -75,9 +85,9 @@
         "pubdate": "Tue, 22 Oct 2024 17:00:00 +0100"
     },
     {
-        "title": "Monaco vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Monaco%20vs",
-        "pubdate": "Tue, 22 Oct 2024 20:00:00 +0100"
+        "title": "NBA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#NBA",
+        "pubdate": "Tue, 22 Oct 2024 23:00:00 +0100"
     },
     {
         "title": "Farouk Lawan",
@@ -85,18 +95,8 @@
         "pubdate": "Tue, 22 Oct 2024 18:00:00 +0100"
     },
     {
-        "title": "NBA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#NBA",
-        "pubdate": "Tue, 22 Oct 2024 23:00:00 +0100"
-    },
-    {
-        "title": "Barcelona vs Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Barcelona%20vs%20Bayern",
+        "title": "Sporting",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Sporting",
         "pubdate": "Tue, 22 Oct 2024 22:00:00 +0100"
-    },
-    {
-        "title": "Enter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Enter",
-        "pubdate": "Tue, 22 Oct 2024 16:00:00 +0100"
     }
 ]

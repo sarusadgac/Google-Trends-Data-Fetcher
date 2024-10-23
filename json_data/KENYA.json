@@ -10,11 +10,6 @@
         "pubdate": "Wed, 23 Oct 2024 00:00:00 +0300"
     },
     {
-        "title": "Leeds United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Leeds%20United",
-        "pubdate": "Wed, 23 Oct 2024 00:00:00 +0300"
-    },
-    {
         "title": "Forest Green",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Forest%20Green",
         "pubdate": "Wed, 23 Oct 2024 00:00:00 +0300"
@@ -45,11 +40,6 @@
         "pubdate": "Tue, 22 Oct 2024 22:00:00 +0300"
     },
     {
-        "title": "UCL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#UCL",
-        "pubdate": "Tue, 22 Oct 2024 10:00:00 +0300"
-    },
-    {
         "title": "Arsenal f.c.",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Arsenal%20f.c.",
         "pubdate": "Tue, 22 Oct 2024 23:00:00 +0300"
@@ -75,6 +65,11 @@
         "pubdate": "Tue, 22 Oct 2024 10:00:00 +0300"
     },
     {
+        "title": "Champions League table",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Champions%20League%20table",
+        "pubdate": "Tue, 22 Oct 2024 23:00:00 +0300"
+    },
+    {
         "title": "Uefa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Uefa",
         "pubdate": "Tue, 22 Oct 2024 20:00:00 +0300"
@@ -90,13 +85,18 @@
         "pubdate": "Tue, 22 Oct 2024 21:00:00 +0300"
     },
     {
-        "title": "Gachagua case",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Gachagua%20case",
-        "pubdate": "Tue, 22 Oct 2024 23:00:00 +0300"
-    },
-    {
         "title": "NBA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#NBA",
         "pubdate": "Tue, 22 Oct 2024 23:00:00 +0300"
+    },
+    {
+        "title": "Monaco",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Monaco",
+        "pubdate": "Tue, 22 Oct 2024 22:00:00 +0300"
+    },
+    {
+        "title": "60 Minutes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#60%20Minutes",
+        "pubdate": "Tue, 22 Oct 2024 17:00:00 +0300"
     }
 ]

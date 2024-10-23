@@ -10,6 +10,11 @@
         "pubdate": "Tue, 22 Oct 2024 11:00:00 -0600"
     },
     {
+        "title": "Santos  Pachuca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Santos%20%20Pachuca",
+        "pubdate": "Tue, 22 Oct 2024 18:00:00 -0600"
+    },
+    {
         "title": "Juventus  Stuttgart",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Juventus%20%20Stuttgart",
         "pubdate": "Tue, 22 Oct 2024 13:00:00 -0600"
@@ -18,6 +23,11 @@
         "title": "Arsenal - Shakhtar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Arsenal%20-%20Shakhtar",
         "pubdate": "Tue, 22 Oct 2024 13:00:00 -0600"
+    },
+    {
+        "title": "NBA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#NBA",
+        "pubdate": "Tue, 22 Oct 2024 18:00:00 -0600"
     },
     {
         "title": "Dia del medico",
@@ -30,14 +40,19 @@
         "pubdate": "Tue, 22 Oct 2024 14:00:00 -0600"
     },
     {
-        "title": "UEFA Champions",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#UEFA%20Champions",
-        "pubdate": "Tue, 22 Oct 2024 10:00:00 -0600"
+        "title": "Tigres vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Tigres%20vs",
+        "pubdate": "Tue, 22 Oct 2024 17:00:00 -0600"
     },
     {
         "title": "Girona - Slovan Bratislava",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Girona%20-%20Slovan%20Bratislava",
         "pubdate": "Tue, 22 Oct 2024 15:00:00 -0600"
+    },
+    {
+        "title": "Atlético Mineiro  River Plate",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Atl%C3%A9tico%20Mineiro%20%20River%20Plate",
+        "pubdate": "Tue, 22 Oct 2024 19:00:00 -0600"
     },
     {
         "title": "Mónaco  Estrella Roja",
@@ -50,9 +65,9 @@
         "pubdate": "Tue, 22 Oct 2024 13:00:00 -0600"
     },
     {
-        "title": "MADRID",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#MADRID",
-        "pubdate": "Tue, 22 Oct 2024 15:00:00 -0600"
+        "title": "Toluca vs Puebla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Toluca%20vs%20Puebla",
+        "pubdate": "Tue, 22 Oct 2024 16:00:00 -0600"
     },
     {
         "title": "Martes de Frescura 22 de octubre",
@@ -65,38 +80,23 @@
         "pubdate": "Tue, 22 Oct 2024 10:00:00 -0600"
     },
     {
-        "title": "Tigres vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Tigres%20vs",
-        "pubdate": "Tue, 22 Oct 2024 17:00:00 -0600"
-    },
-    {
-        "title": "Ernestina Sodi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Ernestina%20Sodi",
-        "pubdate": "Tue, 22 Oct 2024 10:00:00 -0600"
-    },
-    {
         "title": "Alejandro Toledo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Alejandro%20Toledo",
         "pubdate": "Tue, 22 Oct 2024 14:00:00 -0600"
     },
     {
-        "title": "Huracan Kristy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Huracan%20Kristy",
-        "pubdate": "Tue, 22 Oct 2024 17:00:00 -0600"
+        "title": "Rey Carlos III",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Rey%20Carlos%20III",
+        "pubdate": "Tue, 22 Oct 2024 19:00:00 -0600"
     },
     {
-        "title": "Toluca vs Puebla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Toluca%20vs%20Puebla",
-        "pubdate": "Tue, 22 Oct 2024 16:00:00 -0600"
+        "title": "Wombat",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Wombat",
+        "pubdate": "Tue, 22 Oct 2024 18:00:00 -0600"
     },
     {
         "title": "Cocaina rosa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Cocaina%20rosa",
         "pubdate": "Tue, 22 Oct 2024 14:00:00 -0600"
-    },
-    {
-        "title": "Real Madrid  Dortmund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Real%20Madrid%20%20Dortmund",
-        "pubdate": "Mon, 21 Oct 2024 20:00:00 -0600"
     }
 ]

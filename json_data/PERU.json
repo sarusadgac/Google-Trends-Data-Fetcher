@@ -5,14 +5,14 @@
         "pubdate": "Tue, 22 Oct 2024 14:00:00 -0500"
     },
     {
+        "title": "Liga 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Liga%201",
+        "pubdate": "Tue, 22 Oct 2024 19:00:00 -0500"
+    },
+    {
         "title": "PSG - PSV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#PSG%20-%20PSV",
         "pubdate": "Tue, 22 Oct 2024 11:00:00 -0500"
-    },
-    {
-        "title": "Milan  Club Brujas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Milan%20%20Club%20Brujas",
-        "pubdate": "Tue, 22 Oct 2024 07:00:00 -0500"
     },
     {
         "title": "Juventus vs",
@@ -30,6 +30,11 @@
         "pubdate": "Tue, 22 Oct 2024 13:00:00 -0500"
     },
     {
+        "title": "Milan vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Milan%20vs",
+        "pubdate": "Tue, 22 Oct 2024 07:00:00 -0500"
+    },
+    {
         "title": "Aston Villa vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Aston%20Villa%20vs",
         "pubdate": "Tue, 22 Oct 2024 08:00:00 -0500"
@@ -38,6 +43,11 @@
         "title": "Girona vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Girona%20vs",
         "pubdate": "Tue, 22 Oct 2024 12:00:00 -0500"
+    },
+    {
+        "title": "Melgar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Melgar",
+        "pubdate": "Tue, 22 Oct 2024 17:00:00 -0500"
     },
     {
         "title": "Mónaco  Estrella Roja",
@@ -60,6 +70,16 @@
         "pubdate": "Tue, 22 Oct 2024 01:00:00 -0500"
     },
     {
+        "title": "AYNI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#AYNI",
+        "pubdate": "Tue, 22 Oct 2024 12:00:00 -0500"
+    },
+    {
+        "title": "Copa Sudamericana",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Copa%20Sudamericana",
+        "pubdate": "Tue, 22 Oct 2024 14:00:00 -0500"
+    },
+    {
         "title": "Pez aguja",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Pez%20aguja",
         "pubdate": "Tue, 22 Oct 2024 15:00:00 -0500"
@@ -70,33 +90,13 @@
         "pubdate": "Tue, 22 Oct 2024 17:00:00 -0500"
     },
     {
-        "title": "Copa Sudamericana",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Copa%20Sudamericana",
-        "pubdate": "Tue, 22 Oct 2024 14:00:00 -0500"
-    },
-    {
-        "title": "Samantha Irvin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Samantha%20Irvin",
-        "pubdate": "Tue, 22 Oct 2024 12:00:00 -0500"
-    },
-    {
-        "title": "Sporting Lisboa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Sporting%20Lisboa",
-        "pubdate": "Tue, 22 Oct 2024 16:00:00 -0500"
-    },
-    {
         "title": "Futbol peruano",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Futbol%20peruano",
         "pubdate": "Tue, 22 Oct 2024 18:00:00 -0500"
     },
     {
-        "title": "Paro en Trujillo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Paro%20en%20Trujillo",
-        "pubdate": "Tue, 22 Oct 2024 12:00:00 -0500"
-    },
-    {
-        "title": "La Champions",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#La%20Champions",
-        "pubdate": "Tue, 22 Oct 2024 18:00:00 -0500"
+        "title": "Linea 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Linea%201",
+        "pubdate": "Tue, 22 Oct 2024 20:00:00 -0500"
     }
 ]

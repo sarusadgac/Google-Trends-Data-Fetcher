@@ -5,9 +5,14 @@
         "pubdate": "Wed, 23 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "KLDR",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#KLDR",
-        "pubdate": "Tue, 22 Oct 2024 09:00:00 +0200"
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Real%20Madrid",
+        "pubdate": "Tue, 22 Oct 2024 22:00:00 +0200"
+    },
+    {
+        "title": "Juventus – Stuttgart",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Juventus%20%E2%80%93%20Stuttgart",
+        "pubdate": "Tue, 22 Oct 2024 21:00:00 +0200"
     },
     {
         "title": "Ozempic",
@@ -33,6 +38,11 @@
         "title": "BRICS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#BRICS",
         "pubdate": "Tue, 22 Oct 2024 19:00:00 +0200"
+    },
+    {
+        "title": "Jižní Korea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ji%C5%BEn%C3%AD%20Korea",
+        "pubdate": "Tue, 22 Oct 2024 21:00:00 +0200"
     },
     {
         "title": "Michael Newman",
@@ -75,6 +85,11 @@
         "pubdate": "Mon, 21 Oct 2024 08:00:00 +0200"
     },
     {
+        "title": "Frekvence 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Frekvence%201",
+        "pubdate": "Mon, 21 Oct 2024 17:00:00 +0200"
+    },
+    {
         "title": "Factorio",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Factorio",
         "pubdate": "Mon, 21 Oct 2024 14:00:00 +0200"
@@ -83,20 +98,5 @@
         "title": "Moldavsko volby",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Moldavsko%20volby",
         "pubdate": "Mon, 21 Oct 2024 08:00:00 +0200"
-    },
-    {
-        "title": "Winter Hockey Games",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Winter%20Hockey%20Games",
-        "pubdate": "Mon, 21 Oct 2024 20:00:00 +0200"
-    },
-    {
-        "title": "Lubomír Štrougal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Lubom%C3%ADr%20%C5%A0trougal",
-        "pubdate": "Mon, 21 Oct 2024 01:00:00 +0200"
-    },
-    {
-        "title": "Kamala Harris",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kamala%20Harris",
-        "pubdate": "Mon, 21 Oct 2024 20:00:00 +0200"
     }
 ]

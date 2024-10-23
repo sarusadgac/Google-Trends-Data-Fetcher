@@ -5,14 +5,14 @@
         "pubdate": "Tue, 22 Oct 2024 16:00:00 +0300"
     },
     {
-        "title": "Ringo Dămureanu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ringo%20D%C4%83mureanu",
-        "pubdate": "Tue, 22 Oct 2024 01:00:00 +0300"
-    },
-    {
         "title": "Raluca Pastramă",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Raluca%20Pastram%C4%83",
         "pubdate": "Tue, 22 Oct 2024 20:00:00 +0300"
+    },
+    {
+        "title": "Ringo Dămureanu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ringo%20D%C4%83mureanu",
+        "pubdate": "Tue, 22 Oct 2024 01:00:00 +0300"
     },
     {
         "title": "Asia Express, 21 octombrie 2024",
@@ -23,11 +23,6 @@
         "title": "Schimba ora de iarna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Schimba%20ora%20de%20iarna",
         "pubdate": "Tue, 22 Oct 2024 16:00:00 +0300"
-    },
-    {
-        "title": "Nicolai Tand",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Nicolai%20Tand",
-        "pubdate": "Tue, 22 Oct 2024 23:00:00 +0300"
     },
     {
         "title": "Andrew Barabancea",
@@ -50,11 +45,6 @@
         "pubdate": "Tue, 22 Oct 2024 10:00:00 +0300"
     },
     {
-        "title": "Valencia - Las Palmas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Valencia%20-%20Las%20Palmas",
-        "pubdate": "Tue, 22 Oct 2024 03:00:00 +0300"
-    },
-    {
         "title": "Adrian sut",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Adrian%20sut",
         "pubdate": "Tue, 22 Oct 2024 12:00:00 +0300"
@@ -68,6 +58,11 @@
         "title": "Britney Spears",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Britney%20Spears",
         "pubdate": "Tue, 22 Oct 2024 20:00:00 +0300"
+    },
+    {
+        "title": "Loredana Groza",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Loredana%20Groza",
+        "pubdate": "Tue, 22 Oct 2024 23:00:00 +0300"
     },
     {
         "title": "Eugen pirvulescu",
@@ -98,5 +93,10 @@
         "title": "Real Madrid  Dortmund",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Real%20Madrid%20%20Dortmund",
         "pubdate": "Mon, 21 Oct 2024 20:00:00 +0300"
+    },
+    {
+        "title": "Poli Iași  Unirea Slobozia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Poli%20Ia%C8%99i%20%20Unirea%20Slobozia",
+        "pubdate": "Mon, 21 Oct 2024 18:00:00 +0300"
     }
 ]
