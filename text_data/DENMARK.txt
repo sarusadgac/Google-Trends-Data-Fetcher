@@ -1,5 +1,4 @@
 NBA
-Bianca Gascoigne
 Michael Newman
 Arsenal
 Mpox
@@ -9,7 +8,6 @@ Au
 Haute
 Hazmat
 Perplexity
-CL
 Champions League
 Docs
 Paul Di'Anno
@@ -18,3 +16,5 @@ Slope
 Copilot
 Margrethe Vestager
 TikTok
+Snake
+Chat

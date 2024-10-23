@@ -25,11 +25,6 @@
         "pubdate": "Tue, 22 Oct 2024 22:00:00 +0200"
     },
     {
-        "title": "Vojtěch Havel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vojt%C4%9Bch%20Havel",
-        "pubdate": "Tue, 22 Oct 2024 21:00:00 +0200"
-    },
-    {
         "title": "AC Milán – Club brugge",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#AC%20Mil%C3%A1n%20%E2%80%93%20Club%20brugge",
         "pubdate": "Tue, 22 Oct 2024 20:00:00 +0200"
@@ -98,5 +93,10 @@
         "title": "Moldavsko volby",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Moldavsko%20volby",
         "pubdate": "Mon, 21 Oct 2024 08:00:00 +0200"
+    },
+    {
+        "title": "Winter Hockey Games",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Winter%20Hockey%20Games",
+        "pubdate": "Mon, 21 Oct 2024 20:00:00 +0200"
     }
 ]
