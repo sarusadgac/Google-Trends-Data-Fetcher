@@ -45,6 +45,11 @@
         "pubdate": "Tue, 22 Oct 2024 19:00:00 +0200"
     },
     {
+        "title": "Real Madrid vs Dortmund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Real%20Madrid%20vs%20Dortmund",
+        "pubdate": "Tue, 22 Oct 2024 17:00:00 +0200"
+    },
+    {
         "title": "Siya Kolisi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Siya%20Kolisi",
         "pubdate": "Tue, 22 Oct 2024 19:00:00 +0200"
@@ -55,6 +60,11 @@
         "pubdate": "Tue, 22 Oct 2024 18:00:00 +0200"
     },
     {
+        "title": "UEFA Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#UEFA%20Champions%20League",
+        "pubdate": "Tue, 22 Oct 2024 20:00:00 +0200"
+    },
+    {
         "title": "Arsenal vs Shakhtar Donetsk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Arsenal%20vs%20Shakhtar%20Donetsk",
         "pubdate": "Tue, 22 Oct 2024 21:00:00 +0200"
@@ -63,11 +73,6 @@
         "title": "Crocs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Crocs",
         "pubdate": "Tue, 22 Oct 2024 23:00:00 +0200"
-    },
-    {
-        "title": "UEFA Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#UEFA%20Champions%20League",
-        "pubdate": "Tue, 22 Oct 2024 20:00:00 +0200"
     },
     {
         "title": "Nelson Mandela Bay floods",
@@ -93,10 +98,5 @@
         "title": "AC Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#AC%20Milan",
         "pubdate": "Tue, 22 Oct 2024 19:00:00 +0200"
-    },
-    {
-        "title": "Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Juventus",
-        "pubdate": "Tue, 22 Oct 2024 22:00:00 +0200"
     }
 ]

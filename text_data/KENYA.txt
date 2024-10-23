@@ -1,4 +1,3 @@
-UEFA Champions League
 Barcelona vs Bayern
 Lakers vs Timberwolves
 Mike Jeffries
@@ -6,8 +5,11 @@ Europa League
 Rachel Kolisi
 Girona FC
 Leeds United
+Forest-green
+Leipzig vs Liverpool
 Arsenal vs Shakhtar Donetsk
 Real Madrid vs Dortmund
+UEFA Champions League
 Aston Villa vs Bologna
 PSG vs PSV
 Milan vs Club Brugge
@@ -16,5 +18,3 @@ Juventus vs Stuttgart
 NBA
 AC Milan
 Uefa
-Swordfish
-Housing Levy

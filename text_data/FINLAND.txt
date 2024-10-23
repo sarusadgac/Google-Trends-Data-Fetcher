@@ -1,4 +1,6 @@
 NBA
+UEFA Champions League
+Real Madrid
 Champions League
 Uniqlo
 Mike Van Wyck
@@ -16,5 +18,3 @@ Dior
 Neymar
 Paul Di'Anno
 Wilma
-Classroom
-Docs
