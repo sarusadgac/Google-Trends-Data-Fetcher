@@ -1,5 +1,10 @@
 [
     {
+        "title": "Michael Newman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Michael%20Newman",
+        "pubdate": "Wed, 23 Oct 2024 01:00:00 +0200"
+    },
+    {
         "title": "56-os forradalom",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#56-os%20forradalom",
         "pubdate": "Wed, 23 Oct 2024 01:00:00 +0200"
@@ -12,11 +17,6 @@
     {
         "title": "M0 baleset",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M0%20baleset",
-        "pubdate": "Tue, 22 Oct 2024 08:00:00 +0200"
-    },
-    {
-        "title": "Tania Gomez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Tania%20Gomez",
         "pubdate": "Tue, 22 Oct 2024 08:00:00 +0200"
     },
     {
@@ -60,14 +60,14 @@
         "pubdate": "Tue, 22 Oct 2024 21:00:00 +0200"
     },
     {
-        "title": "Osváth Zsolt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Osv%C3%A1th%20Zsolt",
-        "pubdate": "Tue, 22 Oct 2024 00:00:00 +0200"
-    },
-    {
         "title": "Juventus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Juventus",
         "pubdate": "Tue, 22 Oct 2024 22:00:00 +0200"
+    },
+    {
+        "title": "Osváth Zsolt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Osv%C3%A1th%20Zsolt",
+        "pubdate": "Tue, 22 Oct 2024 00:00:00 +0200"
     },
     {
         "title": "Gajdos Tamás",
