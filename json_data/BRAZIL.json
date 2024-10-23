@@ -10,6 +10,11 @@
         "pubdate": "Wed, 23 Oct 2024 00:00:00 -0500"
     },
     {
+        "title": "Atlético x River",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Atl%C3%A9tico%20x%20River",
+        "pubdate": "Wed, 23 Oct 2024 06:00:00 -0500"
+    },
+    {
         "title": "Ciclone extratropical",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ciclone%20extratropical",
         "pubdate": "Wed, 23 Oct 2024 05:00:00 -0500"
@@ -75,19 +80,9 @@
         "pubdate": "Tue, 22 Oct 2024 11:00:00 -0500"
     },
     {
-        "title": "Lakers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lakers",
-        "pubdate": "Tue, 22 Oct 2024 20:00:00 -0500"
-    },
-    {
         "title": "Aston Villa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Aston%20Villa",
         "pubdate": "Tue, 22 Oct 2024 08:00:00 -0500"
-    },
-    {
-        "title": "Santos FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Santos%20FC",
-        "pubdate": "Tue, 22 Oct 2024 18:00:00 -0500"
     },
     {
         "title": "Meta AI",
@@ -98,5 +93,10 @@
         "title": "Tonhao Palmeiras",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Tonhao%20Palmeiras",
         "pubdate": "Tue, 22 Oct 2024 09:00:00 -0500"
+    },
+    {
+        "title": "Penarol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Penarol",
+        "pubdate": "Tue, 22 Oct 2024 18:00:00 -0500"
     }
 ]
