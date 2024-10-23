@@ -5,11 +5,6 @@
         "pubdate": "Tue, 22 Oct 2024 14:00:00 -0500"
     },
     {
-        "title": "Liga 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Liga%201",
-        "pubdate": "Tue, 22 Oct 2024 19:00:00 -0500"
-    },
-    {
         "title": "Atlético Mineiro  River Plate",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Atl%C3%A9tico%20Mineiro%20%20River%20Plate",
         "pubdate": "Tue, 22 Oct 2024 11:00:00 -0500"
@@ -28,6 +23,11 @@
         "title": "Juventus vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Juventus%20vs",
         "pubdate": "Tue, 22 Oct 2024 10:00:00 -0500"
+    },
+    {
+        "title": "Tabla de posiciones Liga 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Tabla%20de%20posiciones%20Liga%201",
+        "pubdate": "Tue, 22 Oct 2024 21:00:00 -0500"
     },
     {
         "title": "Arsenal vs",
@@ -80,14 +80,14 @@
         "pubdate": "Tue, 22 Oct 2024 21:00:00 -0500"
     },
     {
-        "title": "Linea 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Linea%201",
-        "pubdate": "Tue, 22 Oct 2024 20:00:00 -0500"
-    },
-    {
         "title": "NBA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#NBA",
         "pubdate": "Tue, 22 Oct 2024 21:00:00 -0500"
+    },
+    {
+        "title": "Linea 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Linea%201",
+        "pubdate": "Tue, 22 Oct 2024 20:00:00 -0500"
     },
     {
         "title": "Real Madrid club de fútbol",

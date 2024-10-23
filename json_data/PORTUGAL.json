@@ -1,13 +1,13 @@
 [
     {
-        "title": "NBA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#NBA",
-        "pubdate": "Wed, 23 Oct 2024 03:00:00 +0100"
-    },
-    {
         "title": "Libertadores",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Libertadores",
         "pubdate": "Wed, 23 Oct 2024 01:00:00 +0100"
+    },
+    {
+        "title": "NBA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#NBA",
+        "pubdate": "Wed, 23 Oct 2024 03:00:00 +0100"
     },
     {
         "title": "Fluminense",
@@ -33,6 +33,11 @@
         "title": "Marco Paulo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Marco%20Paulo",
         "pubdate": "Tue, 22 Oct 2024 15:00:00 +0100"
+    },
+    {
+        "title": "Caixa Geral de depositos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Caixa%20Geral%20de%20depositos",
+        "pubdate": "Tue, 22 Oct 2024 10:00:00 +0100"
     },
     {
         "title": "Milan  Club Brugge",
@@ -92,11 +97,6 @@
     {
         "title": "Totti",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Totti",
-        "pubdate": "Tue, 22 Oct 2024 18:00:00 +0100"
-    },
-    {
-        "title": "Quimera",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Quimera",
         "pubdate": "Tue, 22 Oct 2024 18:00:00 +0100"
     }
 ]
