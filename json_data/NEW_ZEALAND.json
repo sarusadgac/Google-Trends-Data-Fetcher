@@ -15,13 +15,18 @@
         "pubdate": "Wed, 23 Oct 2024 14:00:00 +1300"
     },
     {
-        "title": "UCL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#UCL",
-        "pubdate": "Wed, 23 Oct 2024 09:00:00 +1300"
+        "title": "Grimace Shake",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Grimace%20Shake",
+        "pubdate": "Wed, 23 Oct 2024 10:00:00 +1300"
     },
     {
         "title": "Jay",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Jay",
+        "pubdate": "Wed, 23 Oct 2024 09:00:00 +1300"
+    },
+    {
+        "title": "UCL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#UCL",
         "pubdate": "Wed, 23 Oct 2024 09:00:00 +1300"
     },
     {
@@ -43,6 +48,11 @@
         "title": "Waikato fire",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Waikato%20fire",
         "pubdate": "Wed, 23 Oct 2024 12:00:00 +1300"
+    },
+    {
+        "title": "Mike Jeffries",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Mike%20Jeffries",
+        "pubdate": "Wed, 23 Oct 2024 15:00:00 +1300"
     },
     {
         "title": "Mike Van Wyck",
@@ -88,15 +98,5 @@
         "title": "Darleen Tana",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Darleen%20Tana",
         "pubdate": "Tue, 22 Oct 2024 15:00:00 +1300"
-    },
-    {
-        "title": "Pink cocaine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Pink%20cocaine",
-        "pubdate": "Tue, 22 Oct 2024 14:00:00 +1300"
-    },
-    {
-        "title": "All Blacks vs Japan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#All%20Blacks%20vs%20Japan",
-        "pubdate": "Tue, 22 Oct 2024 20:00:00 +1300"
     }
 ]
