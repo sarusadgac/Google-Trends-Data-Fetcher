@@ -20,6 +20,11 @@
         "pubdate": "Wed, 23 Oct 2024 01:00:00 +0700"
     },
     {
+        "title": "MPL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#MPL",
+        "pubdate": "Wed, 23 Oct 2024 12:00:00 +0700"
+    },
+    {
         "title": "Zita Anjani",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Zita%20Anjani",
         "pubdate": "Wed, 23 Oct 2024 08:00:00 +0700"
@@ -55,14 +60,9 @@
         "pubdate": "Wed, 23 Oct 2024 00:00:00 +0700"
     },
     {
-        "title": "Liga eropa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Liga%20eropa",
-        "pubdate": "Wed, 23 Oct 2024 09:00:00 +0700"
-    },
-    {
-        "title": "MPL ID",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#MPL%20ID",
-        "pubdate": "Wed, 23 Oct 2024 12:00:00 +0700"
+        "title": "Ikan todak",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Ikan%20todak",
+        "pubdate": "Wed, 23 Oct 2024 11:00:00 +0700"
     },
     {
         "title": "Girona",
@@ -73,6 +73,11 @@
         "title": "Lakers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Lakers",
         "pubdate": "Wed, 23 Oct 2024 13:00:00 +0700"
+    },
+    {
+        "title": "Haul Solo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Haul%20Solo",
+        "pubdate": "Wed, 23 Oct 2024 07:00:00 +0700"
     },
     {
         "title": "Hari Sumpah Pemuda",
@@ -93,10 +98,5 @@
         "title": "Esteghlal vs Al-Nassr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Esteghlal%20vs%20Al-Nassr",
         "pubdate": "Tue, 22 Oct 2024 22:00:00 +0700"
-    },
-    {
-        "title": "Milan vs Club Brugge",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Milan%20vs%20Club%20Brugge",
-        "pubdate": "Tue, 22 Oct 2024 23:00:00 +0700"
     }
 ]
