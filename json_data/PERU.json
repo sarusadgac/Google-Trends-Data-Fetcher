@@ -60,14 +60,24 @@
         "pubdate": "Tue, 22 Oct 2024 12:00:00 -0500"
     },
     {
-        "title": "Chankas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Chankas",
-        "pubdate": "Tue, 22 Oct 2024 17:00:00 -0500"
+        "title": "Pepe Mujica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Pepe%20Mujica",
+        "pubdate": "Tue, 22 Oct 2024 11:00:00 -0500"
     },
     {
         "title": "Copa Sudamericana",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Copa%20Sudamericana",
         "pubdate": "Tue, 22 Oct 2024 14:00:00 -0500"
+    },
+    {
+        "title": "Chankas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Chankas",
+        "pubdate": "Tue, 22 Oct 2024 17:00:00 -0500"
+    },
+    {
+        "title": "U vs Cristal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#U%20vs%20Cristal",
+        "pubdate": "Tue, 22 Oct 2024 21:00:00 -0500"
     },
     {
         "title": "Linea 1",
@@ -88,15 +98,5 @@
         "title": "Chris Hoy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Chris%20Hoy",
         "pubdate": "Tue, 22 Oct 2024 01:00:00 -0500"
-    },
-    {
-        "title": "AYNI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#AYNI",
-        "pubdate": "Tue, 22 Oct 2024 12:00:00 -0500"
-    },
-    {
-        "title": "Fluminense",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Fluminense",
-        "pubdate": "Tue, 22 Oct 2024 19:00:00 -0500"
     }
 ]

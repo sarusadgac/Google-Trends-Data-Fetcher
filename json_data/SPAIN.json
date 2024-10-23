@@ -5,6 +5,11 @@
         "pubdate": "Wed, 23 Oct 2024 01:00:00 +0200"
     },
     {
+        "title": "Itziar Miranda",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Itziar%20Miranda",
+        "pubdate": "Wed, 23 Oct 2024 02:00:00 +0200"
+    },
+    {
         "title": "River",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#River",
         "pubdate": "Wed, 23 Oct 2024 05:00:00 +0200"
@@ -28,6 +33,11 @@
         "title": "Madrid FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Madrid%20FC",
         "pubdate": "Tue, 22 Oct 2024 21:00:00 +0200"
+    },
+    {
+        "title": "Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Madrid",
+        "pubdate": "Tue, 22 Oct 2024 22:00:00 +0200"
     },
     {
         "title": "PSG  PSV",
@@ -55,6 +65,11 @@
         "pubdate": "Tue, 22 Oct 2024 15:00:00 +0200"
     },
     {
+        "title": "Milan  Club Brujas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Milan%20%20Club%20Brujas",
+        "pubdate": "Tue, 22 Oct 2024 19:00:00 +0200"
+    },
+    {
         "title": "Juventus  Stuttgart",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Juventus%20%20Stuttgart",
         "pubdate": "Tue, 22 Oct 2024 22:00:00 +0200"
@@ -70,8 +85,8 @@
         "pubdate": "Tue, 22 Oct 2024 22:00:00 +0200"
     },
     {
-        "title": "Infanta sofia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Infanta%20sofia",
+        "title": "Princesa Leonor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Princesa%20Leonor",
         "pubdate": "Tue, 22 Oct 2024 00:00:00 +0200"
     },
     {
@@ -83,20 +98,5 @@
         "title": "Gonorrea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Gonorrea",
         "pubdate": "Tue, 22 Oct 2024 03:00:00 +0200"
-    },
-    {
-        "title": "Aston Villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Aston%20Villa",
-        "pubdate": "Tue, 22 Oct 2024 23:00:00 +0200"
-    },
-    {
-        "title": "Joker",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Joker",
-        "pubdate": "Tue, 22 Oct 2024 17:00:00 +0200"
-    },
-    {
-        "title": "Joan Manuel Serrat",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Joan%20Manuel%20Serrat",
-        "pubdate": "Tue, 22 Oct 2024 22:00:00 +0200"
     }
 ]
