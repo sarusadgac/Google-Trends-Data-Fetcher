@@ -5,9 +5,19 @@
         "pubdate": "Wed, 23 Oct 2024 09:00:00 +0300"
     },
     {
+        "title": "Disney",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Disney",
+        "pubdate": "Wed, 23 Oct 2024 18:00:00 +0300"
+    },
+    {
         "title": "UEFA Champions League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#UEFA%20Champions%20League",
         "pubdate": "Wed, 23 Oct 2024 10:00:00 +0300"
+    },
+    {
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Real%20Madrid",
+        "pubdate": "Tue, 22 Oct 2024 23:00:00 +0300"
     },
     {
         "title": "Champions League",
@@ -50,11 +60,6 @@
         "pubdate": "Tue, 22 Oct 2024 19:00:00 +0300"
     },
     {
-        "title": "UCL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#UCL",
-        "pubdate": "Tue, 22 Oct 2024 23:00:00 +0300"
-    },
-    {
         "title": "District 9",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#District%209",
         "pubdate": "Tue, 22 Oct 2024 23:00:00 +0300"
@@ -93,10 +98,5 @@
         "title": "Paul Di'Anno",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Paul%20Di'Anno",
         "pubdate": "Mon, 21 Oct 2024 19:00:00 +0300"
-    },
-    {
-        "title": "Wilma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Wilma",
-        "pubdate": "Mon, 21 Oct 2024 10:00:00 +0300"
     }
 ]
