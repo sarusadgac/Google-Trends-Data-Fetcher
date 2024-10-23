@@ -5,6 +5,11 @@
         "pubdate": "Wed, 23 Oct 2024 13:00:00 +0100"
     },
     {
+        "title": "Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Champions%20League",
+        "pubdate": "Wed, 23 Oct 2024 16:00:00 +0100"
+    },
+    {
         "title": "Sorteio Taça Portugal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sorteio%20Ta%C3%A7a%20Portugal",
         "pubdate": "Wed, 23 Oct 2024 11:00:00 +0100"
@@ -25,14 +30,19 @@
         "pubdate": "Wed, 23 Oct 2024 01:00:00 +0100"
     },
     {
-        "title": "Christopher Nolan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Christopher%20Nolan",
-        "pubdate": "Wed, 23 Oct 2024 08:00:00 +0100"
+        "title": "Porto B  Mafra",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Porto%20B%20%20Mafra",
+        "pubdate": "Wed, 23 Oct 2024 16:00:00 +0100"
     },
     {
         "title": "Maniche",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Maniche",
         "pubdate": "Wed, 23 Oct 2024 07:00:00 +0100"
+    },
+    {
+        "title": "Christopher Nolan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Christopher%20Nolan",
+        "pubdate": "Wed, 23 Oct 2024 08:00:00 +0100"
     },
     {
         "title": "Paulo Rangel",
@@ -75,28 +85,18 @@
         "pubdate": "Wed, 23 Oct 2024 14:00:00 +0100"
     },
     {
-        "title": "Coreia do Sul",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Coreia%20do%20Sul",
-        "pubdate": "Wed, 23 Oct 2024 00:00:00 +0100"
-    },
-    {
         "title": "Joana Amaral Dias",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Joana%20Amaral%20Dias",
         "pubdate": "Wed, 23 Oct 2024 16:00:00 +0100"
     },
     {
-        "title": "Linkin Park",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Linkin%20Park",
+        "title": "Coreia do Sul",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Coreia%20do%20Sul",
         "pubdate": "Wed, 23 Oct 2024 00:00:00 +0100"
     },
     {
-        "title": "Abercrombie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Abercrombie",
-        "pubdate": "Wed, 23 Oct 2024 16:00:00 +0100"
-    },
-    {
-        "title": "Oeiras",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Oeiras",
-        "pubdate": "Wed, 23 Oct 2024 17:00:00 +0100"
+        "title": "Linkin Park",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Linkin%20Park",
+        "pubdate": "Wed, 23 Oct 2024 00:00:00 +0100"
     }
 ]
