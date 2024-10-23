@@ -1,8 +1,8 @@
 [
     {
-        "title": "日元",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E6%97%A5%E5%85%83",
-        "pubdate": "Thu, 24 Oct 2024 01:00:00 +0800"
+        "title": "Селидово",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%A1%D0%B5%D0%BB%D0%B8%D0%B4%D0%BE%D0%B2%D0%BE",
+        "pubdate": "Thu, 24 Oct 2024 00:00:00 +0300"
     },
     {
         "title": "DeAndre Hopkins",
@@ -10,19 +10,19 @@
         "pubdate": "Wed, 23 Oct 2024 05:00:00 -0700"
     },
     {
-        "title": "Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Champions%20League",
-        "pubdate": "Wed, 23 Oct 2024 20:00:00 +0100"
-    },
-    {
-        "title": "Селидово",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%A1%D0%B5%D0%BB%D0%B8%D0%B4%D0%BE%D0%B2%D0%BE",
-        "pubdate": "Thu, 24 Oct 2024 00:00:00 +0300"
-    },
-    {
         "title": "モンハンワイルズ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%A2%E3%83%B3%E3%83%8F%E3%83%B3%E3%83%AF%E3%82%A4%E3%83%AB%E3%82%BA",
         "pubdate": "Thu, 24 Oct 2024 00:00:00 +0900"
+    },
+    {
+        "title": "Barcelone – Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Barcelone%20%E2%80%93%20Bayern",
+        "pubdate": "Wed, 23 Oct 2024 19:00:00 +0200"
+    },
+    {
+        "title": "RB Leipzig vs Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#RB%20Leipzig%20vs%20Liverpool",
+        "pubdate": "Wed, 23 Oct 2024 20:00:00 +0100"
     },
     {
         "title": "Man City",
@@ -30,34 +30,39 @@
         "pubdate": "Thu, 24 Oct 2024 02:30:00 +0530"
     },
     {
-        "title": "Ligue des champions",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Ligue%20des%20champions",
-        "pubdate": "Wed, 23 Oct 2024 01:00:00 +0200"
-    },
-    {
-        "title": "Barcelona – Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Barcelona%20%E2%80%93%20Bayern",
+        "title": "Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Champions%20League",
         "pubdate": "Wed, 23 Oct 2024 11:00:00 +0200"
     },
     {
-        "title": "BARCELONA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#BARCELONA",
-        "pubdate": "Wed, 23 Oct 2024 10:00:00 -0300"
+        "title": "日元",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E6%97%A5%E5%85%83",
+        "pubdate": "Thu, 24 Oct 2024 01:00:00 +0800"
     },
     {
-        "title": "Magyar Péter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Magyar%20P%C3%A9ter",
-        "pubdate": "Wed, 23 Oct 2024 11:00:00 +0200"
+        "title": "INBA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#INBA",
+        "pubdate": "Wed, 23 Oct 2024 13:00:00 -0300"
     },
     {
-        "title": "Man City vs Sparta praha",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Man%20City%20vs%20Sparta%20praha",
-        "pubdate": "Wed, 23 Oct 2024 22:00:00 +0300"
+        "title": "Liverpool FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Liverpool%20FC",
+        "pubdate": "Thu, 24 Oct 2024 05:00:00 +0800"
     },
     {
-        "title": "Mauro Icardi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Mauro%20Icardi",
+        "title": "NBA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#NBA",
+        "pubdate": "Wed, 23 Oct 2024 02:00:00 +0200"
+    },
+    {
+        "title": "Lamine Yamal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Lamine%20Yamal",
         "pubdate": "Thu, 24 Oct 2024 00:00:00 +0300"
+    },
+    {
+        "title": "Tulsi Gabbard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tulsi%20Gabbard",
+        "pubdate": "Thu, 24 Oct 2024 00:00:00 +0200"
     },
     {
         "title": "Europa League",
@@ -65,38 +70,33 @@
         "pubdate": "Wed, 23 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "Лига чемпионов",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=UA#%D0%9B%D0%B8%D0%B3%D0%B0%20%D1%87%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%BE%D0%B2",
-        "pubdate": "Wed, 23 Oct 2024 20:00:00 +0300"
+        "title": "Atlético Madrid – Lille",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Atl%C3%A9tico%20Madrid%20%E2%80%93%20Lille",
+        "pubdate": "Thu, 24 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "Benfica - Feyenoord",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Benfica%20-%20Feyenoord",
-        "pubdate": "Wed, 23 Oct 2024 13:00:00 -0600"
+        "title": "Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Manchester%20City",
+        "pubdate": "Thu, 24 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "RB Leipzig vs Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#RB%20Leipzig%20vs%20Liverpool",
+        "title": "We Live in Time",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#We%20Live%20in%20Time",
         "pubdate": "Thu, 24 Oct 2024 03:00:00 +0800"
     },
     {
-        "title": "Fernando Valenzuela",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Fernando%20Valenzuela",
-        "pubdate": "Wed, 23 Oct 2024 02:00:00 -0400"
+        "title": "Eminem",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Eminem",
+        "pubdate": "Thu, 24 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "Het Geluid Qmusic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Het%20Geluid%20Qmusic",
-        "pubdate": "Wed, 23 Oct 2024 11:00:00 +0200"
+        "title": "Mauro Icardi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Mauro%20Icardi",
+        "pubdate": "Thu, 24 Oct 2024 00:00:00 +0300"
     },
     {
-        "title": "NBA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#NBA",
-        "pubdate": "Wed, 23 Oct 2024 12:00:00 +0800"
-    },
-    {
-        "title": "Gefion",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Gefion",
-        "pubdate": "Wed, 23 Oct 2024 14:00:00 +0200"
+        "title": "Getafe vs Valencia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Getafe%20vs%20Valencia",
+        "pubdate": "Thu, 24 Oct 2024 01:00:00 +0300"
     }
 ]
