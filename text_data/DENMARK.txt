@@ -1,4 +1,5 @@
 NBA
+Borderline
 Ballon d'Or 2024
 Michael Newman
 Arsenal
@@ -6,9 +7,9 @@ Mpox
 Mike Van Wyck
 Mike Jeffries
 Milan  Club Brugge
+CL
 Au
 Haute
-CL
 Hazmat
 Perplexity
 Champions League
@@ -17,4 +18,3 @@ Paul Di'Anno
 Snapchat
 Slope
 Copilot
-Margrethe Vestager
