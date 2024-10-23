@@ -1,32 +1,12 @@
 [
     {
-        "title": "Barcelone – Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Barcelone%20%E2%80%93%20Bayern",
-        "pubdate": "Wed, 23 Oct 2024 19:00:00 +0200"
-    },
-    {
-        "title": "DeAndre Hopkins",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#DeAndre%20Hopkins",
-        "pubdate": "Wed, 23 Oct 2024 05:00:00 -0700"
-    },
-    {
-        "title": "Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Champions%20League",
-        "pubdate": "Wed, 23 Oct 2024 11:00:00 +0200"
-    },
-    {
         "title": "日元",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E6%97%A5%E5%85%83",
         "pubdate": "Thu, 24 Oct 2024 01:00:00 +0800"
     },
     {
-        "title": "Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Man%20City",
-        "pubdate": "Thu, 24 Oct 2024 02:30:00 +0530"
-    },
-    {
-        "title": "RB Leipzig vs Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#RB%20Leipzig%20vs%20Liverpool",
+        "title": "Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Champions%20League",
         "pubdate": "Wed, 23 Oct 2024 20:00:00 +0100"
     },
     {
@@ -35,14 +15,29 @@
         "pubdate": "Thu, 24 Oct 2024 00:00:00 +0900"
     },
     {
+        "title": "Stade Brest – Leverkusen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Stade%20Brest%20%E2%80%93%20Leverkusen",
+        "pubdate": "Wed, 23 Oct 2024 18:00:00 +0200"
+    },
+    {
         "title": "Селидово",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%A1%D0%B5%D0%BB%D0%B8%D0%B4%D0%BE%D0%B2%D0%BE",
         "pubdate": "Thu, 24 Oct 2024 00:00:00 +0300"
     },
     {
-        "title": "박장범",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%B0%95%EC%9E%A5%EB%B2%94",
-        "pubdate": "Thu, 24 Oct 2024 00:00:00 +0900"
+        "title": "Celia Delver",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Celia%20Delver",
+        "pubdate": "Thu, 24 Oct 2024 01:00:00 +0200"
+    },
+    {
+        "title": "DeAndre Hopkins",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#DeAndre%20Hopkins",
+        "pubdate": "Wed, 23 Oct 2024 05:00:00 -0700"
+    },
+    {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Liverpool",
+        "pubdate": "Thu, 24 Oct 2024 03:30:00 +0530"
     },
     {
         "title": "РБ Лейпциг – Ливерпуль",
@@ -50,9 +45,24 @@
         "pubdate": "Thu, 24 Oct 2024 01:00:00 +0300"
     },
     {
-        "title": "Lamine Yamal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Lamine%20Yamal",
-        "pubdate": "Thu, 24 Oct 2024 00:00:00 +0300"
+        "title": "Atlético Madrid – Lille",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Atl%C3%A9tico%20Madrid%20%E2%80%93%20Lille",
+        "pubdate": "Thu, 24 Oct 2024 00:00:00 +0200"
+    },
+    {
+        "title": "Man City vs Sparta praha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Man%20City%20vs%20Sparta%20praha",
+        "pubdate": "Thu, 24 Oct 2024 03:00:00 +0800"
+    },
+    {
+        "title": "Barcelona – Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Barcelona%20%E2%80%93%20Bayern",
+        "pubdate": "Wed, 23 Oct 2024 21:00:00 +0200"
+    },
+    {
+        "title": "Elfsborg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Elfsborg",
+        "pubdate": "Wed, 23 Oct 2024 16:00:00 +0200"
     },
     {
         "title": "Fernando Valenzuela",
@@ -60,9 +70,19 @@
         "pubdate": "Wed, 23 Oct 2024 02:00:00 -0400"
     },
     {
-        "title": "Mamelodi Sundowns vs Royal AM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Mamelodi%20Sundowns%20vs%20Royal%20AM",
-        "pubdate": "Wed, 23 Oct 2024 16:00:00 +0200"
+        "title": "Manchester City - Sparta Praha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Manchester%20City%20-%20Sparta%20Praha",
+        "pubdate": "Wed, 23 Oct 2024 16:00:00 -0300"
+    },
+    {
+        "title": "TVP Sport",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#TVP%20Sport",
+        "pubdate": "Thu, 24 Oct 2024 01:00:00 +0200"
+    },
+    {
+        "title": "Emilia Clarke",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Emilia%20Clarke",
+        "pubdate": "Thu, 24 Oct 2024 01:00:00 +0300"
     },
     {
         "title": "Leipzig vs Liverpool",
@@ -70,33 +90,13 @@
         "pubdate": "Thu, 24 Oct 2024 02:00:00 +0700"
     },
     {
-        "title": "土耳其",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%9C%9F%E8%80%B3%E5%85%B6",
-        "pubdate": "Thu, 24 Oct 2024 04:00:00 +0800"
+        "title": "Serie A",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Serie%20A",
+        "pubdate": "Wed, 23 Oct 2024 07:00:00 -0500"
     },
     {
-        "title": "Tulsi Gabbard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tulsi%20Gabbard",
-        "pubdate": "Thu, 24 Oct 2024 00:00:00 +0200"
-    },
-    {
-        "title": "City x Sparta Praga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#City%20x%20Sparta%20Praga",
-        "pubdate": "Wed, 23 Oct 2024 10:00:00 -0500"
-    },
-    {
-        "title": "Young Boys – Inter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Young%20Boys%20%E2%80%93%20Inter",
-        "pubdate": "Thu, 24 Oct 2024 00:00:00 +0200"
-    },
-    {
-        "title": "Man City vs Sparta praha",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Man%20City%20vs%20Sparta%20praha",
-        "pubdate": "Thu, 24 Oct 2024 04:00:00 +0800"
-    },
-    {
-        "title": "Europa League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Europa%20League",
-        "pubdate": "Wed, 23 Oct 2024 00:00:00 +0200"
+        "title": "Metallica Australia 2025",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Metallica%20Australia%202025",
+        "pubdate": "Thu, 24 Oct 2024 08:00:00 +1100"
     }
 ]
