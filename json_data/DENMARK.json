@@ -1,10 +1,5 @@
 [
     {
-        "title": "Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Champions%20League",
-        "pubdate": "Wed, 23 Oct 2024 17:00:00 +0200"
-    },
-    {
         "title": "NBA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#NBA",
         "pubdate": "Wed, 23 Oct 2024 02:00:00 +0200"
@@ -15,8 +10,13 @@
         "pubdate": "Wed, 23 Oct 2024 14:00:00 +0200"
     },
     {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Liverpool",
+        "title": "RB Leipzig  Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#RB%20Leipzig%20%20Liverpool",
+        "pubdate": "Wed, 23 Oct 2024 21:00:00 +0200"
+    },
+    {
+        "title": "Man City  Sparta Prag",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Man%20City%20%20Sparta%20Prag",
         "pubdate": "Wed, 23 Oct 2024 21:00:00 +0200"
     },
     {
@@ -28,11 +28,6 @@
         "title": "Ankara",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ankara",
         "pubdate": "Wed, 23 Oct 2024 17:00:00 +0200"
-    },
-    {
-        "title": "Man City  Sparta Prag",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Man%20City%20%20Sparta%20Prag",
-        "pubdate": "Wed, 23 Oct 2024 21:00:00 +0200"
     },
     {
         "title": "Borderline",
@@ -55,6 +50,11 @@
         "pubdate": "Wed, 23 Oct 2024 21:00:00 +0200"
     },
     {
+        "title": "Tyler, the Creator",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tyler,%20the%20Creator",
+        "pubdate": "Wed, 23 Oct 2024 20:00:00 +0200"
+    },
+    {
         "title": "Galatasaray",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Galatasaray",
         "pubdate": "Wed, 23 Oct 2024 17:00:00 +0200"
@@ -65,11 +65,6 @@
         "pubdate": "Wed, 23 Oct 2024 09:00:00 +0200"
     },
     {
-        "title": "Tyler, the Creator",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tyler,%20the%20Creator",
-        "pubdate": "Wed, 23 Oct 2024 20:00:00 +0200"
-    },
-    {
         "title": "Eminem",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Eminem",
         "pubdate": "Wed, 23 Oct 2024 21:00:00 +0200"
@@ -78,6 +73,16 @@
         "title": "Demi Moore",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Demi%20Moore",
         "pubdate": "Wed, 23 Oct 2024 17:00:00 +0200"
+    },
+    {
+        "title": "Beef tallow",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Beef%20tallow",
+        "pubdate": "Wed, 23 Oct 2024 21:00:00 +0200"
+    },
+    {
+        "title": "Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Champions%20League",
+        "pubdate": "Tue, 22 Oct 2024 23:00:00 +0200"
     },
     {
         "title": "Real Madrid",
@@ -93,10 +98,5 @@
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Arsenal",
         "pubdate": "Tue, 22 Oct 2024 21:00:00 +0200"
-    },
-    {
-        "title": "Mpox",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Mpox",
-        "pubdate": "Tue, 22 Oct 2024 15:00:00 +0200"
     }
 ]

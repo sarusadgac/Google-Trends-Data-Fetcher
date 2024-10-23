@@ -1,6 +1,6 @@
 Feyenoord
-Champions League
 Ellen ten Damme
+Liverpool
 Europa League
 Joost Klein
 NBA
@@ -8,7 +8,6 @@ Tyler, The Creator
 PSV
 Ik Vertrek
 PSG
-Bureau Maastricht
 FC Emmen
 Vitesse
 Ziggo Sport
@@ -18,3 +17,4 @@ Fcgroningen
 FC Utrecht
 NAC
 PEC Zwolle
+Heracles
