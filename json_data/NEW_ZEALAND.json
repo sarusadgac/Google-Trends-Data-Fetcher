@@ -20,6 +20,11 @@
         "pubdate": "Thu, 24 Oct 2024 09:00:00 +1300"
     },
     {
+        "title": "New Zealand vs India",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#New%20Zealand%20vs%20India",
+        "pubdate": "Thu, 24 Oct 2024 17:00:00 +1300"
+    },
+    {
         "title": "Ticketmaster",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Ticketmaster",
         "pubdate": "Thu, 24 Oct 2024 10:00:00 +1300"
@@ -45,11 +50,6 @@
         "pubdate": "Thu, 24 Oct 2024 09:00:00 +1300"
     },
     {
-        "title": "New Zealand vs India",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#New%20Zealand%20vs%20India",
-        "pubdate": "Thu, 24 Oct 2024 17:00:00 +1300"
-    },
-    {
         "title": "Tyler, the Creator",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Tyler,%20the%20Creator",
         "pubdate": "Thu, 24 Oct 2024 14:00:00 +1300"
@@ -68,6 +68,11 @@
         "title": "The rock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#The%20rock",
         "pubdate": "Thu, 24 Oct 2024 14:00:00 +1300"
+    },
+    {
+        "title": "Stacey Williams",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Stacey%20Williams",
+        "pubdate": "Thu, 24 Oct 2024 18:00:00 +1300"
     },
     {
         "title": "Travis Scott Auckland",
@@ -93,10 +98,5 @@
         "title": "Lakers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Lakers",
         "pubdate": "Wed, 23 Oct 2024 17:00:00 +1300"
-    },
-    {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Real%20Madrid",
-        "pubdate": "Wed, 23 Oct 2024 10:00:00 +1300"
     }
 ]

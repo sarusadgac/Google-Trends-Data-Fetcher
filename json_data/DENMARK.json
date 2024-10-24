@@ -40,11 +40,6 @@
         "pubdate": "Wed, 23 Oct 2024 09:00:00 +0200"
     },
     {
-        "title": "Ballon d'Or 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ballon%20d'Or%202024",
-        "pubdate": "Wed, 23 Oct 2024 00:00:00 +0200"
-    },
-    {
         "title": "Nvidia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Nvidia",
         "pubdate": "Wed, 23 Oct 2024 21:00:00 +0200"
@@ -98,5 +93,10 @@
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Real%20Madrid",
         "pubdate": "Tue, 22 Oct 2024 21:00:00 +0200"
+    },
+    {
+        "title": "Michael Newman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Michael%20Newman",
+        "pubdate": "Tue, 22 Oct 2024 17:00:00 +0200"
     }
 ]
