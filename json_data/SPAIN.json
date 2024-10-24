@@ -2,7 +2,17 @@
     {
         "title": "Betis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Betis",
-        "pubdate": "Thu, 24 Oct 2024 16:00:00 +0200"
+        "pubdate": "Thu, 24 Oct 2024 20:00:00 +0200"
+    },
+    {
+        "title": "Bad Gyal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Bad%20Gyal",
+        "pubdate": "Thu, 24 Oct 2024 21:00:00 +0200"
+    },
+    {
+        "title": "Fases lunares",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Fases%20lunares",
+        "pubdate": "Thu, 24 Oct 2024 09:00:00 +0200"
     },
     {
         "title": "Maria Dolores Cospedal",
@@ -10,9 +20,9 @@
         "pubdate": "Thu, 24 Oct 2024 08:00:00 +0200"
     },
     {
-        "title": "Fases lunares",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Fases%20lunares",
-        "pubdate": "Thu, 24 Oct 2024 09:00:00 +0200"
+        "title": "Real Sociedad",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Real%20Sociedad",
+        "pubdate": "Thu, 24 Oct 2024 20:00:00 +0200"
     },
     {
         "title": "Levante  Deportivo",
@@ -30,19 +40,24 @@
         "pubdate": "Thu, 24 Oct 2024 19:00:00 +0200"
     },
     {
-        "title": "Real Sociedad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Real%20Sociedad",
-        "pubdate": "Thu, 24 Oct 2024 20:00:00 +0200"
-    },
-    {
         "title": "Tenerife  Málaga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Tenerife%20%20M%C3%A1laga",
         "pubdate": "Thu, 24 Oct 2024 21:00:00 +0200"
     },
     {
-        "title": "Fenerbahçe  - Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Fenerbah%C3%A7e%20%20-%20Manchester%20United",
+        "title": "Sporting Gijón  SD Huesca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Sporting%20Gij%C3%B3n%20%20SD%20Huesca",
         "pubdate": "Thu, 24 Oct 2024 21:00:00 +0200"
+    },
+    {
+        "title": "Conference League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Conference%20League",
+        "pubdate": "Thu, 24 Oct 2024 16:00:00 +0200"
+    },
+    {
+        "title": "Fenerbahçe  Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Fenerbah%C3%A7e%20%20Manchester%20United",
+        "pubdate": "Thu, 24 Oct 2024 22:00:00 +0200"
     },
     {
         "title": "Almería  Albacete",
@@ -80,23 +95,8 @@
         "pubdate": "Thu, 24 Oct 2024 11:00:00 +0200"
     },
     {
-        "title": "Benfica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Benfica",
-        "pubdate": "Thu, 24 Oct 2024 00:00:00 +0200"
-    },
-    {
-        "title": "El puma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#El%20puma",
-        "pubdate": "Thu, 24 Oct 2024 01:00:00 +0200"
-    },
-    {
-        "title": "Donald Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Donald%20Trump",
-        "pubdate": "Thu, 24 Oct 2024 13:00:00 +0200"
-    },
-    {
-        "title": "Sporting",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Sporting",
-        "pubdate": "Thu, 24 Oct 2024 21:00:00 +0200"
+        "title": "Manuela Carmena",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Manuela%20Carmena",
+        "pubdate": "Thu, 24 Oct 2024 08:00:00 +0200"
     }
 ]
