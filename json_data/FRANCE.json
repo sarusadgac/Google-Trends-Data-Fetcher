@@ -5,6 +5,11 @@
         "pubdate": "Thu, 24 Oct 2024 01:00:00 +0200"
     },
     {
+        "title": "Kering",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Kering",
+        "pubdate": "Thu, 24 Oct 2024 12:00:00 +0200"
+    },
+    {
         "title": "National",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#National",
         "pubdate": "Thu, 24 Oct 2024 05:00:00 +0200"
@@ -65,9 +70,9 @@
         "pubdate": "Wed, 23 Oct 2024 11:00:00 +0200"
     },
     {
-        "title": "Grenoble",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Grenoble",
-        "pubdate": "Wed, 23 Oct 2024 16:00:00 +0200"
+        "title": "Europa League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Europa%20League",
+        "pubdate": "Wed, 23 Oct 2024 19:00:00 +0200"
     },
     {
         "title": "Ligue Europa",
@@ -75,14 +80,9 @@
         "pubdate": "Wed, 23 Oct 2024 19:00:00 +0200"
     },
     {
-        "title": "Europa League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Europa%20League",
-        "pubdate": "Wed, 23 Oct 2024 19:00:00 +0200"
-    },
-    {
-        "title": "Alexeï Navalny",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Alexe%C3%AF%20Navalny",
-        "pubdate": "Wed, 23 Oct 2024 00:00:00 +0200"
+        "title": "Grenoble",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Grenoble",
+        "pubdate": "Wed, 23 Oct 2024 16:00:00 +0200"
     },
     {
         "title": "Loups-Garous",
@@ -95,8 +95,8 @@
         "pubdate": "Wed, 23 Oct 2024 20:00:00 +0200"
     },
     {
-        "title": "Maud Bregeon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Maud%20Bregeon",
-        "pubdate": "Wed, 23 Oct 2024 21:00:00 +0200"
+        "title": "Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Manchester%20City",
+        "pubdate": "Wed, 23 Oct 2024 23:00:00 +0200"
     }
 ]
