@@ -20,6 +20,11 @@
         "pubdate": "Thu, 24 Oct 2024 08:00:00 +0200"
     },
     {
+        "title": "Lebo Gunguluza",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Lebo%20Gunguluza",
+        "pubdate": "Thu, 24 Oct 2024 09:00:00 +0200"
+    },
+    {
         "title": "Mamelodi Sundowns vs Royal AM",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Mamelodi%20Sundowns%20vs%20Royal%20AM",
         "pubdate": "Wed, 23 Oct 2024 16:00:00 +0200"
@@ -55,6 +60,11 @@
         "pubdate": "Wed, 23 Oct 2024 19:00:00 +0200"
     },
     {
+        "title": "NBA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#NBA",
+        "pubdate": "Wed, 23 Oct 2024 03:00:00 +0200"
+    },
+    {
         "title": "Liverpool FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Liverpool%20FC",
         "pubdate": "Wed, 23 Oct 2024 22:00:00 +0200"
@@ -63,11 +73,6 @@
         "title": "Atletico Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Atletico%20Madrid",
         "pubdate": "Wed, 23 Oct 2024 14:00:00 +0200"
-    },
-    {
-        "title": "NBA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#NBA",
-        "pubdate": "Wed, 23 Oct 2024 03:00:00 +0200"
     },
     {
         "title": "Galatasaray",
@@ -93,10 +98,5 @@
         "title": "Zimbabwe vs Gambia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Zimbabwe%20vs%20Gambia",
         "pubdate": "Wed, 23 Oct 2024 14:00:00 +0200"
-    },
-    {
-        "title": "Lakers vs Timberwolves",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Lakers%20vs%20Timberwolves",
-        "pubdate": "Wed, 23 Oct 2024 07:00:00 +0200"
     }
 ]

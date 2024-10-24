@@ -60,11 +60,6 @@
         "pubdate": "Wed, 23 Oct 2024 12:00:00 -0500"
     },
     {
-        "title": "Atletico Madrid vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Atletico%20Madrid%20vs",
-        "pubdate": "Wed, 23 Oct 2024 14:00:00 -0500"
-    },
-    {
         "title": "Cusco FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Cusco%20FC",
         "pubdate": "Wed, 23 Oct 2024 16:00:00 -0500"
@@ -90,13 +85,18 @@
         "pubdate": "Wed, 23 Oct 2024 18:00:00 -0500"
     },
     {
-        "title": "City vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#City%20vs",
-        "pubdate": "Wed, 23 Oct 2024 14:00:00 -0500"
-    },
-    {
         "title": "Galatasaray",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Galatasaray",
         "pubdate": "Wed, 23 Oct 2024 10:00:00 -0500"
+    },
+    {
+        "title": "Inter vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Inter%20vs",
+        "pubdate": "Wed, 23 Oct 2024 14:00:00 -0500"
+    },
+    {
+        "title": "Monterrey - Pumas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Monterrey%20-%20Pumas",
+        "pubdate": "Wed, 23 Oct 2024 20:00:00 -0500"
     }
 ]
