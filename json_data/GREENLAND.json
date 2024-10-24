@@ -1,28 +1,8 @@
 [
     {
-        "title": "Kering",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Kering",
-        "pubdate": "Thu, 24 Oct 2024 12:00:00 +0200"
-    },
-    {
-        "title": "Селидово",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%A1%D0%B5%D0%BB%D0%B8%D0%B4%D0%BE%D0%B2%D0%BE",
-        "pubdate": "Thu, 24 Oct 2024 00:00:00 +0300"
-    },
-    {
         "title": "Ron Ely",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Ron%20Ely",
         "pubdate": "Thu, 24 Oct 2024 08:00:00 +0100"
-    },
-    {
-        "title": "清原正吾",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E6%B8%85%E5%8E%9F%E6%AD%A3%E5%90%BE",
-        "pubdate": "Thu, 24 Oct 2024 16:00:00 +0900"
-    },
-    {
-        "title": "New Zealand vs India",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#New%20Zealand%20vs%20India",
-        "pubdate": "Thu, 24 Oct 2024 09:30:00 +0530"
     },
     {
         "title": "日元",
@@ -30,39 +10,44 @@
         "pubdate": "Thu, 24 Oct 2024 01:00:00 +0800"
     },
     {
-        "title": "Barcelona – Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Barcelona%20%E2%80%93%20Bayern",
-        "pubdate": "Wed, 23 Oct 2024 11:00:00 +0200"
-    },
-    {
         "title": "Hawks",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Hawks",
         "pubdate": "Thu, 24 Oct 2024 00:00:00 -0700"
     },
     {
-        "title": "Barcelona vs Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Barcelona%20vs%20Bayern",
-        "pubdate": "Thu, 24 Oct 2024 03:00:00 +0800"
+        "title": "清原正吾",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E6%B8%85%E5%8E%9F%E6%AD%A3%E5%90%BE",
+        "pubdate": "Thu, 24 Oct 2024 16:00:00 +0900"
     },
     {
-        "title": "FN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#FN",
-        "pubdate": "Thu, 24 Oct 2024 13:00:00 +0200"
-    },
-    {
-        "title": "TVP Sport",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#TVP%20Sport",
-        "pubdate": "Thu, 24 Oct 2024 01:00:00 +0200"
-    },
-    {
-        "title": "РБ Лейпциг – Ливерпуль",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=UA#%D0%A0%D0%91%20%D0%9B%D0%B5%D0%B9%D0%BF%D1%86%D0%B8%D0%B3%20%E2%80%93%20%D0%9B%D0%B8%D0%B2%D0%B5%D1%80%D0%BF%D1%83%D0%BB%D1%8C",
-        "pubdate": "Thu, 24 Oct 2024 01:00:00 +0300"
-    },
-    {
-        "title": "Alina ceusan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Alina%20ceusan",
+        "title": "Селидово",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%A1%D0%B5%D0%BB%D0%B8%D0%B4%D0%BE%D0%B2%D0%BE",
         "pubdate": "Thu, 24 Oct 2024 00:00:00 +0300"
+    },
+    {
+        "title": "Barcelona – Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Barcelona%20%E2%80%93%20Bayern",
+        "pubdate": "Wed, 23 Oct 2024 11:00:00 +0200"
+    },
+    {
+        "title": "Kering",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Kering",
+        "pubdate": "Thu, 24 Oct 2024 12:00:00 +0200"
+    },
+    {
+        "title": "New Zealand vs India",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#New%20Zealand%20vs%20India",
+        "pubdate": "Thu, 24 Oct 2024 09:30:00 +0530"
+    },
+    {
+        "title": "Plöckenpass",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Pl%C3%B6ckenpass",
+        "pubdate": "Thu, 24 Oct 2024 08:00:00 +0200"
+    },
+    {
+        "title": "Tesla-Aktie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tesla-Aktie",
+        "pubdate": "Thu, 24 Oct 2024 09:00:00 +0200"
     },
     {
         "title": "Tesla stock",
@@ -70,19 +55,19 @@
         "pubdate": "Thu, 24 Oct 2024 08:00:00 +0300"
     },
     {
-        "title": "الاهلي والزمالك",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#%D8%A7%D9%84%D8%A7%D9%87%D9%84%D9%8A%20%D9%88%D8%A7%D9%84%D8%B2%D9%85%D8%A7%D9%84%D9%83",
-        "pubdate": "Thu, 24 Oct 2024 10:00:00 +0300"
+        "title": "Luiz Henrique",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Luiz%20Henrique",
+        "pubdate": "Thu, 24 Oct 2024 09:00:00 -0500"
     },
     {
-        "title": "Fascist",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Fascist",
+        "title": "테슬라 주가",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%ED%85%8C%EC%8A%AC%EB%9D%BC%20%EC%A3%BC%EA%B0%80",
+        "pubdate": "Thu, 24 Oct 2024 11:00:00 +0900"
+    },
+    {
+        "title": "FN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#FN",
         "pubdate": "Thu, 24 Oct 2024 09:00:00 +0200"
-    },
-    {
-        "title": "Φορολοταρια",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%A6%CE%BF%CF%81%CE%BF%CE%BB%CE%BF%CF%84%CE%B1%CF%81%CE%B9%CE%B1",
-        "pubdate": "Thu, 24 Oct 2024 14:00:00 +0300"
     },
     {
         "title": "Viktor Dyk",
@@ -90,13 +75,28 @@
         "pubdate": "Thu, 24 Oct 2024 12:00:00 +0200"
     },
     {
-        "title": "Stacey Williams",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Stacey%20Williams",
-        "pubdate": "Thu, 24 Oct 2024 09:00:00 +0200"
+        "title": "Gerry Hutch",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Gerry%20Hutch",
+        "pubdate": "Thu, 24 Oct 2024 08:00:00 +0100"
     },
     {
-        "title": "Fases Lunares",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Fases%20Lunares",
-        "pubdate": "Thu, 24 Oct 2024 08:00:00 +0100"
+        "title": "Man City đấu với Sparta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Man%20City%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Sparta",
+        "pubdate": "Thu, 24 Oct 2024 02:00:00 +0700"
+    },
+    {
+        "title": "Fases lunares",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Fases%20lunares",
+        "pubdate": "Thu, 24 Oct 2024 07:00:00 -0600"
+    },
+    {
+        "title": "Inondazioni Emilia-Romagna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Inondazioni%20Emilia-Romagna",
+        "pubdate": "Thu, 24 Oct 2024 01:00:00 +0200"
+    },
+    {
+        "title": "Eminem",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Eminem",
+        "pubdate": "Thu, 24 Oct 2024 00:00:00 -0300"
     }
 ]
