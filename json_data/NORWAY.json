@@ -1,10 +1,5 @@
 [
     {
-        "title": "Haaland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Haaland",
-        "pubdate": "Thu, 24 Oct 2024 00:00:00 +0200"
-    },
-    {
         "title": "Dominique Pelicot",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Dominique%20Pelicot",
         "pubdate": "Thu, 24 Oct 2024 02:00:00 +0200"
@@ -20,13 +15,13 @@
         "pubdate": "Wed, 23 Oct 2024 16:00:00 +0200"
     },
     {
-        "title": "Man City mot Sparta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Man%20City%20mot%20Sparta",
-        "pubdate": "Wed, 23 Oct 2024 21:00:00 +0200"
-    },
-    {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Liverpool",
+        "pubdate": "Wed, 23 Oct 2024 22:00:00 +0200"
+    },
+    {
+        "title": "Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Manchester%20City",
         "pubdate": "Wed, 23 Oct 2024 22:00:00 +0200"
     },
     {
@@ -40,8 +35,8 @@
         "pubdate": "Wed, 23 Oct 2024 12:00:00 +0200"
     },
     {
-        "title": "Ankara",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ankara",
+        "title": "PKK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#PKK",
         "pubdate": "Wed, 23 Oct 2024 18:00:00 +0200"
     },
     {
@@ -98,5 +93,10 @@
         "title": "Grane kommune",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Grane%20kommune",
         "pubdate": "Tue, 22 Oct 2024 22:00:00 +0200"
+    },
+    {
+        "title": "Renault 5 E-Tech",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Renault%205%20E-Tech",
+        "pubdate": "Tue, 22 Oct 2024 20:00:00 +0200"
     }
 ]
