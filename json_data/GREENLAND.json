@@ -1,5 +1,25 @@
 [
     {
+        "title": "Ron Ely",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Ron%20Ely",
+        "pubdate": "Thu, 24 Oct 2024 08:00:00 +0100"
+    },
+    {
+        "title": "Call of Duty",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Call%20of%20Duty",
+        "pubdate": "Thu, 24 Oct 2024 08:00:00 -0700"
+    },
+    {
+        "title": "日元",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E6%97%A5%E5%85%83",
+        "pubdate": "Thu, 24 Oct 2024 01:00:00 +0800"
+    },
+    {
+        "title": "Kering",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Kering",
+        "pubdate": "Thu, 24 Oct 2024 12:00:00 +0200"
+    },
+    {
         "title": "New Zealand vs India",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#New%20Zealand%20vs%20India",
         "pubdate": "Thu, 24 Oct 2024 09:30:00 +0530"
@@ -10,19 +30,9 @@
         "pubdate": "Thu, 24 Oct 2024 16:00:00 +0300"
     },
     {
-        "title": "Ron Ely",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ron%20Ely",
-        "pubdate": "Thu, 24 Oct 2024 07:00:00 +0200"
-    },
-    {
-        "title": "日元",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E6%97%A5%E5%85%83",
-        "pubdate": "Thu, 24 Oct 2024 01:00:00 +0800"
-    },
-    {
-        "title": "Call of Duty",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Call%20of%20Duty",
-        "pubdate": "Thu, 24 Oct 2024 08:00:00 -0700"
+        "title": "Eintracht Frankfurt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eintracht%20Frankfurt",
+        "pubdate": "Thu, 24 Oct 2024 18:00:00 +0200"
     },
     {
         "title": "Ado",
@@ -30,59 +40,14 @@
         "pubdate": "Fri, 25 Oct 2024 00:00:00 +0900"
     },
     {
-        "title": "Venom: The Last Dance",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Venom:%20The%20Last%20Dance",
-        "pubdate": "Thu, 24 Oct 2024 15:00:00 +0100"
-    },
-    {
-        "title": "Kering",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Kering",
-        "pubdate": "Thu, 24 Oct 2024 12:00:00 +0200"
-    },
-    {
-        "title": "Warriors vs Trail Blazers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Warriors%20vs%20Trail%20Blazers",
-        "pubdate": "Thu, 24 Oct 2024 01:00:00 -0400"
-    },
-    {
-        "title": "England vs Pakistan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#England%20vs%20Pakistan",
-        "pubdate": "Thu, 24 Oct 2024 09:00:00 +0200"
-    },
-    {
-        "title": "Viktor Dyk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Viktor%20Dyk",
-        "pubdate": "Thu, 24 Oct 2024 12:00:00 +0200"
-    },
-    {
-        "title": "Fases lunares",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Fases%20lunares",
-        "pubdate": "Thu, 24 Oct 2024 09:00:00 -0500"
-    },
-    {
-        "title": "Stacey Williams",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Stacey%20Williams",
-        "pubdate": "Thu, 24 Oct 2024 09:00:00 +0200"
-    },
-    {
         "title": "FC Twente",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Twente",
         "pubdate": "Thu, 24 Oct 2024 13:00:00 +0200"
     },
     {
-        "title": "Legia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Legia",
-        "pubdate": "Thu, 24 Oct 2024 11:00:00 +0200"
-    },
-    {
-        "title": "Persib Bandung vs Lion City Sailors",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Persib%20Bandung%20vs%20Lion%20City%20Sailors",
-        "pubdate": "Thu, 24 Oct 2024 00:00:00 +0700"
-    },
-    {
-        "title": "FN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#FN",
-        "pubdate": "Thu, 24 Oct 2024 09:00:00 +0200"
+        "title": "Dam",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Dam",
+        "pubdate": "Fri, 25 Oct 2024 00:00:00 +0800"
     },
     {
         "title": "Tesla stock",
@@ -90,13 +55,48 @@
         "pubdate": "Thu, 24 Oct 2024 08:00:00 +0200"
     },
     {
-        "title": "Black Ops 6",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Black%20Ops%206",
-        "pubdate": "Fri, 25 Oct 2024 00:00:00 +1100"
+        "title": "Jeffrey Epstein",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Jeffrey%20Epstein",
+        "pubdate": "Thu, 24 Oct 2024 11:00:00 +0100"
     },
     {
-        "title": "Singtel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Singtel",
-        "pubdate": "Thu, 24 Oct 2024 17:00:00 +0800"
+        "title": "بيلا حديد",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=EG#%D8%A8%D9%8A%D9%84%D8%A7%20%D8%AD%D8%AF%D9%8A%D8%AF",
+        "pubdate": "Thu, 24 Oct 2024 04:00:00 +0300"
+    },
+    {
+        "title": "MrBeast",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#MrBeast",
+        "pubdate": "Thu, 24 Oct 2024 07:00:00 +0300"
+    },
+    {
+        "title": "Радіодиктант 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=UA#%D0%A0%D0%B0%D0%B4%D1%96%D0%BE%D0%B4%D0%B8%D0%BA%D1%82%D0%B0%D0%BD%D1%82%202024",
+        "pubdate": "Thu, 24 Oct 2024 12:00:00 +0300"
+    },
+    {
+        "title": "الاهلي والزمالك",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#%D8%A7%D9%84%D8%A7%D9%87%D9%84%D9%8A%20%D9%88%D8%A7%D9%84%D8%B2%D9%85%D8%A7%D9%84%D9%83",
+        "pubdate": "Thu, 24 Oct 2024 10:00:00 +0300"
+    },
+    {
+        "title": "Mamma Mia!",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Mamma%20Mia!",
+        "pubdate": "Thu, 24 Oct 2024 12:00:00 +0200"
+    },
+    {
+        "title": "Trail Blazers vs Warriors",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Trail%20Blazers%20vs%20Warriors",
+        "pubdate": "Thu, 24 Oct 2024 10:00:00 +0300"
+    },
+    {
+        "title": "Tesla-Aktie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tesla-Aktie",
+        "pubdate": "Thu, 24 Oct 2024 09:00:00 +0200"
+    },
+    {
+        "title": "Matteo Berrettini",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Matteo%20Berrettini",
+        "pubdate": "Thu, 24 Oct 2024 09:00:00 +0200"
     }
 ]
