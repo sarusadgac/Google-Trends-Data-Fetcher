@@ -35,9 +35,29 @@
         "pubdate": "Thu, 24 Oct 2024 15:00:00 -0500"
     },
     {
+        "title": "APEC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#APEC",
+        "pubdate": "Thu, 24 Oct 2024 13:00:00 -0500"
+    },
+    {
         "title": "Conference League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Conference%20League",
         "pubdate": "Thu, 24 Oct 2024 00:00:00 -0500"
+    },
+    {
+        "title": "Betis vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Betis%20vs",
+        "pubdate": "Thu, 24 Oct 2024 15:00:00 -0500"
+    },
+    {
+        "title": "Roma  Dinamo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Roma%20%20Dinamo",
+        "pubdate": "Thu, 24 Oct 2024 13:00:00 -0500"
+    },
+    {
+        "title": "Andres Vilchez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Andres%20Vilchez",
+        "pubdate": "Thu, 24 Oct 2024 12:00:00 -0500"
     },
     {
         "title": "APEC 2024",
@@ -50,8 +70,8 @@
         "pubdate": "Thu, 24 Oct 2024 10:00:00 -0500"
     },
     {
-        "title": "UEFA Europa League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#UEFA%20Europa%20League",
+        "title": "UEFA europa league",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#UEFA%20europa%20league",
         "pubdate": "Thu, 24 Oct 2024 13:00:00 -0500"
     },
     {
@@ -78,25 +98,5 @@
         "title": "Lazio vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Lazio%20vs",
         "pubdate": "Thu, 24 Oct 2024 16:00:00 -0500"
-    },
-    {
-        "title": "St. Gallen  Fiorentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#St.%20Gallen%20%20Fiorentina",
-        "pubdate": "Thu, 24 Oct 2024 15:00:00 -0500"
-    },
-    {
-        "title": "Christian Cueva",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Christian%20Cueva",
-        "pubdate": "Thu, 24 Oct 2024 14:00:00 -0500"
-    },
-    {
-        "title": "Charly garcia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Charly%20garcia",
-        "pubdate": "Thu, 24 Oct 2024 03:00:00 -0500"
-    },
-    {
-        "title": "Partido de hoy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Partido%20de%20hoy",
-        "pubdate": "Thu, 24 Oct 2024 00:00:00 -0500"
     }
 ]
