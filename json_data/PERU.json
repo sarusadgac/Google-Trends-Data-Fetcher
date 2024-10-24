@@ -5,14 +5,14 @@
         "pubdate": "Wed, 23 Oct 2024 02:00:00 -0500"
     },
     {
-        "title": "Atlético Madrid  LOSC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Atl%C3%A9tico%20Madrid%20%20LOSC",
-        "pubdate": "Wed, 23 Oct 2024 14:00:00 -0500"
-    },
-    {
         "title": "Cienciano  Alianza Atlético",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Cienciano%20%20Alianza%20Atl%C3%A9tico",
         "pubdate": "Wed, 23 Oct 2024 12:00:00 -0500"
+    },
+    {
+        "title": "Atlético Madrid  LOSC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Atl%C3%A9tico%20Madrid%20%20LOSC",
+        "pubdate": "Wed, 23 Oct 2024 14:00:00 -0500"
     },
     {
         "title": "Zoom",
@@ -30,14 +30,19 @@
         "pubdate": "Wed, 23 Oct 2024 01:00:00 -0500"
     },
     {
+        "title": "ADT  Unión Comercio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#ADT%20%20Uni%C3%B3n%20Comercio",
+        "pubdate": "Wed, 23 Oct 2024 16:00:00 -0500"
+    },
+    {
         "title": "Stade Brestois  Leverkusen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Stade%20Brestois%20%20Leverkusen",
         "pubdate": "Wed, 23 Oct 2024 12:00:00 -0500"
     },
     {
-        "title": "ADT  Unión Comercio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#ADT%20%20Uni%C3%B3n%20Comercio",
-        "pubdate": "Wed, 23 Oct 2024 16:00:00 -0500"
+        "title": "Boca Juniors  Gimnasia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Boca%20Juniors%20%20Gimnasia",
+        "pubdate": "Wed, 23 Oct 2024 17:00:00 -0500"
     },
     {
         "title": "Benfica vs",
@@ -55,9 +60,9 @@
         "pubdate": "Wed, 23 Oct 2024 10:00:00 -0500"
     },
     {
-        "title": "Boca Juniors  Gimnasia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Boca%20Juniors%20%20Gimnasia",
-        "pubdate": "Wed, 23 Oct 2024 17:00:00 -0500"
+        "title": "City vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#City%20vs",
+        "pubdate": "Wed, 23 Oct 2024 14:00:00 -0500"
     },
     {
         "title": "Barcelona vs Real Madrid",
@@ -65,14 +70,14 @@
         "pubdate": "Wed, 23 Oct 2024 14:00:00 -0500"
     },
     {
-        "title": "Real Madrid vs Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Real%20Madrid%20vs%20Barcelona",
-        "pubdate": "Wed, 23 Oct 2024 11:00:00 -0500"
-    },
-    {
         "title": "Paro 24 de octubre",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Paro%2024%20de%20octubre",
         "pubdate": "Wed, 23 Oct 2024 18:00:00 -0500"
+    },
+    {
+        "title": "Real Madrid vs Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Real%20Madrid%20vs%20Barcelona",
+        "pubdate": "Wed, 23 Oct 2024 11:00:00 -0500"
     },
     {
         "title": "Microsoft Teams",
@@ -85,18 +90,13 @@
         "pubdate": "Wed, 23 Oct 2024 16:00:00 -0500"
     },
     {
+        "title": "Cusco FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Cusco%20FC",
+        "pubdate": "Wed, 23 Oct 2024 16:00:00 -0500"
+    },
+    {
         "title": "Gustavo gutierrez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Gustavo%20gutierrez",
         "pubdate": "Wed, 23 Oct 2024 10:00:00 -0500"
-    },
-    {
-        "title": "Camara",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Camara",
-        "pubdate": "Wed, 23 Oct 2024 12:00:00 -0500"
-    },
-    {
-        "title": "Chayanne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Chayanne",
-        "pubdate": "Wed, 23 Oct 2024 17:00:00 -0500"
     }
 ]
