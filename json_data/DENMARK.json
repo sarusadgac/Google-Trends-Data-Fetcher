@@ -1,8 +1,13 @@
 [
     {
-        "title": "NBA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#NBA",
-        "pubdate": "Wed, 23 Oct 2024 02:00:00 +0200"
+        "title": "Tesla stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tesla%20stock",
+        "pubdate": "Thu, 24 Oct 2024 08:00:00 +0200"
+    },
+    {
+        "title": "Fascist",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Fascist",
+        "pubdate": "Thu, 24 Oct 2024 08:00:00 +0200"
     },
     {
         "title": "Gefion",
@@ -20,9 +25,19 @@
         "pubdate": "Wed, 23 Oct 2024 21:00:00 +0200"
     },
     {
+        "title": "LeBron James",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#LeBron%20James",
+        "pubdate": "Wed, 23 Oct 2024 12:00:00 +0200"
+    },
+    {
         "title": "RB Leipzig  Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#RB%20Leipzig%20%20Liverpool",
         "pubdate": "Wed, 23 Oct 2024 21:00:00 +0200"
+    },
+    {
+        "title": "NBA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#NBA",
+        "pubdate": "Wed, 23 Oct 2024 02:00:00 +0200"
     },
     {
         "title": "HALO",
@@ -38,6 +53,11 @@
         "title": "Borderline",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Borderline",
         "pubdate": "Wed, 23 Oct 2024 09:00:00 +0200"
+    },
+    {
+        "title": "Ballon d'Or 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ballon%20d'Or%202024",
+        "pubdate": "Wed, 23 Oct 2024 00:00:00 +0200"
     },
     {
         "title": "Nvidia",
@@ -78,25 +98,5 @@
         "title": "Beef tallow",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Beef%20tallow",
         "pubdate": "Wed, 23 Oct 2024 21:00:00 +0200"
-    },
-    {
-        "title": "Vincent Kompany",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Vincent%20Kompany",
-        "pubdate": "Wed, 23 Oct 2024 22:00:00 +0200"
-    },
-    {
-        "title": "Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Champions%20League",
-        "pubdate": "Tue, 22 Oct 2024 23:00:00 +0200"
-    },
-    {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Real%20Madrid",
-        "pubdate": "Tue, 22 Oct 2024 21:00:00 +0200"
-    },
-    {
-        "title": "Michael Newman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Michael%20Newman",
-        "pubdate": "Tue, 22 Oct 2024 17:00:00 +0200"
     }
 ]
