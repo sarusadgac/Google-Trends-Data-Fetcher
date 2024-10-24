@@ -1,18 +1,18 @@
 [
     {
-        "title": "Adidas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Adidas",
-        "pubdate": "Thu, 24 Oct 2024 03:00:00 -0500"
-    },
-    {
         "title": "Panathinaikos  Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Panathinaikos%20%20Chelsea",
         "pubdate": "Thu, 24 Oct 2024 12:00:00 -0500"
     },
     {
-        "title": "Chelsea vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Chelsea%20vs",
-        "pubdate": "Thu, 24 Oct 2024 12:00:00 -0500"
+        "title": "Adidas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Adidas",
+        "pubdate": "Thu, 24 Oct 2024 03:00:00 -0500"
+    },
+    {
+        "title": "Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Manchester%20United",
+        "pubdate": "Thu, 24 Oct 2024 01:00:00 -0500"
     },
     {
         "title": "Fases lunares",
@@ -25,19 +25,19 @@
         "pubdate": "Thu, 24 Oct 2024 00:00:00 -0500"
     },
     {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Manchester%20United",
-        "pubdate": "Thu, 24 Oct 2024 01:00:00 -0500"
+        "title": "Chelsea vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Chelsea%20vs",
+        "pubdate": "Thu, 24 Oct 2024 12:00:00 -0500"
+    },
+    {
+        "title": "Roma-Dinamo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Roma-Dinamo",
+        "pubdate": "Thu, 24 Oct 2024 13:00:00 -0500"
     },
     {
         "title": "Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Tottenham",
         "pubdate": "Thu, 24 Oct 2024 11:00:00 -0500"
-    },
-    {
-        "title": "Clausura Liga 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Clausura%20Liga%201",
-        "pubdate": "Thu, 24 Oct 2024 06:00:00 -0500"
     },
     {
         "title": "Charly garcia",
@@ -53,11 +53,6 @@
         "title": "Partido de hoy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Partido%20de%20hoy",
         "pubdate": "Thu, 24 Oct 2024 00:00:00 -0500"
-    },
-    {
-        "title": "Sporting Cristal  Universitario",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Sporting%20Cristal%20%20Universitario",
-        "pubdate": "Wed, 23 Oct 2024 12:00:00 -0500"
     },
     {
         "title": "Cienciano  Alianza Atlético",
@@ -93,6 +88,11 @@
         "title": "Atletico Madrid vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Atletico%20Madrid%20vs",
         "pubdate": "Wed, 23 Oct 2024 14:00:00 -0500"
+    },
+    {
+        "title": "Paro 24 de octubre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Paro%2024%20de%20octubre",
+        "pubdate": "Wed, 23 Oct 2024 18:00:00 -0500"
     },
     {
         "title": "Atalanta vs",
