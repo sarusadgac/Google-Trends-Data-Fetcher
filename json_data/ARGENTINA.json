@@ -5,6 +5,11 @@
         "pubdate": "Thu, 24 Oct 2024 14:00:00 -0300"
     },
     {
+        "title": "Sudamericana",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Sudamericana",
+        "pubdate": "Thu, 24 Oct 2024 00:00:00 -0300"
+    },
+    {
         "title": "Fases lunares",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Fases%20lunares",
         "pubdate": "Thu, 24 Oct 2024 07:00:00 -0300"
@@ -25,14 +30,19 @@
         "pubdate": "Thu, 24 Oct 2024 11:00:00 -0300"
     },
     {
+        "title": "Ricardo Iorio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Ricardo%20Iorio",
+        "pubdate": "Thu, 24 Oct 2024 11:00:00 -0300"
+    },
+    {
         "title": "Velez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Velez",
         "pubdate": "Thu, 24 Oct 2024 01:00:00 -0300"
     },
     {
-        "title": "Ricardo Iorio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Ricardo%20Iorio",
-        "pubdate": "Thu, 24 Oct 2024 11:00:00 -0300"
+        "title": "Fenerbahçe  Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Fenerbah%C3%A7e%20%20Manchester%20United",
+        "pubdate": "Thu, 24 Oct 2024 15:00:00 -0300"
     },
     {
         "title": "Ron Ely",
@@ -50,14 +60,14 @@
         "pubdate": "Thu, 24 Oct 2024 00:00:00 -0300"
     },
     {
-        "title": "Ayrton Senna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Ayrton%20Senna",
-        "pubdate": "Thu, 24 Oct 2024 04:00:00 -0300"
-    },
-    {
         "title": "Dia del Diseñador grafico",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Dia%20del%20Dise%C3%B1ador%20grafico",
         "pubdate": "Thu, 24 Oct 2024 12:00:00 -0300"
+    },
+    {
+        "title": "Ayrton Senna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Ayrton%20Senna",
+        "pubdate": "Thu, 24 Oct 2024 04:00:00 -0300"
     },
     {
         "title": "Estela de Carlotto",
@@ -65,9 +75,19 @@
         "pubdate": "Thu, 24 Oct 2024 14:00:00 -0300"
     },
     {
+        "title": "Raul lavie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Raul%20lavie",
+        "pubdate": "Thu, 24 Oct 2024 00:00:00 -0300"
+    },
+    {
         "title": "Marixa Balli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Marixa%20Balli",
         "pubdate": "Thu, 24 Oct 2024 13:00:00 -0300"
+    },
+    {
+        "title": "Falklands",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Falklands",
+        "pubdate": "Thu, 24 Oct 2024 15:00:00 -0300"
     },
     {
         "title": "Una",
@@ -78,25 +98,5 @@
         "title": "Medina Boca",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Medina%20Boca",
         "pubdate": "Thu, 24 Oct 2024 01:00:00 -0300"
-    },
-    {
-        "title": "Falklands",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Falklands",
-        "pubdate": "Thu, 24 Oct 2024 15:00:00 -0300"
-    },
-    {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Manchester%20United",
-        "pubdate": "Thu, 24 Oct 2024 15:00:00 -0300"
-    },
-    {
-        "title": "Gimnasia vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Gimnasia%20vs",
-        "pubdate": "Thu, 24 Oct 2024 08:00:00 -0300"
-    },
-    {
-        "title": "Boca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Boca",
-        "pubdate": "Wed, 23 Oct 2024 00:00:00 -0300"
     }
 ]
