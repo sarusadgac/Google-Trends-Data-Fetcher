@@ -10,18 +10,13 @@
         "pubdate": "Thu, 24 Oct 2024 02:00:00 +0700"
     },
     {
-        "title": "Benfica vs Feyenoord",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Benfica%20vs%20Feyenoord",
-        "pubdate": "Thu, 24 Oct 2024 01:00:00 +0700"
+        "title": "City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#City",
+        "pubdate": "Thu, 24 Oct 2024 00:00:00 +0700"
     },
     {
         "title": "Lee Hsien Loong",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Lee%20Hsien%20Loong",
-        "pubdate": "Thu, 24 Oct 2024 03:00:00 +0700"
-    },
-    {
-        "title": "City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#City",
         "pubdate": "Thu, 24 Oct 2024 03:00:00 +0700"
     },
     {
@@ -38,6 +33,11 @@
         "title": "Elkan Baggott",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Elkan%20Baggott",
         "pubdate": "Thu, 24 Oct 2024 07:00:00 +0700"
+    },
+    {
+        "title": "Benfica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Benfica",
+        "pubdate": "Thu, 24 Oct 2024 01:00:00 +0700"
     },
     {
         "title": "Liverpool FC",
@@ -85,11 +85,6 @@
         "pubdate": "Wed, 23 Oct 2024 02:00:00 +0700"
     },
     {
-        "title": "MPL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#MPL",
-        "pubdate": "Wed, 23 Oct 2024 09:00:00 +0700"
-    },
-    {
         "title": "Aston Villa vs Bologna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Aston%20Villa%20vs%20Bologna",
         "pubdate": "Wed, 23 Oct 2024 00:00:00 +0700"
@@ -98,5 +93,10 @@
         "title": "Inter Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Inter%20Milan",
         "pubdate": "Wed, 23 Oct 2024 20:00:00 +0700"
+    },
+    {
+        "title": "MPL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#MPL",
+        "pubdate": "Wed, 23 Oct 2024 11:00:00 +0700"
     }
 ]
