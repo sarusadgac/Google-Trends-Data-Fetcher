@@ -25,11 +25,6 @@
         "pubdate": "Wed, 23 Oct 2024 17:00:00 -0500"
     },
     {
-        "title": "Zoom",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Zoom",
-        "pubdate": "Wed, 23 Oct 2024 10:00:00 -0500"
-    },
-    {
         "title": "Botafogo vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Botafogo%20vs",
         "pubdate": "Wed, 23 Oct 2024 17:00:00 -0500"
@@ -55,24 +50,9 @@
         "pubdate": "Wed, 23 Oct 2024 01:00:00 -0500"
     },
     {
-        "title": "Benfica vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Benfica%20vs",
-        "pubdate": "Wed, 23 Oct 2024 12:00:00 -0500"
-    },
-    {
-        "title": "Inter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Inter",
+        "title": "Atletico Madrid vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Atletico%20Madrid%20vs",
         "pubdate": "Wed, 23 Oct 2024 14:00:00 -0500"
-    },
-    {
-        "title": "Paro 24 de octubre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Paro%2024%20de%20octubre",
-        "pubdate": "Wed, 23 Oct 2024 18:00:00 -0500"
-    },
-    {
-        "title": "Barcelona vs Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Barcelona%20vs%20Real%20Madrid",
-        "pubdate": "Wed, 23 Oct 2024 11:00:00 -0500"
     },
     {
         "title": "Cusco FC",
@@ -80,14 +60,29 @@
         "pubdate": "Wed, 23 Oct 2024 16:00:00 -0500"
     },
     {
+        "title": "Benfica vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Benfica%20vs",
+        "pubdate": "Wed, 23 Oct 2024 12:00:00 -0500"
+    },
+    {
+        "title": "Paro 24 de octubre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Paro%2024%20de%20octubre",
+        "pubdate": "Wed, 23 Oct 2024 18:00:00 -0500"
+    },
+    {
+        "title": "Inter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Inter",
+        "pubdate": "Wed, 23 Oct 2024 14:00:00 -0500"
+    },
+    {
         "title": "Bayer Leverkusen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bayer%20Leverkusen",
         "pubdate": "Wed, 23 Oct 2024 12:00:00 -0500"
     },
     {
-        "title": "Boca Juniors vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Boca%20Juniors%20vs",
-        "pubdate": "Wed, 23 Oct 2024 20:00:00 -0500"
+        "title": "Barcelona vs Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Barcelona%20vs%20Real%20Madrid",
+        "pubdate": "Wed, 23 Oct 2024 14:00:00 -0500"
     },
     {
         "title": "Galatasaray",
@@ -98,5 +93,10 @@
         "title": "Jose Pepe' Mujica",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Jose%20Pepe'%20Mujica",
         "pubdate": "Wed, 23 Oct 2024 05:00:00 -0500"
+    },
+    {
+        "title": "Real Madrid vs Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Real%20Madrid%20vs%20Barcelona",
+        "pubdate": "Wed, 23 Oct 2024 11:00:00 -0500"
     }
 ]
