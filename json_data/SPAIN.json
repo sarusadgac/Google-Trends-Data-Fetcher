@@ -1,18 +1,8 @@
 [
     {
-        "title": "Europa League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Europa%20League",
-        "pubdate": "Fri, 25 Oct 2024 10:00:00 +0200"
-    },
-    {
         "title": "Publico",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Publico",
         "pubdate": "Fri, 25 Oct 2024 00:00:00 +0200"
-    },
-    {
-        "title": "Antonio Maestre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Antonio%20Maestre",
-        "pubdate": "Fri, 25 Oct 2024 01:00:00 +0200"
     },
     {
         "title": "Loreto Arenillas",
@@ -20,9 +10,19 @@
         "pubdate": "Fri, 25 Oct 2024 10:00:00 +0200"
     },
     {
+        "title": "Premios Princesa de Asturias 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Premios%20Princesa%20de%20Asturias%202024",
+        "pubdate": "Fri, 25 Oct 2024 13:00:00 +0200"
+    },
+    {
         "title": "Neil Gaiman",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Neil%20Gaiman",
         "pubdate": "Fri, 25 Oct 2024 10:00:00 +0200"
+    },
+    {
+        "title": "Alejandro Sanz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Alejandro%20Sanz",
+        "pubdate": "Fri, 25 Oct 2024 17:00:00 +0200"
     },
     {
         "title": "Princesa maria Carolina de Liechtenstein",
@@ -40,9 +40,19 @@
         "pubdate": "Fri, 25 Oct 2024 09:00:00 +0200"
     },
     {
+        "title": "Cambio horario invierno",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Cambio%20horario%20invierno",
+        "pubdate": "Fri, 25 Oct 2024 17:00:00 +0200"
+    },
+    {
         "title": "Macarena Olona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Macarena%20Olona",
         "pubdate": "Fri, 25 Oct 2024 13:00:00 +0200"
+    },
+    {
+        "title": "Ada Colau",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ada%20Colau",
+        "pubdate": "Fri, 25 Oct 2024 17:00:00 +0200"
     },
     {
         "title": "Roberto Vaquero",
@@ -50,9 +60,9 @@
         "pubdate": "Fri, 25 Oct 2024 15:00:00 +0200"
     },
     {
-        "title": "Irene Montero",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Irene%20Montero",
-        "pubdate": "Fri, 25 Oct 2024 14:00:00 +0200"
+        "title": "Monumental Tour Zaragoza",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Monumental%20Tour%20Zaragoza",
+        "pubdate": "Fri, 25 Oct 2024 17:00:00 +0200"
     },
     {
         "title": "Ramón Espinar",
@@ -60,14 +70,9 @@
         "pubdate": "Fri, 25 Oct 2024 15:00:00 +0200"
     },
     {
-        "title": "Mar Lucas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Mar%20Lucas",
-        "pubdate": "Fri, 25 Oct 2024 10:00:00 +0200"
-    },
-    {
-        "title": "David Bustamante",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#David%20Bustamante",
-        "pubdate": "Fri, 25 Oct 2024 00:00:00 +0200"
+        "title": "Influencer Fernanda Carolina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Influencer%20Fernanda%20Carolina",
+        "pubdate": "Fri, 25 Oct 2024 16:00:00 +0200"
     },
     {
         "title": "Eduard Farelo",
@@ -80,9 +85,9 @@
         "pubdate": "Fri, 25 Oct 2024 12:00:00 +0200"
     },
     {
-        "title": "Influencer Fernanda Carolina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Influencer%20Fernanda%20Carolina",
-        "pubdate": "Fri, 25 Oct 2024 16:00:00 +0200"
+        "title": "David Bustamante",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#David%20Bustamante",
+        "pubdate": "Fri, 25 Oct 2024 00:00:00 +0200"
     },
     {
         "title": "Tottenham",
@@ -90,13 +95,8 @@
         "pubdate": "Fri, 25 Oct 2024 12:00:00 +0200"
     },
     {
-        "title": "Errejon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Errejon",
+        "title": "Iñigo errejon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#I%C3%B1igo%20errejon",
         "pubdate": "Thu, 24 Oct 2024 15:00:00 +0200"
-    },
-    {
-        "title": "Betis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Betis",
-        "pubdate": "Thu, 24 Oct 2024 16:00:00 +0200"
     }
 ]
