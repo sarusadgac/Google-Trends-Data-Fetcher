@@ -5,9 +5,19 @@
         "pubdate": "Fri, 25 Oct 2024 15:00:00 +0200"
     },
     {
+        "title": "Marcel Hirscher",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Marcel%20Hirscher",
+        "pubdate": "Fri, 25 Oct 2024 15:00:00 +0200"
+    },
+    {
         "title": "Lindsey Vonn",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Lindsey%20Vonn",
         "pubdate": "Fri, 25 Oct 2024 01:00:00 +0200"
+    },
+    {
+        "title": "Rainald Grebe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rainald%20Grebe",
+        "pubdate": "Fri, 25 Oct 2024 07:00:00 +0200"
     },
     {
         "title": "Linkin Park",
@@ -15,14 +25,14 @@
         "pubdate": "Fri, 25 Oct 2024 11:00:00 +0200"
     },
     {
-        "title": "The Room Next Door",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#The%20Room%20Next%20Door",
-        "pubdate": "Fri, 25 Oct 2024 12:00:00 +0200"
-    },
-    {
         "title": "Nationalfeiertag",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Nationalfeiertag",
         "pubdate": "Fri, 25 Oct 2024 13:00:00 +0200"
+    },
+    {
+        "title": "The Room Next Door",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#The%20Room%20Next%20Door",
+        "pubdate": "Fri, 25 Oct 2024 12:00:00 +0200"
     },
     {
         "title": "Banküberfall Innsbruck",
@@ -55,6 +65,11 @@
         "pubdate": "Thu, 24 Oct 2024 19:00:00 +0200"
     },
     {
+        "title": "Rapid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rapid",
+        "pubdate": "Thu, 24 Oct 2024 18:00:00 +0200"
+    },
+    {
         "title": "LASK",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#LASK",
         "pubdate": "Thu, 24 Oct 2024 21:00:00 +0200"
@@ -65,14 +80,14 @@
         "pubdate": "Thu, 24 Oct 2024 18:00:00 +0200"
     },
     {
-        "title": "Ron Ely",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ron%20Ely",
-        "pubdate": "Thu, 24 Oct 2024 08:00:00 +0200"
-    },
-    {
         "title": "Polizei",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Polizei",
         "pubdate": "Thu, 24 Oct 2024 23:00:00 +0200"
+    },
+    {
+        "title": "Ron Ely",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ron%20Ely",
+        "pubdate": "Thu, 24 Oct 2024 08:00:00 +0200"
     },
     {
         "title": "KlimaTicket",
@@ -80,23 +95,8 @@
         "pubdate": "Thu, 24 Oct 2024 19:00:00 +0200"
     },
     {
-        "title": "Black Ops 6",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Black%20Ops%206",
-        "pubdate": "Thu, 24 Oct 2024 17:00:00 +0200"
-    },
-    {
-        "title": "Besiktas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Besiktas",
-        "pubdate": "Thu, 24 Oct 2024 19:00:00 +0200"
-    },
-    {
-        "title": "Plöckenpass",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Pl%C3%B6ckenpass",
-        "pubdate": "Thu, 24 Oct 2024 08:00:00 +0200"
-    },
-    {
-        "title": "Lena Schilling",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Lena%20Schilling",
+        "title": "Bohrn Mena",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bohrn%20Mena",
         "pubdate": "Thu, 24 Oct 2024 12:00:00 +0200"
     }
 ]
