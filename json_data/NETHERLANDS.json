@@ -45,6 +45,11 @@
         "pubdate": "Wed, 23 Oct 2024 21:00:00 +0200"
     },
     {
+        "title": "Henry van Loon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Henry%20van%20Loon",
+        "pubdate": "Wed, 23 Oct 2024 22:00:00 +0200"
+    },
+    {
         "title": "Ik Vertrek",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ik%20Vertrek",
         "pubdate": "Tue, 22 Oct 2024 22:00:00 +0200"
@@ -93,10 +98,5 @@
         "title": "Heracles",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Heracles",
         "pubdate": "Sun, 20 Oct 2024 15:00:00 +0200"
-    },
-    {
-        "title": "PSV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV",
-        "pubdate": "Sat, 19 Oct 2024 18:00:00 +0200"
     }
 ]

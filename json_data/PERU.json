@@ -15,6 +15,11 @@
         "pubdate": "Thu, 24 Oct 2024 12:00:00 -0500"
     },
     {
+        "title": "Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Tottenham",
+        "pubdate": "Thu, 24 Oct 2024 11:00:00 -0500"
+    },
+    {
         "title": "Adidas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Adidas",
         "pubdate": "Thu, 24 Oct 2024 03:00:00 -0500"
@@ -23,21 +28,6 @@
         "title": "Fases lunares",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Fases%20lunares",
         "pubdate": "Thu, 24 Oct 2024 10:00:00 -0500"
-    },
-    {
-        "title": "Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Tottenham",
-        "pubdate": "Thu, 24 Oct 2024 11:00:00 -0500"
-    },
-    {
-        "title": "Tottenham  AZ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Tottenham%20%20AZ",
-        "pubdate": "Thu, 24 Oct 2024 15:00:00 -0500"
-    },
-    {
-        "title": "APEC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#APEC",
-        "pubdate": "Thu, 24 Oct 2024 13:00:00 -0500"
     },
     {
         "title": "Conference League",
@@ -50,11 +40,6 @@
         "pubdate": "Thu, 24 Oct 2024 13:00:00 -0500"
     },
     {
-        "title": "Lyon vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Lyon%20vs",
-        "pubdate": "Thu, 24 Oct 2024 16:00:00 -0500"
-    },
-    {
         "title": "Boys vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Boys%20vs",
         "pubdate": "Thu, 24 Oct 2024 17:00:00 -0500"
@@ -65,9 +50,19 @@
         "pubdate": "Thu, 24 Oct 2024 13:00:00 -0500"
     },
     {
+        "title": "Lyon vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Lyon%20vs",
+        "pubdate": "Thu, 24 Oct 2024 16:00:00 -0500"
+    },
+    {
         "title": "Roberto Burneo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Roberto%20Burneo",
         "pubdate": "Thu, 24 Oct 2024 15:00:00 -0500"
+    },
+    {
+        "title": "UEFA Europa League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#UEFA%20Europa%20League",
+        "pubdate": "Thu, 24 Oct 2024 13:00:00 -0500"
     },
     {
         "title": "Christopher Nolan",
@@ -85,14 +80,19 @@
         "pubdate": "Thu, 24 Oct 2024 14:00:00 -0500"
     },
     {
+        "title": "Lazio vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Lazio%20vs",
+        "pubdate": "Thu, 24 Oct 2024 16:00:00 -0500"
+    },
+    {
         "title": "Ajax",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Ajax",
         "pubdate": "Thu, 24 Oct 2024 14:00:00 -0500"
     },
     {
-        "title": "Lazio vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Lazio%20vs",
-        "pubdate": "Thu, 24 Oct 2024 16:00:00 -0500"
+        "title": "Íñigo Errejón",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#%C3%8D%C3%B1igo%20Errej%C3%B3n",
+        "pubdate": "Thu, 24 Oct 2024 20:00:00 -0500"
     },
     {
         "title": "St. Gallen  Fiorentina",
