@@ -1,7 +1,7 @@
 [
     {
-        "title": "CFR Cluj  Sepsi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#CFR%20Cluj%20%20Sepsi",
+        "title": "CFR Cluj - Sepsi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#CFR%20Cluj%20-%20Sepsi",
         "pubdate": "Fri, 25 Oct 2024 21:00:00 +0300"
     },
     {
@@ -15,8 +15,8 @@
         "pubdate": "Fri, 25 Oct 2024 10:00:00 +0300"
     },
     {
-        "title": "Focul lui Sumedru!",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Focul%20lui%20Sumedru!",
+        "title": "Focul lui Sumedru",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Focul%20lui%20Sumedru",
         "pubdate": "Fri, 25 Oct 2024 12:00:00 +0300"
     },
     {
@@ -30,19 +30,24 @@
         "pubdate": "Fri, 25 Oct 2024 14:00:00 +0300"
     },
     {
-        "title": "Volosevici",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Volosevici",
-        "pubdate": "Fri, 25 Oct 2024 13:00:00 +0300"
-    },
-    {
-        "title": "Petronela Rotar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Petronela%20Rotar",
-        "pubdate": "Fri, 25 Oct 2024 15:00:00 +0300"
+        "title": "Laura Orian",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Laura%20Orian",
+        "pubdate": "Fri, 25 Oct 2024 22:00:00 +0300"
     },
     {
         "title": "Sf. Dimitrie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sf.%20Dimitrie",
         "pubdate": "Fri, 25 Oct 2024 15:00:00 +0300"
+    },
+    {
+        "title": "Black Friday eMag",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Black%20Friday%20eMag",
+        "pubdate": "Fri, 25 Oct 2024 10:00:00 +0300"
+    },
+    {
+        "title": "Moartea in vacanta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Moartea%20in%20vacanta",
+        "pubdate": "Fri, 25 Oct 2024 22:00:00 +0300"
     },
     {
         "title": "Rangers - FCSB",
@@ -60,11 +65,6 @@
         "pubdate": "Thu, 24 Oct 2024 19:00:00 +0300"
     },
     {
-        "title": "Ziua Armatei",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ziua%20Armatei",
-        "pubdate": "Thu, 24 Oct 2024 11:00:00 +0300"
-    },
-    {
         "title": "Sfantul Dumitru",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sfantul%20Dumitru",
         "pubdate": "Thu, 24 Oct 2024 14:00:00 +0300"
@@ -73,6 +73,11 @@
         "title": "Tottenham - AZ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Tottenham%20-%20AZ",
         "pubdate": "Thu, 24 Oct 2024 22:00:00 +0300"
+    },
+    {
+        "title": "Ziua Armatei",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ziua%20Armatei",
+        "pubdate": "Thu, 24 Oct 2024 11:00:00 +0300"
     },
     {
         "title": "Black Friday",
@@ -93,10 +98,5 @@
         "title": "Conference League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Conference%20League",
         "pubdate": "Thu, 24 Oct 2024 20:00:00 +0300"
-    },
-    {
-        "title": "Bogdan Simionescu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Bogdan%20Simionescu",
-        "pubdate": "Thu, 24 Oct 2024 16:00:00 +0300"
     }
 ]
