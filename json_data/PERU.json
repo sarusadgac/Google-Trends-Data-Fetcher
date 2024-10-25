@@ -5,14 +5,14 @@
         "pubdate": "Fri, 25 Oct 2024 06:00:00 -0500"
     },
     {
-        "title": "Corinthians  Racing",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Corinthians%20%20Racing",
-        "pubdate": "Thu, 24 Oct 2024 19:00:00 -0500"
-    },
-    {
         "title": "Europa League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Europa%20League",
         "pubdate": "Thu, 24 Oct 2024 01:00:00 -0500"
+    },
+    {
+        "title": "Corinthians  Racing",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Corinthians%20%20Racing",
+        "pubdate": "Thu, 24 Oct 2024 19:00:00 -0500"
     },
     {
         "title": "Comerciantes Unidos  Sport Boys",
@@ -25,11 +25,6 @@
         "pubdate": "Thu, 24 Oct 2024 12:00:00 -0500"
     },
     {
-        "title": "Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Tottenham",
-        "pubdate": "Thu, 24 Oct 2024 11:00:00 -0500"
-    },
-    {
         "title": "Adidas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Adidas",
         "pubdate": "Thu, 24 Oct 2024 03:00:00 -0500"
@@ -40,19 +35,14 @@
         "pubdate": "Thu, 24 Oct 2024 10:00:00 -0500"
     },
     {
+        "title": "Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Tottenham",
+        "pubdate": "Thu, 24 Oct 2024 11:00:00 -0500"
+    },
+    {
         "title": "Conference League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Conference%20League",
         "pubdate": "Thu, 24 Oct 2024 00:00:00 -0500"
-    },
-    {
-        "title": "Athletic  Slavia Praga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Athletic%20%20Slavia%20Praga",
-        "pubdate": "Thu, 24 Oct 2024 15:00:00 -0500"
-    },
-    {
-        "title": "Roberto Burneo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Roberto%20Burneo",
-        "pubdate": "Thu, 24 Oct 2024 15:00:00 -0500"
     },
     {
         "title": "M. Tel-Aviv - Real Sociedad",
@@ -60,14 +50,9 @@
         "pubdate": "Thu, 24 Oct 2024 13:00:00 -0500"
     },
     {
-        "title": "Roma  Dinamo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Roma%20%20Dinamo",
-        "pubdate": "Thu, 24 Oct 2024 13:00:00 -0500"
-    },
-    {
-        "title": "Boys vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Boys%20vs",
-        "pubdate": "Thu, 24 Oct 2024 17:00:00 -0500"
+        "title": "Roberto Burneo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Roberto%20Burneo",
+        "pubdate": "Thu, 24 Oct 2024 15:00:00 -0500"
     },
     {
         "title": "APEC 2024",
@@ -98,5 +83,20 @@
         "title": "Ajax",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Ajax",
         "pubdate": "Thu, 24 Oct 2024 14:00:00 -0500"
+    },
+    {
+        "title": "Clausura Liga 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Clausura%20Liga%201",
+        "pubdate": "Thu, 24 Oct 2024 06:00:00 -0500"
+    },
+    {
+        "title": "Huracan vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Huracan%20vs",
+        "pubdate": "Thu, 24 Oct 2024 20:00:00 -0500"
+    },
+    {
+        "title": "Andahuaylas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Andahuaylas",
+        "pubdate": "Thu, 24 Oct 2024 18:00:00 -0500"
     }
 ]
