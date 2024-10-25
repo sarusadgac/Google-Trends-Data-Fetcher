@@ -15,6 +15,11 @@
         "pubdate": "Sat, 26 Oct 2024 01:00:00 +1100"
     },
     {
+        "title": "Cox Plate",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Cox%20Plate",
+        "pubdate": "Sat, 26 Oct 2024 07:00:00 +1100"
+    },
+    {
         "title": "Menendez brothers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Menendez%20brothers",
         "pubdate": "Fri, 25 Oct 2024 09:00:00 +1100"
@@ -55,14 +60,14 @@
         "pubdate": "Fri, 25 Oct 2024 19:00:00 +1100"
     },
     {
-        "title": "Conference League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Conference%20League",
-        "pubdate": "Fri, 25 Oct 2024 08:00:00 +1100"
+        "title": "Neil Gaiman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Neil%20Gaiman",
+        "pubdate": "Fri, 25 Oct 2024 18:00:00 +1100"
     },
     {
-        "title": "Do Patti",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Do%20Patti",
-        "pubdate": "Fri, 25 Oct 2024 22:00:00 +1100"
+        "title": "Gold Coast 500",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Gold%20Coast%20500",
+        "pubdate": "Fri, 25 Oct 2024 18:00:00 +1100"
     },
     {
         "title": "Tower Hill",
@@ -93,10 +98,5 @@
         "title": "UEFA Europa League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#UEFA%20Europa%20League",
         "pubdate": "Fri, 25 Oct 2024 14:00:00 +1100"
-    },
-    {
-        "title": "Supercars",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Supercars",
-        "pubdate": "Fri, 25 Oct 2024 22:00:00 +1100"
     }
 ]
