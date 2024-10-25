@@ -2,7 +2,6 @@ Ajax
 FC Twente
 AZ
 Flemming
-Noord-Koreaanse troepen
 Feyenoord
 Joost Klein
 Ik Vertrek
@@ -18,3 +17,4 @@ Heracles
 PSV
 Max Verstappen
 FC Twente
+N.E.C
