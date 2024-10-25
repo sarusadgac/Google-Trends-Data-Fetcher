@@ -25,9 +25,9 @@
         "pubdate": "Fri, 25 Oct 2024 01:00:00 +0200"
     },
     {
-        "title": "Milhouse",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Milhouse",
-        "pubdate": "Fri, 25 Oct 2024 09:00:00 +0200"
+        "title": "Neil Gaiman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Neil%20Gaiman",
+        "pubdate": "Fri, 25 Oct 2024 10:00:00 +0200"
     },
     {
         "title": "Fanfix",
@@ -35,14 +35,24 @@
         "pubdate": "Fri, 25 Oct 2024 10:00:00 +0200"
     },
     {
+        "title": "Macarena Olona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Macarena%20Olona",
+        "pubdate": "Fri, 25 Oct 2024 13:00:00 +0200"
+    },
+    {
         "title": "El diario.es",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#El%20diario.es",
         "pubdate": "Fri, 25 Oct 2024 12:00:00 +0200"
     },
     {
-        "title": "Macarena Olona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Macarena%20Olona",
-        "pubdate": "Fri, 25 Oct 2024 13:00:00 +0200"
+        "title": "Mar Lucas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Mar%20Lucas",
+        "pubdate": "Fri, 25 Oct 2024 10:00:00 +0200"
+    },
+    {
+        "title": "Ramón Espinar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ram%C3%B3n%20Espinar",
+        "pubdate": "Fri, 25 Oct 2024 15:00:00 +0200"
     },
     {
         "title": "David Bustamante",
@@ -55,8 +65,18 @@
         "pubdate": "Fri, 25 Oct 2024 12:00:00 +0200"
     },
     {
-        "title": "Errejon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Errejon",
+        "title": "Roberto Vaquero",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Roberto%20Vaquero",
+        "pubdate": "Fri, 25 Oct 2024 15:00:00 +0200"
+    },
+    {
+        "title": "Eduard Farelo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Eduard%20Farelo",
+        "pubdate": "Fri, 25 Oct 2024 15:00:00 +0200"
+    },
+    {
+        "title": "Iñigo errejon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#I%C3%B1igo%20errejon",
         "pubdate": "Thu, 24 Oct 2024 15:00:00 +0200"
     },
     {
@@ -78,25 +98,5 @@
         "title": "M. Tel-Aviv - Real Sociedad",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#M.%20Tel-Aviv%20-%20Real%20Sociedad",
         "pubdate": "Thu, 24 Oct 2024 18:00:00 +0200"
-    },
-    {
-        "title": "Maria Dolores Cospedal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Maria%20Dolores%20Cospedal",
-        "pubdate": "Thu, 24 Oct 2024 08:00:00 +0200"
-    },
-    {
-        "title": "Fases lunares",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Fases%20lunares",
-        "pubdate": "Thu, 24 Oct 2024 09:00:00 +0200"
-    },
-    {
-        "title": "Muere Michael Newman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Muere%20Michael%20Newman",
-        "pubdate": "Thu, 24 Oct 2024 01:00:00 +0200"
-    },
-    {
-        "title": "Levante  Deportivo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Levante%20%20Deportivo",
-        "pubdate": "Thu, 24 Oct 2024 19:00:00 +0200"
     }
 ]
