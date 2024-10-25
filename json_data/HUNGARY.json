@@ -1,13 +1,13 @@
 [
     {
-        "title": "Hunyadi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hunyadi",
-        "pubdate": "Fri, 25 Oct 2024 00:00:00 +0200"
-    },
-    {
         "title": "Péterfy Bori",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#P%C3%A9terfy%20Bori",
         "pubdate": "Fri, 25 Oct 2024 01:00:00 +0200"
+    },
+    {
+        "title": "Hunyadi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hunyadi",
+        "pubdate": "Fri, 25 Oct 2024 00:00:00 +0200"
     },
     {
         "title": "Mamma Mia!",
@@ -18,6 +18,11 @@
         "title": "Lakatos Márk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Lakatos%20M%C3%A1rk",
         "pubdate": "Thu, 24 Oct 2024 22:00:00 +0200"
+    },
+    {
+        "title": "Radnai László",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Radnai%20L%C3%A1szl%C3%B3",
+        "pubdate": "Thu, 24 Oct 2024 13:00:00 +0200"
     },
     {
         "title": "Manchester United",
@@ -33,6 +38,11 @@
         "title": "Hócipő",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#H%C3%B3cip%C5%91",
         "pubdate": "Thu, 24 Oct 2024 18:00:00 +0200"
+    },
+    {
+        "title": "El",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#El",
+        "pubdate": "Thu, 24 Oct 2024 20:00:00 +0200"
     },
     {
         "title": "Ron Ely",
@@ -75,6 +85,11 @@
         "pubdate": "Thu, 24 Oct 2024 16:00:00 +0200"
     },
     {
+        "title": "November 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#November%201",
+        "pubdate": "Thu, 24 Oct 2024 16:00:00 +0200"
+    },
+    {
         "title": "Puzsér",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Puzs%C3%A9r",
         "pubdate": "Thu, 24 Oct 2024 19:00:00 +0200"
@@ -83,20 +98,5 @@
         "title": "Törökország",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#T%C3%B6r%C3%B6korsz%C3%A1g",
         "pubdate": "Thu, 24 Oct 2024 19:00:00 +0200"
-    },
-    {
-        "title": "Babicsek Bernát",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Babicsek%20Bern%C3%A1t",
-        "pubdate": "Thu, 24 Oct 2024 22:00:00 +0200"
-    },
-    {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Liverpool",
-        "pubdate": "Wed, 23 Oct 2024 17:00:00 +0200"
-    },
-    {
-        "title": "Barcelona–Bayern München",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Barcelona%E2%80%93Bayern%20M%C3%BCnchen",
-        "pubdate": "Wed, 23 Oct 2024 19:00:00 +0200"
     }
 ]

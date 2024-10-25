@@ -10,8 +10,8 @@
         "pubdate": "Thu, 24 Oct 2024 19:00:00 +0300"
     },
     {
-        "title": "Tottenham - AZ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Tottenham%20-%20AZ",
+        "title": "Tottenham  AZ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Tottenham%20%20AZ",
         "pubdate": "Thu, 24 Oct 2024 22:00:00 +0300"
     },
     {
@@ -20,13 +20,13 @@
         "pubdate": "Thu, 24 Oct 2024 14:00:00 +0300"
     },
     {
-        "title": "Coreea de Nord Ucraina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Coreea%20de%20Nord%20Ucraina",
-        "pubdate": "Thu, 24 Oct 2024 02:00:00 +0300"
-    },
-    {
         "title": "Ziua Armatei",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ziua%20Armatei",
+        "pubdate": "Thu, 24 Oct 2024 11:00:00 +0300"
+    },
+    {
+        "title": "Accident bacia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Accident%20bacia",
         "pubdate": "Thu, 24 Oct 2024 11:00:00 +0300"
     },
     {
@@ -35,14 +35,14 @@
         "pubdate": "Thu, 24 Oct 2024 01:00:00 +0300"
     },
     {
-        "title": "Accident bacia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Accident%20bacia",
-        "pubdate": "Thu, 24 Oct 2024 11:00:00 +0300"
-    },
-    {
         "title": "Bogdan Simionescu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Bogdan%20Simionescu",
         "pubdate": "Thu, 24 Oct 2024 16:00:00 +0300"
+    },
+    {
+        "title": "Coreea de Nord Ucraina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Coreea%20de%20Nord%20Ucraina",
+        "pubdate": "Thu, 24 Oct 2024 02:00:00 +0300"
     },
     {
         "title": "Ana Birchall",
@@ -55,24 +55,24 @@
         "pubdate": "Thu, 24 Oct 2024 10:00:00 +0300"
     },
     {
-        "title": "Lamine Yamal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Lamine%20Yamal",
-        "pubdate": "Thu, 24 Oct 2024 00:00:00 +0300"
-    },
-    {
         "title": "Conference League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Conference%20League",
         "pubdate": "Thu, 24 Oct 2024 20:00:00 +0300"
     },
     {
+        "title": "Lamine Yamal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Lamine%20Yamal",
+        "pubdate": "Thu, 24 Oct 2024 00:00:00 +0300"
+    },
+    {
+        "title": "McDonald's",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#McDonald's",
+        "pubdate": "Thu, 24 Oct 2024 16:00:00 +0300"
+    },
+    {
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Manchester%20United",
         "pubdate": "Thu, 24 Oct 2024 23:00:00 +0300"
-    },
-    {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Chelsea",
-        "pubdate": "Thu, 24 Oct 2024 22:00:00 +0300"
     },
     {
         "title": "Geoana",
@@ -85,11 +85,6 @@
         "pubdate": "Thu, 24 Oct 2024 23:00:00 +0300"
     },
     {
-        "title": "Black Friday 2024 Altex",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Black%20Friday%202024%20Altex",
-        "pubdate": "Thu, 24 Oct 2024 23:00:00 +0300"
-    },
-    {
         "title": "Ron Ely",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ron%20Ely",
         "pubdate": "Thu, 24 Oct 2024 20:00:00 +0300"
@@ -98,5 +93,10 @@
         "title": "Xavi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Xavi",
         "pubdate": "Thu, 24 Oct 2024 12:00:00 +0300"
+    },
+    {
+        "title": "Rangers,  FCSB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Rangers,%20%20FCSB",
+        "pubdate": "Wed, 23 Oct 2024 11:00:00 +0300"
     }
 ]

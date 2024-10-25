@@ -5,8 +5,8 @@
         "pubdate": "Fri, 25 Oct 2024 09:00:00 +1300"
     },
     {
-        "title": "Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Tottenham",
+        "title": "Tottenham vs AZ Alkmaar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Tottenham%20vs%20AZ%20Alkmaar",
         "pubdate": "Fri, 25 Oct 2024 11:00:00 +1300"
     },
     {
@@ -20,14 +20,14 @@
         "pubdate": "Fri, 25 Oct 2024 08:00:00 +1300"
     },
     {
-        "title": "Black Ops 6",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Black%20Ops%206",
-        "pubdate": "Fri, 25 Oct 2024 08:00:00 +1300"
-    },
-    {
         "title": "David Warner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#David%20Warner",
         "pubdate": "Fri, 25 Oct 2024 11:00:00 +1300"
+    },
+    {
+        "title": "Black Ops 6",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Black%20Ops%206",
+        "pubdate": "Fri, 25 Oct 2024 08:00:00 +1300"
     },
     {
         "title": "Metallica nz 2025",
@@ -85,6 +85,11 @@
         "pubdate": "Thu, 24 Oct 2024 11:00:00 +1300"
     },
     {
+        "title": "Lotto winner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Lotto%20winner",
+        "pubdate": "Thu, 24 Oct 2024 05:00:00 +1300"
+    },
+    {
         "title": "Slate",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Slate",
         "pubdate": "Thu, 24 Oct 2024 11:00:00 +1300"
@@ -93,10 +98,5 @@
         "title": "Tyler, The Creator nz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Tyler,%20The%20Creator%20nz",
         "pubdate": "Thu, 24 Oct 2024 16:00:00 +1300"
-    },
-    {
-        "title": "England vs Pakistan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#England%20vs%20Pakistan",
-        "pubdate": "Thu, 24 Oct 2024 20:00:00 +1300"
     }
 ]

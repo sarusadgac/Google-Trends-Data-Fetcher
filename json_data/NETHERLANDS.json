@@ -1,5 +1,10 @@
 [
     {
+        "title": "Ajax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
+        "pubdate": "Thu, 24 Oct 2024 09:00:00 +0200"
+    },
+    {
         "title": "FC Twente",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Twente",
         "pubdate": "Thu, 24 Oct 2024 10:00:00 +0200"
@@ -20,19 +25,14 @@
         "pubdate": "Thu, 24 Oct 2024 16:00:00 +0200"
     },
     {
-        "title": "Brand Ede",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Brand%20Ede",
-        "pubdate": "Thu, 24 Oct 2024 21:00:00 +0200"
-    },
-    {
-        "title": "Ajax",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
-        "pubdate": "Wed, 23 Oct 2024 06:00:00 +0200"
-    },
-    {
-        "title": "Benfica  Feyenoord",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Benfica%20%20Feyenoord",
+        "title": "Feyenoord",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord",
         "pubdate": "Wed, 23 Oct 2024 10:00:00 +0200"
+    },
+    {
+        "title": "Europa League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Europa%20League",
+        "pubdate": "Wed, 23 Oct 2024 06:00:00 +0200"
     },
     {
         "title": "Joost Klein",
@@ -40,9 +40,9 @@
         "pubdate": "Wed, 23 Oct 2024 22:00:00 +0200"
     },
     {
-        "title": "Henry van Loon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Henry%20van%20Loon",
-        "pubdate": "Wed, 23 Oct 2024 22:00:00 +0200"
+        "title": "Ebusco",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ebusco",
+        "pubdate": "Wed, 23 Oct 2024 21:00:00 +0200"
     },
     {
         "title": "Ik Vertrek",
