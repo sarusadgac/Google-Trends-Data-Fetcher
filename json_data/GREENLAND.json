@@ -1,13 +1,28 @@
 [
     {
+        "title": "Inter Miami",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Inter%20Miami",
+        "pubdate": "Sat, 26 Oct 2024 07:30:00 +0530"
+    },
+    {
+        "title": "World Series",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#World%20Series",
+        "pubdate": "Fri, 25 Oct 2024 13:00:00 -0700"
+    },
+    {
         "title": "Iran",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Iran",
         "pubdate": "Sat, 26 Oct 2024 06:00:00 +0200"
     },
     {
-        "title": "Inter Miami",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Inter%20Miami",
-        "pubdate": "Sat, 26 Oct 2024 07:30:00 +0530"
+        "title": "МРОТ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%9C%D0%A0%D0%9E%D0%A2",
+        "pubdate": "Sat, 26 Oct 2024 00:00:00 +0300"
+    },
+    {
+        "title": "Paul Mescal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Paul%20Mescal",
+        "pubdate": "Sat, 26 Oct 2024 00:00:00 +0100"
     },
     {
         "title": "三號風球",
@@ -20,74 +35,34 @@
         "pubdate": "Fri, 25 Oct 2024 21:00:00 +0200"
     },
     {
-        "title": "Paul Mescal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Paul%20Mescal",
-        "pubdate": "Sat, 26 Oct 2024 00:00:00 +0100"
-    },
-    {
         "title": "フリーマン",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%95%E3%83%AA%E3%83%BC%E3%83%9E%E3%83%B3",
         "pubdate": "Sat, 26 Oct 2024 13:00:00 +0900"
     },
     {
-        "title": "МРОТ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%9C%D0%A0%D0%9E%D0%A2",
-        "pubdate": "Sat, 26 Oct 2024 00:00:00 +0300"
-    },
-    {
-        "title": "World Series",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#World%20Series",
-        "pubdate": "Fri, 25 Oct 2024 13:00:00 -0700"
-    },
-    {
-        "title": "Haiti",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Haiti",
-        "pubdate": "Sat, 26 Oct 2024 01:00:00 +0300"
-    },
-    {
-        "title": "Call of Duty Black Ops 6",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Call%20of%20Duty%20Black%20Ops%206",
-        "pubdate": "Fri, 25 Oct 2024 09:00:00 +0200"
-    },
-    {
-        "title": "Рух – Чорноморець",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=UA#%D0%A0%D1%83%D1%85%20%E2%80%93%20%D0%A7%D0%BE%D1%80%D0%BD%D0%BE%D0%BC%D0%BE%D1%80%D0%B5%D1%86%D1%8C",
-        "pubdate": "Fri, 25 Oct 2024 17:00:00 +0300"
-    },
-    {
-        "title": "ABBA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#ABBA",
-        "pubdate": "Sat, 26 Oct 2024 00:00:00 +0300"
-    },
-    {
-        "title": "Israel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Israel",
-        "pubdate": "Sat, 26 Oct 2024 01:00:00 -0500"
-    },
-    {
-        "title": "Åslaug Haga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#%C3%85slaug%20Haga",
+        "title": "Changement d'heure",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Changement%20d'heure",
         "pubdate": "Sat, 26 Oct 2024 01:00:00 +0200"
     },
     {
-        "title": "Chris Wood",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Chris%20Wood",
-        "pubdate": "Sat, 26 Oct 2024 10:00:00 +1300"
-    },
-    {
-        "title": "Österreichischer Nationalfeiertag",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#%C3%96sterreichischer%20Nationalfeiertag",
-        "pubdate": "Sat, 26 Oct 2024 01:00:00 +0200"
-    },
-    {
-        "title": "Hanno ucciso l'Uomo Ragno",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Hanno%20ucciso%20l'Uomo%20Ragno",
-        "pubdate": "Sat, 26 Oct 2024 01:00:00 +0200"
+        "title": "McDonald's",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#McDonald's",
+        "pubdate": "Sat, 26 Oct 2024 02:00:00 +0200"
     },
     {
         "title": "Inter Miami vs Atlanta United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Inter%20Miami%20vs%20Atlanta%20United",
-        "pubdate": "Sat, 26 Oct 2024 00:00:00 +0700"
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Inter%20Miami%20vs%20Atlanta%20United",
+        "pubdate": "Sat, 26 Oct 2024 00:00:00 +0100"
+    },
+    {
+        "title": "世界大賽",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E4%B8%96%E7%95%8C%E5%A4%A7%E8%B3%BD",
+        "pubdate": "Sat, 26 Oct 2024 00:00:00 +0800"
+    },
+    {
+        "title": "เลสเตอร์ พบ ฟอเรสต์",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TH#%E0%B9%80%E0%B8%A5%E0%B8%AA%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%20%E0%B8%9E%E0%B8%9A%20%E0%B8%9F%E0%B8%AD%E0%B9%80%E0%B8%A3%E0%B8%AA%E0%B8%95%E0%B9%8C",
+        "pubdate": "Sat, 26 Oct 2024 02:00:00 +0700"
     },
     {
         "title": "CNN",
@@ -95,8 +70,33 @@
         "pubdate": "Sat, 26 Oct 2024 06:00:00 +0300"
     },
     {
-        "title": "Elon Musk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Elon%20Musk",
-        "pubdate": "Sat, 26 Oct 2024 07:00:00 +0200"
+        "title": "Νικολουλη",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%9D%CE%B9%CE%BA%CE%BF%CE%BB%CE%BF%CF%85%CE%BB%CE%B7",
+        "pubdate": "Sat, 26 Oct 2024 00:00:00 +0300"
+    },
+    {
+        "title": "PSL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#PSL",
+        "pubdate": "Sat, 26 Oct 2024 01:00:00 +0200"
+    },
+    {
+        "title": "야구",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%95%BC%EA%B5%AC",
+        "pubdate": "Sat, 26 Oct 2024 00:00:00 +0900"
+    },
+    {
+        "title": "UFC 308",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#UFC%20308",
+        "pubdate": "Sat, 26 Oct 2024 00:00:00 -0600"
+    },
+    {
+        "title": "Call of Duty Black Ops 6",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Call%20of%20Duty%20Black%20Ops%206",
+        "pubdate": "Fri, 25 Oct 2024 09:00:00 +0200"
+    },
+    {
+        "title": "Freddie Freeman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Freddie%20Freeman",
+        "pubdate": "Sat, 26 Oct 2024 00:00:00 -0400"
     }
 ]
