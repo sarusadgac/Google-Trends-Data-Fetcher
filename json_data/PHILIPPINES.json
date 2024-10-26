@@ -60,19 +60,14 @@
         "pubdate": "Sat, 26 Oct 2024 14:00:00 +0800"
     },
     {
-        "title": "Warriors",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Warriors",
-        "pubdate": "Sat, 26 Oct 2024 14:00:00 +0800"
+        "title": "Kim Byung Sun",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Kim%20Byung%20Sun",
+        "pubdate": "Sat, 26 Oct 2024 12:00:00 +0800"
     },
     {
         "title": "Hellbound",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Hellbound",
         "pubdate": "Sat, 26 Oct 2024 02:00:00 +0800"
-    },
-    {
-        "title": "Kim Byung Sun",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Kim%20Byung%20Sun",
-        "pubdate": "Sat, 26 Oct 2024 12:00:00 +0800"
     },
     {
         "title": "Magic vs Nets",
@@ -98,5 +93,10 @@
         "title": "UFC 308",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#UFC%20308",
         "pubdate": "Sat, 26 Oct 2024 03:00:00 +0800"
+    },
+    {
+        "title": "Trick-or-treat",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Trick-or-treat",
+        "pubdate": "Sat, 26 Oct 2024 11:00:00 +0800"
     }
 ]
