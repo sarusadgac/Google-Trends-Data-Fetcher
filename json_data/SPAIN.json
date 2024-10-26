@@ -10,9 +10,14 @@
         "pubdate": "Sat, 26 Oct 2024 14:00:00 +0200"
     },
     {
-        "title": "Rayo Vallecano - Alavés!",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Rayo%20Vallecano%20-%20Alav%C3%A9s!",
+        "title": "Rayo Vallecano -  Alavés",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Rayo%20Vallecano%20-%20%20Alav%C3%A9s",
         "pubdate": "Sat, 26 Oct 2024 16:00:00 +0200"
+    },
+    {
+        "title": "DAZN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#DAZN",
+        "pubdate": "Sat, 26 Oct 2024 15:00:00 +0200"
     },
     {
         "title": "Inter Miami - Atlanta United",
@@ -20,9 +25,9 @@
         "pubdate": "Sat, 26 Oct 2024 02:00:00 +0200"
     },
     {
-        "title": "DAZN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#DAZN",
-        "pubdate": "Sat, 26 Oct 2024 15:00:00 +0200"
+        "title": "Manchester City - Southampton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Manchester%20City%20-%20Southampton",
+        "pubdate": "Sat, 26 Oct 2024 16:00:00 +0200"
     },
     {
         "title": "Mónica Oltra",
@@ -35,14 +40,19 @@
         "pubdate": "Sat, 26 Oct 2024 01:00:00 +0200"
     },
     {
-        "title": "Manchester City - Southampton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Manchester%20City%20-%20Southampton",
-        "pubdate": "Sat, 26 Oct 2024 16:00:00 +0200"
+        "title": "UD Las Palmas - Girona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#UD%20Las%20Palmas%20-%20Girona",
+        "pubdate": "Sat, 26 Oct 2024 18:00:00 +0200"
     },
     {
         "title": "Sotres",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Sotres",
         "pubdate": "Sat, 26 Oct 2024 10:00:00 +0200"
+    },
+    {
+        "title": "Cádiz - Real Oviedo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#C%C3%A1diz%20-%20Real%20Oviedo",
+        "pubdate": "Sat, 26 Oct 2024 16:00:00 +0200"
     },
     {
         "title": "Iran",
@@ -58,11 +68,6 @@
         "title": "Dani fernandez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Dani%20fernandez",
         "pubdate": "Sat, 26 Oct 2024 00:00:00 +0200"
-    },
-    {
-        "title": "Cádiz - Real Oviedo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#C%C3%A1diz%20-%20Real%20Oviedo",
-        "pubdate": "Sat, 26 Oct 2024 16:00:00 +0200"
     },
     {
         "title": "Prince Royce",
@@ -85,18 +90,13 @@
         "pubdate": "Sat, 26 Oct 2024 10:00:00 +0200"
     },
     {
-        "title": "Mika La Voz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Mika%20La%20Voz",
-        "pubdate": "Sat, 26 Oct 2024 01:00:00 +0200"
+        "title": "Lakers  Suns",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Lakers%20%20Suns",
+        "pubdate": "Sat, 26 Oct 2024 10:00:00 +0200"
     },
     {
-        "title": "Nyland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Nyland",
-        "pubdate": "Sat, 26 Oct 2024 12:00:00 +0200"
-    },
-    {
-        "title": "Explosion Santander",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Explosion%20Santander",
-        "pubdate": "Sat, 26 Oct 2024 15:00:00 +0200"
+        "title": "Mirandés  Cartagena",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Mirand%C3%A9s%20%20Cartagena",
+        "pubdate": "Sat, 26 Oct 2024 17:00:00 +0200"
     }
 ]
