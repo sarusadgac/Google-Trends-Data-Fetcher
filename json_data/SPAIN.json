@@ -10,11 +10,6 @@
         "pubdate": "Sat, 26 Oct 2024 01:00:00 +0200"
     },
     {
-        "title": "Pim, pam, pum fuego!",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Pim,%20pam,%20pum%20fuego!",
-        "pubdate": "Sat, 26 Oct 2024 00:00:00 +0200"
-    },
-    {
         "title": "Dani fernandez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Dani%20fernandez",
         "pubdate": "Sat, 26 Oct 2024 00:00:00 +0200"
@@ -45,6 +40,11 @@
         "pubdate": "Sat, 26 Oct 2024 00:00:00 +0200"
     },
     {
+        "title": "Sotres",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Sotres",
+        "pubdate": "Sat, 26 Oct 2024 10:00:00 +0200"
+    },
+    {
         "title": "Oscar Puente",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Oscar%20Puente",
         "pubdate": "Sat, 26 Oct 2024 03:00:00 +0200"
@@ -52,6 +52,16 @@
     {
         "title": "Monedero",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Monedero",
+        "pubdate": "Sat, 26 Oct 2024 02:00:00 +0200"
+    },
+    {
+        "title": "Carlos Mata",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Carlos%20Mata",
+        "pubdate": "Sat, 26 Oct 2024 03:00:00 +0200"
+    },
+    {
+        "title": "Concha Velasco",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Concha%20Velasco",
         "pubdate": "Sat, 26 Oct 2024 02:00:00 +0200"
     },
     {
@@ -75,19 +85,9 @@
         "pubdate": "Fri, 25 Oct 2024 23:00:00 +0200"
     },
     {
-        "title": "Joan Manuel Serrat",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Joan%20Manuel%20Serrat",
-        "pubdate": "Fri, 25 Oct 2024 20:00:00 +0200"
-    },
-    {
         "title": "Loreto Arenillas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Loreto%20Arenillas",
         "pubdate": "Fri, 25 Oct 2024 10:00:00 +0200"
-    },
-    {
-        "title": "Publico",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Publico",
-        "pubdate": "Fri, 25 Oct 2024 00:00:00 +0200"
     },
     {
         "title": "España  Canadá",
@@ -95,8 +95,8 @@
         "pubdate": "Fri, 25 Oct 2024 22:00:00 +0200"
     },
     {
-        "title": "Sevilla FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Sevilla%20FC",
-        "pubdate": "Fri, 25 Oct 2024 21:00:00 +0200"
+        "title": "Publico",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Publico",
+        "pubdate": "Fri, 25 Oct 2024 00:00:00 +0200"
     }
 ]

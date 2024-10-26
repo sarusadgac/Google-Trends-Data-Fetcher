@@ -45,11 +45,6 @@
         "pubdate": "Fri, 25 Oct 2024 01:00:00 +0300"
     },
     {
-        "title": "POLESTAR",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#POLESTAR",
-        "pubdate": "Fri, 25 Oct 2024 17:00:00 +0300"
-    },
-    {
         "title": "Shawna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Shawna",
         "pubdate": "Fri, 25 Oct 2024 22:00:00 +0300"
@@ -98,5 +93,10 @@
         "title": "Tesla stock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tesla%20stock",
         "pubdate": "Thu, 24 Oct 2024 08:00:00 +0300"
+    },
+    {
+        "title": "MrBeast",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#MrBeast",
+        "pubdate": "Thu, 24 Oct 2024 07:00:00 +0300"
     }
 ]
