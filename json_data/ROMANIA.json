@@ -10,14 +10,14 @@
         "pubdate": "Sat, 26 Oct 2024 16:00:00 +0300"
     },
     {
-        "title": "UTA Arad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#UTA%20Arad",
-        "pubdate": "Sat, 26 Oct 2024 13:00:00 +0300"
-    },
-    {
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Real%20Madrid",
         "pubdate": "Sat, 26 Oct 2024 12:00:00 +0300"
+    },
+    {
+        "title": "UTA Arad",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#UTA%20Arad",
+        "pubdate": "Sat, 26 Oct 2024 13:00:00 +0300"
     },
     {
         "title": "Iran",
@@ -30,11 +30,6 @@
         "pubdate": "Sat, 26 Oct 2024 01:00:00 +0300"
     },
     {
-        "title": "Georgia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Georgia",
-        "pubdate": "Sat, 26 Oct 2024 00:00:00 +0300"
-    },
-    {
         "title": "E. coli McDonald's",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#E.%20coli%20McDonald's",
         "pubdate": "Sat, 26 Oct 2024 10:00:00 +0300"
@@ -43,6 +38,11 @@
         "title": "UFC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#UFC",
         "pubdate": "Sat, 26 Oct 2024 08:00:00 +0300"
+    },
+    {
+        "title": "Georgia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Georgia",
+        "pubdate": "Sat, 26 Oct 2024 00:00:00 +0300"
     },
     {
         "title": "Inter Miami",
@@ -60,14 +60,14 @@
         "pubdate": "Sat, 26 Oct 2024 10:00:00 +0300"
     },
     {
-        "title": "Romania Polonia fotbal feminin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Romania%20Polonia%20fotbal%20feminin",
-        "pubdate": "Sat, 26 Oct 2024 09:00:00 +0300"
-    },
-    {
         "title": "Fratii Menendez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Fratii%20Menendez",
         "pubdate": "Sat, 26 Oct 2024 09:00:00 +0300"
+    },
+    {
+        "title": "Ce sarbatoare e pe 26 octombrie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ce%20sarbatoare%20e%20pe%2026%20octombrie",
+        "pubdate": "Sat, 26 Oct 2024 10:00:00 +0300"
     },
     {
         "title": "Reduceri Black Friday",
@@ -80,9 +80,9 @@
         "pubdate": "Sat, 26 Oct 2024 08:00:00 +0300"
     },
     {
-        "title": "CFR Cluj  Sepsi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#CFR%20Cluj%20%20Sepsi",
-        "pubdate": "Fri, 25 Oct 2024 21:00:00 +0300"
+        "title": "Alina Petre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Alina%20Petre",
+        "pubdate": "Sat, 26 Oct 2024 10:00:00 +0300"
     },
     {
         "title": "Cand se schimba ora",
@@ -90,13 +90,13 @@
         "pubdate": "Fri, 25 Oct 2024 16:00:00 +0300"
     },
     {
+        "title": "CFR Cluj  Sepsi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#CFR%20Cluj%20%20Sepsi",
+        "pubdate": "Fri, 25 Oct 2024 21:00:00 +0300"
+    },
+    {
         "title": "Sfantul Dumitru",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sfantul%20Dumitru",
         "pubdate": "Fri, 25 Oct 2024 00:00:00 +0300"
-    },
-    {
-        "title": "Mircea Barbu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Mircea%20Barbu",
-        "pubdate": "Fri, 25 Oct 2024 11:00:00 +0300"
     }
 ]

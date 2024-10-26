@@ -65,6 +65,11 @@
         "pubdate": "Sat, 26 Oct 2024 01:30:00 +0530"
     },
     {
+        "title": "WTC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#WTC",
+        "pubdate": "Sat, 26 Oct 2024 23:30:00 +0530"
+    },
+    {
         "title": "Emerging Asia Cup",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Emerging%20Asia%20Cup",
         "pubdate": "Fri, 25 Oct 2024 20:30:00 +0530"
@@ -93,10 +98,5 @@
         "title": "Kerala Blasters",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Kerala%20Blasters",
         "pubdate": "Fri, 25 Oct 2024 18:30:00 +0530"
-    },
-    {
-        "title": "Chennai",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Chennai",
-        "pubdate": "Fri, 25 Oct 2024 22:30:00 +0530"
     }
 ]
