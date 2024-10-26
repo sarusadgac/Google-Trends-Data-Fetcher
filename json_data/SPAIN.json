@@ -1,7 +1,7 @@
 [
     {
-        "title": "Real Madrid - Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Real%20Madrid%20-%20Barcelona",
+        "title": "Real Madrid  Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Real%20Madrid%20%20Barcelona",
         "pubdate": "Sat, 26 Oct 2024 08:00:00 +0200"
     },
     {
@@ -45,6 +45,11 @@
         "pubdate": "Sat, 26 Oct 2024 16:00:00 +0200"
     },
     {
+        "title": "HBO",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#HBO",
+        "pubdate": "Sat, 26 Oct 2024 22:00:00 +0200"
+    },
+    {
         "title": "Mónica Oltra",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#M%C3%B3nica%20Oltra",
         "pubdate": "Sat, 26 Oct 2024 07:00:00 +0200"
@@ -53,11 +58,6 @@
         "title": "Venom",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Venom",
         "pubdate": "Sat, 26 Oct 2024 01:00:00 +0200"
-    },
-    {
-        "title": "Sotres",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Sotres",
-        "pubdate": "Sat, 26 Oct 2024 10:00:00 +0200"
     },
     {
         "title": "Magis TV",
@@ -70,33 +70,33 @@
         "pubdate": "Sat, 26 Oct 2024 06:00:00 +0200"
     },
     {
+        "title": "Sotres",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Sotres",
+        "pubdate": "Sat, 26 Oct 2024 10:00:00 +0200"
+    },
+    {
+        "title": "Pim, pam, pum fuego!",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Pim,%20pam,%20pum%20fuego!",
+        "pubdate": "Sat, 26 Oct 2024 00:00:00 +0200"
+    },
+    {
+        "title": "ESPN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#ESPN",
+        "pubdate": "Sat, 26 Oct 2024 20:00:00 +0200"
+    },
+    {
+        "title": "Córdoba  CD Eldense",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#C%C3%B3rdoba%20%20CD%20Eldense",
+        "pubdate": "Sat, 26 Oct 2024 19:00:00 +0200"
+    },
+    {
         "title": "Dani fernandez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Dani%20fernandez",
         "pubdate": "Sat, 26 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "Córdoba. -. CD Eldense",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#C%C3%B3rdoba.%20-.%20CD%20Eldense",
-        "pubdate": "Sat, 26 Oct 2024 19:00:00 +0200"
-    },
-    {
-        "title": "La Voz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#La%20Voz",
-        "pubdate": "Sat, 26 Oct 2024 00:00:00 +0200"
-    },
-    {
-        "title": "Muere ze Carlos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Muere%20ze%20Carlos",
-        "pubdate": "Sat, 26 Oct 2024 12:00:00 +0200"
-    },
-    {
-        "title": "Prince Royce",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Prince%20Royce",
-        "pubdate": "Sat, 26 Oct 2024 00:00:00 +0200"
-    },
-    {
-        "title": "Mirandés  Cartagena",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Mirand%C3%A9s%20%20Cartagena",
+        "title": "Mirandés-Cartagena",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Mirand%C3%A9s-Cartagena",
         "pubdate": "Sat, 26 Oct 2024 17:00:00 +0200"
     }
 ]
