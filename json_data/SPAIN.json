@@ -5,14 +5,19 @@
         "pubdate": "Sat, 26 Oct 2024 08:00:00 +0200"
     },
     {
+        "title": "Valladolid - Villarreal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Valladolid%20-%20Villarreal",
+        "pubdate": "Sat, 26 Oct 2024 14:00:00 +0200"
+    },
+    {
         "title": "Inter Miami - Atlanta United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Inter%20Miami%20-%20Atlanta%20United",
         "pubdate": "Sat, 26 Oct 2024 02:00:00 +0200"
     },
     {
-        "title": "Valladolid - Villarreal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Valladolid%20-%20Villarreal",
-        "pubdate": "Sat, 26 Oct 2024 14:00:00 +0200"
+        "title": "DAZN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#DAZN",
+        "pubdate": "Sat, 26 Oct 2024 15:00:00 +0200"
     },
     {
         "title": "Venom",
@@ -35,6 +40,11 @@
         "pubdate": "Sat, 26 Oct 2024 00:00:00 +0200"
     },
     {
+        "title": "Sotres",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Sotres",
+        "pubdate": "Sat, 26 Oct 2024 10:00:00 +0200"
+    },
+    {
         "title": "Prince Royce",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Prince%20Royce",
         "pubdate": "Sat, 26 Oct 2024 00:00:00 +0200"
@@ -45,9 +55,9 @@
         "pubdate": "Sat, 26 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "Sotres",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Sotres",
-        "pubdate": "Sat, 26 Oct 2024 10:00:00 +0200"
+        "title": "Mika La Voz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Mika%20La%20Voz",
+        "pubdate": "Sat, 26 Oct 2024 01:00:00 +0200"
     },
     {
         "title": "Supersubmarina",
@@ -65,6 +75,11 @@
         "pubdate": "Sat, 26 Oct 2024 02:00:00 +0200"
     },
     {
+        "title": "Explosion Santander",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Explosion%20Santander",
+        "pubdate": "Sat, 26 Oct 2024 15:00:00 +0200"
+    },
+    {
         "title": "Carlos Mata",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Carlos%20Mata",
         "pubdate": "Sat, 26 Oct 2024 03:00:00 +0200"
@@ -80,23 +95,8 @@
         "pubdate": "Sat, 26 Oct 2024 02:00:00 +0200"
     },
     {
-        "title": "Cambio de hora",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Cambio%20de%20hora",
-        "pubdate": "Fri, 25 Oct 2024 17:00:00 +0200"
-    },
-    {
-        "title": "RCD Espanyol - Sevilla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#RCD%20Espanyol%20-%20Sevilla",
-        "pubdate": "Fri, 25 Oct 2024 21:00:00 +0200"
-    },
-    {
         "title": "Topuria",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Topuria",
         "pubdate": "Fri, 25 Oct 2024 20:00:00 +0200"
-    },
-    {
-        "title": "Alerta por precipitaciones",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Alerta%20por%20precipitaciones",
-        "pubdate": "Fri, 25 Oct 2024 08:00:00 +0200"
     }
 ]

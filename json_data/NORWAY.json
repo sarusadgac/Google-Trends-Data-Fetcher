@@ -1,12 +1,17 @@
 [
     {
+        "title": "Iran",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Iran",
+        "pubdate": "Sat, 26 Oct 2024 08:00:00 +0200"
+    },
+    {
         "title": "Sommertid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sommertid",
         "pubdate": "Sat, 26 Oct 2024 10:00:00 +0200"
     },
     {
-        "title": "Iran",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Iran",
+        "title": "Phil Lesh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Phil%20Lesh",
         "pubdate": "Sat, 26 Oct 2024 08:00:00 +0200"
     },
     {
@@ -50,14 +55,14 @@
         "pubdate": "Fri, 25 Oct 2024 21:00:00 +0200"
     },
     {
+        "title": "UFC 308",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#UFC%20308",
+        "pubdate": "Fri, 25 Oct 2024 23:00:00 +0200"
+    },
+    {
         "title": "Good Luck Guys",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Good%20Luck%20Guys",
         "pubdate": "Fri, 25 Oct 2024 12:00:00 +0200"
-    },
-    {
-        "title": "Lyko Bergen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lyko%20Bergen",
-        "pubdate": "Fri, 25 Oct 2024 21:00:00 +0200"
     },
     {
         "title": "Bruce Springsteen",
@@ -93,10 +98,5 @@
         "title": "Venom: The Last Dance",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Venom:%20The%20Last%20Dance",
         "pubdate": "Fri, 25 Oct 2024 22:00:00 +0200"
-    },
-    {
-        "title": "IPSOS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#IPSOS",
-        "pubdate": "Fri, 25 Oct 2024 00:00:00 +0200"
     }
 ]
