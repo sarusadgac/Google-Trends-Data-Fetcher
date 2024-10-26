@@ -1,9 +1,10 @@
-CNN
 איראן
 רעידת אדמה
 Iran
 BBC news
 Fox News
+New York Times
+Washington Post
 מג'ד אל-כרום
 שעון חורף
 אובך
@@ -17,4 +18,3 @@ Menendez brothers
 פיגוע בסרי לנקה
 גיא בן-הרוש
 ברצלונה
-מכבי תל אביב
