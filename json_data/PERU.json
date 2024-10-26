@@ -1,5 +1,10 @@
 [
     {
+        "title": "Israel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Israel",
+        "pubdate": "Sat, 26 Oct 2024 01:00:00 -0500"
+    },
+    {
         "title": "Aston Villa vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Aston%20Villa%20vs",
         "pubdate": "Sat, 26 Oct 2024 00:00:00 -0500"
@@ -8,6 +13,11 @@
         "title": "Chankas vs Universitario",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Chankas%20vs%20Universitario",
         "pubdate": "Sat, 26 Oct 2024 00:00:00 -0500"
+    },
+    {
+        "title": "Salim Vera",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Salim%20Vera",
+        "pubdate": "Sat, 26 Oct 2024 01:00:00 -0500"
     },
     {
         "title": "Inter Miami - Atlanta United",
@@ -88,15 +98,5 @@
         "title": "Memphis Depay",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Memphis%20Depay",
         "pubdate": "Fri, 25 Oct 2024 13:00:00 -0500"
-    },
-    {
-        "title": "Corinthians  Racing",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Corinthians%20%20Racing",
-        "pubdate": "Thu, 24 Oct 2024 19:00:00 -0500"
-    },
-    {
-        "title": "Europa League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Europa%20League",
-        "pubdate": "Thu, 24 Oct 2024 01:00:00 -0500"
     }
 ]
