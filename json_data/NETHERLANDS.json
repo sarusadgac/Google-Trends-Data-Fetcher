@@ -5,11 +5,6 @@
         "pubdate": "Sat, 26 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "VVV  Den Bosch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#VVV%20%20Den%20Bosch",
-        "pubdate": "Sat, 26 Oct 2024 01:00:00 +0200"
-    },
-    {
         "title": "GP Mexico",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#GP%20Mexico",
         "pubdate": "Sat, 26 Oct 2024 02:00:00 +0200"
@@ -23,11 +18,6 @@
         "title": "Emma Kok",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Emma%20Kok",
         "pubdate": "Fri, 25 Oct 2024 20:00:00 +0200"
-    },
-    {
-        "title": "Oranje Leeuwinnen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Oranje%20Leeuwinnen",
-        "pubdate": "Fri, 25 Oct 2024 22:00:00 +0200"
     },
     {
         "title": "Mohammed Khatib",
@@ -98,5 +88,15 @@
         "title": "Cambuur",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Cambuur",
         "pubdate": "Mon, 21 Oct 2024 20:00:00 +0200"
+    },
+    {
+        "title": "Fcgroningen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Fcgroningen",
+        "pubdate": "Sun, 20 Oct 2024 13:00:00 +0200"
+    },
+    {
+        "title": "FC Utrecht",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Utrecht",
+        "pubdate": "Sun, 20 Oct 2024 15:00:00 +0200"
     }
 ]
