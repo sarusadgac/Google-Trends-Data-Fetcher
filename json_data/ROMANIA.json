@@ -1,5 +1,10 @@
 [
     {
+        "title": "La liga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#La%20liga",
+        "pubdate": "Sun, 27 Oct 2024 00:00:00 +0300"
+    },
+    {
         "title": "Oțelul  - Unirea Slobozia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#O%C8%9Belul%20%20-%20Unirea%20Slobozia",
         "pubdate": "Sun, 27 Oct 2024 16:00:00 +0200"
@@ -8,6 +13,11 @@
         "title": "Parma-Empoli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Parma-Empoli",
         "pubdate": "Sun, 27 Oct 2024 14:00:00 +0200"
+    },
+    {
+        "title": "Crystal Palace  Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Crystal%20Palace%20%20Tottenham",
+        "pubdate": "Sun, 27 Oct 2024 16:00:00 +0200"
     },
     {
         "title": "Raphinha",
@@ -88,15 +98,5 @@
         "title": "Georgia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Georgia",
         "pubdate": "Sat, 26 Oct 2024 00:00:00 +0300"
-    },
-    {
-        "title": "Haiti",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Haiti",
-        "pubdate": "Sat, 26 Oct 2024 01:00:00 +0300"
-    },
-    {
-        "title": "Coreea de Nord",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Coreea%20de%20Nord",
-        "pubdate": "Sat, 26 Oct 2024 23:00:00 +0300"
     }
 ]

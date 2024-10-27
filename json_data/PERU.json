@@ -5,6 +5,11 @@
         "pubdate": "Sun, 27 Oct 2024 09:00:00 -0500"
     },
     {
+        "title": "Bochum - Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bochum%20-%20Bayern",
+        "pubdate": "Sun, 27 Oct 2024 09:00:00 -0500"
+    },
+    {
         "title": "Leganés  Celta de Vigo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Legan%C3%A9s%20%20Celta%20de%20Vigo",
         "pubdate": "Sun, 27 Oct 2024 09:00:00 -0500"
@@ -15,9 +20,14 @@
         "pubdate": "Sun, 27 Oct 2024 09:00:00 -0500"
     },
     {
-        "title": "Bochum  Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bochum%20%20Bayern",
-        "pubdate": "Sun, 27 Oct 2024 09:00:00 -0500"
+        "title": "Leverkusen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Leverkusen",
+        "pubdate": "Sun, 27 Oct 2024 10:00:00 -0500"
+    },
+    {
+        "title": "Crystal Palace - Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Crystal%20Palace%20-%20Tottenham",
+        "pubdate": "Sun, 27 Oct 2024 10:00:00 -0500"
     },
     {
         "title": "UTC",
@@ -52,7 +62,7 @@
     {
         "title": "LaLiga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#LaLiga",
-        "pubdate": "Sat, 26 Oct 2024 16:00:00 -0500"
+        "pubdate": "Sat, 26 Oct 2024 15:00:00 -0500"
     },
     {
         "title": "Aston Villa vs",
@@ -60,14 +70,19 @@
         "pubdate": "Sat, 26 Oct 2024 00:00:00 -0500"
     },
     {
-        "title": "Barca vs Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Barca%20vs%20Madrid",
+        "title": "Barcelona vs Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Barcelona%20vs%20Madrid",
         "pubdate": "Sat, 26 Oct 2024 13:00:00 -0500"
     },
     {
         "title": "Universitario vs Cienciano",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Universitario%20vs%20Cienciano",
         "pubdate": "Sat, 26 Oct 2024 19:00:00 -0500"
+    },
+    {
+        "title": "Vélez  Belgrano",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#V%C3%A9lez%20%20Belgrano",
+        "pubdate": "Sat, 26 Oct 2024 20:00:00 -0500"
     },
     {
         "title": "Werder Bremen  Leverkusen",
@@ -83,20 +98,5 @@
         "title": "Napoli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Napoli",
         "pubdate": "Sat, 26 Oct 2024 09:00:00 -0500"
-    },
-    {
-        "title": "Everton  Fulham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Everton%20%20Fulham",
-        "pubdate": "Sat, 26 Oct 2024 14:00:00 -0500"
-    },
-    {
-        "title": "Deportes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Deportes",
-        "pubdate": "Sat, 26 Oct 2024 16:00:00 -0500"
-    },
-    {
-        "title": "Real Madrid versus Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Real%20Madrid%20versus%20Barcelona",
-        "pubdate": "Sat, 26 Oct 2024 14:00:00 -0500"
     }
 ]
