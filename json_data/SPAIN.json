@@ -20,6 +20,11 @@
         "pubdate": "Sun, 27 Oct 2024 00:00:00 +0200"
     },
     {
+        "title": "Media maraton Valencia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Media%20maraton%20Valencia",
+        "pubdate": "Sun, 27 Oct 2024 00:00:00 +0200"
+    },
+    {
         "title": "McGregor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#McGregor",
         "pubdate": "Sun, 27 Oct 2024 00:00:00 +0200"
@@ -35,29 +40,9 @@
         "pubdate": "Sun, 27 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "Media maraton Valencia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Media%20maraton%20Valencia",
-        "pubdate": "Sun, 27 Oct 2024 00:00:00 +0200"
-    },
-    {
-        "title": "Qué hora es",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Qu%C3%A9%20hora%20es",
-        "pubdate": "Sun, 27 Oct 2024 08:00:00 +0100"
-    },
-    {
         "title": "Valladolid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Valladolid",
         "pubdate": "Sun, 27 Oct 2024 08:00:00 +0100"
-    },
-    {
-        "title": "As",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#As",
-        "pubdate": "Sun, 27 Oct 2024 07:00:00 +0100"
-    },
-    {
-        "title": "Baskonia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Baskonia",
-        "pubdate": "Sun, 27 Oct 2024 00:00:00 +0200"
     },
     {
         "title": "Brasil  Colombia",
@@ -70,6 +55,11 @@
         "pubdate": "Sun, 27 Oct 2024 00:00:00 +0200"
     },
     {
+        "title": "Ilia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ilia",
+        "pubdate": "Sun, 27 Oct 2024 09:00:00 +0100"
+    },
+    {
         "title": "Paco Candela",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Paco%20Candela",
         "pubdate": "Sun, 27 Oct 2024 02:00:00 +0200"
@@ -80,14 +70,14 @@
         "pubdate": "Sun, 27 Oct 2024 02:00:00 +0200"
     },
     {
-        "title": "Real Madrid  Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Real%20Madrid%20%20Barcelona",
+        "title": "Real Madrid - Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Real%20Madrid%20-%20Barcelona",
         "pubdate": "Sat, 26 Oct 2024 08:00:00 +0200"
     },
     {
         "title": "Barça",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Bar%C3%A7a",
-        "pubdate": "Sat, 26 Oct 2024 18:00:00 +0200"
+        "pubdate": "Sat, 26 Oct 2024 19:00:00 +0200"
     },
     {
         "title": "Las Palmas",
@@ -98,5 +88,15 @@
         "title": "Valladolid - Villarreal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Valladolid%20-%20Villarreal",
         "pubdate": "Sat, 26 Oct 2024 14:00:00 +0200"
+    },
+    {
+        "title": "Rayo Vallecano - Alavés",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Rayo%20Vallecano%20-%20Alav%C3%A9s",
+        "pubdate": "Sat, 26 Oct 2024 16:00:00 +0200"
+    },
+    {
+        "title": "Clasico",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Clasico",
+        "pubdate": "Sat, 26 Oct 2024 12:00:00 +0200"
     }
 ]

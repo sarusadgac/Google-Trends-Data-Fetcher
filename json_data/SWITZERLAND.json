@@ -15,11 +15,6 @@
         "pubdate": "Sun, 27 Oct 2024 02:00:00 +0200"
     },
     {
-        "title": "Code Quantum",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Code%20Quantum",
-        "pubdate": "Sun, 27 Oct 2024 00:00:00 +0200"
-    },
-    {
         "title": "Liga Nos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Liga%20Nos",
         "pubdate": "Sun, 27 Oct 2024 07:00:00 +0100"
@@ -43,6 +38,11 @@
         "title": "Winterthur – FCB",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Winterthur%20%E2%80%93%20FCB",
         "pubdate": "Sat, 26 Oct 2024 18:00:00 +0200"
+    },
+    {
+        "title": "Changement d'heure",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Changement%20d'heure",
+        "pubdate": "Sat, 26 Oct 2024 09:00:00 +0200"
     },
     {
         "title": "Iran",
@@ -70,14 +70,14 @@
         "pubdate": "Sat, 26 Oct 2024 14:00:00 +0200"
     },
     {
-        "title": "Ben Shelton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ben%20Shelton",
-        "pubdate": "Sat, 26 Oct 2024 17:00:00 +0200"
-    },
-    {
         "title": "Ironman Hawaii",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ironman%20Hawaii",
         "pubdate": "Sat, 26 Oct 2024 23:00:00 +0200"
+    },
+    {
+        "title": "Ben Shelton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ben%20Shelton",
+        "pubdate": "Sat, 26 Oct 2024 17:00:00 +0200"
     },
     {
         "title": "Augsburg – Dortmund",
@@ -95,8 +95,8 @@
         "pubdate": "Sat, 26 Oct 2024 23:00:00 +0200"
     },
     {
-        "title": "Werder Bremen – Leverkusen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Werder%20Bremen%20%E2%80%93%20Leverkusen",
-        "pubdate": "Sat, 26 Oct 2024 19:00:00 +0200"
+        "title": "Kimmy Repond",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Kimmy%20Repond",
+        "pubdate": "Sat, 26 Oct 2024 22:00:00 +0200"
     }
 ]
