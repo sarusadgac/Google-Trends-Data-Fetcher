@@ -35,6 +35,11 @@
         "pubdate": "Sun, 27 Oct 2024 10:00:00 +0100"
     },
     {
+        "title": "La-Liga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#La-Liga",
+        "pubdate": "Sun, 27 Oct 2024 03:00:00 +0100"
+    },
+    {
         "title": "Inter – Juventus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Inter%20%E2%80%93%20Juventus",
         "pubdate": "Sun, 27 Oct 2024 18:00:00 +0100"
@@ -55,6 +60,11 @@
         "pubdate": "Sun, 27 Oct 2024 12:00:00 +0100"
     },
     {
+        "title": "Marianne Rosenberg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Marianne%20Rosenberg",
+        "pubdate": "Sun, 27 Oct 2024 21:00:00 +0100"
+    },
+    {
         "title": "Russland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Russland",
         "pubdate": "Sun, 27 Oct 2024 09:00:00 +0100"
@@ -70,24 +80,14 @@
         "pubdate": "Sun, 27 Oct 2024 15:00:00 +0100"
     },
     {
-        "title": "Marianne Rosenberg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Marianne%20Rosenberg",
-        "pubdate": "Sun, 27 Oct 2024 21:00:00 +0100"
-    },
-    {
         "title": "Union Berlin – Eintracht Frankfurt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Union%20Berlin%20%E2%80%93%20Eintracht%20Frankfurt",
         "pubdate": "Sun, 27 Oct 2024 18:00:00 +0100"
     },
     {
-        "title": "Lucas Miedler",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Lucas%20Miedler",
-        "pubdate": "Sun, 27 Oct 2024 16:00:00 +0100"
-    },
-    {
-        "title": "Zeit",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Zeit",
-        "pubdate": "Sun, 27 Oct 2024 06:00:00 +0100"
+        "title": "Ralf Schumacher",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ralf%20Schumacher",
+        "pubdate": "Sun, 27 Oct 2024 22:00:00 +0100"
     },
     {
         "title": "Ulrike Folkerts",
@@ -95,8 +95,8 @@
         "pubdate": "Sun, 27 Oct 2024 21:00:00 +0100"
     },
     {
-        "title": "Marco Odermatt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Marco%20Odermatt",
-        "pubdate": "Sun, 27 Oct 2024 16:00:00 +0100"
+        "title": "Heidenheim – Hoffenheim",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Heidenheim%20%E2%80%93%20Hoffenheim",
+        "pubdate": "Sun, 27 Oct 2024 20:00:00 +0100"
     }
 ]
