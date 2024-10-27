@@ -10,11 +10,6 @@
         "pubdate": "Sun, 27 Oct 2024 02:00:00 +0900"
     },
     {
-        "title": "고준희",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B3%A0%EC%A4%80%ED%9D%AC",
-        "pubdate": "Sun, 27 Oct 2024 02:00:00 +0900"
-    },
-    {
         "title": "BLG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#BLG",
         "pubdate": "Sun, 27 Oct 2024 02:00:00 +0900"
@@ -43,11 +38,6 @@
         "title": "강원 대 김천상무",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B0%95%EC%9B%90%20%EB%8C%80%20%EA%B9%80%EC%B2%9C%EC%83%81%EB%AC%B4",
         "pubdate": "Sat, 26 Oct 2024 14:00:00 +0900"
-    },
-    {
-        "title": "니케",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%8B%88%EC%BC%80",
-        "pubdate": "Sat, 26 Oct 2024 22:00:00 +0900"
     },
     {
         "title": "월드시리즈",
@@ -98,5 +88,15 @@
         "title": "강나언",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B0%95%EB%82%98%EC%96%B8",
         "pubdate": "Fri, 25 Oct 2024 17:00:00 +0900"
+    },
+    {
+        "title": "김병선",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B9%80%EB%B3%91%EC%84%A0",
+        "pubdate": "Fri, 25 Oct 2024 14:00:00 +0900"
+    },
+    {
+        "title": "프로젝트 RX",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20RX",
+        "pubdate": "Fri, 25 Oct 2024 18:00:00 +0900"
     }
 ]

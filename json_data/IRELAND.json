@@ -5,11 +5,6 @@
         "pubdate": "Sun, 27 Oct 2024 02:00:00 +0000"
     },
     {
-        "title": "Time in Ireland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Time%20in%20Ireland",
-        "pubdate": "Sun, 27 Oct 2024 04:00:00 +0000"
-    },
-    {
         "title": "When do the clocks go back",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#When%20do%20the%20clocks%20go%20back",
         "pubdate": "Sat, 26 Oct 2024 11:00:00 +0100"
@@ -25,13 +20,13 @@
         "pubdate": "Sat, 26 Oct 2024 19:00:00 +0100"
     },
     {
-        "title": "Leinster Rugby",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Leinster%20Rugby",
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Real%20Madrid",
         "pubdate": "Sat, 26 Oct 2024 17:00:00 +0100"
     },
     {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Real%20Madrid",
+        "title": "Leinster vs Lions",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Leinster%20vs%20Lions",
         "pubdate": "Sat, 26 Oct 2024 17:00:00 +0100"
     },
     {
@@ -98,5 +93,10 @@
         "title": "Eddie Redmayne",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Eddie%20Redmayne",
         "pubdate": "Sat, 26 Oct 2024 00:00:00 +0100"
+    },
+    {
+        "title": "Chappell Roan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Chappell%20Roan",
+        "pubdate": "Sat, 26 Oct 2024 11:00:00 +0100"
     }
 ]

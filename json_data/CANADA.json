@@ -1,5 +1,10 @@
 [
     {
+        "title": "Daylight savings time",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Daylight%20savings%20time",
+        "pubdate": "Sun, 27 Oct 2024 03:00:00 -0400"
+    },
+    {
         "title": "Penguins vs Canucks",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Penguins%20vs%20Canucks",
         "pubdate": "Sun, 27 Oct 2024 00:00:00 -0400"
@@ -15,24 +20,24 @@
         "pubdate": "Sat, 26 Oct 2024 11:00:00 -0400"
     },
     {
-        "title": "Real Madrid vs Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Real%20Madrid%20vs%20Barcelona",
-        "pubdate": "Sat, 26 Oct 2024 03:00:00 -0400"
-    },
-    {
         "title": "La Liga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#La%20Liga",
         "pubdate": "Sat, 26 Oct 2024 12:00:00 -0400"
     },
     {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Real%20Madrid",
-        "pubdate": "Sat, 26 Oct 2024 14:00:00 -0400"
+        "title": "Real Madrid vs Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Real%20Madrid%20vs%20Barcelona",
+        "pubdate": "Sat, 26 Oct 2024 03:00:00 -0400"
     },
     {
         "title": "Freddie Freeman",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Freddie%20Freeman",
         "pubdate": "Sat, 26 Oct 2024 00:00:00 -0400"
+    },
+    {
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Real%20Madrid",
+        "pubdate": "Sat, 26 Oct 2024 14:00:00 -0400"
     },
     {
         "title": "Raptors",
@@ -93,10 +98,5 @@
         "title": "Menendez Brothers release",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Menendez%20Brothers%20release",
         "pubdate": "Sat, 26 Oct 2024 02:00:00 -0400"
-    },
-    {
-        "title": "Saskatchewan Roughriders",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Saskatchewan%20Roughriders",
-        "pubdate": "Sat, 26 Oct 2024 20:00:00 -0400"
     }
 ]
