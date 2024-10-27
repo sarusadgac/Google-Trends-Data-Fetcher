@@ -5,6 +5,11 @@
         "pubdate": "Sun, 27 Oct 2024 18:00:00 +0100"
     },
     {
+        "title": "SPORT",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#SPORT",
+        "pubdate": "Sun, 27 Oct 2024 07:00:00 +0100"
+    },
+    {
         "title": "Getafe  Valencia CF",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Getafe%20%20Valencia%20CF",
         "pubdate": "Sun, 27 Oct 2024 16:00:00 +0100"
@@ -25,14 +30,24 @@
         "pubdate": "Sun, 27 Oct 2024 19:00:00 +0100"
     },
     {
-        "title": "Deportivo  Racing de Santander",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Deportivo%20%20Racing%20de%20Santander",
+        "title": "Deportivo - Racing de Santander",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Deportivo%20-%20Racing%20de%20Santander",
         "pubdate": "Sun, 27 Oct 2024 16:00:00 +0100"
+    },
+    {
+        "title": "Real Sociedad - Osasuna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Real%20Sociedad%20-%20Osasuna",
+        "pubdate": "Sun, 27 Oct 2024 21:00:00 +0100"
     },
     {
         "title": "Malaga CF",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Malaga%20CF",
         "pubdate": "Sun, 27 Oct 2024 14:00:00 +0100"
+    },
+    {
+        "title": "Huelga autobuses",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Huelga%20autobuses",
+        "pubdate": "Sun, 27 Oct 2024 17:00:00 +0100"
     },
     {
         "title": "Bochum  Bayern",
@@ -50,9 +65,9 @@
         "pubdate": "Sun, 27 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "Huelga autobuses",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Huelga%20autobuses",
-        "pubdate": "Sun, 27 Oct 2024 17:00:00 +0100"
+        "title": "Albacete - Sporting Gijón",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Albacete%20-%20Sporting%20Gij%C3%B3n",
+        "pubdate": "Sun, 27 Oct 2024 19:00:00 +0100"
     },
     {
         "title": "Chelsea - Newcastle",
@@ -70,6 +85,11 @@
         "pubdate": "Sun, 27 Oct 2024 00:00:00 +0200"
     },
     {
+        "title": "Inter  Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Inter%20%20Juventus",
+        "pubdate": "Sun, 27 Oct 2024 19:00:00 +0100"
+    },
+    {
         "title": "Media maraton valencia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Media%20maraton%20valencia",
         "pubdate": "Sun, 27 Oct 2024 00:00:00 +0200"
@@ -78,25 +98,5 @@
         "title": "COPE",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#COPE",
         "pubdate": "Sun, 27 Oct 2024 02:00:00 +0200"
-    },
-    {
-        "title": "Balon de Oro 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Balon%20de%20Oro%202024",
-        "pubdate": "Sun, 27 Oct 2024 09:00:00 +0100"
-    },
-    {
-        "title": "Pedro Sánchez Aldama",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Pedro%20S%C3%A1nchez%20Aldama",
-        "pubdate": "Sun, 27 Oct 2024 12:00:00 +0100"
-    },
-    {
-        "title": "Real Madrid  Manresa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Real%20Madrid%20%20Manresa",
-        "pubdate": "Sun, 27 Oct 2024 13:00:00 +0100"
-    },
-    {
-        "title": "Albacete - Sporting Gijón",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Albacete%20-%20Sporting%20Gij%C3%B3n",
-        "pubdate": "Sun, 27 Oct 2024 19:00:00 +0100"
     }
 ]

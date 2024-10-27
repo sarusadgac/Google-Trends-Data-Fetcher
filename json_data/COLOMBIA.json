@@ -5,6 +5,11 @@
         "pubdate": "Sun, 27 Oct 2024 09:00:00 -0500"
     },
     {
+        "title": "Inter - Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Inter%20-%20Juventus",
+        "pubdate": "Sun, 27 Oct 2024 12:00:00 -0500"
+    },
+    {
         "title": "West Ham  Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#West%20Ham%20%20Manchester%20United",
         "pubdate": "Sun, 27 Oct 2024 09:00:00 -0500"
@@ -18,11 +23,6 @@
         "title": "Crystal Palace - Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Crystal%20Palace%20-%20Tottenham",
         "pubdate": "Sun, 27 Oct 2024 09:00:00 -0500"
-    },
-    {
-        "title": "Inter  Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Inter%20%20Juventus",
-        "pubdate": "Sun, 27 Oct 2024 12:00:00 -0500"
     },
     {
         "title": "Betis - Atlético Madrid",
@@ -57,7 +57,7 @@
     {
         "title": "Arsenal  Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Arsenal%20%20Liverpool",
-        "pubdate": "Sat, 26 Oct 2024 17:00:00 -0500"
+        "pubdate": "Sat, 26 Oct 2024 12:00:00 -0500"
     },
     {
         "title": "Brasil  Colombia",
@@ -68,6 +68,11 @@
         "title": "Rayo Vallecano  Alavés",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Rayo%20Vallecano%20%20Alav%C3%A9s",
         "pubdate": "Sat, 26 Oct 2024 09:00:00 -0500"
+    },
+    {
+        "title": "Fortaleza  Atlético Nacional",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Fortaleza%20%20Atl%C3%A9tico%20Nacional",
+        "pubdate": "Sat, 26 Oct 2024 17:00:00 -0500"
     },
     {
         "title": "Aston Villa  Bournemouth",
@@ -90,13 +95,8 @@
         "pubdate": "Sat, 26 Oct 2024 15:00:00 -0500"
     },
     {
-        "title": "Fortaleza  Atlético Nacional",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Fortaleza%20%20Atl%C3%A9tico%20Nacional",
-        "pubdate": "Sat, 26 Oct 2024 17:00:00 -0500"
-    },
-    {
-        "title": "Donde ver Real Madrid vs Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Donde%20ver%20Real%20Madrid%20vs%20Barcelona",
-        "pubdate": "Sat, 26 Oct 2024 14:00:00 -0500"
+        "title": "Barca vs Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Barca%20vs%20Madrid",
+        "pubdate": "Sat, 26 Oct 2024 10:00:00 -0500"
     }
 ]

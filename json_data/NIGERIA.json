@@ -5,6 +5,11 @@
         "pubdate": "Sun, 27 Oct 2024 12:00:00 +0100"
     },
     {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Arsenal",
+        "pubdate": "Sun, 27 Oct 2024 19:00:00 +0100"
+    },
+    {
         "title": "Crystal Palace vs Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Crystal%20Palace%20vs%20Tottenham",
         "pubdate": "Sun, 27 Oct 2024 12:00:00 +0100"
@@ -15,6 +20,11 @@
         "pubdate": "Sun, 27 Oct 2024 18:00:00 +0100"
     },
     {
+        "title": "Bayern Munich",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Bayern%20Munich",
+        "pubdate": "Sun, 27 Oct 2024 20:00:00 +0100"
+    },
+    {
         "title": "Baba Vanga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Baba%20Vanga",
         "pubdate": "Sun, 27 Oct 2024 17:00:00 +0100"
@@ -22,11 +32,6 @@
     {
         "title": "Lazio",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Lazio",
-        "pubdate": "Sun, 27 Oct 2024 20:00:00 +0100"
-    },
-    {
-        "title": "Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Bayern",
         "pubdate": "Sun, 27 Oct 2024 20:00:00 +0100"
     },
     {
@@ -40,8 +45,8 @@
         "pubdate": "Sun, 27 Oct 2024 00:00:00 +0100"
     },
     {
-        "title": "Saka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Saka",
+        "title": "Monaco",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Monaco",
         "pubdate": "Sun, 27 Oct 2024 20:00:00 +0100"
     },
     {
@@ -55,14 +60,14 @@
         "pubdate": "Sun, 27 Oct 2024 16:00:00 +0100"
     },
     {
-        "title": "Monaco",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Monaco",
-        "pubdate": "Sun, 27 Oct 2024 20:00:00 +0100"
-    },
-    {
         "title": "Borussia Dortmund",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Borussia%20Dortmund",
         "pubdate": "Sun, 27 Oct 2024 00:00:00 +0100"
+    },
+    {
+        "title": "Bukayo Saka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Bukayo%20Saka",
+        "pubdate": "Sun, 27 Oct 2024 21:00:00 +0100"
     },
     {
         "title": "Arsenal vs Liverpool",
@@ -93,10 +98,5 @@
         "title": "Real Madrid vs fc Barcelona lineups",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Real%20Madrid%20vs%20fc%20Barcelona%20lineups",
         "pubdate": "Sat, 26 Oct 2024 13:00:00 +0100"
-    },
-    {
-        "title": "Nigeria U-17 vs United States U-17",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Nigeria%20U-17%20vs%20United%20States%20U-17",
-        "pubdate": "Sat, 26 Oct 2024 21:00:00 +0100"
     }
 ]
