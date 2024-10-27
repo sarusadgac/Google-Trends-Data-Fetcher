@@ -25,9 +25,9 @@
         "pubdate": "Sun, 27 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "Guti",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Guti",
-        "pubdate": "Sun, 27 Oct 2024 00:00:00 +0200"
+        "title": "Terremoto Granada",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Terremoto%20Granada",
+        "pubdate": "Sun, 27 Oct 2024 02:00:00 +0200"
     },
     {
         "title": "McGregor",
@@ -35,28 +35,23 @@
         "pubdate": "Sun, 27 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "Mega",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Mega",
-        "pubdate": "Sun, 27 Oct 2024 01:00:00 +0200"
-    },
-    {
-        "title": "Terremoto Granada",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Terremoto%20Granada",
-        "pubdate": "Sun, 27 Oct 2024 02:00:00 +0200"
-    },
-    {
         "title": "Balde",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Balde",
         "pubdate": "Sun, 27 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "Kluivert",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Kluivert",
-        "pubdate": "Sun, 27 Oct 2024 00:00:00 +0200"
+        "title": "As",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#As",
+        "pubdate": "Sun, 27 Oct 2024 07:00:00 +0100"
     },
     {
         "title": "Media maraton Valencia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Media%20maraton%20Valencia",
+        "pubdate": "Sun, 27 Oct 2024 00:00:00 +0200"
+    },
+    {
+        "title": "Kluivert",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Kluivert",
         "pubdate": "Sun, 27 Oct 2024 00:00:00 +0200"
     },
     {
@@ -98,5 +93,10 @@
         "title": "Rayo Vallecano - Alavés",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Rayo%20Vallecano%20-%20Alav%C3%A9s",
         "pubdate": "Sat, 26 Oct 2024 16:00:00 +0200"
+    },
+    {
+        "title": "DAZN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#DAZN",
+        "pubdate": "Sat, 26 Oct 2024 15:00:00 +0200"
     }
 ]
