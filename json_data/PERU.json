@@ -5,9 +5,9 @@
         "pubdate": "Sun, 27 Oct 2024 09:00:00 -0500"
     },
     {
-        "title": "Bochum - Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bochum%20-%20Bayern",
-        "pubdate": "Sun, 27 Oct 2024 09:00:00 -0500"
+        "title": "Leverkusen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Leverkusen",
+        "pubdate": "Sun, 27 Oct 2024 10:00:00 -0500"
     },
     {
         "title": "Leganés  Celta de Vigo",
@@ -18,11 +18,6 @@
         "title": "West Ham  Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#West%20Ham%20%20Manchester%20United",
         "pubdate": "Sun, 27 Oct 2024 09:00:00 -0500"
-    },
-    {
-        "title": "Leverkusen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Leverkusen",
-        "pubdate": "Sun, 27 Oct 2024 10:00:00 -0500"
     },
     {
         "title": "Crystal Palace - Tottenham",
@@ -40,9 +35,19 @@
         "pubdate": "Sun, 27 Oct 2024 08:00:00 -0500"
     },
     {
+        "title": "Lazio vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Lazio%20vs",
+        "pubdate": "Sun, 27 Oct 2024 11:00:00 -0500"
+    },
+    {
         "title": "Chimaev",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Chimaev",
         "pubdate": "Sun, 27 Oct 2024 02:00:00 -0500"
+    },
+    {
+        "title": "Balon de Oro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Balon%20de%20Oro",
+        "pubdate": "Sun, 27 Oct 2024 11:00:00 -0500"
     },
     {
         "title": "Deportivo Garcilaso  Alianza Lima",
@@ -80,11 +85,6 @@
         "pubdate": "Sat, 26 Oct 2024 19:00:00 -0500"
     },
     {
-        "title": "Vélez  Belgrano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#V%C3%A9lez%20%20Belgrano",
-        "pubdate": "Sat, 26 Oct 2024 20:00:00 -0500"
-    },
-    {
         "title": "Werder Bremen  Leverkusen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Werder%20Bremen%20%20Leverkusen",
         "pubdate": "Sat, 26 Oct 2024 12:00:00 -0500"
@@ -95,8 +95,8 @@
         "pubdate": "Sat, 26 Oct 2024 14:00:00 -0500"
     },
     {
-        "title": "Napoli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Napoli",
-        "pubdate": "Sat, 26 Oct 2024 09:00:00 -0500"
+        "title": "Arsenal - Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Arsenal%20-%20Liverpool",
+        "pubdate": "Sat, 26 Oct 2024 18:00:00 -0500"
     }
 ]

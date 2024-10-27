@@ -1,14 +1,12 @@
-Utrecht.  Feyenoord
+Utrecht  Feyenoord
+Ajax  Willem II
 Twente  Heracles
-Ajax Willem 2
-Klok terug
 Douwe Bob
 Real Madrid  Barcelona
 Wintertijd
 NAC
-FC Groningen
+Iran
 Cambuur
-Jutta Leerdam
 FC Twente
 Joost Klein
 Ebusco
@@ -18,3 +16,5 @@ FC Emmen
 Vitesse
 Champions League
 Cambuur
+Fcgroningen
+FC Utrecht
