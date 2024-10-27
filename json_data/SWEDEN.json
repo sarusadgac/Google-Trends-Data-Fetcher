@@ -5,11 +5,6 @@
         "pubdate": "Sun, 27 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "Vintertid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Vintertid",
-        "pubdate": "Sat, 26 Oct 2024 02:00:00 +0200"
-    },
-    {
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Real%20Madrid",
         "pubdate": "Sat, 26 Oct 2024 18:00:00 +0200"
@@ -20,14 +15,19 @@
         "pubdate": "Sat, 26 Oct 2024 04:00:00 +0200"
     },
     {
-        "title": "Lauryn Hill",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Lauryn%20Hill",
-        "pubdate": "Sat, 26 Oct 2024 07:00:00 +0200"
+        "title": "Ställa om klockan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#St%C3%A4lla%20om%20klockan",
+        "pubdate": "Sat, 26 Oct 2024 02:00:00 +0200"
     },
     {
         "title": "Eva Röse",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Eva%20R%C3%B6se",
         "pubdate": "Sat, 26 Oct 2024 12:00:00 +0200"
+    },
+    {
+        "title": "Lauryn Hill",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Lauryn%20Hill",
+        "pubdate": "Sat, 26 Oct 2024 07:00:00 +0200"
     },
     {
         "title": "Hammarby",
