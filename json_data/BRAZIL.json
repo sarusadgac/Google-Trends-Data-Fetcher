@@ -10,11 +10,6 @@
         "pubdate": "Sun, 27 Oct 2024 00:00:00 -0500"
     },
     {
-        "title": "Palmeiras FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Palmeiras%20FC",
-        "pubdate": "Sun, 27 Oct 2024 00:00:00 -0500"
-    },
-    {
         "title": "Palmeiras x Fortaleza",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Palmeiras%20x%20Fortaleza",
         "pubdate": "Sat, 26 Oct 2024 07:00:00 -0500"
@@ -38,6 +33,11 @@
         "title": "Atlético-MG x Internacional",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Atl%C3%A9tico-MG%20x%20Internacional",
         "pubdate": "Sat, 26 Oct 2024 17:00:00 -0500"
+    },
+    {
+        "title": "Sao Paulo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sao%20Paulo",
+        "pubdate": "Sat, 26 Oct 2024 18:00:00 -0500"
     },
     {
         "title": "Al-Hilal x Al Taawon",
