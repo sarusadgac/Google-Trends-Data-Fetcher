@@ -25,6 +25,11 @@
         "pubdate": "Sat, 26 Oct 2024 09:00:00 -0500"
     },
     {
+        "title": "LaLiga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#LaLiga",
+        "pubdate": "Sat, 26 Oct 2024 16:00:00 -0500"
+    },
+    {
         "title": "Barca",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Barca",
         "pubdate": "Sat, 26 Oct 2024 10:00:00 -0500"
@@ -93,10 +98,5 @@
         "title": "UD Las Palmas  Girona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#UD%20Las%20Palmas%20%20Girona",
         "pubdate": "Sat, 26 Oct 2024 12:00:00 -0500"
-    },
-    {
-        "title": "Israel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Israel",
-        "pubdate": "Sat, 26 Oct 2024 01:00:00 -0500"
     }
 ]

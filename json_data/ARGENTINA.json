@@ -5,11 +5,6 @@
         "pubdate": "Sun, 27 Oct 2024 08:00:00 -0300"
     },
     {
-        "title": "Milett Figueroa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Milett%20Figueroa",
-        "pubdate": "Sun, 27 Oct 2024 00:00:00 -0300"
-    },
-    {
         "title": "La trampa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#La%20trampa",
         "pubdate": "Sun, 27 Oct 2024 00:00:00 -0300"
@@ -25,8 +20,8 @@
         "pubdate": "Sun, 27 Oct 2024 01:00:00 -0300"
     },
     {
-        "title": "Independiente",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Independiente",
+        "title": "Independiente  Godoy Cruz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Independiente%20%20Godoy%20Cruz",
         "pubdate": "Sat, 26 Oct 2024 20:00:00 -0300"
     },
     {
@@ -85,11 +80,6 @@
         "pubdate": "Sat, 26 Oct 2024 11:00:00 -0300"
     },
     {
-        "title": "Alumni vs Belgrano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Alumni%20vs%20Belgrano",
-        "pubdate": "Sat, 26 Oct 2024 18:00:00 -0300"
-    },
-    {
         "title": "Clasificacion F1 mexico",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Clasificacion%20F1%20mexico",
         "pubdate": "Sat, 26 Oct 2024 15:00:00 -0300"
@@ -98,5 +88,15 @@
         "title": "Israel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Israel",
         "pubdate": "Sat, 26 Oct 2024 00:00:00 -0300"
+    },
+    {
+        "title": "Velez hoy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Velez%20hoy",
+        "pubdate": "Sat, 26 Oct 2024 22:00:00 -0300"
+    },
+    {
+        "title": "Atalanta - Hellas Verona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Atalanta%20-%20Hellas%20Verona",
+        "pubdate": "Sat, 26 Oct 2024 17:00:00 -0300"
     }
 ]
