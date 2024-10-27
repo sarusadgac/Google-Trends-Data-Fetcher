@@ -15,6 +15,11 @@
         "pubdate": "Sat, 26 Oct 2024 04:00:00 +0200"
     },
     {
+        "title": "Hammarby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hammarby",
+        "pubdate": "Sat, 26 Oct 2024 16:00:00 +0200"
+    },
+    {
         "title": "Ställa om klockan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#St%C3%A4lla%20om%20klockan",
         "pubdate": "Sat, 26 Oct 2024 02:00:00 +0200"
@@ -30,11 +35,6 @@
         "pubdate": "Sat, 26 Oct 2024 12:00:00 +0200"
     },
     {
-        "title": "Hammarby",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hammarby",
-        "pubdate": "Sat, 26 Oct 2024 17:00:00 +0200"
-    },
-    {
         "title": "Mjällby mot Gais",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mj%C3%A4llby%20mot%20Gais",
         "pubdate": "Sat, 26 Oct 2024 15:00:00 +0200"
@@ -43,11 +43,6 @@
         "title": "Uppsala marathon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Uppsala%20marathon",
         "pubdate": "Sat, 26 Oct 2024 09:00:00 +0200"
-    },
-    {
-        "title": "Hammarby Sirius",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hammarby%20Sirius",
-        "pubdate": "Sat, 26 Oct 2024 16:00:00 +0200"
     },
     {
         "title": "Iran",
@@ -75,11 +70,6 @@
         "pubdate": "Sat, 26 Oct 2024 11:00:00 +0200"
     },
     {
-        "title": "Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Man%20City",
-        "pubdate": "Sat, 26 Oct 2024 18:00:00 +0200"
-    },
-    {
         "title": "Isa Östling",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Isa%20%C3%96stling",
         "pubdate": "Sat, 26 Oct 2024 21:00:00 +0200"
@@ -98,5 +88,15 @@
         "title": "Magomed Ankalaev",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Magomed%20Ankalaev",
         "pubdate": "Sat, 26 Oct 2024 23:00:00 +0200"
+    },
+    {
+        "title": "Kent biljetter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kent%20biljetter",
+        "pubdate": "Fri, 25 Oct 2024 22:00:00 +0200"
+    },
+    {
+        "title": "Förrädarna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#F%C3%B6rr%C3%A4darna",
+        "pubdate": "Fri, 25 Oct 2024 08:00:00 +0200"
     }
 ]

@@ -25,11 +25,6 @@
         "pubdate": "Sun, 27 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "Guti",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Guti",
-        "pubdate": "Sun, 27 Oct 2024 00:00:00 +0200"
-    },
-    {
         "title": "McGregor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#McGregor",
         "pubdate": "Sun, 27 Oct 2024 00:00:00 +0200"
@@ -98,5 +93,10 @@
         "title": "DAZN",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#DAZN",
         "pubdate": "Sat, 26 Oct 2024 15:00:00 +0200"
+    },
+    {
+        "title": "Movistar Plus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Movistar%20Plus",
+        "pubdate": "Sat, 26 Oct 2024 22:00:00 +0200"
     }
 ]
