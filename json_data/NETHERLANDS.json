@@ -5,6 +5,11 @@
         "pubdate": "Sun, 27 Oct 2024 01:00:00 +0200"
     },
     {
+        "title": "Frenkie de Jong",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Frenkie%20de%20Jong",
+        "pubdate": "Sun, 27 Oct 2024 07:00:00 +0100"
+    },
+    {
         "title": "Real Madrid  Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Real%20Madrid%20%20Barcelona",
         "pubdate": "Sat, 26 Oct 2024 14:00:00 +0200"
@@ -25,6 +30,11 @@
         "pubdate": "Sat, 26 Oct 2024 17:00:00 +0200"
     },
     {
+        "title": "MediaMarkt Rotterdam",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#MediaMarkt%20Rotterdam",
+        "pubdate": "Sat, 26 Oct 2024 23:00:00 +0200"
+    },
+    {
         "title": "FC Groningen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Groningen",
         "pubdate": "Sat, 26 Oct 2024 19:00:00 +0200"
@@ -40,19 +50,14 @@
         "pubdate": "Sat, 26 Oct 2024 07:00:00 +0200"
     },
     {
-        "title": "Georgie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Georgie",
-        "pubdate": "Sat, 26 Oct 2024 09:00:00 +0200"
-    },
-    {
-        "title": "Tamara Elbaz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Tamara%20Elbaz",
-        "pubdate": "Sat, 26 Oct 2024 23:00:00 +0200"
-    },
-    {
         "title": "Fortuna Sittard",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Fortuna%20Sittard",
         "pubdate": "Sat, 26 Oct 2024 18:00:00 +0200"
+    },
+    {
+        "title": "Georgie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Georgie",
+        "pubdate": "Sat, 26 Oct 2024 09:00:00 +0200"
     },
     {
         "title": "Nacht van de Nacht",
@@ -93,10 +98,5 @@
         "title": "FC Emmen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Emmen",
         "pubdate": "Tue, 22 Oct 2024 21:00:00 +0200"
-    },
-    {
-        "title": "Vitesse",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Vitesse",
-        "pubdate": "Tue, 22 Oct 2024 22:00:00 +0200"
     }
 ]
