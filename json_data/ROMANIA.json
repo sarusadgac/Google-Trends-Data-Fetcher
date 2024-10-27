@@ -5,11 +5,6 @@
         "pubdate": "Sun, 27 Oct 2024 00:00:00 +0300"
     },
     {
-        "title": "LALIGA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#LALIGA",
-        "pubdate": "Sun, 27 Oct 2024 01:00:00 +0300"
-    },
-    {
         "title": "Vinicius",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Vinicius",
         "pubdate": "Sun, 27 Oct 2024 00:00:00 +0300"
@@ -20,8 +15,8 @@
         "pubdate": "Sun, 27 Oct 2024 00:00:00 +0300"
     },
     {
-        "title": "Real Madrid  Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Real%20Madrid%20%20Barcelona",
+        "title": "Real Madrid - Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Real%20Madrid%20-%20Barcelona",
         "pubdate": "Sat, 26 Oct 2024 12:00:00 +0300"
     },
     {
@@ -78,6 +73,11 @@
         "title": "Inter Miami",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Inter%20Miami",
         "pubdate": "Sat, 26 Oct 2024 05:00:00 +0300"
+    },
+    {
+        "title": "Sf Dimitrie cel Nou",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sf%20Dimitrie%20cel%20Nou",
+        "pubdate": "Sat, 26 Oct 2024 08:00:00 +0300"
     },
     {
         "title": "Atalanta  Verona",
