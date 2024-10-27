@@ -1,7 +1,7 @@
 [
     {
-        "title": "Club Brugge  Anderlecht",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Club%20Brugge%20%20Anderlecht",
+        "title": "Club Brugge",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Club%20Brugge",
         "pubdate": "Sun, 27 Oct 2024 14:00:00 +0100"
     },
     {
@@ -10,9 +10,9 @@
         "pubdate": "Sun, 27 Oct 2024 16:00:00 +0100"
     },
     {
-        "title": "Club Brugge",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Club%20Brugge",
-        "pubdate": "Sun, 27 Oct 2024 17:00:00 +0100"
+        "title": "Anderlecht",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Anderlecht",
+        "pubdate": "Sun, 27 Oct 2024 14:00:00 +0100"
     },
     {
         "title": "Arsenal – Liverpool",
@@ -20,8 +20,23 @@
         "pubdate": "Sun, 27 Oct 2024 18:00:00 +0100"
     },
     {
+        "title": "Gent Genk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Gent%20Genk",
+        "pubdate": "Sun, 27 Oct 2024 18:00:00 +0100"
+    },
+    {
+        "title": "Inter – Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Inter%20%E2%80%93%20Juventus",
+        "pubdate": "Sun, 27 Oct 2024 18:00:00 +0100"
+    },
+    {
         "title": "Bochum  Bayern",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bochum%20%20Bayern",
+        "pubdate": "Sun, 27 Oct 2024 16:00:00 +0100"
+    },
+    {
+        "title": "Chelsea – Newcastle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Chelsea%20%E2%80%93%20Newcastle",
         "pubdate": "Sun, 27 Oct 2024 16:00:00 +0100"
     },
     {
@@ -35,6 +50,11 @@
         "pubdate": "Sun, 27 Oct 2024 15:00:00 +0100"
     },
     {
+        "title": "Anne Ruwet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Anne%20Ruwet",
+        "pubdate": "Sun, 27 Oct 2024 17:00:00 +0100"
+    },
+    {
         "title": "Ballon d'or 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ballon%20d'or%202024",
         "pubdate": "Sun, 27 Oct 2024 03:00:00 +0100"
@@ -42,16 +62,6 @@
     {
         "title": "West Ham – Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#West%20Ham%20%E2%80%93%20Manchester%20United",
-        "pubdate": "Sun, 27 Oct 2024 16:00:00 +0100"
-    },
-    {
-        "title": "Chelsea – Newcastle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Chelsea%20%E2%80%93%20Newcastle",
-        "pubdate": "Sun, 27 Oct 2024 16:00:00 +0100"
-    },
-    {
-        "title": "Chelsea, Newcastle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Chelsea,%20Newcastle",
         "pubdate": "Sun, 27 Oct 2024 16:00:00 +0100"
     },
     {
@@ -65,14 +75,14 @@
         "pubdate": "Sun, 27 Oct 2024 15:00:00 +0100"
     },
     {
+        "title": "Lierse",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Lierse",
+        "pubdate": "Sun, 27 Oct 2024 16:00:00 +0100"
+    },
+    {
         "title": "Changement heures",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Changement%20heures",
         "pubdate": "Sun, 27 Oct 2024 09:00:00 +0100"
-    },
-    {
-        "title": "Inter – Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Inter%20%E2%80%93%20Juventus",
-        "pubdate": "Sun, 27 Oct 2024 18:00:00 +0100"
     },
     {
         "title": "Balotelli",
@@ -88,15 +98,5 @@
         "title": "Johnny Hallyday",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Johnny%20Hallyday",
         "pubdate": "Sun, 27 Oct 2024 15:00:00 +0100"
-    },
-    {
-        "title": "Time",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Time",
-        "pubdate": "Sun, 27 Oct 2024 14:00:00 +0100"
-    },
-    {
-        "title": "Bruges Anderlecht",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bruges%20Anderlecht",
-        "pubdate": "Sun, 27 Oct 2024 17:00:00 +0100"
     }
 ]
