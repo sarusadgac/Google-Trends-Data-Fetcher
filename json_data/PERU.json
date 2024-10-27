@@ -15,9 +15,9 @@
         "pubdate": "Sat, 26 Oct 2024 21:00:00 -0500"
     },
     {
-        "title": "Real Madrid versus Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Real%20Madrid%20versus%20Barcelona",
-        "pubdate": "Sat, 26 Oct 2024 14:00:00 -0500"
+        "title": "Barca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Barca",
+        "pubdate": "Sat, 26 Oct 2024 10:00:00 -0500"
     },
     {
         "title": "Aston Villa vs",
@@ -33,11 +33,6 @@
         "title": "Atalanta  (Hellas Verona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Atalanta%20%20(Hellas%20Verona",
         "pubdate": "Sat, 26 Oct 2024 14:00:00 -0500"
-    },
-    {
-        "title": "Vélez  Belgrano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#V%C3%A9lez%20%20Belgrano",
-        "pubdate": "Sat, 26 Oct 2024 20:00:00 -0500"
     },
     {
         "title": "Napoli",
@@ -60,9 +55,9 @@
         "pubdate": "Sat, 26 Oct 2024 10:00:00 -0500"
     },
     {
-        "title": "Magis TV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Magis%20TV",
-        "pubdate": "Sat, 26 Oct 2024 16:00:00 -0500"
+        "title": "Universitario vs Cienciano",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Universitario%20vs%20Cienciano",
+        "pubdate": "Sat, 26 Oct 2024 19:00:00 -0500"
     },
     {
         "title": "Valladolid - Villarreal",
@@ -70,14 +65,14 @@
         "pubdate": "Sat, 26 Oct 2024 08:00:00 -0500"
     },
     {
-        "title": "Universitario vs Cienciano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Universitario%20vs%20Cienciano",
-        "pubdate": "Sat, 26 Oct 2024 19:00:00 -0500"
-    },
-    {
         "title": "Brighton  Wolves",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Brighton%20%20Wolves",
         "pubdate": "Sat, 26 Oct 2024 11:00:00 -0500"
+    },
+    {
+        "title": "Pumas  Cruz Azul",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Pumas%20%20Cruz%20Azul",
+        "pubdate": "Sat, 26 Oct 2024 21:00:00 -0500"
     },
     {
         "title": "UD Las Palmas  Girona",
@@ -98,5 +93,10 @@
         "title": "Dortmund",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Dortmund",
         "pubdate": "Sat, 26 Oct 2024 16:00:00 -0500"
+    },
+    {
+        "title": "Vélez  Belgrano",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#V%C3%A9lez%20%20Belgrano",
+        "pubdate": "Sat, 26 Oct 2024 20:00:00 -0500"
     }
 ]
