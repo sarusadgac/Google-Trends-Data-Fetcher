@@ -30,6 +30,11 @@
         "pubdate": "Mon, 28 Oct 2024 11:00:00 +0100"
     },
     {
+        "title": "Gand",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Gand",
+        "pubdate": "Mon, 28 Oct 2024 18:00:00 +0100"
+    },
+    {
         "title": "Hirsutisme",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Hirsutisme",
         "pubdate": "Mon, 28 Oct 2024 15:00:00 +0100"
@@ -93,10 +98,5 @@
         "title": "Anne Ruwet",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Anne%20Ruwet",
         "pubdate": "Sun, 27 Oct 2024 17:00:00 +0100"
-    },
-    {
-        "title": "Eve Gilles",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Eve%20Gilles",
-        "pubdate": "Sun, 27 Oct 2024 15:00:00 +0100"
     }
 ]
