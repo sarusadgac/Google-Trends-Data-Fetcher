@@ -1,5 +1,15 @@
 [
     {
+        "title": "Bochum – Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bochum%20%E2%80%93%20Bayern",
+        "pubdate": "Sun, 27 Oct 2024 15:00:00 +0100"
+    },
+    {
+        "title": "Waaree Energies share price",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Waaree%20Energies%20share%20price",
+        "pubdate": "Mon, 28 Oct 2024 10:30:00 +0530"
+    },
+    {
         "title": "Sophie Turner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Sophie%20Turner",
         "pubdate": "Mon, 28 Oct 2024 02:00:00 +0000"
@@ -15,24 +25,14 @@
         "pubdate": "Sun, 27 Oct 2024 14:00:00 -0700"
     },
     {
-        "title": "День бабушек и дедушек",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%94%D0%B5%D0%BD%D1%8C%20%D0%B1%D0%B0%D0%B1%D1%83%D1%88%D0%B5%D0%BA%20%D0%B8%20%D0%B4%D0%B5%D0%B4%D1%83%D1%88%D0%B5%D0%BA",
-        "pubdate": "Mon, 28 Oct 2024 06:00:00 +0300"
-    },
-    {
-        "title": "Waaree Energies share price",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Waaree%20Energies%20share%20price",
-        "pubdate": "Mon, 28 Oct 2024 10:30:00 +0530"
-    },
-    {
         "title": "Line Renaud",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Line%20Renaud",
         "pubdate": "Sun, 27 Oct 2024 21:00:00 +0100"
     },
     {
-        "title": "Bochum – Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bochum%20%E2%80%93%20Bayern",
-        "pubdate": "Sun, 27 Oct 2024 15:00:00 +0100"
+        "title": "День бабушек и дедушек",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%94%D0%B5%D0%BD%D1%8C%20%D0%B1%D0%B0%D0%B1%D1%83%D1%88%D0%B5%D0%BA%20%D0%B8%20%D0%B4%D0%B5%D0%B4%D1%83%D1%88%D0%B5%D0%BA",
+        "pubdate": "Mon, 28 Oct 2024 06:00:00 +0300"
     },
     {
         "title": "石井啓一",
@@ -40,29 +40,34 @@
         "pubdate": "Mon, 28 Oct 2024 00:00:00 +0900"
     },
     {
-        "title": "Warriors",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Warriors",
-        "pubdate": "Mon, 28 Oct 2024 01:00:00 -0400"
-    },
-    {
-        "title": "De Rossi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#De%20Rossi",
-        "pubdate": "Mon, 28 Oct 2024 00:00:00 +0100"
-    },
-    {
         "title": "PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#PSG",
         "pubdate": "Mon, 28 Oct 2024 04:00:00 +0200"
     },
     {
-        "title": "El Fantasma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#El%20Fantasma",
-        "pubdate": "Mon, 28 Oct 2024 00:00:00 -0600"
+        "title": "NÖM Milchbauern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#N%C3%96M%20Milchbauern",
+        "pubdate": "Mon, 28 Oct 2024 08:00:00 +0100"
     },
     {
-        "title": "Warriors vs Clippers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Warriors%20vs%20Clippers",
-        "pubdate": "Mon, 28 Oct 2024 09:00:00 +0800"
+        "title": "Zoo Plzeň",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Zoo%20Plze%C5%88",
+        "pubdate": "Mon, 28 Oct 2024 00:00:00 +0100"
+    },
+    {
+        "title": "Puchar Polski",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Puchar%20Polski",
+        "pubdate": "Mon, 28 Oct 2024 09:00:00 +0100"
+    },
+    {
+        "title": "Elecciones Estados Unidos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Elecciones%20Estados%20Unidos",
+        "pubdate": "Mon, 28 Oct 2024 00:00:00 -0500"
+    },
+    {
+        "title": "Inter vs Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Inter%20vs%20Juventus",
+        "pubdate": "Mon, 28 Oct 2024 00:00:00 +0700"
     },
     {
         "title": "Arsenal",
@@ -70,9 +75,14 @@
         "pubdate": "Mon, 28 Oct 2024 09:00:00 +0800"
     },
     {
-        "title": "Deepavali",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Deepavali",
-        "pubdate": "Mon, 28 Oct 2024 15:00:00 +0800"
+        "title": "Mai",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Mai",
+        "pubdate": "Mon, 28 Oct 2024 01:00:00 +0200"
+    },
+    {
+        "title": "סלין דיון",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A1%D7%9C%D7%99%D7%9F%20%D7%93%D7%99%D7%95%D7%9F",
+        "pubdate": "Mon, 28 Oct 2024 01:00:00 +0200"
     },
     {
         "title": "Hijos de Romina Yan",
@@ -80,23 +90,13 @@
         "pubdate": "Mon, 28 Oct 2024 00:00:00 -0300"
     },
     {
-        "title": "كأس العالم للأندية",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=EG#%D9%83%D8%A3%D8%B3%20%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%20%D9%84%D9%84%D8%A3%D9%86%D8%AF%D9%8A%D8%A9",
-        "pubdate": "Mon, 28 Oct 2024 10:00:00 +0300"
+        "title": "29 Ekim Cumhuriyet Bayramı",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#29%20Ekim%20Cumhuriyet%20Bayram%C4%B1",
+        "pubdate": "Mon, 28 Oct 2024 08:00:00 +0300"
     },
     {
-        "title": "Russland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Russland",
-        "pubdate": "Mon, 28 Oct 2024 01:00:00 +0100"
-    },
-    {
-        "title": "Catarina Gouveia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Catarina%20Gouveia",
-        "pubdate": "Mon, 28 Oct 2024 00:00:00 +0000"
-    },
-    {
-        "title": "Real Betis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Real%20Betis",
-        "pubdate": "Mon, 28 Oct 2024 00:00:00 +0100"
+        "title": "Feyenoord",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord",
+        "pubdate": "Sun, 27 Oct 2024 12:00:00 +0100"
     }
 ]
