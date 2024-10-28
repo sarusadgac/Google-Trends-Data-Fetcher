@@ -1,17 +1,7 @@
 [
     {
-        "title": "Арсенал – Ливерпуль",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%90%D1%80%D1%81%D0%B5%D0%BD%D0%B0%D0%BB%20%E2%80%93%20%D0%9B%D0%B8%D0%B2%D0%B5%D1%80%D0%BF%D1%83%D0%BB%D1%8C",
-        "pubdate": "Sun, 27 Oct 2024 20:00:00 +0300"
-    },
-    {
-        "title": "Line Renaud",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Line%20Renaud",
-        "pubdate": "Sun, 27 Oct 2024 21:00:00 +0100"
-    },
-    {
-        "title": "Real Madrid vs Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Real%20Madrid%20vs%20Barcelona",
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Real%20Madrid",
         "pubdate": "Sun, 27 Oct 2024 00:30:00 +0530"
     },
     {
@@ -25,9 +15,24 @@
         "pubdate": "Mon, 28 Oct 2024 01:00:00 +0800"
     },
     {
+        "title": "Sophie Turner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Sophie%20Turner",
+        "pubdate": "Mon, 28 Oct 2024 02:00:00 +0000"
+    },
+    {
+        "title": "Line Renaud",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Line%20Renaud",
+        "pubdate": "Sun, 27 Oct 2024 21:00:00 +0100"
+    },
+    {
         "title": "Bears",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bears",
         "pubdate": "Sun, 27 Oct 2024 14:00:00 -0700"
+    },
+    {
+        "title": "Максим Шпаковский",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%20%D0%A8%D0%BF%D0%B0%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9",
+        "pubdate": "Mon, 28 Oct 2024 02:00:00 +0300"
     },
     {
         "title": "NHK",
@@ -35,68 +40,63 @@
         "pubdate": "Mon, 28 Oct 2024 00:00:00 +0900"
     },
     {
+        "title": "Guillermo príncipe de Gales",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Guillermo%20pr%C3%ADncipe%20de%20Gales",
+        "pubdate": "Mon, 28 Oct 2024 00:00:00 +0100"
+    },
+    {
         "title": "West Ham vs Man United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#West%20Ham%20vs%20Man%20United",
-        "pubdate": "Sun, 27 Oct 2024 14:00:00 +0000"
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#West%20Ham%20vs%20Man%20United",
+        "pubdate": "Mon, 28 Oct 2024 01:00:00 +1100"
     },
     {
-        "title": "Feyenoord",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord",
-        "pubdate": "Sun, 27 Oct 2024 12:00:00 +0100"
-    },
-    {
-        "title": "Arsenal vs Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Arsenal%20vs%20Liverpool",
-        "pubdate": "Mon, 28 Oct 2024 02:00:00 +1100"
-    },
-    {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Arsenal",
-        "pubdate": "Mon, 28 Oct 2024 13:00:00 +1300"
-    },
-    {
-        "title": "Zoo Plzeň",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Zoo%20Plze%C5%88",
-        "pubdate": "Mon, 28 Oct 2024 00:00:00 +0100"
-    },
-    {
-        "title": "Inter vs Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Inter%20vs%20Juventus",
-        "pubdate": "Mon, 28 Oct 2024 03:00:00 +0800"
-    },
-    {
-        "title": "Club Brugge  Anderlecht",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Club%20Brugge%20%20Anderlecht",
-        "pubdate": "Sun, 27 Oct 2024 14:00:00 +0100"
-    },
-    {
-        "title": "Real Betis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Real%20Betis",
-        "pubdate": "Mon, 28 Oct 2024 00:00:00 +0100"
-    },
-    {
-        "title": "Elena Lasconi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Elena%20Lasconi",
-        "pubdate": "Mon, 28 Oct 2024 01:00:00 +0200"
-    },
-    {
-        "title": "Rory Gallagher",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Rory%20Gallagher",
-        "pubdate": "Mon, 28 Oct 2024 00:00:00 +0000"
-    },
-    {
-        "title": "Deportivo Cali  Bucaramanga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Deportivo%20Cali%20%20Bucaramanga",
-        "pubdate": "Sun, 27 Oct 2024 16:00:00 -0500"
-    },
-    {
-        "title": "Celine Dion",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Celine%20Dion",
+        "title": "Total Recall",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Total%20Recall",
         "pubdate": "Mon, 28 Oct 2024 01:00:00 +0100"
     },
     {
-        "title": "Lisa Bitter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Lisa%20Bitter",
+        "title": "Inter đấu với Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Inter%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Juventus",
+        "pubdate": "Mon, 28 Oct 2024 00:00:00 +0700"
+    },
+    {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Arsenal",
+        "pubdate": "Sun, 27 Oct 2024 21:00:00 +0300"
+    },
+    {
+        "title": "Arsenal – Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Arsenal%20%E2%80%93%20Liverpool",
+        "pubdate": "Sun, 27 Oct 2024 19:00:00 +0200"
+    },
+    {
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#PSG",
         "pubdate": "Mon, 28 Oct 2024 00:00:00 +0100"
+    },
+    {
+        "title": "Arsenal vs Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Arsenal%20vs%20Liverpool",
+        "pubdate": "Mon, 28 Oct 2024 07:00:00 +1300"
+    },
+    {
+        "title": "Thorir Hergeirsson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Thorir%20Hergeirsson",
+        "pubdate": "Mon, 28 Oct 2024 00:00:00 +0100"
+    },
+    {
+        "title": "Marseille vs PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Marseille%20vs%20PSG",
+        "pubdate": "Mon, 28 Oct 2024 03:00:00 +0700"
+    },
+    {
+        "title": "Daylight savings time",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Daylight%20savings%20time",
+        "pubdate": "Sun, 27 Oct 2024 03:00:00 -0400"
+    },
+    {
+        "title": "Fortaleza  Atlético Nacional",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Fortaleza%20%20Atl%C3%A9tico%20Nacional",
+        "pubdate": "Sun, 27 Oct 2024 14:00:00 -0500"
     }
 ]
