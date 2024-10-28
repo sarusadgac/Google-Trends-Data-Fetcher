@@ -1,6 +1,5 @@
 Arsenal
 Crystal Palace vs Tottenham
-Inter Vs Juventus
 Safaricom
 Boniface Mwangi
 Karega Mutahi
@@ -15,6 +14,7 @@ West Ham vs Man United
 Chelsea vs Newcastle
 Man City vs Southampton
 Man City
+Inter Vs Juventus
 LaLiga
 Aston Villa
 Ndindi Nyoro

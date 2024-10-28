@@ -1,7 +1,7 @@
 Feyenoord
 F1 Mexico
-Twente  Heracles
 Ajax  Willem II
+FC Twente
 AZ
 Helmond Sport
 Douwe Bob
@@ -9,7 +9,6 @@ Skechers
 Wintertijd
 Real Madrid
 NAC
-Heerenveen  Sparta Rotterdam
 GP Mexico
 Fortuna Sittard
 N.E.C
@@ -18,3 +17,4 @@ Joost Klein
 Ebusco
 Henry van Loon
 Ik Vertrek
+FC Emmen
