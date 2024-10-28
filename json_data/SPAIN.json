@@ -1,7 +1,7 @@
 [
     {
-        "title": "Misógino",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Mis%C3%B3gino",
+        "title": "Misogino",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Misogino",
         "pubdate": "Mon, 28 Oct 2024 00:00:00 +0100"
     },
     {
@@ -10,9 +10,9 @@
         "pubdate": "Mon, 28 Oct 2024 00:00:00 +0100"
     },
     {
-        "title": "El ciudadano ilustre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#El%20ciudadano%20ilustre",
-        "pubdate": "Mon, 28 Oct 2024 00:00:00 +0100"
+        "title": "Corneado en Guadalix de la Sierra",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Corneado%20en%20Guadalix%20de%20la%20Sierra",
+        "pubdate": "Mon, 28 Oct 2024 08:00:00 +0100"
     },
     {
         "title": "Boca Juniors  Deportivo Riestra",
@@ -20,19 +20,19 @@
         "pubdate": "Mon, 28 Oct 2024 05:00:00 +0100"
     },
     {
-        "title": "Corneado en Guadalix de la Sierra",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Corneado%20en%20Guadalix%20de%20la%20Sierra",
+        "title": "El ciudadano ilustre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#El%20ciudadano%20ilustre",
+        "pubdate": "Mon, 28 Oct 2024 00:00:00 +0100"
+    },
+    {
+        "title": "Elecciones Uruguay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Elecciones%20Uruguay",
         "pubdate": "Mon, 28 Oct 2024 08:00:00 +0100"
     },
     {
         "title": "Muere",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Muere",
         "pubdate": "Mon, 28 Oct 2024 01:00:00 +0100"
-    },
-    {
-        "title": "Elecciones Uruguay",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Elecciones%20Uruguay",
-        "pubdate": "Mon, 28 Oct 2024 08:00:00 +0100"
     },
     {
         "title": "Bilbao Basket  Valencia",
@@ -58,6 +58,11 @@
         "title": "SPORT",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#SPORT",
         "pubdate": "Sun, 27 Oct 2024 10:00:00 +0100"
+    },
+    {
+        "title": "Supersubmarina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Supersubmarina",
+        "pubdate": "Sun, 27 Oct 2024 23:00:00 +0100"
     },
     {
         "title": "Leganés  Celta de Vigo",
@@ -93,10 +98,5 @@
         "title": "Bochum - Bayern",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Bochum%20-%20Bayern",
         "pubdate": "Sun, 27 Oct 2024 15:00:00 +0100"
-    },
-    {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#PSG",
-        "pubdate": "Sun, 27 Oct 2024 21:00:00 +0100"
     }
 ]
