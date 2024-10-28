@@ -1,5 +1,35 @@
 [
     {
+        "title": "Rangers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Rangers",
+        "pubdate": "Mon, 28 Oct 2024 14:00:00 +0000"
+    },
+    {
+        "title": "VW",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VW",
+        "pubdate": "Mon, 28 Oct 2024 13:00:00 +0100"
+    },
+    {
+        "title": "NHK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#NHK",
+        "pubdate": "Mon, 28 Oct 2024 00:00:00 +0900"
+    },
+    {
+        "title": "День бабушек и дедушек",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%94%D0%B5%D0%BD%D1%8C%20%D0%B1%D0%B0%D0%B1%D1%83%D1%88%D0%B5%D0%BA%20%D0%B8%20%D0%B4%D0%B5%D0%B4%D1%83%D1%88%D0%B5%D0%BA",
+        "pubdate": "Mon, 28 Oct 2024 06:00:00 +0300"
+    },
+    {
+        "title": "六合彩結果",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%85%AD%E5%90%88%E5%BD%A9%E7%B5%90%E6%9E%9C",
+        "pubdate": "Mon, 28 Oct 2024 20:00:00 +0800"
+    },
+    {
+        "title": "Dhanteras 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Dhanteras%202024",
+        "pubdate": "Mon, 28 Oct 2024 14:30:00 +0530"
+    },
+    {
         "title": "CHROMAKOPIA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#CHROMAKOPIA",
         "pubdate": "Mon, 28 Oct 2024 05:00:00 -0700"
@@ -10,34 +40,29 @@
         "pubdate": "Mon, 28 Oct 2024 11:00:00 +0100"
     },
     {
-        "title": "День бабушек и дедушек",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%94%D0%B5%D0%BD%D1%8C%20%D0%B1%D0%B0%D0%B1%D1%83%D1%88%D0%B5%D0%BA%20%D0%B8%20%D0%B4%D0%B5%D0%B4%D1%83%D1%88%D0%B5%D0%BA",
-        "pubdate": "Mon, 28 Oct 2024 06:00:00 +0300"
+        "title": "Black Friday",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Black%20Friday",
+        "pubdate": "Mon, 28 Oct 2024 15:00:00 +0100"
     },
     {
-        "title": "VW",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VW",
-        "pubdate": "Mon, 28 Oct 2024 13:00:00 +0100"
+        "title": "As Roma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#As%20Roma",
+        "pubdate": "Mon, 28 Oct 2024 00:00:00 +0100"
     },
     {
-        "title": "六合彩結果",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%85%AD%E5%90%88%E5%BD%A9%E7%B5%90%E6%9E%9C",
-        "pubdate": "Mon, 28 Oct 2024 20:00:00 +0800"
+        "title": "Arsenal vs Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Arsenal%20vs%20Liverpool",
+        "pubdate": "Mon, 28 Oct 2024 02:00:00 +1100"
     },
     {
-        "title": "Rangers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Rangers",
-        "pubdate": "Mon, 28 Oct 2024 14:00:00 +0000"
+        "title": "Vznik Československa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vznik%20%C4%8Ceskoslovenska",
+        "pubdate": "Mon, 28 Oct 2024 09:00:00 +0100"
     },
     {
-        "title": "Dhanteras 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Dhanteras%202024",
-        "pubdate": "Mon, 28 Oct 2024 14:30:00 +0530"
-    },
-    {
-        "title": "NHK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#NHK",
-        "pubdate": "Mon, 28 Oct 2024 00:00:00 +0900"
+        "title": "Catarina Gouveia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Catarina%20Gouveia",
+        "pubdate": "Mon, 28 Oct 2024 00:00:00 +0000"
     },
     {
         "title": "Anne Lagercrantz",
@@ -45,19 +70,9 @@
         "pubdate": "Mon, 28 Oct 2024 10:00:00 +0100"
     },
     {
-        "title": "Príncipe Guillermo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Pr%C3%ADncipe%20Guillermo",
-        "pubdate": "Mon, 28 Oct 2024 00:00:00 +0100"
-    },
-    {
-        "title": "Cris Morena",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Cris%20Morena",
-        "pubdate": "Mon, 28 Oct 2024 00:00:00 -0300"
-    },
-    {
-        "title": "America vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#America%20vs",
-        "pubdate": "Mon, 28 Oct 2024 00:00:00 -0500"
+        "title": "Bola de Ouro 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bola%20de%20Ouro%202024",
+        "pubdate": "Mon, 28 Oct 2024 06:00:00 -0500"
     },
     {
         "title": "Sleeplife Brugge",
@@ -65,38 +80,23 @@
         "pubdate": "Mon, 28 Oct 2024 08:00:00 +0100"
     },
     {
-        "title": "Russland Ukraine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Russland%20Ukraine",
-        "pubdate": "Mon, 28 Oct 2024 01:00:00 +0100"
+        "title": "MU vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#MU%20vs",
+        "pubdate": "Mon, 28 Oct 2024 00:00:00 +0700"
     },
     {
-        "title": "كأس العالم للأندية",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=EG#%D9%83%D8%A3%D8%B3%20%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%20%D9%84%D9%84%D8%A3%D9%86%D8%AF%D9%8A%D8%A9",
-        "pubdate": "Mon, 28 Oct 2024 10:00:00 +0300"
-    },
-    {
-        "title": "لجين عمران",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#%D9%84%D8%AC%D9%8A%D9%86%20%D8%B9%D9%85%D8%B1%D8%A7%D9%86",
-        "pubdate": "Mon, 28 Oct 2024 00:00:00 +0300"
-    },
-    {
-        "title": "Vasvári Vivien",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Vasv%C3%A1ri%20Vivien",
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#PSG",
         "pubdate": "Mon, 28 Oct 2024 07:00:00 +0100"
     },
     {
-        "title": "Dwyane Wade statue",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Dwyane%20Wade%20statue",
-        "pubdate": "Mon, 28 Oct 2024 01:00:00 -0400"
+        "title": "Ballon d'Or 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Ballon%20d'Or%202024",
+        "pubdate": "Mon, 28 Oct 2024 08:00:00 +0200"
     },
     {
         "title": "Rohrbach",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rohrbach",
-        "pubdate": "Mon, 28 Oct 2024 11:00:00 +0100"
-    },
-    {
-        "title": "Mounjaro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Mounjaro",
         "pubdate": "Mon, 28 Oct 2024 11:00:00 +0100"
     }
 ]
