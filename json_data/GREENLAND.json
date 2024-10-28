@@ -1,15 +1,5 @@
 [
     {
-        "title": "Chromakopia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chromakopia",
-        "pubdate": "Mon, 28 Oct 2024 05:00:00 -0700"
-    },
-    {
-        "title": "NHK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#NHK",
-        "pubdate": "Mon, 28 Oct 2024 00:00:00 +0900"
-    },
-    {
         "title": "VW",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VW",
         "pubdate": "Mon, 28 Oct 2024 13:00:00 +0100"
@@ -20,14 +10,14 @@
         "pubdate": "Mon, 28 Oct 2024 16:00:00 +0800"
     },
     {
-        "title": "Waaree Energies share price",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Waaree%20Energies%20share%20price",
-        "pubdate": "Mon, 28 Oct 2024 10:30:00 +0530"
-    },
-    {
         "title": "France Travail",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#France%20Travail",
         "pubdate": "Mon, 28 Oct 2024 11:00:00 +0100"
+    },
+    {
+        "title": "Chromakopia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chromakopia",
+        "pubdate": "Mon, 28 Oct 2024 05:00:00 -0700"
     },
     {
         "title": "День бабушек и дедушек",
@@ -40,33 +30,48 @@
         "pubdate": "Mon, 28 Oct 2024 09:00:00 +0000"
     },
     {
+        "title": "NHK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#NHK",
+        "pubdate": "Mon, 28 Oct 2024 00:00:00 +0900"
+    },
+    {
+        "title": "Waaree Energies share price",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Waaree%20Energies%20share%20price",
+        "pubdate": "Mon, 28 Oct 2024 10:30:00 +0530"
+    },
+    {
+        "title": "Ελληνικη σημαια",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%B7%20%CF%83%CE%B7%CE%BC%CE%B1%CE%B9%CE%B1",
+        "pubdate": "Mon, 28 Oct 2024 08:00:00 +0200"
+    },
+    {
+        "title": "Dwyane Wade statue",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Dwyane%20Wade%20statue",
+        "pubdate": "Mon, 28 Oct 2024 01:00:00 -0400"
+    },
+    {
+        "title": "Bola de Ouro 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bola%20de%20Ouro%202024",
+        "pubdate": "Mon, 28 Oct 2024 06:00:00 -0500"
+    },
+    {
+        "title": "GP Mexico",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#GP%20Mexico",
+        "pubdate": "Mon, 28 Oct 2024 01:00:00 +0100"
+    },
+    {
+        "title": "Natalia Paruzel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Natalia%20Paruzel",
+        "pubdate": "Mon, 28 Oct 2024 10:00:00 +0100"
+    },
+    {
         "title": "Ballon d'Or",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ballon%20d'Or",
         "pubdate": "Mon, 28 Oct 2024 10:00:00 +0100"
     },
     {
-        "title": "Arsenal – Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Arsenal%20%E2%80%93%20Liverpool",
-        "pubdate": "Sun, 27 Oct 2024 19:00:00 +0200"
-    },
-    {
-        "title": "Halep",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Halep",
-        "pubdate": "Mon, 28 Oct 2024 13:00:00 +0200"
-    },
-    {
         "title": "Misogino",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Misogino",
-        "pubdate": "Mon, 28 Oct 2024 00:00:00 +0100"
-    },
-    {
-        "title": "Roma Calcio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Roma%20Calcio",
-        "pubdate": "Mon, 28 Oct 2024 11:00:00 +0100"
-    },
-    {
-        "title": "F1 standings",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#F1%20standings",
         "pubdate": "Mon, 28 Oct 2024 00:00:00 +0100"
     },
     {
@@ -75,14 +80,14 @@
         "pubdate": "Mon, 28 Oct 2024 00:00:00 +0000"
     },
     {
-        "title": "لجين عمران",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#%D9%84%D8%AC%D9%8A%D9%86%20%D8%B9%D9%85%D8%B1%D8%A7%D9%86",
-        "pubdate": "Mon, 28 Oct 2024 00:00:00 +0300"
+        "title": "29 Ekim Cumhuriyet Bayramı",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#29%20Ekim%20Cumhuriyet%20Bayram%C4%B1",
+        "pubdate": "Mon, 28 Oct 2024 08:00:00 +0300"
     },
     {
-        "title": "Elecciones Estados Unidos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Elecciones%20Estados%20Unidos",
-        "pubdate": "Mon, 28 Oct 2024 00:00:00 -0500"
+        "title": "颱風假",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%A2%B1%E9%A2%A8%E5%81%87",
+        "pubdate": "Mon, 28 Oct 2024 00:00:00 +0800"
     },
     {
         "title": "Accident tram bruxelles",
@@ -90,13 +95,8 @@
         "pubdate": "Mon, 28 Oct 2024 08:00:00 +0100"
     },
     {
-        "title": "كأس العالم للأندية",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=EG#%D9%83%D8%A3%D8%B3%20%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%20%D9%84%D9%84%D8%A3%D9%86%D8%AF%D9%8A%D8%A9",
-        "pubdate": "Mon, 28 Oct 2024 10:00:00 +0300"
-    },
-    {
-        "title": "MU vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#MU%20vs",
-        "pubdate": "Mon, 28 Oct 2024 00:00:00 +0700"
+        "title": "Arsenal – Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Arsenal%20%E2%80%93%20Liverpool",
+        "pubdate": "Sun, 27 Oct 2024 19:00:00 +0200"
     }
 ]
