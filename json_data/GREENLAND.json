@@ -1,33 +1,8 @@
 [
     {
-        "title": "Bucks",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bucks",
-        "pubdate": "Mon, 28 Oct 2024 03:00:00 -0700"
-    },
-    {
-        "title": "Bochum – Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bochum%20%E2%80%93%20Bayern",
-        "pubdate": "Sun, 27 Oct 2024 15:00:00 +0100"
-    },
-    {
-        "title": "День бабушек и дедушек",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%94%D0%B5%D0%BD%D1%8C%20%D0%B1%D0%B0%D0%B1%D1%83%D1%88%D0%B5%D0%BA%20%D0%B8%20%D0%B4%D0%B5%D0%B4%D1%83%D1%88%D0%B5%D0%BA",
-        "pubdate": "Mon, 28 Oct 2024 06:00:00 +0300"
-    },
-    {
-        "title": "Tony Hinchcliffe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Tony%20Hinchcliffe",
-        "pubdate": "Mon, 28 Oct 2024 09:00:00 +0000"
-    },
-    {
-        "title": "NHK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#NHK",
-        "pubdate": "Mon, 28 Oct 2024 00:00:00 +0900"
-    },
-    {
-        "title": "六合彩",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%85%AD%E5%90%88%E5%BD%A9",
-        "pubdate": "Mon, 28 Oct 2024 16:00:00 +0800"
+        "title": "VW",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VW",
+        "pubdate": "Mon, 28 Oct 2024 13:00:00 +0100"
     },
     {
         "title": "Waaree Energies share price",
@@ -35,29 +10,79 @@
         "pubdate": "Mon, 28 Oct 2024 10:30:00 +0530"
     },
     {
+        "title": "День бабушек и дедушек",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%94%D0%B5%D0%BD%D1%8C%20%D0%B1%D0%B0%D0%B1%D1%83%D1%88%D0%B5%D0%BA%20%D0%B8%20%D0%B4%D0%B5%D0%B4%D1%83%D1%88%D0%B5%D0%BA",
+        "pubdate": "Mon, 28 Oct 2024 06:00:00 +0300"
+    },
+    {
+        "title": "Chromakopia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chromakopia",
+        "pubdate": "Mon, 28 Oct 2024 05:00:00 -0700"
+    },
+    {
+        "title": "Tony Hinchcliffe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Tony%20Hinchcliffe",
+        "pubdate": "Mon, 28 Oct 2024 09:00:00 +0000"
+    },
+    {
+        "title": "六合彩",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%85%AD%E5%90%88%E5%BD%A9",
+        "pubdate": "Mon, 28 Oct 2024 16:00:00 +0800"
+    },
+    {
         "title": "France Travail",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#France%20Travail",
         "pubdate": "Mon, 28 Oct 2024 11:00:00 +0100"
     },
     {
-        "title": "Met Office November snow forecast",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Met%20Office%20November%20snow%20forecast",
-        "pubdate": "Mon, 28 Oct 2024 01:00:00 +0000"
+        "title": "NHK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#NHK",
+        "pubdate": "Mon, 28 Oct 2024 00:00:00 +0900"
     },
     {
-        "title": "Accident tram bruxelles",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Accident%20tram%20bruxelles",
-        "pubdate": "Mon, 28 Oct 2024 08:00:00 +0100"
+        "title": "Dwyane Wade statue",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Dwyane%20Wade%20statue",
+        "pubdate": "Mon, 28 Oct 2024 01:00:00 -0400"
     },
     {
-        "title": "CONCEJALES ELECTOS 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#CONCEJALES%20ELECTOS%202024",
-        "pubdate": "Mon, 28 Oct 2024 00:00:00 -0300"
+        "title": "Elecciones",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Elecciones",
+        "pubdate": "Mon, 28 Oct 2024 09:00:00 -0300"
     },
     {
-        "title": "Kirchberg ob der Donau",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Kirchberg%20ob%20der%20Donau",
-        "pubdate": "Mon, 28 Oct 2024 10:00:00 +0100"
+        "title": "Mounjaro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Mounjaro",
+        "pubdate": "Mon, 28 Oct 2024 11:00:00 +0100"
+    },
+    {
+        "title": "Arsenal – Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Arsenal%20%E2%80%93%20Liverpool",
+        "pubdate": "Sun, 27 Oct 2024 19:00:00 +0200"
+    },
+    {
+        "title": "Bola de Ouro 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bola%20de%20Ouro%202024",
+        "pubdate": "Mon, 28 Oct 2024 06:00:00 -0500"
+    },
+    {
+        "title": "KPSEA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#KPSEA",
+        "pubdate": "Mon, 28 Oct 2024 08:00:00 +0300"
+    },
+    {
+        "title": "Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Manchester%20United",
+        "pubdate": "Mon, 28 Oct 2024 01:00:00 +0800"
+    },
+    {
+        "title": "Catarina Gouveia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Catarina%20Gouveia",
+        "pubdate": "Mon, 28 Oct 2024 00:00:00 +0000"
+    },
+    {
+        "title": "El Fantasma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#El%20Fantasma",
+        "pubdate": "Mon, 28 Oct 2024 00:00:00 -0600"
     },
     {
         "title": "Natalia Paruzel",
@@ -65,38 +90,13 @@
         "pubdate": "Mon, 28 Oct 2024 10:00:00 +0100"
     },
     {
-        "title": "Vasvári Vivien",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Vasv%C3%A1ri%20Vivien",
-        "pubdate": "Mon, 28 Oct 2024 07:00:00 +0100"
+        "title": "Roma Calcio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Roma%20Calcio",
+        "pubdate": "Mon, 28 Oct 2024 11:00:00 +0100"
     },
     {
-        "title": "29 Ekim Cumhuriyet Bayramı",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#29%20Ekim%20Cumhuriyet%20Bayram%C4%B1",
-        "pubdate": "Mon, 28 Oct 2024 08:00:00 +0300"
-    },
-    {
-        "title": "עדי שילון",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A2%D7%93%D7%99%20%D7%A9%D7%99%D7%9C%D7%95%D7%9F",
-        "pubdate": "Mon, 28 Oct 2024 12:00:00 +0200"
-    },
-    {
-        "title": "Michael Jackson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Michael%20Jackson",
-        "pubdate": "Mon, 28 Oct 2024 08:00:00 +0000"
-    },
-    {
-        "title": "토트넘",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%ED%86%A0%ED%8A%B8%EB%84%98",
-        "pubdate": "Mon, 28 Oct 2024 01:00:00 +0900"
-    },
-    {
-        "title": "Ιωαννησ μεταξασ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%99%CF%89%CE%B1%CE%BD%CE%BD%CE%B7%CF%83%20%CE%BC%CE%B5%CF%84%CE%B1%CE%BE%CE%B1%CF%83",
-        "pubdate": "Mon, 28 Oct 2024 08:00:00 +0200"
-    },
-    {
-        "title": "Inter vs Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Inter%20vs%20Juventus",
-        "pubdate": "Mon, 28 Oct 2024 00:00:00 +0700"
+        "title": "Elecciones Estados Unidos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Elecciones%20Estados%20Unidos",
+        "pubdate": "Mon, 28 Oct 2024 00:00:00 -0500"
     }
 ]

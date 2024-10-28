@@ -10,8 +10,8 @@
         "pubdate": "Mon, 28 Oct 2024 00:00:00 +0100"
     },
     {
-        "title": "Elecciones EEUU",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Elecciones%20EEUU",
+        "title": "Elecciones eeuu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Elecciones%20eeuu",
         "pubdate": "Mon, 28 Oct 2024 08:00:00 +0100"
     },
     {
@@ -43,6 +43,16 @@
         "title": "Bilbao Basket  Valencia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Bilbao%20Basket%20%20Valencia",
         "pubdate": "Mon, 28 Oct 2024 00:00:00 +0100"
+    },
+    {
+        "title": "Anosognosia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Anosognosia",
+        "pubdate": "Mon, 28 Oct 2024 13:00:00 +0100"
+    },
+    {
+        "title": "Libro Cristina Fallarás",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Libro%20Cristina%20Fallar%C3%A1s",
+        "pubdate": "Mon, 28 Oct 2024 13:00:00 +0100"
     },
     {
         "title": "Betis  Atlético Madrid",
@@ -88,15 +98,5 @@
         "title": "Íñigo Errejón",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#%C3%8D%C3%B1igo%20Errej%C3%B3n",
         "pubdate": "Sun, 27 Oct 2024 19:00:00 +0100"
-    },
-    {
-        "title": "Balon de Oro 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Balon%20de%20Oro%202024",
-        "pubdate": "Sun, 27 Oct 2024 09:00:00 +0100"
-    },
-    {
-        "title": "Bochum  Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Bochum%20%20Bayern",
-        "pubdate": "Sun, 27 Oct 2024 15:00:00 +0100"
     }
 ]
