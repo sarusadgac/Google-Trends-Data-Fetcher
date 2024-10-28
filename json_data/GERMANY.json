@@ -15,9 +15,9 @@
         "pubdate": "Sun, 27 Oct 2024 17:00:00 +0100"
     },
     {
-        "title": "BVB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#BVB",
-        "pubdate": "Sun, 27 Oct 2024 00:00:00 +0200"
+        "title": "Patrick Lange",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Patrick%20Lange",
+        "pubdate": "Sun, 27 Oct 2024 02:00:00 +0100"
     },
     {
         "title": "Marcel Hirscher",
@@ -38,11 +38,6 @@
         "title": "Zeitumstellung",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Zeitumstellung",
         "pubdate": "Sat, 26 Oct 2024 12:00:00 +0200"
-    },
-    {
-        "title": "Ironman Hawaii",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ironman%20Hawaii",
-        "pubdate": "Sat, 26 Oct 2024 20:00:00 +0200"
     },
     {
         "title": "La-Liga",
@@ -98,5 +93,10 @@
         "title": "Champions League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Champions%20League",
         "pubdate": "Mon, 21 Oct 2024 18:00:00 +0200"
+    },
+    {
+        "title": "Cl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Cl",
+        "pubdate": "Mon, 21 Oct 2024 17:00:00 +0200"
     }
 ]
