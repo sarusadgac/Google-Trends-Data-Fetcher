@@ -1,11 +1,12 @@
 Elecciones Estados Unidos
+Principe Guillermo
 Fortaleza  Atlético Nacional
 Deportivo Cali  Bucaramanga
 Inter  Juventus
 Bochum - Bayern
 West Ham - Manchester United
-Chelsea - Newcastle
 Crystal Palace  Tottenham
+Chelsea - Newcastle
 Betis  Atlético Madrid
 PSG
 Boca Juniors  Deportivo Riestra
@@ -17,4 +18,3 @@ Leganés  Celta de Vigo
 Partido Nacional
 Getafe  Valencia CF
 Hansi Flick
-América  Monterrey
