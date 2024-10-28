@@ -20,14 +20,14 @@
         "pubdate": "Mon, 28 Oct 2024 01:00:00 +0100"
     },
     {
-        "title": "Bilbao Basket  Valencia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Bilbao%20Basket%20%20Valencia",
-        "pubdate": "Mon, 28 Oct 2024 00:00:00 +0100"
-    },
-    {
         "title": "Boca Juniors  Deportivo Riestra",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Boca%20Juniors%20%20Deportivo%20Riestra",
         "pubdate": "Mon, 28 Oct 2024 05:00:00 +0100"
+    },
+    {
+        "title": "Bilbao Basket  Valencia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Bilbao%20Basket%20%20Valencia",
+        "pubdate": "Mon, 28 Oct 2024 00:00:00 +0100"
     },
     {
         "title": "Betis  Atlético Madrid",
@@ -65,11 +65,6 @@
         "pubdate": "Sun, 27 Oct 2024 17:00:00 +0100"
     },
     {
-        "title": "Futbol hoy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Futbol%20hoy",
-        "pubdate": "Sun, 27 Oct 2024 00:00:00 +0200"
-    },
-    {
         "title": "Íñigo Errejón",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#%C3%8D%C3%B1igo%20Errej%C3%B3n",
         "pubdate": "Sun, 27 Oct 2024 19:00:00 +0100"
@@ -80,9 +75,9 @@
         "pubdate": "Sun, 27 Oct 2024 16:00:00 +0100"
     },
     {
-        "title": "Malaga CF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Malaga%20CF",
-        "pubdate": "Sun, 27 Oct 2024 14:00:00 +0100"
+        "title": "Granada  Levante",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Granada%20%20Levante",
+        "pubdate": "Sun, 27 Oct 2024 21:00:00 +0100"
     },
     {
         "title": "Bochum - Bayern",
@@ -90,13 +85,18 @@
         "pubdate": "Sun, 27 Oct 2024 15:00:00 +0100"
     },
     {
-        "title": "Granada  Levante",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Granada%20%20Levante",
-        "pubdate": "Sun, 27 Oct 2024 21:00:00 +0100"
-    },
-    {
         "title": "Deportes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Deportes",
         "pubdate": "Sun, 27 Oct 2024 00:00:00 +0200"
+    },
+    {
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#PSG",
+        "pubdate": "Sun, 27 Oct 2024 21:00:00 +0100"
+    },
+    {
+        "title": "Inter  Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Inter%20%20Juventus",
+        "pubdate": "Sun, 27 Oct 2024 19:00:00 +0100"
     }
 ]
