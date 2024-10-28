@@ -1,10 +1,5 @@
 [
     {
-        "title": "Unión Comercio  Sporting Cristal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Uni%C3%B3n%20Comercio%20%20Sporting%20Cristal",
-        "pubdate": "Sun, 27 Oct 2024 13:00:00 -0500"
-    },
-    {
         "title": "Sport Huancayo  Melgar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Sport%20Huancayo%20%20Melgar",
         "pubdate": "Sun, 27 Oct 2024 16:00:00 -0500"
@@ -15,13 +10,23 @@
         "pubdate": "Sun, 27 Oct 2024 09:00:00 -0500"
     },
     {
+        "title": "Boca Juniors  Deportivo Riestra",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Boca%20Juniors%20%20Deportivo%20Riestra",
+        "pubdate": "Sun, 27 Oct 2024 17:00:00 -0500"
+    },
+    {
+        "title": "Boys vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Boys%20vs",
+        "pubdate": "Sun, 27 Oct 2024 00:00:00 -0500"
+    },
+    {
         "title": "Chelsea - Newcastle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Chelsea%20-%20Newcastle",
         "pubdate": "Sun, 27 Oct 2024 09:00:00 -0500"
     },
     {
-        "title": "Inter - Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Inter%20-%20Juventus",
+        "title": "Inter  Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Inter%20%20Juventus",
         "pubdate": "Sun, 27 Oct 2024 12:00:00 -0500"
     },
     {
@@ -30,8 +35,8 @@
         "pubdate": "Sun, 27 Oct 2024 09:00:00 -0500"
     },
     {
-        "title": "Betis - Atlético Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Betis%20-%20Atl%C3%A9tico%20Madrid",
+        "title": "Betis  Atlético Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Betis%20%20Atl%C3%A9tico%20Madrid",
         "pubdate": "Sun, 27 Oct 2024 13:00:00 -0500"
     },
     {
@@ -40,9 +45,9 @@
         "pubdate": "Sun, 27 Oct 2024 15:00:00 -0500"
     },
     {
-        "title": "Sport Boys",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Sport%20Boys",
-        "pubdate": "Sun, 27 Oct 2024 00:00:00 -0500"
+        "title": "Tabla acumulada Liga 1 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Tabla%20acumulada%20Liga%201%202024",
+        "pubdate": "Sun, 27 Oct 2024 13:00:00 -0500"
     },
     {
         "title": "Leganés  Celta de Vigo",
@@ -53,11 +58,6 @@
         "title": "Crystal Palace  Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Crystal%20Palace%20%20Tottenham",
         "pubdate": "Sun, 27 Oct 2024 10:00:00 -0500"
-    },
-    {
-        "title": "Boca Juniors  Deportivo Riestra",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Boca%20Juniors%20%20Deportivo%20Riestra",
-        "pubdate": "Sun, 27 Oct 2024 17:00:00 -0500"
     },
     {
         "title": "Real Sociedad - Osasuna",
@@ -80,23 +80,23 @@
         "pubdate": "Sun, 27 Oct 2024 16:00:00 -0500"
     },
     {
-        "title": "Liga Peruana",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Liga%20Peruana",
-        "pubdate": "Sun, 27 Oct 2024 16:00:00 -0500"
-    },
-    {
         "title": "Juventus vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Juventus%20vs",
         "pubdate": "Sun, 27 Oct 2024 17:00:00 -0500"
     },
     {
-        "title": "Partidos de hoy Liga 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Partidos%20de%20hoy%20Liga%201",
+        "title": "Chankas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Chankas",
         "pubdate": "Sun, 27 Oct 2024 15:00:00 -0500"
     },
     {
         "title": "Getafe  Valencia CF",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Getafe%20%20Valencia%20CF",
         "pubdate": "Sun, 27 Oct 2024 13:00:00 -0500"
+    },
+    {
+        "title": "Banfield  Racing",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Banfield%20%20Racing",
+        "pubdate": "Sun, 27 Oct 2024 18:00:00 -0500"
     }
 ]

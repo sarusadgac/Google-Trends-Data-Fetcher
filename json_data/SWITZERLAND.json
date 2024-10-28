@@ -1,5 +1,15 @@
 [
     {
+        "title": "Russland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Russland",
+        "pubdate": "Mon, 28 Oct 2024 01:00:00 +0100"
+    },
+    {
+        "title": "West Ham – Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#West%20Ham%20%E2%80%93%20Manchester%20United",
+        "pubdate": "Mon, 28 Oct 2024 00:00:00 +0100"
+    },
+    {
         "title": "Inter – Juventus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Inter%20%E2%80%93%20Juventus",
         "pubdate": "Sun, 27 Oct 2024 18:00:00 +0100"
@@ -10,8 +20,8 @@
         "pubdate": "Sun, 27 Oct 2024 15:00:00 +0100"
     },
     {
-        "title": "FC Sion – St. Gallen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Sion%20%E2%80%93%20St.%20Gallen",
+        "title": "FC Sion – St.Gallen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Sion%20%E2%80%93%20St.Gallen",
         "pubdate": "Sun, 27 Oct 2024 14:00:00 +0100"
     },
     {
@@ -35,11 +45,6 @@
         "pubdate": "Sun, 27 Oct 2024 15:00:00 +0100"
     },
     {
-        "title": "Starlink",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Starlink",
-        "pubdate": "Sun, 27 Oct 2024 19:00:00 +0100"
-    },
-    {
         "title": "Marathon Lausanne 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Marathon%20Lausanne%202024",
         "pubdate": "Sun, 27 Oct 2024 07:00:00 +0100"
@@ -60,24 +65,19 @@
         "pubdate": "Sun, 27 Oct 2024 04:00:00 +0100"
     },
     {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Manchester%20United",
-        "pubdate": "Sun, 27 Oct 2024 17:00:00 +0100"
-    },
-    {
         "title": "F1 Mexico",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#F1%20Mexico",
         "pubdate": "Sun, 27 Oct 2024 10:00:00 +0100"
     },
     {
-        "title": "Shaqiri",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Shaqiri",
-        "pubdate": "Sun, 27 Oct 2024 13:00:00 +0100"
-    },
-    {
         "title": "Benfica",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Benfica",
         "pubdate": "Sun, 27 Oct 2024 22:00:00 +0100"
+    },
+    {
+        "title": "Shaqiri",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Shaqiri",
+        "pubdate": "Sun, 27 Oct 2024 13:00:00 +0100"
     },
     {
         "title": "Ruth Dreifuss",

@@ -1,10 +1,5 @@
 [
     {
-        "title": "Rodica Mandache",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Rodica%20Mandache",
-        "pubdate": "Mon, 28 Oct 2024 00:00:00 +0200"
-    },
-    {
         "title": "Elena Lasconi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Elena%20Lasconi",
         "pubdate": "Mon, 28 Oct 2024 01:00:00 +0200"
@@ -15,9 +10,9 @@
         "pubdate": "Mon, 28 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "Mai",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Mai",
-        "pubdate": "Mon, 28 Oct 2024 01:00:00 +0200"
+        "title": "FCSB  Rapid Bucureşti",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#FCSB%20%20Rapid%20Bucure%C5%9Fti",
+        "pubdate": "Sun, 27 Oct 2024 21:00:00 +0200"
     },
     {
         "title": "Oțelul  Unirea Slobozia",
@@ -60,19 +55,9 @@
         "pubdate": "Sun, 27 Oct 2024 11:00:00 +0200"
     },
     {
-        "title": "PAOK - OFI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#PAOK%20-%20OFI",
-        "pubdate": "Sun, 27 Oct 2024 21:00:00 +0200"
-    },
-    {
         "title": "Anthony Hopkins",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Anthony%20Hopkins",
         "pubdate": "Sun, 27 Oct 2024 21:00:00 +0200"
-    },
-    {
-        "title": "Raphinha",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Raphinha",
-        "pubdate": "Sun, 27 Oct 2024 00:00:00 +0300"
     },
     {
         "title": "Formula 1 Mexic",
@@ -80,8 +65,8 @@
         "pubdate": "Sun, 27 Oct 2024 12:00:00 +0200"
     },
     {
-        "title": "Meci",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Meci",
+        "title": "Raphinha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Raphinha",
         "pubdate": "Sun, 27 Oct 2024 00:00:00 +0300"
     },
     {
@@ -98,5 +83,20 @@
         "title": "Lazio  Genoa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Lazio%20%20Genoa",
         "pubdate": "Sun, 27 Oct 2024 20:00:00 +0200"
+    },
+    {
+        "title": "Marca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Marca",
+        "pubdate": "Sun, 27 Oct 2024 14:00:00 +0200"
+    },
+    {
+        "title": "Real Madrid - Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Real%20Madrid%20-%20Barcelona",
+        "pubdate": "Sat, 26 Oct 2024 12:00:00 +0300"
+    },
+    {
+        "title": "Cand se schimba ora",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Cand%20se%20schimba%20ora",
+        "pubdate": "Sat, 26 Oct 2024 00:00:00 +0300"
     }
 ]

@@ -45,6 +45,11 @@
         "pubdate": "Sun, 27 Oct 2024 17:00:00 +0100"
     },
     {
+        "title": "Heure Belgique",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Heure%20Belgique",
+        "pubdate": "Sun, 27 Oct 2024 06:00:00 +0100"
+    },
+    {
         "title": "Gent",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Gent",
         "pubdate": "Sun, 27 Oct 2024 21:00:00 +0100"
@@ -93,10 +98,5 @@
         "title": "Line Renaud",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Line%20Renaud",
         "pubdate": "Sun, 27 Oct 2024 21:00:00 +0100"
-    },
-    {
-        "title": "Utrecht  Feyenoord",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Utrecht%20%20Feyenoord",
-        "pubdate": "Sun, 27 Oct 2024 15:00:00 +0100"
     }
 ]
