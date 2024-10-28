@@ -1,5 +1,10 @@
 [
     {
+        "title": "Gala balon de Oro 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Gala%20balon%20de%20Oro%202024",
+        "pubdate": "Mon, 28 Oct 2024 10:00:00 +0100"
+    },
+    {
         "title": "Misogino",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Misogino",
         "pubdate": "Mon, 28 Oct 2024 00:00:00 +0100"
@@ -25,13 +30,13 @@
         "pubdate": "Mon, 28 Oct 2024 16:00:00 +0100"
     },
     {
-        "title": "Salvados",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Salvados",
+        "title": "Libro Cristina Fallarás",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Libro%20Cristina%20Fallar%C3%A1s",
         "pubdate": "Mon, 28 Oct 2024 13:00:00 +0100"
     },
     {
-        "title": "Libro Cristina Fallarás",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Libro%20Cristina%20Fallar%C3%A1s",
+        "title": "Salvados",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Salvados",
         "pubdate": "Mon, 28 Oct 2024 13:00:00 +0100"
     },
     {
@@ -53,6 +58,11 @@
         "title": "Boca Juniors  Deportivo Riestra",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Boca%20Juniors%20%20Deportivo%20Riestra",
         "pubdate": "Mon, 28 Oct 2024 05:00:00 +0100"
+    },
+    {
+        "title": "Levante UD",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Levante%20UD",
+        "pubdate": "Mon, 28 Oct 2024 00:00:00 +0100"
     },
     {
         "title": "San Judas Tadeo",
@@ -88,15 +98,5 @@
         "title": "Real Sociedad  Osasuna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Real%20Sociedad%20%20Osasuna",
         "pubdate": "Sun, 27 Oct 2024 21:00:00 +0100"
-    },
-    {
-        "title": "Balon de Oro 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Balon%20de%20Oro%202024",
-        "pubdate": "Sun, 27 Oct 2024 09:00:00 +0100"
-    },
-    {
-        "title": "Getafe  Valencia CF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Getafe%20%20Valencia%20CF",
-        "pubdate": "Sun, 27 Oct 2024 16:00:00 +0100"
     }
 ]
