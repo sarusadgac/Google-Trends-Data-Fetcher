@@ -5,8 +5,13 @@
         "pubdate": "Tue, 29 Oct 2024 12:00:00 +0100"
     },
     {
-        "title": "MEGA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#MEGA",
+        "title": "Italia - España",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Italia%20-%20Espa%C3%B1a",
+        "pubdate": "Tue, 29 Oct 2024 18:00:00 +0100"
+    },
+    {
+        "title": "Mega",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Mega",
         "pubdate": "Tue, 29 Oct 2024 00:00:00 +0100"
     },
     {
@@ -30,9 +35,19 @@
         "pubdate": "Tue, 29 Oct 2024 16:00:00 +0100"
     },
     {
-        "title": "Felipe González",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Felipe%20Gonz%C3%A1lez",
-        "pubdate": "Tue, 29 Oct 2024 09:00:00 +0100"
+        "title": "Utiel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Utiel",
+        "pubdate": "Tue, 29 Oct 2024 18:00:00 +0100"
+    },
+    {
+        "title": "Compostela  Alavés",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Compostela%20%20Alav%C3%A9s",
+        "pubdate": "Tue, 29 Oct 2024 19:00:00 +0100"
+    },
+    {
+        "title": "Letur",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Letur",
+        "pubdate": "Tue, 29 Oct 2024 18:00:00 +0100"
     },
     {
         "title": "La ultima noche en Tremor",
@@ -40,14 +55,14 @@
         "pubdate": "Tue, 29 Oct 2024 00:00:00 +0100"
     },
     {
+        "title": "Felipe González",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Felipe%20Gonz%C3%A1lez",
+        "pubdate": "Tue, 29 Oct 2024 09:00:00 +0100"
+    },
+    {
         "title": "Donald Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Donald%20Trump",
         "pubdate": "Tue, 29 Oct 2024 03:00:00 +0100"
-    },
-    {
-        "title": "Italia - España",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Italia%20-%20Espa%C3%B1a",
-        "pubdate": "Tue, 29 Oct 2024 18:00:00 +0100"
     },
     {
         "title": "El Ejido",
@@ -60,9 +75,9 @@
         "pubdate": "Tue, 29 Oct 2024 14:00:00 +0100"
     },
     {
-        "title": "Fabrizio Romano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Fabrizio%20Romano",
-        "pubdate": "Tue, 29 Oct 2024 00:00:00 +0100"
+        "title": "Malaga Hoy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Malaga%20Hoy",
+        "pubdate": "Tue, 29 Oct 2024 16:00:00 +0100"
     },
     {
         "title": "UNRWA",
@@ -75,28 +90,13 @@
         "pubdate": "Tue, 29 Oct 2024 15:00:00 +0100"
     },
     {
-        "title": "Dibu martinez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Dibu%20martinez",
-        "pubdate": "Tue, 29 Oct 2024 02:00:00 +0100"
-    },
-    {
-        "title": "Utiel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Utiel",
-        "pubdate": "Tue, 29 Oct 2024 18:00:00 +0100"
-    },
-    {
-        "title": "Bonos Burgos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Bonos%20Burgos",
-        "pubdate": "Tue, 29 Oct 2024 12:00:00 +0100"
-    },
-    {
-        "title": "Salma Paralluelo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Salma%20Paralluelo",
-        "pubdate": "Tue, 29 Oct 2024 11:00:00 +0100"
-    },
-    {
-        "title": "Prohibicion de conducir de noche DGT",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Prohibicion%20de%20conducir%20de%20noche%20DGT",
+        "title": "Alexia Putellas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Alexia%20Putellas",
         "pubdate": "Tue, 29 Oct 2024 00:00:00 +0100"
+    },
+    {
+        "title": "Bruno Saltor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Bruno%20Saltor",
+        "pubdate": "Tue, 29 Oct 2024 11:00:00 +0100"
     }
 ]

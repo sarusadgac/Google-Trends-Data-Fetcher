@@ -5,6 +5,11 @@
         "pubdate": "Wed, 30 Oct 2024 00:00:00 +0700"
     },
     {
+        "title": "Oxford United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Oxford%20United",
+        "pubdate": "Wed, 30 Oct 2024 01:00:00 +0700"
+    },
+    {
         "title": "Tom Lembong",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Tom%20Lembong",
         "pubdate": "Tue, 29 Oct 2024 21:00:00 +0700"
@@ -70,16 +75,6 @@
         "pubdate": "Tue, 29 Oct 2024 18:00:00 +0700"
     },
     {
-        "title": "Mallorca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Mallorca",
-        "pubdate": "Tue, 29 Oct 2024 05:00:00 +0700"
-    },
-    {
-        "title": "Clara Shafira Krebs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Clara%20Shafira%20Krebs",
-        "pubdate": "Tue, 29 Oct 2024 08:00:00 +0700"
-    },
-    {
         "title": "Daun kelor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Daun%20kelor",
         "pubdate": "Tue, 29 Oct 2024 19:00:00 +0700"
@@ -97,6 +92,11 @@
     {
         "title": "Ballon d'Or 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Ballon%20d'Or%202024",
-        "pubdate": "Mon, 28 Oct 2024 01:00:00 +0700"
+        "pubdate": "Mon, 28 Oct 2024 18:00:00 +0700"
+    },
+    {
+        "title": "Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Manchester%20United",
+        "pubdate": "Mon, 28 Oct 2024 00:00:00 +0700"
     }
 ]
