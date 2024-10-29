@@ -5,6 +5,11 @@
         "pubdate": "Tue, 29 Oct 2024 12:00:00 -0500"
     },
     {
+        "title": "Bayer Leverkusen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bayer%20Leverkusen",
+        "pubdate": "Tue, 29 Oct 2024 13:00:00 -0500"
+    },
+    {
         "title": "DFB Pokal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#DFB%20Pokal",
         "pubdate": "Tue, 29 Oct 2024 12:00:00 -0500"
@@ -15,9 +20,9 @@
         "pubdate": "Tue, 29 Oct 2024 13:00:00 -0500"
     },
     {
-        "title": "Bayer Leverkusen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bayer%20Leverkusen",
-        "pubdate": "Tue, 29 Oct 2024 13:00:00 -0500"
+        "title": "Micro TDH",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Micro%20TDH",
+        "pubdate": "Tue, 29 Oct 2024 12:00:00 -0500"
     },
     {
         "title": "Donald Trump",
@@ -28,6 +33,11 @@
         "title": "Grau",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Grau",
         "pubdate": "Tue, 29 Oct 2024 08:00:00 -0500"
+    },
+    {
+        "title": "Soldados norcoreanos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Soldados%20norcoreanos",
+        "pubdate": "Tue, 29 Oct 2024 14:00:00 -0500"
     },
     {
         "title": "Balon de Oro 2024",
@@ -45,14 +55,14 @@
         "pubdate": "Mon, 28 Oct 2024 03:00:00 -0500"
     },
     {
-        "title": "Cusco  Atlético Grau",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Cusco%20%20Atl%C3%A9tico%20Grau",
-        "pubdate": "Mon, 28 Oct 2024 19:00:00 -0500"
-    },
-    {
         "title": "Recorrido del Señor de los Milagros",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Recorrido%20del%20Se%C3%B1or%20de%20los%20Milagros",
         "pubdate": "Mon, 28 Oct 2024 04:00:00 -0500"
+    },
+    {
+        "title": "Príncipe Guillermo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Pr%C3%ADncipe%20Guillermo",
+        "pubdate": "Mon, 28 Oct 2024 14:00:00 -0500"
     },
     {
         "title": "Slipknot",
@@ -88,15 +98,5 @@
         "title": "Corinthians",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Corinthians",
         "pubdate": "Mon, 28 Oct 2024 22:00:00 -0500"
-    },
-    {
-        "title": "America vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#America%20vs",
-        "pubdate": "Mon, 28 Oct 2024 00:00:00 -0500"
-    },
-    {
-        "title": "Galatasaray",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Galatasaray",
-        "pubdate": "Mon, 28 Oct 2024 13:00:00 -0500"
     }
 ]
