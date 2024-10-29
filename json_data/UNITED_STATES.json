@@ -5,11 +5,6 @@
         "pubdate": "Tue, 29 Oct 2024 01:00:00 -0700"
     },
     {
-        "title": "Celtics",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Celtics",
-        "pubdate": "Tue, 29 Oct 2024 04:00:00 -0700"
-    },
-    {
         "title": "Nuggets",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Nuggets",
         "pubdate": "Tue, 29 Oct 2024 05:00:00 -0700"
@@ -18,6 +13,11 @@
         "title": "Jeff Bezos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jeff%20Bezos",
         "pubdate": "Tue, 29 Oct 2024 01:00:00 -0700"
+    },
+    {
+        "title": "Spurs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Spurs",
+        "pubdate": "Tue, 29 Oct 2024 03:00:00 -0700"
     },
     {
         "title": "North Korean",
@@ -45,11 +45,6 @@
         "pubdate": "Mon, 28 Oct 2024 21:00:00 -0700"
     },
     {
-        "title": "Ny Yankees",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ny%20Yankees",
-        "pubdate": "Mon, 28 Oct 2024 19:00:00 -0700"
-    },
-    {
         "title": "Chromakopia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chromakopia",
         "pubdate": "Mon, 28 Oct 2024 05:00:00 -0700"
@@ -58,6 +53,11 @@
         "title": "Gisele Bündchen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Gisele%20B%C3%BCndchen",
         "pubdate": "Mon, 28 Oct 2024 15:00:00 -0700"
+    },
+    {
+        "title": "La Dodgers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#La%20Dodgers",
+        "pubdate": "Mon, 28 Oct 2024 19:00:00 -0700"
     },
     {
         "title": "Freddie Freeman",
@@ -90,13 +90,13 @@
         "pubdate": "Mon, 28 Oct 2024 07:00:00 -0700"
     },
     {
+        "title": "Tim Walz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tim%20Walz",
+        "pubdate": "Mon, 28 Oct 2024 21:00:00 -0700"
+    },
+    {
         "title": "Apple Intelligence",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Apple%20Intelligence",
         "pubdate": "Mon, 28 Oct 2024 14:00:00 -0700"
-    },
-    {
-        "title": "Stefon Diggs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Stefon%20Diggs",
-        "pubdate": "Mon, 28 Oct 2024 07:00:00 -0700"
     }
 ]

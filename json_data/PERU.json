@@ -1,7 +1,17 @@
 [
     {
-        "title": "Quien gano el balon de Oro 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Quien%20gano%20el%20balon%20de%20Oro%202024",
+        "title": "MLB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#MLB",
+        "pubdate": "Tue, 29 Oct 2024 07:00:00 -0500"
+    },
+    {
+        "title": "Grau",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Grau",
+        "pubdate": "Tue, 29 Oct 2024 08:00:00 -0500"
+    },
+    {
+        "title": "Balon de Oro 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Balon%20de%20Oro%202024",
         "pubdate": "Mon, 28 Oct 2024 11:00:00 -0500"
     },
     {
@@ -15,19 +25,14 @@
         "pubdate": "Mon, 28 Oct 2024 04:00:00 -0500"
     },
     {
-        "title": "Mallorca vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Mallorca%20vs",
-        "pubdate": "Mon, 28 Oct 2024 14:00:00 -0500"
-    },
-    {
-        "title": "Donde ver el balon de Oro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Donde%20ver%20el%20balon%20de%20Oro",
-        "pubdate": "Mon, 28 Oct 2024 14:00:00 -0500"
-    },
-    {
         "title": "APEC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#APEC",
         "pubdate": "Mon, 28 Oct 2024 16:00:00 -0500"
+    },
+    {
+        "title": "RCD Mallorca  Athletic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#RCD%20Mallorca%20%20Athletic",
+        "pubdate": "Mon, 28 Oct 2024 15:00:00 -0500"
     },
     {
         "title": "SLIPKNOT",
@@ -38,11 +43,6 @@
         "title": "Porto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Porto",
         "pubdate": "Mon, 28 Oct 2024 16:00:00 -0500"
-    },
-    {
-        "title": "River",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#River",
-        "pubdate": "Mon, 28 Oct 2024 21:00:00 -0500"
     },
     {
         "title": "Aitana Bonmatí",
@@ -75,6 +75,16 @@
         "pubdate": "Mon, 28 Oct 2024 13:00:00 -0500"
     },
     {
+        "title": "Marca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Marca",
+        "pubdate": "Mon, 28 Oct 2024 21:00:00 -0500"
+    },
+    {
+        "title": "River",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#River",
+        "pubdate": "Mon, 28 Oct 2024 21:00:00 -0500"
+    },
+    {
         "title": "Natalie Portman",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Natalie%20Portman",
         "pubdate": "Mon, 28 Oct 2024 17:00:00 -0500"
@@ -88,15 +98,5 @@
         "title": "Edwin Cardona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Edwin%20Cardona",
         "pubdate": "Mon, 28 Oct 2024 08:00:00 -0500"
-    },
-    {
-        "title": "Dia de la cancion Criolla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Dia%20de%20la%20cancion%20Criolla",
-        "pubdate": "Mon, 28 Oct 2024 12:00:00 -0500"
-    },
-    {
-        "title": "Evo Morales",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Evo%20Morales",
-        "pubdate": "Mon, 28 Oct 2024 00:00:00 -0500"
     }
 ]
