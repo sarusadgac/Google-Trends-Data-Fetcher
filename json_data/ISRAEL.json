@@ -1,10 +1,5 @@
 [
     {
-        "title": "טרמינל",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%98%D7%A8%D7%9E%D7%99%D7%A0%D7%9C",
-        "pubdate": "Tue, 29 Oct 2024 00:00:00 +0200"
-    },
-    {
         "title": "נסלי ברדה",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A0%D7%A1%D7%9C%D7%99%20%D7%91%D7%A8%D7%93%D7%94",
         "pubdate": "Tue, 29 Oct 2024 00:00:00 +0200"
@@ -55,6 +50,11 @@
         "pubdate": "Mon, 28 Oct 2024 22:00:00 +0200"
     },
     {
+        "title": "גיא נזרי",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%92%D7%99%D7%90%20%D7%A0%D7%96%D7%A8%D7%99",
+        "pubdate": "Mon, 28 Oct 2024 22:00:00 +0200"
+    },
+    {
         "title": "סלין דיון",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A1%D7%9C%D7%99%D7%9F%20%D7%93%D7%99%D7%95%D7%9F",
         "pubdate": "Mon, 28 Oct 2024 01:00:00 +0200"
@@ -65,14 +65,9 @@
         "pubdate": "Mon, 28 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "Rodri",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#Rodri",
-        "pubdate": "Mon, 28 Oct 2024 22:00:00 +0200"
-    },
-    {
-        "title": "גיא נזרי",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%92%D7%99%D7%90%20%D7%A0%D7%96%D7%A8%D7%99",
-        "pubdate": "Mon, 28 Oct 2024 22:00:00 +0200"
+        "title": "יאיר לפיד",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%99%D7%90%D7%99%D7%A8%20%D7%9C%D7%A4%D7%99%D7%93",
+        "pubdate": "Mon, 28 Oct 2024 19:00:00 +0200"
     },
     {
         "title": "מגן אור",
@@ -97,6 +92,11 @@
     {
         "title": "הרב יורם אברגל",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%94%D7%A8%D7%91%20%D7%99%D7%95%D7%A8%D7%9D%20%D7%90%D7%91%D7%A8%D7%92%D7%9C",
+        "pubdate": "Mon, 28 Oct 2024 21:00:00 +0200"
+    },
+    {
+        "title": "מירי מיכאלי",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%9E%D7%99%D7%A8%D7%99%20%D7%9E%D7%99%D7%9B%D7%90%D7%9C%D7%99",
         "pubdate": "Mon, 28 Oct 2024 21:00:00 +0200"
     }
 ]

@@ -20,11 +20,6 @@
         "pubdate": "Mon, 28 Oct 2024 20:00:00 +0100"
     },
     {
-        "title": "GKS Katowice",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#GKS%20Katowice",
-        "pubdate": "Mon, 28 Oct 2024 14:00:00 +0100"
-    },
-    {
         "title": "TVP",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#TVP",
         "pubdate": "Mon, 28 Oct 2024 21:00:00 +0100"
@@ -70,13 +65,13 @@
         "pubdate": "Mon, 28 Oct 2024 21:00:00 +0100"
     },
     {
-        "title": "Matthew Perry",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Matthew%20Perry",
+        "title": "iOS 18.1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#iOS%2018.1",
         "pubdate": "Mon, 28 Oct 2024 20:00:00 +0100"
     },
     {
-        "title": "iOS 18.1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#iOS%2018.1",
+        "title": "Matthew Perry",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Matthew%20Perry",
         "pubdate": "Mon, 28 Oct 2024 20:00:00 +0100"
     },
     {
@@ -98,5 +93,10 @@
         "title": "Wybory w USA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Wybory%20w%20USA",
         "pubdate": "Mon, 28 Oct 2024 08:00:00 +0100"
+    },
+    {
+        "title": "Celine Dion",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Celine%20Dion",
+        "pubdate": "Mon, 28 Oct 2024 01:00:00 +0100"
     }
 ]

@@ -1,5 +1,10 @@
 [
     {
+        "title": "Vasco",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Vasco",
+        "pubdate": "Tue, 29 Oct 2024 01:00:00 +0000"
+    },
+    {
         "title": "Bola de Ouro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bola%20de%20Ouro",
         "pubdate": "Mon, 28 Oct 2024 09:00:00 +0000"
@@ -20,9 +25,19 @@
         "pubdate": "Mon, 28 Oct 2024 19:00:00 +0000"
     },
     {
+        "title": "Corinthians",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Corinthians",
+        "pubdate": "Mon, 28 Oct 2024 23:00:00 +0000"
+    },
+    {
         "title": "Torres Vedras",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Torres%20Vedras",
         "pubdate": "Mon, 28 Oct 2024 15:00:00 +0000"
+    },
+    {
+        "title": "Joaquim Valente",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Joaquim%20Valente",
+        "pubdate": "Mon, 28 Oct 2024 23:00:00 +0000"
     },
     {
         "title": "Michael Jackson",
@@ -33,6 +48,11 @@
         "title": "RTP",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#RTP",
         "pubdate": "Mon, 28 Oct 2024 23:00:00 +0000"
+    },
+    {
+        "title": "Margarida Cardeal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Margarida%20Cardeal",
+        "pubdate": "Mon, 28 Oct 2024 19:00:00 +0000"
     },
     {
         "title": "Natalie Portman",
@@ -50,14 +70,9 @@
         "pubdate": "Mon, 28 Oct 2024 17:00:00 +0000"
     },
     {
-        "title": "Cuiabá  Corinthians",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Cuiab%C3%A1%20%20Corinthians",
-        "pubdate": "Mon, 28 Oct 2024 23:00:00 +0000"
-    },
-    {
-        "title": "Joaquim Valente",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Joaquim%20Valente",
-        "pubdate": "Mon, 28 Oct 2024 23:00:00 +0000"
+        "title": "Aitana bonmati",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Aitana%20bonmati",
+        "pubdate": "Mon, 28 Oct 2024 22:00:00 +0000"
     },
     {
         "title": "Galatasaray",
@@ -70,33 +85,18 @@
         "pubdate": "Mon, 28 Oct 2024 10:00:00 +0000"
     },
     {
-        "title": "Greve comboios",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Greve%20comboios",
-        "pubdate": "Mon, 28 Oct 2024 08:00:00 +0000"
-    },
-    {
-        "title": "Rodrigo Mora",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rodrigo%20Mora",
-        "pubdate": "Mon, 28 Oct 2024 23:00:00 +0000"
-    },
-    {
-        "title": "Greve",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Greve",
-        "pubdate": "Mon, 28 Oct 2024 10:00:00 +0000"
-    },
-    {
-        "title": "Aitana bonmati",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Aitana%20bonmati",
-        "pubdate": "Mon, 28 Oct 2024 22:00:00 +0000"
-    },
-    {
         "title": "Morangos com Açúcar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Morangos%20com%20A%C3%A7%C3%BAcar",
         "pubdate": "Mon, 28 Oct 2024 18:00:00 +0000"
     },
     {
-        "title": "Jose Rodrigues dos Santos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jose%20Rodrigues%20dos%20Santos",
-        "pubdate": "Mon, 28 Oct 2024 18:00:00 +0000"
+        "title": "Greve comboios",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Greve%20comboios",
+        "pubdate": "Mon, 28 Oct 2024 08:00:00 +0000"
+    },
+    {
+        "title": "Greve",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Greve",
+        "pubdate": "Mon, 28 Oct 2024 10:00:00 +0000"
     }
 ]

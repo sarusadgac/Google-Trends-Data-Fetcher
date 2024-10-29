@@ -10,14 +10,14 @@
         "pubdate": "Tue, 29 Oct 2024 01:00:00 +0300"
     },
     {
-        "title": "Doğa Rutkay",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Do%C4%9Fa%20Rutkay",
-        "pubdate": "Tue, 29 Oct 2024 00:00:00 +0300"
-    },
-    {
         "title": "Hüseyin Yücel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#H%C3%BCseyin%20Y%C3%BCcel",
         "pubdate": "Tue, 29 Oct 2024 02:00:00 +0300"
+    },
+    {
+        "title": "Doğa Rutkay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Do%C4%9Fa%20Rutkay",
+        "pubdate": "Tue, 29 Oct 2024 00:00:00 +0300"
     },
     {
         "title": "Muçi",
@@ -60,11 +60,6 @@
         "pubdate": "Mon, 28 Oct 2024 22:00:00 +0300"
     },
     {
-        "title": "Arda Kardeşler",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Arda%20Karde%C5%9Fler",
-        "pubdate": "Mon, 28 Oct 2024 20:00:00 +0300"
-    },
-    {
         "title": "Spor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Spor",
         "pubdate": "Mon, 28 Oct 2024 23:00:00 +0300"
@@ -73,6 +68,11 @@
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Manchester%20United",
         "pubdate": "Mon, 28 Oct 2024 17:00:00 +0300"
+    },
+    {
+        "title": "Arda Kardeşler",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Arda%20Karde%C5%9Fler",
+        "pubdate": "Mon, 28 Oct 2024 20:00:00 +0300"
     },
     {
         "title": "Serie A",
