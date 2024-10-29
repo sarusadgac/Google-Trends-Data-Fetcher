@@ -1,28 +1,8 @@
 [
     {
-        "title": "Dodgers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dodgers",
-        "pubdate": "Mon, 28 Oct 2024 20:00:00 -0700"
-    },
-    {
-        "title": "Bill Munro dies",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Bill%20Munro%20dies",
-        "pubdate": "Tue, 29 Oct 2024 04:00:00 +0000"
-    },
-    {
         "title": "29 октября Праздник",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#29%20%D0%BE%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8F%20%D0%9F%D1%80%D0%B0%D0%B7%D0%B4%D0%BD%D0%B8%D0%BA",
         "pubdate": "Tue, 29 Oct 2024 07:00:00 +0300"
-    },
-    {
-        "title": "ドジャース",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%89%E3%82%B8%E3%83%A3%E3%83%BC%E3%82%B9",
-        "pubdate": "Tue, 29 Oct 2024 10:00:00 +0900"
-    },
-    {
-        "title": "South Africa vs Bangladesh",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#South%20Africa%20vs%20Bangladesh",
-        "pubdate": "Tue, 29 Oct 2024 09:30:00 +0530"
     },
     {
         "title": "MLB",
@@ -30,9 +10,24 @@
         "pubdate": "Tue, 29 Oct 2024 13:00:00 +0800"
     },
     {
-        "title": "UNRWA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#UNRWA",
-        "pubdate": "Tue, 29 Oct 2024 05:00:00 +0100"
+        "title": "ドジャース",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%89%E3%82%B8%E3%83%A3%E3%83%BC%E3%82%B9",
+        "pubdate": "Tue, 29 Oct 2024 10:00:00 +0900"
+    },
+    {
+        "title": "Gisele Bündchen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Gisele%20B%C3%BCndchen",
+        "pubdate": "Tue, 29 Oct 2024 06:00:00 +0000"
+    },
+    {
+        "title": "South Africa vs Bangladesh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#South%20Africa%20vs%20Bangladesh",
+        "pubdate": "Tue, 29 Oct 2024 09:30:00 +0530"
+    },
+    {
+        "title": "Jeff Bezos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jeff%20Bezos",
+        "pubdate": "Tue, 29 Oct 2024 01:00:00 -0700"
     },
     {
         "title": "IG Metall",
@@ -40,34 +35,59 @@
         "pubdate": "Tue, 29 Oct 2024 02:00:00 +0100"
     },
     {
-        "title": "Pindad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Pindad",
-        "pubdate": "Tue, 29 Oct 2024 10:00:00 +0700"
+        "title": "Unrwa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Unrwa",
+        "pubdate": "Tue, 29 Oct 2024 05:00:00 +0100"
     },
     {
-        "title": "Vasco",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Vasco",
-        "pubdate": "Tue, 29 Oct 2024 01:00:00 +0000"
+        "title": "Carabao Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Carabao%20Cup",
+        "pubdate": "Tue, 29 Oct 2024 08:00:00 +0200"
     },
     {
-        "title": "Emre Kaplan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Emre%20Kaplan",
+        "title": "FashionValet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#FashionValet",
+        "pubdate": "Tue, 29 Oct 2024 13:00:00 +0800"
+    },
+    {
+        "title": "เคนโด้",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TH#%E0%B9%80%E0%B8%84%E0%B8%99%E0%B9%82%E0%B8%94%E0%B9%89",
+        "pubdate": "Tue, 29 Oct 2024 15:00:00 +0700"
+    },
+    {
+        "title": "iOS 18.1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#iOS%2018.1",
+        "pubdate": "Tue, 29 Oct 2024 00:00:00 +0800"
+    },
+    {
+        "title": "Ceyda Düvenci",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ceyda%20D%C3%BCvenci",
         "pubdate": "Tue, 29 Oct 2024 00:00:00 +0300"
     },
     {
-        "title": "Thembinkosi Mthembu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Thembinkosi%20Mthembu",
-        "pubdate": "Tue, 29 Oct 2024 07:00:00 +0200"
+        "title": "Suns  Lakers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Suns%20%20Lakers",
+        "pubdate": "Tue, 29 Oct 2024 01:00:00 -0500"
     },
     {
-        "title": "Натали Портман",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=UA#%D0%9D%D0%B0%D1%82%D0%B0%D0%BB%D0%B8%20%D0%9F%D0%BE%D1%80%D1%82%D0%BC%D0%B0%D0%BD",
-        "pubdate": "Tue, 29 Oct 2024 00:00:00 +0200"
+        "title": "Séfek Séfe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#S%C3%A9fek%20S%C3%A9fe",
+        "pubdate": "Tue, 29 Oct 2024 00:00:00 +0100"
     },
     {
-        "title": "Marca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Marca",
-        "pubdate": "Tue, 29 Oct 2024 00:00:00 -0300"
+        "title": "Tomasz Komenda",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Tomasz%20Komenda",
+        "pubdate": "Tue, 29 Oct 2024 09:00:00 +0100"
+    },
+    {
+        "title": "حسن يوسف",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=EG#%D8%AD%D8%B3%D9%86%20%D9%8A%D9%88%D8%B3%D9%81",
+        "pubdate": "Tue, 29 Oct 2024 12:00:00 +0300"
+    },
+    {
+        "title": "Jamshid Sharmahd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Jamshid%20Sharmahd",
+        "pubdate": "Tue, 29 Oct 2024 00:00:00 +0100"
     },
     {
         "title": "Bolsonaro",
@@ -75,28 +95,8 @@
         "pubdate": "Tue, 29 Oct 2024 00:00:00 -0300"
     },
     {
-        "title": "مروان البرغوثي",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=EG#%D9%85%D8%B1%D9%88%D8%A7%D9%86%20%D8%A7%D9%84%D8%A8%D8%B1%D8%BA%D9%88%D8%AB%D9%8A",
-        "pubdate": "Tue, 29 Oct 2024 07:00:00 +0300"
-    },
-    {
-        "title": "Lakers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Lakers",
-        "pubdate": "Tue, 29 Oct 2024 00:00:00 -0600"
-    },
-    {
-        "title": "Volkswagen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Volkswagen",
-        "pubdate": "Tue, 29 Oct 2024 09:00:00 +0100"
-    },
-    {
-        "title": "Momo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Momo",
-        "pubdate": "Tue, 29 Oct 2024 00:00:00 +0100"
-    },
-    {
-        "title": "Vetle Sjåstad Christiansen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Vetle%20Sj%C3%A5stad%20Christiansen",
-        "pubdate": "Tue, 29 Oct 2024 00:00:00 +0100"
+        "title": "Vasco",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Vasco",
+        "pubdate": "Tue, 29 Oct 2024 01:00:00 +0000"
     }
 ]
