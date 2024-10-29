@@ -10,6 +10,16 @@
         "pubdate": "Wed, 30 Oct 2024 00:00:00 +1300"
     },
     {
+        "title": "Bitcoin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Bitcoin",
+        "pubdate": "Wed, 30 Oct 2024 09:00:00 +1300"
+    },
+    {
+        "title": "UNRWA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#UNRWA",
+        "pubdate": "Wed, 30 Oct 2024 09:00:00 +1300"
+    },
+    {
         "title": "Ballon d'Or 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Ballon%20d'Or%202024",
         "pubdate": "Tue, 29 Oct 2024 07:00:00 +1300"
@@ -88,15 +98,5 @@
         "title": "Chromakopia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Chromakopia",
         "pubdate": "Mon, 28 Oct 2024 22:00:00 +1300"
-    },
-    {
-        "title": "Pandora",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Pandora",
-        "pubdate": "Mon, 28 Oct 2024 10:00:00 +1300"
-    },
-    {
-        "title": "Tony Hinchcliffe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Tony%20Hinchcliffe",
-        "pubdate": "Mon, 28 Oct 2024 18:00:00 +1300"
     }
 ]
