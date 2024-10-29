@@ -10,6 +10,11 @@
         "pubdate": "Tue, 29 Oct 2024 21:00:00 +0100"
     },
     {
+        "title": "Letur",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Letur",
+        "pubdate": "Tue, 29 Oct 2024 18:00:00 +0100"
+    },
+    {
         "title": "Villamuriel - Rayo Vallecano",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Villamuriel%20-%20Rayo%20Vallecano",
         "pubdate": "Tue, 29 Oct 2024 19:00:00 +0100"
@@ -20,28 +25,13 @@
         "pubdate": "Tue, 29 Oct 2024 18:00:00 +0100"
     },
     {
-        "title": "Letur",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Letur",
-        "pubdate": "Tue, 29 Oct 2024 18:00:00 +0100"
-    },
-    {
         "title": "Compostela-Alavés",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Compostela-Alav%C3%A9s",
         "pubdate": "Tue, 29 Oct 2024 19:00:00 +0100"
     },
     {
-        "title": "Italia  España",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Italia%20%20Espa%C3%B1a",
-        "pubdate": "Tue, 29 Oct 2024 18:00:00 +0100"
-    },
-    {
-        "title": "Las provincias",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Las%20provincias",
-        "pubdate": "Tue, 29 Oct 2024 20:00:00 +0100"
-    },
-    {
-        "title": "Poblense-Villarreal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Poblense-Villarreal",
+        "title": "Poblense  Villarreal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Poblense%20%20Villarreal",
         "pubdate": "Tue, 29 Oct 2024 21:00:00 +0100"
     },
     {
@@ -50,24 +40,29 @@
         "pubdate": "Tue, 29 Oct 2024 20:00:00 +0100"
     },
     {
-        "title": "Gisele Bündchen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Gisele%20B%C3%BCndchen",
-        "pubdate": "Tue, 29 Oct 2024 07:00:00 +0100"
+        "title": "Italia - España",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Italia%20-%20Espa%C3%B1a",
+        "pubdate": "Tue, 29 Oct 2024 18:00:00 +0100"
     },
     {
-        "title": "Diario Sur",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Diario%20Sur",
-        "pubdate": "Tue, 29 Oct 2024 16:00:00 +0100"
+        "title": "Mago Pop",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Mago%20Pop",
+        "pubdate": "Tue, 29 Oct 2024 23:00:00 +0100"
     },
     {
-        "title": "MEGA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#MEGA",
-        "pubdate": "Tue, 29 Oct 2024 00:00:00 +0100"
+        "title": "Las provincias",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Las%20provincias",
+        "pubdate": "Tue, 29 Oct 2024 20:00:00 +0100"
     },
     {
-        "title": "Muere Carolina Muñoz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Muere%20Carolina%20Mu%C3%B1oz",
-        "pubdate": "Tue, 29 Oct 2024 09:00:00 +0100"
+        "title": "Mario Casas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Mario%20Casas",
+        "pubdate": "Tue, 29 Oct 2024 23:00:00 +0100"
+    },
+    {
+        "title": "CE L'Hospitalet  Real Zaragoza",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#CE%20L'Hospitalet%20%20Real%20Zaragoza",
+        "pubdate": "Tue, 29 Oct 2024 22:00:00 +0100"
     },
     {
         "title": "Astur  Valladolid",
@@ -75,9 +70,19 @@
         "pubdate": "Tue, 29 Oct 2024 21:00:00 +0100"
     },
     {
-        "title": "Ester exposito",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ester%20exposito",
-        "pubdate": "Tue, 29 Oct 2024 21:00:00 +0100"
+        "title": "Gisele Bündchen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Gisele%20B%C3%BCndchen",
+        "pubdate": "Tue, 29 Oct 2024 07:00:00 +0100"
+    },
+    {
+        "title": "MEGA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#MEGA",
+        "pubdate": "Tue, 29 Oct 2024 00:00:00 +0100"
+    },
+    {
+        "title": "Malaga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Malaga",
+        "pubdate": "Tue, 29 Oct 2024 13:00:00 +0100"
     },
     {
         "title": "Paiporta",
@@ -85,18 +90,13 @@
         "pubdate": "Tue, 29 Oct 2024 20:00:00 +0100"
     },
     {
-        "title": "Pau Cubarsí",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Pau%20Cubars%C3%AD",
-        "pubdate": "Tue, 29 Oct 2024 00:00:00 +0100"
+        "title": "Muere Carolina Muñoz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Muere%20Carolina%20Mu%C3%B1oz",
+        "pubdate": "Tue, 29 Oct 2024 09:00:00 +0100"
     },
     {
-        "title": "Malaga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Malaga",
-        "pubdate": "Tue, 29 Oct 2024 22:00:00 +0100"
-    },
-    {
-        "title": "Tornado Valencia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Tornado%20Valencia",
+        "title": "Ester exposito",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ester%20exposito",
         "pubdate": "Tue, 29 Oct 2024 21:00:00 +0100"
     }
 ]
