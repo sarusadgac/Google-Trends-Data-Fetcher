@@ -25,6 +25,11 @@
         "pubdate": "Tue, 29 Oct 2024 00:00:00 +0100"
     },
     {
+        "title": "Diario Sur",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Diario%20Sur",
+        "pubdate": "Tue, 29 Oct 2024 16:00:00 +0100"
+    },
+    {
         "title": "Felipe González",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Felipe%20Gonz%C3%A1lez",
         "pubdate": "Tue, 29 Oct 2024 09:00:00 +0100"
@@ -45,9 +50,9 @@
         "pubdate": "Tue, 29 Oct 2024 09:00:00 +0100"
     },
     {
-        "title": "Alexia Putellas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Alexia%20Putellas",
-        "pubdate": "Tue, 29 Oct 2024 00:00:00 +0100"
+        "title": "Malaga Hoy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Malaga%20Hoy",
+        "pubdate": "Tue, 29 Oct 2024 16:00:00 +0100"
     },
     {
         "title": "El Ejido",
@@ -55,19 +60,24 @@
         "pubdate": "Tue, 29 Oct 2024 13:00:00 +0100"
     },
     {
-        "title": "Prohibicion de conducir de noche DGT",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Prohibicion%20de%20conducir%20de%20noche%20DGT",
-        "pubdate": "Tue, 29 Oct 2024 00:00:00 +0100"
-    },
-    {
         "title": "Dibu martinez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Dibu%20martinez",
         "pubdate": "Tue, 29 Oct 2024 02:00:00 +0100"
     },
     {
+        "title": "Prohibicion de conducir de noche DGT",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Prohibicion%20de%20conducir%20de%20noche%20DGT",
+        "pubdate": "Tue, 29 Oct 2024 00:00:00 +0100"
+    },
+    {
         "title": "Bonos Burgos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Bonos%20Burgos",
         "pubdate": "Tue, 29 Oct 2024 12:00:00 +0100"
+    },
+    {
+        "title": "Ada Colau",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ada%20Colau",
+        "pubdate": "Tue, 29 Oct 2024 15:00:00 +0100"
     },
     {
         "title": "Salma Paralluelo",
@@ -88,15 +98,5 @@
         "title": "Uv",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Uv",
         "pubdate": "Tue, 29 Oct 2024 12:00:00 +0100"
-    },
-    {
-        "title": "Harry Kane",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Harry%20Kane",
-        "pubdate": "Tue, 29 Oct 2024 00:00:00 +0100"
-    },
-    {
-        "title": "Ada Colau",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ada%20Colau",
-        "pubdate": "Tue, 29 Oct 2024 15:00:00 +0100"
     }
 ]

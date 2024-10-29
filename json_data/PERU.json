@@ -40,14 +40,14 @@
         "pubdate": "Mon, 28 Oct 2024 09:00:00 -0500"
     },
     {
-        "title": "Porto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Porto",
-        "pubdate": "Mon, 28 Oct 2024 16:00:00 -0500"
-    },
-    {
         "title": "River",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#River",
         "pubdate": "Mon, 28 Oct 2024 21:00:00 -0500"
+    },
+    {
+        "title": "Porto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Porto",
+        "pubdate": "Mon, 28 Oct 2024 16:00:00 -0500"
     },
     {
         "title": "Aitana Bonmatí",
@@ -58,6 +58,11 @@
         "title": "Corinthians",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Corinthians",
         "pubdate": "Mon, 28 Oct 2024 22:00:00 -0500"
+    },
+    {
+        "title": "America vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#America%20vs",
+        "pubdate": "Mon, 28 Oct 2024 00:00:00 -0500"
     },
     {
         "title": "Galatasaray",
@@ -93,10 +98,5 @@
         "title": "Dia de la cancion Criolla",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Dia%20de%20la%20cancion%20Criolla",
         "pubdate": "Mon, 28 Oct 2024 12:00:00 -0500"
-    },
-    {
-        "title": "Vasco da Gama  Bahía",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Vasco%20da%20Gama%20%20Bah%C3%ADa",
-        "pubdate": "Mon, 28 Oct 2024 22:00:00 -0500"
     }
 ]
