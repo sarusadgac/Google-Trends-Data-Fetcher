@@ -10,6 +10,11 @@
         "pubdate": "Tue, 29 Oct 2024 22:00:00 +0100"
     },
     {
+        "title": "Btc USD",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Btc%20USD",
+        "pubdate": "Tue, 29 Oct 2024 18:00:00 +0100"
+    },
+    {
         "title": "Mac mini",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Mac%20mini",
         "pubdate": "Tue, 29 Oct 2024 21:00:00 +0100"
@@ -25,14 +30,19 @@
         "pubdate": "Tue, 29 Oct 2024 20:00:00 +0100"
     },
     {
+        "title": "Teri Garr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Teri%20Garr",
+        "pubdate": "Tue, 29 Oct 2024 22:00:00 +0100"
+    },
+    {
         "title": "SkyShowtime",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#SkyShowtime",
         "pubdate": "Tue, 29 Oct 2024 20:00:00 +0100"
     },
     {
-        "title": "Teri Garr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Teri%20Garr",
-        "pubdate": "Tue, 29 Oct 2024 22:00:00 +0100"
+        "title": "Jiří Hromada",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ji%C5%99%C3%AD%20Hromada",
+        "pubdate": "Tue, 29 Oct 2024 20:00:00 +0100"
     },
     {
         "title": "David Střihavka",
@@ -40,9 +50,9 @@
         "pubdate": "Tue, 29 Oct 2024 14:00:00 +0100"
     },
     {
-        "title": "Jiří Hromada",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ji%C5%99%C3%AD%20Hromada",
-        "pubdate": "Tue, 29 Oct 2024 20:00:00 +0100"
+        "title": "Daniel Krejčík",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Daniel%20Krej%C4%8D%C3%ADk",
+        "pubdate": "Tue, 29 Oct 2024 23:00:00 +0100"
     },
     {
         "title": "Dagmar Pecková",
@@ -75,9 +85,9 @@
         "pubdate": "Tue, 29 Oct 2024 19:00:00 +0100"
     },
     {
-        "title": "HC Olomouc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#HC%20Olomouc",
-        "pubdate": "Tue, 29 Oct 2024 22:00:00 +0100"
+        "title": "Red Dead Redemption",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Red%20Dead%20Redemption",
+        "pubdate": "Tue, 29 Oct 2024 23:00:00 +0100"
     },
     {
         "title": "Aitana Bonmatí",
@@ -85,18 +95,8 @@
         "pubdate": "Tue, 29 Oct 2024 21:00:00 +0100"
     },
     {
-        "title": "Red Dead Redemption",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Red%20Dead%20Redemption",
-        "pubdate": "Tue, 29 Oct 2024 23:00:00 +0100"
-    },
-    {
         "title": "Rodri",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Rodri",
         "pubdate": "Mon, 28 Oct 2024 16:00:00 +0100"
-    },
-    {
-        "title": "Love Island",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Love%20Island",
-        "pubdate": "Mon, 28 Oct 2024 18:00:00 +0100"
     }
 ]
