@@ -5,9 +5,9 @@
         "pubdate": "Tue, 29 Oct 2024 18:00:00 +0100"
     },
     {
-        "title": "Schalke",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schalke",
-        "pubdate": "Tue, 29 Oct 2024 21:00:00 +0100"
+        "title": "Augsburg – Schalke",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Augsburg%20%E2%80%93%20Schalke",
+        "pubdate": "Tue, 29 Oct 2024 18:00:00 +0100"
     },
     {
         "title": "Bitcoin",
@@ -25,19 +25,34 @@
         "pubdate": "Tue, 29 Oct 2024 21:00:00 +0100"
     },
     {
-        "title": "Mac mini",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Mac%20mini",
-        "pubdate": "Tue, 29 Oct 2024 20:00:00 +0100"
-    },
-    {
         "title": "IG Metall",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#IG%20Metall",
         "pubdate": "Tue, 29 Oct 2024 02:00:00 +0100"
     },
     {
+        "title": "Leverkusen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Leverkusen",
+        "pubdate": "Tue, 29 Oct 2024 20:00:00 +0100"
+    },
+    {
+        "title": "Mac mini",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Mac%20mini",
+        "pubdate": "Tue, 29 Oct 2024 20:00:00 +0100"
+    },
+    {
+        "title": "Teri Garr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Teri%20Garr",
+        "pubdate": "Tue, 29 Oct 2024 23:00:00 +0100"
+    },
+    {
         "title": "Tour de France 2025",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tour%20de%20France%202025",
         "pubdate": "Tue, 29 Oct 2024 17:00:00 +0100"
+    },
+    {
+        "title": "Alphabet-Aktie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Alphabet-Aktie",
+        "pubdate": "Tue, 29 Oct 2024 23:00:00 +0100"
     },
     {
         "title": "DFB-Pokal",
@@ -65,19 +80,9 @@
         "pubdate": "Mon, 28 Oct 2024 13:00:00 +0100"
     },
     {
-        "title": "Mats Hummels",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Mats%20Hummels",
-        "pubdate": "Mon, 28 Oct 2024 20:00:00 +0100"
-    },
-    {
         "title": "UNRWA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#UNRWA",
         "pubdate": "Mon, 28 Oct 2024 23:00:00 +0100"
-    },
-    {
-        "title": "Dragon Age: The Veilguard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dragon%20Age:%20The%20Veilguard",
-        "pubdate": "Mon, 28 Oct 2024 18:00:00 +0100"
     },
     {
         "title": "US wahlen",
@@ -85,18 +90,13 @@
         "pubdate": "Mon, 28 Oct 2024 18:00:00 +0100"
     },
     {
+        "title": "Dragon Age: The Veilguard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dragon%20Age:%20The%20Veilguard",
+        "pubdate": "Mon, 28 Oct 2024 18:00:00 +0100"
+    },
+    {
         "title": "Ballon d'Or 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ballon%20d'Or%202024",
         "pubdate": "Sun, 27 Oct 2024 14:00:00 +0100"
-    },
-    {
-        "title": "Patrick Lange",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Patrick%20Lange",
-        "pubdate": "Sun, 27 Oct 2024 02:00:00 +0100"
-    },
-    {
-        "title": "Frankfurt Marathon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Frankfurt%20Marathon",
-        "pubdate": "Sat, 26 Oct 2024 23:00:00 +0200"
     }
 ]

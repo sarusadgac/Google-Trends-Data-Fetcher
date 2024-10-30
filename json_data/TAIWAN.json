@@ -5,6 +5,11 @@
         "pubdate": "Wed, 30 Oct 2024 03:00:00 +0800"
     },
     {
+        "title": "AMD",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#AMD",
+        "pubdate": "Wed, 30 Oct 2024 09:00:00 +0800"
+    },
+    {
         "title": "鄭文燦",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%84%AD%E6%96%87%E7%87%A6",
         "pubdate": "Wed, 30 Oct 2024 00:00:00 +0800"
@@ -18,6 +23,11 @@
         "title": "小米15",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%B0%8F%E7%B1%B315",
         "pubdate": "Wed, 30 Oct 2024 04:00:00 +0800"
+    },
+    {
+        "title": "席琳狄翁",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%B8%AD%E7%90%B3%E7%8B%84%E7%BF%81",
+        "pubdate": "Wed, 30 Oct 2024 09:00:00 +0800"
     },
     {
         "title": "MLB",
@@ -40,6 +50,16 @@
         "pubdate": "Tue, 29 Oct 2024 13:00:00 +0800"
     },
     {
+        "title": "Mac mini",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Mac%20mini",
+        "pubdate": "Tue, 29 Oct 2024 10:00:00 +0800"
+    },
+    {
+        "title": "Mlb季後賽",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Mlb%E5%AD%A3%E5%BE%8C%E8%B3%BD",
+        "pubdate": "Tue, 29 Oct 2024 19:00:00 +0800"
+    },
+    {
         "title": "小嶋陽菜",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%B0%8F%E5%B6%8B%E9%99%BD%E8%8F%9C",
         "pubdate": "Tue, 29 Oct 2024 13:00:00 +0800"
@@ -50,9 +70,9 @@
         "pubdate": "Tue, 29 Oct 2024 16:00:00 +0800"
     },
     {
-        "title": "Mac mini",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Mac%20mini",
-        "pubdate": "Tue, 29 Oct 2024 11:00:00 +0800"
+        "title": "行政院人事行政總處",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%A1%8C%E6%94%BF%E9%99%A2%E4%BA%BA%E4%BA%8B%E8%A1%8C%E6%94%BF%E7%B8%BD%E8%99%95",
+        "pubdate": "Tue, 29 Oct 2024 22:00:00 +0800"
     },
     {
         "title": "HYBE",
@@ -78,25 +98,5 @@
         "title": "金球獎",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%87%91%E7%90%83%E7%8D%8E",
         "pubdate": "Tue, 29 Oct 2024 09:00:00 +0800"
-    },
-    {
-        "title": "人事行政總處",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E4%BA%BA%E4%BA%8B%E8%A1%8C%E6%94%BF%E7%B8%BD%E8%99%95",
-        "pubdate": "Tue, 29 Oct 2024 23:00:00 +0800"
-    },
-    {
-        "title": "景氣燈號",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%99%AF%E6%B0%A3%E7%87%88%E8%99%9F",
-        "pubdate": "Tue, 29 Oct 2024 00:00:00 +0800"
-    },
-    {
-        "title": "安東市場",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%AE%89%E6%9D%B1%E5%B8%82%E5%A0%B4",
-        "pubdate": "Tue, 29 Oct 2024 15:00:00 +0800"
-    },
-    {
-        "title": "網家",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E7%B6%B2%E5%AE%B6",
-        "pubdate": "Tue, 29 Oct 2024 13:00:00 +0800"
     }
 ]

@@ -30,11 +30,6 @@
         "pubdate": "Tue, 29 Oct 2024 15:30:00 +0530"
     },
     {
-        "title": "C295 aircraft",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#C295%20aircraft",
-        "pubdate": "Tue, 29 Oct 2024 07:30:00 +0530"
-    },
-    {
         "title": "Ethnic wear",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Ethnic%20wear",
         "pubdate": "Tue, 29 Oct 2024 08:30:00 +0530"
@@ -48,6 +43,11 @@
         "title": "Joker",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Joker",
         "pubdate": "Tue, 29 Oct 2024 22:30:00 +0530"
+    },
+    {
+        "title": "Swiggy IPO",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Swiggy%20IPO",
+        "pubdate": "Tue, 29 Oct 2024 16:30:00 +0530"
     },
     {
         "title": "Ayushman Bharat",
@@ -70,18 +70,8 @@
         "pubdate": "Mon, 28 Oct 2024 20:30:00 +0530"
     },
     {
-        "title": "TNPSC Group 4 Result 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#TNPSC%20Group%204%20Result%202024",
-        "pubdate": "Mon, 28 Oct 2024 14:30:00 +0530"
-    },
-    {
         "title": "Waaree Energies share price",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Waaree%20Energies%20share%20price",
-        "pubdate": "Mon, 28 Oct 2024 10:30:00 +0530"
-    },
-    {
-        "title": "Reliance share price",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Reliance%20share%20price",
         "pubdate": "Mon, 28 Oct 2024 10:30:00 +0530"
     },
     {
@@ -90,13 +80,23 @@
         "pubdate": "Mon, 28 Oct 2024 20:30:00 +0530"
     },
     {
-        "title": "Bihar Police Result 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Bihar%20Police%20Result%202024",
-        "pubdate": "Mon, 28 Oct 2024 15:30:00 +0530"
-    },
-    {
         "title": "Happy Diwali",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Happy%20Diwali",
         "pubdate": "Mon, 28 Oct 2024 15:30:00 +0530"
+    },
+    {
+        "title": "Puneeth rajkumar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Puneeth%20rajkumar",
+        "pubdate": "Mon, 28 Oct 2024 22:30:00 +0530"
+    },
+    {
+        "title": "Reliance share",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Reliance%20share",
+        "pubdate": "Mon, 28 Oct 2024 11:30:00 +0530"
+    },
+    {
+        "title": "Afcons Infrastructure IPO",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Afcons%20Infrastructure%20IPO",
+        "pubdate": "Mon, 28 Oct 2024 10:30:00 +0530"
     }
 ]
