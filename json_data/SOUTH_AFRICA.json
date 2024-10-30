@@ -35,11 +35,6 @@
         "pubdate": "Wed, 30 Oct 2024 00:00:00 +0200"
     },
     {
-        "title": "Carlos Alcaraz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Carlos%20Alcaraz",
-        "pubdate": "Wed, 30 Oct 2024 07:00:00 +0200"
-    },
-    {
         "title": "Chidimma Adetshina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Chidimma%20Adetshina",
         "pubdate": "Wed, 30 Oct 2024 09:00:00 +0200"
@@ -98,5 +93,10 @@
         "title": "AmaZulu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#AmaZulu",
         "pubdate": "Tue, 29 Oct 2024 21:00:00 +0200"
+    },
+    {
+        "title": "New Zealand Women vs India Women",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#New%20Zealand%20Women%20vs%20India%20Women",
+        "pubdate": "Tue, 29 Oct 2024 16:00:00 +0200"
     }
 ]
