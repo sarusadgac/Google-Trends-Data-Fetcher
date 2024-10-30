@@ -10,9 +10,19 @@
         "pubdate": "Thu, 31 Oct 2024 00:00:00 +0700"
     },
     {
-        "title": "MU vs Leicester",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#MU%20vs%20Leicester",
-        "pubdate": "Thu, 31 Oct 2024 01:00:00 +0700"
+        "title": "Man utd vs Leicester",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Man%20utd%20vs%20Leicester",
+        "pubdate": "Thu, 31 Oct 2024 00:00:00 +0700"
+    },
+    {
+        "title": "Brighton vs Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Brighton%20vs%20Liverpool",
+        "pubdate": "Thu, 31 Oct 2024 02:00:00 +0700"
+    },
+    {
+        "title": "Preston North End vs Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Preston%20North%20End%20vs%20Arsenal",
+        "pubdate": "Thu, 31 Oct 2024 02:00:00 +0700"
     },
     {
         "title": "Milan vs Napoli",
@@ -20,8 +30,8 @@
         "pubdate": "Wed, 30 Oct 2024 02:00:00 +0700"
     },
     {
-        "title": "Sscasn 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Sscasn%202024",
+        "title": "Sscasn.bkn.go.id 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Sscasn.bkn.go.id%202024",
         "pubdate": "Wed, 30 Oct 2024 08:00:00 +0700"
     },
     {
@@ -85,18 +95,8 @@
         "pubdate": "Wed, 30 Oct 2024 05:00:00 +0700"
     },
     {
-        "title": "Suhu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Suhu",
-        "pubdate": "Wed, 30 Oct 2024 06:00:00 +0700"
-    },
-    {
         "title": "Glaukoma",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Glaukoma",
         "pubdate": "Wed, 30 Oct 2024 02:00:00 +0700"
-    },
-    {
-        "title": "BTC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#BTC",
-        "pubdate": "Wed, 30 Oct 2024 00:00:00 +0700"
     }
 ]

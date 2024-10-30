@@ -15,14 +15,14 @@
         "pubdate": "Wed, 30 Oct 2024 13:00:00 +0100"
     },
     {
-        "title": "ELPAIS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#ELPAIS",
-        "pubdate": "Wed, 30 Oct 2024 14:00:00 +0100"
+        "title": "Meteocat radar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Meteocat%20radar",
+        "pubdate": "Wed, 30 Oct 2024 13:00:00 +0100"
     },
     {
-        "title": "Noticias hoy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Noticias%20hoy",
-        "pubdate": "Wed, 30 Oct 2024 12:00:00 +0100"
+        "title": "Elpais",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Elpais",
+        "pubdate": "Wed, 30 Oct 2024 14:00:00 +0100"
     },
     {
         "title": "Jerez",
@@ -30,9 +30,24 @@
         "pubdate": "Wed, 30 Oct 2024 16:00:00 +0100"
     },
     {
+        "title": "Las Rozas - Sevilla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Las%20Rozas%20-%20Sevilla",
+        "pubdate": "Wed, 30 Oct 2024 19:00:00 +0100"
+    },
+    {
+        "title": "Noticias hoy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Noticias%20hoy",
+        "pubdate": "Wed, 30 Oct 2024 12:00:00 +0100"
+    },
+    {
         "title": "Grecia Castta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Grecia%20Castta",
         "pubdate": "Wed, 30 Oct 2024 11:00:00 +0100"
+    },
+    {
+        "title": "Bonaire",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Bonaire",
+        "pubdate": "Wed, 30 Oct 2024 07:00:00 +0100"
     },
     {
         "title": "Aeropuerto Valencia",
@@ -40,14 +55,9 @@
         "pubdate": "Wed, 30 Oct 2024 07:00:00 +0100"
     },
     {
-        "title": "Gaviota Gijón",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Gaviota%20Gij%C3%B3n",
-        "pubdate": "Wed, 30 Oct 2024 14:00:00 +0100"
-    },
-    {
-        "title": "Bonaire",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Bonaire",
-        "pubdate": "Wed, 30 Oct 2024 07:00:00 +0100"
+        "title": "Chiclana - Osasuna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Chiclana%20-%20Osasuna",
+        "pubdate": "Wed, 30 Oct 2024 19:00:00 +0100"
     },
     {
         "title": "Pantano de benageber",
@@ -60,14 +70,14 @@
         "pubdate": "Wed, 30 Oct 2024 11:00:00 +0100"
     },
     {
+        "title": "Diario de Cadiz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Diario%20de%20Cadiz",
+        "pubdate": "Wed, 30 Oct 2024 19:00:00 +0100"
+    },
+    {
         "title": "Goirigolzarri",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Goirigolzarri",
         "pubdate": "Wed, 30 Oct 2024 12:00:00 +0100"
-    },
-    {
-        "title": "Diario de cadiz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Diario%20de%20cadiz",
-        "pubdate": "Wed, 30 Oct 2024 19:00:00 +0100"
     },
     {
         "title": "Alicante",
@@ -80,23 +90,13 @@
         "pubdate": "Wed, 30 Oct 2024 10:00:00 +0100"
     },
     {
+        "title": "Europa  Albacete",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Europa%20%20Albacete",
+        "pubdate": "Wed, 30 Oct 2024 19:00:00 +0100"
+    },
+    {
         "title": "TVE",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#TVE",
         "pubdate": "Wed, 30 Oct 2024 14:00:00 +0100"
-    },
-    {
-        "title": "Carla Barber",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Carla%20Barber",
-        "pubdate": "Wed, 30 Oct 2024 07:00:00 +0100"
-    },
-    {
-        "title": "BBC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#BBC",
-        "pubdate": "Wed, 30 Oct 2024 17:00:00 +0100"
-    },
-    {
-        "title": "DANA Catalunya",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#DANA%20Catalunya",
-        "pubdate": "Wed, 30 Oct 2024 15:00:00 +0100"
     }
 ]
