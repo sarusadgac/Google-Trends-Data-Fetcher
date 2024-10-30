@@ -5,6 +5,11 @@
         "pubdate": "Wed, 30 Oct 2024 01:00:00 +0100"
     },
     {
+        "title": "Malmö Redhawks",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Malm%C3%B6%20Redhawks",
+        "pubdate": "Wed, 30 Oct 2024 00:00:00 +0100"
+    },
+    {
         "title": "Suzanne Osten",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Suzanne%20Osten",
         "pubdate": "Tue, 29 Oct 2024 10:00:00 +0100"
@@ -13,11 +18,6 @@
         "title": "Sverige Luxemburg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sverige%20Luxemburg",
         "pubdate": "Tue, 29 Oct 2024 18:00:00 +0100"
-    },
-    {
-        "title": "Boxholm",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Boxholm",
-        "pubdate": "Tue, 29 Oct 2024 12:00:00 +0100"
     },
     {
         "title": "Gisele Bündchen",
@@ -85,11 +85,6 @@
         "pubdate": "Mon, 28 Oct 2024 18:00:00 +0100"
     },
     {
-        "title": "Anne Lagercrantz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Anne%20Lagercrantz",
-        "pubdate": "Mon, 28 Oct 2024 10:00:00 +0100"
-    },
-    {
         "title": "Haaland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Haaland",
         "pubdate": "Mon, 28 Oct 2024 20:00:00 +0100"
@@ -98,5 +93,10 @@
         "title": "Hugo Bolin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hugo%20Bolin",
         "pubdate": "Mon, 28 Oct 2024 22:00:00 +0100"
+    },
+    {
+        "title": "Ghost",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ghost",
+        "pubdate": "Mon, 28 Oct 2024 16:00:00 +0100"
     }
 ]
