@@ -5,16 +5,6 @@
         "pubdate": "Wed, 30 Oct 2024 00:00:00 +0100"
     },
     {
-        "title": "Massanassa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Massanassa",
-        "pubdate": "Wed, 30 Oct 2024 01:00:00 +0100"
-    },
-    {
-        "title": "Alerta por precipitaciones",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Alerta%20por%20precipitaciones",
-        "pubdate": "Tue, 29 Oct 2024 12:00:00 +0100"
-    },
-    {
         "title": "Copa del Rey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Copa%20del%20Rey",
         "pubdate": "Tue, 29 Oct 2024 21:00:00 +0100"
@@ -75,6 +65,11 @@
         "pubdate": "Tue, 29 Oct 2024 22:00:00 +0100"
     },
     {
+        "title": "Paiporta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Paiporta",
+        "pubdate": "Tue, 29 Oct 2024 20:00:00 +0100"
+    },
+    {
         "title": "Mario Casas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Mario%20Casas",
         "pubdate": "Tue, 29 Oct 2024 23:00:00 +0100"
@@ -85,18 +80,23 @@
         "pubdate": "Tue, 29 Oct 2024 21:00:00 +0100"
     },
     {
-        "title": "Paiporta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Paiporta",
-        "pubdate": "Tue, 29 Oct 2024 20:00:00 +0100"
-    },
-    {
         "title": "Gisele Bündchen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Gisele%20B%C3%BCndchen",
         "pubdate": "Tue, 29 Oct 2024 07:00:00 +0100"
     },
     {
-        "title": "Mega",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Mega",
+        "title": "MEGA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#MEGA",
         "pubdate": "Tue, 29 Oct 2024 00:00:00 +0100"
+    },
+    {
+        "title": "Ester exposito",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ester%20exposito",
+        "pubdate": "Tue, 29 Oct 2024 21:00:00 +0100"
+    },
+    {
+        "title": "Cadiz CF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Cadiz%20CF",
+        "pubdate": "Tue, 29 Oct 2024 22:00:00 +0100"
     }
 ]
