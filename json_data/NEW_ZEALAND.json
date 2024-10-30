@@ -40,6 +40,11 @@
         "pubdate": "Wed, 30 Oct 2024 13:00:00 +1300"
     },
     {
+        "title": "Google Doodle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Google%20Doodle",
+        "pubdate": "Wed, 30 Oct 2024 14:00:00 +1300"
+    },
+    {
         "title": "Bitcoin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Bitcoin",
         "pubdate": "Wed, 30 Oct 2024 09:00:00 +1300"
@@ -48,11 +53,6 @@
         "title": "Ryan Girdusky",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Ryan%20Girdusky",
         "pubdate": "Wed, 30 Oct 2024 11:00:00 +1300"
-    },
-    {
-        "title": "Google Games",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Google%20Games",
-        "pubdate": "Wed, 30 Oct 2024 17:00:00 +1300"
     },
     {
         "title": "Stables",
