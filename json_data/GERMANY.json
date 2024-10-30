@@ -10,11 +10,6 @@
         "pubdate": "Tue, 29 Oct 2024 18:00:00 +0100"
     },
     {
-        "title": "ARD",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#ARD",
-        "pubdate": "Tue, 29 Oct 2024 22:00:00 +0100"
-    },
-    {
         "title": "Teri Garr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Teri%20Garr",
         "pubdate": "Tue, 29 Oct 2024 23:00:00 +0100"
@@ -98,5 +93,10 @@
         "title": "RB Leipzig",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#RB%20Leipzig",
         "pubdate": "Wed, 23 Oct 2024 22:00:00 +0200"
+    },
+    {
+        "title": "Dortmund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dortmund",
+        "pubdate": "Tue, 22 Oct 2024 22:00:00 +0200"
     }
 ]

@@ -20,9 +20,14 @@
         "pubdate": "Wed, 30 Oct 2024 13:00:00 +0100"
     },
     {
-        "title": "Elpais",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Elpais",
+        "title": "ELPAIS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#ELPAIS",
         "pubdate": "Wed, 30 Oct 2024 14:00:00 +0100"
+    },
+    {
+        "title": "Noticias hoy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Noticias%20hoy",
+        "pubdate": "Wed, 30 Oct 2024 12:00:00 +0100"
     },
     {
         "title": "Bonaire",
@@ -35,9 +40,9 @@
         "pubdate": "Wed, 30 Oct 2024 11:00:00 +0100"
     },
     {
-        "title": "DANA Catalunya",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#DANA%20Catalunya",
-        "pubdate": "Wed, 30 Oct 2024 14:00:00 +0100"
+        "title": "Jerez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Jerez",
+        "pubdate": "Wed, 30 Oct 2024 16:00:00 +0100"
     },
     {
         "title": "Aeropuerto valencia",
@@ -45,24 +50,39 @@
         "pubdate": "Wed, 30 Oct 2024 07:00:00 +0100"
     },
     {
+        "title": "Mazon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Mazon",
+        "pubdate": "Wed, 30 Oct 2024 15:00:00 +0100"
+    },
+    {
+        "title": "Catarroja",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Catarroja",
+        "pubdate": "Wed, 30 Oct 2024 08:00:00 +0100"
+    },
+    {
+        "title": "Goirigolzarri",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Goirigolzarri",
+        "pubdate": "Wed, 30 Oct 2024 12:00:00 +0100"
+    },
+    {
+        "title": "Alfafar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Alfafar",
+        "pubdate": "Wed, 30 Oct 2024 11:00:00 +0100"
+    },
+    {
         "title": "Alicante",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Alicante",
         "pubdate": "Wed, 30 Oct 2024 13:00:00 +0100"
     },
     {
-        "title": "Gaviota Gijón",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Gaviota%20Gij%C3%B3n",
-        "pubdate": "Wed, 30 Oct 2024 14:00:00 +0100"
-    },
-    {
-        "title": "Rio Turia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Rio%20Turia",
-        "pubdate": "Wed, 30 Oct 2024 10:00:00 +0100"
-    },
-    {
         "title": "Carla Barber",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Carla%20Barber",
         "pubdate": "Wed, 30 Oct 2024 07:00:00 +0100"
+    },
+    {
+        "title": "BBC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#BBC",
+        "pubdate": "Wed, 30 Oct 2024 17:00:00 +0100"
     },
     {
         "title": "River Plate  Atlético Mineiro",
@@ -77,26 +97,6 @@
     {
         "title": "Mira (Cuenca",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Mira%20(Cuenca",
-        "pubdate": "Wed, 30 Oct 2024 14:00:00 +0100"
-    },
-    {
-        "title": "Jerez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Jerez",
-        "pubdate": "Wed, 30 Oct 2024 16:00:00 +0100"
-    },
-    {
-        "title": "Goirigolzarri",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Goirigolzarri",
-        "pubdate": "Wed, 30 Oct 2024 12:00:00 +0100"
-    },
-    {
-        "title": "TVE",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#TVE",
-        "pubdate": "Wed, 30 Oct 2024 14:00:00 +0100"
-    },
-    {
-        "title": "Castellon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Castellon",
         "pubdate": "Wed, 30 Oct 2024 14:00:00 +0100"
     }
 ]
