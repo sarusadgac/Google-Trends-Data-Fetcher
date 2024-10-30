@@ -5,11 +5,6 @@
         "pubdate": "Wed, 30 Oct 2024 00:00:00 +0100"
     },
     {
-        "title": "Massanassa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Massanassa",
-        "pubdate": "Wed, 30 Oct 2024 01:00:00 +0100"
-    },
-    {
         "title": "Alerta por precipitaciones",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Alerta%20por%20precipitaciones",
         "pubdate": "Tue, 29 Oct 2024 12:00:00 +0100"
@@ -30,14 +25,14 @@
         "pubdate": "Tue, 29 Oct 2024 18:00:00 +0100"
     },
     {
-        "title": "Villamuriel  Rayo Vallecano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Villamuriel%20%20Rayo%20Vallecano",
-        "pubdate": "Tue, 29 Oct 2024 19:00:00 +0100"
-    },
-    {
         "title": "Letur",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Letur",
         "pubdate": "Tue, 29 Oct 2024 18:00:00 +0100"
+    },
+    {
+        "title": "Villamuriel  Rayo Vallecano",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Villamuriel%20%20Rayo%20Vallecano",
+        "pubdate": "Tue, 29 Oct 2024 19:00:00 +0100"
     },
     {
         "title": "Poblense - Villarreal",
@@ -50,9 +45,14 @@
         "pubdate": "Tue, 29 Oct 2024 20:00:00 +0100"
     },
     {
-        "title": "Compostela-Alavés",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Compostela-Alav%C3%A9s",
+        "title": "Compostela  Alavés",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Compostela%20%20Alav%C3%A9s",
         "pubdate": "Tue, 29 Oct 2024 19:00:00 +0100"
+    },
+    {
+        "title": "Las provincias",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Las%20provincias",
+        "pubdate": "Tue, 29 Oct 2024 20:00:00 +0100"
     },
     {
         "title": "Mago Pop",
@@ -90,8 +90,8 @@
         "pubdate": "Tue, 29 Oct 2024 07:00:00 +0100"
     },
     {
-        "title": "MEGA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#MEGA",
+        "title": "Mega",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Mega",
         "pubdate": "Tue, 29 Oct 2024 00:00:00 +0100"
     },
     {
