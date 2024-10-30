@@ -65,11 +65,6 @@
         "pubdate": "Mon, 28 Oct 2024 15:00:00 +0100"
     },
     {
-        "title": "Jerry Tollbring",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jerry%20Tollbring",
-        "pubdate": "Mon, 28 Oct 2024 16:00:00 +0100"
-    },
-    {
         "title": "Tyler, the Creator",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tyler,%20the%20Creator",
         "pubdate": "Mon, 28 Oct 2024 12:00:00 +0100"
@@ -97,6 +92,11 @@
     {
         "title": "Aitana Bonmati",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Aitana%20Bonmati",
+        "pubdate": "Mon, 28 Oct 2024 23:00:00 +0100"
+    },
+    {
+        "title": "Paris Masters 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Paris%20Masters%202024",
         "pubdate": "Mon, 28 Oct 2024 23:00:00 +0100"
     }
 ]
