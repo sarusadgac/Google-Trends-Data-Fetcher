@@ -5,6 +5,11 @@
         "pubdate": "Wed, 30 Oct 2024 08:00:00 -0400"
     },
     {
+        "title": "Valencia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Valencia",
+        "pubdate": "Wed, 30 Oct 2024 09:00:00 -0400"
+    },
+    {
         "title": "Warriors",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Warriors",
         "pubdate": "Wed, 30 Oct 2024 08:00:00 -0400"
@@ -20,9 +25,14 @@
         "pubdate": "Tue, 29 Oct 2024 14:00:00 -0400"
     },
     {
-        "title": "Yankees",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Yankees",
+        "title": "World Series",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#World%20Series",
         "pubdate": "Tue, 29 Oct 2024 00:00:00 -0400"
+    },
+    {
+        "title": "Freddie Freeman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Freddie%20Freeman",
+        "pubdate": "Tue, 29 Oct 2024 01:00:00 -0400"
     },
     {
         "title": "Bitcoin price",
@@ -30,9 +40,9 @@
         "pubdate": "Tue, 29 Oct 2024 11:00:00 -0400"
     },
     {
-        "title": "Freddie Freeman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Freddie%20Freeman",
-        "pubdate": "Tue, 29 Oct 2024 02:00:00 -0400"
+        "title": "New York Yankees",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#New%20York%20Yankees",
+        "pubdate": "Tue, 29 Oct 2024 03:00:00 -0400"
     },
     {
         "title": "Mehdi Hasan",
@@ -70,14 +80,14 @@
         "pubdate": "Tue, 29 Oct 2024 07:00:00 -0400"
     },
     {
-        "title": "BTC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#BTC",
-        "pubdate": "Tue, 29 Oct 2024 06:00:00 -0400"
-    },
-    {
         "title": "Google stock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Google%20stock",
         "pubdate": "Tue, 29 Oct 2024 17:00:00 -0400"
+    },
+    {
+        "title": "BTC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#BTC",
+        "pubdate": "Tue, 29 Oct 2024 06:00:00 -0400"
     },
     {
         "title": "Channing Tatum",
@@ -85,18 +95,8 @@
         "pubdate": "Tue, 29 Oct 2024 23:00:00 -0400"
     },
     {
-        "title": "Wizards Beyond Waverly Place",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Wizards%20Beyond%20Waverly%20Place",
-        "pubdate": "Tue, 29 Oct 2024 11:00:00 -0400"
-    },
-    {
-        "title": "Mac mini",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Mac%20mini",
-        "pubdate": "Tue, 29 Oct 2024 15:00:00 -0400"
-    },
-    {
-        "title": "Marc-Andre Fleury",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Marc-Andre%20Fleury",
-        "pubdate": "Tue, 29 Oct 2024 22:00:00 -0400"
+        "title": "MLB World Series",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#MLB%20World%20Series",
+        "pubdate": "Tue, 29 Oct 2024 10:00:00 -0400"
     }
 ]
