@@ -35,6 +35,11 @@
         "pubdate": "Tue, 29 Oct 2024 20:00:00 -0400"
     },
     {
+        "title": "Steelers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Steelers",
+        "pubdate": "Tue, 29 Oct 2024 01:00:00 -0400"
+    },
+    {
         "title": "Mehdi Hasan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Mehdi%20Hasan",
         "pubdate": "Tue, 29 Oct 2024 03:00:00 -0400"
@@ -93,10 +98,5 @@
         "title": "Scottie Barnes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Scottie%20Barnes",
         "pubdate": "Tue, 29 Oct 2024 00:00:00 -0400"
-    },
-    {
-        "title": "UNRWA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#UNRWA",
-        "pubdate": "Tue, 29 Oct 2024 10:00:00 -0400"
     }
 ]
