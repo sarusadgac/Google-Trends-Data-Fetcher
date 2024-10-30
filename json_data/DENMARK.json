@@ -10,6 +10,11 @@
         "pubdate": "Wed, 30 Oct 2024 00:00:00 +0100"
     },
     {
+        "title": "Alphabet stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Alphabet%20stock",
+        "pubdate": "Wed, 30 Oct 2024 09:00:00 +0100"
+    },
+    {
         "title": "Eli Lilly stock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Eli%20Lilly%20stock",
         "pubdate": "Wed, 30 Oct 2024 14:00:00 +0100"
@@ -30,18 +35,13 @@
         "pubdate": "Wed, 30 Oct 2024 00:00:00 +0100"
     },
     {
-        "title": "Alphabet stock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Alphabet%20stock",
-        "pubdate": "Wed, 30 Oct 2024 09:00:00 +0100"
-    },
-    {
         "title": "Milan-Napoli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Milan-Napoli",
         "pubdate": "Wed, 30 Oct 2024 00:00:00 +0100"
     },
     {
-        "title": "Mac Mini",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Mac%20Mini",
+        "title": "Mac mini",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Mac%20mini",
         "pubdate": "Wed, 30 Oct 2024 09:00:00 +0100"
     },
     {
@@ -75,11 +75,6 @@
         "pubdate": "Tue, 29 Oct 2024 14:00:00 +0100"
     },
     {
-        "title": "DFB-Pokal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#DFB-Pokal",
-        "pubdate": "Tue, 29 Oct 2024 22:00:00 +0100"
-    },
-    {
         "title": "Ballon d'Or 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ballon%20d'Or%202024",
         "pubdate": "Mon, 28 Oct 2024 16:00:00 +0100"
@@ -98,5 +93,10 @@
         "title": "Ballon d'Or 2024 TV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ballon%20d'Or%202024%20TV",
         "pubdate": "Mon, 28 Oct 2024 20:00:00 +0100"
+    },
+    {
+        "title": "Black Friday",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Black%20Friday",
+        "pubdate": "Mon, 28 Oct 2024 15:00:00 +0100"
     }
 ]
