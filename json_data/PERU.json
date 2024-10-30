@@ -5,11 +5,6 @@
         "pubdate": "Wed, 30 Oct 2024 01:00:00 -0500"
     },
     {
-        "title": "Wolfsburg  Dortmund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Wolfsburg%20%20Dortmund",
-        "pubdate": "Tue, 29 Oct 2024 12:00:00 -0500"
-    },
-    {
         "title": "Milan  Napoli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Milan%20%20Napoli",
         "pubdate": "Tue, 29 Oct 2024 15:00:00 -0500"
@@ -30,9 +25,19 @@
         "pubdate": "Tue, 29 Oct 2024 16:00:00 -0500"
     },
     {
+        "title": "Serie a",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Serie%20a",
+        "pubdate": "Tue, 29 Oct 2024 18:00:00 -0500"
+    },
+    {
         "title": "Peñarol",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Pe%C3%B1arol",
         "pubdate": "Tue, 29 Oct 2024 22:00:00 -0500"
+    },
+    {
+        "title": "DFB Pokal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#DFB%20Pokal",
+        "pubdate": "Tue, 29 Oct 2024 12:00:00 -0500"
     },
     {
         "title": "Al Hilal",
@@ -45,19 +50,9 @@
         "pubdate": "Tue, 29 Oct 2024 13:00:00 -0500"
     },
     {
-        "title": "Bayer Leverkusen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bayer%20Leverkusen",
-        "pubdate": "Tue, 29 Oct 2024 13:00:00 -0500"
-    },
-    {
         "title": "Colo-colo  Magallanes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Colo-colo%20%20Magallanes",
         "pubdate": "Tue, 29 Oct 2024 17:00:00 -0500"
-    },
-    {
-        "title": "Copa del Rey de Campeones",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Copa%20del%20Rey%20de%20Campeones",
-        "pubdate": "Tue, 29 Oct 2024 14:00:00 -0500"
     },
     {
         "title": "Villamuriel  Rayo Vallecano",
@@ -68,11 +63,6 @@
         "title": "Compostela  Alavés",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Compostela%20%20Alav%C3%A9s",
         "pubdate": "Tue, 29 Oct 2024 14:00:00 -0500"
-    },
-    {
-        "title": "EFL Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#EFL%20Cup",
-        "pubdate": "Tue, 29 Oct 2024 12:00:00 -0500"
     },
     {
         "title": "Micro TDH",
@@ -88,6 +78,16 @@
         "title": "Colo Colo vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Colo%20Colo%20vs",
         "pubdate": "Tue, 29 Oct 2024 18:00:00 -0500"
+    },
+    {
+        "title": "Bayer Leverkusen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bayer%20Leverkusen",
+        "pubdate": "Tue, 29 Oct 2024 13:00:00 -0500"
+    },
+    {
+        "title": "Leverkusen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Leverkusen",
+        "pubdate": "Tue, 29 Oct 2024 14:00:00 -0500"
     },
     {
         "title": "Colo Colo",
