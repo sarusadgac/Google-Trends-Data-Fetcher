@@ -35,9 +35,9 @@
         "pubdate": "Wed, 30 Oct 2024 01:00:00 +0100"
     },
     {
-        "title": "Catarroja",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Catarroja",
-        "pubdate": "Wed, 30 Oct 2024 08:00:00 +0100"
+        "title": "El levante",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#El%20levante",
+        "pubdate": "Wed, 30 Oct 2024 10:00:00 +0100"
     },
     {
         "title": "Alerta por precipitaciones",
@@ -60,14 +60,14 @@
         "pubdate": "Tue, 29 Oct 2024 18:00:00 +0100"
     },
     {
+        "title": "Villamuriel - Rayo Vallecano",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Villamuriel%20-%20Rayo%20Vallecano",
+        "pubdate": "Tue, 29 Oct 2024 19:00:00 +0100"
+    },
+    {
         "title": "Utiel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Utiel",
         "pubdate": "Tue, 29 Oct 2024 18:00:00 +0100"
-    },
-    {
-        "title": "Villamuriel  Rayo Vallecano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Villamuriel%20%20Rayo%20Vallecano",
-        "pubdate": "Tue, 29 Oct 2024 19:00:00 +0100"
     },
     {
         "title": "Poblense - Villarreal",
@@ -80,11 +80,6 @@
         "pubdate": "Tue, 29 Oct 2024 20:00:00 +0100"
     },
     {
-        "title": "Las provincias",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Las%20provincias",
-        "pubdate": "Tue, 29 Oct 2024 20:00:00 +0100"
-    },
-    {
         "title": "Compostela  Alavés",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Compostela%20%20Alav%C3%A9s",
         "pubdate": "Tue, 29 Oct 2024 19:00:00 +0100"
@@ -93,6 +88,11 @@
         "title": "Mago Pop",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Mago%20Pop",
         "pubdate": "Tue, 29 Oct 2024 23:00:00 +0100"
+    },
+    {
+        "title": "Paiporta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Paiporta",
+        "pubdate": "Tue, 29 Oct 2024 20:00:00 +0100"
     },
     {
         "title": "Italia  España",
