@@ -20,18 +20,8 @@
         "pubdate": "Thu, 31 Oct 2024 03:00:00 +0100"
     },
     {
-        "title": "Atlético Paso  CD Eldense",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Atl%C3%A9tico%20Paso%20%20CD%20Eldense",
-        "pubdate": "Thu, 31 Oct 2024 00:00:00 +0100"
-    },
-    {
         "title": "Cruz Roja",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Cruz%20Roja",
-        "pubdate": "Thu, 31 Oct 2024 00:00:00 +0100"
-    },
-    {
-        "title": "Águilas FC  Castellón",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#%C3%81guilas%20FC%20%20Castell%C3%B3n",
         "pubdate": "Thu, 31 Oct 2024 00:00:00 +0100"
     },
     {
@@ -40,9 +30,19 @@
         "pubdate": "Thu, 31 Oct 2024 00:00:00 +0100"
     },
     {
-        "title": "Luis Zamalloa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Luis%20Zamalloa",
-        "pubdate": "Thu, 31 Oct 2024 01:00:00 +0100"
+        "title": "Águilas FC  Castellón",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#%C3%81guilas%20FC%20%20Castell%C3%B3n",
+        "pubdate": "Thu, 31 Oct 2024 00:00:00 +0100"
+    },
+    {
+        "title": "DANA en Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#DANA%20en%20Barcelona",
+        "pubdate": "Thu, 31 Oct 2024 08:00:00 +0100"
+    },
+    {
+        "title": "Celta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Celta",
+        "pubdate": "Thu, 31 Oct 2024 10:00:00 +0100"
     },
     {
         "title": "Spain",
@@ -70,9 +70,9 @@
         "pubdate": "Wed, 30 Oct 2024 13:00:00 +0100"
     },
     {
-        "title": "ELPAIS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#ELPAIS",
-        "pubdate": "Wed, 30 Oct 2024 14:00:00 +0100"
+        "title": "EL PAÍS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#EL%20PA%C3%8DS",
+        "pubdate": "Wed, 30 Oct 2024 19:00:00 +0100"
     },
     {
         "title": "Las Rozas  Sevilla",
@@ -80,9 +80,9 @@
         "pubdate": "Wed, 30 Oct 2024 19:00:00 +0100"
     },
     {
-        "title": "EL PAÍS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#EL%20PA%C3%8DS",
-        "pubdate": "Wed, 30 Oct 2024 21:00:00 +0100"
+        "title": "ELPAIS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#ELPAIS",
+        "pubdate": "Wed, 30 Oct 2024 14:00:00 +0100"
     },
     {
         "title": "Jerez",
@@ -90,13 +90,13 @@
         "pubdate": "Wed, 30 Oct 2024 16:00:00 +0100"
     },
     {
-        "title": "Extremadura - Girona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Extremadura%20-%20Girona",
-        "pubdate": "Wed, 30 Oct 2024 21:00:00 +0100"
+        "title": "Noticias hoy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Noticias%20hoy",
+        "pubdate": "Wed, 30 Oct 2024 12:00:00 +0100"
     },
     {
-        "title": "UD San Pedro  Celta de Vigo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#UD%20San%20Pedro%20%20Celta%20de%20Vigo",
+        "title": "Extremadura - Girona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Extremadura%20-%20Girona",
         "pubdate": "Wed, 30 Oct 2024 21:00:00 +0100"
     }
 ]

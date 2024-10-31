@@ -1,18 +1,8 @@
 [
     {
-        "title": "萬聖節",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E8%90%AC%E8%81%96%E7%AF%80",
-        "pubdate": "Thu, 31 Oct 2024 12:00:00 +0800"
-    },
-    {
-        "title": "Amaran",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Amaran",
-        "pubdate": "Thu, 31 Oct 2024 10:30:00 +0530"
-    },
-    {
-        "title": "DFB-Pokal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Pokal",
-        "pubdate": "Wed, 30 Oct 2024 18:00:00 +0100"
+        "title": "ニンテンドーミュージック",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%8B%E3%83%B3%E3%83%86%E3%83%B3%E3%83%89%E3%83%BC%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF",
+        "pubdate": "Thu, 31 Oct 2024 10:00:00 +0900"
     },
     {
         "title": "Monsieur POF",
@@ -20,9 +10,24 @@
         "pubdate": "Thu, 31 Oct 2024 05:00:00 +0100"
     },
     {
-        "title": "ニンテンドーミュージック",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%8B%E3%83%B3%E3%83%86%E3%83%B3%E3%83%89%E3%83%BC%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF",
-        "pubdate": "Thu, 31 Oct 2024 10:00:00 +0900"
+        "title": "Trick or treat",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Trick%20or%20treat",
+        "pubdate": "Thu, 31 Oct 2024 01:00:00 -0700"
+    },
+    {
+        "title": "Amaran",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Amaran",
+        "pubdate": "Thu, 31 Oct 2024 09:30:00 +0530"
+    },
+    {
+        "title": "Valencia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Valencia",
+        "pubdate": "Wed, 30 Oct 2024 03:00:00 +0100"
+    },
+    {
+        "title": "萬聖節",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E8%90%AC%E8%81%96%E7%AF%80",
+        "pubdate": "Thu, 31 Oct 2024 12:00:00 +0800"
     },
     {
         "title": "Хеллоуин",
@@ -30,19 +35,29 @@
         "pubdate": "Thu, 31 Oct 2024 02:00:00 +0300"
     },
     {
-        "title": "Trick or treat",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Trick%20or%20treat",
-        "pubdate": "Thu, 31 Oct 2024 01:00:00 -0700"
+        "title": "Diwali",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Diwali",
+        "pubdate": "Thu, 31 Oct 2024 09:00:00 +0000"
     },
     {
-        "title": "Happy Diwali",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Happy%20Diwali",
-        "pubdate": "Thu, 31 Oct 2024 06:00:00 +0000"
-    },
-    {
-        "title": "Χριστίνα Τσάφου",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%A7%CF%81%CE%B9%CF%83%CF%84%CE%AF%CE%BD%CE%B1%20%CE%A4%CF%83%CE%AC%CF%86%CE%BF%CF%85",
+        "title": "Meta stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#Meta%20stock",
         "pubdate": "Thu, 31 Oct 2024 01:00:00 +0200"
+    },
+    {
+        "title": "Gaston Edul",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Gaston%20Edul",
+        "pubdate": "Thu, 31 Oct 2024 00:00:00 -0300"
+    },
+    {
+        "title": "Diablo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Diablo",
+        "pubdate": "Thu, 31 Oct 2024 07:00:00 +1300"
+    },
+    {
+        "title": "Almere City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Almere%20City",
+        "pubdate": "Thu, 31 Oct 2024 00:00:00 +0100"
     },
     {
         "title": "Nacional vs medellin",
@@ -50,34 +65,14 @@
         "pubdate": "Thu, 31 Oct 2024 02:00:00 -0500"
     },
     {
-        "title": "Брайтон – Ліверпуль",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=UA#%D0%91%D1%80%D0%B0%D0%B9%D1%82%D0%BE%D0%BD%20%E2%80%93%20%D0%9B%D1%96%D0%B2%D0%B5%D1%80%D0%BF%D1%83%D0%BB%D1%8C",
-        "pubdate": "Thu, 31 Oct 2024 00:00:00 +0200"
+        "title": "Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Manchester%20United",
+        "pubdate": "Thu, 31 Oct 2024 09:00:00 +0100"
     },
     {
-        "title": "Man U",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Man%20U",
-        "pubdate": "Thu, 31 Oct 2024 00:00:00 +0300"
-    },
-    {
-        "title": "Maquillaje Halloween",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Maquillaje%20Halloween",
-        "pubdate": "Thu, 31 Oct 2024 00:00:00 -0300"
-    },
-    {
-        "title": "แมนยู",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TH#%E0%B9%81%E0%B8%A1%E0%B8%99%E0%B8%A2%E0%B8%B9",
-        "pubdate": "Thu, 31 Oct 2024 04:00:00 +0700"
-    },
-    {
-        "title": "Tottenham đấu với Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Tottenham%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Man%20City",
-        "pubdate": "Thu, 31 Oct 2024 01:00:00 +0700"
-    },
-    {
-        "title": "Meta stock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#Meta%20stock",
-        "pubdate": "Thu, 31 Oct 2024 01:00:00 +0200"
+        "title": "Zaccagni",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Zaccagni",
+        "pubdate": "Thu, 31 Oct 2024 01:00:00 +0100"
     },
     {
         "title": "Tottenham vs Man City",
@@ -90,13 +85,18 @@
         "pubdate": "Thu, 31 Oct 2024 01:00:00 +0100"
     },
     {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Manchester%20United",
-        "pubdate": "Thu, 31 Oct 2024 07:00:00 +0200"
+        "title": "Casa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Casa",
+        "pubdate": "Thu, 31 Oct 2024 00:00:00 +0100"
     },
     {
-        "title": "Cheesecake",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Cheesecake",
-        "pubdate": "Thu, 31 Oct 2024 01:00:00 -0300"
+        "title": "Man U",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Man%20U",
+        "pubdate": "Thu, 31 Oct 2024 00:00:00 +0300"
+    },
+    {
+        "title": "31 octombrie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#31%20octombrie",
+        "pubdate": "Thu, 31 Oct 2024 09:00:00 +0200"
     }
 ]

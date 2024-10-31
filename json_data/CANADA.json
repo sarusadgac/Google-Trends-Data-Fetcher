@@ -25,11 +25,6 @@
         "pubdate": "Thu, 31 Oct 2024 03:00:00 -0400"
     },
     {
-        "title": "Hugh Grant",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Hugh%20Grant",
-        "pubdate": "Thu, 31 Oct 2024 00:00:00 -0400"
-    },
-    {
         "title": "Halloween",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Halloween",
         "pubdate": "Wed, 30 Oct 2024 18:00:00 -0400"
@@ -98,5 +93,10 @@
         "title": "Halloween 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Halloween%202024",
         "pubdate": "Wed, 30 Oct 2024 20:00:00 -0400"
+    },
+    {
+        "title": "Martha Stewart",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Martha%20Stewart",
+        "pubdate": "Wed, 30 Oct 2024 17:00:00 -0400"
     }
 ]
