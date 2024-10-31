@@ -5,14 +5,14 @@
         "pubdate": "Thu, 31 Oct 2024 07:00:00 -0500"
     },
     {
-        "title": "Harley Quinn",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Harley%20Quinn",
-        "pubdate": "Thu, 31 Oct 2024 10:00:00 -0500"
-    },
-    {
         "title": "Beetlejuice",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Beetlejuice",
         "pubdate": "Thu, 31 Oct 2024 10:00:00 -0500"
+    },
+    {
+        "title": "Premier",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Premier",
+        "pubdate": "Thu, 31 Oct 2024 02:00:00 -0500"
     },
     {
         "title": "Interbank",
@@ -40,11 +40,6 @@
         "pubdate": "Wed, 30 Oct 2024 15:00:00 -0500"
     },
     {
-        "title": "Newcastle  Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Newcastle%20%20Chelsea",
-        "pubdate": "Wed, 30 Oct 2024 15:00:00 -0500"
-    },
-    {
         "title": "Mainz 05  Bayern",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Mainz%2005%20%20Bayern",
         "pubdate": "Wed, 30 Oct 2024 15:00:00 -0500"
@@ -53,6 +48,11 @@
         "title": "Lanus vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Lanus%20vs",
         "pubdate": "Wed, 30 Oct 2024 18:00:00 -0500"
+    },
+    {
+        "title": "Newcastle  Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Newcastle%20%20Chelsea",
+        "pubdate": "Wed, 30 Oct 2024 15:00:00 -0500"
     },
     {
         "title": "Brighton  Liverpool",
