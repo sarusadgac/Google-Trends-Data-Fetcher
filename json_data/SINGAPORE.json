@@ -10,6 +10,11 @@
         "pubdate": "Thu, 31 Oct 2024 04:00:00 +0800"
     },
     {
+        "title": "Taiwan Typhoon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Taiwan%20Typhoon",
+        "pubdate": "Thu, 31 Oct 2024 15:00:00 +0800"
+    },
+    {
         "title": "Amaran",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Amaran",
         "pubdate": "Thu, 31 Oct 2024 08:00:00 +0800"
@@ -30,14 +35,14 @@
         "pubdate": "Thu, 31 Oct 2024 07:00:00 +0800"
     },
     {
-        "title": "Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Tottenham",
-        "pubdate": "Thu, 31 Oct 2024 07:00:00 +0800"
-    },
-    {
         "title": "Ruud van Nistelrooy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Ruud%20van%20Nistelrooy",
         "pubdate": "Thu, 31 Oct 2024 15:00:00 +0800"
+    },
+    {
+        "title": "Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Tottenham",
+        "pubdate": "Thu, 31 Oct 2024 07:00:00 +0800"
     },
     {
         "title": "Diablo",
@@ -58,6 +63,11 @@
         "title": "Meta stock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Meta%20stock",
         "pubdate": "Thu, 31 Oct 2024 10:00:00 +0800"
+    },
+    {
+        "title": "China halloween",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#China%20halloween",
+        "pubdate": "Thu, 31 Oct 2024 12:00:00 +0800"
     },
     {
         "title": "Time Cut",
@@ -88,15 +98,5 @@
         "title": "Happy deepavali 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Happy%20deepavali%202024",
         "pubdate": "Wed, 30 Oct 2024 08:00:00 +0800"
-    },
-    {
-        "title": "Deepavali",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Deepavali",
-        "pubdate": "Wed, 30 Oct 2024 19:00:00 +0800"
-    },
-    {
-        "title": "Taiwan Typhoon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Taiwan%20Typhoon",
-        "pubdate": "Wed, 30 Oct 2024 01:00:00 +0800"
     }
 ]
