@@ -25,6 +25,11 @@
         "pubdate": "Wed, 30 Oct 2024 15:00:00 -0500"
     },
     {
+        "title": "Newcastle  Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Newcastle%20%20Chelsea",
+        "pubdate": "Wed, 30 Oct 2024 15:00:00 -0500"
+    },
+    {
         "title": "Mainz 05  Bayern",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Mainz%2005%20%20Bayern",
         "pubdate": "Wed, 30 Oct 2024 15:00:00 -0500"
@@ -37,11 +42,6 @@
     {
         "title": "Aston Villa  Crystal Palace",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Aston%20Villa%20%20Crystal%20Palace",
-        "pubdate": "Wed, 30 Oct 2024 15:00:00 -0500"
-    },
-    {
-        "title": "Newcastle  Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Newcastle%20%20Chelsea",
         "pubdate": "Wed, 30 Oct 2024 15:00:00 -0500"
     },
     {
@@ -75,6 +75,11 @@
         "pubdate": "Wed, 30 Oct 2024 20:00:00 -0500"
     },
     {
+        "title": "Internacional  Flamengo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Internacional%20%20Flamengo",
+        "pubdate": "Wed, 30 Oct 2024 18:00:00 -0500"
+    },
+    {
         "title": "Las Rozas  Sevilla",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Las%20Rozas%20%20Sevilla",
         "pubdate": "Wed, 30 Oct 2024 14:00:00 -0500"
@@ -93,10 +98,5 @@
         "title": "Atalanta - Monza",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Atalanta%20-%20Monza",
         "pubdate": "Wed, 30 Oct 2024 17:00:00 -0500"
-    },
-    {
-        "title": "Ciudad de Lucena  Leganés",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Ciudad%20de%20Lucena%20%20Legan%C3%A9s",
-        "pubdate": "Wed, 30 Oct 2024 16:00:00 -0500"
     }
 ]

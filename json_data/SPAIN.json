@@ -5,6 +5,11 @@
         "pubdate": "Thu, 31 Oct 2024 03:00:00 +0100"
     },
     {
+        "title": "BBC News",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#BBC%20News",
+        "pubdate": "Thu, 31 Oct 2024 02:00:00 +0100"
+    },
+    {
         "title": "Dorian desaparecido en Tenerife",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Dorian%20desaparecido%20en%20Tenerife",
         "pubdate": "Thu, 31 Oct 2024 01:00:00 +0100"
@@ -30,11 +35,6 @@
         "pubdate": "Thu, 31 Oct 2024 00:00:00 +0100"
     },
     {
-        "title": "Luis Zamalloa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Luis%20Zamalloa",
-        "pubdate": "Thu, 31 Oct 2024 01:00:00 +0100"
-    },
-    {
         "title": "Luce mascota Vaticano",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Luce%20mascota%20Vaticano",
         "pubdate": "Thu, 31 Oct 2024 03:00:00 +0100"
@@ -42,7 +42,7 @@
     {
         "title": "Tiempo Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Tiempo%20Barcelona",
-        "pubdate": "Wed, 30 Oct 2024 13:00:00 +0100"
+        "pubdate": "Wed, 30 Oct 2024 14:00:00 +0100"
     },
     {
         "title": "Noticias",
@@ -65,14 +65,14 @@
         "pubdate": "Wed, 30 Oct 2024 12:00:00 +0100"
     },
     {
-        "title": "Elpais",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Elpais",
-        "pubdate": "Wed, 30 Oct 2024 14:00:00 +0100"
-    },
-    {
         "title": "Las Rozas  Sevilla",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Las%20Rozas%20%20Sevilla",
         "pubdate": "Wed, 30 Oct 2024 19:00:00 +0100"
+    },
+    {
+        "title": "Elpais",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Elpais",
+        "pubdate": "Wed, 30 Oct 2024 14:00:00 +0100"
     },
     {
         "title": "EL PAÍS",
@@ -90,13 +90,13 @@
         "pubdate": "Wed, 30 Oct 2024 16:00:00 +0100"
     },
     {
-        "title": "DANA Catalunya",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#DANA%20Catalunya",
-        "pubdate": "Wed, 30 Oct 2024 14:00:00 +0100"
-    },
-    {
         "title": "Chiclana - Osasuna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Chiclana%20-%20Osasuna",
         "pubdate": "Wed, 30 Oct 2024 19:00:00 +0100"
+    },
+    {
+        "title": "Grecia Castta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Grecia%20Castta",
+        "pubdate": "Wed, 30 Oct 2024 11:00:00 +0100"
     }
 ]
