@@ -25,9 +25,19 @@
         "pubdate": "Thu, 31 Oct 2024 00:00:00 +0100"
     },
     {
+        "title": "Apocalipsis Z",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Apocalipsis%20Z",
+        "pubdate": "Thu, 31 Oct 2024 11:00:00 +0100"
+    },
+    {
         "title": "The Times",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#The%20Times",
         "pubdate": "Thu, 31 Oct 2024 00:00:00 +0100"
+    },
+    {
+        "title": "Presidente Comunidad Valenciana",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Presidente%20Comunidad%20Valenciana",
+        "pubdate": "Thu, 31 Oct 2024 09:00:00 +0100"
     },
     {
         "title": "Águilas FC  Castellón",
@@ -35,9 +45,24 @@
         "pubdate": "Thu, 31 Oct 2024 00:00:00 +0100"
     },
     {
+        "title": "Luis Zamalloa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Luis%20Zamalloa",
+        "pubdate": "Thu, 31 Oct 2024 01:00:00 +0100"
+    },
+    {
         "title": "Chiclana",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Chiclana",
         "pubdate": "Thu, 31 Oct 2024 00:00:00 +0100"
+    },
+    {
+        "title": "Celta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Celta",
+        "pubdate": "Thu, 31 Oct 2024 10:00:00 +0100"
+    },
+    {
+        "title": "Luto oficial",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Luto%20oficial",
+        "pubdate": "Thu, 31 Oct 2024 12:00:00 +0100"
     },
     {
         "title": "Amaia Salamanca",
@@ -45,9 +70,9 @@
         "pubdate": "Thu, 31 Oct 2024 11:00:00 +0100"
     },
     {
-        "title": "Luto oficial",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Luto%20oficial",
-        "pubdate": "Thu, 31 Oct 2024 12:00:00 +0100"
+        "title": "Teruel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Teruel",
+        "pubdate": "Thu, 31 Oct 2024 13:00:00 +0100"
     },
     {
         "title": "Spain",
@@ -65,38 +90,13 @@
         "pubdate": "Wed, 30 Oct 2024 21:00:00 +0100"
     },
     {
+        "title": "Noticias",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Noticias",
+        "pubdate": "Wed, 30 Oct 2024 11:00:00 +0100"
+    },
+    {
         "title": "Halloween",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Halloween",
         "pubdate": "Wed, 30 Oct 2024 13:00:00 +0100"
-    },
-    {
-        "title": "Sevilla FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Sevilla%20FC",
-        "pubdate": "Wed, 30 Oct 2024 19:00:00 +0100"
-    },
-    {
-        "title": "ELPAIS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#ELPAIS",
-        "pubdate": "Wed, 30 Oct 2024 14:00:00 +0100"
-    },
-    {
-        "title": "EL PAÍS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#EL%20PA%C3%8DS",
-        "pubdate": "Wed, 30 Oct 2024 21:00:00 +0100"
-    },
-    {
-        "title": "UD San Pedro  Celta de Vigo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#UD%20San%20Pedro%20%20Celta%20de%20Vigo",
-        "pubdate": "Wed, 30 Oct 2024 21:00:00 +0100"
-    },
-    {
-        "title": "Extremadura - Girona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Extremadura%20-%20Girona",
-        "pubdate": "Wed, 30 Oct 2024 21:00:00 +0100"
-    },
-    {
-        "title": "Jerez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Jerez",
-        "pubdate": "Wed, 30 Oct 2024 16:00:00 +0100"
     }
 ]
