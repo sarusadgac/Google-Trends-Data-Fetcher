@@ -1,8 +1,23 @@
 [
     {
+        "title": "Halloween",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Halloween",
+        "pubdate": "Wed, 30 Oct 2024 11:00:00 -0700"
+    },
+    {
         "title": "Ben Stokes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Ben%20Stokes",
         "pubdate": "Thu, 31 Oct 2024 01:00:00 +0000"
+    },
+    {
+        "title": "Даниил Медведев",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%94%D0%B0%D0%BD%D0%B8%D0%B8%D0%BB%20%D0%9C%D0%B5%D0%B4%D0%B2%D0%B5%D0%B4%D0%B5%D0%B2",
+        "pubdate": "Wed, 30 Oct 2024 17:00:00 +0300"
+    },
+    {
+        "title": "Valencia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Valencia",
+        "pubdate": "Wed, 30 Oct 2024 03:00:00 +0100"
     },
     {
         "title": "ニンテンドーミュージック",
@@ -15,11 +30,6 @@
         "pubdate": "Thu, 31 Oct 2024 11:00:00 +0800"
     },
     {
-        "title": "Halloween",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Halloween",
-        "pubdate": "Wed, 30 Oct 2024 11:00:00 -0700"
-    },
-    {
         "title": "Valence Espagne",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Valence%20Espagne",
         "pubdate": "Wed, 30 Oct 2024 08:00:00 +0100"
@@ -30,14 +40,19 @@
         "pubdate": "Thu, 31 Oct 2024 04:30:00 +0530"
     },
     {
-        "title": "Valencia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Valencia",
-        "pubdate": "Wed, 30 Oct 2024 03:00:00 +0100"
+        "title": "Meta stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#Meta%20stock",
+        "pubdate": "Thu, 31 Oct 2024 01:00:00 +0200"
     },
     {
-        "title": "Даниил Медведев",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%94%D0%B0%D0%BD%D0%B8%D0%B8%D0%BB%20%D0%9C%D0%B5%D0%B4%D0%B2%D0%B5%D0%B4%D0%B5%D0%B2",
-        "pubdate": "Wed, 30 Oct 2024 17:00:00 +0300"
+        "title": "สเปอร์ส พบ แมนซิตี",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TH#%E0%B8%AA%E0%B9%80%E0%B8%9B%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AA%20%E0%B8%9E%E0%B8%9A%20%E0%B9%81%E0%B8%A1%E0%B8%99%E0%B8%8B%E0%B8%B4%E0%B8%95%E0%B8%B5",
+        "pubdate": "Thu, 31 Oct 2024 03:00:00 +0700"
+    },
+    {
+        "title": "Donald Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Donald%20Trump",
+        "pubdate": "Thu, 31 Oct 2024 03:00:00 +0100"
     },
     {
         "title": "Tottenham vs Man City",
@@ -45,58 +60,43 @@
         "pubdate": "Thu, 31 Oct 2024 03:00:00 +0700"
     },
     {
-        "title": "Scary Movie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Scary%20Movie",
-        "pubdate": "Thu, 31 Oct 2024 01:00:00 +0100"
+        "title": "Ahmet Özer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ahmet%20%C3%96zer",
+        "pubdate": "Wed, 30 Oct 2024 09:00:00 +0300"
     },
     {
-        "title": "Ewa Zajączkowska-Hernik",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ewa%20Zaj%C4%85czkowska-Hernik",
-        "pubdate": "Thu, 31 Oct 2024 01:00:00 +0100"
+        "title": "Interbank",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Interbank",
+        "pubdate": "Wed, 30 Oct 2024 13:00:00 -0500"
     },
     {
-        "title": "Man utd  Leicester",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Man%20utd%20%20Leicester",
-        "pubdate": "Wed, 30 Oct 2024 20:00:00 +0100"
+        "title": "Brighton–liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Brighton%E2%80%93liverpool",
+        "pubdate": "Wed, 30 Oct 2024 00:00:00 +0100"
     },
     {
-        "title": "Casa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Casa",
+        "title": "Diwali",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Diwali",
+        "pubdate": "Thu, 31 Oct 2024 07:00:00 +1100"
+    },
+    {
+        "title": "Dia de los Muertos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Dia%20de%20los%20Muertos",
         "pubdate": "Thu, 31 Oct 2024 00:00:00 +0100"
     },
     {
-        "title": "حساب المواطن",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#%D8%AD%D8%B3%D8%A7%D8%A8%20%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B7%D9%86",
-        "pubdate": "Wed, 30 Oct 2024 02:00:00 +0300"
+        "title": "Hijo de Catalina Pulido",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Hijo%20de%20Catalina%20Pulido",
+        "pubdate": "Wed, 30 Oct 2024 20:00:00 -0300"
     },
     {
-        "title": "Abdulrahman Lekki",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Abdulrahman%20Lekki",
-        "pubdate": "Thu, 31 Oct 2024 00:00:00 +0100"
-    },
-    {
-        "title": "水庫",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%B0%B4%E5%BA%AB",
-        "pubdate": "Thu, 31 Oct 2024 07:00:00 +0800"
-    },
-    {
-        "title": "Naomi Sharon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Naomi%20Sharon",
-        "pubdate": "Thu, 31 Oct 2024 00:00:00 +0100"
-    },
-    {
-        "title": "Newcastle vs Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Newcastle%20vs%20Chelsea",
-        "pubdate": "Thu, 31 Oct 2024 05:00:00 +0800"
+        "title": "Elisabeth Ohlson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Elisabeth%20Ohlson",
+        "pubdate": "Wed, 30 Oct 2024 14:00:00 +0100"
     },
     {
         "title": "Marcel Ciolacu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Marcel%20Ciolacu",
         "pubdate": "Thu, 31 Oct 2024 03:00:00 +0200"
-    },
-    {
-        "title": "Брайтон – Ліверпуль",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=UA#%D0%91%D1%80%D0%B0%D0%B9%D1%82%D0%BE%D0%BD%20%E2%80%93%20%D0%9B%D1%96%D0%B2%D0%B5%D1%80%D0%BF%D1%83%D0%BB%D1%8C",
-        "pubdate": "Thu, 31 Oct 2024 00:00:00 +0200"
     }
 ]
