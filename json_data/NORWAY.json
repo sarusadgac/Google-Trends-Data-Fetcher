@@ -1,5 +1,10 @@
 [
     {
+        "title": "Sienna Miller",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sienna%20Miller",
+        "pubdate": "Thu, 31 Oct 2024 11:00:00 +0100"
+    },
+    {
         "title": "Scary Movie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Scary%20Movie",
         "pubdate": "Thu, 31 Oct 2024 01:00:00 +0100"
@@ -25,11 +30,6 @@
         "pubdate": "Wed, 30 Oct 2024 11:00:00 +0100"
     },
     {
-        "title": "Ekstremværet Jakob",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ekstremv%C3%A6ret%20Jakob",
-        "pubdate": "Wed, 30 Oct 2024 20:00:00 +0100"
-    },
-    {
         "title": "KFUM",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#KFUM",
         "pubdate": "Wed, 30 Oct 2024 21:00:00 +0100"
@@ -50,6 +50,11 @@
         "pubdate": "Wed, 30 Oct 2024 17:00:00 +0100"
     },
     {
+        "title": "Ekstremværet Jakob",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ekstremv%C3%A6ret%20Jakob",
+        "pubdate": "Wed, 30 Oct 2024 20:00:00 +0100"
+    },
+    {
         "title": "Channing tatum",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Channing%20tatum",
         "pubdate": "Wed, 30 Oct 2024 09:00:00 +0100"
@@ -65,6 +70,11 @@
         "pubdate": "Wed, 30 Oct 2024 00:00:00 +0100"
     },
     {
+        "title": "Bergen kommune",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bergen%20kommune",
+        "pubdate": "Wed, 30 Oct 2024 22:00:00 +0100"
+    },
+    {
         "title": "Nina Dobrev",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nina%20Dobrev",
         "pubdate": "Wed, 30 Oct 2024 20:00:00 +0100"
@@ -73,11 +83,6 @@
         "title": "Aker Solutions",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Aker%20Solutions",
         "pubdate": "Wed, 30 Oct 2024 21:00:00 +0100"
-    },
-    {
-        "title": "Malaga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Malaga",
-        "pubdate": "Wed, 30 Oct 2024 16:00:00 +0100"
     },
     {
         "title": "Sarco",
@@ -93,10 +98,5 @@
         "title": "Legionella",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Legionella",
         "pubdate": "Wed, 30 Oct 2024 08:00:00 +0100"
-    },
-    {
-        "title": "Halloween Pumpkin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Halloween%20Pumpkin",
-        "pubdate": "Wed, 30 Oct 2024 20:00:00 +0100"
     }
 ]

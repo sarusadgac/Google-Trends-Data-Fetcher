@@ -1,8 +1,18 @@
 [
     {
+        "title": "Taylor Swift",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Taylor%20Swift",
+        "pubdate": "Thu, 31 Oct 2024 00:00:00 +0100"
+    },
+    {
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Arsenal",
         "pubdate": "Thu, 31 Oct 2024 08:00:00 +0100"
+    },
+    {
+        "title": "Man utd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Man%20utd",
+        "pubdate": "Thu, 31 Oct 2024 01:00:00 +0100"
     },
     {
         "title": "Pogány Induló",
@@ -10,9 +20,9 @@
         "pubdate": "Thu, 31 Oct 2024 08:00:00 +0100"
     },
     {
-        "title": "Man utd",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Man%20utd",
-        "pubdate": "Thu, 31 Oct 2024 01:00:00 +0100"
+        "title": "Peller Anna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Peller%20Anna",
+        "pubdate": "Thu, 31 Oct 2024 11:00:00 +0100"
     },
     {
         "title": "Tottenham",
@@ -40,9 +50,9 @@
         "pubdate": "Wed, 30 Oct 2024 07:00:00 +0100"
     },
     {
-        "title": "Man utd–leicester",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Man%20utd%E2%80%93leicester",
-        "pubdate": "Wed, 30 Oct 2024 21:00:00 +0100"
+        "title": "Munkáshitel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Munk%C3%A1shitel",
+        "pubdate": "Wed, 30 Oct 2024 14:00:00 +0100"
     },
     {
         "title": "Forint euro",
@@ -52,11 +62,6 @@
     {
         "title": "Nagy Elek",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Nagy%20Elek",
-        "pubdate": "Wed, 30 Oct 2024 14:00:00 +0100"
-    },
-    {
-        "title": "Munkáshitel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Munk%C3%A1shitel",
         "pubdate": "Wed, 30 Oct 2024 14:00:00 +0100"
     },
     {
@@ -88,11 +93,6 @@
         "title": "Lakatos màrk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Lakatos%20m%C3%A0rk",
         "pubdate": "Wed, 30 Oct 2024 08:00:00 +0100"
-    },
-    {
-        "title": "Észak-Korea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%89szak-Korea",
-        "pubdate": "Wed, 30 Oct 2024 21:00:00 +0100"
     },
     {
         "title": "Ónodi Henrietta",

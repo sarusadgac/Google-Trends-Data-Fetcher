@@ -5,6 +5,16 @@
         "pubdate": "Thu, 31 Oct 2024 10:00:00 +0900"
     },
     {
+        "title": "渋谷ハロウィン",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E6%B8%8B%E8%B0%B7%E3%83%8F%E3%83%AD%E3%82%A6%E3%82%A3%E3%83%B3",
+        "pubdate": "Thu, 31 Oct 2024 11:00:00 +0900"
+    },
+    {
+        "title": "Halloween",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#Halloween",
+        "pubdate": "Thu, 31 Oct 2024 05:00:00 +0900"
+    },
+    {
         "title": "三鷹 強盗",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E4%B8%89%E9%B7%B9%20%E5%BC%B7%E7%9B%97",
         "pubdate": "Thu, 31 Oct 2024 03:00:00 +0900"
@@ -13,6 +23,11 @@
         "title": "MacBook Pro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#MacBook%20Pro",
         "pubdate": "Thu, 31 Oct 2024 14:00:00 +0900"
+    },
+    {
+        "title": "リバプール",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%AA%E3%83%90%E3%83%97%E3%83%BC%E3%83%AB",
+        "pubdate": "Thu, 31 Oct 2024 11:00:00 +0900"
     },
     {
         "title": "北口榛花",
@@ -38,11 +53,6 @@
         "title": "横浜ベイスターズ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E6%A8%AA%E6%B5%9C%E3%83%99%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA",
         "pubdate": "Wed, 30 Oct 2024 13:00:00 +0900"
-    },
-    {
-        "title": "女川原発",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%A5%B3%E5%B7%9D%E5%8E%9F%E7%99%BA",
-        "pubdate": "Wed, 30 Oct 2024 07:00:00 +0900"
     },
     {
         "title": "ベッツ",
@@ -88,15 +98,5 @@
         "title": "ヤンキース",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%A4%E3%83%B3%E3%82%AD%E3%83%BC%E3%82%B9",
         "pubdate": "Tue, 29 Oct 2024 20:00:00 +0900"
-    },
-    {
-        "title": "フリーマン",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%95%E3%83%AA%E3%83%BC%E3%83%9E%E3%83%B3",
-        "pubdate": "Tue, 29 Oct 2024 15:00:00 +0900"
-    },
-    {
-        "title": "ロドリ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%AD%E3%83%89%E3%83%AA",
-        "pubdate": "Tue, 29 Oct 2024 11:00:00 +0900"
     }
 ]
