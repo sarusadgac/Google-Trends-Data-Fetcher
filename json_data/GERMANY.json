@@ -10,11 +10,6 @@
         "pubdate": "Wed, 30 Oct 2024 22:00:00 +0100"
     },
     {
-        "title": "Freiburg – HSV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Freiburg%20%E2%80%93%20HSV",
-        "pubdate": "Wed, 30 Oct 2024 17:00:00 +0100"
-    },
-    {
         "title": "Hertha – Heidenheim",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hertha%20%E2%80%93%20Heidenheim",
         "pubdate": "Wed, 30 Oct 2024 18:00:00 +0100"
@@ -27,6 +22,11 @@
     {
         "title": "Eintracht Frankfurt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eintracht%20Frankfurt",
+        "pubdate": "Wed, 30 Oct 2024 19:00:00 +0100"
+    },
+    {
+        "title": "HSV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#HSV",
         "pubdate": "Wed, 30 Oct 2024 19:00:00 +0100"
     },
     {

@@ -45,8 +45,8 @@
         "pubdate": "Wed, 30 Oct 2024 09:00:00 +0100"
     },
     {
-        "title": "Bergen.kommune",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bergen.kommune",
+        "title": "Bergen kommune",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bergen%20kommune",
         "pubdate": "Wed, 30 Oct 2024 22:00:00 +0100"
     },
     {
@@ -63,6 +63,11 @@
         "title": "Wizards Beyond Waverly Place",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Wizards%20Beyond%20Waverly%20Place",
         "pubdate": "Wed, 30 Oct 2024 10:00:00 +0100"
+    },
+    {
+        "title": "Sarco",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sarco",
+        "pubdate": "Wed, 30 Oct 2024 12:00:00 +0100"
     },
     {
         "title": "Ekstremværet Jakob",
@@ -93,10 +98,5 @@
         "title": "Molde",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Molde",
         "pubdate": "Wed, 30 Oct 2024 21:00:00 +0100"
-    },
-    {
-        "title": "Kolstad Aalborg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kolstad%20Aalborg",
-        "pubdate": "Wed, 30 Oct 2024 22:00:00 +0100"
     }
 ]
