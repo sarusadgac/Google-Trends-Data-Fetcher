@@ -25,6 +25,11 @@
         "pubdate": "Thu, 31 Oct 2024 16:00:00 +0200"
     },
     {
+        "title": "Anora",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Anora",
+        "pubdate": "Thu, 31 Oct 2024 21:00:00 +0200"
+    },
+    {
         "title": "Op",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Op",
         "pubdate": "Wed, 30 Oct 2024 10:00:00 +0200"
@@ -93,10 +98,5 @@
         "title": "Teri Garr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Teri%20Garr",
         "pubdate": "Tue, 29 Oct 2024 22:00:00 +0200"
-    },
-    {
-        "title": "Montenegro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Montenegro",
-        "pubdate": "Tue, 29 Oct 2024 19:00:00 +0200"
     }
 ]
