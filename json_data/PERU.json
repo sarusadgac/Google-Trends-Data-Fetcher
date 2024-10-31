@@ -1,8 +1,13 @@
 [
     {
-        "title": "Vic - Atlético Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Vic%20-%20Atl%C3%A9tico%20Madrid",
+        "title": "Vic  Atlético Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Vic%20%20Atl%C3%A9tico%20Madrid",
         "pubdate": "Thu, 31 Oct 2024 13:00:00 -0500"
+    },
+    {
+        "title": "Cienciano  Unión Comercio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Cienciano%20%20Uni%C3%B3n%20Comercio",
+        "pubdate": "Thu, 31 Oct 2024 18:00:00 -0500"
     },
     {
         "title": "Dia de la cancion Criolla",
@@ -25,9 +30,9 @@
         "pubdate": "Thu, 31 Oct 2024 16:00:00 -0500"
     },
     {
-        "title": "Como  Lazio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Como%20%20Lazio",
-        "pubdate": "Thu, 31 Oct 2024 17:00:00 -0500"
+        "title": "Catrina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Catrina",
+        "pubdate": "Thu, 31 Oct 2024 06:00:00 -0500"
     },
     {
         "title": "Beetlejuice",
@@ -35,14 +40,24 @@
         "pubdate": "Thu, 31 Oct 2024 10:00:00 -0500"
     },
     {
+        "title": "Freddy Krueger",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Freddy%20Krueger",
+        "pubdate": "Thu, 31 Oct 2024 15:00:00 -0500"
+    },
+    {
         "title": "Atalanta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Atalanta",
         "pubdate": "Thu, 31 Oct 2024 14:00:00 -0500"
     },
     {
-        "title": "Freddy Krueger",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Freddy%20Krueger",
-        "pubdate": "Thu, 31 Oct 2024 15:00:00 -0500"
+        "title": "Coco",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Coco",
+        "pubdate": "Thu, 31 Oct 2024 18:00:00 -0500"
+    },
+    {
+        "title": "Chucky",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Chucky",
+        "pubdate": "Thu, 31 Oct 2024 18:00:00 -0500"
     },
     {
         "title": "Musica Criolla",
@@ -50,9 +65,19 @@
         "pubdate": "Thu, 31 Oct 2024 13:00:00 -0500"
     },
     {
+        "title": "Como - Lazio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Como%20-%20Lazio",
+        "pubdate": "Thu, 31 Oct 2024 17:00:00 -0500"
+    },
+    {
         "title": "Premier",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Premier",
         "pubdate": "Thu, 31 Oct 2024 02:00:00 -0500"
+    },
+    {
+        "title": "It",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#It",
+        "pubdate": "Thu, 31 Oct 2024 18:00:00 -0500"
     },
     {
         "title": "Ayacucho FC",
@@ -60,9 +85,9 @@
         "pubdate": "Thu, 31 Oct 2024 11:00:00 -0500"
     },
     {
-        "title": "Al-Ittihad  Al-Ahli Saudi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Al-Ittihad%20%20Al-Ahli%20Saudi",
-        "pubdate": "Thu, 31 Oct 2024 16:00:00 -0500"
+        "title": "Ontiñena  UD Las Palmas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Onti%C3%B1ena%20%20UD%20Las%20Palmas",
+        "pubdate": "Thu, 31 Oct 2024 18:00:00 -0500"
     },
     {
         "title": "Katrina",
@@ -73,30 +98,5 @@
         "title": "Jason",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Jason",
         "pubdate": "Thu, 31 Oct 2024 16:00:00 -0500"
-    },
-    {
-        "title": "Interbank",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Interbank",
-        "pubdate": "Wed, 30 Oct 2024 13:00:00 -0500"
-    },
-    {
-        "title": "Tottenham  Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Tottenham%20%20Manchester%20City",
-        "pubdate": "Wed, 30 Oct 2024 15:00:00 -0500"
-    },
-    {
-        "title": "Halloween",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Halloween",
-        "pubdate": "Wed, 30 Oct 2024 14:00:00 -0500"
-    },
-    {
-        "title": "Valencia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Valencia",
-        "pubdate": "Wed, 30 Oct 2024 05:00:00 -0500"
-    },
-    {
-        "title": "Newcastle  Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Newcastle%20%20Chelsea",
-        "pubdate": "Wed, 30 Oct 2024 15:00:00 -0500"
     }
 ]

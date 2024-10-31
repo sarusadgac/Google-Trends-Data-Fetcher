@@ -1,5 +1,40 @@
 [
     {
+        "title": "Beetlejuice",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Beetlejuice",
+        "pubdate": "Fri, 01 Nov 2024 00:00:00 +0100"
+    },
+    {
+        "title": "Hocus Pocus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Hocus%20Pocus",
+        "pubdate": "Fri, 01 Nov 2024 00:00:00 +0100"
+    },
+    {
+        "title": "Dia de Todos los Santos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Dia%20de%20Todos%20los%20Santos",
+        "pubdate": "Fri, 01 Nov 2024 00:00:00 +0100"
+    },
+    {
+        "title": "Miguel Burdeos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Miguel%20Burdeos",
+        "pubdate": "Fri, 01 Nov 2024 00:00:00 +0100"
+    },
+    {
+        "title": "UD Las Palmas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#UD%20Las%20Palmas",
+        "pubdate": "Fri, 01 Nov 2024 00:00:00 +0100"
+    },
+    {
+        "title": "Michael Myers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Michael%20Myers",
+        "pubdate": "Fri, 01 Nov 2024 00:00:00 +0100"
+    },
+    {
+        "title": "Dia de los Muertos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Dia%20de%20los%20Muertos",
+        "pubdate": "Fri, 01 Nov 2024 00:00:00 +0100"
+    },
+    {
         "title": "Carlos Alcaraz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Carlos%20Alcaraz",
         "pubdate": "Thu, 31 Oct 2024 20:00:00 +0100"
@@ -25,29 +60,14 @@
         "pubdate": "Thu, 31 Oct 2024 18:00:00 +0100"
     },
     {
-        "title": "Jove Español  Real Sociedad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Jove%20Espa%C3%B1ol%20%20Real%20Sociedad",
-        "pubdate": "Thu, 31 Oct 2024 20:00:00 +0100"
-    },
-    {
         "title": "Real Ávila  Real Oviedo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Real%20%C3%81vila%20%20Real%20Oviedo",
         "pubdate": "Thu, 31 Oct 2024 21:00:00 +0100"
     },
     {
-        "title": "Donald Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Donald%20Trump",
-        "pubdate": "Thu, 31 Oct 2024 03:00:00 +0100"
-    },
-    {
-        "title": "Hotel Dubrovnik Villa Gesell derrumbe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Hotel%20Dubrovnik%20Villa%20Gesell%20derrumbe",
-        "pubdate": "Thu, 31 Oct 2024 11:00:00 +0100"
-    },
-    {
-        "title": "Maccabi Tel Aviv - Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Maccabi%20Tel%20Aviv%20-%20Real%20Madrid",
-        "pubdate": "Thu, 31 Oct 2024 21:00:00 +0100"
+        "title": "Jove Español  Real Sociedad",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Jove%20Espa%C3%B1ol%20%20Real%20Sociedad",
+        "pubdate": "Thu, 31 Oct 2024 20:00:00 +0100"
     },
     {
         "title": "Ana Guerra",
@@ -55,14 +75,14 @@
         "pubdate": "Thu, 31 Oct 2024 19:00:00 +0100"
     },
     {
-        "title": "Apocalipsis Z",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Apocalipsis%20Z",
-        "pubdate": "Thu, 31 Oct 2024 11:00:00 +0100"
+        "title": "Donald Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Donald%20Trump",
+        "pubdate": "Thu, 31 Oct 2024 03:00:00 +0100"
     },
     {
-        "title": "Belén Esteban",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Bel%C3%A9n%20Esteban",
-        "pubdate": "Thu, 31 Oct 2024 23:00:00 +0100"
+        "title": "Hotel Dubrovnik Villa Gesell Derrumbe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Hotel%20Dubrovnik%20Villa%20Gesell%20Derrumbe",
+        "pubdate": "Thu, 31 Oct 2024 11:00:00 +0100"
     },
     {
         "title": "Estepona  Málaga",
@@ -70,33 +90,13 @@
         "pubdate": "Thu, 31 Oct 2024 22:00:00 +0100"
     },
     {
-        "title": "Chucky",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Chucky",
-        "pubdate": "Thu, 31 Oct 2024 16:00:00 +0100"
-    },
-    {
         "title": "Cruz Roja",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Cruz%20Roja",
         "pubdate": "Thu, 31 Oct 2024 00:00:00 +0100"
     },
     {
-        "title": "Truco o trato",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Truco%20o%20trato",
-        "pubdate": "Thu, 31 Oct 2024 19:00:00 +0100"
-    },
-    {
-        "title": "Alexander Zverev",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Alexander%20Zverev",
-        "pubdate": "Thu, 31 Oct 2024 19:00:00 +0100"
-    },
-    {
-        "title": "Monasterio de Piedra",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Monasterio%20de%20Piedra",
-        "pubdate": "Thu, 31 Oct 2024 15:00:00 +0100"
-    },
-    {
-        "title": "Luce mascota Vaticano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Luce%20mascota%20Vaticano",
-        "pubdate": "Thu, 31 Oct 2024 03:00:00 +0100"
+        "title": "Apocalipsis Z",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Apocalipsis%20Z",
+        "pubdate": "Thu, 31 Oct 2024 11:00:00 +0100"
     }
 ]
