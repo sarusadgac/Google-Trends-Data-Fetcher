@@ -10,6 +10,11 @@
         "pubdate": "Thu, 31 Oct 2024 01:00:00 +0200"
     },
     {
+        "title": "Diwali",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Diwali",
+        "pubdate": "Thu, 31 Oct 2024 10:00:00 +0200"
+    },
+    {
         "title": "Op",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Op",
         "pubdate": "Wed, 30 Oct 2024 10:00:00 +0200"
@@ -93,10 +98,5 @@
         "title": "Ruben Amorim",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Ruben%20Amorim",
         "pubdate": "Tue, 29 Oct 2024 07:00:00 +0200"
-    },
-    {
-        "title": "Matilde Lorenzi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Matilde%20Lorenzi",
-        "pubdate": "Tue, 29 Oct 2024 16:00:00 +0200"
     }
 ]
