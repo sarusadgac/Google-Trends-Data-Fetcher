@@ -1,5 +1,10 @@
 [
     {
+        "title": "Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Manchester%20United",
+        "pubdate": "Thu, 31 Oct 2024 01:00:00 +0200"
+    },
+    {
         "title": "Kai Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Kai%20Trump",
         "pubdate": "Thu, 31 Oct 2024 00:00:00 +0200"
@@ -17,7 +22,7 @@
     {
         "title": "Halloween",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Halloween",
-        "pubdate": "Wed, 30 Oct 2024 22:00:00 +0200"
+        "pubdate": "Wed, 30 Oct 2024 20:00:00 +0200"
     },
     {
         "title": "Tottenham  Man City",
@@ -25,14 +30,14 @@
         "pubdate": "Wed, 30 Oct 2024 21:00:00 +0200"
     },
     {
-        "title": "Juventus - Parma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Juventus%20-%20Parma",
-        "pubdate": "Wed, 30 Oct 2024 22:00:00 +0200"
-    },
-    {
         "title": "Altex Black Friday",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Altex%20Black%20Friday",
         "pubdate": "Wed, 30 Oct 2024 20:00:00 +0200"
+    },
+    {
+        "title": "Juventus - Parma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Juventus%20-%20Parma",
+        "pubdate": "Wed, 30 Oct 2024 22:00:00 +0200"
     },
     {
         "title": "Unirea Alba Iulia  Sepsi",
@@ -65,8 +70,8 @@
         "pubdate": "Wed, 30 Oct 2024 17:00:00 +0200"
     },
     {
-        "title": "Serie a",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Serie%20a",
+        "title": "Serie A",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Serie%20A",
         "pubdate": "Wed, 30 Oct 2024 14:00:00 +0200"
     },
     {
@@ -93,10 +98,5 @@
         "title": "Al Nassr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Al%20Nassr",
         "pubdate": "Wed, 30 Oct 2024 12:00:00 +0200"
-    },
-    {
-        "title": "Steaua",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Steaua",
-        "pubdate": "Wed, 30 Oct 2024 23:00:00 +0200"
     }
 ]
