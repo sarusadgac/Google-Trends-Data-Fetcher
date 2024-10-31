@@ -35,6 +35,11 @@
         "pubdate": "Thu, 31 Oct 2024 00:00:00 +0100"
     },
     {
+        "title": "Luis Zamalloa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Luis%20Zamalloa",
+        "pubdate": "Thu, 31 Oct 2024 01:00:00 +0100"
+    },
+    {
         "title": "Luce mascota Vaticano",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Luce%20mascota%20Vaticano",
         "pubdate": "Thu, 31 Oct 2024 03:00:00 +0100"
@@ -60,6 +65,11 @@
         "pubdate": "Wed, 30 Oct 2024 21:00:00 +0100"
     },
     {
+        "title": "ELPAIS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#ELPAIS",
+        "pubdate": "Wed, 30 Oct 2024 08:00:00 +0100"
+    },
+    {
         "title": "Noticias hoy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Noticias%20hoy",
         "pubdate": "Wed, 30 Oct 2024 12:00:00 +0100"
@@ -68,11 +78,6 @@
         "title": "Las Rozas  Sevilla",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Las%20Rozas%20%20Sevilla",
         "pubdate": "Wed, 30 Oct 2024 19:00:00 +0100"
-    },
-    {
-        "title": "Elpais",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Elpais",
-        "pubdate": "Wed, 30 Oct 2024 14:00:00 +0100"
     },
     {
         "title": "EL PAÍS",
@@ -93,10 +98,5 @@
         "title": "Chiclana - Osasuna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Chiclana%20-%20Osasuna",
         "pubdate": "Wed, 30 Oct 2024 19:00:00 +0100"
-    },
-    {
-        "title": "Grecia Castta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Grecia%20Castta",
-        "pubdate": "Wed, 30 Oct 2024 11:00:00 +0100"
     }
 ]
