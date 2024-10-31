@@ -1,16 +1,15 @@
 Interbank
 Halloween
 Juventus vs
-Valencia
-Newcastle  Chelsea
-Mainz 05  Bayern
 Manchester United  Leicester City
-Aston Villa  Crystal Palace
+Valencia
+Mainz 05  Bayern
+Newcastle  Chelsea
 Brighton  Liverpool
-Lanus vs
-Chelsea vs
-Empoli - Inter
+Lanús  Cruzeiro
+Aston Villa  Crystal Palace
 Manchester United
+Empoli - Inter
 Al Nassr
 Preston  Arsenal
 Las Rozas  Sevilla
@@ -18,3 +17,4 @@ Extremadura - Girona
 UD San Pedro  Celta de Vigo
 Atalanta - Monza
 Ciudad de Lucena  Leganés
+Feriado 31 de octubre
