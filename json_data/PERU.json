@@ -1,8 +1,13 @@
 [
     {
-        "title": "Dia de la cancion criolla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Dia%20de%20la%20cancion%20criolla",
+        "title": "Dia de la cancion Criolla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Dia%20de%20la%20cancion%20Criolla",
         "pubdate": "Thu, 31 Oct 2024 07:00:00 -0500"
+    },
+    {
+        "title": "31 de octubre es feriado",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#31%20de%20octubre%20es%20feriado",
+        "pubdate": "Thu, 31 Oct 2024 05:00:00 -0500"
     },
     {
         "title": "Interbank",
@@ -93,10 +98,5 @@
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Arsenal",
         "pubdate": "Wed, 30 Oct 2024 17:00:00 -0500"
-    },
-    {
-        "title": "UD San Pedro  Celta de Vigo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#UD%20San%20Pedro%20%20Celta%20de%20Vigo",
-        "pubdate": "Wed, 30 Oct 2024 18:00:00 -0500"
     }
 ]
