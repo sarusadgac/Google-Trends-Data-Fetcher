@@ -1,10 +1,5 @@
 [
     {
-        "title": "Poitiers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Poitiers",
-        "pubdate": "Fri, 01 Nov 2024 10:00:00 +0100"
-    },
-    {
         "title": "Young Thug",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Young%20Thug",
         "pubdate": "Fri, 01 Nov 2024 00:00:00 +0000"
@@ -25,14 +20,19 @@
         "pubdate": "Fri, 01 Nov 2024 02:00:00 +0300"
     },
     {
+        "title": "Govardhan Puja 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Govardhan%20Puja%202024",
+        "pubdate": "Fri, 01 Nov 2024 00:30:00 +0530"
+    },
+    {
         "title": "Coca-Cola Rückruf",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Coca-Cola%20R%C3%BCckruf",
         "pubdate": "Fri, 01 Nov 2024 14:00:00 +0100"
     },
     {
-        "title": "Govardhan Puja 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Govardhan%20Puja%202024",
-        "pubdate": "Fri, 01 Nov 2024 00:30:00 +0530"
+        "title": "Poitiers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Poitiers",
+        "pubdate": "Fri, 01 Nov 2024 10:00:00 +0100"
     },
     {
         "title": "自転車 罰則",
@@ -40,19 +40,29 @@
         "pubdate": "Fri, 01 Nov 2024 08:00:00 +0900"
     },
     {
-        "title": "Botswana elections",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Botswana%20elections",
-        "pubdate": "Fri, 01 Nov 2024 01:00:00 +0200"
-    },
-    {
-        "title": "날씨",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%82%A0%EC%94%A8",
-        "pubdate": "Fri, 01 Nov 2024 10:00:00 +0900"
-    },
-    {
         "title": "Día de Muertos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#D%C3%ADa%20de%20Muertos",
         "pubdate": "Fri, 01 Nov 2024 01:00:00 -0300"
+    },
+    {
+        "title": "Miss Universe 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Miss%20Universe%202024",
+        "pubdate": "Fri, 01 Nov 2024 08:00:00 +0200"
+    },
+    {
+        "title": "Ελλαδα αγγλια εισητηρια",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%95%CE%BB%CE%BB%CE%B1%CE%B4%CE%B1%20%CE%B1%CE%B3%CE%B3%CE%BB%CE%B9%CE%B1%20%CE%B5%CE%B9%CF%83%CE%B7%CF%84%CE%B7%CF%81%CE%B9%CE%B1",
+        "pubdate": "Fri, 01 Nov 2024 02:00:00 +0200"
+    },
+    {
+        "title": "England vs West Indies",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#England%20vs%20West%20Indies",
+        "pubdate": "Fri, 01 Nov 2024 03:00:00 +0800"
+    },
+    {
+        "title": "Akın Gürlek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ak%C4%B1n%20G%C3%BCrlek",
+        "pubdate": "Fri, 01 Nov 2024 17:00:00 +0300"
     },
     {
         "title": "Tangen dyrepark",
@@ -60,43 +70,33 @@
         "pubdate": "Fri, 01 Nov 2024 10:00:00 +0100"
     },
     {
-        "title": "Persib",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Persib",
-        "pubdate": "Fri, 01 Nov 2024 09:00:00 +0700"
+        "title": "نوح زعيتر",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#%D9%86%D9%88%D8%AD%20%D8%B2%D8%B9%D9%8A%D8%AA%D8%B1",
+        "pubdate": "Fri, 01 Nov 2024 07:00:00 +0300"
     },
     {
-        "title": "Heidi Klum",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Heidi%20Klum",
-        "pubdate": "Fri, 01 Nov 2024 07:00:00 +0100"
+        "title": "Terrifier 3",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Terrifier%203",
+        "pubdate": "Fri, 01 Nov 2024 00:00:00 +0000"
     },
     {
-        "title": "Her",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Her",
-        "pubdate": "Fri, 01 Nov 2024 02:00:00 +0200"
+        "title": "November",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#November",
+        "pubdate": "Fri, 01 Nov 2024 01:00:00 +0100"
+    },
+    {
+        "title": "Pavel Zedníček",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Pavel%20Zedn%C3%AD%C4%8Dek",
+        "pubdate": "Fri, 01 Nov 2024 11:00:00 +0100"
+    },
+    {
+        "title": "YOASOBI 演唱會",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#YOASOBI%20%E6%BC%94%E5%94%B1%E6%9C%83",
+        "pubdate": "Fri, 01 Nov 2024 10:00:00 +0800"
     },
     {
         "title": "Noviembre",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Noviembre",
         "pubdate": "Fri, 01 Nov 2024 08:00:00 -0600"
-    },
-    {
-        "title": "Sergio Freire",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Sergio%20Freire",
-        "pubdate": "Fri, 01 Nov 2024 09:00:00 -0300"
-    },
-    {
-        "title": "Bhool Bhulaiyaa 3",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Bhool%20Bhulaiyaa%203",
-        "pubdate": "Sat, 02 Nov 2024 02:00:00 +1300"
-    },
-    {
-        "title": "Heidi Klum halloween",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Heidi%20Klum%20halloween",
-        "pubdate": "Fri, 01 Nov 2024 08:00:00 +0100"
-    },
-    {
-        "title": "November 1 holiday",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#November%201%20holiday",
-        "pubdate": "Fri, 01 Nov 2024 08:00:00 +0800"
     }
 ]
