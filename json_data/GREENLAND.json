@@ -1,28 +1,8 @@
 [
     {
         "title": "Young Thug",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Young%20Thug",
-        "pubdate": "Fri, 01 Nov 2024 00:00:00 +0000"
-    },
-    {
-        "title": "Dragon Age Veilguard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Dragon%20Age%20Veilguard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Young%20Thug",
         "pubdate": "Fri, 01 Nov 2024 02:00:00 +0100"
-    },
-    {
-        "title": "Jets",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jets",
-        "pubdate": "Thu, 31 Oct 2024 14:00:00 -0700"
-    },
-    {
-        "title": "Stefan Raab",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Stefan%20Raab",
-        "pubdate": "Thu, 31 Oct 2024 20:00:00 +0100"
-    },
-    {
-        "title": "林夏薇",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E6%9E%97%E5%A4%8F%E8%96%87",
-        "pubdate": "Fri, 01 Nov 2024 14:00:00 +0800"
     },
     {
         "title": "Govardhan Puja 2024",
@@ -30,9 +10,9 @@
         "pubdate": "Fri, 01 Nov 2024 00:30:00 +0530"
     },
     {
-        "title": "自転車 罰則",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E8%87%AA%E8%BB%A2%E8%BB%8A%20%E7%BD%B0%E5%89%87",
-        "pubdate": "Fri, 01 Nov 2024 08:00:00 +0900"
+        "title": "林夏薇",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E6%9E%97%E5%A4%8F%E8%96%87",
+        "pubdate": "Fri, 01 Nov 2024 14:00:00 +0800"
     },
     {
         "title": "1 ноября праздник",
@@ -40,19 +20,24 @@
         "pubdate": "Fri, 01 Nov 2024 02:00:00 +0300"
     },
     {
-        "title": "England vs West Indies",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#England%20vs%20West%20Indies",
-        "pubdate": "Fri, 01 Nov 2024 03:00:00 +0800"
+        "title": "Suns vs Clippers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Suns%20vs%20Clippers",
+        "pubdate": "Fri, 01 Nov 2024 00:00:00 -0700"
     },
     {
-        "title": "Día de Muertos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#D%C3%ADa%20de%20Muertos",
-        "pubdate": "Fri, 01 Nov 2024 01:00:00 -0300"
+        "title": "Diwali",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Diwali",
+        "pubdate": "Thu, 31 Oct 2024 09:00:00 +0000"
     },
     {
-        "title": "Romina Malaspina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Romina%20Malaspina",
-        "pubdate": "Fri, 01 Nov 2024 00:00:00 -0600"
+        "title": "自転車 罰則 11月",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E8%87%AA%E8%BB%A2%E8%BB%8A%20%E7%BD%B0%E5%89%87%2011%E6%9C%88",
+        "pubdate": "Fri, 01 Nov 2024 08:00:00 +0900"
+    },
+    {
+        "title": "Allerheiligen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Allerheiligen",
+        "pubdate": "Thu, 31 Oct 2024 19:00:00 +0100"
     },
     {
         "title": "날씨",
@@ -60,29 +45,29 @@
         "pubdate": "Fri, 01 Nov 2024 10:00:00 +0900"
     },
     {
-        "title": "חנתון",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%97%D7%A0%D7%AA%D7%95%D7%9F",
-        "pubdate": "Fri, 01 Nov 2024 00:00:00 +0200"
+        "title": "GOG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#GOG",
+        "pubdate": "Fri, 01 Nov 2024 01:00:00 -0500"
     },
     {
-        "title": "Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Man%20City",
-        "pubdate": "Fri, 01 Nov 2024 07:00:00 +1100"
+        "title": "Genoa vs Fiorentina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Genoa%20vs%20Fiorentina",
+        "pubdate": "Fri, 01 Nov 2024 00:00:00 +0700"
     },
     {
-        "title": "Day of the Dead",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Day%20of%20the%20Dead",
-        "pubdate": "Fri, 01 Nov 2024 01:00:00 -0400"
+        "title": "Terrifier 3",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Terrifier%203",
+        "pubdate": "Fri, 01 Nov 2024 00:00:00 +0000"
     },
     {
-        "title": "دوري روشن السعودي",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#%D8%AF%D9%88%D8%B1%D9%8A%20%D8%B1%D9%88%D8%B4%D9%86%20%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A",
-        "pubdate": "Fri, 01 Nov 2024 00:00:00 +0300"
+        "title": "The Substance",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#The%20Substance",
+        "pubdate": "Fri, 01 Nov 2024 00:00:00 +0100"
     },
     {
-        "title": "YOASOBI 演唱會",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#YOASOBI%20%E6%BC%94%E5%94%B1%E6%9C%83",
-        "pubdate": "Fri, 01 Nov 2024 11:00:00 +0800"
+        "title": "Zuru",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Zuru",
+        "pubdate": "Fri, 01 Nov 2024 02:00:00 +1300"
     },
     {
         "title": "ทนายธรรมราช",
@@ -90,13 +75,28 @@
         "pubdate": "Fri, 01 Nov 2024 11:00:00 +0700"
     },
     {
-        "title": "Carabao Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Carabao%20Cup",
-        "pubdate": "Thu, 31 Oct 2024 01:00:00 +0200"
+        "title": "Zabka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Zabka",
+        "pubdate": "Fri, 01 Nov 2024 08:00:00 +0100"
     },
     {
-        "title": "Profiteroles",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Profiteroles",
-        "pubdate": "Fri, 01 Nov 2024 00:00:00 -0300"
+        "title": "Ολυμπιακοσ μπασκετ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%9F%CE%BB%CF%85%CE%BC%CF%80%CE%B9%CE%B1%CE%BA%CE%BF%CF%83%20%CE%BC%CF%80%CE%B1%CF%83%CE%BA%CE%B5%CF%84",
+        "pubdate": "Fri, 01 Nov 2024 00:00:00 +0200"
+    },
+    {
+        "title": "Día de Muertos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#D%C3%ADa%20de%20Muertos",
+        "pubdate": "Fri, 01 Nov 2024 01:00:00 -0500"
+    },
+    {
+        "title": "YOASOBI 演唱會",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#YOASOBI%20%E6%BC%94%E5%94%B1%E6%9C%83",
+        "pubdate": "Fri, 01 Nov 2024 10:00:00 +0800"
+    },
+    {
+        "title": "Deportes concepcion",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Deportes%20concepcion",
+        "pubdate": "Thu, 31 Oct 2024 12:00:00 -0300"
     }
 ]
