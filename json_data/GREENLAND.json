@@ -1,18 +1,18 @@
 [
     {
-        "title": "Steam",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#Steam",
-        "pubdate": "Fri, 01 Nov 2024 18:00:00 +0300"
-    },
-    {
-        "title": "Govardhan Puja 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Govardhan%20Puja%202024",
-        "pubdate": "Fri, 01 Nov 2024 00:30:00 +0530"
-    },
-    {
         "title": "ゴジラ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%82%B4%E3%82%B8%E3%83%A9",
         "pubdate": "Fri, 01 Nov 2024 22:00:00 +0900"
+    },
+    {
+        "title": "Poitiers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Poitiers",
+        "pubdate": "Fri, 01 Nov 2024 10:00:00 +0100"
+    },
+    {
+        "title": "Steam",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#Steam",
+        "pubdate": "Fri, 01 Nov 2024 18:00:00 +0300"
     },
     {
         "title": "Leverkusen – VfB Stuttgart",
@@ -25,39 +25,54 @@
         "pubdate": "Fri, 01 Nov 2024 13:00:00 -0700"
     },
     {
+        "title": "太空油",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%A4%AA%E7%A9%BA%E6%B2%B9",
+        "pubdate": "Sat, 02 Nov 2024 00:00:00 +0800"
+    },
+    {
+        "title": "Govardhan Puja 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Govardhan%20Puja%202024",
+        "pubdate": "Fri, 01 Nov 2024 00:30:00 +0530"
+    },
+    {
         "title": "I'm A Celeb 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#I'm%20A%20Celeb%202024",
         "pubdate": "Fri, 01 Nov 2024 18:00:00 +0000"
     },
     {
-        "title": "Poitiers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Poitiers",
-        "pubdate": "Fri, 01 Nov 2024 10:00:00 +0100"
+        "title": "Ελλαδα αγγλια εισητηρια",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%95%CE%BB%CE%BB%CE%B1%CE%B4%CE%B1%20%CE%B1%CE%B3%CE%B3%CE%BB%CE%B9%CE%B1%20%CE%B5%CE%B9%CF%83%CE%B7%CF%84%CE%B7%CF%81%CE%B9%CE%B1",
+        "pubdate": "Fri, 01 Nov 2024 02:00:00 +0200"
     },
     {
-        "title": "聖方濟各大學",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E8%81%96%E6%96%B9%E6%BF%9F%E5%90%84%E5%A4%A7%E5%AD%B8",
-        "pubdate": "Fri, 01 Nov 2024 14:00:00 +0800"
+        "title": "الاهلي",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#%D8%A7%D9%84%D8%A7%D9%87%D9%84%D9%8A",
+        "pubdate": "Fri, 01 Nov 2024 02:00:00 +0300"
     },
     {
-        "title": "Young Thug",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Young%20Thug",
-        "pubdate": "Fri, 01 Nov 2024 08:00:00 +0300"
+        "title": "Svennis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Svennis",
+        "pubdate": "Fri, 01 Nov 2024 22:00:00 +0100"
     },
     {
-        "title": "MotoGp",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#MotoGp",
-        "pubdate": "Fri, 01 Nov 2024 06:00:00 +0100"
+        "title": "Botswana elections",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Botswana%20elections",
+        "pubdate": "Fri, 01 Nov 2024 01:00:00 +0200"
     },
     {
-        "title": "Al-nassr vs al-hilal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Al-nassr%20vs%20al-hilal",
-        "pubdate": "Fri, 01 Nov 2024 19:00:00 +0100"
+        "title": "Sánta László",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#S%C3%A1nta%20L%C3%A1szl%C3%B3",
+        "pubdate": "Fri, 01 Nov 2024 07:00:00 +0100"
     },
     {
-        "title": "Sporting-Estrela",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sporting-Estrela",
-        "pubdate": "Fri, 01 Nov 2024 01:00:00 +0000"
+        "title": "Danse Macabre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Danse%20Macabre",
+        "pubdate": "Fri, 01 Nov 2024 00:00:00 +0100"
+    },
+    {
+        "title": "Unfall Regensdorf",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Unfall%20Regensdorf",
+        "pubdate": "Fri, 01 Nov 2024 00:00:00 +0100"
     },
     {
         "title": "Alaves",
@@ -65,38 +80,23 @@
         "pubdate": "Fri, 01 Nov 2024 21:00:00 +0100"
     },
     {
-        "title": "Pauline Hanson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Pauline%20Hanson",
-        "pubdate": "Sat, 02 Nov 2024 08:00:00 +1300"
+        "title": "Холостяк 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=UA#%D0%A5%D0%BE%D0%BB%D0%BE%D1%81%D1%82%D1%8F%D0%BA%202024",
+        "pubdate": "Fri, 01 Nov 2024 11:00:00 +0200"
     },
     {
-        "title": "劉樂妍",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%8A%89%E6%A8%82%E5%A6%8D",
-        "pubdate": "Sat, 02 Nov 2024 00:00:00 +0800"
+        "title": "Día de Muertos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#D%C3%ADa%20de%20Muertos",
+        "pubdate": "Fri, 01 Nov 2024 01:00:00 -0500"
     },
     {
-        "title": "Unfall Regensdorf",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Unfall%20Regensdorf",
-        "pubdate": "Fri, 01 Nov 2024 05:00:00 +0100"
-    },
-    {
-        "title": "ChatGPT search engine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#ChatGPT%20search%20engine",
-        "pubdate": "Sat, 02 Nov 2024 00:00:00 +0800"
-    },
-    {
-        "title": "Day of the Dead",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Day%20of%20the%20Dead",
-        "pubdate": "Fri, 01 Nov 2024 01:00:00 -0400"
+        "title": "Sergio Freire",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Sergio%20Freire",
+        "pubdate": "Fri, 01 Nov 2024 09:00:00 -0300"
     },
     {
         "title": "Al-Nassr  Al Hilal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Al-Nassr%20%20Al%20Hilal",
-        "pubdate": "Fri, 01 Nov 2024 13:00:00 -0500"
-    },
-    {
-        "title": "Heidi Klum",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Heidi%20Klum",
-        "pubdate": "Fri, 01 Nov 2024 11:00:00 +0100"
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Al-Nassr%20%20Al%20Hilal",
+        "pubdate": "Fri, 01 Nov 2024 12:00:00 -0600"
     }
 ]
