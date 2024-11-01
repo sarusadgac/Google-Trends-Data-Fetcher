@@ -65,11 +65,6 @@
         "pubdate": "Thu, 31 Oct 2024 10:00:00 +0100"
     },
     {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Arsenal",
-        "pubdate": "Thu, 31 Oct 2024 11:00:00 +0100"
-    },
-    {
         "title": "Pennywise",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Pennywise",
         "pubdate": "Thu, 31 Oct 2024 16:00:00 +0100"
@@ -98,5 +93,10 @@
         "title": "Happy Halloween",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Happy%20Halloween",
         "pubdate": "Thu, 31 Oct 2024 18:00:00 +0100"
+    },
+    {
+        "title": "North West",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#North%20West",
+        "pubdate": "Thu, 31 Oct 2024 22:00:00 +0100"
     }
 ]
