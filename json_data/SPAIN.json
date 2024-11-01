@@ -10,6 +10,11 @@
         "pubdate": "Fri, 01 Nov 2024 00:00:00 +0100"
     },
     {
+        "title": "Miguel Burdeos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Miguel%20Burdeos",
+        "pubdate": "Fri, 01 Nov 2024 00:00:00 +0100"
+    },
+    {
         "title": "Horizonte",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Horizonte",
         "pubdate": "Fri, 01 Nov 2024 02:00:00 +0100"
@@ -17,11 +22,6 @@
     {
         "title": "Dia de Todos los Santos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Dia%20de%20Todos%20los%20Santos",
-        "pubdate": "Fri, 01 Nov 2024 00:00:00 +0100"
-    },
-    {
-        "title": "Miguel Burdeos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Miguel%20Burdeos",
         "pubdate": "Fri, 01 Nov 2024 00:00:00 +0100"
     },
     {
@@ -55,18 +55,13 @@
         "pubdate": "Fri, 01 Nov 2024 01:00:00 +0100"
     },
     {
-        "title": "Feijoo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Feijoo",
-        "pubdate": "Fri, 01 Nov 2024 02:00:00 +0100"
-    },
-    {
         "title": "Carlos Alcaraz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Carlos%20Alcaraz",
         "pubdate": "Thu, 31 Oct 2024 20:00:00 +0100"
     },
     {
-        "title": "Gévora - Betis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#G%C3%A9vora%20-%20Betis",
+        "title": "Gévora  Betis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#G%C3%A9vora%20%20Betis",
         "pubdate": "Thu, 31 Oct 2024 21:00:00 +0100"
     },
     {
@@ -95,8 +90,13 @@
         "pubdate": "Thu, 31 Oct 2024 21:00:00 +0100"
     },
     {
-        "title": "Jove Español  Real Sociedad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Jove%20Espa%C3%B1ol%20%20Real%20Sociedad",
-        "pubdate": "Thu, 31 Oct 2024 20:00:00 +0100"
+        "title": "Amancio Ortega",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Amancio%20Ortega",
+        "pubdate": "Thu, 31 Oct 2024 23:00:00 +0100"
+    },
+    {
+        "title": "Hotel Dubrovnik Villa Gesell derrumbe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Hotel%20Dubrovnik%20Villa%20Gesell%20derrumbe",
+        "pubdate": "Thu, 31 Oct 2024 11:00:00 +0100"
     }
 ]

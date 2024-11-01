@@ -35,19 +35,19 @@
         "pubdate": "Thu, 31 Oct 2024 11:00:00 +0100"
     },
     {
-        "title": "Knask-eller-knep",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Knask-eller-knep",
+        "title": "Knask eller knep",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Knask%20eller%20knep",
         "pubdate": "Thu, 31 Oct 2024 01:00:00 +0100"
-    },
-    {
-        "title": "Margaret Atwood",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Margaret%20Atwood",
-        "pubdate": "Thu, 31 Oct 2024 20:00:00 +0100"
     },
     {
         "title": "Silje Sandmæl",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Silje%20Sandm%C3%A6l",
         "pubdate": "Thu, 31 Oct 2024 14:00:00 +0100"
+    },
+    {
+        "title": "Margaret Atwood",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Margaret%20Atwood",
+        "pubdate": "Thu, 31 Oct 2024 20:00:00 +0100"
     },
     {
         "title": "Alexandra Joner",
@@ -80,6 +80,11 @@
         "pubdate": "Thu, 31 Oct 2024 22:00:00 +0100"
     },
     {
+        "title": "Bygdanytt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bygdanytt",
+        "pubdate": "Thu, 31 Oct 2024 18:00:00 +0100"
+    },
+    {
         "title": "Mette-Marit",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Mette-Marit",
         "pubdate": "Thu, 31 Oct 2024 15:00:00 +0100"
@@ -93,10 +98,5 @@
         "title": "Ed Westwick",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ed%20Westwick",
         "pubdate": "Thu, 31 Oct 2024 21:00:00 +0100"
-    },
-    {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Manchester%20United",
-        "pubdate": "Wed, 30 Oct 2024 22:00:00 +0100"
     }
 ]

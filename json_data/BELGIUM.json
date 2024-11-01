@@ -10,11 +10,6 @@
         "pubdate": "Fri, 01 Nov 2024 00:00:00 +0100"
     },
     {
-        "title": "Young Thug",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Young%20Thug",
-        "pubdate": "Fri, 01 Nov 2024 05:00:00 +0100"
-    },
-    {
         "title": "Antwerp",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Antwerp",
         "pubdate": "Thu, 31 Oct 2024 19:00:00 +0100"
@@ -73,6 +68,11 @@
         "title": "Donald Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Donald%20Trump",
         "pubdate": "Thu, 31 Oct 2024 18:00:00 +0100"
+    },
+    {
+        "title": "1 november",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#1%20november",
+        "pubdate": "Thu, 31 Oct 2024 22:00:00 +0100"
     },
     {
         "title": "Ets",
