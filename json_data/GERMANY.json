@@ -5,11 +5,6 @@
         "pubdate": "Fri, 01 Nov 2024 09:00:00 +0100"
     },
     {
-        "title": "Heidi Klum Halloween",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Heidi%20Klum%20Halloween",
-        "pubdate": "Thu, 31 Oct 2024 16:00:00 +0100"
-    },
-    {
         "title": "Allerheiligen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Allerheiligen",
         "pubdate": "Thu, 31 Oct 2024 19:00:00 +0100"
@@ -98,5 +93,10 @@
         "title": "Frankfurt Marathon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Frankfurt%20Marathon",
         "pubdate": "Sat, 26 Oct 2024 23:00:00 +0200"
+    },
+    {
+        "title": "Israel Iran",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Israel%20Iran",
+        "pubdate": "Sat, 26 Oct 2024 09:00:00 +0200"
     }
 ]
