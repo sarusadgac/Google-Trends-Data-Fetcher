@@ -1,23 +1,8 @@
 [
     {
-        "title": "Lille Lyon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Lille%20Lyon",
-        "pubdate": "Fri, 01 Nov 2024 21:00:00 +0100"
-    },
-    {
-        "title": "Leverkusen – VfB Stuttgart",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Leverkusen%20%E2%80%93%20VfB%20Stuttgart",
-        "pubdate": "Fri, 01 Nov 2024 20:00:00 +0100"
-    },
-    {
-        "title": "ゴジラ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%82%B4%E3%82%B8%E3%83%A9",
-        "pubdate": "Fri, 01 Nov 2024 22:00:00 +0900"
-    },
-    {
-        "title": "Steam",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#Steam",
-        "pubdate": "Fri, 01 Nov 2024 18:00:00 +0300"
+        "title": "I'm A Celeb 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#I'm%20A%20Celeb%202024",
+        "pubdate": "Fri, 01 Nov 2024 18:00:00 +0000"
     },
     {
         "title": "太空油",
@@ -25,9 +10,9 @@
         "pubdate": "Sat, 02 Nov 2024 00:00:00 +0800"
     },
     {
-        "title": "I'm A Celeb 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#I'm%20A%20Celeb%202024",
-        "pubdate": "Fri, 01 Nov 2024 18:00:00 +0000"
+        "title": "Dia de los Muertos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dia%20de%20los%20Muertos",
+        "pubdate": "Fri, 01 Nov 2024 13:00:00 -0700"
     },
     {
         "title": "Govardhan Puja 2024",
@@ -35,49 +20,24 @@
         "pubdate": "Fri, 01 Nov 2024 00:30:00 +0530"
     },
     {
-        "title": "Dia de los Muertos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dia%20de%20los%20Muertos",
-        "pubdate": "Fri, 01 Nov 2024 13:00:00 -0700"
+        "title": "Leverkusen – VfB Stuttgart",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Leverkusen%20%E2%80%93%20VfB%20Stuttgart",
+        "pubdate": "Fri, 01 Nov 2024 20:00:00 +0100"
     },
     {
-        "title": "Danse Macabre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Danse%20Macabre",
-        "pubdate": "Fri, 01 Nov 2024 00:00:00 +0100"
+        "title": "Lille Lyon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Lille%20Lyon",
+        "pubdate": "Fri, 01 Nov 2024 21:00:00 +0100"
     },
     {
-        "title": "Día de Muertos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#D%C3%ADa%20de%20Muertos",
-        "pubdate": "Fri, 01 Nov 2024 01:00:00 -0600"
+        "title": "Steam",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#Steam",
+        "pubdate": "Fri, 01 Nov 2024 18:00:00 +0300"
     },
     {
-        "title": "聯電",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%81%AF%E9%9B%BB",
-        "pubdate": "Sat, 02 Nov 2024 05:00:00 +0800"
-    },
-    {
-        "title": "Vivy Yusof",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Vivy%20Yusof",
-        "pubdate": "Fri, 01 Nov 2024 23:00:00 +0800"
-    },
-    {
-        "title": "Tangen dyrepark",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tangen%20dyrepark",
-        "pubdate": "Fri, 01 Nov 2024 10:00:00 +0100"
-    },
-    {
-        "title": "بث مباشر",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#%D8%A8%D8%AB%20%D9%85%D8%A8%D8%A7%D8%B4%D8%B1",
-        "pubdate": "Sat, 02 Nov 2024 01:00:00 +0300"
-    },
-    {
-        "title": "Sporting Estrela",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sporting%20Estrela",
-        "pubdate": "Fri, 01 Nov 2024 01:00:00 +0000"
-    },
-    {
-        "title": "Sergio Freire",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Sergio%20Freire",
-        "pubdate": "Fri, 01 Nov 2024 09:00:00 -0300"
+        "title": "ゴジラ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%82%B4%E3%82%B8%E3%83%A9",
+        "pubdate": "Fri, 01 Nov 2024 22:00:00 +0900"
     },
     {
         "title": "Al-nassr vs al-hilal",
@@ -85,18 +45,58 @@
         "pubdate": "Fri, 01 Nov 2024 19:00:00 +0100"
     },
     {
+        "title": "ChatGPT search engine",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#ChatGPT%20search%20engine",
+        "pubdate": "Sat, 02 Nov 2024 00:00:00 +0800"
+    },
+    {
+        "title": "الزمالك ضد البنك الاهلي",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=EG#%D8%A7%D9%84%D8%B2%D9%85%D8%A7%D9%84%D9%83%20%D8%B6%D8%AF%20%D8%A7%D9%84%D8%A8%D9%86%D9%83%20%D8%A7%D9%84%D8%A7%D9%87%D9%84%D9%8A",
+        "pubdate": "Fri, 01 Nov 2024 18:00:00 +0200"
+    },
+    {
+        "title": "Bayer Leverkusen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Bayer%20Leverkusen",
+        "pubdate": "Sat, 02 Nov 2024 01:00:00 +0300"
+    },
+    {
+        "title": "Meghalt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Meghalt",
+        "pubdate": "Fri, 01 Nov 2024 09:00:00 +0100"
+    },
+    {
+        "title": "Vivy Yusof",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Vivy%20Yusof",
+        "pubdate": "Fri, 01 Nov 2024 23:00:00 +0800"
+    },
+    {
+        "title": "Sergio Freire",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Sergio%20Freire",
+        "pubdate": "Fri, 01 Nov 2024 09:00:00 -0300"
+    },
+    {
         "title": "חנתון",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%97%D7%A0%D7%AA%D7%95%D7%9F",
         "pubdate": "Fri, 01 Nov 2024 00:00:00 +0200"
     },
     {
-        "title": "Alaves",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Alaves",
-        "pubdate": "Fri, 01 Nov 2024 21:00:00 +0100"
+        "title": "Alavés  Mallorca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Alav%C3%A9s%20%20Mallorca",
+        "pubdate": "Sat, 02 Nov 2024 00:00:00 +0200"
     },
     {
-        "title": "Bayer Leverkusen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Bayer%20Leverkusen",
+        "title": "MotoGp",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#MotoGp",
+        "pubdate": "Fri, 01 Nov 2024 06:00:00 +0100"
+    },
+    {
+        "title": "Luton Town",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Luton%20Town",
+        "pubdate": "Sat, 02 Nov 2024 00:00:00 +0200"
+    },
+    {
+        "title": "بث مباشر",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#%D8%A8%D8%AB%20%D9%85%D8%A8%D8%A7%D8%B4%D8%B1",
         "pubdate": "Sat, 02 Nov 2024 01:00:00 +0300"
     }
 ]
