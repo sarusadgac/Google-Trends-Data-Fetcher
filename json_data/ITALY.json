@@ -20,6 +20,11 @@
         "pubdate": "Fri, 01 Nov 2024 01:00:00 +0100"
     },
     {
+        "title": "Sukuna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Sukuna",
+        "pubdate": "Fri, 01 Nov 2024 03:00:00 +0100"
+    },
+    {
         "title": "Roma-Torino",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Roma-Torino",
         "pubdate": "Thu, 31 Oct 2024 08:00:00 +0100"
@@ -42,17 +47,12 @@
     {
         "title": "Carlos Alcaraz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Carlos%20Alcaraz",
-        "pubdate": "Thu, 31 Oct 2024 18:00:00 +0100"
+        "pubdate": "Thu, 31 Oct 2024 22:00:00 +0100"
     },
     {
         "title": "Manuela Moreno",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Manuela%20Moreno",
         "pubdate": "Thu, 31 Oct 2024 09:00:00 +0100"
-    },
-    {
-        "title": "Zucca Halloween",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Zucca%20Halloween",
-        "pubdate": "Thu, 31 Oct 2024 13:00:00 +0100"
     },
     {
         "title": "Longlegs",
@@ -90,13 +90,13 @@
         "pubdate": "Thu, 31 Oct 2024 18:00:00 +0100"
     },
     {
-        "title": "Edoardo Bennato",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Edoardo%20Bennato",
-        "pubdate": "Thu, 31 Oct 2024 15:00:00 +0100"
-    },
-    {
         "title": "Nightmare Before Christmas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Nightmare%20Before%20Christmas",
         "pubdate": "Thu, 31 Oct 2024 19:00:00 +0100"
+    },
+    {
+        "title": "Edoardo Bennato",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Edoardo%20Bennato",
+        "pubdate": "Thu, 31 Oct 2024 15:00:00 +0100"
     }
 ]
