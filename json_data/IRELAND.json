@@ -30,14 +30,19 @@
         "pubdate": "Fri, 01 Nov 2024 01:00:00 +0000"
     },
     {
+        "title": "November snow",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#November%20snow",
+        "pubdate": "Fri, 01 Nov 2024 13:00:00 +0000"
+    },
+    {
         "title": "Scissor Sisters",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Scissor%20Sisters",
         "pubdate": "Fri, 01 Nov 2024 00:00:00 +0000"
     },
     {
-        "title": "November snow",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#November%20snow",
-        "pubdate": "Fri, 01 Nov 2024 13:00:00 +0000"
+        "title": "Jets vs Texans",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Jets%20vs%20Texans",
+        "pubdate": "Fri, 01 Nov 2024 14:00:00 +0000"
     },
     {
         "title": "David Davin-Power",
@@ -93,10 +98,5 @@
         "title": "Halloween movies",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Halloween%20movies",
         "pubdate": "Thu, 31 Oct 2024 18:00:00 +0000"
-    },
-    {
-        "title": "Samhain",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Samhain",
-        "pubdate": "Thu, 31 Oct 2024 10:00:00 +0000"
     }
 ]

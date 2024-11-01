@@ -25,11 +25,6 @@
         "pubdate": "Thu, 31 Oct 2024 13:00:00 -0500"
     },
     {
-        "title": "Dia de la cancion Criolla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Dia%20de%20la%20cancion%20Criolla",
-        "pubdate": "Thu, 31 Oct 2024 07:00:00 -0500"
-    },
-    {
         "title": "Genoa - Fiorentina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Genoa%20-%20Fiorentina",
         "pubdate": "Thu, 31 Oct 2024 14:00:00 -0500"
@@ -48,11 +43,6 @@
         "title": "Roma  Torino",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Roma%20%20Torino",
         "pubdate": "Thu, 31 Oct 2024 16:00:00 -0500"
-    },
-    {
-        "title": "Como  Lazio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Como%20%20Lazio",
-        "pubdate": "Thu, 31 Oct 2024 17:00:00 -0500"
     },
     {
         "title": "Coco",
@@ -75,14 +65,19 @@
         "pubdate": "Thu, 31 Oct 2024 15:00:00 -0500"
     },
     {
-        "title": "It",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#It",
+        "title": "IT",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#IT",
         "pubdate": "Thu, 31 Oct 2024 18:00:00 -0500"
     },
     {
         "title": "Atalanta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Atalanta",
         "pubdate": "Thu, 31 Oct 2024 14:00:00 -0500"
+    },
+    {
+        "title": "Como  Lazio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Como%20%20Lazio",
+        "pubdate": "Thu, 31 Oct 2024 17:00:00 -0500"
     },
     {
         "title": "Carlos Alcaraz",
@@ -98,5 +93,10 @@
         "title": "L-Gante",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#L-Gante",
         "pubdate": "Thu, 31 Oct 2024 18:00:00 -0500"
+    },
+    {
+        "title": "La Purga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#La%20Purga",
+        "pubdate": "Thu, 31 Oct 2024 07:00:00 -0500"
     }
 ]
