@@ -1,13 +1,13 @@
 [
     {
-        "title": "Vic  Atlético Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Vic%20%20Atl%C3%A9tico%20Madrid",
-        "pubdate": "Thu, 31 Oct 2024 13:00:00 -0500"
-    },
-    {
         "title": "Cienciano  Unión Comercio",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Cienciano%20%20Uni%C3%B3n%20Comercio",
         "pubdate": "Thu, 31 Oct 2024 18:00:00 -0500"
+    },
+    {
+        "title": "Vic  Atlético Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Vic%20%20Atl%C3%A9tico%20Madrid",
+        "pubdate": "Thu, 31 Oct 2024 13:00:00 -0500"
     },
     {
         "title": "Dia de la cancion Criolla",
@@ -25,8 +25,8 @@
         "pubdate": "Thu, 31 Oct 2024 16:00:00 -0500"
     },
     {
-        "title": "Gévora - Betis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#G%C3%A9vora%20-%20Betis",
+        "title": "Gévora  Betis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#G%C3%A9vora%20%20Betis",
         "pubdate": "Thu, 31 Oct 2024 16:00:00 -0500"
     },
     {
@@ -45,11 +45,6 @@
         "pubdate": "Thu, 31 Oct 2024 15:00:00 -0500"
     },
     {
-        "title": "Atalanta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Atalanta",
-        "pubdate": "Thu, 31 Oct 2024 14:00:00 -0500"
-    },
-    {
         "title": "Coco",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Coco",
         "pubdate": "Thu, 31 Oct 2024 18:00:00 -0500"
@@ -60,19 +55,24 @@
         "pubdate": "Thu, 31 Oct 2024 18:00:00 -0500"
     },
     {
+        "title": "Atalanta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Atalanta",
+        "pubdate": "Thu, 31 Oct 2024 14:00:00 -0500"
+    },
+    {
         "title": "Musica Criolla",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Musica%20Criolla",
         "pubdate": "Thu, 31 Oct 2024 13:00:00 -0500"
     },
     {
-        "title": "Como - Lazio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Como%20-%20Lazio",
+        "title": "Como  Lazio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Como%20%20Lazio",
         "pubdate": "Thu, 31 Oct 2024 17:00:00 -0500"
     },
     {
-        "title": "Premier",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Premier",
-        "pubdate": "Thu, 31 Oct 2024 02:00:00 -0500"
+        "title": "Carlos Alcaraz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Carlos%20Alcaraz",
+        "pubdate": "Thu, 31 Oct 2024 19:00:00 -0500"
     },
     {
         "title": "It",
@@ -80,9 +80,14 @@
         "pubdate": "Thu, 31 Oct 2024 18:00:00 -0500"
     },
     {
-        "title": "Ayacucho FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Ayacucho%20FC",
-        "pubdate": "Thu, 31 Oct 2024 11:00:00 -0500"
+        "title": "La Purga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#La%20Purga",
+        "pubdate": "Thu, 31 Oct 2024 07:00:00 -0500"
+    },
+    {
+        "title": "Premier",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Premier",
+        "pubdate": "Thu, 31 Oct 2024 02:00:00 -0500"
     },
     {
         "title": "Ontiñena  UD Las Palmas",
@@ -90,13 +95,8 @@
         "pubdate": "Thu, 31 Oct 2024 18:00:00 -0500"
     },
     {
-        "title": "Katrina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Katrina",
-        "pubdate": "Thu, 31 Oct 2024 16:00:00 -0500"
-    },
-    {
-        "title": "Jason",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Jason",
-        "pubdate": "Thu, 31 Oct 2024 16:00:00 -0500"
+        "title": "Ayacucho FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Ayacucho%20FC",
+        "pubdate": "Thu, 31 Oct 2024 11:00:00 -0500"
     }
 ]

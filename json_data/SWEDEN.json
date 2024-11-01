@@ -55,9 +55,9 @@
         "pubdate": "Wed, 30 Oct 2024 08:00:00 +0100"
     },
     {
-        "title": "Carabao Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Carabao%20Cup",
-        "pubdate": "Wed, 30 Oct 2024 19:00:00 +0100"
+        "title": "Elisabeth Ohlson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Elisabeth%20Ohlson",
+        "pubdate": "Wed, 30 Oct 2024 14:00:00 +0100"
     },
     {
         "title": "Manchester United",
@@ -68,6 +68,11 @@
         "title": "Hans Zimmer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hans%20Zimmer",
         "pubdate": "Wed, 30 Oct 2024 12:00:00 +0100"
+    },
+    {
+        "title": "Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tottenham",
+        "pubdate": "Wed, 30 Oct 2024 22:00:00 +0100"
     },
     {
         "title": "Nicola Cavanis",
@@ -93,10 +98,5 @@
         "title": "Dropshipping",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Dropshipping",
         "pubdate": "Wed, 30 Oct 2024 22:00:00 +0100"
-    },
-    {
-        "title": "Tele2 Arena",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tele2%20Arena",
-        "pubdate": "Wed, 30 Oct 2024 20:00:00 +0100"
     }
 ]
