@@ -5,18 +5,13 @@
         "pubdate": "Fri, 01 Nov 2024 02:00:00 +0100"
     },
     {
-        "title": "Atletico de Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Atletico%20de%20Madrid",
-        "pubdate": "Fri, 01 Nov 2024 10:00:00 +0100"
+        "title": "Luanvi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Luanvi",
+        "pubdate": "Fri, 01 Nov 2024 00:00:00 +0100"
     },
     {
         "title": "Beetlejuice",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Beetlejuice",
-        "pubdate": "Fri, 01 Nov 2024 00:00:00 +0100"
-    },
-    {
-        "title": "Miguel Burdeos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Miguel%20Burdeos",
         "pubdate": "Fri, 01 Nov 2024 00:00:00 +0100"
     },
     {
@@ -40,23 +35,33 @@
         "pubdate": "Fri, 01 Nov 2024 10:00:00 +0100"
     },
     {
-        "title": "Caritas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Caritas",
-        "pubdate": "Fri, 01 Nov 2024 01:00:00 +0100"
-    },
-    {
         "title": "Huelva información",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Huelva%20informaci%C3%B3n",
         "pubdate": "Fri, 01 Nov 2024 10:00:00 +0100"
     },
     {
-        "title": "Dana Mallorca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Dana%20Mallorca",
-        "pubdate": "Fri, 01 Nov 2024 09:00:00 +0100"
+        "title": "Caritas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Caritas",
+        "pubdate": "Fri, 01 Nov 2024 01:00:00 +0100"
+    },
+    {
+        "title": "1 de noviembre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#1%20de%20noviembre",
+        "pubdate": "Fri, 01 Nov 2024 11:00:00 +0100"
+    },
+    {
+        "title": "Cruz Roja DANA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Cruz%20Roja%20DANA",
+        "pubdate": "Fri, 01 Nov 2024 11:00:00 +0100"
     },
     {
         "title": "UD Las Palmas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#UD%20Las%20Palmas",
+        "pubdate": "Fri, 01 Nov 2024 00:00:00 +0100"
+    },
+    {
+        "title": "Dia de los Muertos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Dia%20de%20los%20Muertos",
         "pubdate": "Fri, 01 Nov 2024 00:00:00 +0100"
     },
     {
@@ -70,14 +75,14 @@
         "pubdate": "Fri, 01 Nov 2024 02:00:00 +0100"
     },
     {
-        "title": "1 de noviembre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#1%20de%20noviembre",
-        "pubdate": "Fri, 01 Nov 2024 11:00:00 +0100"
-    },
-    {
         "title": "Carrie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Carrie",
         "pubdate": "Fri, 01 Nov 2024 01:00:00 +0100"
+    },
+    {
+        "title": "Iker jimenez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Iker%20jimenez",
+        "pubdate": "Fri, 01 Nov 2024 12:00:00 +0100"
     },
     {
         "title": "Carlos Alcaraz",
@@ -93,10 +98,5 @@
         "title": "Ontiñena  UD Las Palmas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Onti%C3%B1ena%20%20UD%20Las%20Palmas",
         "pubdate": "Thu, 31 Oct 2024 21:00:00 +0100"
-    },
-    {
-        "title": "Amancio Ortega",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Amancio%20Ortega",
-        "pubdate": "Thu, 31 Oct 2024 23:00:00 +0100"
     }
 ]
