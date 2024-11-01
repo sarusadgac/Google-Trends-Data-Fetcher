@@ -10,9 +10,14 @@
         "pubdate": "Fri, 01 Nov 2024 11:00:00 +0300"
     },
     {
-        "title": "All Saints Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#All%20Saints%20Day",
+        "title": "All Saints' Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#All%20Saints'%20Day",
         "pubdate": "Fri, 01 Nov 2024 10:00:00 +0300"
+    },
+    {
+        "title": "Kindiki family",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Kindiki%20family",
+        "pubdate": "Fri, 01 Nov 2024 12:00:00 +0300"
     },
     {
         "title": "Kindiki",
@@ -22,17 +27,12 @@
     {
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Arsenal",
-        "pubdate": "Thu, 31 Oct 2024 06:00:00 +0300"
+        "pubdate": "Thu, 31 Oct 2024 04:00:00 +0300"
     },
     {
         "title": "Man City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Man%20City",
         "pubdate": "Thu, 31 Oct 2024 01:00:00 +0300"
-    },
-    {
-        "title": "Man U",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Man%20U",
-        "pubdate": "Thu, 31 Oct 2024 00:00:00 +0300"
     },
     {
         "title": "Breaking news",
