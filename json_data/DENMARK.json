@@ -10,6 +10,11 @@
         "pubdate": "Fri, 01 Nov 2024 00:00:00 +0100"
     },
     {
+        "title": "Speak no evil",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Speak%20no%20evil",
+        "pubdate": "Fri, 01 Nov 2024 02:00:00 +0100"
+    },
+    {
         "title": "Roskilde Festival 2025",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Roskilde%20Festival%202025",
         "pubdate": "Thu, 31 Oct 2024 09:00:00 +0100"
@@ -75,11 +80,6 @@
         "pubdate": "Thu, 31 Oct 2024 22:00:00 +0100"
     },
     {
-        "title": "High Potential",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#High%20Potential",
-        "pubdate": "Thu, 31 Oct 2024 14:00:00 +0100"
-    },
-    {
         "title": "Valencia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Valencia",
         "pubdate": "Wed, 30 Oct 2024 08:00:00 +0100"
@@ -90,13 +90,13 @@
         "pubdate": "Wed, 30 Oct 2024 20:00:00 +0100"
     },
     {
-        "title": "Carabao Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Carabao%20Cup",
-        "pubdate": "Wed, 30 Oct 2024 00:00:00 +0100"
-    },
-    {
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Manchester%20United",
         "pubdate": "Wed, 30 Oct 2024 22:00:00 +0100"
+    },
+    {
+        "title": "Carabao Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Carabao%20Cup",
+        "pubdate": "Wed, 30 Oct 2024 00:00:00 +0100"
     }
 ]
