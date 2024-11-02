@@ -10,6 +10,16 @@
         "pubdate": "Sat, 02 Nov 2024 13:00:00 +0100"
     },
     {
+        "title": "Brest – Nice",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Brest%20%E2%80%93%20Nice",
+        "pubdate": "Sat, 02 Nov 2024 19:00:00 +0100"
+    },
+    {
+        "title": "Khachanov",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Khachanov",
+        "pubdate": "Sat, 02 Nov 2024 09:00:00 +0100"
+    },
+    {
         "title": "Linkin Park",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Linkin%20Park",
         "pubdate": "Sat, 02 Nov 2024 01:00:00 +0100"
@@ -18,6 +28,11 @@
         "title": "Rillieux-la-Pape",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Rillieux-la-Pape",
         "pubdate": "Sat, 02 Nov 2024 12:00:00 +0100"
+    },
+    {
+        "title": "Angleterre Nouvelle zelande",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Angleterre%20Nouvelle%20zelande",
+        "pubdate": "Sat, 02 Nov 2024 17:00:00 +0100"
     },
     {
         "title": "Louane",
@@ -30,19 +45,14 @@
         "pubdate": "Sat, 02 Nov 2024 18:00:00 +0100"
     },
     {
-        "title": "Angleterre Nouvelle zelande",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Angleterre%20Nouvelle%20zelande",
-        "pubdate": "Sat, 02 Nov 2024 17:00:00 +0100"
+        "title": "Kemi Badenoch",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Kemi%20Badenoch",
+        "pubdate": "Sat, 02 Nov 2024 18:00:00 +0100"
     },
     {
         "title": "Botulisme",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Botulisme",
         "pubdate": "Sat, 02 Nov 2024 17:00:00 +0100"
-    },
-    {
-        "title": "Kemi Badenoch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Kemi%20Badenoch",
-        "pubdate": "Sat, 02 Nov 2024 18:00:00 +0100"
     },
     {
         "title": "Kendji Girac",
@@ -55,14 +65,24 @@
         "pubdate": "Sat, 02 Nov 2024 02:00:00 +0100"
     },
     {
-        "title": "Philippe de Villiers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Philippe%20de%20Villiers",
+        "title": "Philippe Devilliers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Philippe%20Devilliers",
         "pubdate": "Sat, 02 Nov 2024 19:00:00 +0100"
     },
     {
         "title": "ASM",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#ASM",
         "pubdate": "Sat, 02 Nov 2024 19:00:00 +0100"
+    },
+    {
+        "title": "Espagne inondations Valence",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Espagne%20inondations%20Valence",
+        "pubdate": "Sat, 02 Nov 2024 21:00:00 +0100"
+    },
+    {
+        "title": "F1 bresil",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#F1%20bresil",
+        "pubdate": "Sat, 02 Nov 2024 21:00:00 +0100"
     },
     {
         "title": "Slimane",
@@ -75,28 +95,8 @@
         "pubdate": "Fri, 01 Nov 2024 10:00:00 +0100"
     },
     {
-        "title": "Louis Boyard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Louis%20Boyard",
-        "pubdate": "Fri, 01 Nov 2024 21:00:00 +0100"
-    },
-    {
-        "title": "OL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#OL",
-        "pubdate": "Fri, 01 Nov 2024 23:00:00 +0100"
-    },
-    {
-        "title": "Pierre Garnier",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Pierre%20Garnier",
-        "pubdate": "Fri, 01 Nov 2024 23:00:00 +0100"
-    },
-    {
-        "title": "Clint Eastwood",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Clint%20Eastwood",
-        "pubdate": "Fri, 01 Nov 2024 21:00:00 +0100"
-    },
-    {
-        "title": "Amir",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Amir",
+        "title": "Vitaa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Vitaa",
         "pubdate": "Fri, 01 Nov 2024 23:00:00 +0100"
     }
 ]
