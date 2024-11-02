@@ -10,6 +10,11 @@
         "pubdate": "Sat, 02 Nov 2024 00:00:00 +0000"
     },
     {
+        "title": "Liga 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Liga%202",
+        "pubdate": "Sat, 02 Nov 2024 00:00:00 +0000"
+    },
+    {
         "title": "Snoop Dogg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Snoop%20Dogg",
         "pubdate": "Sat, 02 Nov 2024 00:00:00 +0000"
@@ -38,6 +43,11 @@
         "title": "Camilo Mortágua",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Camilo%20Mort%C3%A1gua",
         "pubdate": "Fri, 01 Nov 2024 12:00:00 +0000"
+    },
+    {
+        "title": "Sporting hoje",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sporting%20hoje",
+        "pubdate": "Fri, 01 Nov 2024 14:00:00 +0000"
     },
     {
         "title": "Liga Portugal",
@@ -87,16 +97,6 @@
     {
         "title": "Dia de Finados",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Dia%20de%20Finados",
-        "pubdate": "Fri, 01 Nov 2024 00:00:00 +0000"
-    },
-    {
-        "title": "Sporting CP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sporting%20CP",
-        "pubdate": "Fri, 01 Nov 2024 21:00:00 +0000"
-    },
-    {
-        "title": "Young Thug",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Young%20Thug",
         "pubdate": "Fri, 01 Nov 2024 00:00:00 +0000"
     }
 ]
