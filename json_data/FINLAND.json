@@ -10,6 +10,11 @@
         "pubdate": "Sat, 02 Nov 2024 01:00:00 +0200"
     },
     {
+        "title": "Newcastle United – Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Newcastle%20United%20%E2%80%93%20Arsenal",
+        "pubdate": "Sat, 02 Nov 2024 15:00:00 +0200"
+    },
+    {
         "title": "The cure",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#The%20cure",
         "pubdate": "Sat, 02 Nov 2024 11:00:00 +0200"
@@ -93,10 +98,5 @@
         "title": "Valencia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Valencia",
         "pubdate": "Wed, 30 Oct 2024 08:00:00 +0200"
-    },
-    {
-        "title": "Joe Biden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Joe%20Biden",
-        "pubdate": "Wed, 30 Oct 2024 17:00:00 +0200"
     }
 ]
