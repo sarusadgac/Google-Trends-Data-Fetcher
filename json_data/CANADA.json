@@ -20,14 +20,14 @@
         "pubdate": "Fri, 01 Nov 2024 00:00:00 -0400"
     },
     {
-        "title": "Taylor Swift Toronto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Taylor%20Swift%20Toronto",
-        "pubdate": "Fri, 01 Nov 2024 00:00:00 -0400"
-    },
-    {
         "title": "Remembrance Day",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Remembrance%20Day",
         "pubdate": "Fri, 01 Nov 2024 20:00:00 -0400"
+    },
+    {
+        "title": "Taylor Swift Toronto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Taylor%20Swift%20Toronto",
+        "pubdate": "Fri, 01 Nov 2024 00:00:00 -0400"
     },
     {
         "title": "Amazon stock",
@@ -55,14 +55,14 @@
         "pubdate": "Fri, 01 Nov 2024 09:00:00 -0400"
     },
     {
-        "title": "Sephora sale",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Sephora%20sale",
-        "pubdate": "Fri, 01 Nov 2024 13:00:00 -0400"
-    },
-    {
         "title": "Christmas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Christmas",
         "pubdate": "Fri, 01 Nov 2024 16:00:00 -0400"
+    },
+    {
+        "title": "Sephora sale",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Sephora%20sale",
+        "pubdate": "Fri, 01 Nov 2024 13:00:00 -0400"
     },
     {
         "title": "Auston Matthews",
@@ -70,14 +70,19 @@
         "pubdate": "Fri, 01 Nov 2024 15:00:00 -0400"
     },
     {
+        "title": "Air Canada stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Air%20Canada%20stock",
+        "pubdate": "Fri, 01 Nov 2024 12:00:00 -0400"
+    },
+    {
         "title": "Iranian",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Iranian",
         "pubdate": "Fri, 01 Nov 2024 16:00:00 -0400"
     },
     {
-        "title": "Air Canada stock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Air%20Canada%20stock",
-        "pubdate": "Fri, 01 Nov 2024 12:00:00 -0400"
+        "title": "Rohit Bal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Rohit%20Bal",
+        "pubdate": "Fri, 01 Nov 2024 16:00:00 -0400"
     },
     {
         "title": "Movember",
@@ -93,10 +98,5 @@
         "title": "Mariah Carey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Mariah%20Carey",
         "pubdate": "Fri, 01 Nov 2024 09:00:00 -0400"
-    },
-    {
-        "title": "Rohit Bal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Rohit%20Bal",
-        "pubdate": "Fri, 01 Nov 2024 16:00:00 -0400"
     }
 ]
