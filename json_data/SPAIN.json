@@ -5,9 +5,9 @@
         "pubdate": "Sat, 02 Nov 2024 16:00:00 +0100"
     },
     {
-        "title": "Osasuna  Valladolid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Osasuna%20%20Valladolid",
-        "pubdate": "Sat, 02 Nov 2024 11:00:00 +0100"
+        "title": "Aldaia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Aldaia",
+        "pubdate": "Sat, 02 Nov 2024 16:00:00 +0100"
     },
     {
         "title": "Bournemouth  Manchester City",
@@ -15,24 +15,19 @@
         "pubdate": "Sat, 02 Nov 2024 16:00:00 +0100"
     },
     {
-        "title": "Bonaire",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Bonaire",
-        "pubdate": "Sat, 02 Nov 2024 13:00:00 +0100"
-    },
-    {
         "title": "Racing de Santander  Albacete",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Racing%20de%20Santander%20%20Albacete",
         "pubdate": "Sat, 02 Nov 2024 19:00:00 +0100"
     },
     {
+        "title": "Bonaire",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Bonaire",
+        "pubdate": "Sat, 02 Nov 2024 13:00:00 +0100"
+    },
+    {
         "title": "Sporting Gijón)  Cádiz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Sporting%20Gij%C3%B3n)%20%20C%C3%A1diz",
         "pubdate": "Sat, 02 Nov 2024 16:00:00 +0100"
-    },
-    {
-        "title": "Cartagena  Deportivo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Cartagena%20%20Deportivo",
-        "pubdate": "Sat, 02 Nov 2024 17:00:00 +0100"
     },
     {
         "title": "Real Zaragoza  Granada",
@@ -55,14 +50,14 @@
         "pubdate": "Sat, 02 Nov 2024 17:00:00 +0100"
     },
     {
+        "title": "Cartagena - Deportivo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Cartagena%20-%20Deportivo",
+        "pubdate": "Sat, 02 Nov 2024 17:00:00 +0100"
+    },
+    {
         "title": "Dortmund - RB Leipzig",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Dortmund%20-%20RB%20Leipzig",
         "pubdate": "Sat, 02 Nov 2024 19:00:00 +0100"
-    },
-    {
-        "title": "Aldaia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Aldaia",
-        "pubdate": "Sat, 02 Nov 2024 16:00:00 +0100"
     },
     {
         "title": "Mundial padel 2024",
@@ -70,14 +65,14 @@
         "pubdate": "Sat, 02 Nov 2024 15:00:00 +0100"
     },
     {
-        "title": "PSG - Lens",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#PSG%20-%20Lens",
-        "pubdate": "Sat, 02 Nov 2024 18:00:00 +0100"
-    },
-    {
         "title": "Vuelo Avianca Bogotá-Madrid emergencia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Vuelo%20Avianca%20Bogot%C3%A1-Madrid%20emergencia",
         "pubdate": "Sat, 02 Nov 2024 11:00:00 +0100"
+    },
+    {
+        "title": "PSG - Lens",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#PSG%20-%20Lens",
+        "pubdate": "Sat, 02 Nov 2024 18:00:00 +0100"
     },
     {
         "title": "Eibar  Elche CF",
@@ -98,5 +93,10 @@
         "title": "Clasificacion F1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Clasificacion%20F1",
         "pubdate": "Sat, 02 Nov 2024 18:00:00 +0100"
+    },
+    {
+        "title": "Udinese  Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Udinese%20%20Juventus",
+        "pubdate": "Sat, 02 Nov 2024 20:00:00 +0100"
     }
 ]
