@@ -35,11 +35,6 @@
         "pubdate": "Fri, 01 Nov 2024 12:00:00 +0200"
     },
     {
-        "title": "Ano Turtiainen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Ano%20Turtiainen",
-        "pubdate": "Fri, 01 Nov 2024 19:00:00 +0200"
-    },
-    {
         "title": "The TWIN",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#The%20TWIN",
         "pubdate": "Fri, 01 Nov 2024 22:00:00 +0200"
@@ -98,5 +93,10 @@
         "title": "Op",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Op",
         "pubdate": "Wed, 30 Oct 2024 10:00:00 +0200"
+    },
+    {
+        "title": "Valencia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Valencia",
+        "pubdate": "Wed, 30 Oct 2024 08:00:00 +0200"
     }
 ]
