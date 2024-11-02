@@ -20,6 +20,11 @@
         "pubdate": "Sat, 02 Nov 2024 00:00:00 +0000"
     },
     {
+        "title": "Liga 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Liga%202",
+        "pubdate": "Sat, 02 Nov 2024 00:00:00 +0000"
+    },
+    {
         "title": "Lang Lang",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Lang%20Lang",
         "pubdate": "Sat, 02 Nov 2024 00:00:00 +0000"
@@ -93,10 +98,5 @@
         "title": "Sporting CP",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sporting%20CP",
         "pubdate": "Fri, 01 Nov 2024 21:00:00 +0000"
-    },
-    {
-        "title": "Marielle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Marielle",
-        "pubdate": "Fri, 01 Nov 2024 15:00:00 +0000"
     }
 ]
