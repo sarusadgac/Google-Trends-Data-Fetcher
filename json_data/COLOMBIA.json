@@ -15,11 +15,6 @@
         "pubdate": "Sat, 02 Nov 2024 00:00:00 -0500"
     },
     {
-        "title": "Fortaleza",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Fortaleza",
-        "pubdate": "Sat, 02 Nov 2024 06:00:00 -0500"
-    },
-    {
         "title": "Jaguares  Deportivo Pereira",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Jaguares%20%20Deportivo%20Pereira",
         "pubdate": "Fri, 01 Nov 2024 17:00:00 -0500"
@@ -45,6 +40,11 @@
         "pubdate": "Fri, 01 Nov 2024 15:00:00 -0500"
     },
     {
+        "title": "Fluminense  grêmio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Fluminense%20%20gr%C3%AAmio",
+        "pubdate": "Fri, 01 Nov 2024 19:00:00 -0500"
+    },
+    {
         "title": "Shakira",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Shakira",
         "pubdate": "Fri, 01 Nov 2024 12:00:00 -0500"
@@ -65,9 +65,9 @@
         "pubdate": "Fri, 01 Nov 2024 12:00:00 -0500"
     },
     {
-        "title": "Noviembre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Noviembre",
-        "pubdate": "Fri, 01 Nov 2024 09:00:00 -0500"
+        "title": "Fluminense",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Fluminense",
+        "pubdate": "Fri, 01 Nov 2024 22:00:00 -0500"
     },
     {
         "title": "Mónaco  Angers",
@@ -78,11 +78,6 @@
         "title": "Resultados",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Resultados",
         "pubdate": "Fri, 01 Nov 2024 00:00:00 -0500"
-    },
-    {
-        "title": "Fluminense",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Fluminense",
-        "pubdate": "Fri, 01 Nov 2024 22:00:00 -0500"
     },
     {
         "title": "Universidad del Tolima",
@@ -98,5 +93,10 @@
         "title": "Universidad Distrital",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Universidad%20Distrital",
         "pubdate": "Fri, 01 Nov 2024 16:00:00 -0500"
+    },
+    {
+        "title": "Raptors - Lakers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Raptors%20-%20Lakers",
+        "pubdate": "Fri, 01 Nov 2024 23:00:00 -0500"
     }
 ]
