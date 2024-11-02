@@ -5,11 +5,6 @@
         "pubdate": "Sat, 02 Nov 2024 00:00:00 +0100"
     },
     {
-        "title": "Kniha Brno",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kniha%20Brno",
-        "pubdate": "Sat, 02 Nov 2024 00:00:00 +0100"
-    },
-    {
         "title": "The Cure",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#The%20Cure",
         "pubdate": "Sat, 02 Nov 2024 02:00:00 +0100"
@@ -77,7 +72,7 @@
     {
         "title": "Dušičky",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Du%C5%A1i%C4%8Dky",
-        "pubdate": "Thu, 31 Oct 2024 14:00:00 +0100"
+        "pubdate": "Thu, 31 Oct 2024 13:00:00 +0100"
     },
     {
         "title": "Dragon Age Veilguard",
@@ -98,5 +93,10 @@
         "title": "Jennifer Lopez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jennifer%20Lopez",
         "pubdate": "Thu, 31 Oct 2024 00:00:00 +0100"
+    },
+    {
+        "title": "Leila George",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Leila%20George",
+        "pubdate": "Thu, 31 Oct 2024 20:00:00 +0100"
     }
 ]
