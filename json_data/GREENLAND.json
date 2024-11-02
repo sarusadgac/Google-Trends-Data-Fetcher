@@ -1,8 +1,8 @@
 [
     {
-        "title": "Миа бойка",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%9C%D0%B8%D0%B0%20%D0%B1%D0%BE%D0%B9%D0%BA%D0%B0",
-        "pubdate": "Sat, 02 Nov 2024 03:00:00 +0300"
+        "title": "Paddington",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Paddington",
+        "pubdate": "Sat, 02 Nov 2024 00:00:00 +0000"
     },
     {
         "title": "Leverkusen – VfB Stuttgart",
@@ -10,9 +10,14 @@
         "pubdate": "Fri, 01 Nov 2024 20:00:00 +0100"
     },
     {
-        "title": "Paddington",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Paddington",
-        "pubdate": "Sat, 02 Nov 2024 00:00:00 +0000"
+        "title": "Billie Eilish",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Billie%20Eilish",
+        "pubdate": "Sat, 02 Nov 2024 00:00:00 +0100"
+    },
+    {
+        "title": "Миа бойка",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%9C%D0%B8%D0%B0%20%D0%B1%D0%BE%D0%B9%D0%BA%D0%B0",
+        "pubdate": "Sat, 02 Nov 2024 03:00:00 +0300"
     },
     {
         "title": "記録的短時間大雨情報",
@@ -30,39 +35,14 @@
         "pubdate": "Fri, 01 Nov 2024 13:00:00 -0700"
     },
     {
-        "title": "Billie Eilish",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Billie%20Eilish",
-        "pubdate": "Sat, 02 Nov 2024 00:00:00 +0100"
-    },
-    {
         "title": "Govardhan Puja 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Govardhan%20Puja%202024",
         "pubdate": "Fri, 01 Nov 2024 00:30:00 +0530"
     },
     {
-        "title": "Ευτυχια",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%95%CF%85%CF%84%CF%85%CF%87%CE%B9%CE%B1",
+        "title": "Luton Town",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Luton%20Town",
         "pubdate": "Sat, 02 Nov 2024 00:00:00 +0200"
-    },
-    {
-        "title": "Glorieta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Glorieta",
-        "pubdate": "Sat, 02 Nov 2024 00:00:00 -0300"
-    },
-    {
-        "title": "Larry Gaaga Obodo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Larry%20Gaaga%20Obodo",
-        "pubdate": "Sat, 02 Nov 2024 00:00:00 +0100"
-    },
-    {
-        "title": "Derby Day 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Derby%20Day%202024",
-        "pubdate": "Sat, 02 Nov 2024 10:00:00 +1100"
-    },
-    {
-        "title": "All Blacks vs England",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#All%20Blacks%20vs%20England",
-        "pubdate": "Sat, 02 Nov 2024 13:00:00 +1300"
     },
     {
         "title": "Donald Trump",
@@ -70,9 +50,29 @@
         "pubdate": "Sat, 02 Nov 2024 00:00:00 +0100"
     },
     {
-        "title": "롤드컵) 결승",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%A1%A4%EB%93%9C%EC%BB%B5)%20%EA%B2%B0%EC%8A%B9",
-        "pubdate": "Sat, 02 Nov 2024 02:00:00 +0900"
+        "title": "Fluminense x Grêmio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fluminense%20x%20Gr%C3%AAmio",
+        "pubdate": "Fri, 01 Nov 2024 16:00:00 -0500"
+    },
+    {
+        "title": "Día de Muertos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#D%C3%ADa%20de%20Muertos",
+        "pubdate": "Fri, 01 Nov 2024 01:00:00 -0500"
+    },
+    {
+        "title": "Derby Day 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Derby%20Day%202024",
+        "pubdate": "Sat, 02 Nov 2024 10:00:00 +1100"
+    },
+    {
+        "title": "Rohit Bal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Rohit%20Bal",
+        "pubdate": "Sat, 02 Nov 2024 08:00:00 +0800"
+    },
+    {
+        "title": "Adriano",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Adriano",
+        "pubdate": "Sat, 02 Nov 2024 00:00:00 +0100"
     },
     {
         "title": "Day of the Dead",
@@ -80,23 +80,23 @@
         "pubdate": "Fri, 01 Nov 2024 01:00:00 -0400"
     },
     {
-        "title": "Jennifer Lopez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Jennifer%20Lopez",
-        "pubdate": "Sat, 02 Nov 2024 00:00:00 +0200"
+        "title": "Al Nassr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Al%20Nassr",
+        "pubdate": "Sat, 02 Nov 2024 01:00:00 +0300"
     },
     {
-        "title": "Brawl Stars",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Brawl%20Stars",
-        "pubdate": "Sat, 02 Nov 2024 00:00:00 -0300"
+        "title": "All Blacks vs England",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#All%20Blacks%20vs%20England",
+        "pubdate": "Sat, 02 Nov 2024 13:00:00 +1300"
     },
     {
-        "title": "AS Monaco",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#AS%20Monaco",
-        "pubdate": "Sat, 02 Nov 2024 01:00:00 +0700"
+        "title": "Холостяк 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=UA#%D0%A5%D0%BE%D0%BB%D0%BE%D1%81%D1%82%D1%8F%D0%BA%202024",
+        "pubdate": "Fri, 01 Nov 2024 11:00:00 +0200"
     },
     {
-        "title": "Día de Muertos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#D%C3%ADa%20de%20Muertos",
-        "pubdate": "Fri, 01 Nov 2024 01:00:00 -0500"
+        "title": "Snoop Dogg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Snoop%20Dogg",
+        "pubdate": "Sat, 02 Nov 2024 00:00:00 +0100"
     }
 ]
