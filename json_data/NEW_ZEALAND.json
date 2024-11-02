@@ -1,5 +1,10 @@
 [
     {
+        "title": "Newcastle vs Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Newcastle%20vs%20Arsenal",
+        "pubdate": "Sun, 03 Nov 2024 06:00:00 +1300"
+    },
+    {
         "title": "Auckland FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Auckland%20FC",
         "pubdate": "Sat, 02 Nov 2024 09:00:00 +1300"
@@ -65,6 +70,11 @@
         "pubdate": "Fri, 01 Nov 2024 21:00:00 +1300"
     },
     {
+        "title": "Auckland Marathon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Auckland%20Marathon",
+        "pubdate": "Fri, 01 Nov 2024 14:00:00 +1300"
+    },
+    {
         "title": "Guy Fawkes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Guy%20Fawkes",
         "pubdate": "Fri, 01 Nov 2024 08:00:00 +1300"
@@ -80,11 +90,6 @@
         "pubdate": "Fri, 01 Nov 2024 07:00:00 +1300"
     },
     {
-        "title": "Auckland Marathon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Auckland%20Marathon",
-        "pubdate": "Fri, 01 Nov 2024 14:00:00 +1300"
-    },
-    {
         "title": "England vs West Indies",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#England%20vs%20West%20Indies",
         "pubdate": "Fri, 01 Nov 2024 09:00:00 +1300"
@@ -93,10 +98,5 @@
         "title": "Young Thug",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Young%20Thug",
         "pubdate": "Fri, 01 Nov 2024 14:00:00 +1300"
-    },
-    {
-        "title": "Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Man%20City",
-        "pubdate": "Fri, 01 Nov 2024 09:00:00 +1300"
     }
 ]
