@@ -1,8 +1,18 @@
 [
     {
+        "title": "Atlanta United  Inter Miami",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Atlanta%20United%20%20Inter%20Miami",
+        "pubdate": "Sun, 03 Nov 2024 00:00:00 +0100"
+    },
+    {
         "title": "Girona  Leganés",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Girona%20%20Legan%C3%A9s",
         "pubdate": "Sat, 02 Nov 2024 16:00:00 +0100"
+    },
+    {
+        "title": "Centro comercial Bonaire",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Centro%20comercial%20Bonaire",
+        "pubdate": "Sat, 02 Nov 2024 13:00:00 +0100"
     },
     {
         "title": "Aldaia",
@@ -10,19 +20,14 @@
         "pubdate": "Sat, 02 Nov 2024 16:00:00 +0100"
     },
     {
-        "title": "Bournemouth  Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Bournemouth%20%20Manchester%20City",
+        "title": "Bournemouth - Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Bournemouth%20-%20Manchester%20City",
         "pubdate": "Sat, 02 Nov 2024 16:00:00 +0100"
     },
     {
-        "title": "Racing de Santander  Albacete",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Racing%20de%20Santander%20%20Albacete",
+        "title": "Racing de Santander - Albacete",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Racing%20de%20Santander%20-%20Albacete",
         "pubdate": "Sat, 02 Nov 2024 19:00:00 +0100"
-    },
-    {
-        "title": "Bonaire",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Bonaire",
-        "pubdate": "Sat, 02 Nov 2024 13:00:00 +0100"
     },
     {
         "title": "Sporting Gijón)  Cádiz",
@@ -60,14 +65,14 @@
         "pubdate": "Sat, 02 Nov 2024 19:00:00 +0100"
     },
     {
+        "title": "Marcela Riquelme",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Marcela%20Riquelme",
+        "pubdate": "Sat, 02 Nov 2024 13:00:00 +0100"
+    },
+    {
         "title": "Mundial padel 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Mundial%20padel%202024",
         "pubdate": "Sat, 02 Nov 2024 15:00:00 +0100"
-    },
-    {
-        "title": "Vuelo Avianca Bogotá-Madrid emergencia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Vuelo%20Avianca%20Bogot%C3%A1-Madrid%20emergencia",
-        "pubdate": "Sat, 02 Nov 2024 11:00:00 +0100"
     },
     {
         "title": "PSG - Lens",
@@ -75,18 +80,8 @@
         "pubdate": "Sat, 02 Nov 2024 18:00:00 +0100"
     },
     {
-        "title": "Eibar  Elche CF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Eibar%20%20Elche%20CF",
-        "pubdate": "Sat, 02 Nov 2024 15:00:00 +0100"
-    },
-    {
-        "title": "Ayuda Terreta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ayuda%20Terreta",
-        "pubdate": "Sat, 02 Nov 2024 14:00:00 +0100"
-    },
-    {
-        "title": "Fortnite",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Fortnite",
+        "title": "Vuelo Avianca Bogotá-Madrid emergencia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Vuelo%20Avianca%20Bogot%C3%A1-Madrid%20emergencia",
         "pubdate": "Sat, 02 Nov 2024 11:00:00 +0100"
     },
     {
@@ -95,8 +90,13 @@
         "pubdate": "Sat, 02 Nov 2024 18:00:00 +0100"
     },
     {
-        "title": "Udinese  Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Udinese%20%20Juventus",
-        "pubdate": "Sat, 02 Nov 2024 20:00:00 +0100"
+        "title": "Eibar  Elche CF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Eibar%20%20Elche%20CF",
+        "pubdate": "Sat, 02 Nov 2024 15:00:00 +0100"
+    },
+    {
+        "title": "Fortnite",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Fortnite",
+        "pubdate": "Sat, 02 Nov 2024 11:00:00 +0100"
     }
 ]

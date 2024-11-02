@@ -5,6 +5,11 @@
         "pubdate": "Sun, 03 Nov 2024 01:00:00 +0800"
     },
     {
+        "title": "Worlds 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Worlds%202024",
+        "pubdate": "Sun, 03 Nov 2024 02:00:00 +0800"
+    },
+    {
         "title": "Wolves vs Crystal Palace",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Wolves%20vs%20Crystal%20Palace",
         "pubdate": "Sun, 03 Nov 2024 03:00:00 +0800"
@@ -93,10 +98,5 @@
         "title": "Agatha All Along",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Agatha%20All%20Along",
         "pubdate": "Thu, 31 Oct 2024 15:00:00 +0800"
-    },
-    {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Chelsea",
-        "pubdate": "Thu, 31 Oct 2024 07:00:00 +0800"
     }
 ]
