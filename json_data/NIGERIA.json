@@ -5,6 +5,11 @@
         "pubdate": "Sat, 02 Nov 2024 02:00:00 +0100"
     },
     {
+        "title": "Premier League table",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Premier%20League%20table",
+        "pubdate": "Sat, 02 Nov 2024 17:00:00 +0100"
+    },
+    {
         "title": "Bournemouth vs Man City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Bournemouth%20vs%20Man%20City",
         "pubdate": "Sat, 02 Nov 2024 12:00:00 +0100"
@@ -13,11 +18,6 @@
         "title": "Liverpool vs Brighton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Liverpool%20vs%20Brighton",
         "pubdate": "Sat, 02 Nov 2024 15:00:00 +0100"
-    },
-    {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Liverpool",
-        "pubdate": "Sat, 02 Nov 2024 17:00:00 +0100"
     },
     {
         "title": "Bayern vs Union Berlin",
@@ -40,14 +40,14 @@
         "pubdate": "Sat, 02 Nov 2024 16:00:00 +0100"
     },
     {
-        "title": "Southampton vs Everton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Southampton%20vs%20Everton",
-        "pubdate": "Sat, 02 Nov 2024 13:00:00 +0100"
-    },
-    {
         "title": "Udinese vs Juventus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Udinese%20vs%20Juventus",
         "pubdate": "Sat, 02 Nov 2024 18:00:00 +0100"
+    },
+    {
+        "title": "Southampton vs Everton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Southampton%20vs%20Everton",
+        "pubdate": "Sat, 02 Nov 2024 13:00:00 +0100"
     },
     {
         "title": "Liverpool FC",
@@ -60,13 +60,18 @@
         "pubdate": "Sat, 02 Nov 2024 14:00:00 +0100"
     },
     {
+        "title": "Monza vs Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Monza%20vs%20Milan",
+        "pubdate": "Sat, 02 Nov 2024 21:00:00 +0100"
+    },
+    {
         "title": "PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#PSG",
         "pubdate": "Sat, 02 Nov 2024 18:00:00 +0100"
     },
     {
-        "title": "All Souls' Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#All%20Souls'%20Day",
+        "title": "All Souls Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#All%20Souls%20Day",
         "pubdate": "Sat, 02 Nov 2024 06:00:00 +0100"
     },
     {
@@ -80,9 +85,9 @@
         "pubdate": "Sat, 02 Nov 2024 17:00:00 +0100"
     },
     {
-        "title": "Monza vs Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Monza%20vs%20Milan",
-        "pubdate": "Sat, 02 Nov 2024 21:00:00 +0100"
+        "title": "Acmilan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Acmilan",
+        "pubdate": "Sat, 02 Nov 2024 22:00:00 +0100"
     },
     {
         "title": "Bologna",
@@ -93,10 +98,5 @@
         "title": "Benfica",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Benfica",
         "pubdate": "Sat, 02 Nov 2024 20:00:00 +0100"
-    },
-    {
-        "title": "Crown Jewel 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Crown%20Jewel%202024",
-        "pubdate": "Sat, 02 Nov 2024 19:00:00 +0100"
     }
 ]
