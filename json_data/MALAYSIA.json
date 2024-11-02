@@ -10,6 +10,11 @@
         "pubdate": "Fri, 01 Nov 2024 03:00:00 +0800"
     },
     {
+        "title": "JDT",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#JDT",
+        "pubdate": "Fri, 01 Nov 2024 22:00:00 +0800"
+    },
+    {
         "title": "Squid Game Season 2",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Squid%20Game%20Season%202",
         "pubdate": "Fri, 01 Nov 2024 13:00:00 +0800"
@@ -25,14 +30,14 @@
         "pubdate": "Fri, 01 Nov 2024 20:00:00 +0800"
     },
     {
-        "title": "Emily in Paris",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Emily%20in%20Paris",
-        "pubdate": "Fri, 01 Nov 2024 06:00:00 +0800"
-    },
-    {
         "title": "Singham Again",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Singham%20Again",
         "pubdate": "Fri, 01 Nov 2024 14:00:00 +0800"
+    },
+    {
+        "title": "Emily in Paris",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Emily%20in%20Paris",
+        "pubdate": "Fri, 01 Nov 2024 06:00:00 +0800"
     },
     {
         "title": "All Souls Day",
@@ -57,6 +62,11 @@
     {
         "title": "MotoGP Malaysia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#MotoGP%20Malaysia",
+        "pubdate": "Fri, 01 Nov 2024 20:00:00 +0800"
+    },
+    {
+        "title": "Hong Kong Sixes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Hong%20Kong%20Sixes",
         "pubdate": "Fri, 01 Nov 2024 20:00:00 +0800"
     },
     {
@@ -88,15 +98,5 @@
         "title": "Preston vs Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Preston%20vs%20Arsenal",
         "pubdate": "Thu, 31 Oct 2024 04:00:00 +0800"
-    },
-    {
-        "title": "Amaran",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Amaran",
-        "pubdate": "Thu, 31 Oct 2024 11:00:00 +0800"
-    },
-    {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Chelsea",
-        "pubdate": "Thu, 31 Oct 2024 05:00:00 +0800"
     }
 ]

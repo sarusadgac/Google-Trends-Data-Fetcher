@@ -45,11 +45,6 @@
         "pubdate": "Fri, 01 Nov 2024 08:00:00 +0200"
     },
     {
-        "title": "Aleksander Barkov",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Aleksander%20Barkov",
-        "pubdate": "Fri, 01 Nov 2024 23:00:00 +0200"
-    },
-    {
         "title": "Esa Lindell",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Esa%20Lindell",
         "pubdate": "Fri, 01 Nov 2024 22:00:00 +0200"
@@ -98,5 +93,10 @@
         "title": "Valencia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Valencia",
         "pubdate": "Wed, 30 Oct 2024 08:00:00 +0200"
+    },
+    {
+        "title": "Joe Biden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Joe%20Biden",
+        "pubdate": "Wed, 30 Oct 2024 17:00:00 +0200"
     }
 ]
