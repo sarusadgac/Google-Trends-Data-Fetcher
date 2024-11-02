@@ -1,5 +1,10 @@
 [
     {
+        "title": "Osasuna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Osasuna",
+        "pubdate": "Sat, 02 Nov 2024 11:00:00 +0100"
+    },
+    {
         "title": "Adriano",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Adriano",
         "pubdate": "Sat, 02 Nov 2024 00:00:00 +0100"
@@ -13,6 +18,11 @@
         "title": "Mariah Carey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Mariah%20Carey",
         "pubdate": "Sat, 02 Nov 2024 00:00:00 +0100"
+    },
+    {
+        "title": "Mallorca alaves",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Mallorca%20alaves",
+        "pubdate": "Sat, 02 Nov 2024 10:00:00 +0100"
     },
     {
         "title": "Ultima hora Valencia",
@@ -65,6 +75,11 @@
         "pubdate": "Fri, 01 Nov 2024 16:00:00 +0100"
     },
     {
+        "title": "Mallorca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Mallorca",
+        "pubdate": "Fri, 01 Nov 2024 09:00:00 +0100"
+    },
+    {
         "title": "Dia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Dia",
         "pubdate": "Fri, 01 Nov 2024 00:00:00 +0100"
@@ -83,20 +98,5 @@
         "title": "Como ayudar DANA Valencia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Como%20ayudar%20DANA%20Valencia",
         "pubdate": "Fri, 01 Nov 2024 02:00:00 +0100"
-    },
-    {
-        "title": "Heidi Klum Halloween",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Heidi%20Klum%20Halloween",
-        "pubdate": "Fri, 01 Nov 2024 13:00:00 +0100"
-    },
-    {
-        "title": "Sito Miñanco",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Sito%20Mi%C3%B1anco",
-        "pubdate": "Fri, 01 Nov 2024 13:00:00 +0100"
-    },
-    {
-        "title": "Rozalen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Rozalen",
-        "pubdate": "Fri, 01 Nov 2024 17:00:00 +0100"
     }
 ]
