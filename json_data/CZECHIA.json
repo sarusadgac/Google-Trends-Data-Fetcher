@@ -20,11 +20,6 @@
         "pubdate": "Fri, 01 Nov 2024 23:00:00 +0100"
     },
     {
-        "title": "Leverkusen – Stuttgart",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Leverkusen%20%E2%80%93%20Stuttgart",
-        "pubdate": "Fri, 01 Nov 2024 20:00:00 +0100"
-    },
-    {
         "title": "Pavel Zedníček",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Pavel%20Zedn%C3%AD%C4%8Dek",
         "pubdate": "Fri, 01 Nov 2024 11:00:00 +0100"
@@ -55,8 +50,8 @@
         "pubdate": "Fri, 01 Nov 2024 17:00:00 +0100"
     },
     {
-        "title": "Alexandradaddario",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Alexandradaddario",
+        "title": "Alexandra Daddario",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Alexandra%20Daddario",
         "pubdate": "Fri, 01 Nov 2024 21:00:00 +0100"
     },
     {
@@ -98,5 +93,10 @@
         "title": "Povodně Valencie španělsko",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Povodn%C4%9B%20Valencie%20%C5%A1pan%C4%9Blsko",
         "pubdate": "Thu, 31 Oct 2024 19:00:00 +0100"
+    },
+    {
+        "title": "Jennifer Lopez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jennifer%20Lopez",
+        "pubdate": "Thu, 31 Oct 2024 00:00:00 +0100"
     }
 ]
