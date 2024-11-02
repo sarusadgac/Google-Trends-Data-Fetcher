@@ -15,11 +15,6 @@
         "pubdate": "Sat, 02 Nov 2024 06:00:00 +0200"
     },
     {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Arsenal",
-        "pubdate": "Sat, 02 Nov 2024 17:00:00 +0200"
-    },
-    {
         "title": "Adrian Nartea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Adrian%20Nartea",
         "pubdate": "Sat, 02 Nov 2024 01:00:00 +0200"
@@ -33,6 +28,11 @@
         "title": "Jennifer Lopez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Jennifer%20Lopez",
         "pubdate": "Sat, 02 Nov 2024 00:00:00 +0200"
+    },
+    {
+        "title": "Snoop Dogg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Snoop%20Dogg",
+        "pubdate": "Sat, 02 Nov 2024 20:00:00 +0200"
     },
     {
         "title": "Gloria Buzău CFR Cluj",
@@ -60,6 +60,11 @@
         "pubdate": "Fri, 01 Nov 2024 20:00:00 +0200"
     },
     {
+        "title": "MINA Cluj",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#MINA%20Cluj",
+        "pubdate": "Fri, 01 Nov 2024 12:00:00 +0200"
+    },
+    {
         "title": "Ruben Amorim",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ruben%20Amorim",
         "pubdate": "Fri, 01 Nov 2024 19:00:00 +0200"
@@ -85,18 +90,13 @@
         "pubdate": "Fri, 01 Nov 2024 10:00:00 +0200"
     },
     {
-        "title": "Avocata acuzata",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Avocata%20acuzata",
-        "pubdate": "Fri, 01 Nov 2024 20:00:00 +0200"
-    },
-    {
         "title": "Postul craciunului",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Postul%20craciunului",
         "pubdate": "Fri, 01 Nov 2024 19:00:00 +0200"
     },
     {
-        "title": "Stoianoglo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Stoianoglo",
-        "pubdate": "Fri, 01 Nov 2024 22:00:00 +0200"
+        "title": "Avocata acuzata",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Avocata%20acuzata",
+        "pubdate": "Fri, 01 Nov 2024 20:00:00 +0200"
     }
 ]
