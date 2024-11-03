@@ -40,6 +40,11 @@
         "pubdate": "Sun, 03 Nov 2024 20:00:00 +1300"
     },
     {
+        "title": "F1 results",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#F1%20results",
+        "pubdate": "Sun, 03 Nov 2024 12:00:00 +1300"
+    },
+    {
         "title": "Kemi Badenoch",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Kemi%20Badenoch",
         "pubdate": "Sun, 03 Nov 2024 10:00:00 +1300"
@@ -48,11 +53,6 @@
         "title": "Wallace Sititi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Wallace%20Sititi",
         "pubdate": "Sun, 03 Nov 2024 10:00:00 +1300"
-    },
-    {
-        "title": "F1 results",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#F1%20results",
-        "pubdate": "Sun, 03 Nov 2024 12:00:00 +1300"
     },
     {
         "title": "Billy Joel",
@@ -65,8 +65,8 @@
         "pubdate": "Sun, 03 Nov 2024 09:00:00 +1300"
     },
     {
-        "title": "F1 sprint",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#F1%20sprint",
+        "title": "F1 Sprint",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#F1%20Sprint",
         "pubdate": "Sun, 03 Nov 2024 08:00:00 +1300"
     },
     {
@@ -85,6 +85,11 @@
         "pubdate": "Sun, 03 Nov 2024 10:00:00 +1300"
     },
     {
+        "title": "John Wick",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#John%20Wick",
+        "pubdate": "Sun, 03 Nov 2024 22:00:00 +1300"
+    },
+    {
         "title": "NBL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#NBL",
         "pubdate": "Sun, 03 Nov 2024 09:00:00 +1300"
@@ -93,10 +98,5 @@
         "title": "Margot Robbie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Margot%20Robbie",
         "pubdate": "Sun, 03 Nov 2024 21:00:00 +1300"
-    },
-    {
-        "title": "Janey Godley",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Janey%20Godley",
-        "pubdate": "Sun, 03 Nov 2024 18:00:00 +1300"
     }
 ]
