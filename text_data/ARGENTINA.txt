@@ -2,7 +2,6 @@ Coco
 River Plate  Banfield
 Atlanta United  Inter Miami
 Deportivo Riestra.  Talleres
-A que hora corre Colapinto
 Bournemouth  Manchester City
 Belgrano  Defensa y Justicia
 Liverpool  Brighton
@@ -18,3 +17,4 @@ T1
 2 de noviembre que se celebra
 PSG - Lens
 Udinese  Juventus
+Generacion Dorada

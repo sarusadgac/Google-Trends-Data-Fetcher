@@ -5,11 +5,6 @@
         "pubdate": "Sun, 03 Nov 2024 01:00:00 +0200"
     },
     {
-        "title": "Inter Miami",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Inter%20Miami",
-        "pubdate": "Sun, 03 Nov 2024 11:00:00 +0200"
-    },
-    {
         "title": "Man United vs Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Man%20United%20vs%20Chelsea",
         "pubdate": "Sun, 03 Nov 2024 11:00:00 +0200"
@@ -98,5 +93,10 @@
         "title": "Southampton vs Everton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Southampton%20vs%20Everton",
         "pubdate": "Sat, 02 Nov 2024 17:00:00 +0200"
+    },
+    {
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#PSG",
+        "pubdate": "Sat, 02 Nov 2024 18:00:00 +0200"
     }
 ]

@@ -10,6 +10,11 @@
         "pubdate": "Sun, 03 Nov 2024 00:00:00 -0400"
     },
     {
+        "title": "John Mulaney",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#John%20Mulaney",
+        "pubdate": "Sun, 03 Nov 2024 00:00:00 -0400"
+    },
+    {
         "title": "Canucks vs Sharks",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canucks%20vs%20Sharks",
         "pubdate": "Sun, 03 Nov 2024 00:00:00 -0400"
@@ -50,24 +55,9 @@
         "pubdate": "Sat, 02 Nov 2024 09:00:00 -0400"
     },
     {
-        "title": "Newcastle vs Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Newcastle%20vs%20Arsenal",
-        "pubdate": "Sat, 02 Nov 2024 09:00:00 -0400"
-    },
-    {
         "title": "Peanut the squirrel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Peanut%20the%20squirrel",
         "pubdate": "Sat, 02 Nov 2024 11:00:00 -0400"
-    },
-    {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Liverpool",
-        "pubdate": "Sat, 02 Nov 2024 12:00:00 -0400"
-    },
-    {
-        "title": "B.C. Lions",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#B.C.%20Lions",
-        "pubdate": "Sat, 02 Nov 2024 14:00:00 -0400"
     },
     {
         "title": "Calgary Flames",
@@ -90,13 +80,23 @@
         "pubdate": "Sat, 02 Nov 2024 18:00:00 -0400"
     },
     {
+        "title": "B.C. Lions",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#B.C.%20Lions",
+        "pubdate": "Sat, 02 Nov 2024 14:00:00 -0400"
+    },
+    {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Arsenal",
+        "pubdate": "Sat, 02 Nov 2024 10:00:00 -0400"
+    },
+    {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Liverpool",
+        "pubdate": "Sat, 02 Nov 2024 13:00:00 -0400"
+    },
+    {
         "title": "Erin Blanchfield",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Erin%20Blanchfield",
         "pubdate": "Sat, 02 Nov 2024 22:00:00 -0400"
-    },
-    {
-        "title": "Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Man%20City",
-        "pubdate": "Sat, 02 Nov 2024 16:00:00 -0400"
     }
 ]

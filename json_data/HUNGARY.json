@@ -5,6 +5,11 @@
         "pubdate": "Sun, 03 Nov 2024 06:00:00 +0100"
     },
     {
+        "title": "Formula 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Formula%201",
+        "pubdate": "Sun, 03 Nov 2024 11:00:00 +0100"
+    },
+    {
         "title": "Pogány Induló",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Pog%C3%A1ny%20Indul%C3%B3",
         "pubdate": "Sun, 03 Nov 2024 01:00:00 +0100"
@@ -70,6 +75,11 @@
         "pubdate": "Sat, 02 Nov 2024 17:00:00 +0100"
     },
     {
+        "title": "Kozmutza Flóra",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kozmutza%20Fl%C3%B3ra",
+        "pubdate": "Sat, 02 Nov 2024 13:00:00 +0100"
+    },
+    {
         "title": "Gerhard Schröder",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Gerhard%20Schr%C3%B6der",
         "pubdate": "Sat, 02 Nov 2024 23:00:00 +0100"
@@ -80,11 +90,6 @@
         "pubdate": "Sat, 02 Nov 2024 11:00:00 +0100"
     },
     {
-        "title": "Szabó Lőrinc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szab%C3%B3%20L%C5%91rinc",
-        "pubdate": "Sat, 02 Nov 2024 18:00:00 +0100"
-    },
-    {
         "title": "Scherer Péter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Scherer%20P%C3%A9ter",
         "pubdate": "Sat, 02 Nov 2024 20:00:00 +0100"
@@ -92,11 +97,6 @@
     {
         "title": "Kemi Badenoch",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kemi%20Badenoch",
-        "pubdate": "Sat, 02 Nov 2024 19:00:00 +0100"
-    },
-    {
-        "title": "Morten Stig Christensen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Morten%20Stig%20Christensen",
         "pubdate": "Sat, 02 Nov 2024 19:00:00 +0100"
     }
 ]

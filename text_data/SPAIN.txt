@@ -1,12 +1,14 @@
-Aemet Valencia
 Atlanta United  Inter Miami
+Aemet Valencia
 Maria Casado
 Alexander Zverev
 Manresa - Unicaja
 River Plate  Banfield
+Juan Manuel de Prada
+Almeria
 Zaragoza  Breogán
-Aemet almeria
 Oscar Puente
+City
 Girona  Leganés
 Osasuna  Valladolid
 Centro comercial Bonaire
@@ -16,5 +18,3 @@ Racing de Santander  Albacete
 Sporting Gijón - Cádiz
 Cartagena  Deportivo
 Real Zaragoza  Granada
-Newcastle  Arsenal
-Liverpool  Brighton
