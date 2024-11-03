@@ -55,11 +55,6 @@
         "pubdate": "Sat, 02 Nov 2024 18:00:00 -0500"
     },
     {
-        "title": "UTC vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#UTC%20vs",
-        "pubdate": "Sat, 02 Nov 2024 09:00:00 -0500"
-    },
-    {
         "title": "Bournemouth - Manchester City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bournemouth%20-%20Manchester%20City",
         "pubdate": "Sat, 02 Nov 2024 10:00:00 -0500"
@@ -78,6 +73,11 @@
         "title": "Newcastle  Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Newcastle%20%20Arsenal",
         "pubdate": "Sat, 02 Nov 2024 07:00:00 -0500"
+    },
+    {
+        "title": "UTC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#UTC",
+        "pubdate": "Sat, 02 Nov 2024 13:00:00 -0500"
     },
     {
         "title": "PSG - Lens",
