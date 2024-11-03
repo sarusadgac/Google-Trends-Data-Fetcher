@@ -55,6 +55,11 @@
         "pubdate": "Sat, 02 Nov 2024 11:00:00 +0100"
     },
     {
+        "title": "Madonna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Madonna",
+        "pubdate": "Sat, 02 Nov 2024 11:00:00 +0100"
+    },
+    {
         "title": "Frölunda Brynäs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Fr%C3%B6lunda%20Bryn%C3%A4s",
         "pubdate": "Sat, 02 Nov 2024 18:00:00 +0100"
@@ -65,9 +70,9 @@
         "pubdate": "Sat, 02 Nov 2024 18:00:00 +0100"
     },
     {
-        "title": "Newcastle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Newcastle",
-        "pubdate": "Sat, 02 Nov 2024 16:00:00 +0100"
+        "title": "Umeå FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ume%C3%A5%20FC",
+        "pubdate": "Sat, 02 Nov 2024 18:00:00 +0100"
     },
     {
         "title": "Elfsborg",
@@ -93,10 +98,5 @@
         "title": "Falkenbergs FF",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Falkenbergs%20FF",
         "pubdate": "Sat, 02 Nov 2024 22:00:00 +0100"
-    },
-    {
-        "title": "Jennifer Lopez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jennifer%20Lopez",
-        "pubdate": "Sat, 02 Nov 2024 02:00:00 +0100"
     }
 ]
