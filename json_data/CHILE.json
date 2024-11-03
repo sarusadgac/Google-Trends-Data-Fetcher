@@ -5,6 +5,11 @@
         "pubdate": "Sun, 03 Nov 2024 00:00:00 -0300"
     },
     {
+        "title": "Mauricio Redolés",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Mauricio%20Redol%C3%A9s",
+        "pubdate": "Sun, 03 Nov 2024 01:00:00 -0300"
+    },
+    {
         "title": "Cobreloa u Católica",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cobreloa%20u%20Cat%C3%B3lica",
         "pubdate": "Sat, 02 Nov 2024 13:00:00 -0300"
@@ -20,14 +25,14 @@
         "pubdate": "Sat, 02 Nov 2024 16:00:00 -0300"
     },
     {
-        "title": "Bournemouth  Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Bournemouth%20%20Manchester%20City",
-        "pubdate": "Sat, 02 Nov 2024 12:00:00 -0300"
-    },
-    {
         "title": "River Plate  Banfield",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#River%20Plate%20%20Banfield",
         "pubdate": "Sat, 02 Nov 2024 18:00:00 -0300"
+    },
+    {
+        "title": "Bournemouth  Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Bournemouth%20%20Manchester%20City",
+        "pubdate": "Sat, 02 Nov 2024 12:00:00 -0300"
     },
     {
         "title": "Udinese  Juventus",
@@ -43,6 +48,11 @@
         "title": "Everton  Huachipato",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Everton%20%20Huachipato",
         "pubdate": "Sat, 02 Nov 2024 17:00:00 -0300"
+    },
+    {
+        "title": "Atlanta United  Inter Miami",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Atlanta%20United%20%20Inter%20Miami",
+        "pubdate": "Sat, 02 Nov 2024 20:00:00 -0300"
     },
     {
         "title": "Newcastle  Arsenal",
@@ -65,9 +75,9 @@
         "pubdate": "Sat, 02 Nov 2024 19:00:00 -0300"
     },
     {
-        "title": "Atlanta United  Inter Miami",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Atlanta%20United%20%20Inter%20Miami",
-        "pubdate": "Sat, 02 Nov 2024 20:00:00 -0300"
+        "title": "Union Española",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Union%20Espa%C3%B1ola",
+        "pubdate": "Sat, 02 Nov 2024 17:00:00 -0300"
     },
     {
         "title": "T1",
@@ -75,28 +85,18 @@
         "pubdate": "Sat, 02 Nov 2024 16:00:00 -0300"
     },
     {
+        "title": "Universidad de Chile vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Universidad%20de%20Chile%20vs",
+        "pubdate": "Sat, 02 Nov 2024 21:00:00 -0300"
+    },
+    {
         "title": "Coquimbo Unido",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Coquimbo%20Unido",
         "pubdate": "Sat, 02 Nov 2024 18:00:00 -0300"
     },
     {
-        "title": "Union Española",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Union%20Espa%C3%B1ola",
-        "pubdate": "Sat, 02 Nov 2024 17:00:00 -0300"
-    },
-    {
-        "title": "Palestino",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Palestino",
-        "pubdate": "Sat, 02 Nov 2024 20:00:00 -0300"
-    },
-    {
-        "title": "Monza - Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Monza%20-%20Milan",
+        "title": "Primera a",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Primera%20a",
         "pubdate": "Sat, 02 Nov 2024 18:00:00 -0300"
-    },
-    {
-        "title": "Southampton - Everton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Southampton%20-%20Everton",
-        "pubdate": "Sat, 02 Nov 2024 13:00:00 -0300"
     }
 ]
