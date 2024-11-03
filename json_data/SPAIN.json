@@ -20,8 +20,8 @@
         "pubdate": "Sun, 03 Nov 2024 12:00:00 +0100"
     },
     {
-        "title": "Aemet Valencia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Aemet%20Valencia",
+        "title": "AEMET Valencia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#AEMET%20Valencia",
         "pubdate": "Sun, 03 Nov 2024 10:00:00 +0100"
     },
     {
@@ -35,8 +35,18 @@
         "pubdate": "Sun, 03 Nov 2024 14:00:00 +0100"
     },
     {
-        "title": "La sexta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#La%20sexta",
+        "title": "Sevilla - Real Sociedad",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Sevilla%20-%20Real%20Sociedad",
+        "pubdate": "Sun, 03 Nov 2024 18:00:00 +0100"
+    },
+    {
+        "title": "La Sexta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#La%20Sexta",
+        "pubdate": "Sun, 03 Nov 2024 16:00:00 +0100"
+    },
+    {
+        "title": "Tottenham  Aston Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Tottenham%20%20Aston%20Villa",
         "pubdate": "Sun, 03 Nov 2024 16:00:00 +0100"
     },
     {
@@ -45,8 +55,18 @@
         "pubdate": "Sun, 03 Nov 2024 13:00:00 +0100"
     },
     {
+        "title": "Manchester United - Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Manchester%20United%20-%20Chelsea",
+        "pubdate": "Sun, 03 Nov 2024 17:00:00 +0100"
+    },
+    {
         "title": "Alexander Zverev",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Alexander%20Zverev",
+        "pubdate": "Sun, 03 Nov 2024 01:00:00 +0100"
+    },
+    {
+        "title": "Maria Casado",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Maria%20Casado",
         "pubdate": "Sun, 03 Nov 2024 01:00:00 +0100"
     },
     {
@@ -55,19 +75,19 @@
         "pubdate": "Sun, 03 Nov 2024 14:00:00 +0100"
     },
     {
-        "title": "Maria Casado",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Maria%20Casado",
-        "pubdate": "Sun, 03 Nov 2024 01:00:00 +0100"
-    },
-    {
-        "title": "Tottenham  Aston Villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Tottenham%20%20Aston%20Villa",
-        "pubdate": "Sun, 03 Nov 2024 16:00:00 +0100"
-    },
-    {
         "title": "Barça  Leyma Coruña",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Bar%C3%A7a%20%20Leyma%20Coru%C3%B1a",
         "pubdate": "Sun, 03 Nov 2024 14:00:00 +0100"
+    },
+    {
+        "title": "Elecciones eeuu 2024 fecha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Elecciones%20eeuu%202024%20fecha",
+        "pubdate": "Sun, 03 Nov 2024 16:00:00 +0100"
+    },
+    {
+        "title": "Nuria Roca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Nuria%20Roca",
+        "pubdate": "Sun, 03 Nov 2024 17:00:00 +0100"
     },
     {
         "title": "Marcelo",
@@ -78,25 +98,5 @@
         "title": "Oscar Puente",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Oscar%20Puente",
         "pubdate": "Sun, 03 Nov 2024 12:00:00 +0100"
-    },
-    {
-        "title": "Manresa  Unicaja",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Manresa%20%20Unicaja",
-        "pubdate": "Sun, 03 Nov 2024 01:00:00 +0100"
-    },
-    {
-        "title": "Malta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Malta",
-        "pubdate": "Sun, 03 Nov 2024 14:00:00 +0100"
-    },
-    {
-        "title": "Juan Manuel de Prada",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Juan%20Manuel%20de%20Prada",
-        "pubdate": "Sun, 03 Nov 2024 10:00:00 +0100"
-    },
-    {
-        "title": "Morientes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Morientes",
-        "pubdate": "Sun, 03 Nov 2024 16:00:00 +0100"
     }
 ]
