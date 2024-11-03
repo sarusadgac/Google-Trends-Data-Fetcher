@@ -35,11 +35,6 @@
         "pubdate": "Sat, 02 Nov 2024 11:00:00 +0200"
     },
     {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Liverpool",
-        "pubdate": "Sat, 02 Nov 2024 18:00:00 +0200"
-    },
-    {
         "title": "Bayern vs Union Berlin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bayern%20vs%20Union%20Berlin",
         "pubdate": "Sat, 02 Nov 2024 14:00:00 +0200"
@@ -75,14 +70,14 @@
         "pubdate": "Sat, 02 Nov 2024 16:00:00 +0200"
     },
     {
-        "title": "Southampton vs Everton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Southampton%20vs%20Everton",
-        "pubdate": "Sat, 02 Nov 2024 17:00:00 +0200"
-    },
-    {
         "title": "AC Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#AC%20Milan",
         "pubdate": "Sat, 02 Nov 2024 22:00:00 +0200"
+    },
+    {
+        "title": "Southampton vs Everton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Southampton%20vs%20Everton",
+        "pubdate": "Sat, 02 Nov 2024 17:00:00 +0200"
     },
     {
         "title": "PSG",
@@ -93,6 +88,11 @@
         "title": "Manchester City FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Manchester%20City%20FC",
         "pubdate": "Sat, 02 Nov 2024 20:00:00 +0200"
+    },
+    {
+        "title": "Cape Town City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Cape%20Town%20City",
+        "pubdate": "Sat, 02 Nov 2024 17:00:00 +0200"
     },
     {
         "title": "Crown Jewel 2024",
