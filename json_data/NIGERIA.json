@@ -15,6 +15,11 @@
         "pubdate": "Sun, 03 Nov 2024 10:00:00 +0100"
     },
     {
+        "title": "Tottenham vs Aston Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Tottenham%20vs%20Aston%20Villa",
+        "pubdate": "Sun, 03 Nov 2024 10:00:00 +0100"
+    },
+    {
         "title": "Newcastle vs Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Newcastle%20vs%20Arsenal",
         "pubdate": "Sat, 02 Nov 2024 02:00:00 +0100"
@@ -93,10 +98,5 @@
         "title": "Viktor gyökeres",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Viktor%20gy%C3%B6keres",
         "pubdate": "Sat, 02 Nov 2024 01:00:00 +0100"
-    },
-    {
-        "title": "Israel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Israel",
-        "pubdate": "Sat, 02 Nov 2024 17:00:00 +0100"
     }
 ]
