@@ -2,12 +2,12 @@
     {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Liverpool",
-        "pubdate": "Sun, 03 Nov 2024 08:00:00 +1100"
+        "pubdate": "Sun, 03 Nov 2024 02:00:00 +1100"
     },
     {
-        "title": "Liverpool vs Brighton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Liverpool%20vs%20Brighton",
-        "pubdate": "Sun, 03 Nov 2024 02:00:00 +1100"
+        "title": "West Indies vs England",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#West%20Indies%20vs%20England",
+        "pubdate": "Sun, 03 Nov 2024 05:00:00 +1100"
     },
     {
         "title": "Bournemouth vs Man City",
@@ -25,11 +25,6 @@
         "pubdate": "Sun, 03 Nov 2024 03:00:00 +1100"
     },
     {
-        "title": "West Indies vs England",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#West%20Indies%20vs%20England",
-        "pubdate": "Sun, 03 Nov 2024 05:00:00 +1100"
-    },
-    {
         "title": "Kemi Badenoch",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Kemi%20Badenoch",
         "pubdate": "Sun, 03 Nov 2024 00:00:00 +1100"
@@ -45,6 +40,11 @@
         "pubdate": "Sun, 03 Nov 2024 08:00:00 +1100"
     },
     {
+        "title": "Margot Robbie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Margot%20Robbie",
+        "pubdate": "Sun, 03 Nov 2024 11:00:00 +1100"
+    },
+    {
         "title": "Samoa vs England",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Samoa%20vs%20England",
         "pubdate": "Sun, 03 Nov 2024 07:00:00 +1100"
@@ -55,19 +55,34 @@
         "pubdate": "Sun, 03 Nov 2024 09:00:00 +1100"
     },
     {
-        "title": "Cassius crocodile",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Cassius%20crocodile",
-        "pubdate": "Sun, 03 Nov 2024 09:00:00 +1100"
-    },
-    {
         "title": "Wolves vs Crystal Palace",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Wolves%20vs%20Crystal%20Palace",
         "pubdate": "Sun, 03 Nov 2024 10:00:00 +1100"
     },
     {
+        "title": "Cassius crocodile",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Cassius%20crocodile",
+        "pubdate": "Sun, 03 Nov 2024 09:00:00 +1100"
+    },
+    {
         "title": "Cardi B",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Cardi%20B",
         "pubdate": "Sun, 03 Nov 2024 09:00:00 +1100"
+    },
+    {
+        "title": "Texas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Texas",
+        "pubdate": "Sun, 03 Nov 2024 12:00:00 +1100"
+    },
+    {
+        "title": "Nottm Forest vs West Ham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Nottm%20Forest%20vs%20West%20Ham",
+        "pubdate": "Sun, 03 Nov 2024 12:00:00 +1100"
+    },
+    {
+        "title": "Rugby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Rugby",
+        "pubdate": "Sun, 03 Nov 2024 12:00:00 +1100"
     },
     {
         "title": "Newcastle vs Arsenal",
@@ -83,20 +98,5 @@
         "title": "Melbourne Cup field 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Melbourne%20Cup%20field%202024",
         "pubdate": "Sat, 02 Nov 2024 21:00:00 +1100"
-    },
-    {
-        "title": "Derby Day 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Derby%20Day%202024",
-        "pubdate": "Sat, 02 Nov 2024 10:00:00 +1100"
-    },
-    {
-        "title": "Fortnite",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Fortnite",
-        "pubdate": "Sat, 02 Nov 2024 21:00:00 +1100"
-    },
-    {
-        "title": "Rohit Bal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Rohit%20Bal",
-        "pubdate": "Sat, 02 Nov 2024 11:00:00 +1100"
     }
 ]

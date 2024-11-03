@@ -5,8 +5,8 @@
         "pubdate": "Sat, 02 Nov 2024 21:00:00 +0200"
     },
     {
-        "title": "Sepsi  Petrolul",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sepsi%20%20Petrolul",
+        "title": "Sepsi - Petrolul",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sepsi%20-%20Petrolul",
         "pubdate": "Sat, 02 Nov 2024 18:00:00 +0200"
     },
     {
@@ -18,6 +18,11 @@
         "title": "Liverpool  Brighton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Liverpool%20%20Brighton",
         "pubdate": "Sat, 02 Nov 2024 17:00:00 +0200"
+    },
+    {
+        "title": "Udinese - Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Udinese%20-%20Juventus",
+        "pubdate": "Sat, 02 Nov 2024 19:00:00 +0200"
     },
     {
         "title": "Dortmund - RB Leipzig",
@@ -38,11 +43,6 @@
         "title": "Horia Brenciu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Horia%20Brenciu",
         "pubdate": "Sat, 02 Nov 2024 06:00:00 +0200"
-    },
-    {
-        "title": "Adrian Nartea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Adrian%20Nartea",
-        "pubdate": "Sat, 02 Nov 2024 01:00:00 +0200"
     },
     {
         "title": "Girona.  leganés",
@@ -80,14 +80,14 @@
         "pubdate": "Fri, 01 Nov 2024 20:00:00 +0200"
     },
     {
-        "title": "2 noiembrie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#2%20noiembrie",
-        "pubdate": "Fri, 01 Nov 2024 18:00:00 +0200"
-    },
-    {
         "title": "Lucian Pahonțu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Lucian%20Pahon%C8%9Bu",
         "pubdate": "Fri, 01 Nov 2024 20:00:00 +0200"
+    },
+    {
+        "title": "MINA Cluj",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#MINA%20Cluj",
+        "pubdate": "Fri, 01 Nov 2024 12:00:00 +0200"
     },
     {
         "title": "Ruben Amorim",
@@ -95,8 +95,8 @@
         "pubdate": "Fri, 01 Nov 2024 19:00:00 +0200"
     },
     {
-        "title": "Bayer  Stuttgart",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Bayer%20%20Stuttgart",
-        "pubdate": "Fri, 01 Nov 2024 23:00:00 +0200"
+        "title": "Sambata mortilor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sambata%20mortilor",
+        "pubdate": "Fri, 01 Nov 2024 18:00:00 +0200"
     }
 ]

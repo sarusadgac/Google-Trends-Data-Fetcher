@@ -1,5 +1,15 @@
 [
     {
+        "title": "Atlanta United  Inter Miami",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Atlanta%20United%20%20Inter%20Miami",
+        "pubdate": "Sun, 03 Nov 2024 00:00:00 +0000"
+    },
+    {
+        "title": "Santos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Santos",
+        "pubdate": "Sun, 03 Nov 2024 00:00:00 +0000"
+    },
+    {
         "title": "Bournemouth  City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bournemouth%20%20City",
         "pubdate": "Sat, 02 Nov 2024 15:00:00 +0000"
@@ -20,14 +30,14 @@
         "pubdate": "Sat, 02 Nov 2024 13:00:00 +0000"
     },
     {
-        "title": "PSG  Lens",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#PSG%20%20Lens",
-        "pubdate": "Sat, 02 Nov 2024 00:00:00 +0000"
-    },
-    {
         "title": "Gil Vicente-Boavista",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Gil%20Vicente-Boavista",
         "pubdate": "Sat, 02 Nov 2024 21:00:00 +0000"
+    },
+    {
+        "title": "PSG  Lens",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#PSG%20%20Lens",
+        "pubdate": "Sat, 02 Nov 2024 00:00:00 +0000"
     },
     {
         "title": "Udinese  Juventus",
@@ -35,8 +45,28 @@
         "pubdate": "Sat, 02 Nov 2024 18:00:00 +0000"
     },
     {
+        "title": "Liga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Liga",
+        "pubdate": "Sat, 02 Nov 2024 00:00:00 +0000"
+    },
+    {
         "title": "Xanana Gusmão",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Xanana%20Gusm%C3%A3o",
+        "pubdate": "Sat, 02 Nov 2024 14:00:00 +0000"
+    },
+    {
+        "title": "Homem baleado na Cova da Moura",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Homem%20baleado%20na%20Cova%20da%20Moura",
+        "pubdate": "Sat, 02 Nov 2024 20:00:00 +0000"
+    },
+    {
+        "title": "Fluminense",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Fluminense",
+        "pubdate": "Sat, 02 Nov 2024 03:00:00 +0000"
+    },
+    {
+        "title": "Goa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Goa",
         "pubdate": "Sat, 02 Nov 2024 14:00:00 +0000"
     },
     {
@@ -45,24 +75,14 @@
         "pubdate": "Sat, 02 Nov 2024 15:00:00 +0000"
     },
     {
-        "title": "Goa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Goa",
-        "pubdate": "Sat, 02 Nov 2024 14:00:00 +0000"
-    },
-    {
-        "title": "Fluminense",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Fluminense",
-        "pubdate": "Sat, 02 Nov 2024 03:00:00 +0000"
-    },
-    {
         "title": "Fortnite",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Fortnite",
         "pubdate": "Sat, 02 Nov 2024 12:00:00 +0000"
     },
     {
-        "title": "Homem baleado na Cova da Moura",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Homem%20baleado%20na%20Cova%20da%20Moura",
-        "pubdate": "Sat, 02 Nov 2024 20:00:00 +0000"
+        "title": "Worlds 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Worlds%202024",
+        "pubdate": "Sat, 02 Nov 2024 19:00:00 +0000"
     },
     {
         "title": "Fluminense  Grêmio",
@@ -75,28 +95,8 @@
         "pubdate": "Sat, 02 Nov 2024 12:00:00 +0000"
     },
     {
-        "title": "Worlds 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Worlds%202024",
-        "pubdate": "Sat, 02 Nov 2024 19:00:00 +0000"
-    },
-    {
-        "title": "Kemi Badenoch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Kemi%20Badenoch",
-        "pubdate": "Sat, 02 Nov 2024 15:00:00 +0000"
-    },
-    {
-        "title": "Benfica Porto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Benfica%20Porto",
-        "pubdate": "Sat, 02 Nov 2024 19:00:00 +0000"
-    },
-    {
-        "title": "Antena 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Antena%201",
-        "pubdate": "Sat, 02 Nov 2024 19:00:00 +0000"
-    },
-    {
-        "title": "Eleicoes americanas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Eleicoes%20americanas",
-        "pubdate": "Sat, 02 Nov 2024 14:00:00 +0000"
+        "title": "Adriano",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Adriano",
+        "pubdate": "Sat, 02 Nov 2024 20:00:00 +0000"
     }
 ]

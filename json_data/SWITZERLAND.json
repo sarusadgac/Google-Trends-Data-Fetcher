@@ -1,5 +1,15 @@
 [
     {
+        "title": "AC Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#AC%20Milan",
+        "pubdate": "Sun, 03 Nov 2024 02:00:00 +0100"
+    },
+    {
+        "title": "Monza – AC milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Monza%20%E2%80%93%20AC%20milan",
+        "pubdate": "Sun, 03 Nov 2024 01:00:00 +0100"
+    },
+    {
         "title": "WTA Finals",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#WTA%20Finals",
         "pubdate": "Sun, 03 Nov 2024 00:00:00 +0100"
@@ -10,11 +20,6 @@
         "pubdate": "Sat, 02 Nov 2024 18:00:00 +0100"
     },
     {
-        "title": "St.Gallen – FC Sion",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#St.Gallen%20%E2%80%93%20FC%20Sion",
-        "pubdate": "Sat, 02 Nov 2024 19:00:00 +0100"
-    },
-    {
         "title": "Bâle – FC winterthour",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#B%C3%A2le%20%E2%80%93%20FC%20winterthour",
         "pubdate": "Sat, 02 Nov 2024 18:00:00 +0100"
@@ -23,6 +28,11 @@
         "title": "Slimane",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Slimane",
         "pubdate": "Sat, 02 Nov 2024 00:00:00 +0100"
+    },
+    {
+        "title": "St.Gallen – FC Sion",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#St.Gallen%20%E2%80%93%20FC%20Sion",
+        "pubdate": "Sat, 02 Nov 2024 19:00:00 +0100"
     },
     {
         "title": "Helene Fischer",
@@ -45,11 +55,6 @@
         "pubdate": "Sat, 02 Nov 2024 18:00:00 +0100"
     },
     {
-        "title": "Donald Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Donald%20Trump",
-        "pubdate": "Sat, 02 Nov 2024 00:00:00 +0100"
-    },
-    {
         "title": "Kinderspital Zürich",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Kinderspital%20Z%C3%BCrich",
         "pubdate": "Sat, 02 Nov 2024 13:00:00 +0100"
@@ -65,9 +70,9 @@
         "pubdate": "Sat, 02 Nov 2024 19:00:00 +0100"
     },
     {
-        "title": "Benfica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Benfica",
-        "pubdate": "Sat, 02 Nov 2024 20:00:00 +0100"
+        "title": "Lily Phillips",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lily%20Phillips",
+        "pubdate": "Sat, 02 Nov 2024 16:00:00 +0100"
     },
     {
         "title": "Kemi Badenoch",
@@ -93,10 +98,5 @@
         "title": "Juventus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Juventus",
         "pubdate": "Sat, 02 Nov 2024 19:00:00 +0100"
-    },
-    {
-        "title": "Bernard Pichon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bernard%20Pichon",
-        "pubdate": "Sat, 02 Nov 2024 22:00:00 +0100"
     }
 ]
