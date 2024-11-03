@@ -4,8 +4,8 @@ Erva-das-pampas
 Bournemouth  City
 Liverpool  Brighton
 Rio Ave-Casa Pia
+Gil Vicente,  Boavista
 Newcastle  Arsenal
-Gil Vicente-Boavista
 PSG  Lens
 Udinese  Juventus
 Xanana Gusmão
@@ -16,5 +16,5 @@ Bayern  Union Berlin
 Worlds 2024
 Fortnite
 Adriano
+Marítimo  Penafiel
 Fluminense  Grêmio
-Portimonense  Vizela

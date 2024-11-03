@@ -10,11 +10,6 @@
         "pubdate": "Sun, 03 Nov 2024 03:00:00 +0300"
     },
     {
-        "title": "Marcelo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Marcelo",
-        "pubdate": "Sun, 03 Nov 2024 00:00:00 +0300"
-    },
-    {
         "title": "Halil Uluay kalp krizi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Halil%20Uluay%20kalp%20krizi",
         "pubdate": "Sun, 03 Nov 2024 03:00:00 +0300"
@@ -43,11 +38,6 @@
         "title": "Sivasspor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Sivasspor",
         "pubdate": "Sat, 02 Nov 2024 14:00:00 +0300"
-    },
-    {
-        "title": "Bayern Münih  Union Berlin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Bayern%20M%C3%BCnih%20%20Union%20Berlin",
-        "pubdate": "Sat, 02 Nov 2024 17:00:00 +0300"
     },
     {
         "title": "Şirin Elmas Hanilçi",
@@ -80,11 +70,6 @@
         "pubdate": "Sat, 02 Nov 2024 20:00:00 +0300"
     },
     {
-        "title": "City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#City",
-        "pubdate": "Sat, 02 Nov 2024 23:00:00 +0300"
-    },
-    {
         "title": "Kocaelispor  Karagümrük",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Kocaelispor%20%20Karag%C3%BCmr%C3%BCk",
         "pubdate": "Sat, 02 Nov 2024 20:00:00 +0300"
@@ -95,8 +80,23 @@
         "pubdate": "Sat, 02 Nov 2024 21:00:00 +0300"
     },
     {
+        "title": "Mustafa Varank",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Mustafa%20Varank",
+        "pubdate": "Sat, 02 Nov 2024 21:00:00 +0300"
+    },
+    {
+        "title": "Bayern Münih",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Bayern%20M%C3%BCnih",
+        "pubdate": "Sat, 02 Nov 2024 19:00:00 +0300"
+    },
+    {
         "title": "Adanaspor  Bandırmaspor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Adanaspor%20%20Band%C4%B1rmaspor",
+        "pubdate": "Sat, 02 Nov 2024 17:00:00 +0300"
+    },
+    {
+        "title": "Erokspor - Şanlıurfaspor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Erokspor%20-%20%C5%9Eanl%C4%B1urfaspor",
         "pubdate": "Sat, 02 Nov 2024 17:00:00 +0300"
     }
 ]
