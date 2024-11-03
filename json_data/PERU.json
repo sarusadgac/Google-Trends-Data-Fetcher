@@ -1,13 +1,13 @@
 [
     {
-        "title": "Sporting Cristal  Comerciantes Unidos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Sporting%20Cristal%20%20Comerciantes%20Unidos",
-        "pubdate": "Sun, 03 Nov 2024 11:00:00 -0500"
-    },
-    {
         "title": "Barcelona  RCD Espanyol",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Barcelona%20%20RCD%20Espanyol",
         "pubdate": "Sun, 03 Nov 2024 07:00:00 -0500"
+    },
+    {
+        "title": "Sporting Cristal  Comerciantes Unidos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Sporting%20Cristal%20%20Comerciantes%20Unidos",
+        "pubdate": "Sun, 03 Nov 2024 11:00:00 -0500"
     },
     {
         "title": "Manchester United - Chelsea",
@@ -25,6 +25,11 @@
         "pubdate": "Sun, 03 Nov 2024 09:00:00 -0500"
     },
     {
+        "title": "Melgar  Deportivo Garcilaso",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Melgar%20%20Deportivo%20Garcilaso",
+        "pubdate": "Sun, 03 Nov 2024 15:00:00 -0500"
+    },
+    {
         "title": "Napoli - Atalanta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Napoli%20-%20Atalanta",
         "pubdate": "Sun, 03 Nov 2024 07:00:00 -0500"
@@ -40,14 +45,24 @@
         "pubdate": "Sun, 03 Nov 2024 13:00:00 -0500"
     },
     {
+        "title": "Inter-Venezia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Inter-Venezia",
+        "pubdate": "Sun, 03 Nov 2024 15:00:00 -0500"
+    },
+    {
+        "title": "Flamengo  Atlético Mineiro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Flamengo%20%20Atl%C3%A9tico%20Mineiro",
+        "pubdate": "Sun, 03 Nov 2024 15:00:00 -0500"
+    },
+    {
         "title": "San martin de Porres",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#San%20martin%20de%20Porres",
         "pubdate": "Sun, 03 Nov 2024 11:00:00 -0500"
     },
     {
-        "title": "Melgar  Deportivo Garcilaso",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Melgar%20%20Deportivo%20Garcilaso",
-        "pubdate": "Sun, 03 Nov 2024 15:00:00 -0500"
+        "title": "Athletic - Betis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Athletic%20-%20Betis",
+        "pubdate": "Sun, 03 Nov 2024 16:00:00 -0500"
     },
     {
         "title": "Dortmund",
@@ -55,19 +70,14 @@
         "pubdate": "Sun, 03 Nov 2024 11:00:00 -0500"
     },
     {
-        "title": "Inter-Venezia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Inter-Venezia",
-        "pubdate": "Sun, 03 Nov 2024 15:00:00 -0500"
-    },
-    {
         "title": "Torino  Fiorentina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Torino%20%20Fiorentina",
         "pubdate": "Sun, 03 Nov 2024 11:00:00 -0500"
     },
     {
-        "title": "Atlético Grau  César Vallejo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Atl%C3%A9tico%20Grau%20%20C%C3%A9sar%20Vallejo",
-        "pubdate": "Sat, 02 Nov 2024 14:00:00 -0500"
+        "title": "Elecciones USA 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Elecciones%20USA%202024",
+        "pubdate": "Sun, 03 Nov 2024 16:00:00 -0500"
     },
     {
         "title": "Chankas CYC  Universitario",
@@ -75,28 +85,18 @@
         "pubdate": "Sat, 02 Nov 2024 12:00:00 -0500"
     },
     {
-        "title": "Atlanta United  Inter Miami",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Atlanta%20United%20%20Inter%20Miami",
-        "pubdate": "Sat, 02 Nov 2024 18:00:00 -0500"
-    },
-    {
-        "title": "Bournemouth  Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bournemouth%20%20Manchester%20City",
-        "pubdate": "Sat, 02 Nov 2024 10:00:00 -0500"
-    },
-    {
-        "title": "Liverpool  Brighton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Liverpool%20%20Brighton",
-        "pubdate": "Sat, 02 Nov 2024 10:00:00 -0500"
-    },
-    {
         "title": "Alianza Lima  Cusco",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Alianza%20Lima%20%20Cusco",
         "pubdate": "Sat, 02 Nov 2024 18:00:00 -0500"
     },
     {
-        "title": "Carlos Mannucci  Alianza Atlético",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Carlos%20Mannucci%20%20Alianza%20Atl%C3%A9tico",
-        "pubdate": "Sat, 02 Nov 2024 16:00:00 -0500"
+        "title": "Atlético Grau  César Vallejo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Atl%C3%A9tico%20Grau%20%20C%C3%A9sar%20Vallejo",
+        "pubdate": "Sat, 02 Nov 2024 14:00:00 -0500"
+    },
+    {
+        "title": "Atlanta United  Inter Miami",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Atlanta%20United%20%20Inter%20Miami",
+        "pubdate": "Sat, 02 Nov 2024 18:00:00 -0500"
     }
 ]
