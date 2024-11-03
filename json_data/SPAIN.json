@@ -1,13 +1,23 @@
 [
     {
-        "title": "Atlanta United - Inter Miami",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Atlanta%20United%20-%20Inter%20Miami",
+        "title": "Atlanta United  Inter Miami",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Atlanta%20United%20%20Inter%20Miami",
         "pubdate": "Sun, 03 Nov 2024 00:00:00 +0100"
     },
     {
         "title": "Alexander Zverev",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Alexander%20Zverev",
         "pubdate": "Sun, 03 Nov 2024 01:00:00 +0100"
+    },
+    {
+        "title": "River Plate  Banfield",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#River%20Plate%20%20Banfield",
+        "pubdate": "Sun, 03 Nov 2024 02:00:00 +0100"
+    },
+    {
+        "title": "Zaragoza  Breogán",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Zaragoza%20%20Breog%C3%A1n",
+        "pubdate": "Sun, 03 Nov 2024 03:00:00 +0100"
     },
     {
         "title": "Girona  Leganés",
@@ -40,8 +50,8 @@
         "pubdate": "Sat, 02 Nov 2024 19:00:00 +0100"
     },
     {
-        "title": "Sporting Gijón)  Cádiz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Sporting%20Gij%C3%B3n)%20%20C%C3%A1diz",
+        "title": "Sporting Gijón - Cádiz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Sporting%20Gij%C3%B3n%20-%20C%C3%A1diz",
         "pubdate": "Sat, 02 Nov 2024 16:00:00 +0100"
     },
     {
@@ -88,15 +98,5 @@
         "title": "PSG - Lens",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#PSG%20-%20Lens",
         "pubdate": "Sat, 02 Nov 2024 18:00:00 +0100"
-    },
-    {
-        "title": "Vuelo Avianca Bogotá-Madrid emergencia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Vuelo%20Avianca%20Bogot%C3%A1-Madrid%20emergencia",
-        "pubdate": "Sat, 02 Nov 2024 11:00:00 +0100"
-    },
-    {
-        "title": "Eibar  Elche CF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Eibar%20%20Elche%20CF",
-        "pubdate": "Sat, 02 Nov 2024 15:00:00 +0100"
     }
 ]
