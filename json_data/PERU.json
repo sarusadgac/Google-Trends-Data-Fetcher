@@ -1,8 +1,18 @@
 [
     {
-        "title": "Napoli - Atalanta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Napoli%20-%20Atalanta",
+        "title": "Atlético Madrid  UD Las Palmas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Atl%C3%A9tico%20Madrid%20%20UD%20Las%20Palmas",
+        "pubdate": "Sun, 03 Nov 2024 08:00:00 -0500"
+    },
+    {
+        "title": "Barcelona vs Espanyol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Barcelona%20vs%20Espanyol",
         "pubdate": "Sun, 03 Nov 2024 07:00:00 -0500"
+    },
+    {
+        "title": "Atlético Grau  César Vallejo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Atl%C3%A9tico%20Grau%20%20C%C3%A9sar%20Vallejo",
+        "pubdate": "Sat, 02 Nov 2024 14:00:00 -0500"
     },
     {
         "title": "Atlanta United  Inter Miami",
@@ -45,11 +55,6 @@
         "pubdate": "Sat, 02 Nov 2024 07:00:00 -0500"
     },
     {
-        "title": "PSG - Lens",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#PSG%20-%20Lens",
-        "pubdate": "Sat, 02 Nov 2024 12:00:00 -0500"
-    },
-    {
         "title": "River Plate  Banfield",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#River%20Plate%20%20Banfield",
         "pubdate": "Sat, 02 Nov 2024 17:00:00 -0500"
@@ -75,8 +80,8 @@
         "pubdate": "Sat, 02 Nov 2024 13:00:00 -0500"
     },
     {
-        "title": "Andahuaylas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Andahuaylas",
+        "title": "Chankas vs Universitario",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Chankas%20vs%20Universitario",
         "pubdate": "Sat, 02 Nov 2024 12:00:00 -0500"
     },
     {
@@ -93,10 +98,5 @@
         "title": "Nottingham Forest  West Ham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Nottingham%20Forest%20%20West%20Ham",
         "pubdate": "Sat, 02 Nov 2024 12:00:00 -0500"
-    },
-    {
-        "title": "Cyber Wow",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Cyber%20Wow",
-        "pubdate": "Sat, 02 Nov 2024 11:00:00 -0500"
     }
 ]
