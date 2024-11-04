@@ -1,13 +1,18 @@
 [
     {
-        "title": "CAF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#CAF",
-        "pubdate": "Mon, 04 Nov 2024 16:00:00 +0100"
+        "title": "Election Day 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Election%20Day%202024",
+        "pubdate": "Mon, 04 Nov 2024 04:00:00 -0800"
     },
     {
         "title": "Quincy Jones",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Quincy%20Jones",
-        "pubdate": "Mon, 04 Nov 2024 10:00:00 +0100"
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Quincy%20Jones",
+        "pubdate": "Mon, 04 Nov 2024 09:00:00 +0000"
+    },
+    {
+        "title": "Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Champions%20League",
+        "pubdate": "Mon, 04 Nov 2024 18:00:00 +0100"
     },
     {
         "title": "美國大選",
@@ -15,24 +20,14 @@
         "pubdate": "Mon, 04 Nov 2024 09:00:00 +0800"
     },
     {
+        "title": "CAF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#CAF",
+        "pubdate": "Mon, 04 Nov 2024 16:00:00 +0100"
+    },
+    {
         "title": "大統領選挙",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%A4%A7%E7%B5%B1%E9%A0%98%E9%81%B8%E6%8C%99",
         "pubdate": "Tue, 05 Nov 2024 06:00:00 +0900"
-    },
-    {
-        "title": "Election Day 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Election%20Day%202024",
-        "pubdate": "Mon, 04 Nov 2024 04:00:00 -0800"
-    },
-    {
-        "title": "US election",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#US%20election",
-        "pubdate": "Mon, 04 Nov 2024 11:00:00 +0000"
-    },
-    {
-        "title": "Reliance Jio IPO",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Reliance%20Jio%20IPO",
-        "pubdate": "Tue, 05 Nov 2024 01:30:00 +0530"
     },
     {
         "title": "День народного единства",
@@ -40,34 +35,19 @@
         "pubdate": "Mon, 04 Nov 2024 04:00:00 +0300"
     },
     {
-        "title": "Gmail",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Gmail",
-        "pubdate": "Mon, 04 Nov 2024 14:00:00 +0000"
+        "title": "Reliance Jio IPO",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Reliance%20Jio%20IPO",
+        "pubdate": "Tue, 05 Nov 2024 01:30:00 +0530"
     },
     {
-        "title": "American election",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#American%20election",
-        "pubdate": "Tue, 05 Nov 2024 06:00:00 +1300"
+        "title": "尼克星",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%B0%BC%E5%85%8B%E6%98%9F",
+        "pubdate": "Tue, 05 Nov 2024 01:00:00 +0800"
     },
     {
-        "title": "GKS Katowice – Korona Kielce",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#GKS%20Katowice%20%E2%80%93%20Korona%20Kielce",
-        "pubdate": "Mon, 04 Nov 2024 18:00:00 +0100"
-    },
-    {
-        "title": "Election americaine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Election%20americaine",
-        "pubdate": "Mon, 04 Nov 2024 08:00:00 -0500"
-    },
-    {
-        "title": "Saga Falabella",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Saga%20Falabella",
-        "pubdate": "Mon, 04 Nov 2024 09:00:00 -0500"
-    },
-    {
-        "title": "Empoli vs Como",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Empoli%20vs%20Como",
-        "pubdate": "Tue, 05 Nov 2024 01:00:00 +0700"
+        "title": "Fulham vs Brentford",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Fulham%20vs%20Brentford",
+        "pubdate": "Mon, 04 Nov 2024 14:00:00 +0100"
     },
     {
         "title": "Fulham - Brentford",
@@ -75,24 +55,44 @@
         "pubdate": "Mon, 04 Nov 2024 14:00:00 -0600"
     },
     {
-        "title": "Fulham vs Brentford",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Fulham%20vs%20Brentford",
-        "pubdate": "Mon, 04 Nov 2024 10:00:00 +0300"
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Barcelona",
+        "pubdate": "Mon, 04 Nov 2024 06:00:00 +0200"
     },
     {
-        "title": "Forgács Gábor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Forg%C3%A1cs%20G%C3%A1bor",
+        "title": "임세령",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9E%84%EC%84%B8%EB%A0%B9",
+        "pubdate": "Tue, 05 Nov 2024 02:00:00 +0900"
+    },
+    {
+        "title": "Nekfeu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Nekfeu",
+        "pubdate": "Mon, 04 Nov 2024 08:00:00 +0100"
+    },
+    {
+        "title": "Clima",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Clima",
+        "pubdate": "Mon, 04 Nov 2024 13:00:00 -0300"
+    },
+    {
+        "title": "Parma-Genoa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Parma-Genoa",
         "pubdate": "Mon, 04 Nov 2024 13:00:00 +0100"
     },
     {
-        "title": "Celta de Vigo - Getafe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Celta%20de%20Vigo%20-%20Getafe",
-        "pubdate": "Mon, 04 Nov 2024 20:00:00 +0100"
+        "title": "Alpha Bank",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#Alpha%20Bank",
+        "pubdate": "Mon, 04 Nov 2024 12:00:00 +0200"
     },
     {
-        "title": "Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Champions%20League",
-        "pubdate": "Tue, 05 Nov 2024 02:00:00 +0800"
+        "title": "American election",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#American%20election",
+        "pubdate": "Tue, 05 Nov 2024 06:00:00 +1300"
+    },
+    {
+        "title": "Volby USA 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Volby%20USA%202024",
+        "pubdate": "Mon, 04 Nov 2024 00:00:00 +0100"
     },
     {
         "title": "Al-Hilal",
