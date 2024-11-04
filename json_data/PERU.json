@@ -15,11 +15,6 @@
         "pubdate": "Mon, 04 Nov 2024 10:00:00 -0500"
     },
     {
-        "title": "Falabella",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Falabella",
-        "pubdate": "Mon, 04 Nov 2024 09:00:00 -0500"
-    },
-    {
         "title": "Adidas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Adidas",
         "pubdate": "Mon, 04 Nov 2024 02:00:00 -0500"
@@ -33,6 +28,11 @@
         "title": "Samsung",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Samsung",
         "pubdate": "Mon, 04 Nov 2024 11:00:00 -0500"
+    },
+    {
+        "title": "Nike",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Nike",
+        "pubdate": "Mon, 04 Nov 2024 12:00:00 -0500"
     },
     {
         "title": "Saga",
@@ -70,6 +70,11 @@
         "pubdate": "Mon, 04 Nov 2024 11:00:00 -0500"
     },
     {
+        "title": "Converse",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Converse",
+        "pubdate": "Mon, 04 Nov 2024 12:00:00 -0500"
+    },
+    {
         "title": "EFE",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#EFE",
         "pubdate": "Mon, 04 Nov 2024 10:00:00 -0500"
@@ -85,18 +90,13 @@
         "pubdate": "Mon, 04 Nov 2024 10:00:00 -0500"
     },
     {
-        "title": "Barcelona  RCD Espanyol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Barcelona%20%20RCD%20Espanyol",
-        "pubdate": "Sun, 03 Nov 2024 07:00:00 -0500"
+        "title": "Tupac Amaru",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Tupac%20Amaru",
+        "pubdate": "Mon, 04 Nov 2024 12:00:00 -0500"
     },
     {
-        "title": "Alianza Lima  Cusco",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Alianza%20Lima%20%20Cusco",
-        "pubdate": "Sun, 03 Nov 2024 15:00:00 -0500"
-    },
-    {
-        "title": "Sporting Cristal  Comerciantes Unidos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Sporting%20Cristal%20%20Comerciantes%20Unidos",
-        "pubdate": "Sun, 03 Nov 2024 11:00:00 -0500"
+        "title": "Dia del Trabajador municipal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Dia%20del%20Trabajador%20municipal",
+        "pubdate": "Mon, 04 Nov 2024 12:00:00 -0500"
     }
 ]

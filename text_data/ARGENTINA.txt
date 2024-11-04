@@ -1,4 +1,5 @@
 Clima
+Pronostico
 Adidas
 Nike
 Barcelona
@@ -7,14 +8,13 @@ Samsung
 Servicio Meteorológico Nacional
 Chelsea
 Sporting
-Manchester United
-4 de noviembre que se celebra
 Quincy Jones
+4 de noviembre que se celebra
+Manchester United
 Aire acondicionado
 Tottenham
-Arredo
+Clima de hoy
 Rodo
 Levi's
 Sony
-JBL
-Converse
+New Balance
