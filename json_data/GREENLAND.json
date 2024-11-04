@@ -1,23 +1,13 @@
 [
     {
-        "title": "H3ロケット",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
-        "pubdate": "Tue, 05 Nov 2024 00:00:00 +0900"
+        "title": "特朗普",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E7%89%B9%E6%9C%97%E6%99%AE",
+        "pubdate": "Tue, 05 Nov 2024 02:00:00 +0800"
     },
     {
         "title": "Quincy Jones",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Quincy%20Jones",
-        "pubdate": "Mon, 04 Nov 2024 10:00:00 +0100"
-    },
-    {
-        "title": "Election Day 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Election%20Day%202024",
-        "pubdate": "Mon, 04 Nov 2024 04:00:00 -0800"
-    },
-    {
-        "title": "US election",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#US%20election",
-        "pubdate": "Mon, 04 Nov 2024 11:00:00 +0000"
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Quincy%20Jones",
+        "pubdate": "Mon, 04 Nov 2024 09:00:00 +0000"
     },
     {
         "title": "День народного единства",
@@ -25,14 +15,19 @@
         "pubdate": "Mon, 04 Nov 2024 04:00:00 +0300"
     },
     {
-        "title": "特朗普",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E7%89%B9%E6%9C%97%E6%99%AE",
-        "pubdate": "Tue, 05 Nov 2024 02:00:00 +0800"
+        "title": "Election Day 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Election%20Day%202024",
+        "pubdate": "Mon, 04 Nov 2024 04:00:00 -0800"
     },
     {
-        "title": "CAF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#CAF",
-        "pubdate": "Mon, 04 Nov 2024 16:00:00 +0100"
+        "title": "Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Champions%20League",
+        "pubdate": "Mon, 04 Nov 2024 18:00:00 +0100"
+    },
+    {
+        "title": "H3ロケット",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#H3%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+        "pubdate": "Tue, 05 Nov 2024 00:00:00 +0900"
     },
     {
         "title": "US election 2024",
@@ -40,9 +35,9 @@
         "pubdate": "Mon, 04 Nov 2024 09:30:00 +0530"
     },
     {
-        "title": "GKS Katowice – Korona Kielce",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#GKS%20Katowice%20%E2%80%93%20Korona%20Kielce",
-        "pubdate": "Mon, 04 Nov 2024 18:00:00 +0100"
+        "title": "CAF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#CAF",
+        "pubdate": "Mon, 04 Nov 2024 16:00:00 +0100"
     },
     {
         "title": "Alpha Bank",
@@ -50,53 +45,58 @@
         "pubdate": "Mon, 04 Nov 2024 12:00:00 +0200"
     },
     {
-        "title": "Volby USA 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Volby%20USA%202024",
-        "pubdate": "Mon, 04 Nov 2024 00:00:00 +0100"
-    },
-    {
-        "title": "Kamala Harris",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kamala%20Harris",
-        "pubdate": "Mon, 04 Nov 2024 13:00:00 +0100"
-    },
-    {
-        "title": "Election americaine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Election%20americaine",
-        "pubdate": "Mon, 04 Nov 2024 08:00:00 -0500"
-    },
-    {
-        "title": "Gmail",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Gmail",
-        "pubdate": "Mon, 04 Nov 2024 14:00:00 +0000"
-    },
-    {
-        "title": "Indonesia volcano eruption",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Indonesia%20volcano%20eruption",
-        "pubdate": "Tue, 05 Nov 2024 00:00:00 +0800"
-    },
-    {
-        "title": "Saga Falabella",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Saga%20Falabella",
-        "pubdate": "Mon, 04 Nov 2024 09:00:00 -0500"
-    },
-    {
-        "title": "李東洺",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%9D%8E%E6%9D%B1%E6%B4%BA",
-        "pubdate": "Tue, 05 Nov 2024 00:00:00 +0800"
-    },
-    {
         "title": "Anderlecht",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Anderlecht",
         "pubdate": "Mon, 04 Nov 2024 16:00:00 +0100"
     },
     {
-        "title": "New York Time",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#New%20York%20Time",
-        "pubdate": "Tue, 05 Nov 2024 01:00:00 +1100"
+        "title": "Parma-Genoa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Parma-Genoa",
+        "pubdate": "Mon, 04 Nov 2024 13:00:00 +0100"
     },
     {
-        "title": "З Днем залізничника!",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=UA#%D0%97%20%D0%94%D0%BD%D0%B5%D0%BC%20%D0%B7%D0%B0%D0%BB%D1%96%D0%B7%D0%BD%D0%B8%D1%87%D0%BD%D0%B8%D0%BA%D0%B0!",
-        "pubdate": "Mon, 04 Nov 2024 09:00:00 +0200"
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Barcelona",
+        "pubdate": "Mon, 04 Nov 2024 06:00:00 +0200"
+    },
+    {
+        "title": "Volby USA 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Volby%20USA%202024",
+        "pubdate": "Mon, 04 Nov 2024 00:00:00 +0100"
+    },
+    {
+        "title": "Snapchat",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Snapchat",
+        "pubdate": "Mon, 04 Nov 2024 14:00:00 +0100"
+    },
+    {
+        "title": "Hijo de Catalina Pulido",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Hijo%20de%20Catalina%20Pulido",
+        "pubdate": "Mon, 04 Nov 2024 01:00:00 -0300"
+    },
+    {
+        "title": "Barca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Barca",
+        "pubdate": "Mon, 04 Nov 2024 00:00:00 +0100"
+    },
+    {
+        "title": "Digi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Digi",
+        "pubdate": "Mon, 04 Nov 2024 06:00:00 +0000"
+    },
+    {
+        "title": "US election",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#US%20election",
+        "pubdate": "Mon, 04 Nov 2024 01:00:00 +0200"
+    },
+    {
+        "title": "Pakistan vs Australia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Pakistan%20vs%20Australia",
+        "pubdate": "Mon, 04 Nov 2024 12:00:00 +0800"
+    },
+    {
+        "title": "Nekfeu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Nekfeu",
+        "pubdate": "Mon, 04 Nov 2024 08:00:00 +0100"
     }
 ]
