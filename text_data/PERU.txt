@@ -4,8 +4,8 @@ Levis
 Jairo Concha
 Alianza Lima  Cusco
 Barcelona  RCD Espanyol
+Universitario
 Sporting Cristal  Comerciantes Unidos
-Marioni
 Melgar  Deportivo Garcilaso
 Manchester United - Chelsea
 Tottenham  Aston Villa
@@ -17,4 +17,4 @@ Inter  Venezia
 Flamengo  Atlético Mineiro
 Athletic  Betis
 Atletico
-Hellas Verona - Roma
+Rey Felipe VI
