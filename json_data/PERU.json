@@ -1,5 +1,15 @@
 [
     {
+        "title": "Cyber",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Cyber",
+        "pubdate": "Mon, 04 Nov 2024 01:00:00 -0500"
+    },
+    {
+        "title": "Levis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Levis",
+        "pubdate": "Mon, 04 Nov 2024 01:00:00 -0500"
+    },
+    {
         "title": "Alianza Lima  Cusco",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Alianza%20Lima%20%20Cusco",
         "pubdate": "Sun, 03 Nov 2024 15:00:00 -0500"
@@ -60,8 +70,8 @@
         "pubdate": "Sun, 03 Nov 2024 17:00:00 -0500"
     },
     {
-        "title": "Inter-Venezia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Inter-Venezia",
+        "title": "Inter  Venezia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Inter%20%20Venezia",
         "pubdate": "Sun, 03 Nov 2024 15:00:00 -0500"
     },
     {
@@ -88,15 +98,5 @@
         "title": "Rey Felipe VI",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Rey%20Felipe%20VI",
         "pubdate": "Sun, 03 Nov 2024 17:00:00 -0500"
-    },
-    {
-        "title": "Colo Colo vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Colo%20Colo%20vs",
-        "pubdate": "Sun, 03 Nov 2024 19:00:00 -0500"
-    },
-    {
-        "title": "Uni",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Uni",
-        "pubdate": "Sun, 03 Nov 2024 18:00:00 -0500"
     }
 ]

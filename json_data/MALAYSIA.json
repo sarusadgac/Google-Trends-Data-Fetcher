@@ -5,11 +5,6 @@
         "pubdate": "Mon, 04 Nov 2024 12:00:00 +0800"
     },
     {
-        "title": "US Election",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#US%20Election",
-        "pubdate": "Mon, 04 Nov 2024 11:00:00 +0800"
-    },
-    {
         "title": "Man United vs Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Man%20United%20vs%20Chelsea",
         "pubdate": "Sun, 03 Nov 2024 03:00:00 +0800"
@@ -40,14 +35,14 @@
         "pubdate": "Sun, 03 Nov 2024 00:00:00 +0800"
     },
     {
-        "title": "Wolves vs Crystal Palace",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Wolves%20vs%20Crystal%20Palace",
-        "pubdate": "Sun, 03 Nov 2024 02:00:00 +0800"
-    },
-    {
         "title": "Formula 1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Formula%201",
         "pubdate": "Sun, 03 Nov 2024 21:00:00 +0800"
+    },
+    {
+        "title": "Wolves vs Crystal Palace",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Wolves%20vs%20Crystal%20Palace",
+        "pubdate": "Sun, 03 Nov 2024 02:00:00 +0800"
     },
     {
         "title": "T1",
@@ -98,5 +93,10 @@
         "title": "Vivy Yusof",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Vivy%20Yusof",
         "pubdate": "Sat, 02 Nov 2024 00:00:00 +0800"
+    },
+    {
+        "title": "Mu vs Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Mu%20vs%20Chelsea",
+        "pubdate": "Sat, 02 Nov 2024 11:00:00 +0800"
     }
 ]
