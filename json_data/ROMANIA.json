@@ -45,11 +45,6 @@
         "pubdate": "Sun, 03 Nov 2024 19:00:00 +0200"
     },
     {
-        "title": "Atlético Madrid. Las Palmas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Atl%C3%A9tico%20Madrid.%20Las%20Palmas",
-        "pubdate": "Sun, 03 Nov 2024 15:00:00 +0200"
-    },
-    {
         "title": "Alegerile prezidentiale SUA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Alegerile%20prezidentiale%20SUA",
         "pubdate": "Sun, 03 Nov 2024 11:00:00 +0200"
@@ -98,5 +93,10 @@
         "title": "Irinel Columbeanu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Irinel%20Columbeanu",
         "pubdate": "Sun, 03 Nov 2024 12:00:00 +0200"
+    },
+    {
+        "title": "Alexia Eram",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Alexia%20Eram",
+        "pubdate": "Sun, 03 Nov 2024 22:00:00 +0200"
     }
 ]
