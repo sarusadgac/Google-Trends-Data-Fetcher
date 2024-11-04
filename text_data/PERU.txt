@@ -1,5 +1,7 @@
+Adidas
 Cyber
 Levis
+Jairo Concha
 Alianza Lima  Cusco
 Barcelona  RCD Espanyol
 Sporting Cristal  Comerciantes Unidos
@@ -7,7 +9,6 @@ Marioni
 Melgar  Deportivo Garcilaso
 Manchester United - Chelsea
 Tottenham  Aston Villa
-Atlético Madrid  UD Las Palmas
 Lanús Boca Juniors
 Napoli - Atalanta
 Sevilla  Real Sociedad
@@ -15,6 +16,5 @@ Partido de Alianza
 Inter  Venezia
 Flamengo  Atlético Mineiro
 Athletic  Betis
+Atletico
 Hellas Verona - Roma
-San martin de Porres
-Rey Felipe VI
