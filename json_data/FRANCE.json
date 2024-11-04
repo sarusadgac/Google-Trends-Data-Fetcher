@@ -40,11 +40,6 @@
         "pubdate": "Sun, 03 Nov 2024 14:00:00 +0100"
     },
     {
-        "title": "Francois pacome",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Francois%20pacome",
-        "pubdate": "Sun, 03 Nov 2024 12:00:00 +0100"
-    },
-    {
         "title": "Bayonne – Toulouse",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Bayonne%20%E2%80%93%20Toulouse",
         "pubdate": "Sun, 03 Nov 2024 22:00:00 +0100"
@@ -98,5 +93,10 @@
         "title": "Election americaine",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Election%20americaine",
         "pubdate": "Sat, 02 Nov 2024 15:00:00 +0100"
+    },
+    {
+        "title": "Humbert",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Humbert",
+        "pubdate": "Sat, 02 Nov 2024 21:00:00 +0100"
     }
 ]

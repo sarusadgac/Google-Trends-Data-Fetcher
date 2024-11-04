@@ -2,7 +2,7 @@
     {
         "title": "Formule 1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Formule%201",
-        "pubdate": "Sun, 03 Nov 2024 15:00:00 +0100"
+        "pubdate": "Sun, 03 Nov 2024 19:00:00 +0100"
     },
     {
         "title": "Max Verstappen",
@@ -20,11 +20,6 @@
         "pubdate": "Sun, 03 Nov 2024 13:00:00 +0100"
     },
     {
-        "title": "RKC-Almere",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#RKC-Almere",
-        "pubdate": "Sun, 03 Nov 2024 17:00:00 +0100"
-    },
-    {
         "title": "Marathon New York",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Marathon%20New%20York",
         "pubdate": "Sun, 03 Nov 2024 18:00:00 +0100"
@@ -33,6 +28,11 @@
         "title": "Eindhoven Airport",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Eindhoven%20Airport",
         "pubdate": "Sun, 03 Nov 2024 18:00:00 +0100"
+    },
+    {
+        "title": "RKC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#RKC",
+        "pubdate": "Sun, 03 Nov 2024 20:00:00 +0100"
     },
     {
         "title": "Starlink",
@@ -55,11 +55,6 @@
         "pubdate": "Sun, 03 Nov 2024 22:00:00 +0100"
     },
     {
-        "title": "Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Manchester%20City",
-        "pubdate": "Sun, 03 Nov 2024 12:00:00 +0100"
-    },
-    {
         "title": "London Grammar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#London%20Grammar",
         "pubdate": "Sun, 03 Nov 2024 20:00:00 +0100"
@@ -68,6 +63,16 @@
         "title": "Helmond Sport  Excelsior",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Helmond%20Sport%20%20Excelsior",
         "pubdate": "Sun, 03 Nov 2024 19:00:00 +0100"
+    },
+    {
+        "title": "Gp",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Gp",
+        "pubdate": "Sun, 03 Nov 2024 19:00:00 +0100"
+    },
+    {
+        "title": "Ron de Groot",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ron%20de%20Groot",
+        "pubdate": "Sun, 03 Nov 2024 23:00:00 +0100"
     },
     {
         "title": "Ajax",
@@ -80,9 +85,9 @@
         "pubdate": "Sat, 02 Nov 2024 21:00:00 +0100"
     },
     {
-        "title": "Theo van Gogh",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Theo%20van%20Gogh",
-        "pubdate": "Sat, 02 Nov 2024 09:00:00 +0100"
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Liverpool",
+        "pubdate": "Sat, 02 Nov 2024 18:00:00 +0100"
     },
     {
         "title": "FC Twente",
@@ -93,10 +98,5 @@
         "title": "Vitesse",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Vitesse",
         "pubdate": "Sat, 02 Nov 2024 22:00:00 +0100"
-    },
-    {
-        "title": "Twente",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Twente",
-        "pubdate": "Sat, 02 Nov 2024 19:00:00 +0100"
     }
 ]

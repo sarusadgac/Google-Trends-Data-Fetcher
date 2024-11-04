@@ -1,10 +1,5 @@
 [
     {
-        "title": "Patrice Motsepe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Patrice%20Motsepe",
-        "pubdate": "Mon, 04 Nov 2024 00:00:00 +0200"
-    },
-    {
         "title": "US elections",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#US%20elections",
         "pubdate": "Mon, 04 Nov 2024 03:00:00 +0200"
@@ -78,6 +73,11 @@
         "title": "MLS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#MLS",
         "pubdate": "Sun, 03 Nov 2024 11:00:00 +0200"
+    },
+    {
+        "title": "Magesi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Magesi",
+        "pubdate": "Sun, 03 Nov 2024 18:00:00 +0200"
     },
     {
         "title": "Fan",
