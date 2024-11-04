@@ -5,8 +5,8 @@
         "pubdate": "Tue, 05 Nov 2024 01:00:00 +0700"
     },
     {
-        "title": "Lazio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Lazio",
+        "title": "Lazio vs Cagliari",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Lazio%20vs%20Cagliari",
         "pubdate": "Tue, 05 Nov 2024 02:00:00 +0700"
     },
     {
@@ -28,6 +28,11 @@
         "title": "Hunter Killer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Hunter%20Killer",
         "pubdate": "Tue, 05 Nov 2024 00:00:00 +0700"
+    },
+    {
+        "title": "Parma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Parma",
+        "pubdate": "Tue, 05 Nov 2024 04:00:00 +0700"
     },
     {
         "title": "PSM Makassar vs Persik",
@@ -60,9 +65,19 @@
         "pubdate": "Mon, 04 Nov 2024 09:00:00 +0700"
     },
     {
+        "title": "Celta Vigo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Celta%20Vigo",
+        "pubdate": "Mon, 04 Nov 2024 23:00:00 +0700"
+    },
+    {
         "title": "La Nina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#La%20Nina",
         "pubdate": "Mon, 04 Nov 2024 11:00:00 +0700"
+    },
+    {
+        "title": "Kulkas Babe Solo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Kulkas%20Babe%20Solo",
+        "pubdate": "Mon, 04 Nov 2024 14:00:00 +0700"
     },
     {
         "title": "Asnawi Mangkualam",
@@ -75,28 +90,13 @@
         "pubdate": "Mon, 04 Nov 2024 12:00:00 +0700"
     },
     {
-        "title": "Celta Vigo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Celta%20Vigo",
-        "pubdate": "Mon, 04 Nov 2024 23:00:00 +0700"
-    },
-    {
         "title": "Fenerbahce",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Fenerbahce",
         "pubdate": "Mon, 04 Nov 2024 16:00:00 +0700"
     },
     {
-        "title": "Siti Septi Ariyanti",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Siti%20Septi%20Ariyanti",
-        "pubdate": "Mon, 04 Nov 2024 14:00:00 +0700"
-    },
-    {
         "title": "Quincy Jones",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Quincy%20Jones",
         "pubdate": "Mon, 04 Nov 2024 23:00:00 +0700"
-    },
-    {
-        "title": "Denny Caknan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Denny%20Caknan",
-        "pubdate": "Mon, 04 Nov 2024 17:00:00 +0700"
     }
 ]
