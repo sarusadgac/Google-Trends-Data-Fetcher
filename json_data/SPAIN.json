@@ -5,13 +5,13 @@
         "pubdate": "Mon, 04 Nov 2024 11:00:00 +0100"
     },
     {
-        "title": "Bono comercio Xunta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Bono%20comercio%20Xunta",
+        "title": "Bono Comercio Xunta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Bono%20Comercio%20Xunta",
         "pubdate": "Mon, 04 Nov 2024 01:00:00 +0100"
     },
     {
-        "title": "Elpais",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Elpais",
+        "title": "ELPAIS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#ELPAIS",
         "pubdate": "Mon, 04 Nov 2024 12:00:00 +0100"
     },
     {
@@ -35,6 +35,11 @@
         "pubdate": "Mon, 04 Nov 2024 11:00:00 +0100"
     },
     {
+        "title": "Quincy Jones",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Quincy%20Jones",
+        "pubdate": "Mon, 04 Nov 2024 10:00:00 +0100"
+    },
+    {
         "title": "TV3",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#TV3",
         "pubdate": "Mon, 04 Nov 2024 10:00:00 +0100"
@@ -43,11 +48,6 @@
         "title": "Iker jimenez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Iker%20jimenez",
         "pubdate": "Mon, 04 Nov 2024 00:00:00 +0100"
-    },
-    {
-        "title": "Quincy Jones",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Quincy%20Jones",
-        "pubdate": "Mon, 04 Nov 2024 10:00:00 +0100"
     },
     {
         "title": "Antena 3",
@@ -65,19 +65,29 @@
         "pubdate": "Mon, 04 Nov 2024 09:00:00 +0100"
     },
     {
+        "title": "Diari de Tarragona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Diari%20de%20Tarragona",
+        "pubdate": "Mon, 04 Nov 2024 05:00:00 +0100"
+    },
+    {
+        "title": "Tarragona DANA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Tarragona%20DANA",
+        "pubdate": "Mon, 04 Nov 2024 10:00:00 +0100"
+    },
+    {
         "title": "Martorell",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Martorell",
         "pubdate": "Mon, 04 Nov 2024 10:00:00 +0100"
     },
     {
-        "title": "elDiario.es",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#elDiario.es",
-        "pubdate": "Mon, 04 Nov 2024 01:00:00 +0100"
-    },
-    {
         "title": "Fiesta del Cine",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Fiesta%20del%20Cine",
         "pubdate": "Mon, 04 Nov 2024 10:00:00 +0100"
+    },
+    {
+        "title": "El diario.es",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#El%20diario.es",
+        "pubdate": "Mon, 04 Nov 2024 01:00:00 +0100"
     },
     {
         "title": "Fútbol club BARCELONA",
@@ -88,15 +98,5 @@
         "title": "Mavericks  Magic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Mavericks%20%20Magic",
         "pubdate": "Mon, 04 Nov 2024 09:00:00 +0100"
-    },
-    {
-        "title": "América  Deportivo Cali",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Am%C3%A9rica%20%20Deportivo%20Cali",
-        "pubdate": "Mon, 04 Nov 2024 00:00:00 +0100"
-    },
-    {
-        "title": "Benidorm",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Benidorm",
-        "pubdate": "Mon, 04 Nov 2024 00:00:00 +0100"
     }
 ]

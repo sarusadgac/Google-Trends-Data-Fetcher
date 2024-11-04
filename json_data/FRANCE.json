@@ -10,11 +10,6 @@
         "pubdate": "Mon, 04 Nov 2024 10:00:00 +0100"
     },
     {
-        "title": "RER E",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#RER%20E",
-        "pubdate": "Mon, 04 Nov 2024 11:00:00 +0100"
-    },
-    {
         "title": "Barca",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Barca",
         "pubdate": "Mon, 04 Nov 2024 00:00:00 +0100"
@@ -25,6 +20,11 @@
         "pubdate": "Mon, 04 Nov 2024 14:00:00 +0100"
     },
     {
+        "title": "RER E",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#RER%20E",
+        "pubdate": "Mon, 04 Nov 2024 11:00:00 +0100"
+    },
+    {
         "title": "11 novembre",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#11%20novembre",
         "pubdate": "Mon, 04 Nov 2024 09:00:00 +0100"
@@ -33,6 +33,11 @@
         "title": "Karl Olive",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Karl%20Olive",
         "pubdate": "Mon, 04 Nov 2024 02:00:00 +0100"
+    },
+    {
+        "title": "Jordan de Luxe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Jordan%20de%20Luxe",
+        "pubdate": "Mon, 04 Nov 2024 15:00:00 +0100"
     },
     {
         "title": "Allianz",
@@ -85,18 +90,13 @@
         "pubdate": "Sun, 03 Nov 2024 19:00:00 +0100"
     },
     {
-        "title": "Roi d'Espagne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Roi%20d'Espagne",
+        "title": "Barcelone",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Barcelone",
         "pubdate": "Sun, 03 Nov 2024 21:00:00 +0100"
     },
     {
         "title": "Manchester United – Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Manchester%20United%20%E2%80%93%20Chelsea",
         "pubdate": "Sun, 03 Nov 2024 17:00:00 +0100"
-    },
-    {
-        "title": "Bayonne – Toulouse",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Bayonne%20%E2%80%93%20Toulouse",
-        "pubdate": "Sun, 03 Nov 2024 22:00:00 +0100"
     }
 ]

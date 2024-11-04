@@ -1,13 +1,33 @@
 [
     {
+        "title": "Saga Falabella",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Saga%20Falabella",
+        "pubdate": "Mon, 04 Nov 2024 09:00:00 -0500"
+    },
+    {
+        "title": "Ripley",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Ripley",
+        "pubdate": "Mon, 04 Nov 2024 07:00:00 -0500"
+    },
+    {
         "title": "Adidas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Adidas",
         "pubdate": "Mon, 04 Nov 2024 02:00:00 -0500"
     },
     {
+        "title": "Falabella",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Falabella",
+        "pubdate": "Mon, 04 Nov 2024 09:00:00 -0500"
+    },
+    {
         "title": "Saga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Saga",
         "pubdate": "Mon, 04 Nov 2024 08:00:00 -0500"
+    },
+    {
+        "title": "MrBeast",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#MrBeast",
+        "pubdate": "Mon, 04 Nov 2024 09:00:00 -0500"
     },
     {
         "title": "Cyber",
@@ -30,19 +50,24 @@
         "pubdate": "Sun, 03 Nov 2024 15:00:00 -0500"
     },
     {
-        "title": "Barcelona  RCD Espanyol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Barcelona%20%20RCD%20Espanyol",
-        "pubdate": "Sun, 03 Nov 2024 07:00:00 -0500"
-    },
-    {
         "title": "Universitario",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Universitario",
         "pubdate": "Sun, 03 Nov 2024 16:00:00 -0500"
     },
     {
+        "title": "Barcelona  RCD Espanyol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Barcelona%20%20RCD%20Espanyol",
+        "pubdate": "Sun, 03 Nov 2024 07:00:00 -0500"
+    },
+    {
         "title": "Sporting Cristal  Comerciantes Unidos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Sporting%20Cristal%20%20Comerciantes%20Unidos",
         "pubdate": "Sun, 03 Nov 2024 11:00:00 -0500"
+    },
+    {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Barcelona",
+        "pubdate": "Sun, 03 Nov 2024 17:00:00 -0500"
     },
     {
         "title": "Melgar  Deportivo Garcilaso",
@@ -73,30 +98,5 @@
         "title": "Sevilla - Real Sociedad",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Sevilla%20-%20Real%20Sociedad",
         "pubdate": "Sun, 03 Nov 2024 13:00:00 -0500"
-    },
-    {
-        "title": "Partido de Alianza",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Partido%20de%20Alianza",
-        "pubdate": "Sun, 03 Nov 2024 17:00:00 -0500"
-    },
-    {
-        "title": "Inter  Venezia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Inter%20%20Venezia",
-        "pubdate": "Sun, 03 Nov 2024 15:00:00 -0500"
-    },
-    {
-        "title": "FC Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#FC%20Barcelona",
-        "pubdate": "Sun, 03 Nov 2024 17:00:00 -0500"
-    },
-    {
-        "title": "Flamengo  Atlético Mineiro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Flamengo%20%20Atl%C3%A9tico%20Mineiro",
-        "pubdate": "Sun, 03 Nov 2024 15:00:00 -0500"
-    },
-    {
-        "title": "Athletic  Betis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Athletic%20%20Betis",
-        "pubdate": "Sun, 03 Nov 2024 16:00:00 -0500"
     }
 ]
