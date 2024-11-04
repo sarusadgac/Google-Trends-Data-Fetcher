@@ -35,6 +35,11 @@
         "pubdate": "Mon, 04 Nov 2024 07:00:00 +0100"
     },
     {
+        "title": "Pennsylvania",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Pennsylvania",
+        "pubdate": "Mon, 04 Nov 2024 16:00:00 +0100"
+    },
+    {
         "title": "Polymarket",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Polymarket",
         "pubdate": "Mon, 04 Nov 2024 15:00:00 +0100"
@@ -93,10 +98,5 @@
         "title": "Tottenham  Aston Villa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tottenham%20%20Aston%20Villa",
         "pubdate": "Sun, 03 Nov 2024 15:00:00 +0100"
-    },
-    {
-        "title": "Viggo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Viggo",
-        "pubdate": "Sun, 03 Nov 2024 14:00:00 +0100"
     }
 ]
