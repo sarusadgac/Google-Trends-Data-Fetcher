@@ -10,13 +10,18 @@
         "pubdate": "Mon, 04 Nov 2024 06:00:00 +0100"
     },
     {
-        "title": "Bono comercio Xunta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Bono%20comercio%20Xunta",
+        "title": "Bono Comercio Xunta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Bono%20Comercio%20Xunta",
         "pubdate": "Mon, 04 Nov 2024 01:00:00 +0100"
     },
     {
         "title": "Noticias hoy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Noticias%20hoy",
+        "pubdate": "Mon, 04 Nov 2024 11:00:00 +0100"
+    },
+    {
+        "title": "Castelldefels",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Castelldefels",
         "pubdate": "Mon, 04 Nov 2024 11:00:00 +0100"
     },
     {
@@ -40,6 +45,21 @@
         "pubdate": "Mon, 04 Nov 2024 10:00:00 +0100"
     },
     {
+        "title": "Diari de Tarragona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Diari%20de%20Tarragona",
+        "pubdate": "Mon, 04 Nov 2024 05:00:00 +0100"
+    },
+    {
+        "title": "San Carlos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#San%20Carlos",
+        "pubdate": "Mon, 04 Nov 2024 09:00:00 +0100"
+    },
+    {
+        "title": "Martorell",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Martorell",
+        "pubdate": "Mon, 04 Nov 2024 10:00:00 +0100"
+    },
+    {
         "title": "elDiario.es",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#elDiario.es",
         "pubdate": "Mon, 04 Nov 2024 01:00:00 +0100"
@@ -55,16 +75,6 @@
         "pubdate": "Mon, 04 Nov 2024 10:00:00 +0100"
     },
     {
-        "title": "San Carlos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#San%20Carlos",
-        "pubdate": "Mon, 04 Nov 2024 09:00:00 +0100"
-    },
-    {
-        "title": "Martorell",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Martorell",
-        "pubdate": "Mon, 04 Nov 2024 10:00:00 +0100"
-    },
-    {
         "title": "América  Deportivo Cali",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Am%C3%A9rica%20%20Deportivo%20Cali",
         "pubdate": "Mon, 04 Nov 2024 00:00:00 +0100"
@@ -75,28 +85,18 @@
         "pubdate": "Mon, 04 Nov 2024 09:00:00 +0100"
     },
     {
+        "title": "Aeropuerto Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Aeropuerto%20Barcelona",
+        "pubdate": "Mon, 04 Nov 2024 12:00:00 +0100"
+    },
+    {
         "title": "Benidorm",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Benidorm",
         "pubdate": "Mon, 04 Nov 2024 00:00:00 +0100"
     },
     {
-        "title": "Castelldefels",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Castelldefels",
-        "pubdate": "Mon, 04 Nov 2024 11:00:00 +0100"
-    },
-    {
-        "title": "DANA Tarragona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#DANA%20Tarragona",
-        "pubdate": "Mon, 04 Nov 2024 10:00:00 +0100"
-    },
-    {
-        "title": "El pais España",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#El%20pais%20Espa%C3%B1a",
-        "pubdate": "Mon, 04 Nov 2024 08:00:00 +0100"
-    },
-    {
-        "title": "Auronplay",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Auronplay",
-        "pubdate": "Mon, 04 Nov 2024 04:00:00 +0100"
+        "title": "Ana Pastor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ana%20Pastor",
+        "pubdate": "Mon, 04 Nov 2024 00:00:00 +0100"
     }
 ]

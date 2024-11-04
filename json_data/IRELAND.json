@@ -5,6 +5,11 @@
         "pubdate": "Mon, 04 Nov 2024 09:00:00 +0000"
     },
     {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Barcelona",
+        "pubdate": "Mon, 04 Nov 2024 11:00:00 +0000"
+    },
+    {
         "title": "Gavin James",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Gavin%20James",
         "pubdate": "Mon, 04 Nov 2024 08:00:00 +0000"
@@ -15,9 +20,19 @@
         "pubdate": "Mon, 04 Nov 2024 09:00:00 +0000"
     },
     {
+        "title": "Newstalk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Newstalk",
+        "pubdate": "Mon, 04 Nov 2024 11:00:00 +0000"
+    },
+    {
         "title": "Pakistan vs Australia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Pakistan%20vs%20Australia",
         "pubdate": "Mon, 04 Nov 2024 10:00:00 +0000"
+    },
+    {
+        "title": "Word",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Word",
+        "pubdate": "Mon, 04 Nov 2024 11:00:00 +0000"
     },
     {
         "title": "James Van Der Beek",
@@ -83,20 +98,5 @@
         "title": "Tom Ackerley",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Tom%20Ackerley",
         "pubdate": "Sun, 03 Nov 2024 11:00:00 +0000"
-    },
-    {
-        "title": "Iowa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Iowa",
-        "pubdate": "Sun, 03 Nov 2024 14:00:00 +0000"
-    },
-    {
-        "title": "Leeds United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Leeds%20United",
-        "pubdate": "Sun, 03 Nov 2024 14:00:00 +0000"
-    },
-    {
-        "title": "Dear Alice",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Dear%20Alice",
-        "pubdate": "Sun, 03 Nov 2024 20:00:00 +0000"
     }
 ]

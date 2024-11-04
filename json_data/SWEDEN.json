@@ -5,6 +5,11 @@
         "pubdate": "Mon, 04 Nov 2024 09:00:00 +0100"
     },
     {
+        "title": "Amorteringskrav",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Amorteringskrav",
+        "pubdate": "Mon, 04 Nov 2024 09:00:00 +0100"
+    },
+    {
         "title": "Vindkraftverk blåst omkull",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Vindkraftverk%20bl%C3%A5st%20omkull",
         "pubdate": "Mon, 04 Nov 2024 08:00:00 +0100"
@@ -45,14 +50,14 @@
         "pubdate": "Sun, 03 Nov 2024 15:00:00 +0100"
     },
     {
-        "title": "Frölunda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Fr%C3%B6lunda",
-        "pubdate": "Sun, 03 Nov 2024 09:00:00 +0100"
-    },
-    {
         "title": "Sirius mot Mjällby",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sirius%20mot%20Mj%C3%A4llby",
         "pubdate": "Sun, 03 Nov 2024 17:00:00 +0100"
+    },
+    {
+        "title": "Frölunda",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Fr%C3%B6lunda",
+        "pubdate": "Sun, 03 Nov 2024 09:00:00 +0100"
     },
     {
         "title": "Brommapojkarna mot Värnamo",
@@ -80,11 +85,6 @@
         "pubdate": "Sun, 03 Nov 2024 15:00:00 +0100"
     },
     {
-        "title": "Sirius",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sirius",
-        "pubdate": "Sun, 03 Nov 2024 19:00:00 +0100"
-    },
-    {
         "title": "Inter Miami",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Inter%20Miami",
         "pubdate": "Sun, 03 Nov 2024 13:00:00 +0100"
@@ -95,8 +95,8 @@
         "pubdate": "Sun, 03 Nov 2024 20:00:00 +0100"
     },
     {
-        "title": "Mjällby",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mj%C3%A4llby",
-        "pubdate": "Sun, 03 Nov 2024 22:00:00 +0100"
+        "title": "IFK Göteborg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IFK%20G%C3%B6teborg",
+        "pubdate": "Sat, 02 Nov 2024 15:00:00 +0100"
     }
 ]

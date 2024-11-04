@@ -25,6 +25,11 @@
         "pubdate": "Sun, 03 Nov 2024 10:00:00 +0100"
     },
     {
+        "title": "Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Man%20City",
+        "pubdate": "Sun, 03 Nov 2024 16:00:00 +0100"
+    },
+    {
         "title": "Atlanta United vs Inter Miami",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Atlanta%20United%20vs%20Inter%20Miami",
         "pubdate": "Sun, 03 Nov 2024 00:00:00 +0100"
@@ -70,6 +75,16 @@
         "pubdate": "Sun, 03 Nov 2024 11:00:00 +0100"
     },
     {
+        "title": "Equatorial Guinea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Equatorial%20Guinea",
+        "pubdate": "Sun, 03 Nov 2024 21:00:00 +0100"
+    },
+    {
+        "title": "Eloswag",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Eloswag",
+        "pubdate": "Sun, 03 Nov 2024 18:00:00 +0100"
+    },
+    {
         "title": "Wolves",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Wolves",
         "pubdate": "Sun, 03 Nov 2024 16:00:00 +0100"
@@ -83,20 +98,5 @@
         "title": "Sevilla",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Sevilla",
         "pubdate": "Sun, 03 Nov 2024 20:00:00 +0100"
-    },
-    {
-        "title": "Olivia Rodrigo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Olivia%20Rodrigo",
-        "pubdate": "Sun, 03 Nov 2024 22:00:00 +0100"
-    },
-    {
-        "title": "Marcelo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Marcelo",
-        "pubdate": "Sun, 03 Nov 2024 09:00:00 +0100"
-    },
-    {
-        "title": "Ruud van Nistelrooy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Ruud%20van%20Nistelrooy",
-        "pubdate": "Sun, 03 Nov 2024 19:00:00 +0100"
     }
 ]
