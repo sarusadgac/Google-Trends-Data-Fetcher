@@ -1,6 +1,6 @@
 Atalanta
 Emeklilik yaşı
-Fenerbahçe, Trabzonspor
+Atilla Karaoğlan
 Eyüpspor
 Konyaspor  Başakşehir
 Bursaspor
@@ -16,5 +16,5 @@ Trabzon
 Lig puan durumu
 MIT
 Formula 1
-Palamut
 Lütfü Savaş
+Emekli maaşı
