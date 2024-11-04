@@ -1,13 +1,8 @@
 [
     {
-        "title": "Tropical Cyclone alert",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Tropical%20Cyclone%20alert",
+        "title": "Tropical cyclone alert",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Tropical%20cyclone%20alert",
         "pubdate": "Mon, 04 Nov 2024 19:00:00 +0800"
-    },
-    {
-        "title": "Mavericks vs Magic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Mavericks%20vs%20Magic",
-        "pubdate": "Mon, 04 Nov 2024 09:00:00 +0800"
     },
     {
         "title": "Harvey Epstein",
@@ -20,11 +15,6 @@
         "pubdate": "Mon, 04 Nov 2024 09:00:00 +0800"
     },
     {
-        "title": "Dst",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Dst",
-        "pubdate": "Mon, 04 Nov 2024 00:00:00 +0800"
-    },
-    {
         "title": "Yandex",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Yandex",
         "pubdate": "Mon, 04 Nov 2024 05:00:00 +0800"
@@ -35,9 +25,9 @@
         "pubdate": "Mon, 04 Nov 2024 05:00:00 +0800"
     },
     {
-        "title": "US election",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#US%20election",
-        "pubdate": "Mon, 04 Nov 2024 09:00:00 +0800"
+        "title": "Quincy Jones",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Quincy%20Jones",
+        "pubdate": "Mon, 04 Nov 2024 19:00:00 +0800"
     },
     {
         "title": "Barcelona vs Espanyol",
@@ -45,9 +35,9 @@
         "pubdate": "Mon, 04 Nov 2024 01:00:00 +0800"
     },
     {
-        "title": "Quincy Jones",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Quincy%20Jones",
-        "pubdate": "Mon, 04 Nov 2024 19:00:00 +0800"
+        "title": "Jalen Johnson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Jalen%20Johnson",
+        "pubdate": "Mon, 04 Nov 2024 11:00:00 +0800"
     },
     {
         "title": "Klay Thompson",
@@ -63,6 +53,11 @@
         "title": "Website",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Website",
         "pubdate": "Mon, 04 Nov 2024 11:00:00 +0800"
+    },
+    {
+        "title": "Dallas Mavericks",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Dallas%20Mavericks",
+        "pubdate": "Mon, 04 Nov 2024 15:00:00 +0800"
     },
     {
         "title": "Little Things",
@@ -90,13 +85,18 @@
         "pubdate": "Mon, 04 Nov 2024 13:00:00 +0800"
     },
     {
-        "title": "The road",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#The%20road",
+        "title": "The Road",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#The%20Road",
         "pubdate": "Mon, 04 Nov 2024 16:00:00 +0800"
     },
     {
         "title": "Singham Again box office collection",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Singham%20Again%20box%20office%20collection",
         "pubdate": "Mon, 04 Nov 2024 21:00:00 +0800"
+    },
+    {
+        "title": "Rockets vs Warriors",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Rockets%20vs%20Warriors",
+        "pubdate": "Sun, 03 Nov 2024 09:00:00 +0800"
     }
 ]

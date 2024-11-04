@@ -12,12 +12,7 @@
     {
         "title": "ELPAIS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#ELPAIS",
-        "pubdate": "Mon, 04 Nov 2024 12:00:00 +0100"
-    },
-    {
-        "title": "Ultimas noticias DANA Valencia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ultimas%20noticias%20DANA%20Valencia",
-        "pubdate": "Mon, 04 Nov 2024 06:00:00 +0100"
+        "pubdate": "Mon, 04 Nov 2024 01:00:00 +0100"
     },
     {
         "title": "Javier Giner",
@@ -25,23 +20,8 @@
         "pubdate": "Mon, 04 Nov 2024 08:00:00 +0100"
     },
     {
-        "title": "Castelldefels",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Castelldefels",
-        "pubdate": "Mon, 04 Nov 2024 11:00:00 +0100"
-    },
-    {
-        "title": "Noticias hoy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Noticias%20hoy",
-        "pubdate": "Mon, 04 Nov 2024 11:00:00 +0100"
-    },
-    {
         "title": "Quincy Jones",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Quincy%20Jones",
-        "pubdate": "Mon, 04 Nov 2024 10:00:00 +0100"
-    },
-    {
-        "title": "TV3",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#TV3",
         "pubdate": "Mon, 04 Nov 2024 10:00:00 +0100"
     },
     {
@@ -50,9 +30,24 @@
         "pubdate": "Mon, 04 Nov 2024 00:00:00 +0100"
     },
     {
+        "title": "Noticias Hoy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Noticias%20Hoy",
+        "pubdate": "Mon, 04 Nov 2024 11:00:00 +0100"
+    },
+    {
         "title": "Antena 3",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Antena%203",
         "pubdate": "Mon, 04 Nov 2024 02:00:00 +0100"
+    },
+    {
+        "title": "TV3",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#TV3",
+        "pubdate": "Mon, 04 Nov 2024 10:00:00 +0100"
+    },
+    {
+        "title": "Noticias ultima hora",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Noticias%20ultima%20hora",
+        "pubdate": "Mon, 04 Nov 2024 06:00:00 +0100"
     },
     {
         "title": "Utiel",
@@ -70,11 +65,6 @@
         "pubdate": "Mon, 04 Nov 2024 05:00:00 +0100"
     },
     {
-        "title": "Tarragona DANA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Tarragona%20DANA",
-        "pubdate": "Mon, 04 Nov 2024 10:00:00 +0100"
-    },
-    {
         "title": "Martorell",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Martorell",
         "pubdate": "Mon, 04 Nov 2024 10:00:00 +0100"
@@ -85,11 +75,6 @@
         "pubdate": "Mon, 04 Nov 2024 10:00:00 +0100"
     },
     {
-        "title": "El diario.es",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#El%20diario.es",
-        "pubdate": "Mon, 04 Nov 2024 01:00:00 +0100"
-    },
-    {
         "title": "Fútbol club BARCELONA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#F%C3%BAtbol%20club%20BARCELONA",
         "pubdate": "Mon, 04 Nov 2024 10:00:00 +0100"
@@ -97,6 +82,21 @@
     {
         "title": "Mavericks  Magic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Mavericks%20%20Magic",
+        "pubdate": "Mon, 04 Nov 2024 09:00:00 +0100"
+    },
+    {
+        "title": "América Deportivo Cali",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Am%C3%A9rica%20Deportivo%20Cali",
+        "pubdate": "Mon, 04 Nov 2024 00:00:00 +0100"
+    },
+    {
+        "title": "Esradio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Esradio",
+        "pubdate": "Mon, 04 Nov 2024 09:00:00 +0100"
+    },
+    {
+        "title": "TVE",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#TVE",
         "pubdate": "Mon, 04 Nov 2024 09:00:00 +0100"
     }
 ]
