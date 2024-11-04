@@ -5,6 +5,11 @@
         "pubdate": "Mon, 04 Nov 2024 09:00:00 +0200"
     },
     {
+        "title": "Quincy Jones",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Quincy%20Jones",
+        "pubdate": "Mon, 04 Nov 2024 11:00:00 +0200"
+    },
+    {
         "title": "Pakistan vs Australia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Pakistan%20vs%20Australia",
         "pubdate": "Mon, 04 Nov 2024 07:00:00 +0200"
@@ -15,9 +20,9 @@
         "pubdate": "Mon, 04 Nov 2024 00:00:00 +0200"
     },
     {
-        "title": "Quincy Jones",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Quincy%20Jones",
-        "pubdate": "Mon, 04 Nov 2024 11:00:00 +0200"
+        "title": "Ruud van Nistelrooy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Ruud%20van%20Nistelrooy",
+        "pubdate": "Mon, 04 Nov 2024 12:00:00 +0200"
     },
     {
         "title": "Man United vs Chelsea",
@@ -80,23 +85,18 @@
         "pubdate": "Sun, 03 Nov 2024 06:00:00 +0200"
     },
     {
-        "title": "Leicester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Leicester%20City",
-        "pubdate": "Sun, 03 Nov 2024 01:00:00 +0200"
-    },
-    {
         "title": "Magesi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Magesi",
         "pubdate": "Sun, 03 Nov 2024 18:00:00 +0200"
     },
     {
+        "title": "Leicester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Leicester%20City",
+        "pubdate": "Sun, 03 Nov 2024 01:00:00 +0200"
+    },
+    {
         "title": "MLS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#MLS",
         "pubdate": "Sun, 03 Nov 2024 11:00:00 +0200"
-    },
-    {
-        "title": "Fan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Fan",
-        "pubdate": "Sun, 03 Nov 2024 16:00:00 +0200"
     }
 ]
