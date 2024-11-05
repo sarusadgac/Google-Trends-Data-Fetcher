@@ -5,14 +5,24 @@
         "pubdate": "Tue, 05 Nov 2024 00:00:00 -0500"
     },
     {
+        "title": "Simulacro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Simulacro",
+        "pubdate": "Tue, 05 Nov 2024 10:00:00 -0500"
+    },
+    {
+        "title": "PSV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#PSV",
+        "pubdate": "Tue, 05 Nov 2024 10:00:00 -0500"
+    },
+    {
         "title": "LATAM",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#LATAM",
         "pubdate": "Mon, 04 Nov 2024 14:00:00 -0500"
     },
     {
-        "title": "Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Champions%20League",
-        "pubdate": "Mon, 04 Nov 2024 17:00:00 -0500"
+        "title": "Cyber Wow",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Cyber%20Wow",
+        "pubdate": "Mon, 04 Nov 2024 11:00:00 -0500"
     },
     {
         "title": "SKY",
@@ -30,9 +40,9 @@
         "pubdate": "Mon, 04 Nov 2024 02:00:00 -0500"
     },
     {
-        "title": "JetSMART",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#JetSMART",
-        "pubdate": "Mon, 04 Nov 2024 20:00:00 -0500"
+        "title": "Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Champions%20League",
+        "pubdate": "Mon, 04 Nov 2024 17:00:00 -0500"
     },
     {
         "title": "Chelsea vs",
@@ -48,6 +58,11 @@
         "title": "Lazio  Cagliari",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Lazio%20%20Cagliari",
         "pubdate": "Mon, 04 Nov 2024 15:00:00 -0500"
+    },
+    {
+        "title": "Champions",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Champions",
+        "pubdate": "Mon, 04 Nov 2024 21:00:00 -0500"
     },
     {
         "title": "Nike",
@@ -70,11 +85,6 @@
         "pubdate": "Mon, 04 Nov 2024 08:00:00 -0500"
     },
     {
-        "title": "5 de noviembre es feriado",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#5%20de%20noviembre%20es%20feriado",
-        "pubdate": "Mon, 04 Nov 2024 12:00:00 -0500"
-    },
-    {
         "title": "Peru vs Chile",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Peru%20vs%20Chile",
         "pubdate": "Mon, 04 Nov 2024 11:00:00 -0500"
@@ -88,15 +98,5 @@
         "title": "Celta de Vigo - Getafe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Celta%20de%20Vigo%20-%20Getafe",
         "pubdate": "Mon, 04 Nov 2024 16:00:00 -0500"
-    },
-    {
-        "title": "MrBeast",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#MrBeast",
-        "pubdate": "Mon, 04 Nov 2024 09:00:00 -0500"
-    },
-    {
-        "title": "Inter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Inter",
-        "pubdate": "Mon, 04 Nov 2024 14:00:00 -0500"
     }
 ]
