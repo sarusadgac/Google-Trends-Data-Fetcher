@@ -15,6 +15,11 @@
         "pubdate": "Mon, 04 Nov 2024 01:00:00 -0500"
     },
     {
+        "title": "Sky",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Sky",
+        "pubdate": "Mon, 04 Nov 2024 21:00:00 -0500"
+    },
+    {
         "title": "Adidas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Adidas",
         "pubdate": "Mon, 04 Nov 2024 02:00:00 -0500"
@@ -25,14 +30,14 @@
         "pubdate": "Mon, 04 Nov 2024 13:00:00 -0500"
     },
     {
+        "title": "Corinthians  Palmeiras",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Corinthians%20%20Palmeiras",
+        "pubdate": "Mon, 04 Nov 2024 18:00:00 -0500"
+    },
+    {
         "title": "JetSMART",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#JetSMART",
         "pubdate": "Mon, 04 Nov 2024 20:00:00 -0500"
-    },
-    {
-        "title": "Peru vs Chile",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Peru%20vs%20Chile",
-        "pubdate": "Mon, 04 Nov 2024 10:00:00 -0500"
     },
     {
         "title": "LATAM peru",
@@ -40,19 +45,9 @@
         "pubdate": "Mon, 04 Nov 2024 19:00:00 -0500"
     },
     {
-        "title": "Cyber Wow 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Cyber%20Wow%202024",
-        "pubdate": "Mon, 04 Nov 2024 01:00:00 -0500"
-    },
-    {
         "title": "Chelsea vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Chelsea%20vs",
         "pubdate": "Mon, 04 Nov 2024 11:00:00 -0500"
-    },
-    {
-        "title": "Corinthians  Palmeiras",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Corinthians%20%20Palmeiras",
-        "pubdate": "Mon, 04 Nov 2024 18:00:00 -0500"
     },
     {
         "title": "Fulham - Brentford",
@@ -60,8 +55,8 @@
         "pubdate": "Mon, 04 Nov 2024 16:00:00 -0500"
     },
     {
-        "title": "LAZIO, CAGLIARI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#LAZIO,%20CAGLIARI",
+        "title": "Lazio  Cagliari",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Lazio%20%20Cagliari",
         "pubdate": "Mon, 04 Nov 2024 15:00:00 -0500"
     },
     {
@@ -70,14 +65,19 @@
         "pubdate": "Mon, 04 Nov 2024 17:00:00 -0500"
     },
     {
+        "title": "Nike",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Nike",
+        "pubdate": "Mon, 04 Nov 2024 12:00:00 -0500"
+    },
+    {
         "title": "Samsung",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Samsung",
         "pubdate": "Mon, 04 Nov 2024 11:00:00 -0500"
     },
     {
-        "title": "Nike",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Nike",
-        "pubdate": "Mon, 04 Nov 2024 12:00:00 -0500"
+        "title": "Champions",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Champions",
+        "pubdate": "Mon, 04 Nov 2024 21:00:00 -0500"
     },
     {
         "title": "Saga",
@@ -85,8 +85,8 @@
         "pubdate": "Mon, 04 Nov 2024 08:00:00 -0500"
     },
     {
-        "title": "Al Hilal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Al%20Hilal",
+        "title": "Al-Hilal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Al-Hilal",
         "pubdate": "Mon, 04 Nov 2024 14:00:00 -0500"
     },
     {
@@ -95,8 +95,8 @@
         "pubdate": "Mon, 04 Nov 2024 16:00:00 -0500"
     },
     {
-        "title": "MrBeast",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#MrBeast",
-        "pubdate": "Mon, 04 Nov 2024 09:00:00 -0500"
+        "title": "Peru vs Chile",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Peru%20vs%20Chile",
+        "pubdate": "Mon, 04 Nov 2024 11:00:00 -0500"
     }
 ]

@@ -45,14 +45,14 @@
         "pubdate": "Mon, 04 Nov 2024 23:00:00 +0100"
     },
     {
+        "title": "Iker jimenez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Iker%20jimenez",
+        "pubdate": "Mon, 04 Nov 2024 00:00:00 +0100"
+    },
+    {
         "title": "Amancio Ortega",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Amancio%20Ortega",
         "pubdate": "Mon, 04 Nov 2024 21:00:00 +0100"
-    },
-    {
-        "title": "ELPAIS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#ELPAIS",
-        "pubdate": "Mon, 04 Nov 2024 12:00:00 +0100"
     },
     {
         "title": "Quincy Jones",
@@ -63,11 +63,6 @@
         "title": "Champions League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Champions%20League",
         "pubdate": "Mon, 04 Nov 2024 21:00:00 +0100"
-    },
-    {
-        "title": "Rubén Gisbert",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Rub%C3%A9n%20Gisbert",
-        "pubdate": "Mon, 04 Nov 2024 16:00:00 +0100"
     },
     {
         "title": "Javier Giner",
@@ -97,6 +92,11 @@
     {
         "title": "TV3",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#TV3",
+        "pubdate": "Mon, 04 Nov 2024 10:00:00 +0100"
+    },
+    {
+        "title": "Fiesta del Cine",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Fiesta%20del%20Cine",
         "pubdate": "Mon, 04 Nov 2024 10:00:00 +0100"
     }
 ]
