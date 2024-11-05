@@ -5,6 +5,16 @@
         "pubdate": "Tue, 05 Nov 2024 08:00:00 +1300"
     },
     {
+        "title": "NBL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#NBL",
+        "pubdate": "Tue, 05 Nov 2024 10:00:00 +1300"
+    },
+    {
+        "title": "US election 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#US%20election%202024",
+        "pubdate": "Tue, 05 Nov 2024 08:00:00 +1300"
+    },
+    {
         "title": "Fulham vs Brentford",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Fulham%20vs%20Brentford",
         "pubdate": "Tue, 05 Nov 2024 12:00:00 +1300"
@@ -63,16 +73,6 @@
         "title": "EP",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#EP",
         "pubdate": "Mon, 04 Nov 2024 10:00:00 +1300"
-    },
-    {
-        "title": "LinkedIn",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#LinkedIn",
-        "pubdate": "Mon, 04 Nov 2024 13:00:00 +1300"
-    },
-    {
-        "title": "Docs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Docs",
-        "pubdate": "Mon, 04 Nov 2024 11:00:00 +1300"
     },
     {
         "title": "Google Drive",
