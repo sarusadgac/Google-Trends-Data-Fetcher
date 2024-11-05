@@ -10,6 +10,11 @@
         "pubdate": "Wed, 06 Nov 2024 00:00:00 +1300"
     },
     {
+        "title": "New York Time",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#New%20York%20Time",
+        "pubdate": "Wed, 06 Nov 2024 06:00:00 +1300"
+    },
+    {
         "title": "Melbourne Cup results",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Melbourne%20Cup%20results",
         "pubdate": "Tue, 05 Nov 2024 18:00:00 +1300"
@@ -18,6 +23,11 @@
         "title": "Guy Fawkes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Guy%20Fawkes",
         "pubdate": "Tue, 05 Nov 2024 21:00:00 +1300"
+    },
+    {
+        "title": "American election",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#American%20election",
+        "pubdate": "Tue, 05 Nov 2024 06:00:00 +1300"
     },
     {
         "title": "Time in New York",
@@ -33,11 +43,6 @@
         "title": "Parihaka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Parihaka",
         "pubdate": "Tue, 05 Nov 2024 12:00:00 +1300"
-    },
-    {
-        "title": "Time in USA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Time%20in%20USA",
-        "pubdate": "Tue, 05 Nov 2024 18:00:00 +1300"
     },
     {
         "title": "Joe Rogan",
@@ -93,10 +98,5 @@
         "title": "Canva",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Canva",
         "pubdate": "Mon, 04 Nov 2024 12:00:00 +1300"
-    },
-    {
-        "title": "Google Maps",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Google%20Maps",
-        "pubdate": "Mon, 04 Nov 2024 15:00:00 +1300"
     }
 ]

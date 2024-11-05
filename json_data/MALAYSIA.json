@@ -1,5 +1,10 @@
 [
     {
+        "title": "Iran",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Iran",
+        "pubdate": "Wed, 06 Nov 2024 01:00:00 +0800"
+    },
+    {
         "title": "JDT",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#JDT",
         "pubdate": "Tue, 05 Nov 2024 09:00:00 +0800"
@@ -20,6 +25,11 @@
         "pubdate": "Tue, 05 Nov 2024 04:00:00 +0800"
     },
     {
+        "title": "American election",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#American%20election",
+        "pubdate": "Tue, 05 Nov 2024 11:00:00 +0800"
+    },
+    {
         "title": "Al Hilal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Al%20Hilal",
         "pubdate": "Tue, 05 Nov 2024 08:00:00 +0800"
@@ -30,19 +40,14 @@
         "pubdate": "Tue, 05 Nov 2024 16:00:00 +0800"
     },
     {
-        "title": "Jho Low",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Jho%20Low",
-        "pubdate": "Tue, 05 Nov 2024 14:00:00 +0800"
-    },
-    {
-        "title": "American election",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#American%20election",
-        "pubdate": "Tue, 05 Nov 2024 12:00:00 +0800"
-    },
-    {
         "title": "Riot",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Riot",
         "pubdate": "Tue, 05 Nov 2024 18:00:00 +0800"
+    },
+    {
+        "title": "Jho Low",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Jho%20Low",
+        "pubdate": "Tue, 05 Nov 2024 14:00:00 +0800"
     },
     {
         "title": "Janna Nick",
@@ -62,7 +67,7 @@
     {
         "title": "US election 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#US%20election%202024",
-        "pubdate": "Mon, 04 Nov 2024 01:00:00 +0800"
+        "pubdate": "Mon, 04 Nov 2024 11:00:00 +0800"
     },
     {
         "title": "Pakistan vs Australia",
@@ -80,6 +85,11 @@
         "pubdate": "Mon, 04 Nov 2024 16:00:00 +0800"
     },
     {
+        "title": "US election results",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#US%20election%20results",
+        "pubdate": "Mon, 04 Nov 2024 01:00:00 +0800"
+    },
+    {
         "title": "Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Barcelona",
         "pubdate": "Mon, 04 Nov 2024 15:00:00 +0800"
@@ -88,15 +98,5 @@
         "title": "UEFA Champions League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#UEFA%20Champions%20League",
         "pubdate": "Mon, 04 Nov 2024 22:00:00 +0800"
-    },
-    {
-        "title": "Quincy Jones",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Quincy%20Jones",
-        "pubdate": "Mon, 04 Nov 2024 18:00:00 +0800"
-    },
-    {
-        "title": "Jendela",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Jendela",
-        "pubdate": "Mon, 04 Nov 2024 17:00:00 +0800"
     }
 ]

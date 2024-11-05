@@ -20,6 +20,11 @@
         "pubdate": "Tue, 05 Nov 2024 07:00:00 +0100"
     },
     {
+        "title": "PSG atletico",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#PSG%20atletico",
+        "pubdate": "Tue, 05 Nov 2024 18:00:00 +0100"
+    },
+    {
         "title": "Quincy Jones",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Quincy%20Jones",
         "pubdate": "Mon, 04 Nov 2024 10:00:00 +0100"
@@ -35,19 +40,9 @@
         "pubdate": "Mon, 04 Nov 2024 14:00:00 +0100"
     },
     {
-        "title": "Yves Parlier",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Yves%20Parlier",
-        "pubdate": "Mon, 04 Nov 2024 19:00:00 +0100"
-    },
-    {
         "title": "RER E",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#RER%20E",
         "pubdate": "Mon, 04 Nov 2024 11:00:00 +0100"
-    },
-    {
-        "title": "Barcelone",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Barcelone",
-        "pubdate": "Mon, 04 Nov 2024 12:00:00 +0100"
     },
     {
         "title": "Sara Forestier",
@@ -55,9 +50,9 @@
         "pubdate": "Mon, 04 Nov 2024 21:00:00 +0100"
     },
     {
-        "title": "Karl Olive",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Karl%20Olive",
-        "pubdate": "Mon, 04 Nov 2024 02:00:00 +0100"
+        "title": "Barcelone",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Barcelone",
+        "pubdate": "Mon, 04 Nov 2024 12:00:00 +0100"
     },
     {
         "title": "Vendee Globe",
@@ -65,14 +60,14 @@
         "pubdate": "Mon, 04 Nov 2024 23:00:00 +0100"
     },
     {
+        "title": "Karl Olive",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Karl%20Olive",
+        "pubdate": "Mon, 04 Nov 2024 02:00:00 +0100"
+    },
+    {
         "title": "Neymar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Neymar",
         "pubdate": "Mon, 04 Nov 2024 23:00:00 +0100"
-    },
-    {
-        "title": "Jordan de Luxe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Jordan%20de%20Luxe",
-        "pubdate": "Mon, 04 Nov 2024 15:00:00 +0100"
     },
     {
         "title": "Clara Luciani",
@@ -98,5 +93,10 @@
         "title": "James Van Der Beek",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#James%20Van%20Der%20Beek",
         "pubdate": "Mon, 04 Nov 2024 19:00:00 +0100"
+    },
+    {
+        "title": "Taxe d'habitation",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Taxe%20d'habitation",
+        "pubdate": "Mon, 04 Nov 2024 14:00:00 +0100"
     }
 ]
