@@ -20,11 +20,6 @@
         "pubdate": "Mon, 04 Nov 2024 01:00:00 -0500"
     },
     {
-        "title": "Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Champions%20League",
-        "pubdate": "Mon, 04 Nov 2024 17:00:00 -0500"
-    },
-    {
         "title": "SKY",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#SKY",
         "pubdate": "Mon, 04 Nov 2024 21:00:00 -0500"
@@ -48,6 +43,11 @@
         "title": "Chelsea vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Chelsea%20vs",
         "pubdate": "Mon, 04 Nov 2024 11:00:00 -0500"
+    },
+    {
+        "title": "Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Champions%20League",
+        "pubdate": "Mon, 04 Nov 2024 17:00:00 -0500"
     },
     {
         "title": "Fulham - Brentford",
@@ -75,6 +75,11 @@
         "pubdate": "Mon, 04 Nov 2024 14:00:00 -0500"
     },
     {
+        "title": "Champions",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Champions",
+        "pubdate": "Mon, 04 Nov 2024 21:00:00 -0500"
+    },
+    {
         "title": "Saga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Saga",
         "pubdate": "Mon, 04 Nov 2024 08:00:00 -0500"
@@ -93,10 +98,5 @@
         "title": "Celta de Vigo - Getafe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Celta%20de%20Vigo%20-%20Getafe",
         "pubdate": "Mon, 04 Nov 2024 16:00:00 -0500"
-    },
-    {
-        "title": "MrBeast",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#MrBeast",
-        "pubdate": "Mon, 04 Nov 2024 09:00:00 -0500"
     }
 ]

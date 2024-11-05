@@ -5,6 +5,11 @@
         "pubdate": "Tue, 05 Nov 2024 01:00:00 -0300"
     },
     {
+        "title": "Valdivia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Valdivia",
+        "pubdate": "Tue, 05 Nov 2024 06:00:00 -0300"
+    },
+    {
         "title": "Pistons  Lakers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Pistons%20%20Lakers",
         "pubdate": "Tue, 05 Nov 2024 01:00:00 -0300"
@@ -93,10 +98,5 @@
         "title": "Emilia Dides",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Emilia%20Dides",
         "pubdate": "Mon, 04 Nov 2024 00:00:00 -0300"
-    },
-    {
-        "title": "Lazio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Lazio",
-        "pubdate": "Mon, 04 Nov 2024 18:00:00 -0300"
     }
 ]

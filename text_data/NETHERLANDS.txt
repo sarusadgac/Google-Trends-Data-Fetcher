@@ -3,12 +3,9 @@ Verkiezingen usa
 Blokker
 Quincy Jones
 Champions League
-Herna Verhagen
 FC Emmen
 Sate
-Lubbers
 NEC
-Norris
 Abdi Nageeye
 Fcgroningen
 Sparta
@@ -18,3 +15,6 @@ FC Twente
 Vitesse
 Idsinga
 FC Utrecht
+Lubach
+PSV Ajax
+FC Emmen
