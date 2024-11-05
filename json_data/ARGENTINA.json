@@ -5,11 +5,6 @@
         "pubdate": "Tue, 05 Nov 2024 00:00:00 -0300"
     },
     {
-        "title": "Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Champions%20League",
-        "pubdate": "Tue, 05 Nov 2024 06:00:00 -0300"
-    },
-    {
         "title": "Victoria Villarruel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Victoria%20Villarruel",
         "pubdate": "Tue, 05 Nov 2024 00:00:00 -0300"
@@ -18,6 +13,11 @@
         "title": "Imane Khelif",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Imane%20Khelif",
         "pubdate": "Tue, 05 Nov 2024 02:00:00 -0300"
+    },
+    {
+        "title": "Rubén Gisbert",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Rub%C3%A9n%20Gisbert",
+        "pubdate": "Tue, 05 Nov 2024 08:00:00 -0300"
     },
     {
         "title": "Clima",
@@ -32,7 +32,7 @@
     {
         "title": "Pronostico",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Pronostico",
-        "pubdate": "Mon, 04 Nov 2024 13:00:00 -0300"
+        "pubdate": "Mon, 04 Nov 2024 14:00:00 -0300"
     },
     {
         "title": "Independiente  Rosario Central",
@@ -55,8 +55,8 @@
         "pubdate": "Mon, 04 Nov 2024 07:00:00 -0300"
     },
     {
-        "title": "Tiempo hoy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Tiempo%20hoy",
+        "title": "Pronostico del tiempo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Pronostico%20del%20tiempo",
         "pubdate": "Mon, 04 Nov 2024 12:00:00 -0300"
     },
     {
@@ -75,14 +75,19 @@
         "pubdate": "Mon, 04 Nov 2024 08:00:00 -0300"
     },
     {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Barcelona",
+        "pubdate": "Mon, 04 Nov 2024 02:00:00 -0300"
+    },
+    {
         "title": "Nathy Peluso",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Nathy%20Peluso",
         "pubdate": "Mon, 04 Nov 2024 00:00:00 -0300"
     },
     {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Barcelona",
-        "pubdate": "Mon, 04 Nov 2024 02:00:00 -0300"
+        "title": "Tiempo hoy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Tiempo%20hoy",
+        "pubdate": "Mon, 04 Nov 2024 12:00:00 -0300"
     },
     {
         "title": "Clima Buenos Aires",
@@ -93,10 +98,5 @@
         "title": "4 de noviembre",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#4%20de%20noviembre",
         "pubdate": "Mon, 04 Nov 2024 01:00:00 -0300"
-    },
-    {
-        "title": "Personal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Personal",
-        "pubdate": "Mon, 04 Nov 2024 20:00:00 -0300"
     }
 ]
