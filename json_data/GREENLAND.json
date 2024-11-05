@@ -5,9 +5,14 @@
         "pubdate": "Tue, 05 Nov 2024 03:00:00 +0900"
     },
     {
-        "title": "Quincy Jones",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Quincy%20Jones",
-        "pubdate": "Mon, 04 Nov 2024 09:00:00 +0000"
+        "title": "Ligue des champions",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Ligue%20des%20champions",
+        "pubdate": "Tue, 05 Nov 2024 07:00:00 +0100"
+    },
+    {
+        "title": "Election Day 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Election%20Day%202024",
+        "pubdate": "Mon, 04 Nov 2024 04:00:00 -0800"
     },
     {
         "title": "鄭欽文",
@@ -15,24 +20,19 @@
         "pubdate": "Tue, 05 Nov 2024 01:00:00 +0800"
     },
     {
-        "title": "Election polls",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Election%20polls",
-        "pubdate": "Mon, 04 Nov 2024 09:00:00 -0800"
+        "title": "US election",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#US%20election",
+        "pubdate": "Mon, 04 Nov 2024 11:00:00 +0000"
     },
     {
-        "title": "Al-Hilal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Al-Hilal",
+        "title": "Quincy Jones",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Quincy%20Jones",
+        "pubdate": "Mon, 04 Nov 2024 10:00:00 +0100"
+    },
+    {
+        "title": "America Election",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#America%20Election",
         "pubdate": "Tue, 05 Nov 2024 00:30:00 +0530"
-    },
-    {
-        "title": "Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Champions%20League",
-        "pubdate": "Mon, 04 Nov 2024 18:00:00 +0100"
-    },
-    {
-        "title": "Gerard Darmon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Gerard%20Darmon",
-        "pubdate": "Tue, 05 Nov 2024 03:00:00 +0100"
     },
     {
         "title": "5 ноября праздник",
@@ -40,44 +40,9 @@
         "pubdate": "Tue, 05 Nov 2024 02:00:00 +0300"
     },
     {
-        "title": "Liga Champions",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Liga%20Champions",
-        "pubdate": "Tue, 05 Nov 2024 07:00:00 +0700"
-    },
-    {
-        "title": "美超微",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E7%BE%8E%E8%B6%85%E5%BE%AE",
-        "pubdate": "Tue, 05 Nov 2024 06:00:00 +0800"
-    },
-    {
-        "title": "Fulham đấu với Brentford",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Fulham%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Brentford",
-        "pubdate": "Tue, 05 Nov 2024 03:00:00 +0700"
-    },
-    {
-        "title": "AIK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AIK",
-        "pubdate": "Mon, 04 Nov 2024 17:00:00 +0100"
-    },
-    {
-        "title": "Melbourne Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Melbourne%20Cup",
-        "pubdate": "Tue, 05 Nov 2024 12:00:00 +0800"
-    },
-    {
-        "title": "Blokker",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Blokker",
-        "pubdate": "Mon, 04 Nov 2024 15:00:00 +0100"
-    },
-    {
-        "title": "MrBeast",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#MrBeast",
-        "pubdate": "Tue, 05 Nov 2024 01:00:00 -0300"
-    },
-    {
-        "title": "Földrengés",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#F%C3%B6ldreng%C3%A9s",
-        "pubdate": "Tue, 05 Nov 2024 00:00:00 +0100"
+        "title": "الأهلي ضد الشرطة",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=EG#%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8A%20%D8%B6%D8%AF%20%D8%A7%D9%84%D8%B4%D8%B1%D8%B7%D8%A9",
+        "pubdate": "Mon, 04 Nov 2024 18:00:00 +0200"
     },
     {
         "title": "Colorectal cancer",
@@ -85,18 +50,53 @@
         "pubdate": "Tue, 05 Nov 2024 01:00:00 +0200"
     },
     {
-        "title": "Melbourne Cup results",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Melbourne%20Cup%20results",
+        "title": "Neymar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Neymar",
+        "pubdate": "Tue, 05 Nov 2024 00:00:00 +0100"
+    },
+    {
+        "title": "Gmail",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Gmail",
+        "pubdate": "Mon, 04 Nov 2024 14:00:00 +0000"
+    },
+    {
+        "title": "Lazio – Cagliari",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Lazio%20%E2%80%93%20Cagliari",
+        "pubdate": "Tue, 05 Nov 2024 01:00:00 +0100"
+    },
+    {
+        "title": "Metro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Metro",
+        "pubdate": "Tue, 05 Nov 2024 00:00:00 -0500"
+    },
+    {
+        "title": "US election results",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#US%20election%20results",
         "pubdate": "Tue, 05 Nov 2024 18:00:00 +1300"
     },
     {
-        "title": "Mugur Isărescu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Mugur%20Is%C4%83rescu",
-        "pubdate": "Tue, 05 Nov 2024 00:00:00 +0200"
+        "title": "Johan Derksen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Johan%20Derksen",
+        "pubdate": "Mon, 04 Nov 2024 22:00:00 +0100"
     },
     {
-        "title": "Duki",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Duki",
-        "pubdate": "Tue, 05 Nov 2024 00:00:00 -0300"
+        "title": "ЛЧ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=UA#%D0%9B%D0%A7",
+        "pubdate": "Tue, 05 Nov 2024 01:00:00 +0200"
+    },
+    {
+        "title": "เกาะกูด",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TH#%E0%B9%80%E0%B8%81%E0%B8%B2%E0%B8%B0%E0%B8%81%E0%B8%B9%E0%B8%94",
+        "pubdate": "Tue, 05 Nov 2024 00:00:00 +0700"
+    },
+    {
+        "title": "Liga Champions",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Liga%20Champions",
+        "pubdate": "Tue, 05 Nov 2024 07:00:00 +0700"
+    },
+    {
+        "title": "Moldova",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Moldova",
+        "pubdate": "Mon, 04 Nov 2024 08:00:00 +0200"
     }
 ]
