@@ -20,11 +20,6 @@
         "pubdate": "Tue, 05 Nov 2024 19:00:00 +0100"
     },
     {
-        "title": "Swing states",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Swing%20states",
-        "pubdate": "Tue, 05 Nov 2024 19:00:00 +0100"
-    },
-    {
         "title": "Sytze van der Zee",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sytze%20van%20der%20Zee",
         "pubdate": "Tue, 05 Nov 2024 19:00:00 +0100"
@@ -98,5 +93,10 @@
         "title": "Vitesse",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Vitesse",
         "pubdate": "Sat, 02 Nov 2024 22:00:00 +0100"
+    },
+    {
+        "title": "Idsinga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Idsinga",
+        "pubdate": "Fri, 01 Nov 2024 17:00:00 +0100"
     }
 ]

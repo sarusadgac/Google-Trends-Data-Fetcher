@@ -2,7 +2,6 @@ Stella
 Dieuwertje Blok
 Girona FC
 Bijlow
-Swing states
 Sytze van der Zee
 PSV
 Johan Derksen
@@ -18,3 +17,4 @@ Mist
 Ajax
 FC Twente
 Vitesse
+Idsinga
