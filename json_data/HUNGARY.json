@@ -70,11 +70,6 @@
         "pubdate": "Mon, 04 Nov 2024 02:00:00 +0100"
     },
     {
-        "title": "Chloë Grace Moretz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Chlo%C3%AB%20Grace%20Moretz",
-        "pubdate": "Mon, 04 Nov 2024 15:00:00 +0100"
-    },
-    {
         "title": "Lengyel Attila",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Lengyel%20Attila",
         "pubdate": "Mon, 04 Nov 2024 15:00:00 +0100"
@@ -98,5 +93,10 @@
         "title": "Irán",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ir%C3%A1n",
         "pubdate": "Mon, 04 Nov 2024 21:00:00 +0100"
+    },
+    {
+        "title": "A Bíró",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#A%20B%C3%ADr%C3%B3",
+        "pubdate": "Mon, 04 Nov 2024 09:00:00 +0100"
     }
 ]

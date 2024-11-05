@@ -22,7 +22,7 @@
     {
         "title": "Cyber Wow",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Cyber%20Wow",
-        "pubdate": "Mon, 04 Nov 2024 11:00:00 -0500"
+        "pubdate": "Mon, 04 Nov 2024 01:00:00 -0500"
     },
     {
         "title": "SKY",
@@ -40,11 +40,6 @@
         "pubdate": "Mon, 04 Nov 2024 02:00:00 -0500"
     },
     {
-        "title": "JetSMART",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#JetSMART",
-        "pubdate": "Mon, 04 Nov 2024 20:00:00 -0500"
-    },
-    {
         "title": "Fulham - Brentford",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Fulham%20-%20Brentford",
         "pubdate": "Mon, 04 Nov 2024 16:00:00 -0500"
@@ -58,11 +53,6 @@
         "title": "Lazio  Cagliari",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Lazio%20%20Cagliari",
         "pubdate": "Mon, 04 Nov 2024 15:00:00 -0500"
-    },
-    {
-        "title": "Champions",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Champions",
-        "pubdate": "Mon, 04 Nov 2024 21:00:00 -0500"
     },
     {
         "title": "Nike",
@@ -85,6 +75,11 @@
         "pubdate": "Mon, 04 Nov 2024 08:00:00 -0500"
     },
     {
+        "title": "Champions",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Champions",
+        "pubdate": "Mon, 04 Nov 2024 21:00:00 -0500"
+    },
+    {
         "title": "Ticketmaster",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Ticketmaster",
         "pubdate": "Mon, 04 Nov 2024 22:00:00 -0500"
@@ -98,5 +93,10 @@
         "title": "Celta de Vigo - Getafe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Celta%20de%20Vigo%20-%20Getafe",
         "pubdate": "Mon, 04 Nov 2024 16:00:00 -0500"
+    },
+    {
+        "title": "MrBeast",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#MrBeast",
+        "pubdate": "Mon, 04 Nov 2024 09:00:00 -0500"
     }
 ]
