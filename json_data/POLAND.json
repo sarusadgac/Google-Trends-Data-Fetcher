@@ -5,6 +5,16 @@
         "pubdate": "Tue, 05 Nov 2024 12:00:00 +0100"
     },
     {
+        "title": "USA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#USA",
+        "pubdate": "Tue, 05 Nov 2024 14:00:00 +0100"
+    },
+    {
+        "title": "Neymar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Neymar",
+        "pubdate": "Tue, 05 Nov 2024 01:00:00 +0100"
+    },
+    {
         "title": "Anwil",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Anwil",
         "pubdate": "Tue, 05 Nov 2024 07:00:00 +0100"
@@ -18,11 +28,6 @@
         "title": "Agnieszka Kaczorowska",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Agnieszka%20Kaczorowska",
         "pubdate": "Tue, 05 Nov 2024 00:00:00 +0100"
-    },
-    {
-        "title": "Ziobro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ziobro",
-        "pubdate": "Tue, 05 Nov 2024 01:00:00 +0100"
     },
     {
         "title": "Zagłębie Lubin – Śląsk Wrocław",
@@ -40,14 +45,14 @@
         "pubdate": "Mon, 04 Nov 2024 20:00:00 +0100"
     },
     {
-        "title": "Quincy Jones",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Quincy%20Jones",
-        "pubdate": "Mon, 04 Nov 2024 10:00:00 +0100"
-    },
-    {
         "title": "Ostrzeżenie przed mgłą",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ostrze%C5%BCenie%20przed%20mg%C5%82%C4%85",
         "pubdate": "Mon, 04 Nov 2024 15:00:00 +0100"
+    },
+    {
+        "title": "Quincy Jones",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Quincy%20Jones",
+        "pubdate": "Mon, 04 Nov 2024 10:00:00 +0100"
     },
     {
         "title": "Puchar Polski",
@@ -58,11 +63,6 @@
         "title": "Wakacje od ZUS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Wakacje%20od%20ZUS",
         "pubdate": "Mon, 04 Nov 2024 11:00:00 +0100"
-    },
-    {
-        "title": "Galbas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Galbas",
-        "pubdate": "Mon, 04 Nov 2024 14:00:00 +0100"
     },
     {
         "title": "Jolanta Brzeska",
@@ -80,14 +80,14 @@
         "pubdate": "Mon, 04 Nov 2024 14:00:00 +0100"
     },
     {
-        "title": "Jan Sieradziński",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jan%20Sieradzi%C5%84ski",
-        "pubdate": "Mon, 04 Nov 2024 12:00:00 +0100"
-    },
-    {
         "title": "Imane Khelif",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Imane%20Khelif",
         "pubdate": "Mon, 04 Nov 2024 23:00:00 +0100"
+    },
+    {
+        "title": "Jan Sieradziński",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jan%20Sieradzi%C5%84ski",
+        "pubdate": "Mon, 04 Nov 2024 12:00:00 +0100"
     },
     {
         "title": "11 listopada Święto",
@@ -95,8 +95,8 @@
         "pubdate": "Mon, 04 Nov 2024 14:00:00 +0100"
     },
     {
-        "title": "Movember",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Movember",
-        "pubdate": "Mon, 04 Nov 2024 14:00:00 +0100"
+        "title": "Cezary Żak",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Cezary%20%C5%BBak",
+        "pubdate": "Mon, 04 Nov 2024 20:00:00 +0100"
     }
 ]
