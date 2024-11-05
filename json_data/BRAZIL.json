@@ -1,5 +1,10 @@
 [
     {
+        "title": "Chiefs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Chiefs",
+        "pubdate": "Tue, 05 Nov 2024 02:00:00 -0500"
+    },
+    {
         "title": "VW Tera",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#VW%20Tera",
         "pubdate": "Tue, 05 Nov 2024 01:00:00 -0500"
@@ -53,11 +58,6 @@
         "title": "Cabeça de porco",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cabe%C3%A7a%20de%20porco",
         "pubdate": "Mon, 04 Nov 2024 20:00:00 -0500"
-    },
-    {
-        "title": "FGTS Digital",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#FGTS%20Digital",
-        "pubdate": "Mon, 04 Nov 2024 07:00:00 -0500"
     },
     {
         "title": "Débora Aladim",

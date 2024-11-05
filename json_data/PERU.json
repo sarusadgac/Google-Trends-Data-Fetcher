@@ -25,6 +25,11 @@
         "pubdate": "Mon, 04 Nov 2024 01:00:00 -0500"
     },
     {
+        "title": "Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Champions%20League",
+        "pubdate": "Mon, 04 Nov 2024 17:00:00 -0500"
+    },
+    {
         "title": "SKY",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#SKY",
         "pubdate": "Mon, 04 Nov 2024 21:00:00 -0500"
@@ -43,11 +48,6 @@
         "title": "Fulham - Brentford",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Fulham%20-%20Brentford",
         "pubdate": "Mon, 04 Nov 2024 16:00:00 -0500"
-    },
-    {
-        "title": "Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Champions%20League",
-        "pubdate": "Mon, 04 Nov 2024 17:00:00 -0500"
     },
     {
         "title": "Lazio  Cagliari",
@@ -70,16 +70,6 @@
         "pubdate": "Mon, 04 Nov 2024 14:00:00 -0500"
     },
     {
-        "title": "Saga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Saga",
-        "pubdate": "Mon, 04 Nov 2024 08:00:00 -0500"
-    },
-    {
-        "title": "Champions",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Champions",
-        "pubdate": "Mon, 04 Nov 2024 21:00:00 -0500"
-    },
-    {
         "title": "Ticketmaster",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Ticketmaster",
         "pubdate": "Mon, 04 Nov 2024 22:00:00 -0500"
@@ -98,5 +88,15 @@
         "title": "MrBeast",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#MrBeast",
         "pubdate": "Mon, 04 Nov 2024 09:00:00 -0500"
+    },
+    {
+        "title": "Inter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Inter",
+        "pubdate": "Mon, 04 Nov 2024 14:00:00 -0500"
+    },
+    {
+        "title": "Peru vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Peru%20vs",
+        "pubdate": "Mon, 04 Nov 2024 10:00:00 -0500"
     }
 ]
