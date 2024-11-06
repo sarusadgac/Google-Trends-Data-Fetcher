@@ -5,24 +5,19 @@
         "pubdate": "Wed, 06 Nov 2024 10:00:00 +0100"
     },
     {
-        "title": "BBC News",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#BBC%20News",
-        "pubdate": "Wed, 06 Nov 2024 11:00:00 +0100"
-    },
-    {
         "title": "Enrique Ponce Chiva",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Enrique%20Ponce%20Chiva",
         "pubdate": "Wed, 06 Nov 2024 08:00:00 +0100"
     },
     {
+        "title": "BBC News",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#BBC%20News",
+        "pubdate": "Wed, 06 Nov 2024 11:00:00 +0100"
+    },
+    {
         "title": "Elon Musk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Elon%20Musk",
         "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
-    },
-    {
-        "title": "Melania Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Melania%20Trump",
-        "pubdate": "Wed, 06 Nov 2024 08:00:00 +0100"
     },
     {
         "title": "Sheila Casas",
@@ -35,14 +30,24 @@
         "pubdate": "Wed, 06 Nov 2024 01:00:00 +0100"
     },
     {
+        "title": "Piratas del Caribe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Piratas%20del%20Caribe",
+        "pubdate": "Wed, 06 Nov 2024 12:00:00 +0100"
+    },
+    {
         "title": "THE NEW YORK TIMES",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#THE%20NEW%20YORK%20TIMES",
         "pubdate": "Wed, 06 Nov 2024 01:00:00 +0100"
     },
     {
-        "title": "Piratas del Caribe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Piratas%20del%20Caribe",
-        "pubdate": "Wed, 06 Nov 2024 12:00:00 +0100"
+        "title": "La reina Camila",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#La%20reina%20Camila",
+        "pubdate": "Wed, 06 Nov 2024 14:00:00 +0100"
+    },
+    {
+        "title": "Biden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Biden",
+        "pubdate": "Wed, 06 Nov 2024 11:00:00 +0100"
     },
     {
         "title": "Joe biden",
@@ -55,9 +60,9 @@
         "pubdate": "Wed, 06 Nov 2024 03:00:00 +0100"
     },
     {
-        "title": "Mina Bonino",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Mina%20Bonino",
-        "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
+        "title": "Verónica Martínez Sumar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ver%C3%B3nica%20Mart%C3%ADnez%20Sumar",
+        "pubdate": "Wed, 06 Nov 2024 15:00:00 +0100"
     },
     {
         "title": "Infanta Elena",
@@ -70,9 +75,9 @@
         "pubdate": "Wed, 06 Nov 2024 03:00:00 +0100"
     },
     {
-        "title": "Verónica Martínez Sumar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ver%C3%B3nica%20Mart%C3%ADnez%20Sumar",
-        "pubdate": "Wed, 06 Nov 2024 15:00:00 +0100"
+        "title": "Barça hoy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Bar%C3%A7a%20hoy",
+        "pubdate": "Wed, 06 Nov 2024 10:00:00 +0100"
     },
     {
         "title": "Andrea Levy",
@@ -80,23 +85,18 @@
         "pubdate": "Wed, 06 Nov 2024 14:00:00 +0100"
     },
     {
-        "title": "Barça hoy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Bar%C3%A7a%20hoy",
-        "pubdate": "Wed, 06 Nov 2024 10:00:00 +0100"
-    },
-    {
         "title": "Atropello Infanta Elena Lugo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Atropello%20Infanta%20Elena%20Lugo",
         "pubdate": "Wed, 06 Nov 2024 01:00:00 +0100"
     },
     {
-        "title": "Nyt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Nyt",
-        "pubdate": "Wed, 06 Nov 2024 08:00:00 +0100"
-    },
-    {
         "title": "Ibex",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ibex",
         "pubdate": "Wed, 06 Nov 2024 16:00:00 +0100"
+    },
+    {
+        "title": "Nyt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Nyt",
+        "pubdate": "Wed, 06 Nov 2024 08:00:00 +0100"
     }
 ]
