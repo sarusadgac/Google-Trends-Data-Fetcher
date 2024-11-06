@@ -10,11 +10,6 @@
         "pubdate": "Wed, 06 Nov 2024 08:00:00 +0100"
     },
     {
-        "title": "BBC News",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#BBC%20News",
-        "pubdate": "Wed, 06 Nov 2024 11:00:00 +0100"
-    },
-    {
         "title": "Sheila Casas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Sheila%20Casas",
         "pubdate": "Wed, 06 Nov 2024 12:00:00 +0100"
@@ -30,14 +25,14 @@
         "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
     },
     {
-        "title": "Periodista oscar more",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Periodista%20oscar%20more",
-        "pubdate": "Wed, 06 Nov 2024 01:00:00 +0100"
-    },
-    {
         "title": "Piratas del Caribe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Piratas%20del%20Caribe",
         "pubdate": "Wed, 06 Nov 2024 12:00:00 +0100"
+    },
+    {
+        "title": "Periodista oscar more",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Periodista%20oscar%20more",
+        "pubdate": "Wed, 06 Nov 2024 01:00:00 +0100"
     },
     {
         "title": "Verónica Martínez Barbero",
@@ -45,14 +40,14 @@
         "pubdate": "Wed, 06 Nov 2024 15:00:00 +0100"
     },
     {
-        "title": "THE NEW YORK TIMES",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#THE%20NEW%20YORK%20TIMES",
-        "pubdate": "Wed, 06 Nov 2024 01:00:00 +0100"
-    },
-    {
         "title": "La reina Camila",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#La%20reina%20Camila",
         "pubdate": "Wed, 06 Nov 2024 14:00:00 +0100"
+    },
+    {
+        "title": "THE NEW YORK TIMES",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#THE%20NEW%20YORK%20TIMES",
+        "pubdate": "Wed, 06 Nov 2024 01:00:00 +0100"
     },
     {
         "title": "Biden",
@@ -85,9 +80,9 @@
         "pubdate": "Wed, 06 Nov 2024 16:00:00 +0100"
     },
     {
-        "title": "Andrea Levy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Andrea%20Levy",
-        "pubdate": "Wed, 06 Nov 2024 14:00:00 +0100"
+        "title": "Atropello Infanta Elena Lugo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Atropello%20Infanta%20Elena%20Lugo",
+        "pubdate": "Wed, 06 Nov 2024 01:00:00 +0100"
     },
     {
         "title": "Dana White",
@@ -95,8 +90,13 @@
         "pubdate": "Wed, 06 Nov 2024 14:00:00 +0100"
     },
     {
-        "title": "Atropello Infanta Elena Lugo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Atropello%20Infanta%20Elena%20Lugo",
-        "pubdate": "Wed, 06 Nov 2024 01:00:00 +0100"
+        "title": "Andrea Levy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Andrea%20Levy",
+        "pubdate": "Wed, 06 Nov 2024 14:00:00 +0100"
+    },
+    {
+        "title": "Nyt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Nyt",
+        "pubdate": "Wed, 06 Nov 2024 08:00:00 +0100"
     }
 ]
