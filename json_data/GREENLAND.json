@@ -1,30 +1,5 @@
 [
     {
-        "title": "Ливерпуль – Байер",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%9B%D0%B8%D0%B2%D0%B5%D1%80%D0%BF%D1%83%D0%BB%D1%8C%20%E2%80%93%20%D0%91%D0%B0%D0%B9%D0%B5%D1%80",
-        "pubdate": "Wed, 06 Nov 2024 00:00:00 +0300"
-    },
-    {
-        "title": "Cnn",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#Cnn",
-        "pubdate": "Wed, 06 Nov 2024 01:00:00 +0900"
-    },
-    {
-        "title": "Robert Kennedy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Robert%20Kennedy",
-        "pubdate": "Tue, 05 Nov 2024 06:00:00 -0800"
-    },
-    {
-        "title": "Liverpool – Leverkusen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Liverpool%20%E2%80%93%20Leverkusen",
-        "pubdate": "Tue, 05 Nov 2024 20:00:00 +0100"
-    },
-    {
-        "title": "甲狀腺癌",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E7%94%B2%E7%8B%80%E8%85%BA%E7%99%8C",
-        "pubdate": "Wed, 06 Nov 2024 12:00:00 +0800"
-    },
-    {
         "title": "Grenoble",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Grenoble",
         "pubdate": "Wed, 06 Nov 2024 07:00:00 +0100"
@@ -40,29 +15,39 @@
         "pubdate": "Wed, 06 Nov 2024 01:30:00 +0530"
     },
     {
-        "title": "منى زكي",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=EG#%D9%85%D9%86%D9%89%20%D8%B2%D9%83%D9%8A",
-        "pubdate": "Wed, 06 Nov 2024 00:00:00 +0200"
+        "title": "Cnn",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#Cnn",
+        "pubdate": "Wed, 06 Nov 2024 01:00:00 +0900"
     },
     {
-        "title": "La7",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#La7",
-        "pubdate": "Wed, 06 Nov 2024 00:00:00 +0100"
+        "title": "甲狀腺癌",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E7%94%B2%E7%8B%80%E8%85%BA%E7%99%8C",
+        "pubdate": "Wed, 06 Nov 2024 12:00:00 +0800"
     },
     {
-        "title": "NBC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#NBC",
-        "pubdate": "Wed, 06 Nov 2024 04:00:00 +0100"
+        "title": "Ливерпуль – Байер",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%9B%D0%B8%D0%B2%D0%B5%D1%80%D0%BF%D1%83%D0%BB%D1%8C%20%E2%80%93%20%D0%91%D0%B0%D0%B9%D0%B5%D1%80",
+        "pubdate": "Wed, 06 Nov 2024 00:00:00 +0300"
     },
     {
-        "title": "חוק המעונות",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%97%D7%95%D7%A7%20%D7%94%D7%9E%D7%A2%D7%95%D7%A0%D7%95%D7%AA",
-        "pubdate": "Wed, 06 Nov 2024 01:00:00 +0200"
+        "title": "Robert Kennedy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Robert%20Kennedy",
+        "pubdate": "Tue, 05 Nov 2024 06:00:00 -0800"
     },
     {
-        "title": "News",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#News",
-        "pubdate": "Wed, 06 Nov 2024 01:00:00 +0100"
+        "title": "Liverpool – Leverkusen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Liverpool%20%E2%80%93%20Leverkusen",
+        "pubdate": "Tue, 05 Nov 2024 20:00:00 +0100"
+    },
+    {
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#PSG",
+        "pubdate": "Wed, 06 Nov 2024 01:00:00 -0500"
+    },
+    {
+        "title": "Jill Stein",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Jill%20Stein",
+        "pubdate": "Wed, 06 Nov 2024 07:00:00 +0800"
     },
     {
         "title": "PSG vs",
@@ -70,19 +55,39 @@
         "pubdate": "Wed, 06 Nov 2024 00:00:00 -0500"
     },
     {
-        "title": "ABC News",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#ABC%20News",
-        "pubdate": "Wed, 06 Nov 2024 12:00:00 +1100"
+        "title": "Republika",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Republika",
+        "pubdate": "Wed, 06 Nov 2024 07:00:00 +0100"
     },
     {
-        "title": "Sporting CP vs Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Sporting%20CP%20vs%20Man%20City",
-        "pubdate": "Wed, 06 Nov 2024 03:00:00 +0700"
+        "title": "Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Trump",
+        "pubdate": "Wed, 06 Nov 2024 08:00:00 +0800"
     },
     {
-        "title": "สปอร์ติงลิสบอน พบ แมนซิตี",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TH#%E0%B8%AA%E0%B8%9B%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B8%B4%E0%B8%87%E0%B8%A5%E0%B8%B4%E0%B8%AA%E0%B8%9A%E0%B8%AD%E0%B8%99%20%E0%B8%9E%E0%B8%9A%20%E0%B9%81%E0%B8%A1%E0%B8%99%E0%B8%8B%E0%B8%B4%E0%B8%95%E0%B8%B5",
-        "pubdate": "Wed, 06 Nov 2024 00:00:00 +0700"
+        "title": "Jordi Wild",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Jordi%20Wild",
+        "pubdate": "Wed, 06 Nov 2024 00:00:00 -0300"
+    },
+    {
+        "title": "Aston Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Aston%20Villa",
+        "pubdate": "Wed, 06 Nov 2024 05:00:00 +0100"
+    },
+    {
+        "title": "Sky News",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Sky%20News",
+        "pubdate": "Wed, 06 Nov 2024 06:00:00 +0000"
+    },
+    {
+        "title": "SVT Nyheter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#SVT%20Nyheter",
+        "pubdate": "Wed, 06 Nov 2024 07:00:00 +0100"
+    },
+    {
+        "title": "Perplexity",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Perplexity",
+        "pubdate": "Wed, 06 Nov 2024 07:00:00 +0100"
     },
     {
         "title": "Bitcoin",
@@ -90,13 +95,8 @@
         "pubdate": "Wed, 06 Nov 2024 00:00:00 -0600"
     },
     {
-        "title": "Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Man%20City",
-        "pubdate": "Wed, 06 Nov 2024 00:00:00 +0200"
-    },
-    {
-        "title": "Sporting đấu với Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Sporting%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Man%20City",
-        "pubdate": "Wed, 06 Nov 2024 03:00:00 +0700"
+        "title": "Kamala Harris",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Kamala%20Harris",
+        "pubdate": "Tue, 05 Nov 2024 18:00:00 +0100"
     }
 ]
