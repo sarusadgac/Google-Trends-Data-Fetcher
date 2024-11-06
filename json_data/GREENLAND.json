@@ -1,33 +1,8 @@
 [
     {
-        "title": "News",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#News",
-        "pubdate": "Wed, 06 Nov 2024 11:00:00 +0100"
-    },
-    {
-        "title": "Ричард Гир",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%A0%D0%B8%D1%87%D0%B0%D1%80%D0%B4%20%D0%93%D0%B8%D1%80",
-        "pubdate": "Wed, 06 Nov 2024 06:00:00 +0300"
-    },
-    {
-        "title": "Sky News",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Sky%20News",
-        "pubdate": "Wed, 06 Nov 2024 08:00:00 +0000"
-    },
-    {
         "title": "Afghanistan vs Bangladesh",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Afghanistan%20vs%20Bangladesh",
         "pubdate": "Wed, 06 Nov 2024 15:30:00 +0530"
-    },
-    {
-        "title": "ドル円",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%89%E3%83%AB%E5%86%86",
-        "pubdate": "Wed, 06 Nov 2024 19:00:00 +0900"
-    },
-    {
-        "title": "Bitcoin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#Bitcoin",
-        "pubdate": "Wed, 06 Nov 2024 15:00:00 +0800"
     },
     {
         "title": "Le monde",
@@ -35,39 +10,59 @@
         "pubdate": "Wed, 06 Nov 2024 11:00:00 +0100"
     },
     {
+        "title": "News",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#News",
+        "pubdate": "Wed, 06 Nov 2024 11:00:00 +0100"
+    },
+    {
+        "title": "Bitcoin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#Bitcoin",
+        "pubdate": "Wed, 06 Nov 2024 15:00:00 +0800"
+    },
+    {
         "title": "Bitcoin price",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bitcoin%20price",
         "pubdate": "Wed, 06 Nov 2024 00:00:00 -0800"
     },
     {
-        "title": "SIC NOTÍCIAS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#SIC%20NOT%C3%8DCIAS",
-        "pubdate": "Wed, 06 Nov 2024 02:00:00 +0000"
+        "title": "Ричард Гир",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%A0%D0%B8%D1%87%D0%B0%D1%80%D0%B4%20%D0%93%D0%B8%D1%80",
+        "pubdate": "Wed, 06 Nov 2024 06:00:00 +0300"
+    },
+    {
+        "title": "ドル円",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%89%E3%83%AB%E5%86%86",
+        "pubdate": "Wed, 06 Nov 2024 19:00:00 +0900"
+    },
+    {
+        "title": "Sky News",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Sky%20News",
+        "pubdate": "Wed, 06 Nov 2024 08:00:00 +0000"
+    },
+    {
+        "title": "ערוץ 14",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A2%D7%A8%D7%95%D7%A5%2014",
+        "pubdate": "Wed, 06 Nov 2024 09:00:00 +0200"
+    },
+    {
+        "title": "Dolar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Dolar",
+        "pubdate": "Wed, 06 Nov 2024 16:00:00 +0300"
     },
     {
         "title": "Jill Stein",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Jill%20Stein",
-        "pubdate": "Wed, 06 Nov 2024 05:00:00 +0300"
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Jill%20Stein",
+        "pubdate": "Wed, 06 Nov 2024 07:00:00 +0800"
     },
     {
-        "title": "美國總統大選",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E7%BE%8E%E5%9C%8B%E7%B8%BD%E7%B5%B1%E5%A4%A7%E9%81%B8",
-        "pubdate": "Wed, 06 Nov 2024 11:00:00 +0800"
+        "title": "Fox News",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#Fox%20News",
+        "pubdate": "Wed, 06 Nov 2024 01:00:00 +0300"
     },
     {
-        "title": "Project 2025",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Project%202025",
-        "pubdate": "Wed, 06 Nov 2024 01:00:00 +0000"
-    },
-    {
-        "title": "Sporting CP vs Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Sporting%20CP%20vs%20Man%20City",
-        "pubdate": "Wed, 06 Nov 2024 03:00:00 +0700"
-    },
-    {
-        "title": "AUR",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#AUR",
-        "pubdate": "Wed, 06 Nov 2024 11:00:00 +0200"
+        "title": "David Pressman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#David%20Pressman",
+        "pubdate": "Wed, 06 Nov 2024 11:00:00 +0100"
     },
     {
         "title": "New york Times",
@@ -75,28 +70,33 @@
         "pubdate": "Wed, 06 Nov 2024 00:00:00 -0300"
     },
     {
-        "title": "Sporting vs Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Sporting%20vs%20Man%20City",
-        "pubdate": "Wed, 06 Nov 2024 04:00:00 +0800"
+        "title": "Мелания Трамп",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=UA#%D0%9C%D0%B5%D0%BB%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%A2%D1%80%D0%B0%D0%BC%D0%BF",
+        "pubdate": "Wed, 06 Nov 2024 10:00:00 +0200"
     },
     {
-        "title": "비트코인",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%B9%84%ED%8A%B8%EC%BD%94%EC%9D%B8",
-        "pubdate": "Wed, 06 Nov 2024 13:00:00 +0900"
+        "title": "Chief of Army Staff",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Chief%20of%20Army%20Staff",
+        "pubdate": "Wed, 06 Nov 2024 10:00:00 +0100"
     },
     {
-        "title": "BBC News",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#BBC%20News",
-        "pubdate": "Wed, 06 Nov 2024 11:00:00 +0100"
+        "title": "VRT NWS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#VRT%20NWS",
+        "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
     },
     {
-        "title": "دوري الأبطال",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=EG#%D8%AF%D9%88%D8%B1%D9%8A%20%D8%A7%D9%84%D8%A3%D8%A8%D8%B7%D8%A7%D9%84",
-        "pubdate": "Wed, 06 Nov 2024 12:00:00 +0200"
+        "title": "Sporting đấu với Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Sporting%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Man%20City",
+        "pubdate": "Wed, 06 Nov 2024 03:00:00 +0700"
     },
     {
-        "title": "SRF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#SRF",
-        "pubdate": "Wed, 06 Nov 2024 00:00:00 +0100"
+        "title": "Donald Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Donald%20Trump",
+        "pubdate": "Wed, 06 Nov 2024 00:00:00 +0800"
+    },
+    {
+        "title": "Sporting CP vs Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Sporting%20CP%20vs%20Man%20City",
+        "pubdate": "Wed, 06 Nov 2024 03:00:00 +0700"
     }
 ]
