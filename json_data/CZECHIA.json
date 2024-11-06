@@ -10,6 +10,11 @@
         "pubdate": "Tue, 05 Nov 2024 12:00:00 +0100"
     },
     {
+        "title": "ČT24",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C4%8CT24",
+        "pubdate": "Tue, 05 Nov 2024 22:00:00 +0100"
+    },
+    {
         "title": "Biden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Biden",
         "pubdate": "Tue, 05 Nov 2024 16:00:00 +0100"
@@ -93,10 +98,5 @@
         "title": "PS5 Pro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#PS5%20Pro",
         "pubdate": "Mon, 04 Nov 2024 20:00:00 +0100"
-    },
-    {
-        "title": "Copilot",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Copilot",
-        "pubdate": "Mon, 04 Nov 2024 15:00:00 +0100"
     }
 ]
