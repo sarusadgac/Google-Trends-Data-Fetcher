@@ -10,14 +10,14 @@
         "pubdate": "Tue, 05 Nov 2024 14:00:00 -0500"
     },
     {
-        "title": "Elecciones USA 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Elecciones%20USA%202024",
-        "pubdate": "Tue, 05 Nov 2024 09:00:00 -0500"
-    },
-    {
         "title": "Liverpool  Leverkusen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Liverpool%20%20Leverkusen",
         "pubdate": "Tue, 05 Nov 2024 11:00:00 -0500"
+    },
+    {
+        "title": "Elecciones USA 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Elecciones%20USA%202024",
+        "pubdate": "Tue, 05 Nov 2024 09:00:00 -0500"
     },
     {
         "title": "Al-nassr  Al Ain",
@@ -30,8 +30,18 @@
         "pubdate": "Tue, 05 Nov 2024 10:00:00 -0500"
     },
     {
+        "title": "Barcelona vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Barcelona%20vs",
+        "pubdate": "Tue, 05 Nov 2024 18:00:00 -0500"
+    },
+    {
         "title": "Dortmund - Sturm",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Dortmund%20-%20Sturm",
+        "pubdate": "Tue, 05 Nov 2024 15:00:00 -0500"
+    },
+    {
+        "title": "Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Juventus",
         "pubdate": "Tue, 05 Nov 2024 15:00:00 -0500"
     },
     {
@@ -45,13 +55,13 @@
         "pubdate": "Tue, 05 Nov 2024 10:00:00 -0500"
     },
     {
-        "title": "Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Juventus",
+        "title": "Celtic vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Celtic%20vs",
         "pubdate": "Tue, 05 Nov 2024 15:00:00 -0500"
     },
     {
-        "title": "Celtic vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Celtic%20vs",
+        "title": "IGP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#IGP",
         "pubdate": "Tue, 05 Nov 2024 15:00:00 -0500"
     },
     {
@@ -70,9 +80,9 @@
         "pubdate": "Tue, 05 Nov 2024 14:00:00 -0500"
     },
     {
-        "title": "Chiclana - Osasuna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Chiclana%20-%20Osasuna",
-        "pubdate": "Tue, 05 Nov 2024 15:00:00 -0500"
+        "title": "Viktor Gyökeres",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Viktor%20Gy%C3%B6keres",
+        "pubdate": "Tue, 05 Nov 2024 17:00:00 -0500"
     },
     {
         "title": "Imane Khelif",
@@ -88,15 +98,5 @@
         "title": "Rubén Gisbert",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Rub%C3%A9n%20Gisbert",
         "pubdate": "Tue, 05 Nov 2024 13:00:00 -0500"
-    },
-    {
-        "title": "Oasis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Oasis",
-        "pubdate": "Tue, 05 Nov 2024 11:00:00 -0500"
-    },
-    {
-        "title": "Maria aguero",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Maria%20aguero",
-        "pubdate": "Tue, 05 Nov 2024 15:00:00 -0500"
     }
 ]
