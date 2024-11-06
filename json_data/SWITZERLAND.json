@@ -25,6 +25,11 @@
         "pubdate": "Wed, 06 Nov 2024 10:00:00 +0100"
     },
     {
+        "title": "BBC news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#BBC%20news",
+        "pubdate": "Wed, 06 Nov 2024 04:00:00 +0100"
+    },
+    {
         "title": "Tesla-Aktie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tesla-Aktie",
         "pubdate": "Wed, 06 Nov 2024 11:00:00 +0100"
@@ -38,6 +43,11 @@
         "title": "Le monde",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Le%20monde",
         "pubdate": "Wed, 06 Nov 2024 08:00:00 +0100"
+    },
+    {
+        "title": "Biden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Biden",
+        "pubdate": "Wed, 06 Nov 2024 01:00:00 +0100"
     },
     {
         "title": "Le temps",
@@ -60,18 +70,23 @@
         "pubdate": "Wed, 06 Nov 2024 07:00:00 +0100"
     },
     {
-        "title": "ABC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#ABC",
-        "pubdate": "Wed, 06 Nov 2024 07:00:00 +0100"
-    },
-    {
         "title": "Nachrichten",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Nachrichten",
         "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
     },
     {
+        "title": "ABC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#ABC",
+        "pubdate": "Wed, 06 Nov 2024 07:00:00 +0100"
+    },
+    {
         "title": "Franceinfo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Franceinfo",
+        "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
+    },
+    {
+        "title": "Dana White",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dana%20White",
         "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
     },
     {
@@ -80,23 +95,8 @@
         "pubdate": "Wed, 06 Nov 2024 02:00:00 +0100"
     },
     {
-        "title": "Dana White",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dana%20White",
-        "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
-    },
-    {
         "title": "Louis Sarkozy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Louis%20Sarkozy",
         "pubdate": "Wed, 06 Nov 2024 00:00:00 +0100"
-    },
-    {
-        "title": "LCI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#LCI",
-        "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
-    },
-    {
-        "title": "Benfica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Benfica",
-        "pubdate": "Wed, 06 Nov 2024 11:00:00 +0100"
     }
 ]

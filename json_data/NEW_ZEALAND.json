@@ -75,6 +75,11 @@
         "pubdate": "Wed, 06 Nov 2024 19:00:00 +1300"
     },
     {
+        "title": "NYT",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#NYT",
+        "pubdate": "Wed, 06 Nov 2024 15:00:00 +1300"
+    },
+    {
         "title": "CNN live",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#CNN%20live",
         "pubdate": "Wed, 06 Nov 2024 14:00:00 +1300"
@@ -93,10 +98,5 @@
         "title": "Barron Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Barron%20Trump",
         "pubdate": "Wed, 06 Nov 2024 22:00:00 +1300"
-    },
-    {
-        "title": "Foxnews",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Foxnews",
-        "pubdate": "Wed, 06 Nov 2024 18:00:00 +1300"
     }
 ]

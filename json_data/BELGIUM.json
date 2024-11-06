@@ -5,19 +5,24 @@
         "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
     },
     {
-        "title": "VRT",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#VRT",
-        "pubdate": "Wed, 06 Nov 2024 08:00:00 +0100"
-    },
-    {
         "title": "Bitcoin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bitcoin",
         "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
     },
     {
+        "title": "VRT",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#VRT",
+        "pubdate": "Wed, 06 Nov 2024 08:00:00 +0100"
+    },
+    {
         "title": "Bitcoin koers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bitcoin%20koers",
         "pubdate": "Wed, 06 Nov 2024 08:00:00 +0100"
+    },
+    {
+        "title": "Wie is de nieuwe president van Amerika",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Wie%20is%20de%20nieuwe%20president%20van%20Amerika",
+        "pubdate": "Wed, 06 Nov 2024 10:00:00 +0100"
     },
     {
         "title": "Elon Musk",
@@ -35,6 +40,11 @@
         "pubdate": "Wed, 06 Nov 2024 07:00:00 +0100"
     },
     {
+        "title": "Valtteri Bottas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Valtteri%20Bottas",
+        "pubdate": "Wed, 06 Nov 2024 00:00:00 +0100"
+    },
+    {
         "title": "BFMTV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#BFMTV",
         "pubdate": "Wed, 06 Nov 2024 04:00:00 +0100"
@@ -43,11 +53,6 @@
         "title": "Nos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Nos",
         "pubdate": "Wed, 06 Nov 2024 12:00:00 +0100"
-    },
-    {
-        "title": "Valtteri Bottas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Valtteri%20Bottas",
-        "pubdate": "Wed, 06 Nov 2024 00:00:00 +0100"
     },
     {
         "title": "Lemonde",
@@ -75,19 +80,9 @@
         "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
     },
     {
-        "title": "Champions League wedstrijden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Champions%20League%20wedstrijden",
-        "pubdate": "Wed, 06 Nov 2024 08:00:00 +0100"
-    },
-    {
         "title": "No Nut November",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#No%20Nut%20November",
         "pubdate": "Wed, 06 Nov 2024 00:00:00 +0100"
-    },
-    {
-        "title": "ABC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#ABC",
-        "pubdate": "Wed, 06 Nov 2024 10:00:00 +0100"
     },
     {
         "title": "Dana White",
@@ -95,8 +90,13 @@
         "pubdate": "Wed, 06 Nov 2024 12:00:00 +0100"
     },
     {
-        "title": "Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Champions%20League",
-        "pubdate": "Tue, 05 Nov 2024 08:00:00 +0100"
+        "title": "ABC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#ABC",
+        "pubdate": "Wed, 06 Nov 2024 10:00:00 +0100"
+    },
+    {
+        "title": "Nathalie Meskens",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Nathalie%20Meskens",
+        "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
     }
 ]

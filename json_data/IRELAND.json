@@ -5,11 +5,6 @@
         "pubdate": "Wed, 06 Nov 2024 06:00:00 +0000"
     },
     {
-        "title": "Liverpool fixtures",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Liverpool%20fixtures",
-        "pubdate": "Wed, 06 Nov 2024 02:00:00 +0000"
-    },
-    {
         "title": "Bitcoin price",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Bitcoin%20price",
         "pubdate": "Wed, 06 Nov 2024 11:00:00 +0000"
@@ -23,6 +18,11 @@
         "title": "JD Vance",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#JD%20Vance",
         "pubdate": "Wed, 06 Nov 2024 08:00:00 +0000"
+    },
+    {
+        "title": "Liverpool fixtures",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Liverpool%20fixtures",
+        "pubdate": "Wed, 06 Nov 2024 02:00:00 +0000"
     },
     {
         "title": "News headlines",
@@ -60,14 +60,19 @@
         "pubdate": "Wed, 06 Nov 2024 00:00:00 +0000"
     },
     {
+        "title": "Barron Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Barron%20Trump",
+        "pubdate": "Wed, 06 Nov 2024 09:00:00 +0000"
+    },
+    {
         "title": "CNN election",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#CNN%20election",
         "pubdate": "Wed, 06 Nov 2024 05:00:00 +0000"
     },
     {
-        "title": "Barron Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Barron%20Trump",
-        "pubdate": "Wed, 06 Nov 2024 09:00:00 +0000"
+        "title": "NYT",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#NYT",
+        "pubdate": "Wed, 06 Nov 2024 04:00:00 +0000"
     },
     {
         "title": "Ivanka Trump",
@@ -75,8 +80,13 @@
         "pubdate": "Wed, 06 Nov 2024 09:00:00 +0000"
     },
     {
-        "title": "Republican party",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Republican%20party",
+        "title": "Gary Barlow son",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Gary%20Barlow%20son",
+        "pubdate": "Wed, 06 Nov 2024 10:00:00 +0000"
+    },
+    {
+        "title": "Republican Party",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Republican%20Party",
         "pubdate": "Wed, 06 Nov 2024 08:00:00 +0000"
     },
     {
@@ -88,15 +98,5 @@
         "title": "Kalshi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Kalshi",
         "pubdate": "Wed, 06 Nov 2024 00:00:00 +0000"
-    },
-    {
-        "title": "Us election predictions",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Us%20election%20predictions",
-        "pubdate": "Wed, 06 Nov 2024 03:00:00 +0000"
-    },
-    {
-        "title": "Reuters",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Reuters",
-        "pubdate": "Wed, 06 Nov 2024 09:00:00 +0000"
     }
 ]

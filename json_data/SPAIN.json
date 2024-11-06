@@ -10,21 +10,6 @@
         "pubdate": "Wed, 06 Nov 2024 00:00:00 +0100"
     },
     {
-        "title": "BBC News",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#BBC%20News",
-        "pubdate": "Wed, 06 Nov 2024 11:00:00 +0100"
-    },
-    {
-        "title": "BTC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#BTC",
-        "pubdate": "Wed, 06 Nov 2024 11:00:00 +0100"
-    },
-    {
-        "title": "BBC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#BBC",
-        "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
-    },
-    {
         "title": "Enrique Ponce Chiva",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Enrique%20Ponce%20Chiva",
         "pubdate": "Wed, 06 Nov 2024 08:00:00 +0100"
@@ -50,6 +35,11 @@
         "pubdate": "Wed, 06 Nov 2024 01:00:00 +0100"
     },
     {
+        "title": "Sheila Casas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Sheila%20Casas",
+        "pubdate": "Wed, 06 Nov 2024 12:00:00 +0100"
+    },
+    {
         "title": "Infanta Elena",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Infanta%20Elena",
         "pubdate": "Wed, 06 Nov 2024 00:00:00 +0100"
@@ -60,19 +50,14 @@
         "pubdate": "Wed, 06 Nov 2024 03:00:00 +0100"
     },
     {
-        "title": "Atropello Infanta Elena Lugo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Atropello%20Infanta%20Elena%20Lugo",
-        "pubdate": "Wed, 06 Nov 2024 01:00:00 +0100"
-    },
-    {
         "title": "Mina Bonino",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Mina%20Bonino",
         "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
     },
     {
-        "title": "Sheila Casas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Sheila%20Casas",
-        "pubdate": "Wed, 06 Nov 2024 12:00:00 +0100"
+        "title": "Atropello Infanta Elena Lugo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Atropello%20Infanta%20Elena%20Lugo",
+        "pubdate": "Wed, 06 Nov 2024 01:00:00 +0100"
     },
     {
         "title": "Ancelotti",
@@ -98,5 +83,20 @@
         "title": "Ladrones con clase",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ladrones%20con%20clase",
         "pubdate": "Wed, 06 Nov 2024 00:00:00 +0100"
+    },
+    {
+        "title": "Ayudas DANA Valencia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ayudas%20DANA%20Valencia",
+        "pubdate": "Wed, 06 Nov 2024 12:00:00 +0100"
+    },
+    {
+        "title": "Elecciones EEUU",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Elecciones%20EEUU",
+        "pubdate": "Tue, 05 Nov 2024 08:00:00 +0100"
+    },
+    {
+        "title": "Donald Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Donald%20Trump",
+        "pubdate": "Tue, 05 Nov 2024 11:00:00 +0100"
     }
 ]
