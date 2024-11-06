@@ -10,11 +10,6 @@
         "pubdate": "Tue, 05 Nov 2024 20:00:00 +0100"
     },
     {
-        "title": "Donald Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Donald%20Trump",
-        "pubdate": "Tue, 05 Nov 2024 21:00:00 +0100"
-    },
-    {
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Real%20Madrid",
         "pubdate": "Tue, 05 Nov 2024 22:00:00 +0100"
@@ -33,6 +28,11 @@
         "title": "Schaeffler",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schaeffler",
         "pubdate": "Tue, 05 Nov 2024 10:00:00 +0100"
+    },
+    {
+        "title": "Caroline Beil",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Caroline%20Beil",
+        "pubdate": "Tue, 05 Nov 2024 21:00:00 +0100"
     },
     {
         "title": "Guy-Fawkes",

@@ -7,17 +7,17 @@
     {
         "title": "Temblor hoy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Temblor%20hoy",
-        "pubdate": "Tue, 05 Nov 2024 00:00:00 -0500"
-    },
-    {
-        "title": "Sporting Lisboa  Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Sporting%20Lisboa%20%20Manchester%20City",
-        "pubdate": "Tue, 05 Nov 2024 14:00:00 -0500"
+        "pubdate": "Tue, 05 Nov 2024 15:00:00 -0500"
     },
     {
         "title": "Elecciones USA 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Elecciones%20USA%202024",
         "pubdate": "Tue, 05 Nov 2024 09:00:00 -0500"
+    },
+    {
+        "title": "Sporting Lisboa  Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Sporting%20Lisboa%20%20Manchester%20City",
+        "pubdate": "Tue, 05 Nov 2024 14:00:00 -0500"
     },
     {
         "title": "Liverpool  Leverkusen",
@@ -30,8 +30,8 @@
         "pubdate": "Tue, 05 Nov 2024 13:00:00 -0500"
     },
     {
-        "title": "PSV - Girona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#PSV%20-%20Girona",
+        "title": "PSV  Girona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#PSV%20%20Girona",
         "pubdate": "Tue, 05 Nov 2024 10:00:00 -0500"
     },
     {
@@ -75,11 +75,6 @@
         "pubdate": "Tue, 05 Nov 2024 16:00:00 -0500"
     },
     {
-        "title": "Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Trump",
-        "pubdate": "Tue, 05 Nov 2024 11:00:00 -0500"
-    },
-    {
         "title": "Bolonia - Mónaco",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bolonia%20-%20M%C3%B3naco",
         "pubdate": "Tue, 05 Nov 2024 17:00:00 -0500"
@@ -95,8 +90,13 @@
         "pubdate": "Tue, 05 Nov 2024 17:00:00 -0500"
     },
     {
-        "title": "Dinamo Zagreb",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Dinamo%20Zagreb",
-        "pubdate": "Tue, 05 Nov 2024 14:00:00 -0500"
+        "title": "Jill Stein",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Jill%20Stein",
+        "pubdate": "Tue, 05 Nov 2024 21:00:00 -0500"
+    },
+    {
+        "title": "Chase Oliver",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Chase%20Oliver",
+        "pubdate": "Tue, 05 Nov 2024 20:00:00 -0500"
     }
 ]
