@@ -5,21 +5,6 @@
         "pubdate": "Wed, 06 Nov 2024 00:00:00 +0300"
     },
     {
-        "title": "Renaud",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Renaud",
-        "pubdate": "Wed, 06 Nov 2024 01:00:00 +0100"
-    },
-    {
-        "title": "Polymarket",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Polymarket",
-        "pubdate": "Wed, 06 Nov 2024 02:00:00 +0000"
-    },
-    {
-        "title": "Sporting vs Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Sporting%20vs%20Man%20City",
-        "pubdate": "Wed, 06 Nov 2024 01:30:00 +0530"
-    },
-    {
         "title": "チャンピオンズリーグ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%81%E3%83%A3%E3%83%B3%E3%83%94%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%AA%E3%83%BC%E3%82%B0",
         "pubdate": "Wed, 06 Nov 2024 06:00:00 +0900"
@@ -28,6 +13,16 @@
         "title": "利物浦",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%88%A9%E7%89%A9%E6%B5%A6",
         "pubdate": "Wed, 06 Nov 2024 06:00:00 +0800"
+    },
+    {
+        "title": "Sporting vs Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Sporting%20vs%20Man%20City",
+        "pubdate": "Wed, 06 Nov 2024 01:30:00 +0530"
+    },
+    {
+        "title": "Renaud",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Renaud",
+        "pubdate": "Wed, 06 Nov 2024 01:00:00 +0100"
     },
     {
         "title": "Robert Kennedy",
@@ -40,39 +35,9 @@
         "pubdate": "Wed, 06 Nov 2024 00:00:00 +0100"
     },
     {
-        "title": "No Nut November",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#No%20Nut%20November",
-        "pubdate": "Wed, 06 Nov 2024 00:00:00 +0100"
-    },
-    {
-        "title": "Szoboszlai Dominik",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szoboszlai%20Dominik",
-        "pubdate": "Wed, 06 Nov 2024 01:00:00 +0100"
-    },
-    {
-        "title": "Bernie Sanders",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bernie%20Sanders",
-        "pubdate": "Wed, 06 Nov 2024 02:00:00 +0100"
-    },
-    {
-        "title": "Botafogo x Vasco da Gama",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Botafogo%20x%20Vasco%20da%20Gama",
-        "pubdate": "Tue, 05 Nov 2024 07:00:00 -0500"
-    },
-    {
-        "title": "Real Madrid – Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Real%20Madrid%20%E2%80%93%20Milan",
-        "pubdate": "Tue, 05 Nov 2024 21:00:00 +0100"
-    },
-    {
-        "title": "Iran",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Iran",
-        "pubdate": "Wed, 06 Nov 2024 02:00:00 +0100"
-    },
-    {
-        "title": "Sporting CP vs Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Sporting%20CP%20vs%20Man%20City",
-        "pubdate": "Wed, 06 Nov 2024 03:00:00 +0700"
+        "title": "Polymarket",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Polymarket",
+        "pubdate": "Wed, 06 Nov 2024 02:00:00 +0000"
     },
     {
         "title": "ليل ضد يوفنتوس",
@@ -80,9 +45,14 @@
         "pubdate": "Wed, 06 Nov 2024 00:00:00 +0300"
     },
     {
-        "title": "Λιλ γιουβεντουσ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%9B%CE%B9%CE%BB%20%CE%B3%CE%B9%CE%BF%CF%85%CE%B2%CE%B5%CE%BD%CF%84%CE%BF%CF%85%CF%83",
-        "pubdate": "Wed, 06 Nov 2024 00:00:00 +0200"
+        "title": "Szoboszlai Dominik",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szoboszlai%20Dominik",
+        "pubdate": "Wed, 06 Nov 2024 01:00:00 +0100"
+    },
+    {
+        "title": "New york Times",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#New%20york%20Times",
+        "pubdate": "Wed, 06 Nov 2024 00:00:00 -0300"
     },
     {
         "title": "Олександр Куницький",
@@ -90,13 +60,43 @@
         "pubdate": "Wed, 06 Nov 2024 01:00:00 +0200"
     },
     {
-        "title": "Real Madrid  Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Real%20Madrid%20%20Milan",
-        "pubdate": "Tue, 05 Nov 2024 11:00:00 -0500"
+        "title": "CNN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#CNN",
+        "pubdate": "Wed, 06 Nov 2024 08:00:00 +1300"
     },
     {
-        "title": "Mąż Kamali Harris",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#M%C4%85%C5%BC%20Kamali%20Harris",
+        "title": "No Nut November",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#No%20Nut%20November",
+        "pubdate": "Wed, 06 Nov 2024 00:00:00 +0100"
+    },
+    {
+        "title": "Real Madrid vs Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Real%20Madrid%20vs%20Milan",
+        "pubdate": "Wed, 06 Nov 2024 03:00:00 +0800"
+    },
+    {
+        "title": "SIC Notícias",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#SIC%20Not%C3%ADcias",
+        "pubdate": "Wed, 06 Nov 2024 02:00:00 +0000"
+    },
+    {
+        "title": "חוק המעונות",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%97%D7%95%D7%A7%20%D7%94%D7%9E%D7%A2%D7%95%D7%A0%D7%95%D7%AA",
+        "pubdate": "Wed, 06 Nov 2024 01:00:00 +0200"
+    },
+    {
+        "title": "DJT stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#DJT%20stock",
+        "pubdate": "Wed, 06 Nov 2024 00:00:00 +0100"
+    },
+    {
+        "title": "맨시티",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%A7%A8%EC%8B%9C%ED%8B%B0",
+        "pubdate": "Wed, 06 Nov 2024 09:00:00 +0900"
+    },
+    {
+        "title": "Bernie Sanders",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bernie%20Sanders",
         "pubdate": "Wed, 06 Nov 2024 02:00:00 +0100"
     }
 ]
