@@ -15,14 +15,19 @@
         "pubdate": "Wed, 06 Nov 2024 11:00:00 +0100"
     },
     {
-        "title": "Elon Musk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Elon%20Musk",
-        "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
-    },
-    {
         "title": "Sheila Casas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Sheila%20Casas",
         "pubdate": "Wed, 06 Nov 2024 12:00:00 +0100"
+    },
+    {
+        "title": "Melania Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Melania%20Trump",
+        "pubdate": "Wed, 06 Nov 2024 08:00:00 +0100"
+    },
+    {
+        "title": "Elon Musk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Elon%20Musk",
+        "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
     },
     {
         "title": "Periodista oscar more",
@@ -33,6 +38,11 @@
         "title": "Piratas del Caribe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Piratas%20del%20Caribe",
         "pubdate": "Wed, 06 Nov 2024 12:00:00 +0100"
+    },
+    {
+        "title": "Verónica Martínez Barbero",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ver%C3%B3nica%20Mart%C3%ADnez%20Barbero",
+        "pubdate": "Wed, 06 Nov 2024 15:00:00 +0100"
     },
     {
         "title": "THE NEW YORK TIMES",
@@ -60,9 +70,9 @@
         "pubdate": "Wed, 06 Nov 2024 03:00:00 +0100"
     },
     {
-        "title": "Verónica Martínez Sumar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ver%C3%B3nica%20Mart%C3%ADnez%20Sumar",
-        "pubdate": "Wed, 06 Nov 2024 15:00:00 +0100"
+        "title": "Ancelotti",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ancelotti",
+        "pubdate": "Wed, 06 Nov 2024 03:00:00 +0100"
     },
     {
         "title": "Infanta Elena",
@@ -70,14 +80,9 @@
         "pubdate": "Wed, 06 Nov 2024 00:00:00 +0100"
     },
     {
-        "title": "Ancelotti",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ancelotti",
-        "pubdate": "Wed, 06 Nov 2024 03:00:00 +0100"
-    },
-    {
-        "title": "Barça hoy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Bar%C3%A7a%20hoy",
-        "pubdate": "Wed, 06 Nov 2024 10:00:00 +0100"
+        "title": "Ibex",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ibex",
+        "pubdate": "Wed, 06 Nov 2024 16:00:00 +0100"
     },
     {
         "title": "Andrea Levy",
@@ -85,18 +90,13 @@
         "pubdate": "Wed, 06 Nov 2024 14:00:00 +0100"
     },
     {
+        "title": "Dana White",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Dana%20White",
+        "pubdate": "Wed, 06 Nov 2024 14:00:00 +0100"
+    },
+    {
         "title": "Atropello Infanta Elena Lugo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Atropello%20Infanta%20Elena%20Lugo",
         "pubdate": "Wed, 06 Nov 2024 01:00:00 +0100"
-    },
-    {
-        "title": "Ibex",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ibex",
-        "pubdate": "Wed, 06 Nov 2024 16:00:00 +0100"
-    },
-    {
-        "title": "Nyt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Nyt",
-        "pubdate": "Wed, 06 Nov 2024 08:00:00 +0100"
     }
 ]

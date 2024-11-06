@@ -1,5 +1,10 @@
 [
     {
+        "title": "UEFA Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#UEFA%20Champions%20League",
+        "pubdate": "Thu, 07 Nov 2024 01:00:00 +0800"
+    },
+    {
         "title": "Gold price",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Gold%20price",
         "pubdate": "Thu, 07 Nov 2024 00:00:00 +0800"
@@ -10,19 +15,14 @@
         "pubdate": "Thu, 07 Nov 2024 00:00:00 +0800"
     },
     {
-        "title": "Ted Cruz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Ted%20Cruz",
+        "title": "The Guardian",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#The%20Guardian",
         "pubdate": "Thu, 07 Nov 2024 00:00:00 +0800"
     },
     {
-        "title": "The guardian",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#The%20guardian",
-        "pubdate": "Thu, 07 Nov 2024 00:00:00 +0800"
-    },
-    {
-        "title": "Jill Stein",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Jill%20Stein",
-        "pubdate": "Wed, 06 Nov 2024 05:00:00 +0800"
+        "title": "Kamala Harris",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Kamala%20Harris",
+        "pubdate": "Wed, 06 Nov 2024 01:00:00 +0800"
     },
     {
         "title": "Sporting vs Man City",
@@ -40,9 +40,9 @@
         "pubdate": "Wed, 06 Nov 2024 14:00:00 +0800"
     },
     {
-        "title": "New York Times",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#New%20York%20Times",
-        "pubdate": "Wed, 06 Nov 2024 07:00:00 +0800"
+        "title": "Tesla share price",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Tesla%20share%20price",
+        "pubdate": "Wed, 06 Nov 2024 14:00:00 +0800"
     },
     {
         "title": "Real Madrid vs Milan",
@@ -50,9 +50,9 @@
         "pubdate": "Wed, 06 Nov 2024 05:00:00 +0800"
     },
     {
-        "title": "Tesla stock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Tesla%20stock",
-        "pubdate": "Wed, 06 Nov 2024 14:00:00 +0800"
+        "title": "New York Times",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#New%20York%20Times",
+        "pubdate": "Wed, 06 Nov 2024 07:00:00 +0800"
     },
     {
         "title": "Afghanistan vs Bangladesh",
@@ -63,11 +63,6 @@
         "title": "Pennsylvania",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Pennsylvania",
         "pubdate": "Wed, 06 Nov 2024 01:00:00 +0800"
-    },
-    {
-        "title": "Trump win",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Trump%20win",
-        "pubdate": "Wed, 06 Nov 2024 15:00:00 +0800"
     },
     {
         "title": "DJT",
@@ -85,18 +80,23 @@
         "pubdate": "Wed, 06 Nov 2024 14:00:00 +0800"
     },
     {
-        "title": "Swing states 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Swing%20states%202024",
+        "title": "Republican Party",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Republican%20Party",
         "pubdate": "Wed, 06 Nov 2024 10:00:00 +0800"
     },
     {
-        "title": "Republican Party",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Republican%20Party",
+        "title": "Swing states 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Swing%20states%202024",
         "pubdate": "Wed, 06 Nov 2024 10:00:00 +0800"
     },
     {
         "title": "Elon Musk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Elon%20Musk",
         "pubdate": "Wed, 06 Nov 2024 15:00:00 +0800"
+    },
+    {
+        "title": "S&P 500",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#S%26P%20500",
+        "pubdate": "Wed, 06 Nov 2024 20:00:00 +0800"
     }
 ]
