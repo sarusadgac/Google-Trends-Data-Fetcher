@@ -1,5 +1,10 @@
 [
     {
+        "title": "Real Madrid vs Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Real%20Madrid%20vs%20Milan",
+        "pubdate": "Wed, 06 Nov 2024 01:30:00 +0530"
+    },
+    {
         "title": "Sporting vs Man City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Sporting%20vs%20Man%20City",
         "pubdate": "Wed, 06 Nov 2024 01:30:00 +0530"
@@ -8,16 +13,6 @@
         "title": "CNN",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#CNN",
         "pubdate": "Wed, 06 Nov 2024 00:30:00 +0530"
-    },
-    {
-        "title": "Jeddah",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Jeddah",
-        "pubdate": "Wed, 06 Nov 2024 01:30:00 +0530"
-    },
-    {
-        "title": "JEE Advanced 2025",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#JEE%20Advanced%202025",
-        "pubdate": "Wed, 06 Nov 2024 02:30:00 +0530"
     },
     {
         "title": "Sharda Sinha",
@@ -40,11 +35,6 @@
         "pubdate": "Tue, 05 Nov 2024 01:30:00 +0530"
     },
     {
-        "title": "Al-Hilal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Al-Hilal",
-        "pubdate": "Tue, 05 Nov 2024 00:30:00 +0530"
-    },
-    {
         "title": "Equatorial Guinea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Equatorial%20Guinea",
         "pubdate": "Tue, 05 Nov 2024 14:30:00 +0530"
@@ -55,38 +45,33 @@
         "pubdate": "Tue, 05 Nov 2024 13:30:00 +0530"
     },
     {
-        "title": "Stock market today",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Stock%20market%20today",
-        "pubdate": "Tue, 05 Nov 2024 09:30:00 +0530"
-    },
-    {
         "title": "ACME Solar Holdings IPO",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#ACME%20Solar%20Holdings%20IPO",
         "pubdate": "Tue, 05 Nov 2024 12:30:00 +0530"
     },
     {
-        "title": "US Election Results",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#US%20Election%20Results",
-        "pubdate": "Mon, 04 Nov 2024 09:30:00 +0530"
+        "title": "Neymar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Neymar",
+        "pubdate": "Tue, 05 Nov 2024 13:30:00 +0530"
     },
     {
-        "title": "US Election 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#US%20Election%202024",
+        "title": "USA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#USA",
+        "pubdate": "Tue, 05 Nov 2024 18:30:00 +0530"
+    },
+    {
+        "title": "US Election Results",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#US%20Election%20Results",
+        "pubdate": "Mon, 04 Nov 2024 08:30:00 +0530"
+    },
+    {
+        "title": "US election 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#US%20election%202024",
         "pubdate": "Mon, 04 Nov 2024 11:30:00 +0530"
     },
     {
         "title": "Virat Kohli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Virat%20Kohli",
-        "pubdate": "Mon, 04 Nov 2024 08:30:00 +0530"
-    },
-    {
-        "title": "Real Madrid vs Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Real%20Madrid%20vs%20Milan",
-        "pubdate": "Mon, 04 Nov 2024 21:30:00 +0530"
-    },
-    {
-        "title": "US Election Results date",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#US%20Election%20Results%20date",
         "pubdate": "Mon, 04 Nov 2024 08:30:00 +0530"
     },
     {
@@ -98,5 +83,20 @@
         "title": "Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Barcelona",
         "pubdate": "Mon, 04 Nov 2024 10:30:00 +0530"
+    },
+    {
+        "title": "Suez Canal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Suez%20Canal",
+        "pubdate": "Mon, 04 Nov 2024 12:30:00 +0530"
+    },
+    {
+        "title": "November",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#November",
+        "pubdate": "Mon, 04 Nov 2024 19:30:00 +0530"
+    },
+    {
+        "title": "Canada",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Canada",
+        "pubdate": "Mon, 04 Nov 2024 20:30:00 +0530"
     }
 ]

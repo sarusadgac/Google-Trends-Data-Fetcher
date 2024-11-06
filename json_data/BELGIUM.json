@@ -5,6 +5,11 @@
         "pubdate": "Wed, 06 Nov 2024 00:00:00 +0100"
     },
     {
+        "title": "News",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#News",
+        "pubdate": "Wed, 06 Nov 2024 02:00:00 +0100"
+    },
+    {
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Real%20Madrid",
         "pubdate": "Tue, 05 Nov 2024 19:00:00 +0100"
@@ -30,11 +35,6 @@
         "pubdate": "Tue, 05 Nov 2024 22:00:00 +0100"
     },
     {
-        "title": "PSV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#PSV",
-        "pubdate": "Tue, 05 Nov 2024 19:00:00 +0100"
-    },
-    {
         "title": "Man City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Man%20City",
         "pubdate": "Tue, 05 Nov 2024 22:00:00 +0100"
@@ -55,19 +55,24 @@
         "pubdate": "Tue, 05 Nov 2024 18:00:00 +0100"
     },
     {
-        "title": "Neymar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Neymar",
-        "pubdate": "Tue, 05 Nov 2024 00:00:00 +0100"
-    },
-    {
         "title": "Joe Rogan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Joe%20Rogan",
         "pubdate": "Tue, 05 Nov 2024 14:00:00 +0100"
     },
     {
+        "title": "Neymar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Neymar",
+        "pubdate": "Tue, 05 Nov 2024 00:00:00 +0100"
+    },
+    {
         "title": "Champions League 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Champions%20League%202024",
         "pubdate": "Tue, 05 Nov 2024 22:00:00 +0100"
+    },
+    {
+        "title": "Joe Biden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Joe%20Biden",
+        "pubdate": "Tue, 05 Nov 2024 20:00:00 +0100"
     },
     {
         "title": "Aston Villa",
@@ -80,19 +85,14 @@
         "pubdate": "Tue, 05 Nov 2024 16:00:00 +0100"
     },
     {
-        "title": "Soundos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Soundos",
-        "pubdate": "Tue, 05 Nov 2024 00:00:00 +0100"
-    },
-    {
-        "title": "Éruption volcanique",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#%C3%89ruption%20volcanique",
-        "pubdate": "Tue, 05 Nov 2024 17:00:00 +0100"
-    },
-    {
         "title": "LCI",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#LCI",
         "pubdate": "Tue, 05 Nov 2024 19:00:00 +0100"
+    },
+    {
+        "title": "Soundos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Soundos",
+        "pubdate": "Tue, 05 Nov 2024 00:00:00 +0100"
     },
     {
         "title": "Louis Sarkozy",

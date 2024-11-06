@@ -10,19 +10,24 @@
         "pubdate": "Wed, 06 Nov 2024 05:00:00 +0800"
     },
     {
-        "title": "Pennsylvania",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Pennsylvania",
-        "pubdate": "Wed, 06 Nov 2024 01:00:00 +0800"
-    },
-    {
         "title": "US president",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#US%20president",
         "pubdate": "Wed, 06 Nov 2024 07:00:00 +0800"
     },
     {
+        "title": "Pennsylvania",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Pennsylvania",
+        "pubdate": "Wed, 06 Nov 2024 01:00:00 +0800"
+    },
+    {
         "title": "New York Times",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#New%20York%20Times",
         "pubdate": "Wed, 06 Nov 2024 07:00:00 +0800"
+    },
+    {
+        "title": "Liverpool FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Liverpool%20FC",
+        "pubdate": "Wed, 06 Nov 2024 08:00:00 +0800"
     },
     {
         "title": "Champions League",
@@ -53,6 +58,11 @@
         "title": "AFC Champions League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#AFC%20Champions%20League",
         "pubdate": "Tue, 05 Nov 2024 18:00:00 +0800"
+    },
+    {
+        "title": "Thom Yorke",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Thom%20Yorke",
+        "pubdate": "Tue, 05 Nov 2024 20:00:00 +0800"
     },
     {
         "title": "Imane Khelif",
@@ -87,16 +97,6 @@
     {
         "title": "Neymar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Neymar",
-        "pubdate": "Tue, 05 Nov 2024 14:00:00 +0800"
-    },
-    {
-        "title": "SMCI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#SMCI",
-        "pubdate": "Tue, 05 Nov 2024 01:00:00 +0800"
-    },
-    {
-        "title": "Edu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Edu",
         "pubdate": "Tue, 05 Nov 2024 14:00:00 +0800"
     }
 ]

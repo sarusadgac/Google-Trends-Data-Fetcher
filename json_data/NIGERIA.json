@@ -1,5 +1,15 @@
 [
     {
+        "title": "Iran",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Iran",
+        "pubdate": "Wed, 06 Nov 2024 02:00:00 +0100"
+    },
+    {
+        "title": "Robert Kennedy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Robert%20Kennedy",
+        "pubdate": "Wed, 06 Nov 2024 01:00:00 +0100"
+    },
+    {
         "title": "Borussia Dortmund",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Borussia%20Dortmund",
         "pubdate": "Wed, 06 Nov 2024 00:00:00 +0100"
@@ -7,7 +17,7 @@
     {
         "title": "Real Madrid vs Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Real%20Madrid%20vs%20Milan",
-        "pubdate": "Tue, 05 Nov 2024 00:00:00 +0100"
+        "pubdate": "Tue, 05 Nov 2024 16:00:00 +0100"
     },
     {
         "title": "Sporting vs Man City",
@@ -17,7 +27,7 @@
     {
         "title": "Liverpool vs Leverkusen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Liverpool%20vs%20Leverkusen",
-        "pubdate": "Tue, 05 Nov 2024 14:00:00 +0100"
+        "pubdate": "Tue, 05 Nov 2024 07:00:00 +0100"
     },
     {
         "title": "Al-nassr vs Al Ain",
@@ -30,6 +40,16 @@
         "pubdate": "Tue, 05 Nov 2024 16:00:00 +0100"
     },
     {
+        "title": "UEFA Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#UEFA%20Champions%20League",
+        "pubdate": "Tue, 05 Nov 2024 00:00:00 +0100"
+    },
+    {
+        "title": "CNN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#CNN",
+        "pubdate": "Tue, 05 Nov 2024 15:00:00 +0100"
+    },
+    {
         "title": "Telegram",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Telegram",
         "pubdate": "Tue, 05 Nov 2024 07:00:00 +0100"
@@ -40,11 +60,6 @@
         "pubdate": "Tue, 05 Nov 2024 20:00:00 +0100"
     },
     {
-        "title": "CNN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#CNN",
-        "pubdate": "Tue, 05 Nov 2024 15:00:00 +0100"
-    },
-    {
         "title": "PSV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#PSV",
         "pubdate": "Tue, 05 Nov 2024 19:00:00 +0100"
@@ -53,6 +68,11 @@
         "title": "Juventus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Juventus",
         "pubdate": "Tue, 05 Nov 2024 22:00:00 +0100"
+    },
+    {
+        "title": "Bologna vs Monaco",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Bologna%20vs%20Monaco",
+        "pubdate": "Tue, 05 Nov 2024 19:00:00 +0100"
     },
     {
         "title": "Charles Okocha",
@@ -78,25 +98,5 @@
         "title": "Real Madrid FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Real%20Madrid%20FC",
         "pubdate": "Tue, 05 Nov 2024 22:00:00 +0100"
-    },
-    {
-        "title": "Man City FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Man%20City%20FC",
-        "pubdate": "Tue, 05 Nov 2024 23:00:00 +0100"
-    },
-    {
-        "title": "Bella Bradford",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Bella%20Bradford",
-        "pubdate": "Tue, 05 Nov 2024 12:00:00 +0100"
-    },
-    {
-        "title": "Monaco",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Monaco",
-        "pubdate": "Tue, 05 Nov 2024 22:00:00 +0100"
-    },
-    {
-        "title": "USA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#USA",
-        "pubdate": "Tue, 05 Nov 2024 21:00:00 +0100"
     }
 ]
