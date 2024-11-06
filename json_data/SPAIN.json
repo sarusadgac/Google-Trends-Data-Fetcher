@@ -15,11 +15,6 @@
         "pubdate": "Wed, 06 Nov 2024 08:00:00 +0100"
     },
     {
-        "title": "BBC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#BBC",
-        "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
-    },
-    {
         "title": "Elon Musk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Elon%20Musk",
         "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
@@ -55,11 +50,6 @@
         "pubdate": "Wed, 06 Nov 2024 11:00:00 +0100"
     },
     {
-        "title": "Infanta Elena",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Infanta%20Elena",
-        "pubdate": "Wed, 06 Nov 2024 00:00:00 +0100"
-    },
-    {
         "title": "Europa League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Europa%20League",
         "pubdate": "Wed, 06 Nov 2024 03:00:00 +0100"
@@ -70,9 +60,29 @@
         "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
     },
     {
+        "title": "Infanta Elena",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Infanta%20Elena",
+        "pubdate": "Wed, 06 Nov 2024 00:00:00 +0100"
+    },
+    {
         "title": "Ancelotti",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ancelotti",
         "pubdate": "Wed, 06 Nov 2024 03:00:00 +0100"
+    },
+    {
+        "title": "Verónica Martínez Sumar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ver%C3%B3nica%20Mart%C3%ADnez%20Sumar",
+        "pubdate": "Wed, 06 Nov 2024 15:00:00 +0100"
+    },
+    {
+        "title": "Andrea Levy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Andrea%20Levy",
+        "pubdate": "Wed, 06 Nov 2024 14:00:00 +0100"
+    },
+    {
+        "title": "Barça hoy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Bar%C3%A7a%20hoy",
+        "pubdate": "Wed, 06 Nov 2024 10:00:00 +0100"
     },
     {
         "title": "Atropello Infanta Elena Lugo",
@@ -85,18 +95,8 @@
         "pubdate": "Wed, 06 Nov 2024 08:00:00 +0100"
     },
     {
-        "title": "Fox",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Fox",
-        "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
-    },
-    {
-        "title": "Dana White",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Dana%20White",
-        "pubdate": "Wed, 06 Nov 2024 14:00:00 +0100"
-    },
-    {
-        "title": "Ladrones con clase",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ladrones%20con%20clase",
-        "pubdate": "Wed, 06 Nov 2024 00:00:00 +0100"
+        "title": "Ibex",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ibex",
+        "pubdate": "Wed, 06 Nov 2024 16:00:00 +0100"
     }
 ]

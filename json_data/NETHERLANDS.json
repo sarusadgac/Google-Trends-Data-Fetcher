@@ -5,6 +5,11 @@
         "pubdate": "Wed, 06 Nov 2024 13:00:00 +0100"
     },
     {
+        "title": "Bitcoin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bitcoin",
+        "pubdate": "Wed, 06 Nov 2024 13:00:00 +0100"
+    },
+    {
         "title": "Elon Musk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Elon%20Musk",
         "pubdate": "Wed, 06 Nov 2024 15:00:00 +0100"
@@ -13,6 +18,11 @@
         "title": "The Body Shop",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#The%20Body%20Shop",
         "pubdate": "Wed, 06 Nov 2024 13:00:00 +0100"
+    },
+    {
+        "title": "Ap",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ap",
+        "pubdate": "Wed, 06 Nov 2024 08:00:00 +0100"
     },
     {
         "title": "PSV",
@@ -33,11 +43,6 @@
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Liverpool",
         "pubdate": "Tue, 05 Nov 2024 22:00:00 +0100"
-    },
-    {
-        "title": "Melania Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Melania%20Trump",
-        "pubdate": "Tue, 05 Nov 2024 20:00:00 +0100"
     },
     {
         "title": "Girona FC",
@@ -65,8 +70,8 @@
         "pubdate": "Tue, 05 Nov 2024 19:00:00 +0100"
     },
     {
-        "title": "Verkiezingen usa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Verkiezingen%20usa",
+        "title": "Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Trump",
         "pubdate": "Mon, 04 Nov 2024 18:00:00 +0100"
     },
     {
@@ -75,14 +80,14 @@
         "pubdate": "Mon, 04 Nov 2024 14:00:00 +0100"
     },
     {
-        "title": "Johan Derksen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Johan%20Derksen",
-        "pubdate": "Mon, 04 Nov 2024 22:00:00 +0100"
-    },
-    {
         "title": "Champions League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Champions%20League",
         "pubdate": "Mon, 04 Nov 2024 20:00:00 +0100"
+    },
+    {
+        "title": "Johan Derksen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Johan%20Derksen",
+        "pubdate": "Mon, 04 Nov 2024 22:00:00 +0100"
     },
     {
         "title": "Blokker",
@@ -93,10 +98,5 @@
         "title": "Sate",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sate",
         "pubdate": "Mon, 04 Nov 2024 23:00:00 +0100"
-    },
-    {
-        "title": "NEC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NEC",
-        "pubdate": "Sun, 03 Nov 2024 14:00:00 +0100"
     }
 ]
