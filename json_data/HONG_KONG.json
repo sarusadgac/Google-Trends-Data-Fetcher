@@ -10,6 +10,11 @@
         "pubdate": "Wed, 06 Nov 2024 06:00:00 +0800"
     },
     {
+        "title": "TVB news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#TVB%20news",
+        "pubdate": "Wed, 06 Nov 2024 14:00:00 +0800"
+    },
+    {
         "title": "何宛淇",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E4%BD%95%E5%AE%9B%E6%B7%87",
         "pubdate": "Wed, 06 Nov 2024 10:00:00 +0800"
@@ -30,9 +35,19 @@
         "pubdate": "Wed, 06 Nov 2024 11:00:00 +0800"
     },
     {
+        "title": "Apple news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#Apple%20news",
+        "pubdate": "Wed, 06 Nov 2024 14:00:00 +0800"
+    },
+    {
         "title": "Palantir",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#Palantir",
         "pubdate": "Wed, 06 Nov 2024 08:00:00 +0800"
+    },
+    {
+        "title": "鄧麗欣",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E9%84%A7%E9%BA%97%E6%AC%A3",
+        "pubdate": "Wed, 06 Nov 2024 14:00:00 +0800"
     },
     {
         "title": "鄭欽文",
@@ -83,20 +98,5 @@
         "title": "銀杏",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E9%8A%80%E6%9D%8F",
         "pubdate": "Mon, 04 Nov 2024 12:00:00 +0800"
-    },
-    {
-        "title": "Quincy Jones",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#Quincy%20Jones",
-        "pubdate": "Mon, 04 Nov 2024 18:00:00 +0800"
-    },
-    {
-        "title": "蒙嘉慧",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E8%92%99%E5%98%89%E6%85%A7",
-        "pubdate": "Mon, 04 Nov 2024 23:00:00 +0800"
-    },
-    {
-        "title": "黃子揚",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E9%BB%83%E5%AD%90%E6%8F%9A",
-        "pubdate": "Mon, 04 Nov 2024 16:00:00 +0800"
     }
 ]
