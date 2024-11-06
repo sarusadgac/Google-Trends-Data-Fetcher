@@ -5,8 +5,18 @@
         "pubdate": "Wed, 06 Nov 2024 10:00:00 +0100"
     },
     {
+        "title": "Futbol hoy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Futbol%20hoy",
+        "pubdate": "Wed, 06 Nov 2024 00:00:00 +0100"
+    },
+    {
         "title": "BBC News",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#BBC%20News",
+        "pubdate": "Wed, 06 Nov 2024 11:00:00 +0100"
+    },
+    {
+        "title": "BTC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#BTC",
         "pubdate": "Wed, 06 Nov 2024 11:00:00 +0100"
     },
     {
@@ -20,14 +30,14 @@
         "pubdate": "Wed, 06 Nov 2024 08:00:00 +0100"
     },
     {
-        "title": "Periodista oscar more",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Periodista%20oscar%20more",
-        "pubdate": "Wed, 06 Nov 2024 01:00:00 +0100"
-    },
-    {
         "title": "Elon Musk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Elon%20Musk",
         "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
+    },
+    {
+        "title": "Periodista oscar more",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Periodista%20oscar%20more",
+        "pubdate": "Wed, 06 Nov 2024 01:00:00 +0100"
     },
     {
         "title": "Melania Trump",
@@ -38,11 +48,6 @@
         "title": "THE NEW YORK TIMES",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#THE%20NEW%20YORK%20TIMES",
         "pubdate": "Wed, 06 Nov 2024 01:00:00 +0100"
-    },
-    {
-        "title": "Posiciones de Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Posiciones%20de%20Champions%20League",
-        "pubdate": "Wed, 06 Nov 2024 00:00:00 +0100"
     },
     {
         "title": "Infanta Elena",
@@ -60,9 +65,14 @@
         "pubdate": "Wed, 06 Nov 2024 01:00:00 +0100"
     },
     {
-        "title": "Nyt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Nyt",
-        "pubdate": "Wed, 06 Nov 2024 08:00:00 +0100"
+        "title": "Mina Bonino",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Mina%20Bonino",
+        "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
+    },
+    {
+        "title": "Sheila Casas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Sheila%20Casas",
+        "pubdate": "Wed, 06 Nov 2024 12:00:00 +0100"
     },
     {
         "title": "Ancelotti",
@@ -70,33 +80,23 @@
         "pubdate": "Wed, 06 Nov 2024 03:00:00 +0100"
     },
     {
+        "title": "Nyt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Nyt",
+        "pubdate": "Wed, 06 Nov 2024 08:00:00 +0100"
+    },
+    {
         "title": "Fox",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Fox",
         "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
     },
     {
+        "title": "Piratas del Caribe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Piratas%20del%20Caribe",
+        "pubdate": "Wed, 06 Nov 2024 12:00:00 +0100"
+    },
+    {
         "title": "Ladrones con clase",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ladrones%20con%20clase",
         "pubdate": "Wed, 06 Nov 2024 00:00:00 +0100"
-    },
-    {
-        "title": "Donald Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Donald%20Trump",
-        "pubdate": "Tue, 05 Nov 2024 11:00:00 +0100"
-    },
-    {
-        "title": "Inundaciones en Cataluña",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Inundaciones%20en%20Catalu%C3%B1a",
-        "pubdate": "Tue, 05 Nov 2024 01:00:00 +0100"
-    },
-    {
-        "title": "Sporting Lisboa - Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Sporting%20Lisboa%20-%20Manchester%20City",
-        "pubdate": "Tue, 05 Nov 2024 21:00:00 +0100"
-    },
-    {
-        "title": "PSV  Girona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#PSV%20%20Girona",
-        "pubdate": "Tue, 05 Nov 2024 19:00:00 +0100"
     }
 ]
