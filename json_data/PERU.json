@@ -17,7 +17,7 @@
     {
         "title": "Temblor hoy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Temblor%20hoy",
-        "pubdate": "Tue, 05 Nov 2024 15:00:00 -0500"
+        "pubdate": "Tue, 05 Nov 2024 00:00:00 -0500"
     },
     {
         "title": "Sporting Lisboa  Manchester City",
@@ -60,6 +60,11 @@
         "pubdate": "Tue, 05 Nov 2024 15:00:00 -0500"
     },
     {
+        "title": "Beca Permanencia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Beca%20Permanencia",
+        "pubdate": "Tue, 05 Nov 2024 09:00:00 -0500"
+    },
+    {
         "title": "Juventus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Juventus",
         "pubdate": "Tue, 05 Nov 2024 15:00:00 -0500"
@@ -70,14 +75,14 @@
         "pubdate": "Tue, 05 Nov 2024 23:00:00 -0500"
     },
     {
-        "title": "Beca Permanencia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Beca%20Permanencia",
-        "pubdate": "Tue, 05 Nov 2024 09:00:00 -0500"
-    },
-    {
         "title": "Metro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Metro",
         "pubdate": "Tue, 05 Nov 2024 00:00:00 -0500"
+    },
+    {
+        "title": "Botafogo  Vasco da Gama",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Botafogo%20%20Vasco%20da%20Gama",
+        "pubdate": "Tue, 05 Nov 2024 20:00:00 -0500"
     },
     {
         "title": "Jill Stein",
@@ -90,13 +95,8 @@
         "pubdate": "Tue, 05 Nov 2024 20:00:00 -0500"
     },
     {
-        "title": "Botafogo  Vasco da Gama",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Botafogo%20%20Vasco%20da%20Gama",
-        "pubdate": "Tue, 05 Nov 2024 20:00:00 -0500"
-    },
-    {
-        "title": "Real Madrid club de fútbol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Real%20Madrid%20club%20de%20f%C3%BAtbol",
-        "pubdate": "Tue, 05 Nov 2024 16:00:00 -0500"
+        "title": "Dinamo Zagreb",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Dinamo%20Zagreb",
+        "pubdate": "Tue, 05 Nov 2024 14:00:00 -0500"
     }
 ]

@@ -5,11 +5,6 @@
         "pubdate": "Tue, 05 Nov 2024 20:00:00 +0100"
     },
     {
-        "title": "Celtic – RB Leipzig",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Celtic%20%E2%80%93%20RB%20Leipzig",
-        "pubdate": "Tue, 05 Nov 2024 21:00:00 +0100"
-    },
-    {
         "title": "Schaeffler",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schaeffler",
         "pubdate": "Tue, 05 Nov 2024 10:00:00 +0100"
@@ -98,5 +93,10 @@
         "title": "Reformationstag",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Reformationstag",
         "pubdate": "Wed, 30 Oct 2024 18:00:00 +0100"
+    },
+    {
+        "title": "Halloween 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Halloween%202024",
+        "pubdate": "Wed, 30 Oct 2024 16:00:00 +0100"
     }
 ]

@@ -5,14 +5,14 @@
         "pubdate": "Wed, 06 Nov 2024 10:00:00 +0100"
     },
     {
+        "title": "BBC News",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#BBC%20News",
+        "pubdate": "Wed, 06 Nov 2024 11:00:00 +0100"
+    },
+    {
         "title": "BBC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#BBC",
         "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
-    },
-    {
-        "title": "Periodista oscar more",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Periodista%20oscar%20more",
-        "pubdate": "Wed, 06 Nov 2024 01:00:00 +0100"
     },
     {
         "title": "Enrique Ponce Chiva",
@@ -20,19 +20,24 @@
         "pubdate": "Wed, 06 Nov 2024 08:00:00 +0100"
     },
     {
+        "title": "Periodista oscar more",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Periodista%20oscar%20more",
+        "pubdate": "Wed, 06 Nov 2024 01:00:00 +0100"
+    },
+    {
         "title": "Elon Musk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Elon%20Musk",
         "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
     },
     {
-        "title": "THE NEW YORK TIMES",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#THE%20NEW%20YORK%20TIMES",
-        "pubdate": "Wed, 06 Nov 2024 01:00:00 +0100"
-    },
-    {
         "title": "Melania Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Melania%20Trump",
         "pubdate": "Wed, 06 Nov 2024 08:00:00 +0100"
+    },
+    {
+        "title": "THE NEW YORK TIMES",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#THE%20NEW%20YORK%20TIMES",
+        "pubdate": "Wed, 06 Nov 2024 01:00:00 +0100"
     },
     {
         "title": "Posiciones de Champions League",
@@ -65,19 +70,14 @@
         "pubdate": "Wed, 06 Nov 2024 03:00:00 +0100"
     },
     {
-        "title": "Mina Bonino",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Mina%20Bonino",
+        "title": "Fox",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Fox",
         "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
     },
     {
         "title": "Ladrones con clase",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ladrones%20con%20clase",
         "pubdate": "Wed, 06 Nov 2024 00:00:00 +0100"
-    },
-    {
-        "title": "Fox",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Fox",
-        "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
     },
     {
         "title": "Donald Trump",
