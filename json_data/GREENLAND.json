@@ -1,33 +1,13 @@
 [
     {
-        "title": "Le monde",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Le%20monde",
-        "pubdate": "Wed, 06 Nov 2024 11:00:00 +0100"
-    },
-    {
-        "title": "BBC news",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#BBC%20news",
-        "pubdate": "Wed, 06 Nov 2024 09:00:00 +0000"
-    },
-    {
         "title": "Байден",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%91%D0%B0%D0%B9%D0%B4%D0%B5%D0%BD",
         "pubdate": "Wed, 06 Nov 2024 07:00:00 +0300"
     },
     {
-        "title": "News",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#News",
-        "pubdate": "Wed, 06 Nov 2024 11:00:00 +0100"
-    },
-    {
         "title": "Afghanistan vs Bangladesh",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Afghanistan%20vs%20Bangladesh",
         "pubdate": "Wed, 06 Nov 2024 15:30:00 +0530"
-    },
-    {
-        "title": "ドル円",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%89%E3%83%AB%E5%86%86",
-        "pubdate": "Wed, 06 Nov 2024 19:00:00 +0900"
     },
     {
         "title": "Bitcoin price",
@@ -40,19 +20,39 @@
         "pubdate": "Wed, 06 Nov 2024 15:00:00 +0800"
     },
     {
-        "title": "Dr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Dr",
-        "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
-    },
-    {
-        "title": "Champions",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Champions",
-        "pubdate": "Wed, 06 Nov 2024 08:00:00 +0100"
-    },
-    {
-        "title": "Publico",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Publico",
+        "title": "BBC news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#BBC%20news",
         "pubdate": "Wed, 06 Nov 2024 09:00:00 +0000"
+    },
+    {
+        "title": "Le monde",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Le%20monde",
+        "pubdate": "Wed, 06 Nov 2024 11:00:00 +0100"
+    },
+    {
+        "title": "ドル円",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%89%E3%83%AB%E5%86%86",
+        "pubdate": "Wed, 06 Nov 2024 19:00:00 +0900"
+    },
+    {
+        "title": "News",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#News",
+        "pubdate": "Wed, 06 Nov 2024 11:00:00 +0100"
+    },
+    {
+        "title": "Sporting CP vs Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Sporting%20CP%20vs%20Man%20City",
+        "pubdate": "Wed, 06 Nov 2024 03:00:00 +0700"
+    },
+    {
+        "title": "Dollar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Dollar",
+        "pubdate": "Wed, 06 Nov 2024 10:00:00 -0600"
+    },
+    {
+        "title": "Can Trump run in 2028",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Can%20Trump%20run%20in%202028",
+        "pubdate": "Thu, 07 Nov 2024 00:00:00 +1100"
     },
     {
         "title": "Enrique Ponce Chiva",
@@ -60,43 +60,43 @@
         "pubdate": "Wed, 06 Nov 2024 08:00:00 +0100"
     },
     {
+        "title": "Huracan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Huracan",
+        "pubdate": "Wed, 06 Nov 2024 06:00:00 -0300"
+    },
+    {
+        "title": "Sporting đấu với Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Sporting%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Man%20City",
+        "pubdate": "Wed, 06 Nov 2024 03:00:00 +0700"
+    },
+    {
         "title": "David Pressman",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#David%20Pressman",
         "pubdate": "Wed, 06 Nov 2024 11:00:00 +0100"
     },
     {
-        "title": "Chief of Army Staff",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Chief%20of%20Army%20Staff",
-        "pubdate": "Wed, 06 Nov 2024 10:00:00 +0100"
+        "title": "SRF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#SRF",
+        "pubdate": "Wed, 06 Nov 2024 00:00:00 +0100"
     },
     {
-        "title": "Yle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Yle",
-        "pubdate": "Wed, 06 Nov 2024 11:00:00 +0200"
+        "title": "Σεισμοσ τωρα",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%A3%CE%B5%CE%B9%CF%83%CE%BC%CE%BF%CF%83%20%CF%84%CF%89%CF%81%CE%B1",
+        "pubdate": "Wed, 06 Nov 2024 16:00:00 +0200"
     },
     {
-        "title": "Republika",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Republika",
-        "pubdate": "Wed, 06 Nov 2024 07:00:00 +0100"
+        "title": "Jill Stein",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Jill%20Stein",
+        "pubdate": "Wed, 06 Nov 2024 05:00:00 +0300"
     },
     {
-        "title": "統促黨",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E7%B5%B1%E4%BF%83%E9%BB%A8",
-        "pubdate": "Thu, 07 Nov 2024 00:00:00 +0800"
+        "title": "Mikkel Eskil Mikkelsen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Mikkel%20Eskil%20Mikkelsen",
+        "pubdate": "Wed, 06 Nov 2024 13:00:00 +0100"
     },
     {
-        "title": "CNN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#CNN",
-        "pubdate": "Wed, 06 Nov 2024 08:00:00 +1300"
-    },
-    {
-        "title": "Gold price",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Gold%20price",
-        "pubdate": "Thu, 07 Nov 2024 00:00:00 +0800"
-    },
-    {
-        "title": "Can Trump run in 2028",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Can%20Trump%20run%20in%202028",
-        "pubdate": "Thu, 07 Nov 2024 00:00:00 +1100"
+        "title": "Nieuws",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nieuws",
+        "pubdate": "Wed, 06 Nov 2024 13:00:00 +0100"
     }
 ]
