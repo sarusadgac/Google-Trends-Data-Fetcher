@@ -55,6 +55,11 @@
         "pubdate": "Tue, 05 Nov 2024 10:00:00 -0500"
     },
     {
+        "title": "Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Trump",
+        "pubdate": "Tue, 05 Nov 2024 11:00:00 -0500"
+    },
+    {
         "title": "Beca Permanencia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Beca%20Permanencia",
         "pubdate": "Tue, 05 Nov 2024 09:00:00 -0500"
@@ -93,10 +98,5 @@
         "title": "Real Madrid club de fútbol",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Real%20Madrid%20club%20de%20f%C3%BAtbol",
         "pubdate": "Tue, 05 Nov 2024 16:00:00 -0500"
-    },
-    {
-        "title": "Viktor Gyökeres",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Viktor%20Gy%C3%B6keres",
-        "pubdate": "Tue, 05 Nov 2024 17:00:00 -0500"
     }
 ]
