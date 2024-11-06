@@ -7,12 +7,12 @@
     {
         "title": "Temblor hoy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Temblor%20hoy",
-        "pubdate": "Tue, 05 Nov 2024 00:00:00 -0500"
+        "pubdate": "Tue, 05 Nov 2024 15:00:00 -0500"
     },
     {
-        "title": "Elecciones USA 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Elecciones%20USA%202024",
-        "pubdate": "Tue, 05 Nov 2024 09:00:00 -0500"
+        "title": "Elecciones usa 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Elecciones%20usa%202024",
+        "pubdate": "Tue, 05 Nov 2024 10:00:00 -0500"
     },
     {
         "title": "Sporting Lisboa  Manchester City",
@@ -50,14 +50,14 @@
         "pubdate": "Tue, 05 Nov 2024 10:00:00 -0500"
     },
     {
-        "title": "Beca Permanencia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Beca%20Permanencia",
-        "pubdate": "Tue, 05 Nov 2024 09:00:00 -0500"
-    },
-    {
         "title": "Juventus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Juventus",
         "pubdate": "Tue, 05 Nov 2024 15:00:00 -0500"
+    },
+    {
+        "title": "Beca Permanencia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Beca%20Permanencia",
+        "pubdate": "Tue, 05 Nov 2024 09:00:00 -0500"
     },
     {
         "title": "Metro",
@@ -65,14 +65,9 @@
         "pubdate": "Tue, 05 Nov 2024 00:00:00 -0500"
     },
     {
-        "title": "Ultimo sismo peru",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Ultimo%20sismo%20peru",
-        "pubdate": "Tue, 05 Nov 2024 16:00:00 -0500"
-    },
-    {
-        "title": "Bolonia - Mónaco",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bolonia%20-%20M%C3%B3naco",
-        "pubdate": "Tue, 05 Nov 2024 17:00:00 -0500"
+        "title": "Pumas - Querétaro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Pumas%20-%20Quer%C3%A9taro",
+        "pubdate": "Tue, 05 Nov 2024 23:00:00 -0500"
     },
     {
         "title": "Jill Stein",
@@ -80,9 +75,9 @@
         "pubdate": "Tue, 05 Nov 2024 21:00:00 -0500"
     },
     {
-        "title": "Real Madrid club de fútbol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Real%20Madrid%20club%20de%20f%C3%BAtbol",
-        "pubdate": "Tue, 05 Nov 2024 16:00:00 -0500"
+        "title": "IGP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#IGP",
+        "pubdate": "Tue, 05 Nov 2024 15:00:00 -0500"
     },
     {
         "title": "Chase Oliver",
@@ -90,13 +85,18 @@
         "pubdate": "Tue, 05 Nov 2024 20:00:00 -0500"
     },
     {
+        "title": "Real Madrid club de fútbol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Real%20Madrid%20club%20de%20f%C3%BAtbol",
+        "pubdate": "Tue, 05 Nov 2024 16:00:00 -0500"
+    },
+    {
         "title": "Viktor Gyökeres",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Viktor%20Gy%C3%B6keres",
         "pubdate": "Tue, 05 Nov 2024 17:00:00 -0500"
     },
     {
-        "title": "Dinamo Zagreb",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Dinamo%20Zagreb",
-        "pubdate": "Tue, 05 Nov 2024 14:00:00 -0500"
+        "title": "Terremoto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Terremoto",
+        "pubdate": "Tue, 05 Nov 2024 16:00:00 -0500"
     }
 ]
