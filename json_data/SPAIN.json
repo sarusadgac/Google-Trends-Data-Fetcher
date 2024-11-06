@@ -5,9 +5,19 @@
         "pubdate": "Wed, 06 Nov 2024 10:00:00 +0100"
     },
     {
+        "title": "BBC News",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#BBC%20News",
+        "pubdate": "Wed, 06 Nov 2024 11:00:00 +0100"
+    },
+    {
         "title": "Enrique Ponce Chiva",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Enrique%20Ponce%20Chiva",
         "pubdate": "Wed, 06 Nov 2024 08:00:00 +0100"
+    },
+    {
+        "title": "BBC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#BBC",
+        "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
     },
     {
         "title": "Elon Musk",
@@ -20,29 +30,19 @@
         "pubdate": "Wed, 06 Nov 2024 08:00:00 +0100"
     },
     {
-        "title": "Periodista oscar more",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Periodista%20oscar%20more",
-        "pubdate": "Wed, 06 Nov 2024 01:00:00 +0100"
-    },
-    {
         "title": "Sheila Casas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Sheila%20Casas",
         "pubdate": "Wed, 06 Nov 2024 12:00:00 +0100"
     },
     {
-        "title": "THE NEW YORK TIMES",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#THE%20NEW%20YORK%20TIMES",
+        "title": "Periodista oscar more",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Periodista%20oscar%20more",
         "pubdate": "Wed, 06 Nov 2024 01:00:00 +0100"
     },
     {
-        "title": "Infanta Elena",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Infanta%20Elena",
-        "pubdate": "Wed, 06 Nov 2024 00:00:00 +0100"
-    },
-    {
-        "title": "Europa League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Europa%20League",
-        "pubdate": "Wed, 06 Nov 2024 03:00:00 +0100"
+        "title": "THE NEW YORK TIMES",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#THE%20NEW%20YORK%20TIMES",
+        "pubdate": "Wed, 06 Nov 2024 01:00:00 +0100"
     },
     {
         "title": "Piratas del Caribe",
@@ -53,6 +53,16 @@
         "title": "Joe biden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Joe%20biden",
         "pubdate": "Wed, 06 Nov 2024 11:00:00 +0100"
+    },
+    {
+        "title": "Infanta Elena",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Infanta%20Elena",
+        "pubdate": "Wed, 06 Nov 2024 00:00:00 +0100"
+    },
+    {
+        "title": "Europa League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Europa%20League",
+        "pubdate": "Wed, 06 Nov 2024 03:00:00 +0100"
     },
     {
         "title": "Mina Bonino",
@@ -80,23 +90,13 @@
         "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
     },
     {
-        "title": "Ladrones con clase",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ladrones%20con%20clase",
-        "pubdate": "Wed, 06 Nov 2024 00:00:00 +0100"
-    },
-    {
         "title": "Dana White",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Dana%20White",
         "pubdate": "Wed, 06 Nov 2024 14:00:00 +0100"
     },
     {
-        "title": "Ayudas DANA Valencia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ayudas%20DANA%20Valencia",
-        "pubdate": "Wed, 06 Nov 2024 12:00:00 +0100"
-    },
-    {
-        "title": "Reina Camila",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Reina%20Camila",
-        "pubdate": "Wed, 06 Nov 2024 14:00:00 +0100"
+        "title": "Ladrones con clase",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ladrones%20con%20clase",
+        "pubdate": "Wed, 06 Nov 2024 00:00:00 +0100"
     }
 ]

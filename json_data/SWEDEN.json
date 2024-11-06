@@ -15,14 +15,14 @@
         "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
     },
     {
-        "title": "Nyheter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Nyheter",
-        "pubdate": "Wed, 06 Nov 2024 10:00:00 +0100"
-    },
-    {
         "title": "Bitcoin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bitcoin",
         "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
+    },
+    {
+        "title": "Nyheter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Nyheter",
+        "pubdate": "Wed, 06 Nov 2024 10:00:00 +0100"
     },
     {
         "title": "Elon Musk",
@@ -55,16 +55,6 @@
         "pubdate": "Wed, 06 Nov 2024 00:00:00 +0100"
     },
     {
-        "title": "6 november",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#6%20november",
-        "pubdate": "Wed, 06 Nov 2024 10:00:00 +0100"
-    },
-    {
-        "title": "Val",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Val",
-        "pubdate": "Wed, 06 Nov 2024 07:00:00 +0100"
-    },
-    {
         "title": "Ebba Årsjö",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ebba%20%C3%85rsj%C3%B6",
         "pubdate": "Wed, 06 Nov 2024 02:00:00 +0100"
@@ -73,6 +63,11 @@
         "title": "Putin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Putin",
         "pubdate": "Wed, 06 Nov 2024 10:00:00 +0100"
+    },
+    {
+        "title": "Val",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Val",
+        "pubdate": "Wed, 06 Nov 2024 07:00:00 +0100"
     },
     {
         "title": "Philadelphia",
@@ -98,5 +93,10 @@
         "title": "Betsson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Betsson",
         "pubdate": "Wed, 06 Nov 2024 01:00:00 +0100"
+    },
+    {
+        "title": "Outer banks",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Outer%20banks",
+        "pubdate": "Wed, 06 Nov 2024 00:00:00 +0100"
     }
 ]
