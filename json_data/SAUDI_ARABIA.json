@@ -10,6 +10,11 @@
         "pubdate": "Wed, 06 Nov 2024 01:00:00 +0300"
     },
     {
+        "title": "انتر ميلان",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#%D8%A7%D9%86%D8%AA%D8%B1%20%D9%85%D9%8A%D9%84%D8%A7%D9%86",
+        "pubdate": "Wed, 06 Nov 2024 07:00:00 +0300"
+    },
+    {
         "title": "ليفربول ضد ليفركوزن",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#%D9%84%D9%8A%D9%81%D8%B1%D8%A8%D9%88%D9%84%20%D8%B6%D8%AF%20%D9%84%D9%8A%D9%81%D8%B1%D9%83%D9%88%D8%B2%D9%86",
         "pubdate": "Tue, 05 Nov 2024 16:00:00 +0300"
@@ -25,14 +30,14 @@
         "pubdate": "Tue, 05 Nov 2024 03:00:00 +0300"
     },
     {
-        "title": "بنيامين نتنياهو",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#%D8%A8%D9%86%D9%8A%D8%A7%D9%85%D9%8A%D9%86%20%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88",
-        "pubdate": "Tue, 05 Nov 2024 02:00:00 +0300"
-    },
-    {
         "title": "CNN",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#CNN",
         "pubdate": "Tue, 05 Nov 2024 16:00:00 +0300"
+    },
+    {
+        "title": "بنيامين نتنياهو",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#%D8%A8%D9%86%D9%8A%D8%A7%D9%85%D9%8A%D9%86%20%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88",
+        "pubdate": "Tue, 05 Nov 2024 02:00:00 +0300"
     },
     {
         "title": "الاتفاق",
@@ -48,6 +53,11 @@
         "title": "امريكا",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#%D8%A7%D9%85%D8%B1%D9%8A%D9%83%D8%A7",
         "pubdate": "Tue, 05 Nov 2024 21:00:00 +0300"
+    },
+    {
+        "title": "نوره",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#%D9%86%D9%88%D8%B1%D9%87",
+        "pubdate": "Tue, 05 Nov 2024 09:00:00 +0300"
     },
     {
         "title": "معرض البناء السعودي 2024",
@@ -67,7 +77,7 @@
     {
         "title": "النصر ضد العين",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#%D8%A7%D9%84%D9%86%D8%B5%D8%B1%20%D8%B6%D8%AF%20%D8%A7%D9%84%D8%B9%D9%8A%D9%86",
-        "pubdate": "Mon, 04 Nov 2024 07:00:00 +0300"
+        "pubdate": "Mon, 04 Nov 2024 14:00:00 +0300"
     },
     {
         "title": "الهلال",
@@ -85,18 +95,8 @@
         "pubdate": "Mon, 04 Nov 2024 11:00:00 +0300"
     },
     {
-        "title": "الانتخابات الامريكية",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA%20%D8%A7%D9%84%D8%A7%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9",
-        "pubdate": "Mon, 04 Nov 2024 17:00:00 +0300"
-    },
-    {
-        "title": "Neymar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#Neymar",
-        "pubdate": "Mon, 04 Nov 2024 23:00:00 +0300"
-    },
-    {
-        "title": "النصر العين",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#%D8%A7%D9%84%D9%86%D8%B5%D8%B1%20%D8%A7%D9%84%D8%B9%D9%8A%D9%86",
-        "pubdate": "Mon, 04 Nov 2024 00:00:00 +0300"
+        "title": "النصر ضد العين",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#%D8%A7%D9%84%D9%86%D8%B5%D8%B1%20%D8%B6%D8%AF%20%D8%A7%D9%84%D8%B9%D9%8A%D9%86",
+        "pubdate": "Mon, 04 Nov 2024 07:00:00 +0300"
     }
 ]

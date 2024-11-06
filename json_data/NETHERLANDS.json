@@ -5,6 +5,11 @@
         "pubdate": "Tue, 05 Nov 2024 18:00:00 +0100"
     },
     {
+        "title": "Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Trump",
+        "pubdate": "Tue, 05 Nov 2024 18:00:00 +0100"
+    },
+    {
         "title": "Girona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Girona",
         "pubdate": "Tue, 05 Nov 2024 18:00:00 +0100"
@@ -18,6 +23,11 @@
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Liverpool",
         "pubdate": "Tue, 05 Nov 2024 22:00:00 +0100"
+    },
+    {
+        "title": "Trump Harris",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Trump%20Harris",
+        "pubdate": "Tue, 05 Nov 2024 19:00:00 +0100"
     },
     {
         "title": "Bijlow",
@@ -50,14 +60,14 @@
         "pubdate": "Mon, 04 Nov 2024 14:00:00 +0100"
     },
     {
-        "title": "Johan Derksen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Johan%20Derksen",
-        "pubdate": "Mon, 04 Nov 2024 22:00:00 +0100"
-    },
-    {
         "title": "Blokker",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Blokker",
         "pubdate": "Mon, 04 Nov 2024 15:00:00 +0100"
+    },
+    {
+        "title": "Vandaag Inside",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Vandaag%20Inside",
+        "pubdate": "Mon, 04 Nov 2024 22:00:00 +0100"
     },
     {
         "title": "Quincy Jones",
@@ -88,15 +98,5 @@
         "title": "Sparta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sparta",
         "pubdate": "Sun, 03 Nov 2024 17:00:00 +0100"
-    },
-    {
-        "title": "Verkiezingen usa 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Verkiezingen%20usa%202024",
-        "pubdate": "Sun, 03 Nov 2024 23:00:00 +0100"
-    },
-    {
-        "title": "Mist",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Mist",
-        "pubdate": "Sun, 03 Nov 2024 22:00:00 +0100"
     }
 ]

@@ -15,14 +15,19 @@
         "pubdate": "Wed, 06 Nov 2024 02:00:00 +0000"
     },
     {
-        "title": "Pedro Machado",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pedro%20Machado",
+        "title": "Francisca Laranjo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Francisca%20Laranjo",
         "pubdate": "Wed, 06 Nov 2024 00:00:00 +0000"
     },
     {
         "title": "Steve Bannon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Steve%20Bannon",
         "pubdate": "Wed, 06 Nov 2024 01:00:00 +0000"
+    },
+    {
+        "title": "Pedro Machado",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pedro%20Machado",
+        "pubdate": "Wed, 06 Nov 2024 00:00:00 +0000"
     },
     {
         "title": "Luís Figo",
@@ -40,13 +45,13 @@
         "pubdate": "Wed, 06 Nov 2024 01:00:00 +0000"
     },
     {
-        "title": "GMT",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#GMT",
+        "title": "Joe Biden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Joe%20Biden",
         "pubdate": "Wed, 06 Nov 2024 01:00:00 +0000"
     },
     {
-        "title": "Joe Biden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Joe%20Biden",
+        "title": "GMT",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#GMT",
         "pubdate": "Wed, 06 Nov 2024 01:00:00 +0000"
     },
     {
@@ -70,6 +75,16 @@
         "pubdate": "Tue, 05 Nov 2024 20:00:00 +0000"
     },
     {
+        "title": "Fertagus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Fertagus",
+        "pubdate": "Tue, 05 Nov 2024 09:00:00 +0000"
+    },
+    {
+        "title": "Joana Figueira",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Joana%20Figueira",
+        "pubdate": "Tue, 05 Nov 2024 20:00:00 +0000"
+    },
+    {
         "title": "Haaland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Haaland",
         "pubdate": "Tue, 05 Nov 2024 21:00:00 +0000"
@@ -80,23 +95,8 @@
         "pubdate": "Tue, 05 Nov 2024 23:00:00 +0000"
     },
     {
-        "title": "Greve Metro Lisboa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Greve%20Metro%20Lisboa",
-        "pubdate": "Tue, 05 Nov 2024 10:00:00 +0000"
-    },
-    {
         "title": "Usa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Usa",
-        "pubdate": "Tue, 05 Nov 2024 11:00:00 +0000"
-    },
-    {
-        "title": "Fox News",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Fox%20News",
-        "pubdate": "Tue, 05 Nov 2024 15:00:00 +0000"
-    },
-    {
-        "title": "Bernardo Silva",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bernardo%20Silva",
         "pubdate": "Tue, 05 Nov 2024 11:00:00 +0000"
     }
 ]

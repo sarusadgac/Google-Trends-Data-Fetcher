@@ -7,7 +7,7 @@
     {
         "title": "Temblor hoy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Temblor%20hoy",
-        "pubdate": "Tue, 05 Nov 2024 15:00:00 -0500"
+        "pubdate": "Tue, 05 Nov 2024 00:00:00 -0500"
     },
     {
         "title": "Elecciones USA 2024",
@@ -65,11 +65,6 @@
         "pubdate": "Tue, 05 Nov 2024 00:00:00 -0500"
     },
     {
-        "title": "Celtic vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Celtic%20vs",
-        "pubdate": "Tue, 05 Nov 2024 15:00:00 -0500"
-    },
-    {
         "title": "Ultimo sismo peru",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Ultimo%20sismo%20peru",
         "pubdate": "Tue, 05 Nov 2024 16:00:00 -0500"
@@ -80,9 +75,19 @@
         "pubdate": "Tue, 05 Nov 2024 17:00:00 -0500"
     },
     {
+        "title": "Jill Stein",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Jill%20Stein",
+        "pubdate": "Tue, 05 Nov 2024 21:00:00 -0500"
+    },
+    {
         "title": "Real Madrid club de fútbol",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Real%20Madrid%20club%20de%20f%C3%BAtbol",
         "pubdate": "Tue, 05 Nov 2024 16:00:00 -0500"
+    },
+    {
+        "title": "Chase Oliver",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Chase%20Oliver",
+        "pubdate": "Tue, 05 Nov 2024 20:00:00 -0500"
     },
     {
         "title": "Viktor Gyökeres",
@@ -90,13 +95,8 @@
         "pubdate": "Tue, 05 Nov 2024 17:00:00 -0500"
     },
     {
-        "title": "Jill Stein",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Jill%20Stein",
-        "pubdate": "Tue, 05 Nov 2024 21:00:00 -0500"
-    },
-    {
-        "title": "Chase Oliver",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Chase%20Oliver",
-        "pubdate": "Tue, 05 Nov 2024 20:00:00 -0500"
+        "title": "Dinamo Zagreb",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Dinamo%20Zagreb",
+        "pubdate": "Tue, 05 Nov 2024 14:00:00 -0500"
     }
 ]
