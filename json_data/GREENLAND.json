@@ -1,8 +1,23 @@
 [
     {
+        "title": "Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Champions%20League",
+        "pubdate": "Wed, 06 Nov 2024 17:00:00 +0100"
+    },
+    {
+        "title": "BBC news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#BBC%20news",
+        "pubdate": "Wed, 06 Nov 2024 09:00:00 +0000"
+    },
+    {
         "title": "Stock market today",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Stock%20market%20today",
         "pubdate": "Wed, 06 Nov 2024 01:00:00 -0800"
+    },
+    {
+        "title": "Elon Musk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Elon%20Musk",
+        "pubdate": "Wed, 06 Nov 2024 15:00:00 +0100"
     },
     {
         "title": "Gold prices",
@@ -15,19 +30,9 @@
         "pubdate": "Wed, 06 Nov 2024 11:00:00 +0300"
     },
     {
-        "title": "BBC news",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#BBC%20news",
-        "pubdate": "Wed, 06 Nov 2024 09:00:00 +0000"
-    },
-    {
-        "title": "Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Champions%20League",
-        "pubdate": "Wed, 06 Nov 2024 17:00:00 +0100"
-    },
-    {
-        "title": "Elon Musk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Elon%20Musk",
-        "pubdate": "Wed, 06 Nov 2024 15:00:00 +0100"
+        "title": "立冬",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E7%AB%8B%E5%86%AC",
+        "pubdate": "Thu, 07 Nov 2024 01:00:00 +0900"
     },
     {
         "title": "Harris",
@@ -35,54 +40,9 @@
         "pubdate": "Thu, 07 Nov 2024 00:00:00 +0800"
     },
     {
-        "title": "立冬",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E7%AB%8B%E5%86%AC",
-        "pubdate": "Thu, 07 Nov 2024 01:00:00 +0900"
-    },
-    {
-        "title": "Gold price",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Gold%20price",
-        "pubdate": "Thu, 07 Nov 2024 00:00:00 +0800"
-    },
-    {
-        "title": "Club Brujas  Aston Villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Club%20Brujas%20%20Aston%20Villa",
-        "pubdate": "Wed, 06 Nov 2024 11:00:00 -0600"
-    },
-    {
-        "title": "دوري الأبطال",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=EG#%D8%AF%D9%88%D8%B1%D9%8A%20%D8%A7%D9%84%D8%A3%D8%A8%D8%B7%D8%A7%D9%84",
-        "pubdate": "Wed, 06 Nov 2024 00:00:00 +0200"
-    },
-    {
-        "title": "地震",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%9C%B0%E9%9C%87",
-        "pubdate": "Thu, 07 Nov 2024 02:00:00 +0800"
-    },
-    {
         "title": "Bitcoin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Bitcoin",
-        "pubdate": "Wed, 06 Nov 2024 10:00:00 +0100"
-    },
-    {
-        "title": "Club Brugge vs Aston Villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Club%20Brugge%20vs%20Aston%20Villa",
-        "pubdate": "Wed, 06 Nov 2024 12:00:00 +0300"
-    },
-    {
-        "title": "اسعار الذهب اليوم",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#%D8%A7%D8%B3%D8%B9%D8%A7%D8%B1%20%D8%A7%D9%84%D8%B0%D9%87%D8%A8%20%D8%A7%D9%84%D9%8A%D9%88%D9%85",
-        "pubdate": "Wed, 06 Nov 2024 15:00:00 +0300"
-    },
-    {
-        "title": "สปอร์ติงลิสบอน พบ แมนซิตี",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TH#%E0%B8%AA%E0%B8%9B%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B8%B4%E0%B8%87%E0%B8%A5%E0%B8%B4%E0%B8%AA%E0%B8%9A%E0%B8%AD%E0%B8%99%20%E0%B8%9E%E0%B8%9A%20%E0%B9%81%E0%B8%A1%E0%B8%99%E0%B8%8B%E0%B8%B4%E0%B8%95%E0%B8%B5",
-        "pubdate": "Wed, 06 Nov 2024 00:00:00 +0700"
-    },
-    {
-        "title": "BTC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#BTC",
-        "pubdate": "Wed, 06 Nov 2024 14:00:00 +0100"
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Bitcoin",
+        "pubdate": "Wed, 06 Nov 2024 12:00:00 +0100"
     },
     {
         "title": "Σεισμος τωρα",
@@ -90,13 +50,53 @@
         "pubdate": "Wed, 06 Nov 2024 16:00:00 +0200"
     },
     {
-        "title": "나스닥",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%82%98%EC%8A%A4%EB%8B%A5",
-        "pubdate": "Thu, 07 Nov 2024 00:00:00 +0900"
+        "title": "Forint euro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Forint%20euro",
+        "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
     },
     {
-        "title": "Joe Biden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Joe%20Biden",
-        "pubdate": "Wed, 06 Nov 2024 00:00:00 +0100"
+        "title": "Bitcoin price",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bitcoin%20price",
+        "pubdate": "Wed, 06 Nov 2024 10:00:00 -0500"
+    },
+    {
+        "title": "WOOK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#WOOK",
+        "pubdate": "Wed, 06 Nov 2024 20:00:00 +0000"
+    },
+    {
+        "title": "地震",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%9C%B0%E9%9C%87",
+        "pubdate": "Thu, 07 Nov 2024 02:00:00 +0800"
+    },
+    {
+        "title": "Enrique Ponce Chiva",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Enrique%20Ponce%20Chiva",
+        "pubdate": "Wed, 06 Nov 2024 08:00:00 +0100"
+    },
+    {
+        "title": "Liga dos Campeões",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Liga%20dos%20Campe%C3%B5es",
+        "pubdate": "Wed, 06 Nov 2024 14:00:00 -0500"
+    },
+    {
+        "title": "Ruben Van Gucht",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ruben%20Van%20Gucht",
+        "pubdate": "Wed, 06 Nov 2024 13:00:00 +0100"
+    },
+    {
+        "title": "Gold price",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Gold%20price",
+        "pubdate": "Thu, 07 Nov 2024 00:00:00 +0800"
+    },
+    {
+        "title": "Dolar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Dolar",
+        "pubdate": "Wed, 06 Nov 2024 14:00:00 -0300"
+    },
+    {
+        "title": "Шахтёр Донецк – Янг Бойз",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=UA#%D0%A8%D0%B0%D1%85%D1%82%D1%91%D1%80%20%D0%94%D0%BE%D0%BD%D0%B5%D1%86%D0%BA%20%E2%80%93%20%D0%AF%D0%BD%D0%B3%20%D0%91%D0%BE%D0%B9%D0%B7",
+        "pubdate": "Wed, 06 Nov 2024 20:00:00 +0200"
     }
 ]
