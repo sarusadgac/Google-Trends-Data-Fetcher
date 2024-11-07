@@ -1,5 +1,5 @@
 Cubarsi
-Deportivo Cali,  Jaguares
+Deportivo Cali  Jaguares
 Club Brujas  Aston Villa
 Boyacá Chicó  Bucaramanga
 Medellín  Patriotas
@@ -9,6 +9,7 @@ Bayern  Benfica
 Instituto  River Plate
 Inter - Arsenal
 Alianza  Águilas Doradas
+Barracas Central  Racing
 Boca Juniors  Godoy Cruz
 Inundaciones bogota
 Stuttgart  Atalanta
@@ -17,4 +18,3 @@ Europa League
 Loteria del Tolima
 Bernie Moreno
 Cali
-Elon Musk

@@ -15,11 +15,6 @@
         "pubdate": "Thu, 07 Nov 2024 01:00:00 -0600"
     },
     {
-        "title": "Tabla Liga MX",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Tabla%20Liga%20MX",
-        "pubdate": "Wed, 06 Nov 2024 00:00:00 -0600"
-    },
-    {
         "title": "Necaxa  Atl San Luis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Necaxa%20%20Atl%20San%20Luis",
         "pubdate": "Wed, 06 Nov 2024 19:00:00 -0600"
@@ -43,11 +38,6 @@
         "title": "Bayern  Benfica",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Bayern%20%20Benfica",
         "pubdate": "Wed, 06 Nov 2024 13:00:00 -0600"
-    },
-    {
-        "title": "Cruz Azul vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Cruz%20Azul%20vs",
-        "pubdate": "Wed, 06 Nov 2024 15:00:00 -0600"
     },
     {
         "title": "Inter - Arsenal",
@@ -85,9 +75,19 @@
         "pubdate": "Wed, 06 Nov 2024 03:00:00 -0600"
     },
     {
+        "title": "Desde la Cuna registro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Desde%20la%20Cuna%20registro",
+        "pubdate": "Wed, 06 Nov 2024 14:00:00 -0600"
+    },
+    {
         "title": "La reina Camila",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#La%20reina%20Camila",
         "pubdate": "Wed, 06 Nov 2024 15:00:00 -0600"
+    },
+    {
+        "title": "Huracan Rafael trayectoria",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Huracan%20Rafael%20trayectoria",
+        "pubdate": "Wed, 06 Nov 2024 17:00:00 -0600"
     },
     {
         "title": "TOLUCA FC",
@@ -95,8 +95,8 @@
         "pubdate": "Wed, 06 Nov 2024 20:00:00 -0600"
     },
     {
-        "title": "Huracan Rafael trayectoria",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Huracan%20Rafael%20trayectoria",
-        "pubdate": "Wed, 06 Nov 2024 17:00:00 -0600"
+        "title": "Celtics  Warriors",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Celtics%20%20Warriors",
+        "pubdate": "Wed, 06 Nov 2024 20:00:00 -0600"
     }
 ]
