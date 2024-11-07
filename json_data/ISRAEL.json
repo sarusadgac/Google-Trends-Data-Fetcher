@@ -30,6 +30,11 @@
         "pubdate": "Wed, 06 Nov 2024 12:00:00 +0200"
     },
     {
+        "title": "ערוץ 14",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A2%D7%A8%D7%95%D7%A5%2014",
+        "pubdate": "Wed, 06 Nov 2024 09:00:00 +0200"
+    },
+    {
         "title": "חדשות",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%97%D7%93%D7%A9%D7%95%D7%AA",
         "pubdate": "Wed, 06 Nov 2024 17:00:00 +0200"
@@ -93,10 +98,5 @@
         "title": "אזעקות",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%90%D7%96%D7%A2%D7%A7%D7%95%D7%AA",
         "pubdate": "Wed, 06 Nov 2024 12:00:00 +0200"
-    },
-    {
-        "title": "Bitcoin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#Bitcoin",
-        "pubdate": "Wed, 06 Nov 2024 10:00:00 +0200"
     }
 ]
