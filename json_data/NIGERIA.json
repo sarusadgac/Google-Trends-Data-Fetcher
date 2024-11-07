@@ -20,6 +20,11 @@
         "pubdate": "Thu, 07 Nov 2024 07:00:00 +0100"
     },
     {
+        "title": "Guinea Equatorial Guinea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Guinea%20Equatorial%20Guinea",
+        "pubdate": "Thu, 07 Nov 2024 14:00:00 +0100"
+    },
+    {
         "title": "Israeli Defense Minister Yoav Gallant",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Israeli%20Defense%20Minister%20Yoav%20Gallant",
         "pubdate": "Thu, 07 Nov 2024 09:00:00 +0100"
@@ -80,9 +85,9 @@
         "pubdate": "Wed, 06 Nov 2024 01:00:00 +0100"
     },
     {
-        "title": "Baltasar Engonga video",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Baltasar%20Engonga%20video",
-        "pubdate": "Wed, 06 Nov 2024 15:00:00 +0100"
+        "title": "American election",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#American%20election",
+        "pubdate": "Wed, 06 Nov 2024 23:00:00 +0100"
     },
     {
         "title": "Bitcoin price",
@@ -93,10 +98,5 @@
         "title": "Elon Musk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Elon%20Musk",
         "pubdate": "Wed, 06 Nov 2024 20:00:00 +0100"
-    },
-    {
-        "title": "Joe Biden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Joe%20Biden",
-        "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
     }
 ]
