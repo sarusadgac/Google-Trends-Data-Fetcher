@@ -5,11 +5,6 @@
         "pubdate": "Thu, 07 Nov 2024 00:00:00 +0100"
     },
     {
-        "title": "Detective toure",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Detective%20toure",
-        "pubdate": "Thu, 07 Nov 2024 00:00:00 +0100"
-    },
-    {
         "title": "Pedri",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Pedri",
         "pubdate": "Thu, 07 Nov 2024 00:00:00 +0100"
@@ -60,13 +55,13 @@
         "pubdate": "Wed, 06 Nov 2024 23:00:00 +0100"
     },
     {
-        "title": "Rauw Alejandro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Rauw%20Alejandro",
+        "title": "Judeline",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Judeline",
         "pubdate": "Wed, 06 Nov 2024 23:00:00 +0100"
     },
     {
-        "title": "Judeline",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Judeline",
+        "title": "Rauw Alejandro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Rauw%20Alejandro",
         "pubdate": "Wed, 06 Nov 2024 23:00:00 +0100"
     },
     {
@@ -90,13 +85,18 @@
         "pubdate": "Wed, 06 Nov 2024 00:00:00 +0100"
     },
     {
-        "title": "BBC News",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#BBC%20News",
-        "pubdate": "Wed, 06 Nov 2024 11:00:00 +0100"
-    },
-    {
         "title": "Inter - Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Inter%20-%20Arsenal",
         "pubdate": "Wed, 06 Nov 2024 21:00:00 +0100"
+    },
+    {
+        "title": "Fcb",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Fcb",
+        "pubdate": "Wed, 06 Nov 2024 22:00:00 +0100"
+    },
+    {
+        "title": "La reina Camila",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#La%20reina%20Camila",
+        "pubdate": "Wed, 06 Nov 2024 14:00:00 +0100"
     }
 ]
