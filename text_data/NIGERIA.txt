@@ -1,7 +1,6 @@
 Hugging Face
 Kemi Badenoch
 Germany
-Benjamin Mendy
 Hillary Clinton
 Leeds United
 Crvena zvezda vs Barcelona
@@ -13,8 +12,9 @@ Bayern vs Benfica
 Chief of Army Staff
 Barca
 Robert Kennedy
-American election
-Elon Musk
-Bitcoin price
-Shakhtar Donetsk
 FC Barcelona
+Trump news
+Bitcoin price
+Elon Musk
+Shakhtar Donetsk
+JD Vance
