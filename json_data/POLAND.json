@@ -35,11 +35,6 @@
         "pubdate": "Wed, 06 Nov 2024 14:00:00 +0100"
     },
     {
-        "title": "Bitcoin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Bitcoin",
-        "pubdate": "Wed, 06 Nov 2024 10:00:00 +0100"
-    },
-    {
         "title": "Inter – Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Inter%20%E2%80%93%20Arsenal",
         "pubdate": "Wed, 06 Nov 2024 21:00:00 +0100"
@@ -48,6 +43,11 @@
         "title": "Bayern – Benfica",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Bayern%20%E2%80%93%20Benfica",
         "pubdate": "Wed, 06 Nov 2024 21:00:00 +0100"
+    },
+    {
+        "title": "Bitcoin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Bitcoin",
+        "pubdate": "Wed, 06 Nov 2024 10:00:00 +0100"
     },
     {
         "title": "PSG – Atlético Madryt",

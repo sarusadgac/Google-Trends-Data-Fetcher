@@ -15,6 +15,11 @@
         "pubdate": "Thu, 07 Nov 2024 01:00:00 -0600"
     },
     {
+        "title": "Tabla Liga MX",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Tabla%20Liga%20MX",
+        "pubdate": "Wed, 06 Nov 2024 00:00:00 -0600"
+    },
+    {
         "title": "Necaxa  Atl San Luis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Necaxa%20%20Atl%20San%20Luis",
         "pubdate": "Wed, 06 Nov 2024 19:00:00 -0600"
@@ -75,6 +80,11 @@
         "pubdate": "Wed, 06 Nov 2024 15:00:00 -0600"
     },
     {
+        "title": "Europa League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Europa%20League",
+        "pubdate": "Wed, 06 Nov 2024 03:00:00 -0600"
+    },
+    {
         "title": "La reina Camila",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#La%20reina%20Camila",
         "pubdate": "Wed, 06 Nov 2024 15:00:00 -0600"
@@ -88,15 +98,5 @@
         "title": "Huracan Rafael trayectoria",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Huracan%20Rafael%20trayectoria",
         "pubdate": "Wed, 06 Nov 2024 17:00:00 -0600"
-    },
-    {
-        "title": "Celtics  Warriors",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Celtics%20%20Warriors",
-        "pubdate": "Wed, 06 Nov 2024 20:00:00 -0600"
-    },
-    {
-        "title": "Marilyn Cote",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Marilyn%20Cote",
-        "pubdate": "Wed, 06 Nov 2024 18:00:00 -0600"
     }
 ]

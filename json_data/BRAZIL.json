@@ -40,14 +40,14 @@
         "pubdate": "Wed, 06 Nov 2024 14:00:00 -0500"
     },
     {
-        "title": "Selic Hoje",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Selic%20Hoje",
-        "pubdate": "Wed, 06 Nov 2024 14:00:00 -0500"
-    },
-    {
         "title": "Gabriel Bortoleto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Gabriel%20Bortoleto",
         "pubdate": "Wed, 06 Nov 2024 07:00:00 -0500"
+    },
+    {
+        "title": "Selic Hoje",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Selic%20Hoje",
+        "pubdate": "Wed, 06 Nov 2024 15:00:00 -0500"
     },
     {
         "title": "Dólar Hoje turismo",
@@ -58,6 +58,11 @@
         "title": "Elon Musk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Elon%20Musk",
         "pubdate": "Wed, 06 Nov 2024 09:00:00 -0500"
+    },
+    {
+        "title": "Rafael Cardoso",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Rafael%20Cardoso",
+        "pubdate": "Wed, 06 Nov 2024 17:00:00 -0500"
     },
     {
         "title": "Boca Juniors",
@@ -93,10 +98,5 @@
         "title": "Waze",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Waze",
         "pubdate": "Wed, 06 Nov 2024 08:00:00 -0500"
-    },
-    {
-        "title": "America MG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#America%20MG",
-        "pubdate": "Wed, 06 Nov 2024 05:00:00 -0500"
     }
 ]

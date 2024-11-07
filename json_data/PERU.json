@@ -70,6 +70,11 @@
         "pubdate": "Wed, 06 Nov 2024 14:00:00 -0500"
     },
     {
+        "title": "Corpac",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Corpac",
+        "pubdate": "Wed, 06 Nov 2024 16:00:00 -0500"
+    },
+    {
         "title": "Elon Musk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Elon%20Musk",
         "pubdate": "Wed, 06 Nov 2024 14:00:00 -0500"
@@ -92,11 +97,6 @@
     {
         "title": "Bayer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bayer",
-        "pubdate": "Wed, 06 Nov 2024 18:00:00 -0500"
-    },
-    {
-        "title": "Gerard Martín",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Gerard%20Mart%C3%ADn",
         "pubdate": "Wed, 06 Nov 2024 18:00:00 -0500"
     }
 ]
