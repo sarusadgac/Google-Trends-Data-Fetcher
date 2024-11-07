@@ -5,14 +5,14 @@
         "pubdate": "Thu, 07 Nov 2024 07:00:00 -0800"
     },
     {
-        "title": "Jill Stein",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jill%20Stein",
-        "pubdate": "Wed, 06 Nov 2024 15:00:00 -0800"
+        "title": "Europa League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Europa%20League",
+        "pubdate": "Thu, 07 Nov 2024 08:00:00 -0800"
     },
     {
         "title": "Stock Market Today",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Stock%20Market%20Today",
-        "pubdate": "Wed, 06 Nov 2024 00:00:00 -0800"
+        "pubdate": "Wed, 06 Nov 2024 01:00:00 -0800"
     },
     {
         "title": "Who won the House 2024",
@@ -25,9 +25,14 @@
         "pubdate": "Wed, 06 Nov 2024 05:00:00 -0800"
     },
     {
-        "title": "4B movement",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#4B%20movement",
-        "pubdate": "Wed, 06 Nov 2024 07:00:00 -0800"
+        "title": "Bitcoin price",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bitcoin%20price",
+        "pubdate": "Wed, 06 Nov 2024 00:00:00 -0800"
+    },
+    {
+        "title": "The View",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#The%20View",
+        "pubdate": "Wed, 06 Nov 2024 06:00:00 -0800"
     },
     {
         "title": "When does Trump take office",
@@ -35,14 +40,9 @@
         "pubdate": "Wed, 06 Nov 2024 00:00:00 -0800"
     },
     {
-        "title": "Bitcoin price",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bitcoin%20price",
-        "pubdate": "Wed, 06 Nov 2024 04:00:00 -0800"
-    },
-    {
-        "title": "The View",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#The%20View",
-        "pubdate": "Wed, 06 Nov 2024 06:00:00 -0800"
+        "title": "4B movement",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#4B%20movement",
+        "pubdate": "Wed, 06 Nov 2024 07:00:00 -0800"
     },
     {
         "title": "Voting",
@@ -70,6 +70,11 @@
         "pubdate": "Wed, 06 Nov 2024 18:00:00 -0800"
     },
     {
+        "title": "Hamas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Hamas",
+        "pubdate": "Wed, 06 Nov 2024 21:00:00 -0800"
+    },
+    {
         "title": "AZ election. Results 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#AZ%20election.%20Results%202024",
         "pubdate": "Wed, 06 Nov 2024 04:00:00 -0800"
@@ -90,13 +95,8 @@
         "pubdate": "Wed, 06 Nov 2024 05:00:00 -0800"
     },
     {
-        "title": "Hamas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Hamas",
-        "pubdate": "Wed, 06 Nov 2024 21:00:00 -0800"
-    },
-    {
-        "title": "TSLA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#TSLA",
-        "pubdate": "Wed, 06 Nov 2024 06:00:00 -0800"
+        "title": "Stranger Things season 5",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Stranger%20Things%20season%205",
+        "pubdate": "Wed, 06 Nov 2024 19:00:00 -0800"
     }
 ]

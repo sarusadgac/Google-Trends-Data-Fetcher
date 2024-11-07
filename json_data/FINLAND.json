@@ -10,6 +10,11 @@
         "pubdate": "Thu, 07 Nov 2024 13:00:00 +0200"
     },
     {
+        "title": "BESS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#BESS",
+        "pubdate": "Thu, 07 Nov 2024 17:00:00 +0200"
+    },
+    {
         "title": "Inter – Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Inter%20%E2%80%93%20Arsenal",
         "pubdate": "Thu, 07 Nov 2024 06:00:00 +0200"
@@ -20,19 +25,9 @@
         "pubdate": "Thu, 07 Nov 2024 16:00:00 +0200"
     },
     {
-        "title": "BESS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#BESS",
-        "pubdate": "Thu, 07 Nov 2024 17:00:00 +0200"
-    },
-    {
         "title": "FC Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#FC%20Barcelona",
         "pubdate": "Thu, 07 Nov 2024 08:00:00 +0200"
-    },
-    {
-        "title": "Kalle Rovanperä",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Kalle%20Rovanper%C3%A4",
-        "pubdate": "Thu, 07 Nov 2024 15:00:00 +0200"
     },
     {
         "title": "Monte",
@@ -40,14 +35,24 @@
         "pubdate": "Thu, 07 Nov 2024 17:00:00 +0200"
     },
     {
+        "title": "Kalle Rovanperä",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Kalle%20Rovanper%C3%A4",
+        "pubdate": "Thu, 07 Nov 2024 15:00:00 +0200"
+    },
+    {
         "title": "Interstellar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Interstellar",
         "pubdate": "Thu, 07 Nov 2024 17:00:00 +0200"
     },
     {
+        "title": "Yle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Yle",
+        "pubdate": "Wed, 06 Nov 2024 11:00:00 +0200"
+    },
+    {
         "title": "Bitcoin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bitcoin",
-        "pubdate": "Wed, 06 Nov 2024 11:00:00 +0200"
+        "pubdate": "Wed, 06 Nov 2024 10:00:00 +0200"
     },
     {
         "title": "Sierra Leone",
@@ -58,11 +63,6 @@
         "title": "Tesla stock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tesla%20stock",
         "pubdate": "Wed, 06 Nov 2024 08:00:00 +0200"
-    },
-    {
-        "title": "Bitcoin price",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bitcoin%20price",
-        "pubdate": "Wed, 06 Nov 2024 10:00:00 +0200"
     },
     {
         "title": "Joe Biden",

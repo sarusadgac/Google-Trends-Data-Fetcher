@@ -10,6 +10,11 @@
         "pubdate": "Thu, 07 Nov 2024 00:00:00 +0800"
     },
     {
+        "title": "Dow Jones",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Dow%20Jones",
+        "pubdate": "Thu, 07 Nov 2024 08:00:00 +0800"
+    },
+    {
         "title": "Aston Villa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Aston%20Villa",
         "pubdate": "Thu, 07 Nov 2024 04:00:00 +0800"
@@ -28,11 +33,6 @@
         "title": "Lion City Sailors",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Lion%20City%20Sailors",
         "pubdate": "Thu, 07 Nov 2024 22:00:00 +0800"
-    },
-    {
-        "title": "Aupen bag",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Aupen%20bag",
-        "pubdate": "Thu, 07 Nov 2024 09:00:00 +0800"
     },
     {
         "title": "Max Maeder",
@@ -55,11 +55,6 @@
         "pubdate": "Thu, 07 Nov 2024 00:00:00 +0800"
     },
     {
-        "title": "Us House elections",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Us%20House%20elections",
-        "pubdate": "Thu, 07 Nov 2024 09:00:00 +0800"
-    },
-    {
         "title": "Fomc",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Fomc",
         "pubdate": "Thu, 07 Nov 2024 19:00:00 +0800"
@@ -70,13 +65,13 @@
         "pubdate": "Thu, 07 Nov 2024 16:00:00 +0800"
     },
     {
-        "title": "The Guardian",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#The%20Guardian",
+        "title": "Theguardian",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Theguardian",
         "pubdate": "Thu, 07 Nov 2024 00:00:00 +0800"
     },
     {
-        "title": "Us Election 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Us%20Election%202024",
+        "title": "US election 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#US%20election%202024",
         "pubdate": "Wed, 06 Nov 2024 06:00:00 +0800"
     },
     {
@@ -95,8 +90,13 @@
         "pubdate": "Wed, 06 Nov 2024 14:00:00 +0800"
     },
     {
-        "title": "DJT",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#DJT",
-        "pubdate": "Wed, 06 Nov 2024 12:00:00 +0800"
+        "title": "Bitcoin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bitcoin",
+        "pubdate": "Wed, 06 Nov 2024 15:00:00 +0800"
+    },
+    {
+        "title": "JD Vance",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#JD%20Vance",
+        "pubdate": "Wed, 06 Nov 2024 14:00:00 +0800"
     }
 ]
