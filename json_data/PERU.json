@@ -1,18 +1,23 @@
 [
     {
-        "title": "Club Brujas  Aston Villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Club%20Brujas%20%20Aston%20Villa",
-        "pubdate": "Wed, 06 Nov 2024 08:00:00 -0500"
-    },
-    {
         "title": "Bayern  Benfica",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bayern%20%20Benfica",
         "pubdate": "Wed, 06 Nov 2024 15:00:00 -0500"
     },
     {
+        "title": "Club Brujas  Aston Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Club%20Brujas%20%20Aston%20Villa",
+        "pubdate": "Wed, 06 Nov 2024 08:00:00 -0500"
+    },
+    {
         "title": "Inter - Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Inter%20-%20Arsenal",
         "pubdate": "Wed, 06 Nov 2024 15:00:00 -0500"
+    },
+    {
+        "title": "Boca Juniors  Godoy Cruz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Boca%20Juniors%20%20Godoy%20Cruz",
+        "pubdate": "Wed, 06 Nov 2024 18:00:00 -0500"
     },
     {
         "title": "Stuttgart  Atalanta",
@@ -25,19 +30,29 @@
         "pubdate": "Wed, 06 Nov 2024 16:00:00 -0500"
     },
     {
-        "title": "Besiktas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Besiktas",
-        "pubdate": "Wed, 06 Nov 2024 13:00:00 -0500"
-    },
-    {
         "title": "Feyenoord",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Feyenoord",
         "pubdate": "Wed, 06 Nov 2024 16:00:00 -0500"
     },
     {
+        "title": "Besiktas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Besiktas",
+        "pubdate": "Wed, 06 Nov 2024 13:00:00 -0500"
+    },
+    {
         "title": "Barracas Central  Racing",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Barracas%20Central%20%20Racing",
         "pubdate": "Wed, 06 Nov 2024 15:00:00 -0500"
+    },
+    {
+        "title": "Banfield  Belgrano",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Banfield%20%20Belgrano",
+        "pubdate": "Wed, 06 Nov 2024 17:00:00 -0500"
+    },
+    {
+        "title": "Bayer vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bayer%20vs",
+        "pubdate": "Wed, 06 Nov 2024 17:00:00 -0500"
     },
     {
         "title": "Liga MX",
@@ -50,18 +65,8 @@
         "pubdate": "Wed, 06 Nov 2024 14:00:00 -0500"
     },
     {
-        "title": "Bayer vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bayer%20vs",
-        "pubdate": "Wed, 06 Nov 2024 17:00:00 -0500"
-    },
-    {
-        "title": "Banfield  Belgrano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Banfield%20%20Belgrano",
-        "pubdate": "Wed, 06 Nov 2024 17:00:00 -0500"
-    },
-    {
-        "title": "AC Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#AC%20Milan",
+        "title": "Papa Giorgio Jordi Wild",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Papa%20Giorgio%20Jordi%20Wild",
         "pubdate": "Wed, 06 Nov 2024 15:00:00 -0500"
     },
     {
@@ -80,6 +85,11 @@
         "pubdate": "Wed, 06 Nov 2024 16:00:00 -0500"
     },
     {
+        "title": "Gerard Martín",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Gerard%20Mart%C3%ADn",
+        "pubdate": "Wed, 06 Nov 2024 18:00:00 -0500"
+    },
+    {
         "title": "Real Madrid  Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Real%20Madrid%20%20Milan",
         "pubdate": "Tue, 05 Nov 2024 12:00:00 -0500"
@@ -88,15 +98,5 @@
         "title": "Temblor HOY",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Temblor%20HOY",
         "pubdate": "Tue, 05 Nov 2024 15:00:00 -0500"
-    },
-    {
-        "title": "Elecciones USA 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Elecciones%20USA%202024",
-        "pubdate": "Tue, 05 Nov 2024 10:00:00 -0500"
-    },
-    {
-        "title": "Sporting Lisboa  Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Sporting%20Lisboa%20%20Manchester%20City",
-        "pubdate": "Tue, 05 Nov 2024 14:00:00 -0500"
     }
 ]
