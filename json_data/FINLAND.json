@@ -35,6 +35,11 @@
         "pubdate": "Thu, 07 Nov 2024 06:00:00 +0200"
     },
     {
+        "title": "Galatasaray – Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Galatasaray%20%E2%80%93%20Tottenham",
+        "pubdate": "Thu, 07 Nov 2024 22:00:00 +0200"
+    },
+    {
         "title": "FC Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#FC%20Barcelona",
         "pubdate": "Thu, 07 Nov 2024 08:00:00 +0200"
@@ -93,10 +98,5 @@
         "title": "NBC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#NBC",
         "pubdate": "Wed, 06 Nov 2024 05:00:00 +0200"
-    },
-    {
-        "title": "Nytimes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Nytimes",
-        "pubdate": "Wed, 06 Nov 2024 06:00:00 +0200"
     }
 ]

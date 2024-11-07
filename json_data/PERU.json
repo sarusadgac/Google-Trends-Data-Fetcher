@@ -5,6 +5,11 @@
         "pubdate": "Thu, 07 Nov 2024 08:00:00 -0500"
     },
     {
+        "title": "Europa League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Europa%20League",
+        "pubdate": "Thu, 07 Nov 2024 15:00:00 -0500"
+    },
+    {
         "title": "Galatasaray - Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Galatasaray%20-%20Tottenham",
         "pubdate": "Thu, 07 Nov 2024 13:00:00 -0500"
@@ -20,13 +25,28 @@
         "pubdate": "Thu, 07 Nov 2024 00:00:00 -0500"
     },
     {
+        "title": "Manchester United - PAOK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Manchester%20United%20-%20PAOK",
+        "pubdate": "Thu, 07 Nov 2024 15:00:00 -0500"
+    },
+    {
+        "title": "Ludogorets - Athletic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Ludogorets%20-%20Athletic",
+        "pubdate": "Thu, 07 Nov 2024 14:00:00 -0500"
+    },
+    {
+        "title": "Chelsea  Noah",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Chelsea%20%20Noah",
+        "pubdate": "Thu, 07 Nov 2024 15:00:00 -0500"
+    },
+    {
         "title": "Union Saint-Gilloise  Roma",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Union%20Saint-Gilloise%20%20Roma",
         "pubdate": "Thu, 07 Nov 2024 14:00:00 -0500"
     },
     {
-        "title": "UEFA Europa League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#UEFA%20Europa%20League",
+        "title": "UEFA europa League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#UEFA%20europa%20League",
         "pubdate": "Thu, 07 Nov 2024 14:00:00 -0500"
     },
     {
@@ -35,19 +55,24 @@
         "pubdate": "Thu, 07 Nov 2024 14:00:00 -0500"
     },
     {
+        "title": "Ajax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Ajax",
+        "pubdate": "Thu, 07 Nov 2024 15:00:00 -0500"
+    },
+    {
         "title": "Bayern  Benfica",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bayern%20%20Benfica",
         "pubdate": "Wed, 06 Nov 2024 15:00:00 -0500"
     },
     {
-        "title": "Club Brujas  Aston Villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Club%20Brujas%20%20Aston%20Villa",
-        "pubdate": "Wed, 06 Nov 2024 08:00:00 -0500"
-    },
-    {
         "title": "Boca Juniors  Godoy Cruz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Boca%20Juniors%20%20Godoy%20Cruz",
         "pubdate": "Wed, 06 Nov 2024 18:00:00 -0500"
+    },
+    {
+        "title": "Club Brujas  Aston Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Club%20Brujas%20%20Aston%20Villa",
+        "pubdate": "Wed, 06 Nov 2024 08:00:00 -0500"
     },
     {
         "title": "Inter - Arsenal",
@@ -73,30 +98,5 @@
         "title": "Stuttgart  Atalanta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Stuttgart%20%20Atalanta",
         "pubdate": "Wed, 06 Nov 2024 16:00:00 -0500"
-    },
-    {
-        "title": "Feyenoord",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Feyenoord",
-        "pubdate": "Wed, 06 Nov 2024 16:00:00 -0500"
-    },
-    {
-        "title": "Besiktas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Besiktas",
-        "pubdate": "Wed, 06 Nov 2024 13:00:00 -0500"
-    },
-    {
-        "title": "Banfield  Belgrano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Banfield%20%20Belgrano",
-        "pubdate": "Wed, 06 Nov 2024 17:00:00 -0500"
-    },
-    {
-        "title": "Barracas Central  Racing",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Barracas%20Central%20%20Racing",
-        "pubdate": "Wed, 06 Nov 2024 15:00:00 -0500"
-    },
-    {
-        "title": "Fútbol club Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#F%C3%BAtbol%20club%20Barcelona",
-        "pubdate": "Wed, 06 Nov 2024 15:00:00 -0500"
     }
 ]

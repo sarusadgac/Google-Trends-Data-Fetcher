@@ -5,6 +5,16 @@
         "pubdate": "Thu, 07 Nov 2024 00:00:00 +0100"
     },
     {
+        "title": "Betis - Celje",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Betis%20-%20Celje",
+        "pubdate": "Thu, 07 Nov 2024 14:00:00 +0100"
+    },
+    {
+        "title": "Viktoria plzeň  - Real Sociedad",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Viktoria%20plze%C5%88%20%20-%20Real%20Sociedad",
+        "pubdate": "Thu, 07 Nov 2024 21:00:00 +0100"
+    },
+    {
         "title": "Esperanza Aguirre",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Esperanza%20Aguirre",
         "pubdate": "Thu, 07 Nov 2024 14:00:00 +0100"
@@ -20,19 +30,14 @@
         "pubdate": "Thu, 07 Nov 2024 16:00:00 +0100"
     },
     {
-        "title": "Detective toure",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Detective%20toure",
-        "pubdate": "Thu, 07 Nov 2024 00:00:00 +0100"
-    },
-    {
         "title": "Galatasaray - Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Galatasaray%20-%20Tottenham",
         "pubdate": "Thu, 07 Nov 2024 20:00:00 +0100"
     },
     {
-        "title": "Conference League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Conference%20League",
-        "pubdate": "Thu, 07 Nov 2024 14:00:00 +0100"
+        "title": "Detective toure",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Detective%20toure",
+        "pubdate": "Thu, 07 Nov 2024 00:00:00 +0100"
     },
     {
         "title": "Alemania",
@@ -50,9 +55,14 @@
         "pubdate": "Thu, 07 Nov 2024 11:00:00 +0100"
     },
     {
-        "title": "Boca Juniors  Godoy Cruz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Boca%20Juniors%20%20Godoy%20Cruz",
-        "pubdate": "Thu, 07 Nov 2024 07:00:00 +0100"
+        "title": "Betis hoy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Betis%20hoy",
+        "pubdate": "Thu, 07 Nov 2024 20:00:00 +0100"
+    },
+    {
+        "title": "Los Williams",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Los%20Williams",
+        "pubdate": "Thu, 07 Nov 2024 00:00:00 +0100"
     },
     {
         "title": "Rosalia",
@@ -60,9 +70,14 @@
         "pubdate": "Thu, 07 Nov 2024 18:00:00 +0100"
     },
     {
-        "title": "Salome Pradas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Salome%20Pradas",
+        "title": "Borderlands",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Borderlands",
         "pubdate": "Thu, 07 Nov 2024 20:00:00 +0100"
+    },
+    {
+        "title": "Boca Juniors  Godoy Cruz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Boca%20Juniors%20%20Godoy%20Cruz",
+        "pubdate": "Thu, 07 Nov 2024 07:00:00 +0100"
     },
     {
         "title": "Iñigo Martínez",
@@ -75,28 +90,13 @@
         "pubdate": "Thu, 07 Nov 2024 00:00:00 +0100"
     },
     {
-        "title": "Betis hoy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Betis%20hoy",
-        "pubdate": "Thu, 07 Nov 2024 20:00:00 +0100"
-    },
-    {
         "title": "Siro López",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Siro%20L%C3%B3pez",
         "pubdate": "Thu, 07 Nov 2024 18:00:00 +0100"
     },
     {
-        "title": "Borderlands",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Borderlands",
-        "pubdate": "Thu, 07 Nov 2024 20:00:00 +0100"
-    },
-    {
         "title": "Luis Zahera",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Luis%20Zahera",
         "pubdate": "Thu, 07 Nov 2024 16:00:00 +0100"
-    },
-    {
-        "title": "Candela marquez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Candela%20marquez",
-        "pubdate": "Thu, 07 Nov 2024 11:00:00 +0100"
     }
 ]

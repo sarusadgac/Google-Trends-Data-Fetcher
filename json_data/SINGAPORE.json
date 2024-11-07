@@ -5,11 +5,6 @@
         "pubdate": "Fri, 08 Nov 2024 02:00:00 +0800"
     },
     {
-        "title": "Fed meeting",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Fed%20meeting",
-        "pubdate": "Fri, 08 Nov 2024 03:00:00 +0800"
-    },
-    {
         "title": "Champions League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Champions%20League",
         "pubdate": "Thu, 07 Nov 2024 02:00:00 +0800"
@@ -25,6 +20,11 @@
         "pubdate": "Thu, 07 Nov 2024 08:00:00 +0800"
     },
     {
+        "title": "FOMC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#FOMC",
+        "pubdate": "Thu, 07 Nov 2024 19:00:00 +0800"
+    },
+    {
         "title": "Aston Villa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Aston%20Villa",
         "pubdate": "Thu, 07 Nov 2024 04:00:00 +0800"
@@ -33,6 +33,11 @@
         "title": "Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Barcelona",
         "pubdate": "Thu, 07 Nov 2024 14:00:00 +0800"
+    },
+    {
+        "title": "Red One",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Red%20One",
+        "pubdate": "Thu, 07 Nov 2024 05:00:00 +0800"
     },
     {
         "title": "Lion City Sailors",
@@ -58,6 +63,11 @@
         "title": "Nvidia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Nvidia",
         "pubdate": "Thu, 07 Nov 2024 00:00:00 +0800"
+    },
+    {
+        "title": "Us House Elections",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Us%20House%20Elections",
+        "pubdate": "Thu, 07 Nov 2024 09:00:00 +0800"
     },
     {
         "title": "U.S. House",
@@ -88,15 +98,5 @@
         "title": "Kamala Harris",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Kamala%20Harris",
         "pubdate": "Wed, 06 Nov 2024 01:00:00 +0800"
-    },
-    {
-        "title": "Us election",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Us%20election",
-        "pubdate": "Wed, 06 Nov 2024 11:00:00 +0800"
-    },
-    {
-        "title": "Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Trump",
-        "pubdate": "Wed, 06 Nov 2024 08:00:00 +0800"
     }
 ]
