@@ -10,14 +10,19 @@
         "pubdate": "Thu, 07 Nov 2024 00:00:00 +0000"
     },
     {
+        "title": "Cubarsi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Cubarsi",
+        "pubdate": "Thu, 07 Nov 2024 01:00:00 +0000"
+    },
+    {
         "title": "Alemanha",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Alemanha",
         "pubdate": "Thu, 07 Nov 2024 00:00:00 +0000"
     },
     {
-        "title": "Cubarsi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Cubarsi",
-        "pubdate": "Thu, 07 Nov 2024 01:00:00 +0000"
+        "title": "Sabrina Sato",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sabrina%20Sato",
+        "pubdate": "Thu, 07 Nov 2024 00:00:00 +0000"
     },
     {
         "title": "Arcane",
@@ -93,10 +98,5 @@
         "title": "Polymarket",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Polymarket",
         "pubdate": "Wed, 06 Nov 2024 04:00:00 +0000"
-    },
-    {
-        "title": "News",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#News",
-        "pubdate": "Wed, 06 Nov 2024 08:00:00 +0000"
     }
 ]

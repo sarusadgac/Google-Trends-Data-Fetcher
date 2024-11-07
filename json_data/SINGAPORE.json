@@ -30,14 +30,14 @@
         "pubdate": "Thu, 07 Nov 2024 02:00:00 +0800"
     },
     {
-        "title": "Ted Cruz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Ted%20Cruz",
-        "pubdate": "Thu, 07 Nov 2024 00:00:00 +0800"
-    },
-    {
         "title": "The guardian",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#The%20guardian",
         "pubdate": "Thu, 07 Nov 2024 00:00:00 +0800"
+    },
+    {
+        "title": "Us election",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Us%20election",
+        "pubdate": "Wed, 06 Nov 2024 06:00:00 +0800"
     },
     {
         "title": "US election 2024",
@@ -45,19 +45,19 @@
         "pubdate": "Wed, 06 Nov 2024 11:00:00 +0800"
     },
     {
-        "title": "Kamala Harris",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Kamala%20Harris",
+        "title": "US presidential election 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#US%20presidential%20election%202024",
         "pubdate": "Wed, 06 Nov 2024 01:00:00 +0800"
-    },
-    {
-        "title": "Bitcoin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bitcoin",
-        "pubdate": "Wed, 06 Nov 2024 08:00:00 +0800"
     },
     {
         "title": "CNA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#CNA",
         "pubdate": "Wed, 06 Nov 2024 17:00:00 +0800"
+    },
+    {
+        "title": "Bitcoin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bitcoin",
+        "pubdate": "Wed, 06 Nov 2024 08:00:00 +0800"
     },
     {
         "title": "Tesla stock",
@@ -75,9 +75,9 @@
         "pubdate": "Wed, 06 Nov 2024 14:00:00 +0800"
     },
     {
-        "title": "Pennsylvania",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Pennsylvania",
-        "pubdate": "Wed, 06 Nov 2024 01:00:00 +0800"
+        "title": "New York Times",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#New%20York%20Times",
+        "pubdate": "Wed, 06 Nov 2024 07:00:00 +0800"
     },
     {
         "title": "JD Vance",

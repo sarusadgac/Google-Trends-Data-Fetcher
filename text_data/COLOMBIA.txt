@@ -1,13 +1,13 @@
+Deportivo Cali  Jaguares
 Club Brujas  Aston Villa
 Boyacá Chicó  Bucaramanga
 Kamala Harris
-Deportivo Cali  Jaguares
 Medellín  Patriotas
 Tolima  Envigado
 Bayern  Benfica
 Inter - Arsenal
-Alianza  Águilas Doradas
 Instituto  River Plate
+Alianza  Águilas Doradas
 Barracas Central  Racing
 Boca Juniors  Godoy Cruz
 Stuttgart  Atalanta
@@ -16,5 +16,5 @@ Bernie Moreno
 Europa League
 Elon Musk
 Bitcoin
+Cali
 Melania Trump
-Feyenoord
