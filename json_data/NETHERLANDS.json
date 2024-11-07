@@ -1,8 +1,8 @@
 [
     {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Barcelona",
-        "pubdate": "Thu, 07 Nov 2024 01:00:00 +0100"
+        "title": "Jahanbakhsh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jahanbakhsh",
+        "pubdate": "Thu, 07 Nov 2024 03:00:00 +0100"
     },
     {
         "title": "Champions League",
@@ -18,6 +18,11 @@
         "title": "Nieuws",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nieuws",
         "pubdate": "Wed, 06 Nov 2024 13:00:00 +0100"
+    },
+    {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Barcelona",
+        "pubdate": "Wed, 06 Nov 2024 22:00:00 +0100"
     },
     {
         "title": "The Body Shop",
@@ -93,10 +98,5 @@
         "title": "NEC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NEC",
         "pubdate": "Sun, 03 Nov 2024 14:00:00 +0100"
-    },
-    {
-        "title": "Fcgroningen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Fcgroningen",
-        "pubdate": "Sun, 03 Nov 2024 18:00:00 +0100"
     }
 ]
