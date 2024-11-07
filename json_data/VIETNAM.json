@@ -15,11 +15,6 @@
         "pubdate": "Thu, 07 Nov 2024 03:00:00 +0700"
     },
     {
-        "title": "Giá đô hôm nay",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Gi%C3%A1%20%C4%91%C3%B4%20h%C3%B4m%20nay",
-        "pubdate": "Thu, 07 Nov 2024 08:00:00 +0700"
-    },
-    {
         "title": "Bão Yinxing",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#B%C3%A3o%20Yinxing",
         "pubdate": "Thu, 07 Nov 2024 09:00:00 +0700"
@@ -98,5 +93,10 @@
         "title": "BTC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#BTC",
         "pubdate": "Wed, 06 Nov 2024 12:00:00 +0700"
+    },
+    {
+        "title": "Real vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Real%20vs",
+        "pubdate": "Wed, 06 Nov 2024 02:00:00 +0700"
     }
 ]

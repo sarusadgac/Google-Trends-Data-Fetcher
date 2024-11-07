@@ -60,11 +60,6 @@
         "pubdate": "Wed, 06 Nov 2024 15:00:00 -0500"
     },
     {
-        "title": "Bayer vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bayer%20vs",
-        "pubdate": "Wed, 06 Nov 2024 17:00:00 -0500"
-    },
-    {
         "title": "Liga MX",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Liga%20MX",
         "pubdate": "Wed, 06 Nov 2024 00:00:00 -0500"
@@ -98,5 +93,10 @@
         "title": "Bayer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bayer",
         "pubdate": "Wed, 06 Nov 2024 18:00:00 -0500"
+    },
+    {
+        "title": "Raphinha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Raphinha",
+        "pubdate": "Wed, 06 Nov 2024 23:00:00 -0500"
     }
 ]

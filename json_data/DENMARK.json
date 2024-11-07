@@ -5,6 +5,11 @@
         "pubdate": "Thu, 07 Nov 2024 00:00:00 +0100"
     },
     {
+        "title": "Election",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Election",
+        "pubdate": "Thu, 07 Nov 2024 00:00:00 +0100"
+    },
+    {
         "title": "Donald Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Donald%20Trump",
         "pubdate": "Wed, 06 Nov 2024 07:00:00 +0100"
@@ -22,7 +27,7 @@
     {
         "title": "Bitcoin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bitcoin",
-        "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
+        "pubdate": "Wed, 06 Nov 2024 01:00:00 +0100"
     },
     {
         "title": "Novo Nordisk",
@@ -47,7 +52,7 @@
     {
         "title": "American election",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#American%20election",
-        "pubdate": "Wed, 06 Nov 2024 15:00:00 +0100"
+        "pubdate": "Wed, 06 Nov 2024 08:00:00 +0100"
     },
     {
         "title": "Barcelona",
@@ -75,6 +80,11 @@
         "pubdate": "Wed, 06 Nov 2024 18:00:00 +0100"
     },
     {
+        "title": "Barron Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Barron%20Trump",
+        "pubdate": "Wed, 06 Nov 2024 10:00:00 +0100"
+    },
+    {
         "title": "DJT stock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#DJT%20stock",
         "pubdate": "Wed, 06 Nov 2024 00:00:00 +0100"
@@ -85,18 +95,8 @@
         "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
     },
     {
-        "title": "House of Representatives",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#House%20of%20Representatives",
-        "pubdate": "Wed, 06 Nov 2024 07:00:00 +0100"
-    },
-    {
         "title": "Bernie Sanders",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bernie%20Sanders",
         "pubdate": "Wed, 06 Nov 2024 06:00:00 +0100"
-    },
-    {
-        "title": "Dana White",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Dana%20White",
-        "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
     }
 ]
