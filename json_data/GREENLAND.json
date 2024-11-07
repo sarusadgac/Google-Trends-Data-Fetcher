@@ -1,23 +1,8 @@
 [
     {
-        "title": "Election",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Election",
-        "pubdate": "Wed, 06 Nov 2024 07:00:00 -0800"
-    },
-    {
-        "title": "Lindner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Lindner",
-        "pubdate": "Wed, 06 Nov 2024 18:00:00 +0100"
-    },
-    {
-        "title": "7-11",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#7-11",
-        "pubdate": "Thu, 07 Nov 2024 00:00:00 +0800"
-    },
-    {
-        "title": "Luton Town vs Cardiff City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Luton%20Town%20vs%20Cardiff%20City",
-        "pubdate": "Thu, 07 Nov 2024 00:00:00 +0000"
+        "title": "7 ноября",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#7%20%D0%BD%D0%BE%D1%8F%D0%B1%D1%80%D1%8F",
+        "pubdate": "Thu, 07 Nov 2024 07:00:00 +0300"
     },
     {
         "title": "立冬",
@@ -25,49 +10,34 @@
         "pubdate": "Thu, 07 Nov 2024 01:00:00 +0900"
     },
     {
-        "title": "Crvena Zvezda vs Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Crvena%20Zvezda%20vs%20Barcelona",
-        "pubdate": "Thu, 07 Nov 2024 01:30:00 +0530"
-    },
-    {
-        "title": "ПСЖ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%9F%D0%A1%D0%96",
-        "pubdate": "Thu, 07 Nov 2024 06:00:00 +0300"
-    },
-    {
         "title": "Stade Brestois",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Stade%20Brestois",
         "pubdate": "Wed, 06 Nov 2024 10:00:00 +0100"
     },
     {
-        "title": "Jill Stein",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jill%20Stein",
-        "pubdate": "Thu, 07 Nov 2024 00:00:00 +0100"
+        "title": "Crvena Zvezda vs Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Crvena%20Zvezda%20vs%20Barcelona",
+        "pubdate": "Thu, 07 Nov 2024 01:30:00 +0530"
     },
     {
-        "title": "التعاون",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86",
-        "pubdate": "Thu, 07 Nov 2024 00:00:00 +0300"
+        "title": "Lindner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Lindner",
+        "pubdate": "Wed, 06 Nov 2024 18:00:00 +0100"
     },
     {
-        "title": "PSG vs atlético Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#PSG%20vs%20atl%C3%A9tico%20Madrid",
-        "pubdate": "Thu, 07 Nov 2024 05:00:00 +0800"
+        "title": "Luton Town vs Cardiff City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Luton%20Town%20vs%20Cardiff%20City",
+        "pubdate": "Thu, 07 Nov 2024 00:00:00 +0000"
     },
     {
-        "title": "American election",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#American%20election",
-        "pubdate": "Wed, 06 Nov 2024 08:00:00 -0500"
+        "title": "Stock market today",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Stock%20market%20today",
+        "pubdate": "Wed, 06 Nov 2024 00:00:00 -0800"
     },
     {
-        "title": "Crvena zvezda–barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Crvena%20zvezda%E2%80%93barcelona",
-        "pubdate": "Wed, 06 Nov 2024 21:00:00 +0100"
-    },
-    {
-        "title": "Jahanbakhsh",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jahanbakhsh",
-        "pubdate": "Thu, 07 Nov 2024 03:00:00 +0100"
+        "title": "7-11",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#7-11",
+        "pubdate": "Thu, 07 Nov 2024 00:00:00 +0800"
     },
     {
         "title": "Necaxa  Atl San Luis",
@@ -75,14 +45,44 @@
         "pubdate": "Wed, 06 Nov 2024 19:00:00 -0600"
     },
     {
-        "title": "Primera División",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Primera%20Divisi%C3%B3n",
-        "pubdate": "Thu, 07 Nov 2024 00:00:00 -0300"
+        "title": "Forint euro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Forint%20euro",
+        "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
     },
     {
-        "title": "Cruzeiro  Flamengo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Cruzeiro%20%20Flamengo",
-        "pubdate": "Thu, 07 Nov 2024 00:00:00 +0000"
+        "title": "PSG vs Atlético Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#PSG%20vs%20Atl%C3%A9tico%20Madrid",
+        "pubdate": "Thu, 07 Nov 2024 05:00:00 +0800"
+    },
+    {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Barcelona",
+        "pubdate": "Thu, 07 Nov 2024 01:00:00 +0100"
+    },
+    {
+        "title": "Conference League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Conference%20League",
+        "pubdate": "Thu, 07 Nov 2024 00:00:00 -0500"
+    },
+    {
+        "title": "Ukraine",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ukraine",
+        "pubdate": "Thu, 07 Nov 2024 00:00:00 +0100"
+    },
+    {
+        "title": "Atv canlı izle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Atv%20canl%C4%B1%20izle",
+        "pubdate": "Thu, 07 Nov 2024 00:00:00 +0300"
+    },
+    {
+        "title": "Jill Stein",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jill%20Stein",
+        "pubdate": "Thu, 07 Nov 2024 00:00:00 +0100"
+    },
+    {
+        "title": "Talleres",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Talleres",
+        "pubdate": "Thu, 07 Nov 2024 00:00:00 -0300"
     },
     {
         "title": "ميلانيا ترامب",
@@ -90,13 +90,13 @@
         "pubdate": "Thu, 07 Nov 2024 01:00:00 +0200"
     },
     {
-        "title": "Bayern  Benfica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bayern%20%20Benfica",
-        "pubdate": "Wed, 06 Nov 2024 15:00:00 -0500"
+        "title": "Jahanbakhsh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jahanbakhsh",
+        "pubdate": "Thu, 07 Nov 2024 03:00:00 +0100"
     },
     {
-        "title": "윤석열",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9C%A4%EC%84%9D%EC%97%B4",
-        "pubdate": "Thu, 07 Nov 2024 11:00:00 +0900"
+        "title": "Stuttgart – Atalanta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Stuttgart%20%E2%80%93%20Atalanta",
+        "pubdate": "Thu, 07 Nov 2024 00:00:00 +0100"
     }
 ]
