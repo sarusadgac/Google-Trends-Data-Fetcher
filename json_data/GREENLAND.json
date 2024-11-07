@@ -1,8 +1,13 @@
 [
     {
-        "title": "7-11",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#7-11",
-        "pubdate": "Thu, 07 Nov 2024 00:00:00 +0800"
+        "title": "Election",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Election",
+        "pubdate": "Wed, 06 Nov 2024 07:00:00 -0800"
+    },
+    {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Barcelona",
+        "pubdate": "Thu, 07 Nov 2024 11:00:00 +0000"
     },
     {
         "title": "レウォトビ火山",
@@ -15,9 +20,9 @@
         "pubdate": "Thu, 07 Nov 2024 00:00:00 +0100"
     },
     {
-        "title": "Wissing",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wissing",
-        "pubdate": "Thu, 07 Nov 2024 08:00:00 +0100"
+        "title": "IND A vs AUS A",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#IND%20A%20vs%20AUS%20A",
+        "pubdate": "Thu, 07 Nov 2024 08:30:00 +0530"
     },
     {
         "title": "Барселона",
@@ -25,64 +30,34 @@
         "pubdate": "Thu, 07 Nov 2024 00:00:00 +0300"
     },
     {
-        "title": "IND A vs AUS A",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#IND%20A%20vs%20AUS%20A",
-        "pubdate": "Thu, 07 Nov 2024 08:30:00 +0530"
+        "title": "7-11",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#7-11",
+        "pubdate": "Thu, 07 Nov 2024 00:00:00 +0800"
     },
     {
-        "title": "Election",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Election",
-        "pubdate": "Wed, 06 Nov 2024 07:00:00 -0800"
+        "title": "Wissing",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wissing",
+        "pubdate": "Thu, 07 Nov 2024 08:00:00 +0100"
     },
     {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Barcelona",
-        "pubdate": "Thu, 07 Nov 2024 11:00:00 +0000"
+        "title": "Stranger Things",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Stranger%20Things",
+        "pubdate": "Thu, 07 Nov 2024 08:00:00 +0100"
     },
     {
-        "title": "Monte",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Monte",
-        "pubdate": "Thu, 07 Nov 2024 07:00:00 +0000"
+        "title": "Cotação dolar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cota%C3%A7%C3%A3o%20dolar",
+        "pubdate": "Wed, 06 Nov 2024 08:00:00 -0500"
     },
     {
-        "title": "England vs West Indies",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#England%20vs%20West%20Indies",
-        "pubdate": "Thu, 07 Nov 2024 09:00:00 +1300"
-    },
-    {
-        "title": "Talleres",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Talleres",
-        "pubdate": "Thu, 07 Nov 2024 00:00:00 -0300"
-    },
-    {
-        "title": "Cubarsi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Cubarsi",
-        "pubdate": "Thu, 07 Nov 2024 00:00:00 +0100"
-    },
-    {
-        "title": "John Lennon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#John%20Lennon",
-        "pubdate": "Thu, 07 Nov 2024 10:00:00 +0100"
-    },
-    {
-        "title": "Conference League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Conference%20League",
+        "title": "Oilers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Oilers",
         "pubdate": "Thu, 07 Nov 2024 00:00:00 -0500"
     },
     {
-        "title": "Subjekt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Subjekt",
-        "pubdate": "Thu, 07 Nov 2024 11:00:00 +0100"
-    },
-    {
-        "title": "Joe Biden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Joe%20Biden",
-        "pubdate": "Thu, 07 Nov 2024 09:00:00 +0100"
-    },
-    {
-        "title": "Cruzeiro  Flamengo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Cruzeiro%20%20Flamengo",
-        "pubdate": "Thu, 07 Nov 2024 00:00:00 +0000"
+        "title": "Bayern vs Benfica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Bayern%20vs%20Benfica",
+        "pubdate": "Thu, 07 Nov 2024 03:00:00 +0700"
     },
     {
         "title": "التعاون",
@@ -90,13 +65,38 @@
         "pubdate": "Thu, 07 Nov 2024 00:00:00 +0300"
     },
     {
+        "title": "Cruzeiro  Flamengo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Cruzeiro%20%20Flamengo",
+        "pubdate": "Thu, 07 Nov 2024 00:00:00 +0000"
+    },
+    {
+        "title": "FCSB - Midtjylland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#FCSB%20-%20Midtjylland",
+        "pubdate": "Thu, 07 Nov 2024 00:00:00 +0200"
+    },
+    {
+        "title": "Joe Biden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Joe%20Biden",
+        "pubdate": "Thu, 07 Nov 2024 09:00:00 +0100"
+    },
+    {
         "title": "Donald Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Donald%20Trump",
         "pubdate": "Thu, 07 Nov 2024 11:00:00 +0800"
     },
     {
-        "title": "윤석열",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9C%A4%EC%84%9D%EC%97%B4",
-        "pubdate": "Thu, 07 Nov 2024 11:00:00 +0900"
+        "title": "ทนายตั้ม",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TH#%E0%B8%97%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%A1",
+        "pubdate": "Thu, 07 Nov 2024 17:00:00 +0700"
+    },
+    {
+        "title": "Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Trump",
+        "pubdate": "Thu, 07 Nov 2024 09:00:00 +0300"
+    },
+    {
+        "title": "Sao Đỏ Belgrade đấu với Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Sao%20%C4%90%E1%BB%8F%20Belgrade%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Barcelona",
+        "pubdate": "Thu, 07 Nov 2024 03:00:00 +0700"
     }
 ]
