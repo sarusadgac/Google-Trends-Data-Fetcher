@@ -10,9 +10,29 @@
         "pubdate": "Thu, 07 Nov 2024 13:00:00 -0500"
     },
     {
+        "title": "Inter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Inter",
+        "pubdate": "Thu, 07 Nov 2024 14:00:00 -0500"
+    },
+    {
         "title": "Conference League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Conference%20League",
         "pubdate": "Thu, 07 Nov 2024 00:00:00 -0500"
+    },
+    {
+        "title": "Union Saint-Gilloise  Roma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Union%20Saint-Gilloise%20%20Roma",
+        "pubdate": "Thu, 07 Nov 2024 14:00:00 -0500"
+    },
+    {
+        "title": "UEFA Europa League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#UEFA%20Europa%20League",
+        "pubdate": "Thu, 07 Nov 2024 14:00:00 -0500"
+    },
+    {
+        "title": "J.D. Vance",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#J.D.%20Vance",
+        "pubdate": "Thu, 07 Nov 2024 14:00:00 -0500"
     },
     {
         "title": "Bayern  Benfica",
@@ -33,6 +53,11 @@
         "title": "Inter - Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Inter%20-%20Arsenal",
         "pubdate": "Wed, 06 Nov 2024 15:00:00 -0500"
+    },
+    {
+        "title": "Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bayern",
+        "pubdate": "Wed, 06 Nov 2024 17:00:00 -0500"
     },
     {
         "title": "Instituto River Plate",
@@ -70,33 +95,8 @@
         "pubdate": "Wed, 06 Nov 2024 15:00:00 -0500"
     },
     {
-        "title": "Stuttgart vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Stuttgart%20vs",
-        "pubdate": "Wed, 06 Nov 2024 17:00:00 -0500"
-    },
-    {
-        "title": "Liga MX",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Liga%20MX",
-        "pubdate": "Wed, 06 Nov 2024 00:00:00 -0500"
-    },
-    {
-        "title": "Boca Juniors vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Boca%20Juniors%20vs",
-        "pubdate": "Wed, 06 Nov 2024 20:00:00 -0500"
-    },
-    {
-        "title": "Corpac",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Corpac",
-        "pubdate": "Wed, 06 Nov 2024 16:00:00 -0500"
-    },
-    {
-        "title": "Shakhtar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Shakhtar",
-        "pubdate": "Wed, 06 Nov 2024 14:00:00 -0500"
-    },
-    {
-        "title": "Primera División",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Primera%20Divisi%C3%B3n",
-        "pubdate": "Wed, 06 Nov 2024 21:00:00 -0500"
+        "title": "Fútbol club Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#F%C3%BAtbol%20club%20Barcelona",
+        "pubdate": "Wed, 06 Nov 2024 15:00:00 -0500"
     }
 ]
