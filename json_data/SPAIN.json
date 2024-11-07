@@ -1,12 +1,12 @@
 [
     {
-        "title": "Detective toure",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Detective%20toure",
+        "title": "Cubarsi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Cubarsi",
         "pubdate": "Thu, 07 Nov 2024 00:00:00 +0100"
     },
     {
-        "title": "Pau Cubarsí",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Pau%20Cubars%C3%AD",
+        "title": "Detective toure",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Detective%20toure",
         "pubdate": "Thu, 07 Nov 2024 00:00:00 +0100"
     },
     {
@@ -23,6 +23,11 @@
         "title": "Ivanka Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ivanka%20Trump",
         "pubdate": "Thu, 07 Nov 2024 00:00:00 +0100"
+    },
+    {
+        "title": "Raphinha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Raphinha",
+        "pubdate": "Thu, 07 Nov 2024 01:00:00 +0100"
     },
     {
         "title": "Bitcoin",
@@ -70,6 +75,11 @@
         "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
     },
     {
+        "title": "Piratas del Caribe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Piratas%20del%20Caribe",
+        "pubdate": "Wed, 06 Nov 2024 12:00:00 +0100"
+    },
+    {
         "title": "Aston Villa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Aston%20Villa",
         "pubdate": "Wed, 06 Nov 2024 20:00:00 +0100"
@@ -80,11 +90,6 @@
         "pubdate": "Wed, 06 Nov 2024 00:00:00 +0100"
     },
     {
-        "title": "Piratas del Caribe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Piratas%20del%20Caribe",
-        "pubdate": "Wed, 06 Nov 2024 12:00:00 +0100"
-    },
-    {
         "title": "BBC News",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#BBC%20News",
         "pubdate": "Wed, 06 Nov 2024 11:00:00 +0100"
@@ -93,10 +98,5 @@
         "title": "Inter - Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Inter%20-%20Arsenal",
         "pubdate": "Wed, 06 Nov 2024 21:00:00 +0100"
-    },
-    {
-        "title": "La reina Camila",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#La%20reina%20Camila",
-        "pubdate": "Wed, 06 Nov 2024 14:00:00 +0100"
     }
 ]
