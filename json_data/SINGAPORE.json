@@ -75,6 +75,11 @@
         "pubdate": "Wed, 06 Nov 2024 01:00:00 +0800"
     },
     {
+        "title": "Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Trump",
+        "pubdate": "Wed, 06 Nov 2024 08:00:00 +0800"
+    },
+    {
         "title": "CNA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#CNA",
         "pubdate": "Wed, 06 Nov 2024 17:00:00 +0800"
@@ -93,10 +98,5 @@
         "title": "Bitcoin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bitcoin",
         "pubdate": "Wed, 06 Nov 2024 14:00:00 +0800"
-    },
-    {
-        "title": "New York Times",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#New%20York%20Times",
-        "pubdate": "Wed, 06 Nov 2024 07:00:00 +0800"
     }
 ]

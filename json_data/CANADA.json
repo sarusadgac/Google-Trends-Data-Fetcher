@@ -15,6 +15,11 @@
         "pubdate": "Thu, 07 Nov 2024 01:00:00 -0500"
     },
     {
+        "title": "North Korean military",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#North%20Korean%20military",
+        "pubdate": "Thu, 07 Nov 2024 01:00:00 -0500"
+    },
+    {
         "title": "Citadel: Honey Bunny",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Citadel:%20Honey%20Bunny",
         "pubdate": "Thu, 07 Nov 2024 02:00:00 -0500"
@@ -55,19 +60,14 @@
         "pubdate": "Wed, 06 Nov 2024 18:00:00 -0500"
     },
     {
-        "title": "Pierre Poilievre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Pierre%20Poilievre",
-        "pubdate": "Wed, 06 Nov 2024 02:00:00 -0500"
-    },
-    {
         "title": "Bread recall",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bread%20recall",
         "pubdate": "Wed, 06 Nov 2024 07:00:00 -0500"
     },
     {
-        "title": "Us House election",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Us%20House%20election",
-        "pubdate": "Wed, 06 Nov 2024 00:00:00 -0500"
+        "title": "Pierre Poilievre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Pierre%20Poilievre",
+        "pubdate": "Wed, 06 Nov 2024 02:00:00 -0500"
     },
     {
         "title": "Toronto Maple Leafs",
@@ -78,11 +78,6 @@
         "title": "TVA nouvelles",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#TVA%20nouvelles",
         "pubdate": "Wed, 06 Nov 2024 08:00:00 -0500"
-    },
-    {
-        "title": "Crvena Zvezda vs Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Crvena%20Zvezda%20vs%20Barcelona",
-        "pubdate": "Wed, 06 Nov 2024 15:00:00 -0500"
     },
     {
         "title": "Lucien Francoeur",
@@ -98,5 +93,10 @@
         "title": "Leafs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Leafs",
         "pubdate": "Wed, 06 Nov 2024 01:00:00 -0500"
+    },
+    {
+        "title": "Crvena Zvezda vs Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Crvena%20Zvezda%20vs%20Barcelona",
+        "pubdate": "Wed, 06 Nov 2024 15:00:00 -0500"
     }
 ]
