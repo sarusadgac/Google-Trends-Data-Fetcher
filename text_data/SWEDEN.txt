@@ -3,7 +3,6 @@ Djurgården mot Panathinaikos
 Galatasaray mot Tottenham
 Ann-Sofie Back
 Hallsberg
-Chelsea
 Landshypotek
 Ränta
 Mbappe
@@ -18,3 +17,4 @@ SVT
 Riksbanken räntebesked
 Europa League
 DN
+Bitcoin
