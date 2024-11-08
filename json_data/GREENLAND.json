@@ -1,23 +1,18 @@
 [
     {
         "title": "Amsterdam",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Amsterdam",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Amsterdam",
         "pubdate": "Fri, 08 Nov 2024 08:00:00 +0100"
-    },
-    {
-        "title": "Indian",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Indian",
-        "pubdate": "Fri, 08 Nov 2024 17:30:00 +0530"
-    },
-    {
-        "title": "Grammy nominations 2025",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Grammy%20nominations%202025",
-        "pubdate": "Fri, 08 Nov 2024 09:00:00 -0800"
     },
     {
         "title": "インフルエンザ 流行",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6%20%E6%B5%81%E8%A1%8C",
         "pubdate": "Sat, 09 Nov 2024 00:00:00 +0900"
+    },
+    {
+        "title": "HSV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#HSV",
+        "pubdate": "Fri, 08 Nov 2024 19:00:00 +0100"
     },
     {
         "title": "Australia vs Pakistan",
@@ -30,9 +25,14 @@
         "pubdate": "Sat, 09 Nov 2024 03:00:00 +0800"
     },
     {
-        "title": "Geneviève Grad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Genevi%C3%A8ve%20Grad",
-        "pubdate": "Fri, 08 Nov 2024 16:00:00 +0100"
+        "title": "Grammy nominations 2025",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Grammy%20nominations%202025",
+        "pubdate": "Fri, 08 Nov 2024 09:00:00 -0800"
+    },
+    {
+        "title": "Indian",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Indian",
+        "pubdate": "Fri, 08 Nov 2024 17:30:00 +0530"
     },
     {
         "title": "8 ноября праздник",
@@ -40,19 +40,14 @@
         "pubdate": "Fri, 08 Nov 2024 08:00:00 +0300"
     },
     {
-        "title": "Al Riyadh  Al-Nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Al%20Riyadh%20%20Al-Nassr",
-        "pubdate": "Fri, 08 Nov 2024 12:00:00 -0500"
+        "title": "เชลซี",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TH#%E0%B9%80%E0%B8%8A%E0%B8%A5%E0%B8%8B%E0%B8%B5",
+        "pubdate": "Fri, 08 Nov 2024 08:00:00 +0700"
     },
     {
-        "title": "Teleton 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Teleton%202024",
-        "pubdate": "Fri, 08 Nov 2024 11:00:00 -0300"
-    },
-    {
-        "title": "Ireland v New Zealand",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Ireland%20v%20New%20Zealand",
-        "pubdate": "Fri, 08 Nov 2024 08:00:00 +0000"
+        "title": "Son dakika deprem",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Son%20dakika%20deprem",
+        "pubdate": "Fri, 08 Nov 2024 02:00:00 +0300"
     },
     {
         "title": "India vs South Africa",
@@ -60,19 +55,34 @@
         "pubdate": "Sat, 09 Nov 2024 06:00:00 +1300"
     },
     {
+        "title": "Dominic Roque",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Dominic%20Roque",
+        "pubdate": "Fri, 08 Nov 2024 16:00:00 +0800"
+    },
+    {
+        "title": "전남대",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%A0%84%EB%82%A8%EB%8C%80",
+        "pubdate": "Sat, 09 Nov 2024 01:00:00 +0900"
+    },
+    {
+        "title": "Dia de la tradicion",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Dia%20de%20la%20tradicion",
+        "pubdate": "Fri, 08 Nov 2024 14:00:00 -0300"
+    },
+    {
         "title": "Cadaques",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Cadaques",
         "pubdate": "Fri, 08 Nov 2024 09:00:00 +0100"
     },
     {
-        "title": "Al-Hilal x Al-Ettifaq",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Al-Hilal%20x%20Al-Ettifaq",
-        "pubdate": "Fri, 08 Nov 2024 09:00:00 -0500"
+        "title": "Europa League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Europa%20League",
+        "pubdate": "Fri, 08 Nov 2024 03:00:00 +0100"
     },
     {
-        "title": "Dominic Roque",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Dominic%20Roque",
-        "pubdate": "Fri, 08 Nov 2024 16:00:00 +0800"
+        "title": "Man United vs PAOK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Man%20United%20vs%20PAOK",
+        "pubdate": "Fri, 08 Nov 2024 04:00:00 +0800"
     },
     {
         "title": "Трампа",
@@ -80,19 +90,9 @@
         "pubdate": "Fri, 08 Nov 2024 08:00:00 +0200"
     },
     {
-        "title": "Pogrom",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Pogrom",
-        "pubdate": "Fri, 08 Nov 2024 10:00:00 +0100"
-    },
-    {
-        "title": "Europa League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Europa%20League",
-        "pubdate": "Fri, 08 Nov 2024 07:00:00 -0500"
-    },
-    {
-        "title": "Otter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Otter",
-        "pubdate": "Fri, 08 Nov 2024 10:00:00 +0200"
+        "title": "Man Utd đấu với PAOK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Man%20Utd%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20PAOK",
+        "pubdate": "Fri, 08 Nov 2024 03:00:00 +0700"
     },
     {
         "title": "Καζαντζακησ",
