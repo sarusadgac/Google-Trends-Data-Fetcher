@@ -10,19 +10,9 @@
         "pubdate": "Thu, 07 Nov 2024 15:00:00 -0500"
     },
     {
-        "title": "Agustin Lozano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Agustin%20Lozano",
-        "pubdate": "Thu, 07 Nov 2024 08:00:00 -0500"
-    },
-    {
         "title": "Europa League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Europa%20League",
         "pubdate": "Thu, 07 Nov 2024 14:00:00 -0500"
-    },
-    {
-        "title": "Galatasaray  Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Galatasaray%20%20Tottenham",
-        "pubdate": "Thu, 07 Nov 2024 13:00:00 -0500"
     },
     {
         "title": "Temblor HOY",
@@ -30,19 +20,24 @@
         "pubdate": "Thu, 07 Nov 2024 18:00:00 -0500"
     },
     {
+        "title": "Agustin Lozano",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Agustin%20Lozano",
+        "pubdate": "Thu, 07 Nov 2024 08:00:00 -0500"
+    },
+    {
+        "title": "Galatasaray  Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Galatasaray%20%20Tottenham",
+        "pubdate": "Thu, 07 Nov 2024 13:00:00 -0500"
+    },
+    {
         "title": "Conference League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Conference%20League",
         "pubdate": "Thu, 07 Nov 2024 00:00:00 -0500"
     },
     {
-        "title": "Ajax vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Ajax%20vs",
-        "pubdate": "Thu, 07 Nov 2024 15:00:00 -0500"
-    },
-    {
-        "title": "Betis - Celje",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Betis%20-%20Celje",
-        "pubdate": "Thu, 07 Nov 2024 17:00:00 -0500"
+        "title": "Velez vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Velez%20vs",
+        "pubdate": "Thu, 07 Nov 2024 20:00:00 -0500"
     },
     {
         "title": "Viktoria plzeň  Real Sociedad",
@@ -60,11 +55,6 @@
         "pubdate": "Thu, 07 Nov 2024 14:00:00 -0500"
     },
     {
-        "title": "Liga conferencia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Liga%20conferencia",
-        "pubdate": "Thu, 07 Nov 2024 16:00:00 -0500"
-    },
-    {
         "title": "Tottenham vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Tottenham%20vs",
         "pubdate": "Thu, 07 Nov 2024 17:00:00 -0500"
@@ -73,6 +63,11 @@
         "title": "Union Saint-Gilloise  Roma",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Union%20Saint-Gilloise%20%20Roma",
         "pubdate": "Thu, 07 Nov 2024 14:00:00 -0500"
+    },
+    {
+        "title": "Ajax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Ajax",
+        "pubdate": "Thu, 07 Nov 2024 15:00:00 -0500"
     },
     {
         "title": "Lazio  Porto",
@@ -85,18 +80,23 @@
         "pubdate": "Thu, 07 Nov 2024 14:00:00 -0500"
     },
     {
-        "title": "Talleres  Lanús",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Talleres%20%20Lan%C3%BAs",
-        "pubdate": "Thu, 07 Nov 2024 20:00:00 -0500"
-    },
-    {
         "title": "Franz Ferdinand",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Franz%20Ferdinand",
         "pubdate": "Thu, 07 Nov 2024 21:00:00 -0500"
     },
     {
+        "title": "Talleres  Lanús",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Talleres%20%20Lan%C3%BAs",
+        "pubdate": "Thu, 07 Nov 2024 20:00:00 -0500"
+    },
+    {
         "title": "Real Sociedad vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Real%20Sociedad%20vs",
         "pubdate": "Thu, 07 Nov 2024 18:00:00 -0500"
+    },
+    {
+        "title": "Jean ferrari",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Jean%20ferrari",
+        "pubdate": "Thu, 07 Nov 2024 22:00:00 -0500"
     }
 ]
