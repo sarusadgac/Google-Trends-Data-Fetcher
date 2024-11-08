@@ -1,11 +1,9 @@
-Junior  Millonarios
 Pasto  América
 Deportivo Pereira  Atlético Nacional
 Chelsea  Noah
 Galatasaray  Tottenham
 Manchester United - PAOK
 Juan Felipe Muñoz
-River
 Inter
 Cubarsi
 Ludogorets  Athletic
@@ -18,3 +16,5 @@ Ajax
 River Plate
 La Reina Camila
 Convocados Colombia
+Pedro paramo
+Talleres  Lanús
