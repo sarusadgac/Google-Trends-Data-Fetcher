@@ -5,6 +5,16 @@
         "pubdate": "Fri, 08 Nov 2024 09:00:00 -0800"
     },
     {
+        "title": "Heretic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Heretic",
+        "pubdate": "Fri, 08 Nov 2024 11:00:00 -0800"
+    },
+    {
+        "title": "Daniel Lurie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Daniel%20Lurie",
+        "pubdate": "Fri, 08 Nov 2024 11:00:00 -0800"
+    },
+    {
         "title": "Nicole Scherzinger",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Nicole%20Scherzinger",
         "pubdate": "Fri, 08 Nov 2024 01:00:00 -0800"
@@ -18,6 +28,11 @@
         "title": "Jazz vs Bucks",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jazz%20vs%20Bucks",
         "pubdate": "Fri, 08 Nov 2024 04:00:00 -0800"
+    },
+    {
+        "title": "Rashida Jones",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Rashida%20Jones",
+        "pubdate": "Fri, 08 Nov 2024 11:00:00 -0800"
     },
     {
         "title": "Bengals vs Ravens",
@@ -50,14 +65,14 @@
         "pubdate": "Thu, 07 Nov 2024 17:00:00 -0800"
     },
     {
-        "title": "Europa League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Europa%20League",
-        "pubdate": "Thu, 07 Nov 2024 08:00:00 -0800"
-    },
-    {
         "title": "Amsterdam",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Amsterdam",
         "pubdate": "Thu, 07 Nov 2024 20:00:00 -0800"
+    },
+    {
+        "title": "Europa League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Europa%20League",
+        "pubdate": "Thu, 07 Nov 2024 08:00:00 -0800"
     },
     {
         "title": "Manchester United",
@@ -83,20 +98,5 @@
         "title": "Jimmy Kimmel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jimmy%20Kimmel",
         "pubdate": "Thu, 07 Nov 2024 09:00:00 -0800"
-    },
-    {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chelsea",
-        "pubdate": "Thu, 07 Nov 2024 14:00:00 -0800"
-    },
-    {
-        "title": "PS5 Pro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#PS5%20Pro",
-        "pubdate": "Thu, 07 Nov 2024 16:00:00 -0800"
-    },
-    {
-        "title": "Biden speech today",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Biden%20speech%20today",
-        "pubdate": "Thu, 07 Nov 2024 11:00:00 -0800"
     }
 ]

@@ -5,6 +5,11 @@
         "pubdate": "Fri, 08 Nov 2024 10:00:00 +0200"
     },
     {
+        "title": "Dinamo București  CFR Cluj",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Dinamo%20Bucure%C8%99ti%20%20CFR%20Cluj",
+        "pubdate": "Fri, 08 Nov 2024 21:00:00 +0200"
+    },
+    {
         "title": "Oțelul  Botoşani",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#O%C8%9Belul%20%20Boto%C5%9Fani",
         "pubdate": "Fri, 08 Nov 2024 18:00:00 +0200"
@@ -60,19 +65,24 @@
         "pubdate": "Fri, 08 Nov 2024 09:00:00 +0200"
     },
     {
+        "title": "Cashmere Aroma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Cashmere%20Aroma",
+        "pubdate": "Fri, 08 Nov 2024 06:00:00 +0200"
+    },
+    {
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Manchester%20United",
         "pubdate": "Fri, 08 Nov 2024 11:00:00 +0200"
     },
     {
-        "title": "Flori",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Flori",
-        "pubdate": "Fri, 08 Nov 2024 12:00:00 +0200"
-    },
-    {
         "title": "YouTube Premium",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#YouTube%20Premium",
         "pubdate": "Fri, 08 Nov 2024 08:00:00 +0200"
+    },
+    {
+        "title": "Flori",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Flori",
+        "pubdate": "Fri, 08 Nov 2024 12:00:00 +0200"
     },
     {
         "title": "Amsterdam",
@@ -88,15 +98,5 @@
         "title": "Florinel Coman",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Florinel%20Coman",
         "pubdate": "Fri, 08 Nov 2024 11:00:00 +0200"
-    },
-    {
-        "title": "Iohannis Orban",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Iohannis%20Orban",
-        "pubdate": "Fri, 08 Nov 2024 07:00:00 +0200"
-    },
-    {
-        "title": "PAOK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#PAOK",
-        "pubdate": "Fri, 08 Nov 2024 06:00:00 +0200"
     }
 ]
