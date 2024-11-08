@@ -30,11 +30,6 @@
         "pubdate": "Fri, 08 Nov 2024 05:00:00 +0300"
     },
     {
-        "title": "PS5",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#PS5",
-        "pubdate": "Fri, 08 Nov 2024 11:00:00 +0300"
-    },
-    {
         "title": "الاهلى",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#%D8%A7%D9%84%D8%A7%D9%87%D9%84%D9%89",
         "pubdate": "Fri, 08 Nov 2024 01:00:00 +0300"
@@ -98,5 +93,10 @@
         "title": "كوبارسي",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#%D9%83%D9%88%D8%A8%D8%A7%D8%B1%D8%B3%D9%8A",
         "pubdate": "Thu, 07 Nov 2024 13:00:00 +0300"
+    },
+    {
+        "title": "الجوف",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#%D8%A7%D9%84%D8%AC%D9%88%D9%81",
+        "pubdate": "Thu, 07 Nov 2024 21:00:00 +0300"
     }
 ]
