@@ -35,11 +35,6 @@
         "pubdate": "Thu, 07 Nov 2024 21:00:00 -0600"
     },
     {
-        "title": "Marta Riumbau",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Marta%20Riumbau",
-        "pubdate": "Thu, 07 Nov 2024 08:00:00 -0600"
-    },
-    {
         "title": "Altos Hornos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Altos%20Hornos",
         "pubdate": "Thu, 07 Nov 2024 15:00:00 -0600"
@@ -98,5 +93,10 @@
         "title": "PS5 Pro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#PS5%20Pro",
         "pubdate": "Thu, 07 Nov 2024 19:00:00 -0600"
+    },
+    {
+        "title": "Inter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Inter",
+        "pubdate": "Thu, 07 Nov 2024 13:00:00 -0600"
     }
 ]
