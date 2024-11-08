@@ -32,7 +32,7 @@
     {
         "title": "Atp Finals",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Atp%20Finals",
-        "pubdate": "Thu, 07 Nov 2024 15:00:00 +0100"
+        "pubdate": "Thu, 07 Nov 2024 14:00:00 +0100"
     },
     {
         "title": "Atalanta",
@@ -45,19 +45,14 @@
         "pubdate": "Thu, 07 Nov 2024 21:00:00 +0100"
     },
     {
-        "title": "Chelsea-Noah",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Chelsea-Noah",
+        "title": "Chelsea  Noah",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Chelsea%20%20Noah",
         "pubdate": "Thu, 07 Nov 2024 22:00:00 +0100"
     },
     {
         "title": "Inter van der Meyde",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Inter%20van%20der%20Meyde",
         "pubdate": "Thu, 07 Nov 2024 15:00:00 +0100"
-    },
-    {
-        "title": "Omicidio Vassallo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Omicidio%20Vassallo",
-        "pubdate": "Thu, 07 Nov 2024 16:00:00 +0100"
     },
     {
         "title": "Insigne",
@@ -75,11 +70,6 @@
         "pubdate": "Thu, 07 Nov 2024 23:00:00 +0100"
     },
     {
-        "title": "Inter-Napoli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Inter-Napoli",
-        "pubdate": "Thu, 07 Nov 2024 18:00:00 +0100"
-    },
-    {
         "title": "Samuele Bersani",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Samuele%20Bersani",
         "pubdate": "Thu, 07 Nov 2024 16:00:00 +0100"
@@ -90,6 +80,11 @@
         "pubdate": "Thu, 07 Nov 2024 03:00:00 +0100"
     },
     {
+        "title": "Omicidio Vassallo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Omicidio%20Vassallo",
+        "pubdate": "Thu, 07 Nov 2024 18:00:00 +0100"
+    },
+    {
         "title": "Tananai",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Tananai",
         "pubdate": "Thu, 07 Nov 2024 23:00:00 +0100"
@@ -98,5 +93,10 @@
         "title": "Flashdance",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Flashdance",
         "pubdate": "Thu, 07 Nov 2024 22:00:00 +0100"
+    },
+    {
+        "title": "Uno Rosso",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Uno%20Rosso",
+        "pubdate": "Thu, 07 Nov 2024 14:00:00 +0100"
     }
 ]

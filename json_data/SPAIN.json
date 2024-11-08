@@ -10,6 +10,21 @@
         "pubdate": "Fri, 08 Nov 2024 02:00:00 +0100"
     },
     {
+        "title": "Vito Quiles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Vito%20Quiles",
+        "pubdate": "Fri, 08 Nov 2024 02:00:00 +0100"
+    },
+    {
+        "title": "Borja Villacís",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Borja%20Villac%C3%ADs",
+        "pubdate": "Fri, 08 Nov 2024 03:00:00 +0100"
+    },
+    {
+        "title": "ATP Finals",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#ATP%20Finals",
+        "pubdate": "Fri, 08 Nov 2024 03:00:00 +0100"
+    },
+    {
         "title": "Ludogorets - Athletic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ludogorets%20-%20Athletic",
         "pubdate": "Thu, 07 Nov 2024 17:00:00 +0100"
@@ -20,8 +35,13 @@
         "pubdate": "Thu, 07 Nov 2024 23:00:00 +0100"
     },
     {
-        "title": "Viktoria plzeň  - Real Sociedad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Viktoria%20plze%C5%88%20%20-%20Real%20Sociedad",
+        "title": "Europa League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Europa%20League",
+        "pubdate": "Thu, 07 Nov 2024 20:00:00 +0100"
+    },
+    {
+        "title": "Viktoria plzeň  Real Sociedad",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Viktoria%20plze%C5%88%20%20Real%20Sociedad",
         "pubdate": "Thu, 07 Nov 2024 21:00:00 +0100"
     },
     {
@@ -50,11 +70,6 @@
         "pubdate": "Thu, 07 Nov 2024 14:00:00 +0100"
     },
     {
-        "title": "Mask Singer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Mask%20Singer",
-        "pubdate": "Thu, 07 Nov 2024 00:00:00 +0100"
-    },
-    {
         "title": "Conference League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Conference%20League",
         "pubdate": "Thu, 07 Nov 2024 14:00:00 +0100"
@@ -75,28 +90,13 @@
         "pubdate": "Thu, 07 Nov 2024 23:00:00 +0100"
     },
     {
+        "title": "Mask Singer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Mask%20Singer",
+        "pubdate": "Thu, 07 Nov 2024 22:00:00 +0100"
+    },
+    {
         "title": "Betis Hoy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Betis%20Hoy",
         "pubdate": "Thu, 07 Nov 2024 20:00:00 +0100"
-    },
-    {
-        "title": "Som valencia conciertos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Som%20valencia%20conciertos",
-        "pubdate": "Thu, 07 Nov 2024 14:00:00 +0100"
-    },
-    {
-        "title": "Galatasaray - Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Galatasaray%20-%20Tottenham",
-        "pubdate": "Thu, 07 Nov 2024 20:00:00 +0100"
-    },
-    {
-        "title": "Olimpia Milano  Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Olimpia%20Milano%20%20Real%20Madrid",
-        "pubdate": "Thu, 07 Nov 2024 21:00:00 +0100"
-    },
-    {
-        "title": "Manchester United - PAOK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Manchester%20United%20-%20PAOK",
-        "pubdate": "Thu, 07 Nov 2024 22:00:00 +0100"
     }
 ]

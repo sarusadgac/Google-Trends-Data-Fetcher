@@ -30,11 +30,6 @@
         "pubdate": "Thu, 07 Nov 2024 18:00:00 +0000"
     },
     {
-        "title": "Man Utd",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Man%20Utd",
-        "pubdate": "Thu, 07 Nov 2024 23:00:00 +0000"
-    },
-    {
         "title": "Galatasaray vs Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Galatasaray%20vs%20Tottenham",
         "pubdate": "Thu, 07 Nov 2024 18:00:00 +0000"
@@ -98,5 +93,10 @@
         "title": "Rory McIlroy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Rory%20McIlroy",
         "pubdate": "Thu, 07 Nov 2024 09:00:00 +0000"
+    },
+    {
+        "title": "Hamas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Hamas",
+        "pubdate": "Thu, 07 Nov 2024 18:00:00 +0000"
     }
 ]
