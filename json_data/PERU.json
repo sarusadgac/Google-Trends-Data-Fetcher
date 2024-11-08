@@ -25,6 +25,11 @@
         "pubdate": "Thu, 07 Nov 2024 08:00:00 -0500"
     },
     {
+        "title": "Temblor HOY",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Temblor%20HOY",
+        "pubdate": "Thu, 07 Nov 2024 19:00:00 -0500"
+    },
+    {
         "title": "Conference League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Conference%20League",
         "pubdate": "Thu, 07 Nov 2024 00:00:00 -0500"
@@ -35,24 +40,24 @@
         "pubdate": "Thu, 07 Nov 2024 15:00:00 -0500"
     },
     {
-        "title": "Inter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Inter",
-        "pubdate": "Thu, 07 Nov 2024 14:00:00 -0500"
-    },
-    {
-        "title": "Viktoria plzeň  - Real Sociedad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Viktoria%20plze%C5%88%20%20-%20Real%20Sociedad",
+        "title": "Viktoria plzeň  Real Sociedad",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Viktoria%20plze%C5%88%20%20Real%20Sociedad",
         "pubdate": "Thu, 07 Nov 2024 16:00:00 -0500"
     },
     {
-        "title": "Ludogorets - Athletic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Ludogorets%20-%20Athletic",
+        "title": "Inter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Inter",
         "pubdate": "Thu, 07 Nov 2024 14:00:00 -0500"
     },
     {
         "title": "Betis - Celje",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Betis%20-%20Celje",
         "pubdate": "Thu, 07 Nov 2024 17:00:00 -0500"
+    },
+    {
+        "title": "Ludogorets - Athletic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Ludogorets%20-%20Athletic",
+        "pubdate": "Thu, 07 Nov 2024 14:00:00 -0500"
     },
     {
         "title": "Liga conferencia",
@@ -65,13 +70,8 @@
         "pubdate": "Thu, 07 Nov 2024 17:00:00 -0500"
     },
     {
-        "title": "Union Saint-Gilloise)  Roma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Union%20Saint-Gilloise)%20%20Roma",
-        "pubdate": "Thu, 07 Nov 2024 14:00:00 -0500"
-    },
-    {
-        "title": "Frankfurt vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Frankfurt%20vs",
+        "title": "Union Saint-Gilloise  Roma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Union%20Saint-Gilloise%20%20Roma",
         "pubdate": "Thu, 07 Nov 2024 14:00:00 -0500"
     },
     {
@@ -80,23 +80,23 @@
         "pubdate": "Thu, 07 Nov 2024 17:00:00 -0500"
     },
     {
+        "title": "Sismo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Sismo",
+        "pubdate": "Thu, 07 Nov 2024 18:00:00 -0500"
+    },
+    {
+        "title": "Velez vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Velez%20vs",
+        "pubdate": "Thu, 07 Nov 2024 20:00:00 -0500"
+    },
+    {
         "title": "J.D. Vance",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#J.D.%20Vance",
         "pubdate": "Thu, 07 Nov 2024 14:00:00 -0500"
     },
     {
-        "title": "Bayern  Benfica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bayern%20%20Benfica",
-        "pubdate": "Wed, 06 Nov 2024 15:00:00 -0500"
-    },
-    {
-        "title": "Boca Juniors  Godoy Cruz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Boca%20Juniors%20%20Godoy%20Cruz",
-        "pubdate": "Wed, 06 Nov 2024 18:00:00 -0500"
-    },
-    {
-        "title": "Club Brujas  Aston Villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Club%20Brujas%20%20Aston%20Villa",
-        "pubdate": "Wed, 06 Nov 2024 09:00:00 -0500"
+        "title": "Talleres  Lanús",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Talleres%20%20Lan%C3%BAs",
+        "pubdate": "Thu, 07 Nov 2024 20:00:00 -0500"
     }
 ]
