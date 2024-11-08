@@ -35,6 +35,11 @@
         "pubdate": "Fri, 08 Nov 2024 14:00:00 +0300"
     },
     {
+        "title": "Ajax fc",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Ajax%20fc",
+        "pubdate": "Fri, 08 Nov 2024 01:00:00 +0300"
+    },
+    {
         "title": "Chelsea vs Noah",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Chelsea%20vs%20Noah",
         "pubdate": "Thu, 07 Nov 2024 16:00:00 +0300"
@@ -92,11 +97,6 @@
     {
         "title": "Club Brugge vs Aston Villa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Club%20Brugge%20vs%20Aston%20Villa",
-        "pubdate": "Wed, 06 Nov 2024 12:00:00 +0300"
-    },
-    {
-        "title": "Kamala Harris",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Kamala%20Harris",
         "pubdate": "Wed, 06 Nov 2024 12:00:00 +0300"
     }
 ]
