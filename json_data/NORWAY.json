@@ -30,6 +30,11 @@
         "pubdate": "Fri, 08 Nov 2024 08:00:00 +0100"
     },
     {
+        "title": "Man utd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Man%20utd",
+        "pubdate": "Fri, 08 Nov 2024 09:00:00 +0100"
+    },
+    {
         "title": "Molde",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Molde",
         "pubdate": "Fri, 08 Nov 2024 10:00:00 +0100"
@@ -93,10 +98,5 @@
         "title": "Tom Hanks",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tom%20Hanks",
         "pubdate": "Thu, 07 Nov 2024 18:00:00 +0100"
-    },
-    {
-        "title": "Donald Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Donald%20Trump",
-        "pubdate": "Wed, 06 Nov 2024 22:00:00 +0100"
     }
 ]

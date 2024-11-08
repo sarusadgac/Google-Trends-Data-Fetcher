@@ -30,6 +30,11 @@
         "pubdate": "Fri, 08 Nov 2024 00:00:00 +0000"
     },
     {
+        "title": "Caper",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Caper",
+        "pubdate": "Fri, 08 Nov 2024 13:00:00 +0000"
+    },
+    {
         "title": "Mike Tyson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Mike%20Tyson",
         "pubdate": "Fri, 08 Nov 2024 01:00:00 +0000"
@@ -38,6 +43,11 @@
         "title": "Aviva Stadium",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Aviva%20Stadium",
         "pubdate": "Fri, 08 Nov 2024 12:00:00 +0000"
+    },
+    {
+        "title": "Ravens vs Bengals",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Ravens%20vs%20Bengals",
+        "pubdate": "Fri, 08 Nov 2024 13:00:00 +0000"
     },
     {
         "title": "Man United vs PAOK",
@@ -88,15 +98,5 @@
         "title": "Monte",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Monte",
         "pubdate": "Thu, 07 Nov 2024 07:00:00 +0000"
-    },
-    {
-        "title": "The Day of the Jackal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#The%20Day%20of%20the%20Jackal",
-        "pubdate": "Thu, 07 Nov 2024 19:00:00 +0000"
-    },
-    {
-        "title": "Conor Molloy Australia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Conor%20Molloy%20Australia",
-        "pubdate": "Thu, 07 Nov 2024 12:00:00 +0000"
     }
 ]
