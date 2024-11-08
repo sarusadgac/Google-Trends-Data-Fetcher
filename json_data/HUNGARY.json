@@ -5,6 +5,11 @@
         "pubdate": "Fri, 08 Nov 2024 00:00:00 +0100"
     },
     {
+        "title": "Vlagyimir Putyin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Vlagyimir%20Putyin",
+        "pubdate": "Fri, 08 Nov 2024 08:00:00 +0100"
+    },
+    {
         "title": "FTC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#FTC",
         "pubdate": "Thu, 07 Nov 2024 09:00:00 +0100"
@@ -93,10 +98,5 @@
         "title": "Bitcoin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bitcoin",
         "pubdate": "Wed, 06 Nov 2024 10:00:00 +0100"
-    },
-    {
-        "title": "Forint árfolyam",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Forint%20%C3%A1rfolyam",
-        "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
     }
 ]
