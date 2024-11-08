@@ -10,6 +10,11 @@
         "pubdate": "Fri, 08 Nov 2024 01:00:00 +0700"
     },
     {
+        "title": "Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Tottenham",
+        "pubdate": "Fri, 08 Nov 2024 06:00:00 +0700"
+    },
+    {
         "title": "Fed",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Fed",
         "pubdate": "Fri, 08 Nov 2024 04:00:00 +0700"
@@ -28,11 +33,6 @@
         "title": "Sao Đỏ Belgrade đấu với Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Sao%20%C4%90%E1%BB%8F%20Belgrade%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Barcelona",
         "pubdate": "Thu, 07 Nov 2024 03:00:00 +0700"
-    },
-    {
-        "title": "Kamala Harris",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Kamala%20Harris",
-        "pubdate": "Thu, 07 Nov 2024 09:00:00 +0700"
     },
     {
         "title": "Inter đấu với Arsenal",
@@ -95,8 +95,8 @@
         "pubdate": "Thu, 07 Nov 2024 03:00:00 +0700"
     },
     {
-        "title": "Ngọc Trinh",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ng%E1%BB%8Dc%20Trinh",
-        "pubdate": "Thu, 07 Nov 2024 09:00:00 +0700"
+        "title": "Arsenal vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Arsenal%20vs",
+        "pubdate": "Thu, 07 Nov 2024 06:00:00 +0700"
     }
 ]

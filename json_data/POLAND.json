@@ -65,11 +65,6 @@
         "pubdate": "Thu, 07 Nov 2024 10:00:00 +0100"
     },
     {
-        "title": "Piotr Serafin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Piotr%20Serafin",
-        "pubdate": "Thu, 07 Nov 2024 21:00:00 +0100"
-    },
-    {
         "title": "Maryla Rodowicz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Maryla%20Rodowicz",
         "pubdate": "Thu, 07 Nov 2024 21:00:00 +0100"
@@ -98,5 +93,10 @@
         "title": "Ambessa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ambessa",
         "pubdate": "Thu, 07 Nov 2024 16:00:00 +0100"
+    },
+    {
+        "title": "Julia Wieniawa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Julia%20Wieniawa",
+        "pubdate": "Thu, 07 Nov 2024 17:00:00 +0100"
     }
 ]
