@@ -30,6 +30,11 @@
         "pubdate": "Fri, 08 Nov 2024 09:00:00 +0100"
     },
     {
+        "title": "La Cage",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#La%20Cage",
+        "pubdate": "Fri, 08 Nov 2024 15:00:00 +0100"
+    },
+    {
         "title": "Ligue Europa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Ligue%20Europa",
         "pubdate": "Thu, 07 Nov 2024 00:00:00 +0100"
@@ -70,6 +75,11 @@
         "pubdate": "Thu, 07 Nov 2024 23:00:00 +0100"
     },
     {
+        "title": "Mylene Farmer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Mylene%20Farmer",
+        "pubdate": "Thu, 07 Nov 2024 23:00:00 +0100"
+    },
+    {
         "title": "Inoxtag",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Inoxtag",
         "pubdate": "Thu, 07 Nov 2024 14:00:00 +0100"
@@ -80,11 +90,6 @@
         "pubdate": "Thu, 07 Nov 2024 18:00:00 +0100"
     },
     {
-        "title": "Mylene Farmer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Mylene%20Farmer",
-        "pubdate": "Thu, 07 Nov 2024 23:00:00 +0100"
-    },
-    {
         "title": "Etats-Unis Donald Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Etats-Unis%20Donald%20Trump",
         "pubdate": "Thu, 07 Nov 2024 15:00:00 +0100"
@@ -93,10 +98,5 @@
         "title": "Marc Lavoine",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Marc%20Lavoine",
         "pubdate": "Thu, 07 Nov 2024 21:00:00 +0100"
-    },
-    {
-        "title": "Zaccharie Risacher",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Zaccharie%20Risacher",
-        "pubdate": "Thu, 07 Nov 2024 14:00:00 +0100"
     }
 ]
