@@ -40,24 +40,14 @@
         "pubdate": "Thu, 07 Nov 2024 21:00:00 +0100"
     },
     {
-        "title": "Stark-Watzinger",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Stark-Watzinger",
-        "pubdate": "Thu, 07 Nov 2024 12:00:00 +0100"
-    },
-    {
         "title": "Söder",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#S%C3%B6der",
         "pubdate": "Thu, 07 Nov 2024 07:00:00 +0100"
     },
     {
-        "title": "BSW",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#BSW",
-        "pubdate": "Thu, 07 Nov 2024 00:00:00 +0100"
-    },
-    {
         "title": "Lindner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Lindner",
-        "pubdate": "Wed, 06 Nov 2024 17:00:00 +0100"
+        "pubdate": "Wed, 06 Nov 2024 18:00:00 +0100"
     },
     {
         "title": "Finanzminister",
@@ -68,11 +58,6 @@
         "title": "Europa League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Europa%20League",
         "pubdate": "Wed, 06 Nov 2024 00:00:00 +0100"
-    },
-    {
-        "title": "Bitcoin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bitcoin",
-        "pubdate": "Wed, 06 Nov 2024 13:00:00 +0100"
     },
     {
         "title": "Habeck",
@@ -98,5 +83,20 @@
         "title": "CDU",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#CDU",
         "pubdate": "Wed, 06 Nov 2024 23:00:00 +0100"
+    },
+    {
+        "title": "Sachsen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sachsen",
+        "pubdate": "Wed, 06 Nov 2024 15:00:00 +0100"
+    },
+    {
+        "title": "Rheinmetall",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rheinmetall",
+        "pubdate": "Wed, 06 Nov 2024 23:00:00 +0100"
+    },
+    {
+        "title": "Wahl USA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wahl%20USA",
+        "pubdate": "Tue, 05 Nov 2024 07:00:00 +0100"
     }
 ]
