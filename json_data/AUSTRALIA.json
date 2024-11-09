@@ -15,6 +15,11 @@
         "pubdate": "Sat, 09 Nov 2024 08:00:00 +1100"
     },
     {
+        "title": "Nicole Scherzinger",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Nicole%20Scherzinger",
+        "pubdate": "Sat, 09 Nov 2024 14:00:00 +1100"
+    },
+    {
         "title": "Anthony Edwards",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Anthony%20Edwards",
         "pubdate": "Sat, 09 Nov 2024 01:00:00 +1100"
@@ -55,11 +60,6 @@
         "pubdate": "Fri, 08 Nov 2024 09:00:00 +1100"
     },
     {
-        "title": "Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tottenham",
-        "pubdate": "Fri, 08 Nov 2024 10:00:00 +1100"
-    },
-    {
         "title": "Cricket Australia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Cricket%20Australia",
         "pubdate": "Fri, 08 Nov 2024 20:00:00 +1100"
@@ -68,6 +68,11 @@
         "title": "Amsterdam",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Amsterdam",
         "pubdate": "Fri, 08 Nov 2024 17:00:00 +1100"
+    },
+    {
+        "title": "Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tottenham",
+        "pubdate": "Fri, 08 Nov 2024 13:00:00 +1100"
     },
     {
         "title": "Jacob Hersant",
@@ -93,10 +98,5 @@
         "title": "Whooping cough",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Whooping%20cough",
         "pubdate": "Fri, 08 Nov 2024 13:00:00 +1100"
-    },
-    {
-        "title": "Heretic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Heretic",
-        "pubdate": "Fri, 08 Nov 2024 18:00:00 +1100"
     }
 ]
