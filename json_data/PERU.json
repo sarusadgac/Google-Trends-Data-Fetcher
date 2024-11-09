@@ -10,8 +10,8 @@
         "pubdate": "Sat, 09 Nov 2024 12:00:00 -0500"
     },
     {
-        "title": "Cagliari  (Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Cagliari%20%20(Milan",
+        "title": "Cagliari - Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Cagliari%20-%20Milan",
         "pubdate": "Sat, 09 Nov 2024 12:00:00 -0500"
     },
     {
@@ -30,14 +30,14 @@
         "pubdate": "Sat, 09 Nov 2024 10:00:00 -0500"
     },
     {
+        "title": "Angers ( psg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Angers%20(%20psg",
+        "pubdate": "Sat, 09 Nov 2024 15:00:00 -0500"
+    },
+    {
         "title": "Bochum  Leverkusen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bochum%20%20Leverkusen",
         "pubdate": "Sat, 09 Nov 2024 10:00:00 -0500"
-    },
-    {
-        "title": "Villarreal - Alavés",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Villarreal%20-%20Alav%C3%A9s",
-        "pubdate": "Sat, 09 Nov 2024 12:00:00 -0500"
     },
     {
         "title": "Tony Todd",
@@ -45,14 +45,24 @@
         "pubdate": "Sat, 09 Nov 2024 09:00:00 -0500"
     },
     {
+        "title": "Villarreal - Alavés",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Villarreal%20-%20Alav%C3%A9s",
+        "pubdate": "Sat, 09 Nov 2024 12:00:00 -0500"
+    },
+    {
         "title": "Arcane",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Arcane",
         "pubdate": "Sat, 09 Nov 2024 08:00:00 -0500"
     },
     {
-        "title": "Brentford - Bournemouth",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Brentford%20-%20Bournemouth",
-        "pubdate": "Sat, 09 Nov 2024 12:00:00 -0500"
+        "title": "Pumas vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Pumas%20vs",
+        "pubdate": "Sat, 09 Nov 2024 00:00:00 -0500"
+    },
+    {
+        "title": "Leganés - Sevilla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Legan%C3%A9s%20-%20Sevilla",
+        "pubdate": "Sat, 09 Nov 2024 16:00:00 -0500"
     },
     {
         "title": "Juventus - Torino",
@@ -60,9 +70,9 @@
         "pubdate": "Sat, 09 Nov 2024 16:00:00 -0500"
     },
     {
-        "title": "Leganés - Sevilla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Legan%C3%A9s%20-%20Sevilla",
-        "pubdate": "Sat, 09 Nov 2024 16:00:00 -0500"
+        "title": "Brentford - Bournemouth",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Brentford%20-%20Bournemouth",
+        "pubdate": "Sat, 09 Nov 2024 12:00:00 -0500"
     },
     {
         "title": "Crystal Palace - Fulham",
@@ -75,28 +85,18 @@
         "pubdate": "Sat, 09 Nov 2024 14:00:00 -0500"
     },
     {
-        "title": "West Ham - Everton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#West%20Ham%20-%20Everton",
-        "pubdate": "Sat, 09 Nov 2024 13:00:00 -0500"
-    },
-    {
         "title": "RB Leipzig  Mönchengladbach",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#RB%20Leipzig%20%20M%C3%B6nchengladbach",
         "pubdate": "Sat, 09 Nov 2024 15:00:00 -0500"
     },
     {
-        "title": "Wolves  Southampton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Wolves%20%20Southampton",
+        "title": "West Ham - Everton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#West%20Ham%20-%20Everton",
         "pubdate": "Sat, 09 Nov 2024 13:00:00 -0500"
     },
     {
-        "title": "APEC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#APEC",
-        "pubdate": "Fri, 08 Nov 2024 09:00:00 -0500"
-    },
-    {
-        "title": "Rayo Vallecano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Rayo%20Vallecano",
-        "pubdate": "Fri, 08 Nov 2024 15:00:00 -0500"
+        "title": "Wolves  Southampton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Wolves%20%20Southampton",
+        "pubdate": "Sat, 09 Nov 2024 13:00:00 -0500"
     }
 ]
