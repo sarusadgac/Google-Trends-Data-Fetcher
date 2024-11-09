@@ -5,13 +5,13 @@
         "pubdate": "Sat, 09 Nov 2024 08:00:00 -0500"
     },
     {
-        "title": "Brighton  Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Brighton%20%20Manchester%20City",
+        "title": "Cagliari  Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Cagliari%20%20Milan",
         "pubdate": "Sat, 09 Nov 2024 12:00:00 -0500"
     },
     {
-        "title": "Cagliari-Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Cagliari-Milan",
+        "title": "Brighton Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Brighton%20Manchester%20City",
         "pubdate": "Sat, 09 Nov 2024 12:00:00 -0500"
     },
     {
@@ -23,6 +23,11 @@
         "title": "Dortmund",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Dortmund",
         "pubdate": "Sat, 09 Nov 2024 10:00:00 -0500"
+    },
+    {
+        "title": "Liverpool - Aston Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Liverpool%20-%20Aston%20Villa",
+        "pubdate": "Sat, 09 Nov 2024 15:00:00 -0500"
     },
     {
         "title": "Bochum  Leverkusen",
@@ -40,14 +45,14 @@
         "pubdate": "Sat, 09 Nov 2024 09:00:00 -0500"
     },
     {
-        "title": "Brentford - Bournemouth",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Brentford%20-%20Bournemouth",
-        "pubdate": "Sat, 09 Nov 2024 12:00:00 -0500"
-    },
-    {
         "title": "Arcane",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Arcane",
         "pubdate": "Sat, 09 Nov 2024 08:00:00 -0500"
+    },
+    {
+        "title": "Brentford - Bournemouth",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Brentford%20-%20Bournemouth",
+        "pubdate": "Sat, 09 Nov 2024 12:00:00 -0500"
     },
     {
         "title": "Crystal Palace - Fulham",
@@ -70,6 +75,11 @@
         "pubdate": "Sat, 09 Nov 2024 14:00:00 -0500"
     },
     {
+        "title": "RB Leipzig  Mönchengladbach",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#RB%20Leipzig%20%20M%C3%B6nchengladbach",
+        "pubdate": "Sat, 09 Nov 2024 15:00:00 -0500"
+    },
+    {
         "title": "APEC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#APEC",
         "pubdate": "Fri, 08 Nov 2024 09:00:00 -0500"
@@ -88,15 +98,5 @@
         "title": "Mazatlán - Pumas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Mazatl%C3%A1n%20-%20Pumas",
         "pubdate": "Fri, 08 Nov 2024 22:00:00 -0500"
-    },
-    {
-        "title": "Barça - Baskonia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bar%C3%A7a%20-%20Baskonia",
-        "pubdate": "Fri, 08 Nov 2024 15:00:00 -0500"
-    },
-    {
-        "title": "Dillom",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Dillom",
-        "pubdate": "Fri, 08 Nov 2024 12:00:00 -0500"
     }
 ]
