@@ -5,14 +5,19 @@
         "pubdate": "Sat, 09 Nov 2024 08:00:00 -0500"
     },
     {
-        "title": "Cagliari  Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Cagliari%20%20Milan",
+        "title": "Brighton  Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Brighton%20%20Manchester%20City",
         "pubdate": "Sat, 09 Nov 2024 12:00:00 -0500"
     },
     {
-        "title": "Brighton Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Brighton%20Manchester%20City",
+        "title": "Cagliari  (Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Cagliari%20%20(Milan",
         "pubdate": "Sat, 09 Nov 2024 12:00:00 -0500"
+    },
+    {
+        "title": "Liverpool - Aston Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Liverpool%20-%20Aston%20Villa",
+        "pubdate": "Sat, 09 Nov 2024 15:00:00 -0500"
     },
     {
         "title": "St. Pauli  Bayern",
@@ -23,11 +28,6 @@
         "title": "Dortmund",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Dortmund",
         "pubdate": "Sat, 09 Nov 2024 10:00:00 -0500"
-    },
-    {
-        "title": "Liverpool - Aston Villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Liverpool%20-%20Aston%20Villa",
-        "pubdate": "Sat, 09 Nov 2024 15:00:00 -0500"
     },
     {
         "title": "Bochum  Leverkusen",
@@ -55,18 +55,18 @@
         "pubdate": "Sat, 09 Nov 2024 12:00:00 -0500"
     },
     {
+        "title": "Juventus - Torino",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Juventus%20-%20Torino",
+        "pubdate": "Sat, 09 Nov 2024 16:00:00 -0500"
+    },
+    {
+        "title": "Leganés - Sevilla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Legan%C3%A9s%20-%20Sevilla",
+        "pubdate": "Sat, 09 Nov 2024 16:00:00 -0500"
+    },
+    {
         "title": "Crystal Palace - Fulham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Crystal%20Palace%20-%20Fulham",
-        "pubdate": "Sat, 09 Nov 2024 13:00:00 -0500"
-    },
-    {
-        "title": "West Ham - Everton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#West%20Ham%20-%20Everton",
-        "pubdate": "Sat, 09 Nov 2024 13:00:00 -0500"
-    },
-    {
-        "title": "Wolves  Southampton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Wolves%20%20Southampton",
         "pubdate": "Sat, 09 Nov 2024 13:00:00 -0500"
     },
     {
@@ -75,9 +75,19 @@
         "pubdate": "Sat, 09 Nov 2024 14:00:00 -0500"
     },
     {
+        "title": "West Ham - Everton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#West%20Ham%20-%20Everton",
+        "pubdate": "Sat, 09 Nov 2024 13:00:00 -0500"
+    },
+    {
         "title": "RB Leipzig  Mönchengladbach",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#RB%20Leipzig%20%20M%C3%B6nchengladbach",
         "pubdate": "Sat, 09 Nov 2024 15:00:00 -0500"
+    },
+    {
+        "title": "Wolves  Southampton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Wolves%20%20Southampton",
+        "pubdate": "Sat, 09 Nov 2024 13:00:00 -0500"
     },
     {
         "title": "APEC",
@@ -88,15 +98,5 @@
         "title": "Rayo Vallecano",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Rayo%20Vallecano",
         "pubdate": "Fri, 08 Nov 2024 15:00:00 -0500"
-    },
-    {
-        "title": "John Kelvin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#John%20Kelvin",
-        "pubdate": "Fri, 08 Nov 2024 12:00:00 -0500"
-    },
-    {
-        "title": "Mazatlán - Pumas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Mazatl%C3%A1n%20-%20Pumas",
-        "pubdate": "Fri, 08 Nov 2024 22:00:00 -0500"
     }
 ]
