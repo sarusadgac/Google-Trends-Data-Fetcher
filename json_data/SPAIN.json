@@ -25,16 +25,6 @@
         "pubdate": "Sat, 09 Nov 2024 01:00:00 +0100"
     },
     {
-        "title": "Oscar sanchez Gil policia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Oscar%20sanchez%20Gil%20policia",
-        "pubdate": "Sat, 09 Nov 2024 07:00:00 +0100"
-    },
-    {
-        "title": "Periodista Maribel Vilaplana",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Periodista%20Maribel%20Vilaplana",
-        "pubdate": "Fri, 08 Nov 2024 17:00:00 +0100"
-    },
-    {
         "title": "Rayo Vallecano",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Rayo%20Vallecano",
         "pubdate": "Fri, 08 Nov 2024 19:00:00 +0100"
@@ -65,6 +55,11 @@
         "pubdate": "Fri, 08 Nov 2024 15:00:00 +0100"
     },
     {
+        "title": "Periodista Maribel Vilaplana",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Periodista%20Maribel%20Vilaplana",
+        "pubdate": "Fri, 08 Nov 2024 21:00:00 +0100"
+    },
+    {
         "title": "Accidente metro Granada",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Accidente%20metro%20Granada",
         "pubdate": "Fri, 08 Nov 2024 07:00:00 +0100"
@@ -83,6 +78,11 @@
         "title": "Barça - Baskonia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Bar%C3%A7a%20-%20Baskonia",
         "pubdate": "Fri, 08 Nov 2024 21:00:00 +0100"
+    },
+    {
+        "title": "UDEF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#UDEF",
+        "pubdate": "Fri, 08 Nov 2024 20:00:00 +0100"
     },
     {
         "title": "Susie Wiles",
