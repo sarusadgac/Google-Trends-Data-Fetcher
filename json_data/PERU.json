@@ -15,6 +15,11 @@
         "pubdate": "Fri, 08 Nov 2024 15:00:00 -0500"
     },
     {
+        "title": "John Kelvin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#John%20Kelvin",
+        "pubdate": "Fri, 08 Nov 2024 12:00:00 -0500"
+    },
+    {
         "title": "Mazatlán - Pumas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Mazatl%C3%A1n%20-%20Pumas",
         "pubdate": "Fri, 08 Nov 2024 22:00:00 -0500"
@@ -35,6 +40,11 @@
         "pubdate": "Fri, 08 Nov 2024 12:00:00 -0500"
     },
     {
+        "title": "Palmeiras",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Palmeiras",
+        "pubdate": "Fri, 08 Nov 2024 21:00:00 -0500"
+    },
+    {
         "title": "Susie Wiles",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Susie%20Wiles",
         "pubdate": "Fri, 08 Nov 2024 09:00:00 -0500"
@@ -48,11 +58,6 @@
         "title": "Juan Felipe Muñoz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Juan%20Felipe%20Mu%C3%B1oz",
         "pubdate": "Fri, 08 Nov 2024 17:00:00 -0500"
-    },
-    {
-        "title": "Jhon Kelvin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Jhon%20Kelvin",
-        "pubdate": "Fri, 08 Nov 2024 15:00:00 -0500"
     },
     {
         "title": "Megapuerto de Chancay",
@@ -93,10 +98,5 @@
         "title": "Agustin Lozano",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Agustin%20Lozano",
         "pubdate": "Thu, 07 Nov 2024 08:00:00 -0500"
-    },
-    {
-        "title": "Galatasaray  Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Galatasaray%20%20Tottenham",
-        "pubdate": "Thu, 07 Nov 2024 13:00:00 -0500"
     }
 ]
