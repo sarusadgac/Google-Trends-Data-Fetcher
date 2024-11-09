@@ -25,11 +25,6 @@
         "pubdate": "Fri, 08 Nov 2024 11:00:00 +0100"
     },
     {
-        "title": "Dana Smutná",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Dana%20Smutn%C3%A1",
-        "pubdate": "Fri, 08 Nov 2024 12:00:00 +0100"
-    },
-    {
         "title": "Felix Slováček",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Felix%20Slov%C3%A1%C4%8Dek",
         "pubdate": "Fri, 08 Nov 2024 23:00:00 +0100"
@@ -98,5 +93,10 @@
         "title": "Berenika Kohoutová",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Berenika%20Kohoutov%C3%A1",
         "pubdate": "Thu, 07 Nov 2024 18:00:00 +0100"
+    },
+    {
+        "title": "ČT sport",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C4%8CT%20sport",
+        "pubdate": "Thu, 07 Nov 2024 17:00:00 +0100"
     }
 ]
