@@ -30,11 +30,6 @@
         "pubdate": "Sat, 09 Nov 2024 10:00:00 -0500"
     },
     {
-        "title": "Angers ( psg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Angers%20(%20psg",
-        "pubdate": "Sat, 09 Nov 2024 15:00:00 -0500"
-    },
-    {
         "title": "Bochum  Leverkusen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bochum%20%20Leverkusen",
         "pubdate": "Sat, 09 Nov 2024 10:00:00 -0500"
@@ -50,6 +45,16 @@
         "pubdate": "Sat, 09 Nov 2024 12:00:00 -0500"
     },
     {
+        "title": "Juventus - Torino",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Juventus%20-%20Torino",
+        "pubdate": "Sat, 09 Nov 2024 16:00:00 -0500"
+    },
+    {
+        "title": "Leganés - Sevilla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Legan%C3%A9s%20-%20Sevilla",
+        "pubdate": "Sat, 09 Nov 2024 16:00:00 -0500"
+    },
+    {
         "title": "Arcane",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Arcane",
         "pubdate": "Sat, 09 Nov 2024 08:00:00 -0500"
@@ -58,16 +63,6 @@
         "title": "Pumas vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Pumas%20vs",
         "pubdate": "Sat, 09 Nov 2024 00:00:00 -0500"
-    },
-    {
-        "title": "Leganés - Sevilla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Legan%C3%A9s%20-%20Sevilla",
-        "pubdate": "Sat, 09 Nov 2024 16:00:00 -0500"
-    },
-    {
-        "title": "Juventus - Torino",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Juventus%20-%20Torino",
-        "pubdate": "Sat, 09 Nov 2024 16:00:00 -0500"
     },
     {
         "title": "Brentford - Bournemouth",
@@ -98,5 +93,10 @@
         "title": "Wolves  Southampton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Wolves%20%20Southampton",
         "pubdate": "Sat, 09 Nov 2024 13:00:00 -0500"
+    },
+    {
+        "title": "Ernestina Sodi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Ernestina%20Sodi",
+        "pubdate": "Sat, 09 Nov 2024 18:00:00 -0500"
     }
 ]
