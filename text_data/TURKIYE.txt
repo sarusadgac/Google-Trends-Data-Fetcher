@@ -1,6 +1,8 @@
 Real Madrid,  Osasuna
+Real Madrid
 Hatayspor
 Antalyaspor
+Amedspor
 CHP Oğuz Kaan Salıcı
 Anadolu Efes
 İstanbulspor - Adanaspor
@@ -9,12 +11,10 @@ Galatasaray - Samsunspor maçı
 Fenerbahçe
 Avrupa Ligi
 Son dakika deprem
-Icardi
 Kasımpaşa - Kayserispor
+Icardi
 TRT 1
 Deprem son dakika
 Icardi sakatlık
 TRT
 Ümit Uysal
-Mourinho
-Ankaragücü
