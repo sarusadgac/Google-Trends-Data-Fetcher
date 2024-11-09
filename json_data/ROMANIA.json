@@ -15,11 +15,6 @@
         "pubdate": "Fri, 08 Nov 2024 10:00:00 +0200"
     },
     {
-        "title": "Oțelul  Botoşani",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#O%C8%9Belul%20%20Boto%C5%9Fani",
-        "pubdate": "Fri, 08 Nov 2024 18:00:00 +0200"
-    },
-    {
         "title": "Dyson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Dyson",
         "pubdate": "Fri, 08 Nov 2024 11:00:00 +0200"
@@ -60,11 +55,6 @@
         "pubdate": "Fri, 08 Nov 2024 07:00:00 +0200"
     },
     {
-        "title": "Anvelope",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Anvelope",
-        "pubdate": "Fri, 08 Nov 2024 13:00:00 +0200"
-    },
-    {
         "title": "Indemnizatie handicap grav",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Indemnizatie%20handicap%20grav",
         "pubdate": "Fri, 08 Nov 2024 00:00:00 +0200"
@@ -98,5 +88,15 @@
         "title": "Ema",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ema",
         "pubdate": "Fri, 08 Nov 2024 08:00:00 +0200"
+    },
+    {
+        "title": "Florinel Coman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Florinel%20Coman",
+        "pubdate": "Fri, 08 Nov 2024 11:00:00 +0200"
+    },
+    {
+        "title": "Iohannis Orban",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Iohannis%20Orban",
+        "pubdate": "Fri, 08 Nov 2024 07:00:00 +0200"
     }
 ]

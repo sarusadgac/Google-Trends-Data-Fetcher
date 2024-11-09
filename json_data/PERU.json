@@ -5,14 +5,14 @@
         "pubdate": "Fri, 08 Nov 2024 12:00:00 -0500"
     },
     {
-        "title": "Teletrabajo 11, 12 y 13 de noviembre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Teletrabajo%2011,%2012%20y%2013%20de%20noviembre",
-        "pubdate": "Fri, 08 Nov 2024 09:00:00 -0500"
-    },
-    {
         "title": "Rayo Vallecano",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Rayo%20Vallecano",
         "pubdate": "Fri, 08 Nov 2024 15:00:00 -0500"
+    },
+    {
+        "title": "Teletrabajo 11, 12 y 13 de noviembre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Teletrabajo%2011,%2012%20y%2013%20de%20noviembre",
+        "pubdate": "Fri, 08 Nov 2024 09:00:00 -0500"
     },
     {
         "title": "John Kelvin",
@@ -50,8 +50,8 @@
         "pubdate": "Fri, 08 Nov 2024 17:00:00 -0500"
     },
     {
-        "title": "Lecce  Empoli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Lecce%20%20Empoli",
+        "title": "LECCE. Empoli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#LECCE.%20Empoli",
         "pubdate": "Fri, 08 Nov 2024 17:00:00 -0500"
     },
     {
@@ -90,13 +90,13 @@
         "pubdate": "Thu, 07 Nov 2024 00:00:00 -0500"
     },
     {
-        "title": "Velez vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Velez%20vs",
-        "pubdate": "Thu, 07 Nov 2024 20:00:00 -0500"
-    },
-    {
         "title": "Viktoria plzeň  Real Sociedad",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Viktoria%20plze%C5%88%20%20Real%20Sociedad",
         "pubdate": "Thu, 07 Nov 2024 16:00:00 -0500"
+    },
+    {
+        "title": "Ludogorets  Athletic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Ludogorets%20%20Athletic",
+        "pubdate": "Thu, 07 Nov 2024 14:00:00 -0500"
     }
 ]
