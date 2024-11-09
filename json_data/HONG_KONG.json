@@ -20,11 +20,6 @@
         "pubdate": "Sat, 09 Nov 2024 19:00:00 +0800"
     },
     {
-        "title": "周梓樂",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%91%A8%E6%A2%93%E6%A8%82",
-        "pubdate": "Sat, 09 Nov 2024 11:00:00 +0800"
-    },
-    {
         "title": "夏寶龍",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%A4%8F%E5%AF%B6%E9%BE%8D",
         "pubdate": "Sat, 09 Nov 2024 08:00:00 +0800"
@@ -98,5 +93,10 @@
         "title": "戰場上",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E6%88%B0%E5%A0%B4%E4%B8%8A",
         "pubdate": "Thu, 07 Nov 2024 01:00:00 +0800"
+    },
+    {
+        "title": "7-11",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#7-11",
+        "pubdate": "Thu, 07 Nov 2024 00:00:00 +0800"
     }
 ]
