@@ -10,11 +10,6 @@
         "pubdate": "Sat, 09 Nov 2024 00:00:00 -0500"
     },
     {
-        "title": "Vancouver Whitecaps",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Vancouver%20Whitecaps",
-        "pubdate": "Sat, 09 Nov 2024 02:00:00 -0500"
-    },
-    {
         "title": "Shea Weber",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Shea%20Weber",
         "pubdate": "Sat, 09 Nov 2024 01:00:00 -0500"
@@ -73,6 +68,11 @@
         "title": "Brock Boeser",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Brock%20Boeser",
         "pubdate": "Fri, 08 Nov 2024 10:00:00 -0500"
+    },
+    {
+        "title": "Whitecaps",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Whitecaps",
+        "pubdate": "Fri, 08 Nov 2024 21:00:00 -0500"
     },
     {
         "title": "Aeroplan 10th Anniversary",
