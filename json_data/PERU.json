@@ -1,5 +1,10 @@
 [
     {
+        "title": "APEC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#APEC",
+        "pubdate": "Fri, 08 Nov 2024 09:00:00 -0500"
+    },
+    {
         "title": "Al Riyadh  Al-Nassr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Al%20Riyadh%20%20Al-Nassr",
         "pubdate": "Fri, 08 Nov 2024 12:00:00 -0500"
@@ -8,11 +13,6 @@
         "title": "Rayo Vallecano",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Rayo%20Vallecano",
         "pubdate": "Fri, 08 Nov 2024 15:00:00 -0500"
-    },
-    {
-        "title": "Teletrabajo 11, 12 y 13 de noviembre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Teletrabajo%2011,%2012%20y%2013%20de%20noviembre",
-        "pubdate": "Fri, 08 Nov 2024 09:00:00 -0500"
     },
     {
         "title": "John Kelvin",
@@ -40,18 +40,18 @@
         "pubdate": "Fri, 08 Nov 2024 16:00:00 -0500"
     },
     {
-        "title": "Megapuerto de Chancay",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Megapuerto%20de%20Chancay",
-        "pubdate": "Fri, 08 Nov 2024 13:00:00 -0500"
-    },
-    {
         "title": "Juan Felipe Muñoz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Juan%20Felipe%20Mu%C3%B1oz",
         "pubdate": "Fri, 08 Nov 2024 17:00:00 -0500"
     },
     {
-        "title": "LECCE. Empoli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#LECCE.%20Empoli",
+        "title": "Megapuerto de Chancay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Megapuerto%20de%20Chancay",
+        "pubdate": "Fri, 08 Nov 2024 13:00:00 -0500"
+    },
+    {
+        "title": "Lecce  Empoli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Lecce%20%20Empoli",
         "pubdate": "Fri, 08 Nov 2024 17:00:00 -0500"
     },
     {
@@ -90,13 +90,13 @@
         "pubdate": "Thu, 07 Nov 2024 00:00:00 -0500"
     },
     {
+        "title": "Chelsea vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Chelsea%20vs",
+        "pubdate": "Thu, 07 Nov 2024 17:00:00 -0500"
+    },
+    {
         "title": "Viktoria plzeň  Real Sociedad",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Viktoria%20plze%C5%88%20%20Real%20Sociedad",
         "pubdate": "Thu, 07 Nov 2024 16:00:00 -0500"
-    },
-    {
-        "title": "Ludogorets  Athletic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Ludogorets%20%20Athletic",
-        "pubdate": "Thu, 07 Nov 2024 14:00:00 -0500"
     }
 ]

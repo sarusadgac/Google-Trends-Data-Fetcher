@@ -35,6 +35,11 @@
         "pubdate": "Fri, 08 Nov 2024 15:00:00 +0100"
     },
     {
+        "title": "Elche CF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Elche%20CF",
+        "pubdate": "Fri, 08 Nov 2024 20:00:00 +0100"
+    },
+    {
         "title": "Maribel Villaplana",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Maribel%20Villaplana",
         "pubdate": "Fri, 08 Nov 2024 20:00:00 +0100"
@@ -43,11 +48,6 @@
         "title": "Ayuso",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ayuso",
         "pubdate": "Fri, 08 Nov 2024 06:00:00 +0100"
-    },
-    {
-        "title": "Elche CF  Almería",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Elche%20CF%20%20Almer%C3%ADa",
-        "pubdate": "Fri, 08 Nov 2024 20:00:00 +0100"
     },
     {
         "title": "Asalto al Banco Central",
@@ -85,6 +85,11 @@
         "pubdate": "Fri, 08 Nov 2024 19:00:00 +0100"
     },
     {
+        "title": "Helena Jubany",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Helena%20Jubany",
+        "pubdate": "Fri, 08 Nov 2024 16:00:00 +0100"
+    },
+    {
         "title": "Liam Payne",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Liam%20Payne",
         "pubdate": "Fri, 08 Nov 2024 09:00:00 +0100"
@@ -93,10 +98,5 @@
         "title": "Algemesi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Algemesi",
         "pubdate": "Fri, 08 Nov 2024 12:00:00 +0100"
-    },
-    {
-        "title": "UDEF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#UDEF",
-        "pubdate": "Fri, 08 Nov 2024 20:00:00 +0100"
     }
 ]

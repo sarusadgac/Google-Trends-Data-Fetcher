@@ -5,8 +5,8 @@
         "pubdate": "Fri, 08 Nov 2024 16:00:00 -0500"
     },
     {
-        "title": "Palmeiras",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Palmeiras",
+        "title": "Palmeiras x Grêmio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Palmeiras%20x%20Gr%C3%AAmio",
         "pubdate": "Fri, 08 Nov 2024 10:00:00 -0500"
     },
     {
@@ -40,19 +40,14 @@
         "pubdate": "Fri, 08 Nov 2024 19:00:00 -0500"
     },
     {
-        "title": "Europa League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Europa%20League",
-        "pubdate": "Fri, 08 Nov 2024 12:00:00 -0500"
-    },
-    {
         "title": "Grammy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Grammy",
         "pubdate": "Fri, 08 Nov 2024 12:00:00 -0500"
     },
     {
-        "title": "Olympique de Marseille",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Olympique%20de%20Marseille",
-        "pubdate": "Fri, 08 Nov 2024 15:00:00 -0500"
+        "title": "Europa League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Europa%20League",
+        "pubdate": "Fri, 08 Nov 2024 12:00:00 -0500"
     },
     {
         "title": "Union Berlin",
@@ -63,6 +58,11 @@
         "title": "Décimo terceiro salário INSS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#D%C3%A9cimo%20terceiro%20sal%C3%A1rio%20INSS",
         "pubdate": "Fri, 08 Nov 2024 06:00:00 -0500"
+    },
+    {
+        "title": "Olympique",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Olympique",
+        "pubdate": "Fri, 08 Nov 2024 15:00:00 -0500"
     },
     {
         "title": "Manu Gavassi",
@@ -80,6 +80,11 @@
         "pubdate": "Fri, 08 Nov 2024 14:00:00 -0500"
     },
     {
+        "title": "Rayo Vallecano",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Rayo%20Vallecano",
+        "pubdate": "Fri, 08 Nov 2024 10:00:00 -0500"
+    },
+    {
         "title": "Dom antonio de Orleans e Bragança",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dom%20antonio%20de%20Orleans%20e%20Bragan%C3%A7a",
         "pubdate": "Fri, 08 Nov 2024 13:00:00 -0500"
@@ -93,10 +98,5 @@
         "title": "Al-Ahli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Al-Ahli",
         "pubdate": "Fri, 08 Nov 2024 12:00:00 -0500"
-    },
-    {
-        "title": "IPCA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#IPCA",
-        "pubdate": "Fri, 08 Nov 2024 19:00:00 -0500"
     }
 ]
