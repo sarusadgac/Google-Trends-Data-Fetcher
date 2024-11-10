@@ -5,6 +5,11 @@
         "pubdate": "Sun, 10 Nov 2024 14:00:00 -0500"
     },
     {
+        "title": "Chiefs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Chiefs",
+        "pubdate": "Sun, 10 Nov 2024 15:00:00 -0500"
+    },
+    {
         "title": "Yellowstone",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Yellowstone",
         "pubdate": "Sun, 10 Nov 2024 12:00:00 -0500"
@@ -13,11 +18,6 @@
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Arsenal",
         "pubdate": "Sun, 10 Nov 2024 11:00:00 -0500"
-    },
-    {
-        "title": "Chiefs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Chiefs",
-        "pubdate": "Sun, 10 Nov 2024 15:00:00 -0500"
     },
     {
         "title": "Australia vs Pakistan",
@@ -40,9 +40,19 @@
         "pubdate": "Sun, 10 Nov 2024 10:00:00 -0500"
     },
     {
+        "title": "Steelers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Steelers",
+        "pubdate": "Sun, 10 Nov 2024 15:00:00 -0500"
+    },
+    {
         "title": "FEMA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#FEMA",
         "pubdate": "Sun, 10 Nov 2024 00:00:00 -0500"
+    },
+    {
+        "title": "Avian influenza",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Avian%20influenza",
+        "pubdate": "Sun, 10 Nov 2024 08:00:00 -0500"
     },
     {
         "title": "Raptors vs Clippers",
@@ -50,9 +60,9 @@
         "pubdate": "Sun, 10 Nov 2024 01:00:00 -0500"
     },
     {
-        "title": "Avian influenza",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Avian%20influenza",
-        "pubdate": "Sun, 10 Nov 2024 08:00:00 -0500"
+        "title": "49ers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#49ers",
+        "pubdate": "Sun, 10 Nov 2024 15:00:00 -0500"
     },
     {
         "title": "Toronto Argonauts",
@@ -70,33 +80,23 @@
         "pubdate": "Sun, 10 Nov 2024 11:00:00 -0500"
     },
     {
+        "title": "Vikings",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Vikings",
+        "pubdate": "Sun, 10 Nov 2024 17:00:00 -0500"
+    },
+    {
         "title": "Wicked movie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Wicked%20movie",
         "pubdate": "Sun, 10 Nov 2024 16:00:00 -0500"
     },
     {
-        "title": "Tottenham vs Ipswich Town",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Tottenham%20vs%20Ipswich%20Town",
-        "pubdate": "Sun, 10 Nov 2024 12:00:00 -0500"
+        "title": "BTC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#BTC",
+        "pubdate": "Sun, 10 Nov 2024 17:00:00 -0500"
     },
     {
         "title": "ATP Finals",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#ATP%20Finals",
         "pubdate": "Sun, 10 Nov 2024 10:00:00 -0500"
-    },
-    {
-        "title": "Dogecoin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Dogecoin",
-        "pubdate": "Sun, 10 Nov 2024 14:00:00 -0500"
-    },
-    {
-        "title": "Steelers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Steelers",
-        "pubdate": "Sun, 10 Nov 2024 15:00:00 -0500"
-    },
-    {
-        "title": "Bryan Adams",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bryan%20Adams",
-        "pubdate": "Sun, 10 Nov 2024 00:00:00 -0500"
     }
 ]

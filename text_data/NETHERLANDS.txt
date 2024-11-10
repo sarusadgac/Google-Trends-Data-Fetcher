@@ -1,9 +1,10 @@
 Ajax
 Almere  Feyenoord
-Willem 2
+AZ
 Liverpool
+Medisch Centrum West
 Heerenveen
-Angel Daleman
+Ellemieke Vermolen
 FC Groningen
 NEC
 PEC Zwolle
@@ -17,4 +18,3 @@ Oekraïne
 Ajax
 Europa League
 Bitcoin
-Trump
