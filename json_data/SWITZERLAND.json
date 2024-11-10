@@ -1,10 +1,5 @@
 [
     {
-        "title": "DSDS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#DSDS",
-        "pubdate": "Sun, 10 Nov 2024 01:00:00 +0100"
-    },
-    {
         "title": "Christian Jährig",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Christian%20J%C3%A4hrig",
         "pubdate": "Sun, 10 Nov 2024 00:00:00 +0100"
@@ -13,6 +8,11 @@
         "title": "Andrea Berg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Andrea%20Berg",
         "pubdate": "Sun, 10 Nov 2024 00:00:00 +0100"
+    },
+    {
+        "title": "Lindt Dubai-Schokolade",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lindt%20Dubai-Schokolade",
+        "pubdate": "Sun, 10 Nov 2024 08:00:00 +0100"
     },
     {
         "title": "Coco Gauff",
@@ -50,14 +50,14 @@
         "pubdate": "Sat, 09 Nov 2024 21:00:00 +0100"
     },
     {
-        "title": "FC Thun",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Thun",
-        "pubdate": "Sat, 09 Nov 2024 20:00:00 +0100"
-    },
-    {
         "title": "Winterthur – Lausanne-Sport",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Winterthur%20%E2%80%93%20Lausanne-Sport",
         "pubdate": "Sat, 09 Nov 2024 19:00:00 +0100"
+    },
+    {
+        "title": "FC Thun",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Thun",
+        "pubdate": "Sat, 09 Nov 2024 20:00:00 +0100"
     },
     {
         "title": "Star Academy",
