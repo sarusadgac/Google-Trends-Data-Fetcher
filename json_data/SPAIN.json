@@ -1,5 +1,10 @@
 [
     {
+        "title": "Betis  Celta de Vigo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Betis%20%20Celta%20de%20Vigo",
+        "pubdate": "Sun, 10 Nov 2024 14:00:00 +0100"
+    },
+    {
         "title": "Inter Miami - Atlanta United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Inter%20Miami%20-%20Atlanta%20United",
         "pubdate": "Sun, 10 Nov 2024 03:00:00 +0100"
@@ -15,6 +20,11 @@
         "pubdate": "Sun, 10 Nov 2024 00:00:00 +0100"
     },
     {
+        "title": "Cursa Bombers 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Cursa%20Bombers%202024",
+        "pubdate": "Sun, 10 Nov 2024 09:00:00 +0100"
+    },
+    {
         "title": "Alberto Fernández",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Alberto%20Fern%C3%A1ndez",
         "pubdate": "Sun, 10 Nov 2024 11:00:00 +0100"
@@ -23,11 +33,6 @@
         "title": "Gilet",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Gilet",
         "pubdate": "Sun, 10 Nov 2024 00:00:00 +0100"
-    },
-    {
-        "title": "Real Madrid - Gran Canaria",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Real%20Madrid%20-%20Gran%20Canaria",
-        "pubdate": "Sun, 10 Nov 2024 13:00:00 +0100"
     },
     {
         "title": "Real Murcia",
@@ -93,10 +98,5 @@
         "title": "SD Huesca  Real Zaragoza",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#SD%20Huesca%20%20Real%20Zaragoza",
         "pubdate": "Sat, 09 Nov 2024 18:00:00 +0100"
-    },
-    {
-        "title": "Liverpool - Aston Villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Liverpool%20-%20Aston%20Villa",
-        "pubdate": "Sat, 09 Nov 2024 21:00:00 +0100"
     }
 ]

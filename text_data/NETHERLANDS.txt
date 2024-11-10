@@ -1,4 +1,6 @@
 Almere  Feyenoord
+Twente  Ajax
+NAC PSV
 RKC  NEC
 FC Groningen
 PEC Zwolle
@@ -16,5 +18,3 @@ Europa League
 Bitcoin
 Trump
 Donald Trump
-Kamala Harris
-PSV Girona

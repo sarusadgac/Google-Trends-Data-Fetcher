@@ -1,5 +1,10 @@
 [
     {
+        "title": "Atalanta - Udinese",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Atalanta%20-%20Udinese",
+        "pubdate": "Sun, 10 Nov 2024 08:00:00 -0500"
+    },
+    {
         "title": "Real Madrid  Osasuna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Real%20Madrid%20%20Osasuna",
         "pubdate": "Sat, 09 Nov 2024 08:00:00 -0500"
@@ -30,19 +35,14 @@
         "pubdate": "Sat, 09 Nov 2024 17:00:00 -0500"
     },
     {
-        "title": "Cagliari  Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Cagliari%20%20Milan",
+        "title": "Cagliari - Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Cagliari%20-%20Milan",
         "pubdate": "Sat, 09 Nov 2024 12:00:00 -0500"
     },
     {
         "title": "St. Pauli  Bayern",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#St.%20Pauli%20%20Bayern",
         "pubdate": "Sat, 09 Nov 2024 09:00:00 -0500"
-    },
-    {
-        "title": "Atlético Bucaramanga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Atl%C3%A9tico%20Bucaramanga",
-        "pubdate": "Sat, 09 Nov 2024 22:00:00 -0500"
     },
     {
         "title": "LaLiga",
@@ -65,13 +65,18 @@
         "pubdate": "Sat, 09 Nov 2024 15:00:00 -0500"
     },
     {
+        "title": "Atlético Bucaramanga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Atl%C3%A9tico%20Bucaramanga",
+        "pubdate": "Sat, 09 Nov 2024 22:00:00 -0500"
+    },
+    {
         "title": "Mainz 05  Dortmund",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Mainz%2005%20%20Dortmund",
         "pubdate": "Sat, 09 Nov 2024 10:00:00 -0500"
     },
     {
-        "title": "Tony Todd",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Tony%20Todd",
+        "title": "Actor Tony Todd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Actor%20Tony%20Todd",
         "pubdate": "Sat, 09 Nov 2024 11:00:00 -0500"
     },
     {
@@ -93,10 +98,5 @@
         "title": "West Ham - Everton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#West%20Ham%20-%20Everton",
         "pubdate": "Sat, 09 Nov 2024 11:00:00 -0500"
-    },
-    {
-        "title": "Cucuta Deportivo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Cucuta%20Deportivo",
-        "pubdate": "Sat, 09 Nov 2024 18:00:00 -0500"
     }
 ]
