@@ -45,8 +45,8 @@
         "pubdate": "Sat, 09 Nov 2024 10:00:00 -0500"
     },
     {
-        "title": "Tony Todd",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Tony%20Todd",
+        "title": "Actor Tony Todd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Actor%20Tony%20Todd",
         "pubdate": "Sat, 09 Nov 2024 09:00:00 -0500"
     },
     {
@@ -68,11 +68,6 @@
         "title": "Arcane",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Arcane",
         "pubdate": "Sat, 09 Nov 2024 08:00:00 -0500"
-    },
-    {
-        "title": "Sismo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Sismo",
-        "pubdate": "Sat, 09 Nov 2024 18:00:00 -0500"
     },
     {
         "title": "Brentford - Bournemouth",
@@ -98,5 +93,10 @@
         "title": "Atlético Madrid, Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Atl%C3%A9tico%20Madrid,%20Barcelona",
         "pubdate": "Sat, 09 Nov 2024 14:00:00 -0500"
+    },
+    {
+        "title": "RB Leipzig  Mönchengladbach",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#RB%20Leipzig%20%20M%C3%B6nchengladbach",
+        "pubdate": "Sat, 09 Nov 2024 15:00:00 -0500"
     }
 ]
