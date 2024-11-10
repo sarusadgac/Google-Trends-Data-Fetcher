@@ -1,5 +1,10 @@
 [
     {
+        "title": "Real Sociedad - Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Real%20Sociedad%20-%20Barcelona",
+        "pubdate": "Sun, 10 Nov 2024 08:00:00 -0500"
+    },
+    {
         "title": "Chelsea - Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Chelsea%20-%20Arsenal",
         "pubdate": "Sun, 10 Nov 2024 11:00:00 -0500"
@@ -15,8 +20,8 @@
         "pubdate": "Sun, 10 Nov 2024 10:00:00 -0500"
     },
     {
-        "title": "Tottenham - Ipswich",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Tottenham%20-%20Ipswich",
+        "title": "Tottenham  Ipswich",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Tottenham%20%20Ipswich",
         "pubdate": "Sun, 10 Nov 2024 09:00:00 -0500"
     },
     {
@@ -27,11 +32,6 @@
     {
         "title": "Atalanta - Udinese",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Atalanta%20-%20Udinese",
-        "pubdate": "Sun, 10 Nov 2024 08:00:00 -0500"
-    },
-    {
-        "title": "Barcelona vs Real Sociedad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Barcelona%20vs%20Real%20Sociedad",
         "pubdate": "Sun, 10 Nov 2024 08:00:00 -0500"
     },
     {
@@ -50,13 +50,13 @@
         "pubdate": "Sun, 10 Nov 2024 14:00:00 -0500"
     },
     {
-        "title": "Roma vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Roma%20vs",
-        "pubdate": "Sun, 10 Nov 2024 11:00:00 -0500"
+        "title": "Getafe  Girona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Getafe%20%20Girona",
+        "pubdate": "Sun, 10 Nov 2024 14:00:00 -0500"
     },
     {
-        "title": "Getafe-Girona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Getafe-Girona",
+        "title": "Valladolid - Athletic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Valladolid%20-%20Athletic",
         "pubdate": "Sun, 10 Nov 2024 14:00:00 -0500"
     },
     {
@@ -65,9 +65,14 @@
         "pubdate": "Sun, 10 Nov 2024 14:00:00 -0500"
     },
     {
-        "title": "Valladolid - Athletic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Valladolid%20-%20Athletic",
-        "pubdate": "Sun, 10 Nov 2024 14:00:00 -0500"
+        "title": "Roma vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Roma%20vs",
+        "pubdate": "Sun, 10 Nov 2024 11:00:00 -0500"
+    },
+    {
+        "title": "Inter - Napoli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Inter%20-%20Napoli",
+        "pubdate": "Sun, 10 Nov 2024 15:00:00 -0500"
     },
     {
         "title": "Fiorentina - Hellas Verona",
@@ -93,10 +98,5 @@
         "title": "Cagliari  Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Cagliari%20%20Milan",
         "pubdate": "Sat, 09 Nov 2024 12:00:00 -0500"
-    },
-    {
-        "title": "Inter Miami  Atlanta United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Inter%20Miami%20%20Atlanta%20United",
-        "pubdate": "Sat, 09 Nov 2024 20:00:00 -0500"
     }
 ]
