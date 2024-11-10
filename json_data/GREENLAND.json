@@ -5,29 +5,9 @@
         "pubdate": "Sun, 10 Nov 2024 18:00:00 +0100"
     },
     {
-        "title": "LOSC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#LOSC",
-        "pubdate": "Sun, 10 Nov 2024 15:00:00 +0100"
-    },
-    {
-        "title": "Giants vs Panthers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Giants%20vs%20Panthers",
-        "pubdate": "Sun, 10 Nov 2024 07:00:00 -0800"
-    },
-    {
         "title": "Chelsea vs Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Chelsea%20vs%20Arsenal",
         "pubdate": "Sun, 10 Nov 2024 16:00:00 +0000"
-    },
-    {
-        "title": "うくしま",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%81%86%E3%81%8F%E3%81%97%E3%81%BE",
-        "pubdate": "Mon, 11 Nov 2024 02:00:00 +0900"
-    },
-    {
-        "title": "День полиции",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%94%D0%B5%D0%BD%D1%8C%20%D0%BF%D0%BE%D0%BB%D0%B8%D1%86%D0%B8%D0%B8",
-        "pubdate": "Sun, 10 Nov 2024 06:00:00 +0300"
     },
     {
         "title": "Australia vs Pakistan",
@@ -40,9 +20,29 @@
         "pubdate": "Mon, 11 Nov 2024 01:00:00 +0800"
     },
     {
-        "title": "Magyar Péter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Magyar%20P%C3%A9ter",
-        "pubdate": "Sun, 10 Nov 2024 17:00:00 +0100"
+        "title": "LOSC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#LOSC",
+        "pubdate": "Sun, 10 Nov 2024 15:00:00 +0100"
+    },
+    {
+        "title": "うくしま",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%81%86%E3%81%8F%E3%81%97%E3%81%BE",
+        "pubdate": "Mon, 11 Nov 2024 02:00:00 +0900"
+    },
+    {
+        "title": "Giants vs Panthers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Giants%20vs%20Panthers",
+        "pubdate": "Sun, 10 Nov 2024 07:00:00 -0800"
+    },
+    {
+        "title": "День полиции",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%94%D0%B5%D0%BD%D1%8C%20%D0%BF%D0%BE%D0%BB%D0%B8%D1%86%D0%B8%D0%B8",
+        "pubdate": "Sun, 10 Nov 2024 06:00:00 +0300"
+    },
+    {
+        "title": "Atalanta-Udinese",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Atalanta-Udinese",
+        "pubdate": "Sun, 10 Nov 2024 11:00:00 +0100"
     },
     {
         "title": "Chelsea - Arsenal",
@@ -50,39 +50,34 @@
         "pubdate": "Sun, 10 Nov 2024 11:00:00 -0500"
     },
     {
-        "title": "Man United vs Leicester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Man%20United%20vs%20Leicester%20City",
-        "pubdate": "Sun, 10 Nov 2024 14:00:00 +0300"
+        "title": "India vs South Africa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#India%20vs%20South%20Africa",
+        "pubdate": "Mon, 11 Nov 2024 01:00:00 +0800"
     },
     {
-        "title": "FAI Cup final",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#FAI%20Cup%20final",
-        "pubdate": "Sun, 10 Nov 2024 11:00:00 +0000"
+        "title": "Chelsea x Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Chelsea%20x%20Arsenal",
+        "pubdate": "Sun, 10 Nov 2024 11:00:00 -0500"
     },
     {
-        "title": "ارسنال",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#%D8%A7%D8%B1%D8%B3%D9%86%D8%A7%D9%84",
-        "pubdate": "Sun, 10 Nov 2024 19:00:00 +0300"
+        "title": "Man-city",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Man-city",
+        "pubdate": "Mon, 11 Nov 2024 01:00:00 +0700"
     },
     {
-        "title": "Queretaro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Queretaro",
-        "pubdate": "Sun, 10 Nov 2024 08:00:00 -0600"
+        "title": "MAN CITY",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#MAN%20CITY",
+        "pubdate": "Mon, 11 Nov 2024 02:00:00 +0800"
     },
     {
-        "title": "Cercle  Anderlecht",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Cercle%20%20Anderlecht",
-        "pubdate": "Sun, 10 Nov 2024 13:00:00 +0100"
+        "title": "O'Higgins  Cobreloa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#O'Higgins%20%20Cobreloa",
+        "pubdate": "Sun, 10 Nov 2024 12:00:00 -0300"
     },
     {
-        "title": "الدوري الإنجليزي الممتاز",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=EG#%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A%20%D8%A7%D9%84%D8%A5%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%20%D8%A7%D9%84%D9%85%D9%85%D8%AA%D8%A7%D8%B2",
-        "pubdate": "Sun, 10 Nov 2024 18:00:00 +0200"
-    },
-    {
-        "title": "Yemen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Yemen",
-        "pubdate": "Mon, 11 Nov 2024 00:00:00 +0800"
+        "title": "Chelsea – Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Chelsea%20%E2%80%93%20Arsenal",
+        "pubdate": "Sun, 10 Nov 2024 19:00:00 +0200"
     },
     {
         "title": "Liverpool",
@@ -90,9 +85,14 @@
         "pubdate": "Sun, 10 Nov 2024 12:00:00 -0500"
     },
     {
-        "title": "Boleslav – Sparta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Boleslav%20%E2%80%93%20Sparta",
-        "pubdate": "Sun, 10 Nov 2024 15:00:00 +0100"
+        "title": "Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Man%20City",
+        "pubdate": "Mon, 11 Nov 2024 05:00:00 +1300"
+    },
+    {
+        "title": "Gallants vs Mamelodi Sundowns",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Gallants%20vs%20Mamelodi%20Sundowns",
+        "pubdate": "Sun, 10 Nov 2024 15:00:00 +0200"
     },
     {
         "title": "AIK",
