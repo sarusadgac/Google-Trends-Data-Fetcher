@@ -30,6 +30,11 @@
         "pubdate": "Sun, 10 Nov 2024 12:00:00 -0500"
     },
     {
+        "title": "Inter - Napoli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Inter%20-%20Napoli",
+        "pubdate": "Sun, 10 Nov 2024 15:00:00 -0500"
+    },
+    {
         "title": "Atalanta - Udinese",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Atalanta%20-%20Udinese",
         "pubdate": "Sun, 10 Nov 2024 08:00:00 -0500"
@@ -55,8 +60,8 @@
         "pubdate": "Sun, 10 Nov 2024 14:00:00 -0500"
     },
     {
-        "title": "Valladolid - Athletic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Valladolid%20-%20Athletic",
+        "title": "Valladolid  Athletic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Valladolid%20%20Athletic",
         "pubdate": "Sun, 10 Nov 2024 14:00:00 -0500"
     },
     {
@@ -70,14 +75,14 @@
         "pubdate": "Sun, 10 Nov 2024 11:00:00 -0500"
     },
     {
-        "title": "Inter - Napoli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Inter%20-%20Napoli",
-        "pubdate": "Sun, 10 Nov 2024 15:00:00 -0500"
+        "title": "Fiorentina  Hellas Verona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Fiorentina%20%20Hellas%20Verona",
+        "pubdate": "Sun, 10 Nov 2024 12:00:00 -0500"
     },
     {
-        "title": "Fiorentina - Hellas Verona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Fiorentina%20-%20Hellas%20Verona",
-        "pubdate": "Sun, 10 Nov 2024 12:00:00 -0500"
+        "title": "River Plate  Barracas Central",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#River%20Plate%20%20Barracas%20Central",
+        "pubdate": "Sun, 10 Nov 2024 16:00:00 -0500"
     },
     {
         "title": "Tony Rosado",
@@ -85,18 +90,13 @@
         "pubdate": "Sun, 10 Nov 2024 14:00:00 -0500"
     },
     {
+        "title": "Monza  Lazio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Monza%20%20Lazio",
+        "pubdate": "Sun, 10 Nov 2024 16:00:00 -0500"
+    },
+    {
         "title": "Real Madrid  Osasuna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Real%20Madrid%20%20Osasuna",
         "pubdate": "Sat, 09 Nov 2024 08:00:00 -0500"
-    },
-    {
-        "title": "Brighton  Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Brighton%20%20Manchester%20City",
-        "pubdate": "Sat, 09 Nov 2024 12:00:00 -0500"
-    },
-    {
-        "title": "Cagliari  Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Cagliari%20%20Milan",
-        "pubdate": "Sat, 09 Nov 2024 12:00:00 -0500"
     }
 ]
