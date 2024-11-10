@@ -1,38 +1,8 @@
 [
     {
-        "title": "Sarah Saldmann",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Sarah%20Saldmann",
-        "pubdate": "Sun, 10 Nov 2024 01:00:00 +0100"
-    },
-    {
-        "title": "Thunderbolts*",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Thunderbolts*",
-        "pubdate": "Sun, 10 Nov 2024 00:00:00 -0800"
-    },
-    {
-        "title": "エリザベス女王杯",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%82%A8%E3%83%AA%E3%82%B6%E3%83%99%E3%82%B9%E5%A5%B3%E7%8E%8B%E6%9D%AF",
-        "pubdate": "Sun, 10 Nov 2024 13:00:00 +0900"
-    },
-    {
-        "title": "DSDS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DSDS",
-        "pubdate": "Sun, 10 Nov 2024 03:00:00 +0100"
-    },
-    {
-        "title": "友愛邨",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%8F%8B%E6%84%9B%E9%82%A8",
-        "pubdate": "Sun, 10 Nov 2024 16:00:00 +0800"
-    },
-    {
-        "title": "День полиции",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%94%D0%B5%D0%BD%D1%8C%20%D0%BF%D0%BE%D0%BB%D0%B8%D1%86%D0%B8%D0%B8",
-        "pubdate": "Sun, 10 Nov 2024 06:00:00 +0300"
-    },
-    {
-        "title": "Australia vs Pakistan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Australia%20vs%20Pakistan",
-        "pubdate": "Sun, 10 Nov 2024 15:30:00 +0530"
+        "title": "Schalke – Jahn Regensburg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schalke%20%E2%80%93%20Jahn%20Regensburg",
+        "pubdate": "Sun, 10 Nov 2024 13:00:00 +0100"
     },
     {
         "title": "Man United vs Leicester City",
@@ -40,9 +10,39 @@
         "pubdate": "Sun, 10 Nov 2024 14:00:00 +0000"
     },
     {
-        "title": "Betis  Celta de Vigo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Betis%20%20Celta%20de%20Vigo",
-        "pubdate": "Sun, 10 Nov 2024 14:00:00 +0100"
+        "title": "Giants vs Panthers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Giants%20vs%20Panthers",
+        "pubdate": "Sun, 10 Nov 2024 07:00:00 -0800"
+    },
+    {
+        "title": "День полиции",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%94%D0%B5%D0%BD%D1%8C%20%D0%BF%D0%BE%D0%BB%D0%B8%D1%86%D0%B8%D0%B8",
+        "pubdate": "Sun, 10 Nov 2024 06:00:00 +0300"
+    },
+    {
+        "title": "エリザベス女王杯",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%82%A8%E3%83%AA%E3%82%B6%E3%83%99%E3%82%B9%E5%A5%B3%E7%8E%8B%E6%9D%AF",
+        "pubdate": "Sun, 10 Nov 2024 13:00:00 +0900"
+    },
+    {
+        "title": "Nice – Lille",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Nice%20%E2%80%93%20Lille",
+        "pubdate": "Sun, 10 Nov 2024 15:00:00 +0100"
+    },
+    {
+        "title": "友愛邨",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%8F%8B%E6%84%9B%E9%82%A8",
+        "pubdate": "Sun, 10 Nov 2024 16:00:00 +0800"
+    },
+    {
+        "title": "Australia vs Pakistan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Australia%20vs%20Pakistan",
+        "pubdate": "Sun, 10 Nov 2024 15:30:00 +0530"
+    },
+    {
+        "title": "토트넘 입스위치",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%ED%86%A0%ED%8A%B8%EB%84%98%20%EC%9E%85%EC%8A%A4%EC%9C%84%EC%B9%98",
+        "pubdate": "Mon, 11 Nov 2024 00:00:00 +0900"
     },
     {
         "title": "AIK",
@@ -50,53 +50,53 @@
         "pubdate": "Sun, 10 Nov 2024 15:00:00 +0100"
     },
     {
-        "title": "Christian Jährig",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Christian%20J%C3%A4hrig",
-        "pubdate": "Sun, 10 Nov 2024 00:00:00 +0100"
+        "title": "Man Utd đấu với Leicester",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Man%20Utd%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Leicester",
+        "pubdate": "Sun, 10 Nov 2024 21:00:00 +0700"
     },
     {
-        "title": "إنتر ميامي ضد أتلانتا يونايتد",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=EG#%D8%A5%D9%86%D8%AA%D8%B1%20%D9%85%D9%8A%D8%A7%D9%85%D9%8A%20%D8%B6%D8%AF%20%D8%A3%D8%AA%D9%84%D8%A7%D9%86%D8%AA%D8%A7%20%D9%8A%D9%88%D9%86%D8%A7%D9%8A%D8%AA%D8%AF",
-        "pubdate": "Sun, 10 Nov 2024 03:00:00 +0200"
+        "title": "艾熙",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%89%BE%E7%86%99",
+        "pubdate": "Sun, 10 Nov 2024 10:00:00 +0800"
     },
     {
-        "title": "Ivanka Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Ivanka%20Trump",
+        "title": "Raptors vs Clippers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Raptors%20vs%20Clippers",
+        "pubdate": "Sun, 10 Nov 2024 01:00:00 -0500"
+    },
+    {
+        "title": "حساب المواطن",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#%D8%AD%D8%B3%D8%A7%D8%A8%20%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B7%D9%86",
+        "pubdate": "Sun, 10 Nov 2024 02:00:00 +0300"
+    },
+    {
+        "title": "Dead butt syndrome",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Dead%20butt%20syndrome",
+        "pubdate": "Sun, 10 Nov 2024 09:00:00 +0100"
+    },
+    {
+        "title": "Unirea Slobozia - Farul Constanța",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Unirea%20Slobozia%20-%20Farul%20Constan%C8%9Ba",
+        "pubdate": "Sun, 10 Nov 2024 16:00:00 +0200"
+    },
+    {
+        "title": "مان يونايتد ضد ليستر سيتي",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=EG#%D9%85%D8%A7%D9%86%20%D9%8A%D9%88%D9%86%D8%A7%D9%8A%D8%AA%D8%AF%20%D8%B6%D8%AF%20%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%20%D8%B3%D9%8A%D8%AA%D9%8A",
+        "pubdate": "Sun, 10 Nov 2024 16:00:00 +0200"
+    },
+    {
+        "title": "צחי ברוורמן",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A6%D7%97%D7%99%20%D7%91%D7%A8%D7%95%D7%95%D7%A8%D7%9E%D7%9F",
         "pubdate": "Sun, 10 Nov 2024 08:00:00 +0200"
     },
     {
-        "title": "Göztepe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#G%C3%B6ztepe",
-        "pubdate": "Sun, 10 Nov 2024 14:00:00 +0300"
+        "title": "Gallants vs Mamelodi Sundowns",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Gallants%20vs%20Mamelodi%20Sundowns",
+        "pubdate": "Sun, 10 Nov 2024 15:00:00 +0200"
     },
     {
-        "title": "Sporting hoje",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sporting%20hoje",
-        "pubdate": "Sun, 10 Nov 2024 03:00:00 +0000"
-    },
-    {
-        "title": "Atalanta-Udinese",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Atalanta-Udinese",
-        "pubdate": "Sun, 10 Nov 2024 11:00:00 +0100"
-    },
-    {
-        "title": "Atalanta - Udinese",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Atalanta%20-%20Udinese",
-        "pubdate": "Sun, 10 Nov 2024 08:00:00 -0500"
-    },
-    {
-        "title": "Queretaro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Queretaro",
-        "pubdate": "Sun, 10 Nov 2024 08:00:00 -0600"
-    },
-    {
-        "title": "Man Utd  Leicester",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Man%20Utd%20%20Leicester",
-        "pubdate": "Sun, 10 Nov 2024 15:00:00 +0100"
-    },
-    {
-        "title": "New Zealand vs Sri Lanka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#New%20Zealand%20vs%20Sri%20Lanka",
-        "pubdate": "Sun, 10 Nov 2024 05:00:00 +1300"
+        "title": "Blau-Weiß Linz – rb Salzburg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Blau-Wei%C3%9F%20Linz%20%E2%80%93%20rb%20Salzburg",
+        "pubdate": "Sun, 10 Nov 2024 14:00:00 +0100"
     }
 ]
