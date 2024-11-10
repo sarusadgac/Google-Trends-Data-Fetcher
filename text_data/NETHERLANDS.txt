@@ -1,9 +1,7 @@
 Ajax
-Almere  Feyenoord
+Feyenoord
 AZ
-Liverpool
 Medisch Centrum West
-Heerenveen
 Ellemieke Vermolen
 FC Groningen
 NEC
@@ -18,3 +16,5 @@ Oekraïne
 Ajax
 Europa League
 Bitcoin
+Trump
+Donald Trump
