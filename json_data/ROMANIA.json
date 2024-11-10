@@ -25,6 +25,11 @@
         "pubdate": "Sat, 09 Nov 2024 04:00:00 +0200"
     },
     {
+        "title": "Cagliari - Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Cagliari%20-%20Milan",
+        "pubdate": "Sat, 09 Nov 2024 19:00:00 +0200"
+    },
+    {
         "title": "Rapid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Rapid",
         "pubdate": "Sat, 09 Nov 2024 22:00:00 +0200"
@@ -93,10 +98,5 @@
         "title": "Oțelul  Botoşani",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#O%C8%9Belul%20%20Boto%C5%9Fani",
         "pubdate": "Fri, 08 Nov 2024 18:00:00 +0200"
-    },
-    {
-        "title": "Samsung",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Samsung",
-        "pubdate": "Fri, 08 Nov 2024 09:00:00 +0200"
     }
 ]

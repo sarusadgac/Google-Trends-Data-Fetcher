@@ -5,6 +5,11 @@
         "pubdate": "Sun, 10 Nov 2024 00:00:00 +0100"
     },
     {
+        "title": "Aston Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Aston%20Villa",
+        "pubdate": "Sun, 10 Nov 2024 00:00:00 +0100"
+    },
+    {
         "title": "Brann mot Lillestrøm",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Brann%20mot%20Lillestr%C3%B8m",
         "pubdate": "Sat, 09 Nov 2024 13:00:00 +0100"
@@ -93,10 +98,5 @@
         "title": "Synne Vo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Synne%20Vo",
         "pubdate": "Fri, 08 Nov 2024 21:00:00 +0100"
-    },
-    {
-        "title": "Susie Wiles",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Susie%20Wiles",
-        "pubdate": "Fri, 08 Nov 2024 02:00:00 +0100"
     }
 ]
