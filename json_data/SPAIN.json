@@ -15,9 +15,19 @@
         "pubdate": "Sun, 10 Nov 2024 09:00:00 +0100"
     },
     {
+        "title": "Real Madrid - Gran Canaria",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Real%20Madrid%20-%20Gran%20Canaria",
+        "pubdate": "Sun, 10 Nov 2024 13:00:00 +0100"
+    },
+    {
         "title": "Sevilla",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Sevilla",
         "pubdate": "Sun, 10 Nov 2024 00:00:00 +0100"
+    },
+    {
+        "title": "Córdoba - Castellón",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#C%C3%B3rdoba%20-%20Castell%C3%B3n",
+        "pubdate": "Sun, 10 Nov 2024 15:00:00 +0100"
     },
     {
         "title": "Cursa Bombers 2024",
@@ -35,9 +45,34 @@
         "pubdate": "Sun, 10 Nov 2024 00:00:00 +0100"
     },
     {
+        "title": "Beatriz Montañez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Beatriz%20Monta%C3%B1ez",
+        "pubdate": "Sun, 10 Nov 2024 14:00:00 +0100"
+    },
+    {
+        "title": "Atalanta - Udinese",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Atalanta%20-%20Udinese",
+        "pubdate": "Sun, 10 Nov 2024 15:00:00 +0100"
+    },
+    {
+        "title": "Edurne",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Edurne",
+        "pubdate": "Sun, 10 Nov 2024 15:00:00 +0100"
+    },
+    {
+        "title": "Manchester United  Leicester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Manchester%20United%20%20Leicester%20City",
+        "pubdate": "Sun, 10 Nov 2024 15:00:00 +0100"
+    },
+    {
         "title": "Real Murcia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Real%20Murcia",
         "pubdate": "Sun, 10 Nov 2024 01:00:00 +0100"
+    },
+    {
+        "title": "Ferraz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ferraz",
+        "pubdate": "Sun, 10 Nov 2024 15:00:00 +0100"
     },
     {
         "title": "Real Madrid  Osasuna",
@@ -63,40 +98,5 @@
         "title": "Raul Asencio",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Raul%20Asencio",
         "pubdate": "Sat, 09 Nov 2024 15:00:00 +0100"
-    },
-    {
-        "title": "Manifestacion 9 noviembre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Manifestacion%209%20noviembre",
-        "pubdate": "Sat, 09 Nov 2024 15:00:00 +0100"
-    },
-    {
-        "title": "Brighton  Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Brighton%20%20Manchester%20City",
-        "pubdate": "Sat, 09 Nov 2024 18:00:00 +0100"
-    },
-    {
-        "title": "Ayax y Prok",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ayax%20y%20Prok",
-        "pubdate": "Sat, 09 Nov 2024 21:00:00 +0100"
-    },
-    {
-        "title": "Atlético Madrid, Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Atl%C3%A9tico%20Madrid,%20Barcelona",
-        "pubdate": "Sat, 09 Nov 2024 19:00:00 +0100"
-    },
-    {
-        "title": "Málaga - Cartagena",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#M%C3%A1laga%20-%20Cartagena",
-        "pubdate": "Sat, 09 Nov 2024 20:00:00 +0100"
-    },
-    {
-        "title": "Cagliari - Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Cagliari%20-%20Milan",
-        "pubdate": "Sat, 09 Nov 2024 18:00:00 +0100"
-    },
-    {
-        "title": "SD Huesca  Real Zaragoza",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#SD%20Huesca%20%20Real%20Zaragoza",
-        "pubdate": "Sat, 09 Nov 2024 18:00:00 +0100"
     }
 ]
