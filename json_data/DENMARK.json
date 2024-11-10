@@ -45,6 +45,11 @@
         "pubdate": "Sat, 09 Nov 2024 16:00:00 +0100"
     },
     {
+        "title": "Jada",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jada",
+        "pubdate": "Sat, 09 Nov 2024 22:00:00 +0100"
+    },
+    {
         "title": "Arcane",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Arcane",
         "pubdate": "Sat, 09 Nov 2024 01:00:00 +0100"
@@ -93,10 +98,5 @@
         "title": "Renault",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Renault",
         "pubdate": "Fri, 08 Nov 2024 09:00:00 +0100"
-    },
-    {
-        "title": "Liam Payne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Liam%20Payne",
-        "pubdate": "Fri, 08 Nov 2024 07:00:00 +0100"
     }
 ]

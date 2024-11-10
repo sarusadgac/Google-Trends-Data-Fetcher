@@ -1,5 +1,10 @@
 [
     {
+        "title": "Ivanka Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Ivanka%20Trump",
+        "pubdate": "Sun, 10 Nov 2024 08:00:00 +0200"
+    },
+    {
         "title": "Real Madrid – Osasuna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Real%20Madrid%20%E2%80%93%20Osasuna",
         "pubdate": "Sat, 09 Nov 2024 15:00:00 +0200"
@@ -93,10 +98,5 @@
         "title": "YouTube Premium",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#YouTube%20Premium",
         "pubdate": "Fri, 08 Nov 2024 12:00:00 +0200"
-    },
-    {
-        "title": "Amsterdam",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Amsterdam",
-        "pubdate": "Fri, 08 Nov 2024 21:00:00 +0200"
     }
 ]

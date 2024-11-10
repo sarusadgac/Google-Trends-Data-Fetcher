@@ -32,7 +32,7 @@
     {
         "title": "Benfica Porto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Benfica%20Porto",
-        "pubdate": "Sat, 09 Nov 2024 18:00:00 +0000"
+        "pubdate": "Sat, 09 Nov 2024 16:00:00 +0000"
     },
     {
         "title": "Real Madrid",
@@ -40,14 +40,14 @@
         "pubdate": "Sat, 09 Nov 2024 14:00:00 +0000"
     },
     {
-        "title": "Palmeiras",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Palmeiras",
-        "pubdate": "Sat, 09 Nov 2024 01:00:00 +0000"
-    },
-    {
         "title": "Pedro Machete",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pedro%20Machete",
         "pubdate": "Sat, 09 Nov 2024 14:00:00 +0000"
+    },
+    {
+        "title": "Palmeiras",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Palmeiras",
+        "pubdate": "Sat, 09 Nov 2024 01:00:00 +0000"
     },
     {
         "title": "Botafogo",
@@ -75,6 +75,11 @@
         "pubdate": "Sat, 09 Nov 2024 21:00:00 +0000"
     },
     {
+        "title": "Angers  PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Angers%20%20PSG",
+        "pubdate": "Sat, 09 Nov 2024 20:00:00 +0000"
+    },
+    {
         "title": "Liverpool  Aston Villa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Liverpool%20%20Aston%20Villa",
         "pubdate": "Sat, 09 Nov 2024 20:00:00 +0000"
@@ -93,10 +98,5 @@
         "title": "Juventus  Torino",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Juventus%20%20Torino",
         "pubdate": "Sat, 09 Nov 2024 20:00:00 +0000"
-    },
-    {
-        "title": "Famalicão  Arouca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Famalic%C3%A3o%20%20Arouca",
-        "pubdate": "Sat, 09 Nov 2024 18:00:00 +0000"
     }
 ]
