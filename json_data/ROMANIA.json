@@ -5,9 +5,19 @@
         "pubdate": "Sun, 10 Nov 2024 16:00:00 +0200"
     },
     {
+        "title": "Tottenham - Ipswich",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Tottenham%20-%20Ipswich",
+        "pubdate": "Sun, 10 Nov 2024 16:00:00 +0200"
+    },
+    {
         "title": "Alexitimia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Alexitimia",
         "pubdate": "Sun, 10 Nov 2024 13:00:00 +0200"
+    },
+    {
+        "title": "Meteo cod galben",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Meteo%20cod%20galben",
+        "pubdate": "Sun, 10 Nov 2024 11:00:00 +0200"
     },
     {
         "title": "U Cluj - FCSB",
@@ -88,15 +98,5 @@
         "title": "Coco Gauff",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Coco%20Gauff",
         "pubdate": "Sat, 09 Nov 2024 13:00:00 +0200"
-    },
-    {
-        "title": "Germania",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Germania",
-        "pubdate": "Sat, 09 Nov 2024 17:00:00 +0200"
-    },
-    {
-        "title": "Girona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Girona",
-        "pubdate": "Sat, 09 Nov 2024 00:00:00 +0200"
     }
 ]

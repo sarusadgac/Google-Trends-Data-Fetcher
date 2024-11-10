@@ -5,19 +5,24 @@
         "pubdate": "Sun, 10 Nov 2024 09:00:00 -0500"
     },
     {
-        "title": "Atalanta - Udinese",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Atalanta%20-%20Udinese",
-        "pubdate": "Sun, 10 Nov 2024 08:00:00 -0500"
-    },
-    {
         "title": "Tottenham  Ipswich",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Tottenham%20%20Ipswich",
         "pubdate": "Sun, 10 Nov 2024 09:00:00 -0500"
     },
     {
+        "title": "Atalanta - Udinese",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Atalanta%20-%20Udinese",
+        "pubdate": "Sun, 10 Nov 2024 08:00:00 -0500"
+    },
+    {
         "title": "Betis  Celta de Vigo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Betis%20%20Celta%20de%20Vigo",
         "pubdate": "Sun, 10 Nov 2024 09:00:00 -0500"
+    },
+    {
+        "title": "Chelsea - Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Chelsea%20-%20Arsenal",
+        "pubdate": "Sun, 10 Nov 2024 11:00:00 -0500"
     },
     {
         "title": "RCD Mallorca  Atlético Madrid",
@@ -33,6 +38,11 @@
         "title": "Barcelona vs Real Sociedad",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Barcelona%20vs%20Real%20Sociedad",
         "pubdate": "Sun, 10 Nov 2024 08:00:00 -0500"
+    },
+    {
+        "title": "Roma vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Roma%20vs",
+        "pubdate": "Sun, 10 Nov 2024 11:00:00 -0500"
     },
     {
         "title": "Real Madrid  Osasuna",
@@ -88,15 +98,5 @@
         "title": "Actor Tony Todd",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Actor%20Tony%20Todd",
         "pubdate": "Sat, 09 Nov 2024 09:00:00 -0500"
-    },
-    {
-        "title": "Leganés  Sevilla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Legan%C3%A9s%20%20Sevilla",
-        "pubdate": "Sat, 09 Nov 2024 16:00:00 -0500"
-    },
-    {
-        "title": "Juventus - Torino",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Juventus%20-%20Torino",
-        "pubdate": "Sat, 09 Nov 2024 16:00:00 -0500"
     }
 ]
