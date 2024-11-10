@@ -50,14 +50,14 @@
         "pubdate": "Sun, 10 Nov 2024 02:00:00 +0700"
     },
     {
-        "title": "RB Leipzig",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#RB%20Leipzig",
-        "pubdate": "Sun, 10 Nov 2024 02:00:00 +0700"
-    },
-    {
         "title": "NEC Nijmegen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#NEC%20Nijmegen",
         "pubdate": "Sun, 10 Nov 2024 11:00:00 +0700"
+    },
+    {
+        "title": "RB Leipzig",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#RB%20Leipzig",
+        "pubdate": "Sun, 10 Nov 2024 02:00:00 +0700"
     },
     {
         "title": "KFC",
