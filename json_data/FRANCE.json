@@ -5,6 +5,11 @@
         "pubdate": "Mon, 11 Nov 2024 01:00:00 +0100"
     },
     {
+        "title": "11 novembre armistice",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#11%20novembre%20armistice",
+        "pubdate": "Mon, 11 Nov 2024 01:00:00 +0100"
+    },
+    {
         "title": "Lyon – Saint-Étienne",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Lyon%20%E2%80%93%20Saint-%C3%89tienne",
         "pubdate": "Sun, 10 Nov 2024 14:00:00 +0100"
@@ -25,6 +30,11 @@
         "pubdate": "Sun, 10 Nov 2024 17:00:00 +0100"
     },
     {
+        "title": "La grande vadrouille",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#La%20grande%20vadrouille",
+        "pubdate": "Sun, 10 Nov 2024 21:00:00 +0100"
+    },
+    {
         "title": "11 novembre",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#11%20novembre",
         "pubdate": "Sun, 10 Nov 2024 21:00:00 +0100"
@@ -40,19 +50,9 @@
         "pubdate": "Sun, 10 Nov 2024 17:00:00 +0100"
     },
     {
-        "title": "Christophe Michalak",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Christophe%20Michalak",
-        "pubdate": "Sun, 10 Nov 2024 18:00:00 +0100"
-    },
-    {
         "title": "Benfica – Porto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Benfica%20%E2%80%93%20Porto",
         "pubdate": "Sun, 10 Nov 2024 23:00:00 +0100"
-    },
-    {
-        "title": "Armistice",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Armistice",
-        "pubdate": "Sun, 10 Nov 2024 20:00:00 +0100"
     },
     {
         "title": "Patrick Sabatier",
@@ -65,6 +65,11 @@
         "pubdate": "Sun, 10 Nov 2024 01:00:00 +0100"
     },
     {
+        "title": "Armistice",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Armistice",
+        "pubdate": "Sun, 10 Nov 2024 20:00:00 +0100"
+    },
+    {
         "title": "Jordan Bardella",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Jordan%20Bardella",
         "pubdate": "Sun, 10 Nov 2024 12:00:00 +0100"
@@ -72,6 +77,11 @@
     {
         "title": "Le Havre – Reims",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Le%20Havre%20%E2%80%93%20Reims",
+        "pubdate": "Sun, 10 Nov 2024 18:00:00 +0100"
+    },
+    {
+        "title": "Christophe Michalak",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Christophe%20Michalak",
         "pubdate": "Sun, 10 Nov 2024 18:00:00 +0100"
     },
     {
@@ -88,15 +98,5 @@
         "title": "11 novembre 1918",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#11%20novembre%201918",
         "pubdate": "Sun, 10 Nov 2024 12:00:00 +0100"
-    },
-    {
-        "title": "Clarisse cremer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Clarisse%20cremer",
-        "pubdate": "Sun, 10 Nov 2024 14:00:00 +0100"
-    },
-    {
-        "title": "Nicolas Sarkozy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Nicolas%20Sarkozy",
-        "pubdate": "Sun, 10 Nov 2024 20:00:00 +0100"
     }
 ]

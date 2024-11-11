@@ -1,3 +1,4 @@
+Chiguiro
 Millonarios  Deportivo Pereira
 Envigado  Deportivo Cali
 Liverpool
@@ -5,10 +6,10 @@ Chelsea - Arsenal
 Patriotas  Tolima
 Señorita Colombia 2024
 River Plate  Barracas Central
+Racing  Independiente
 Manchester United  Leicester City
 Aguilas Doradas
 Jaguares  Alianza
-Racing  Independiente
 RCD Mallorca  Atlético Madrid
 Getafe  Girona
 Tottenham  Ipswich
@@ -17,4 +18,3 @@ Atalanta - Udinese
 Nottingham Forest - Newcastle
 Tabla del descenso
 Sarmiento  Boca Juniors
-Miss Universo 2024
