@@ -5,6 +5,16 @@
         "pubdate": "Mon, 11 Nov 2024 09:00:00 +0100"
     },
     {
+        "title": "Wicked",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Wicked",
+        "pubdate": "Mon, 11 Nov 2024 08:00:00 +0100"
+    },
+    {
+        "title": "Gezondste stad van Nederland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Gezondste%20stad%20van%20Nederland",
+        "pubdate": "Mon, 11 Nov 2024 10:00:00 +0100"
+    },
+    {
         "title": "Ajax",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
         "pubdate": "Sun, 10 Nov 2024 10:00:00 +0100"
@@ -22,7 +32,7 @@
     {
         "title": "AZ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AZ",
-        "pubdate": "Sun, 10 Nov 2024 23:00:00 +0100"
+        "pubdate": "Sun, 10 Nov 2024 20:00:00 +0100"
     },
     {
         "title": "Bitcoin",
@@ -33,11 +43,6 @@
         "title": "Gers Pardoel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Gers%20Pardoel",
         "pubdate": "Sun, 10 Nov 2024 11:00:00 +0100"
-    },
-    {
-        "title": "Ajax wedstrijden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax%20wedstrijden",
-        "pubdate": "Sun, 10 Nov 2024 21:00:00 +0100"
     },
     {
         "title": "Billy Dans",
@@ -93,10 +98,5 @@
         "title": "Bitcoin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bitcoin",
         "pubdate": "Wed, 06 Nov 2024 13:00:00 +0100"
-    },
-    {
-        "title": "Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Trump",
-        "pubdate": "Tue, 05 Nov 2024 12:00:00 +0100"
     }
 ]

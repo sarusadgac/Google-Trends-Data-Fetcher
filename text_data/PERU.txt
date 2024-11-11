@@ -1,7 +1,6 @@
 Real Sociedad - Barcelona
 Chelsea - Arsenal
 Manchester United  Leicester City
-RCD Mallorca  Atlético Madrid
 Sarmiento  Boca Juniors
 River Plate  Barracas Central
 Inter - Napoli
@@ -18,3 +17,4 @@ Valladolid  Athletic
 Atlético Mineiro  Flamengo
 Juventus
 Monza  Lazio
+Benfica  Porto
