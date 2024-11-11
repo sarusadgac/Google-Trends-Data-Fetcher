@@ -40,6 +40,11 @@
         "pubdate": "Mon, 11 Nov 2024 11:00:00 +0900"
     },
     {
+        "title": "日経平均",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E6%97%A5%E7%B5%8C%E5%B9%B3%E5%9D%87",
+        "pubdate": "Mon, 11 Nov 2024 10:00:00 +0900"
+    },
+    {
         "title": "うくしま",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%81%86%E3%81%8F%E3%81%97%E3%81%BE",
         "pubdate": "Mon, 11 Nov 2024 02:00:00 +0900"
@@ -93,10 +98,5 @@
         "title": "瀬戸大橋",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E7%80%AC%E6%88%B8%E5%A4%A7%E6%A9%8B",
         "pubdate": "Sun, 10 Nov 2024 18:00:00 +0900"
-    },
-    {
-        "title": "岡山マラソン",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%B2%A1%E5%B1%B1%E3%83%9E%E3%83%A9%E3%82%BD%E3%83%B3",
-        "pubdate": "Sun, 10 Nov 2024 06:00:00 +0900"
     }
 ]
