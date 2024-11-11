@@ -1,5 +1,6 @@
 Feyenoord
 Sint Maarten
+Wicked
 Gezondste stad van Nederland
 Carnaval
 Ajax
@@ -7,6 +8,7 @@ AZ
 Bitcoin
 Medisch Centrum West
 Gers Pardoel
+Ajax wedstrijden
 Cardano
 Crypto
 PEC Zwolle
@@ -16,5 +18,3 @@ Jutta Leerdam
 Medisch Centrum West
 Oekraïne
 Ajax
-Europa League
-Bitcoin
