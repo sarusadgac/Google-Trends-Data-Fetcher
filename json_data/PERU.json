@@ -1,13 +1,18 @@
 [
     {
+        "title": "APEC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#APEC",
+        "pubdate": "Mon, 11 Nov 2024 09:00:00 -0500"
+    },
+    {
         "title": "Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Barcelona",
         "pubdate": "Mon, 11 Nov 2024 11:00:00 -0500"
     },
     {
-        "title": "APEC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#APEC",
-        "pubdate": "Mon, 11 Nov 2024 09:00:00 -0500"
+        "title": "Peru vs Chile",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Peru%20vs%20Chile",
+        "pubdate": "Mon, 11 Nov 2024 16:00:00 -0500"
     },
     {
         "title": "Riestra",
@@ -20,24 +25,29 @@
         "pubdate": "Mon, 11 Nov 2024 10:00:00 -0500"
     },
     {
-        "title": "Paro Nacional",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Paro%20Nacional",
-        "pubdate": "Mon, 11 Nov 2024 04:00:00 -0500"
-    },
-    {
-        "title": "EsSalud",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#EsSalud",
-        "pubdate": "Mon, 11 Nov 2024 07:00:00 -0500"
-    },
-    {
         "title": "Dia del Soltero",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Dia%20del%20Soltero",
         "pubdate": "Mon, 11 Nov 2024 10:00:00 -0500"
     },
     {
+        "title": "Paro Nacional",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Paro%20Nacional",
+        "pubdate": "Mon, 11 Nov 2024 04:00:00 -0500"
+    },
+    {
         "title": "Brunei",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Brunei",
         "pubdate": "Mon, 11 Nov 2024 13:00:00 -0500"
+    },
+    {
+        "title": "Primera división",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Primera%20divisi%C3%B3n",
+        "pubdate": "Mon, 11 Nov 2024 10:00:00 -0500"
+    },
+    {
+        "title": "Cyber Days",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Cyber%20Days",
+        "pubdate": "Mon, 11 Nov 2024 08:00:00 -0500"
     },
     {
         "title": "Georgina Cooper de que murio",
@@ -80,23 +90,13 @@
         "pubdate": "Mon, 11 Nov 2024 14:00:00 -0500"
     },
     {
-        "title": "Real Sociedad - Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Real%20Sociedad%20-%20Barcelona",
-        "pubdate": "Sun, 10 Nov 2024 08:00:00 -0500"
+        "title": "Qué es el APEC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Qu%C3%A9%20es%20el%20APEC",
+        "pubdate": "Mon, 11 Nov 2024 16:00:00 -0500"
     },
     {
-        "title": "Chelsea - Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Chelsea%20-%20Arsenal",
-        "pubdate": "Sun, 10 Nov 2024 11:00:00 -0500"
-    },
-    {
-        "title": "Manchester United  Leicester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Manchester%20United%20%20Leicester%20City",
-        "pubdate": "Sun, 10 Nov 2024 09:00:00 -0500"
-    },
-    {
-        "title": "Sarmiento  Boca Juniors",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Sarmiento%20%20Boca%20Juniors",
-        "pubdate": "Sun, 10 Nov 2024 20:00:00 -0500"
+        "title": "Barcelona FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Barcelona%20FC",
+        "pubdate": "Mon, 11 Nov 2024 11:00:00 -0500"
     }
 ]

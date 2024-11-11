@@ -1,4 +1,3 @@
-Barca
 Real Sociedad vs Barcelona
 India vs South Africa
 Man City
@@ -6,7 +5,6 @@ West Indies vs England
 Bitcoin
 Inter Vs Napoli
 Ruud van Nistelrooy
-Single Day
 Lakers vs Raptors
 Tesla share price
 Wicked
@@ -18,3 +16,5 @@ Liverpool vs Aston Villa
 Bangladesh vs Afghanistan
 Inter Miami vs Atlanta United
 Australia vs Pakistan
+Tottenham vs Ipswich Town
+Delhi Ganesh
