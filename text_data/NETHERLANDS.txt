@@ -2,6 +2,8 @@ Ajax
 Feyenoord
 AZ
 Angel Daleman
+Ajax wedstrijden
+Billy Dans
 FC Groningen
 Amsterdam
 FC Utrecht
@@ -16,5 +18,3 @@ Donald Trump
 Kamala Harris
 PSV Girona
 Harris
-Stella
-Ziggo Sport
