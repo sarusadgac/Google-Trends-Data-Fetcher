@@ -1,33 +1,13 @@
 [
     {
-        "title": "David Coote",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#David%20Coote",
-        "pubdate": "Mon, 11 Nov 2024 15:00:00 +0000"
-    },
-    {
-        "title": "Elise Stefanik",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Elise%20Stefanik",
-        "pubdate": "Mon, 11 Nov 2024 01:00:00 -0800"
-    },
-    {
-        "title": "Cat's Eyes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Cat's%20Eyes",
-        "pubdate": "Mon, 11 Nov 2024 19:00:00 +0100"
-    },
-    {
-        "title": "Olaf Scholz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Olaf%20Scholz",
-        "pubdate": "Mon, 11 Nov 2024 08:00:00 +0100"
-    },
-    {
-        "title": "Меган Фокс",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%9C%D0%B5%D0%B3%D0%B0%D0%BD%20%D0%A4%D0%BE%D0%BA%D1%81",
-        "pubdate": "Tue, 12 Nov 2024 00:00:00 +0300"
-    },
-    {
         "title": "パーキンソン病",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%91%E3%83%BC%E3%82%AD%E3%83%B3%E3%82%BD%E3%83%B3%E7%97%85",
         "pubdate": "Tue, 12 Nov 2024 01:00:00 +0900"
+    },
+    {
+        "title": "David Coote",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#David%20Coote",
+        "pubdate": "Mon, 11 Nov 2024 15:00:00 +0000"
     },
     {
         "title": "Mission: Impossible",
@@ -35,59 +15,39 @@
         "pubdate": "Tue, 12 Nov 2024 00:30:00 +0530"
     },
     {
+        "title": "Меган Фокс",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%9C%D0%B5%D0%B3%D0%B0%D0%BD%20%D0%A4%D0%BE%D0%BA%D1%81",
+        "pubdate": "Tue, 12 Nov 2024 00:00:00 +0300"
+    },
+    {
+        "title": "Elise Stefanik",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Elise%20Stefanik",
+        "pubdate": "Mon, 11 Nov 2024 01:00:00 -0800"
+    },
+    {
         "title": "珠海",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E7%8F%A0%E6%B5%B7",
         "pubdate": "Tue, 12 Nov 2024 00:00:00 +0800"
     },
     {
+        "title": "Olaf Scholz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Olaf%20Scholz",
+        "pubdate": "Mon, 11 Nov 2024 08:00:00 +0100"
+    },
+    {
+        "title": "Cat's Eyes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Cat's%20Eyes",
+        "pubdate": "Mon, 11 Nov 2024 19:00:00 +0100"
+    },
+    {
         "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Barcelona",
-        "pubdate": "Tue, 12 Nov 2024 01:00:00 +0700"
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Barcelona",
+        "pubdate": "Mon, 11 Nov 2024 18:00:00 +0100"
     },
     {
-        "title": "مروان الصحفي",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#%D9%85%D8%B1%D9%88%D8%A7%D9%86%20%D8%A7%D9%84%D8%B5%D8%AD%D9%81%D9%8A",
-        "pubdate": "Mon, 11 Nov 2024 00:00:00 +0300"
-    },
-    {
-        "title": "동덕여대 공학",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%8F%99%EB%8D%95%EC%97%AC%EB%8C%80%20%EA%B3%B5%ED%95%99",
-        "pubdate": "Tue, 12 Nov 2024 00:00:00 +0900"
-    },
-    {
-        "title": "Tesla share price",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tesla%20share%20price",
-        "pubdate": "Tue, 12 Nov 2024 01:00:00 +1100"
-    },
-    {
-        "title": "Barcelona FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Barcelona%20FC",
-        "pubdate": "Mon, 11 Nov 2024 18:00:00 +0200"
-    },
-    {
-        "title": "APEC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#APEC",
-        "pubdate": "Mon, 11 Nov 2024 09:00:00 -0500"
-    },
-    {
-        "title": "Oțelul  CFR Cluj",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#O%C8%9Belul%20%20CFR%20Cluj",
-        "pubdate": "Mon, 11 Nov 2024 21:00:00 +0200"
-    },
-    {
-        "title": "Singles' Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Singles'%20Day",
-        "pubdate": "Mon, 11 Nov 2024 06:00:00 +0200"
-    },
-    {
-        "title": "FC Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#FC%20Barcelona",
-        "pubdate": "Mon, 11 Nov 2024 11:00:00 -0600"
-    },
-    {
-        "title": "Bitcoin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bitcoin",
-        "pubdate": "Mon, 11 Nov 2024 01:00:00 +0100"
+        "title": "Μελινα κοντη",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%9C%CE%B5%CE%BB%CE%B9%CE%BD%CE%B1%20%CE%BA%CE%BF%CE%BD%CF%84%CE%B7",
+        "pubdate": "Mon, 11 Nov 2024 09:00:00 +0200"
     },
     {
         "title": "Sinterklaasjournaal",
@@ -95,8 +55,48 @@
         "pubdate": "Mon, 11 Nov 2024 10:00:00 +0100"
     },
     {
-        "title": "Varnus Xavér",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Varnus%20Xav%C3%A9r",
-        "pubdate": "Mon, 11 Nov 2024 07:00:00 +0100"
+        "title": "Tesla stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tesla%20stock",
+        "pubdate": "Mon, 11 Nov 2024 16:00:00 +0100"
+    },
+    {
+        "title": "Video viral Lydia Onic 12 menit",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Video%20viral%20Lydia%20Onic%2012%20menit",
+        "pubdate": "Tue, 12 Nov 2024 01:00:00 +0700"
+    },
+    {
+        "title": "Lest we forget",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lest%20we%20forget",
+        "pubdate": "Mon, 11 Nov 2024 01:00:00 -0500"
+    },
+    {
+        "title": "Napoli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Napoli",
+        "pubdate": "Mon, 11 Nov 2024 17:00:00 +0100"
+    },
+    {
+        "title": "FC Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#FC%20Barcelona",
+        "pubdate": "Mon, 11 Nov 2024 18:00:00 +0100"
+    },
+    {
+        "title": "XXL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#XXL",
+        "pubdate": "Mon, 11 Nov 2024 20:00:00 +0100"
+    },
+    {
+        "title": "ONCE",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#ONCE",
+        "pubdate": "Mon, 11 Nov 2024 13:00:00 +0100"
+    },
+    {
+        "title": "15 de novembro é feriado",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#15%20de%20novembro%20%C3%A9%20feriado",
+        "pubdate": "Mon, 11 Nov 2024 06:00:00 -0500"
+    },
+    {
+        "title": "Oțelul  CFR Cluj",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#O%C8%9Belul%20%20CFR%20Cluj",
+        "pubdate": "Mon, 11 Nov 2024 21:00:00 +0200"
     }
 ]
