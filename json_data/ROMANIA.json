@@ -1,5 +1,10 @@
 [
     {
+        "title": "Inter Miami",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Inter%20Miami",
+        "pubdate": "Mon, 11 Nov 2024 02:00:00 +0200"
+    },
+    {
         "title": "„U” Cluj - FCSB",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#%E2%80%9EU%E2%80%9D%20Cluj%20-%20FCSB",
         "pubdate": "Sun, 10 Nov 2024 12:00:00 +0200"
@@ -15,8 +20,8 @@
         "pubdate": "Sun, 10 Nov 2024 16:00:00 +0200"
     },
     {
-        "title": "Tottenham  Ipswich",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Tottenham%20%20Ipswich",
+        "title": "Tottenham, Ipswich",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Tottenham,%20Ipswich",
         "pubdate": "Sun, 10 Nov 2024 16:00:00 +0200"
     },
     {
@@ -65,11 +70,6 @@
         "pubdate": "Sun, 10 Nov 2024 22:00:00 +0200"
     },
     {
-        "title": "Poiana Brasov",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Poiana%20Brasov",
-        "pubdate": "Sun, 10 Nov 2024 15:00:00 +0200"
-    },
-    {
         "title": "Schengen romania",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Schengen%20romania",
         "pubdate": "Sun, 10 Nov 2024 21:00:00 +0200"
@@ -85,6 +85,11 @@
         "pubdate": "Sun, 10 Nov 2024 07:00:00 +0200"
     },
     {
+        "title": "Sfantul Mina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sfantul%20Mina",
+        "pubdate": "Sun, 10 Nov 2024 23:00:00 +0200"
+    },
+    {
         "title": "Trump Ucraina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Trump%20Ucraina",
         "pubdate": "Sun, 10 Nov 2024 22:00:00 +0200"
@@ -93,10 +98,5 @@
         "title": "Mbappe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Mbappe",
         "pubdate": "Sun, 10 Nov 2024 11:00:00 +0200"
-    },
-    {
-        "title": "Tonga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Tonga",
-        "pubdate": "Sun, 10 Nov 2024 15:00:00 +0200"
     }
 ]

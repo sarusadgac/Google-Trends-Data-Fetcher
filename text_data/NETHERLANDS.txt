@@ -2,12 +2,11 @@ Ajax
 Feyenoord
 AZ
 Medisch Centrum West
+Heerenveen
 Ellemieke Vermolen
 FC Groningen
-NEC
 PEC Zwolle
-RTV Utrecht
-IDF
+RKC
 Amsterdam
 FC Utrecht
 Jutta Leerdam
@@ -18,3 +17,4 @@ Europa League
 Bitcoin
 Trump
 Donald Trump
+Kamala Harris

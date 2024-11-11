@@ -1,7 +1,7 @@
 [
     {
-        "title": "Man utd  Leicester",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Man%20utd%20%20Leicester",
+        "title": "Man Utd  Leicester",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Man%20Utd%20%20Leicester",
         "pubdate": "Sun, 10 Nov 2024 15:00:00 +0100"
     },
     {
@@ -25,8 +25,8 @@
         "pubdate": "Sun, 10 Nov 2024 01:00:00 +0100"
     },
     {
-        "title": "MAN CITY",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#MAN%20CITY",
+        "title": "Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Man%20City",
         "pubdate": "Sun, 10 Nov 2024 18:00:00 +0100"
     },
     {
@@ -38,11 +38,6 @@
         "title": "Thanksgiving 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Thanksgiving%202024",
         "pubdate": "Sun, 10 Nov 2024 21:00:00 +0100"
-    },
-    {
-        "title": "Real Madrid  Osasuna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Real%20Madrid%20%20Osasuna",
-        "pubdate": "Sat, 09 Nov 2024 14:00:00 +0100"
     },
     {
         "title": "Georgina Cooper",
@@ -60,9 +55,19 @@
         "pubdate": "Sat, 09 Nov 2024 18:00:00 +0100"
     },
     {
+        "title": "Real Madrid  Osasuna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Real%20Madrid%20%20Osasuna",
+        "pubdate": "Sat, 09 Nov 2024 14:00:00 +0100"
+    },
+    {
         "title": "Tony Todd",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tony%20Todd",
         "pubdate": "Sat, 09 Nov 2024 11:00:00 +0100"
+    },
+    {
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Real%20Madrid",
+        "pubdate": "Sat, 09 Nov 2024 16:00:00 +0100"
     },
     {
         "title": "Gladiator 2",
@@ -93,10 +98,5 @@
         "title": "Vega",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Vega",
         "pubdate": "Sat, 09 Nov 2024 22:00:00 +0100"
-    },
-    {
-        "title": "Clint Eastwood",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Clint%20Eastwood",
-        "pubdate": "Sat, 09 Nov 2024 23:00:00 +0100"
     }
 ]

@@ -15,6 +15,16 @@
         "pubdate": "Mon, 11 Nov 2024 04:00:00 +0700"
     },
     {
+        "title": "Newcastle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Newcastle",
+        "pubdate": "Mon, 11 Nov 2024 07:00:00 +0700"
+    },
+    {
+        "title": "Man utd vs Leicester",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Man%20utd%20vs%20Leicester",
+        "pubdate": "Sun, 10 Nov 2024 19:00:00 +0700"
+    },
+    {
         "title": "Brighton vs Man City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Brighton%20vs%20Man%20City",
         "pubdate": "Sun, 10 Nov 2024 00:00:00 +0700"
@@ -40,14 +50,14 @@
         "pubdate": "Sun, 10 Nov 2024 08:00:00 +0700"
     },
     {
+        "title": "Hari Pahlawan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Hari%20Pahlawan",
+        "pubdate": "Sun, 10 Nov 2024 07:00:00 +0700"
+    },
+    {
         "title": "Tottenham vs Ipswich",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Tottenham%20vs%20Ipswich",
         "pubdate": "Sun, 10 Nov 2024 21:00:00 +0700"
-    },
-    {
-        "title": "Hari Pahlawan 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Hari%20Pahlawan%202024",
-        "pubdate": "Sun, 10 Nov 2024 06:00:00 +0700"
     },
     {
         "title": "Juventus vs Torino",
@@ -70,6 +80,11 @@
         "pubdate": "Sun, 10 Nov 2024 21:00:00 +0700"
     },
     {
+        "title": "Presiden Prabowo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Presiden%20Prabowo",
+        "pubdate": "Sun, 10 Nov 2024 22:00:00 +0700"
+    },
+    {
         "title": "Kylian mbappé",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Kylian%20mbapp%C3%A9",
         "pubdate": "Sun, 10 Nov 2024 02:00:00 +0700"
@@ -80,23 +95,8 @@
         "pubdate": "Sun, 10 Nov 2024 06:00:00 +0700"
     },
     {
-        "title": "Presiden Prabowo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Presiden%20Prabowo",
-        "pubdate": "Sun, 10 Nov 2024 22:00:00 +0700"
-    },
-    {
         "title": "Atalanta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Atalanta",
         "pubdate": "Sun, 10 Nov 2024 19:00:00 +0700"
-    },
-    {
-        "title": "BJ Habibie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#BJ%20Habibie",
-        "pubdate": "Sun, 10 Nov 2024 19:00:00 +0700"
-    },
-    {
-        "title": "Almere City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Almere%20City",
-        "pubdate": "Sun, 10 Nov 2024 21:00:00 +0700"
     }
 ]
