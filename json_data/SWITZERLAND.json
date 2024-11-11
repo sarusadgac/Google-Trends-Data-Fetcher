@@ -5,6 +5,11 @@
         "pubdate": "Mon, 11 Nov 2024 02:00:00 +0100"
     },
     {
+        "title": "Singles day 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Singles%20day%202024",
+        "pubdate": "Mon, 11 Nov 2024 07:00:00 +0100"
+    },
+    {
         "title": "Bitcoin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bitcoin",
         "pubdate": "Sun, 10 Nov 2024 20:00:00 +0100"
@@ -12,11 +17,6 @@
     {
         "title": "Vendee Globe 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Vendee%20Globe%202024",
-        "pubdate": "Sun, 10 Nov 2024 00:00:00 +0100"
-    },
-    {
-        "title": "DSDS-Finale 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#DSDS-Finale%202024",
         "pubdate": "Sun, 10 Nov 2024 00:00:00 +0100"
     },
     {
@@ -33,6 +33,11 @@
         "title": "Grasshoppers – St.Gallen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Grasshoppers%20%E2%80%93%20St.Gallen",
         "pubdate": "Sun, 10 Nov 2024 16:00:00 +0100"
+    },
+    {
+        "title": "DSDS Gewinner 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#DSDS%20Gewinner%202024",
+        "pubdate": "Sun, 10 Nov 2024 00:00:00 +0100"
     },
     {
         "title": "DSDS",
@@ -93,10 +98,5 @@
         "title": "Juventus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Juventus",
         "pubdate": "Sun, 10 Nov 2024 20:00:00 +0100"
-    },
-    {
-        "title": "Mike Pompeo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Mike%20Pompeo",
-        "pubdate": "Sun, 10 Nov 2024 16:00:00 +0100"
     }
 ]

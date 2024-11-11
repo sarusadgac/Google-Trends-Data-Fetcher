@@ -3,7 +3,6 @@ Feyenoord
 AZ
 Angel Daleman
 FC Groningen
-RKC
 Amsterdam
 FC Utrecht
 Jutta Leerdam
@@ -18,3 +17,4 @@ Kamala Harris
 PSV Girona
 Harris
 Stella
+Ziggo Sport
