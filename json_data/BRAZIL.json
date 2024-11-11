@@ -5,6 +5,11 @@
         "pubdate": "Mon, 11 Nov 2024 06:00:00 -0500"
     },
     {
+        "title": "Feriado 15 de novembro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Feriado%2015%20de%20novembro",
+        "pubdate": "Mon, 11 Nov 2024 07:00:00 -0500"
+    },
+    {
         "title": "Atlético-MG x Flamengo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Atl%C3%A9tico-MG%20x%20Flamengo",
         "pubdate": "Sun, 10 Nov 2024 08:00:00 -0500"
@@ -43,6 +48,11 @@
         "title": "Bitcoin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bitcoin",
         "pubdate": "Sun, 10 Nov 2024 18:00:00 -0500"
+    },
+    {
+        "title": "City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#City",
+        "pubdate": "Sun, 10 Nov 2024 13:00:00 -0500"
     },
     {
         "title": "Fotos",
@@ -85,18 +95,8 @@
         "pubdate": "Sun, 10 Nov 2024 10:00:00 -0500"
     },
     {
-        "title": "Newcastle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Newcastle",
-        "pubdate": "Sun, 10 Nov 2024 10:00:00 -0500"
-    },
-    {
-        "title": "Agnaldo Rayol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Agnaldo%20Rayol",
-        "pubdate": "Sun, 10 Nov 2024 21:00:00 -0500"
-    },
-    {
-        "title": "Acidente BR-116 Dois Irmãos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Acidente%20BR-116%20Dois%20Irm%C3%A3os",
-        "pubdate": "Sun, 10 Nov 2024 11:00:00 -0500"
+        "title": "Putin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Putin",
+        "pubdate": "Sun, 10 Nov 2024 20:00:00 -0500"
     }
 ]
