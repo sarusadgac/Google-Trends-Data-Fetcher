@@ -35,13 +35,13 @@
         "pubdate": "Sun, 10 Nov 2024 20:00:00 +0300"
     },
     {
-        "title": "Liverpool vs Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Liverpool%20vs%20Chelsea",
+        "title": "Inter vs Napoli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Inter%20vs%20Napoli",
         "pubdate": "Sun, 10 Nov 2024 16:00:00 +0300"
     },
     {
-        "title": "Inter vs Napoli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Inter%20vs%20Napoli",
+        "title": "Liverpool vs Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Liverpool%20vs%20Chelsea",
         "pubdate": "Sun, 10 Nov 2024 16:00:00 +0300"
     },
     {
@@ -53,6 +53,11 @@
         "title": "Johnny Somali",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Johnny%20Somali",
         "pubdate": "Sun, 10 Nov 2024 00:00:00 +0300"
+    },
+    {
+        "title": "Mancity",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Mancity",
+        "pubdate": "Sun, 10 Nov 2024 20:00:00 +0300"
     },
     {
         "title": "Roma",
@@ -75,11 +80,6 @@
         "pubdate": "Sun, 10 Nov 2024 17:00:00 +0300"
     },
     {
-        "title": "Burnley vs Swansea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Burnley%20vs%20Swansea",
-        "pubdate": "Sun, 10 Nov 2024 20:00:00 +0300"
-    },
-    {
         "title": "Mason Greenwood",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Mason%20Greenwood",
         "pubdate": "Sun, 10 Nov 2024 06:00:00 +0300"
@@ -90,13 +90,13 @@
         "pubdate": "Sun, 10 Nov 2024 22:00:00 +0300"
     },
     {
-        "title": "Celtic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Celtic",
-        "pubdate": "Sun, 10 Nov 2024 21:00:00 +0300"
-    },
-    {
         "title": "Bitcoin price",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Bitcoin%20price",
         "pubdate": "Sun, 10 Nov 2024 23:00:00 +0300"
+    },
+    {
+        "title": "Celtic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Celtic",
+        "pubdate": "Sun, 10 Nov 2024 21:00:00 +0300"
     }
 ]

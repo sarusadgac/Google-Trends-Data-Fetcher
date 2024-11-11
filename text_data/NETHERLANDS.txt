@@ -2,8 +2,6 @@ Ajax
 Feyenoord
 AZ
 Medisch Centrum West
-Angel Daleman
-Heerenveen
 FC Groningen
 RKC
 Amsterdam
@@ -18,3 +16,5 @@ Trump
 Donald Trump
 Kamala Harris
 PSV Girona
+Harris
+Stella
