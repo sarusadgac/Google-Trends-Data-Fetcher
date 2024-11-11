@@ -5,11 +5,6 @@
         "pubdate": "Mon, 11 Nov 2024 00:00:00 +0800"
     },
     {
-        "title": "India vs South Africa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#India%20vs%20South%20Africa",
-        "pubdate": "Mon, 11 Nov 2024 01:00:00 +0800"
-    },
-    {
         "title": "Bitcoin price",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bitcoin%20price",
         "pubdate": "Mon, 11 Nov 2024 00:00:00 +0800"
@@ -18,11 +13,6 @@
         "title": "Man City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Man%20City",
         "pubdate": "Mon, 11 Nov 2024 01:00:00 +0800"
-    },
-    {
-        "title": "Inter Miami",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Inter%20Miami",
-        "pubdate": "Mon, 11 Nov 2024 09:00:00 +0800"
     },
     {
         "title": "M1",
@@ -98,5 +88,15 @@
         "title": "SJI) International",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#SJI)%20International",
         "pubdate": "Sat, 09 Nov 2024 01:00:00 +0800"
+    },
+    {
+        "title": "Tony Todd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Tony%20Todd",
+        "pubdate": "Sat, 09 Nov 2024 15:00:00 +0800"
+    },
+    {
+        "title": "Arcane",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Arcane",
+        "pubdate": "Sat, 09 Nov 2024 17:00:00 +0800"
     }
 ]
