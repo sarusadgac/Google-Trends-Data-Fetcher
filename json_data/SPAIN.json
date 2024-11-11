@@ -20,6 +20,11 @@
         "pubdate": "Mon, 11 Nov 2024 04:00:00 +0100"
     },
     {
+        "title": "Alcaraz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Alcaraz",
+        "pubdate": "Mon, 11 Nov 2024 10:00:00 +0100"
+    },
+    {
         "title": "Benfica  Porto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Benfica%20%20Porto",
         "pubdate": "Mon, 11 Nov 2024 00:00:00 +0100"
@@ -40,8 +45,8 @@
         "pubdate": "Mon, 11 Nov 2024 01:00:00 +0100"
     },
     {
-        "title": "Real Sociedad  Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Real%20Sociedad%20%20Barcelona",
+        "title": "Real Sociedad - Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Real%20Sociedad%20-%20Barcelona",
         "pubdate": "Sun, 10 Nov 2024 20:00:00 +0100"
     },
     {
@@ -93,10 +98,5 @@
         "title": "Burgos - Sporting Gijón",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Burgos%20-%20Sporting%20Gij%C3%B3n",
         "pubdate": "Sun, 10 Nov 2024 17:00:00 +0100"
-    },
-    {
-        "title": "65",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#65",
-        "pubdate": "Sun, 10 Nov 2024 22:00:00 +0100"
     }
 ]

@@ -2,11 +2,12 @@ Clasificacion Liga
 Bitcoin
 Vladímir Putin
 Iñigo errejon
+Alcaraz
 Benfica  Porto
 Lewandowski
 Huelga autobuses 11 noviembre
 Mike Pompeo
-Real Sociedad  Barcelona
+Real Sociedad - Barcelona
 Betis  Celta de Vigo
 RCD Mallorca  Atlético Madrid
 Valladolid  Athletic
@@ -17,4 +18,3 @@ Chelsea - Arsenal
 Inter Miami - Atlanta United
 Racing Ferrol - Racing de Santander
 Burgos - Sporting Gijón
-65
