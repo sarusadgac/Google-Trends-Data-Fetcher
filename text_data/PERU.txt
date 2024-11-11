@@ -1,4 +1,3 @@
-EsSalud
 Real Sociedad - Barcelona
 Chelsea - Arsenal
 Manchester United  Leicester City
@@ -14,7 +13,8 @@ Betis  Celta de Vigo
 Nottingham Forest - Newcastle
 Colo Colo
 Benfica  Porto
-Getafe-Girona
+Getafe  Girona
 Valladolid  Athletic
 Atlético Mineiro  Flamengo
 Juventus
+Monza  Lazio

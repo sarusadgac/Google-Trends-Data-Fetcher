@@ -5,11 +5,6 @@
         "pubdate": "Mon, 11 Nov 2024 00:00:00 +0100"
     },
     {
-        "title": "Bitcoin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Bitcoin",
-        "pubdate": "Mon, 11 Nov 2024 00:00:00 +0100"
-    },
-    {
         "title": "Vladímir Putin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Vlad%C3%ADmir%20Putin",
         "pubdate": "Mon, 11 Nov 2024 07:00:00 +0100"
@@ -25,19 +20,29 @@
         "pubdate": "Mon, 11 Nov 2024 04:00:00 +0100"
     },
     {
-        "title": "Benfica  Porto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Benfica%20%20Porto",
-        "pubdate": "Mon, 11 Nov 2024 00:00:00 +0100"
-    },
-    {
         "title": "Peter Lim",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Peter%20Lim",
         "pubdate": "Mon, 11 Nov 2024 09:00:00 +0100"
     },
     {
+        "title": "Mac",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Mac",
+        "pubdate": "Mon, 11 Nov 2024 14:00:00 +0100"
+    },
+    {
+        "title": "Benfica  Porto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Benfica%20%20Porto",
+        "pubdate": "Mon, 11 Nov 2024 00:00:00 +0100"
+    },
+    {
         "title": "San martin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#San%20martin",
         "pubdate": "Mon, 11 Nov 2024 11:00:00 +0100"
+    },
+    {
+        "title": "Sorteo 11 del 11",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Sorteo%2011%20del%2011",
+        "pubdate": "Mon, 11 Nov 2024 13:00:00 +0100"
     },
     {
         "title": "Dia del Soltero",
@@ -50,9 +55,9 @@
         "pubdate": "Mon, 11 Nov 2024 01:00:00 +0100"
     },
     {
-        "title": "Sorteo 11 del 11",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Sorteo%2011%20del%2011",
-        "pubdate": "Mon, 11 Nov 2024 13:00:00 +0100"
+        "title": "Seleccion española",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Seleccion%20espa%C3%B1ola",
+        "pubdate": "Mon, 11 Nov 2024 14:00:00 +0100"
     },
     {
         "title": "Real Sociedad - Barcelona",
@@ -90,13 +95,8 @@
         "pubdate": "Sun, 10 Nov 2024 18:00:00 +0100"
     },
     {
-        "title": "Behobia-San sebastian",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Behobia-San%20sebastian",
-        "pubdate": "Sun, 10 Nov 2024 09:00:00 +0100"
-    },
-    {
-        "title": "Lamine Yamal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Lamine%20Yamal",
-        "pubdate": "Sun, 10 Nov 2024 22:00:00 +0100"
+        "title": "Racing Ferrol - Racing de Santander",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Racing%20Ferrol%20-%20Racing%20de%20Santander",
+        "pubdate": "Sun, 10 Nov 2024 17:00:00 +0100"
     }
 ]

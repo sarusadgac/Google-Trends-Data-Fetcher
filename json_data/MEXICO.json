@@ -1,10 +1,5 @@
 [
     {
-        "title": "Jorge Romero",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Jorge%20Romero",
-        "pubdate": "Mon, 11 Nov 2024 00:00:00 -0600"
-    },
-    {
         "title": "FEMA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#FEMA",
         "pubdate": "Mon, 11 Nov 2024 01:00:00 -0600"
@@ -20,14 +15,14 @@
         "pubdate": "Sun, 10 Nov 2024 06:00:00 -0600"
     },
     {
-        "title": "Queretaro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Queretaro",
-        "pubdate": "Sun, 10 Nov 2024 08:00:00 -0600"
-    },
-    {
         "title": "Beca Rita Cetina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Beca%20Rita%20Cetina",
         "pubdate": "Sun, 10 Nov 2024 20:00:00 -0600"
+    },
+    {
+        "title": "Queretaro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Queretaro",
+        "pubdate": "Sun, 10 Nov 2024 08:00:00 -0600"
     },
     {
         "title": "Chelsea - Arsenal",
@@ -85,6 +80,11 @@
         "pubdate": "Sun, 10 Nov 2024 22:00:00 -0600"
     },
     {
+        "title": "Atlante  Dorados",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Atlante%20%20Dorados",
+        "pubdate": "Sun, 10 Nov 2024 13:00:00 -0600"
+    },
+    {
         "title": "Vladímir Putin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Vlad%C3%ADmir%20Putin",
         "pubdate": "Sun, 10 Nov 2024 21:00:00 -0600"
@@ -95,8 +95,8 @@
         "pubdate": "Sun, 10 Nov 2024 02:00:00 -0600"
     },
     {
-        "title": "Wicked",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Wicked",
-        "pubdate": "Sun, 10 Nov 2024 17:00:00 -0600"
+        "title": "Tottenham  Ipswich",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Tottenham%20%20Ipswich",
+        "pubdate": "Sun, 10 Nov 2024 10:00:00 -0600"
     }
 ]
