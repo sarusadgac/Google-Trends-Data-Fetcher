@@ -10,14 +10,14 @@
         "pubdate": "Mon, 11 Nov 2024 11:00:00 -0500"
     },
     {
-        "title": "Velez vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Velez%20vs",
-        "pubdate": "Mon, 11 Nov 2024 13:00:00 -0500"
-    },
-    {
         "title": "Peru vs Chile",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Peru%20vs%20Chile",
         "pubdate": "Mon, 11 Nov 2024 13:00:00 -0500"
+    },
+    {
+        "title": "Spreen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Spreen",
+        "pubdate": "Mon, 11 Nov 2024 14:00:00 -0500"
     },
     {
         "title": "Eliminatorias",
@@ -25,14 +25,14 @@
         "pubdate": "Mon, 11 Nov 2024 12:00:00 -0500"
     },
     {
-        "title": "Paro Nacional",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Paro%20Nacional",
-        "pubdate": "Mon, 11 Nov 2024 04:00:00 -0500"
-    },
-    {
         "title": "Dia del Soltero",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Dia%20del%20Soltero",
         "pubdate": "Mon, 11 Nov 2024 10:00:00 -0500"
+    },
+    {
+        "title": "Belgrano  Instituto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Belgrano%20%20Instituto",
+        "pubdate": "Mon, 11 Nov 2024 20:00:00 -0500"
     },
     {
         "title": "EsSalud",
@@ -45,14 +45,9 @@
         "pubdate": "Mon, 11 Nov 2024 11:00:00 -0500"
     },
     {
-        "title": "APEC peru",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#APEC%20peru",
-        "pubdate": "Mon, 11 Nov 2024 09:00:00 -0500"
-    },
-    {
-        "title": "Belgrano  Instituto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Belgrano%20%20Instituto",
-        "pubdate": "Mon, 11 Nov 2024 20:00:00 -0500"
+        "title": "Brunei",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Brunei",
+        "pubdate": "Mon, 11 Nov 2024 13:00:00 -0500"
     },
     {
         "title": "Dia de la educacion primaria",
@@ -60,14 +55,14 @@
         "pubdate": "Mon, 11 Nov 2024 06:00:00 -0500"
     },
     {
-        "title": "Brunei",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Brunei",
-        "pubdate": "Mon, 11 Nov 2024 13:00:00 -0500"
-    },
-    {
         "title": "Hombres G",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Hombres%20G",
         "pubdate": "Mon, 11 Nov 2024 18:00:00 -0500"
+    },
+    {
+        "title": "Cyber Days",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Cyber%20Days",
+        "pubdate": "Mon, 11 Nov 2024 08:00:00 -0500"
     },
     {
         "title": "Primera división",
@@ -75,8 +70,8 @@
         "pubdate": "Mon, 11 Nov 2024 10:00:00 -0500"
     },
     {
-        "title": "Adamo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Adamo",
+        "title": "APEC peru 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#APEC%20peru%202024",
         "pubdate": "Mon, 11 Nov 2024 09:00:00 -0500"
     },
     {
@@ -98,5 +93,10 @@
         "title": "Mariano Soso",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Mariano%20Soso",
         "pubdate": "Mon, 11 Nov 2024 20:00:00 -0500"
+    },
+    {
+        "title": "Qué es el APEC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Qu%C3%A9%20es%20el%20APEC",
+        "pubdate": "Mon, 11 Nov 2024 16:00:00 -0500"
     }
 ]
