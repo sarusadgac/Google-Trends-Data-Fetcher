@@ -1,5 +1,10 @@
 [
     {
+        "title": "Wicked",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Wicked",
+        "pubdate": "Tue, 12 Nov 2024 01:00:00 -0500"
+    },
+    {
         "title": "APEC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#APEC",
         "pubdate": "Mon, 11 Nov 2024 09:00:00 -0500"
@@ -10,14 +15,14 @@
         "pubdate": "Mon, 11 Nov 2024 11:00:00 -0500"
     },
     {
-        "title": "Peru vs Chile",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Peru%20vs%20Chile",
+        "title": "Velez vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Velez%20vs",
         "pubdate": "Mon, 11 Nov 2024 13:00:00 -0500"
     },
     {
-        "title": "Spreen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Spreen",
-        "pubdate": "Mon, 11 Nov 2024 14:00:00 -0500"
+        "title": "Peru vs Chile",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Peru%20vs%20Chile",
+        "pubdate": "Mon, 11 Nov 2024 13:00:00 -0500"
     },
     {
         "title": "APEC 2024",
@@ -60,11 +65,6 @@
         "pubdate": "Mon, 11 Nov 2024 18:00:00 -0500"
     },
     {
-        "title": "Cyber Days",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Cyber%20Days",
-        "pubdate": "Mon, 11 Nov 2024 08:00:00 -0500"
-    },
-    {
         "title": "Primera división",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Primera%20divisi%C3%B3n",
         "pubdate": "Mon, 11 Nov 2024 10:00:00 -0500"
@@ -95,8 +95,8 @@
         "pubdate": "Mon, 11 Nov 2024 09:00:00 -0500"
     },
     {
-        "title": "Megan Fox",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Megan%20Fox",
-        "pubdate": "Mon, 11 Nov 2024 20:00:00 -0500"
+        "title": "Fútbol Club Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#F%C3%BAtbol%20Club%20Barcelona",
+        "pubdate": "Mon, 11 Nov 2024 12:00:00 -0500"
     }
 ]
