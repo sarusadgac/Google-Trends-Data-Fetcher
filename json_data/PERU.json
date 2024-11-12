@@ -15,11 +15,6 @@
         "pubdate": "Mon, 11 Nov 2024 13:00:00 -0500"
     },
     {
-        "title": "APEC 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#APEC%202024",
-        "pubdate": "Mon, 11 Nov 2024 09:00:00 -0500"
-    },
-    {
         "title": "Riestra",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Riestra",
         "pubdate": "Mon, 11 Nov 2024 14:00:00 -0500"
@@ -30,14 +25,24 @@
         "pubdate": "Mon, 11 Nov 2024 04:00:00 -0500"
     },
     {
-        "title": "Barcelona hoy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Barcelona%20hoy",
-        "pubdate": "Mon, 11 Nov 2024 10:00:00 -0500"
-    },
-    {
         "title": "Dia del Soltero",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Dia%20del%20Soltero",
         "pubdate": "Mon, 11 Nov 2024 10:00:00 -0500"
+    },
+    {
+        "title": "Eliminatorias",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Eliminatorias",
+        "pubdate": "Mon, 11 Nov 2024 19:00:00 -0500"
+    },
+    {
+        "title": "EsSalud",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#EsSalud",
+        "pubdate": "Mon, 11 Nov 2024 07:00:00 -0500"
+    },
+    {
+        "title": "Barca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Barca",
+        "pubdate": "Mon, 11 Nov 2024 11:00:00 -0500"
     },
     {
         "title": "Dia de la educacion primaria",
@@ -50,9 +55,19 @@
         "pubdate": "Mon, 11 Nov 2024 13:00:00 -0500"
     },
     {
-        "title": "Hombres G",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Hombres%20G",
+        "title": "Hombres G Perú 2025",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Hombres%20G%20Per%C3%BA%202025",
         "pubdate": "Mon, 11 Nov 2024 18:00:00 -0500"
+    },
+    {
+        "title": "Belgrano  Instituto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Belgrano%20%20Instituto",
+        "pubdate": "Mon, 11 Nov 2024 20:00:00 -0500"
+    },
+    {
+        "title": "Entradas peru vs Chile",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Entradas%20peru%20vs%20Chile",
+        "pubdate": "Mon, 11 Nov 2024 13:00:00 -0500"
     },
     {
         "title": "Primera división",
@@ -60,29 +75,14 @@
         "pubdate": "Mon, 11 Nov 2024 10:00:00 -0500"
     },
     {
-        "title": "Temblor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Temblor",
-        "pubdate": "Mon, 11 Nov 2024 19:00:00 -0500"
-    },
-    {
-        "title": "Georgina Cooper de que murio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Georgina%20Cooper%20de%20que%20murio",
-        "pubdate": "Mon, 11 Nov 2024 11:00:00 -0500"
-    },
-    {
         "title": "Adamo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Adamo",
         "pubdate": "Mon, 11 Nov 2024 09:00:00 -0500"
     },
     {
-        "title": "Peru vs Chile entradas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Peru%20vs%20Chile%20entradas",
-        "pubdate": "Mon, 11 Nov 2024 12:00:00 -0500"
-    },
-    {
-        "title": "11 de noviembre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#11%20de%20noviembre",
-        "pubdate": "Mon, 11 Nov 2024 10:00:00 -0500"
+        "title": "Georgina Cooper de que murio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Georgina%20Cooper%20de%20que%20murio",
+        "pubdate": "Mon, 11 Nov 2024 11:00:00 -0500"
     },
     {
         "title": "Microsoft Teams",
@@ -95,8 +95,8 @@
         "pubdate": "Mon, 11 Nov 2024 11:00:00 -0500"
     },
     {
-        "title": "Camara",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Camara",
-        "pubdate": "Mon, 11 Nov 2024 14:00:00 -0500"
+        "title": "APEC Peru",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#APEC%20Peru",
+        "pubdate": "Mon, 11 Nov 2024 12:00:00 -0500"
     }
 ]
