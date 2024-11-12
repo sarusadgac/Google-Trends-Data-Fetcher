@@ -60,14 +60,14 @@
         "pubdate": "Mon, 11 Nov 2024 23:00:00 +0100"
     },
     {
-        "title": "Huelga 12 de noviembre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Huelga%2012%20de%20noviembre",
-        "pubdate": "Mon, 11 Nov 2024 00:00:00 +0100"
-    },
-    {
         "title": "Almeria",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Almeria",
         "pubdate": "Mon, 11 Nov 2024 21:00:00 +0100"
+    },
+    {
+        "title": "Huelga 12 de noviembre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Huelga%2012%20de%20noviembre",
+        "pubdate": "Mon, 11 Nov 2024 00:00:00 +0100"
     },
     {
         "title": "Iñigo errejon",
@@ -85,6 +85,11 @@
         "pubdate": "Mon, 11 Nov 2024 22:00:00 +0100"
     },
     {
+        "title": "Gas radon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Gas%20radon",
+        "pubdate": "Mon, 11 Nov 2024 23:00:00 +0100"
+    },
+    {
         "title": "Huelga de autobuses Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Huelga%20de%20autobuses%20Madrid",
         "pubdate": "Mon, 11 Nov 2024 00:00:00 +0100"
@@ -93,10 +98,5 @@
         "title": "Radon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Radon",
         "pubdate": "Mon, 11 Nov 2024 15:00:00 +0100"
-    },
-    {
-        "title": "Gas radon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Gas%20radon",
-        "pubdate": "Mon, 11 Nov 2024 23:00:00 +0100"
     }
 ]
