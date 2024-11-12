@@ -1,6 +1,7 @@
 The Penguin
 Marco Rubio
 Kursk
+Northvolt
 Leonardo DiCaprio
 Anders Borg
 Michael Nyqvist
@@ -9,6 +10,7 @@ Barcelona
 HA Bygg
 David Coote
 Marcus Oscarsson
+Nostradamus
 Gymnasiemässan
 COP29
 Newcastle
@@ -16,5 +18,3 @@ Newcastle
 AIK
 Mark Levengood
 Chelsea
-Bitcoin
-Per Persson
