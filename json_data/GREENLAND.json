@@ -1,8 +1,8 @@
 [
     {
-        "title": "Russia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Russia",
-        "pubdate": "Wed, 13 Nov 2024 00:30:00 +0530"
+        "title": "Меган Фокс",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%9C%D0%B5%D0%B3%D0%B0%D0%BD%20%D0%A4%D0%BE%D0%BA%D1%81",
+        "pubdate": "Tue, 12 Nov 2024 00:00:00 +0300"
     },
     {
         "title": "Laure Lavalette",
@@ -10,14 +10,14 @@
         "pubdate": "Tue, 12 Nov 2024 00:00:00 +0100"
     },
     {
+        "title": "サザンオールスターズ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%82%B5%E3%82%B6%E3%83%B3%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA",
+        "pubdate": "Wed, 13 Nov 2024 07:00:00 +0900"
+    },
+    {
         "title": "I'm A Celeb line-up 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#I'm%20A%20Celeb%20line-up%202024",
         "pubdate": "Tue, 12 Nov 2024 10:00:00 +0000"
-    },
-    {
-        "title": "Меган Фокс",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%9C%D0%B5%D0%B3%D0%B0%D0%BD%20%D0%A4%D0%BE%D0%BA%D1%81",
-        "pubdate": "Tue, 12 Nov 2024 00:00:00 +0300"
     },
     {
         "title": "李子柒",
@@ -25,49 +25,39 @@
         "pubdate": "Wed, 13 Nov 2024 00:00:00 +0800"
     },
     {
-        "title": "Kristi Noem",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kristi%20Noem",
-        "pubdate": "Tue, 12 Nov 2024 04:00:00 -0800"
-    },
-    {
-        "title": "サザンオールスターズ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%82%B5%E3%82%B6%E3%83%B3%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA",
-        "pubdate": "Wed, 13 Nov 2024 07:00:00 +0900"
-    },
-    {
         "title": "Eurojackpot",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eurojackpot",
         "pubdate": "Tue, 12 Nov 2024 21:00:00 +0100"
     },
     {
-        "title": "زينة",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=EG#%D8%B2%D9%8A%D9%86%D8%A9",
+        "title": "Russia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Russia",
+        "pubdate": "Wed, 13 Nov 2024 00:30:00 +0530"
+    },
+    {
+        "title": "Kristi Noem",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kristi%20Noem",
+        "pubdate": "Tue, 12 Nov 2024 04:00:00 -0800"
+    },
+    {
+        "title": "Deadpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Deadpool",
+        "pubdate": "Tue, 12 Nov 2024 18:00:00 +0100"
+    },
+    {
+        "title": "林昱珉",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%9E%97%E6%98%B1%E7%8F%89",
+        "pubdate": "Wed, 13 Nov 2024 02:00:00 +0800"
+    },
+    {
+        "title": "Firma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Firma",
         "pubdate": "Wed, 13 Nov 2024 00:00:00 +0200"
     },
     {
-        "title": "Tons of Rock 2025",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tons%20of%20Rock%202025",
+        "title": "Wolna Wigilia 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Wolna%20Wigilia%202024",
         "pubdate": "Tue, 12 Nov 2024 11:00:00 +0100"
-    },
-    {
-        "title": "Miss International 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Miss%20International%202024",
-        "pubdate": "Tue, 12 Nov 2024 17:00:00 +0700"
-    },
-    {
-        "title": "Gladiator 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Gladiator%202",
-        "pubdate": "Wed, 13 Nov 2024 00:00:00 +1100"
-    },
-    {
-        "title": "Amsterdam",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Amsterdam",
-        "pubdate": "Tue, 12 Nov 2024 01:00:00 +0100"
-    },
-    {
-        "title": "Song jae-rim",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Song%20jae-rim",
-        "pubdate": "Tue, 12 Nov 2024 12:00:00 -0300"
     },
     {
         "title": "Sinner oggi",
@@ -75,28 +65,38 @@
         "pubdate": "Tue, 12 Nov 2024 18:00:00 +0100"
     },
     {
+        "title": "Биткоин",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=UA#%D0%91%D0%B8%D1%82%D0%BA%D0%BE%D0%B8%D0%BD",
+        "pubdate": "Tue, 12 Nov 2024 12:00:00 +0200"
+    },
+    {
         "title": "Mike Waltz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Mike%20Waltz",
         "pubdate": "Tue, 12 Nov 2024 09:00:00 +0100"
     },
     {
-        "title": "Lily",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Lily",
-        "pubdate": "Wed, 13 Nov 2024 03:00:00 +0800"
+        "title": "Miss International 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Miss%20International%202024",
+        "pubdate": "Tue, 12 Nov 2024 17:00:00 +0700"
     },
     {
-        "title": "Zhuhai",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Zhuhai",
-        "pubdate": "Wed, 13 Nov 2024 00:00:00 +0800"
+        "title": "Olivia Rodrigo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Olivia%20Rodrigo",
+        "pubdate": "Tue, 12 Nov 2024 09:00:00 +0000"
     },
     {
-        "title": "Silviu prigoana a murit",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Silviu%20prigoana%20a%20murit",
-        "pubdate": "Tue, 12 Nov 2024 16:00:00 +0200"
+        "title": "Song Jae-rim",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Song%20Jae-rim",
+        "pubdate": "Tue, 12 Nov 2024 09:00:00 -0600"
     },
     {
-        "title": "Juventus vs Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Juventus%20vs%20Arsenal",
-        "pubdate": "Tue, 12 Nov 2024 21:00:00 +0300"
+        "title": "Rita Sugiarto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Rita%20Sugiarto",
+        "pubdate": "Wed, 13 Nov 2024 00:00:00 +0700"
+    },
+    {
+        "title": "Amsterdam",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Amsterdam",
+        "pubdate": "Tue, 12 Nov 2024 01:00:00 +0100"
     }
 ]
