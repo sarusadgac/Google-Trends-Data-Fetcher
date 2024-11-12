@@ -1,18 +1,8 @@
 [
     {
-        "title": "Kristi Noem",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kristi%20Noem",
-        "pubdate": "Tue, 12 Nov 2024 04:00:00 -0800"
-    },
-    {
         "title": "I'm A Celeb line-up 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#I'm%20A%20Celeb%20line-up%202024",
         "pubdate": "Tue, 12 Nov 2024 10:00:00 +0000"
-    },
-    {
-        "title": "Tulsi Vivah 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Tulsi%20Vivah%202024",
-        "pubdate": "Tue, 12 Nov 2024 07:30:00 +0530"
     },
     {
         "title": "Neuwahlen",
@@ -20,9 +10,24 @@
         "pubdate": "Tue, 12 Nov 2024 12:00:00 +0100"
     },
     {
+        "title": "Kristi Noem",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kristi%20Noem",
+        "pubdate": "Tue, 12 Nov 2024 04:00:00 -0800"
+    },
+    {
+        "title": "ゴールデングラブ賞",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%87%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%96%E8%B3%9E",
+        "pubdate": "Tue, 12 Nov 2024 18:00:00 +0900"
+    },
+    {
         "title": "Laurent Wauquiez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Laurent%20Wauquiez",
         "pubdate": "Tue, 12 Nov 2024 08:00:00 +0100"
+    },
+    {
+        "title": "Tulsi Vivah 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Tulsi%20Vivah%202024",
+        "pubdate": "Tue, 12 Nov 2024 07:30:00 +0530"
     },
     {
         "title": "Меган Фокс",
@@ -35,29 +40,29 @@
         "pubdate": "Tue, 12 Nov 2024 00:00:00 +0800"
     },
     {
-        "title": "ゴールデングラブ賞",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%87%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%96%E8%B3%9E",
-        "pubdate": "Tue, 12 Nov 2024 18:00:00 +0900"
-    },
-    {
-        "title": "Silviu prigoana a murit",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Silviu%20prigoana%20a%20murit",
-        "pubdate": "Tue, 12 Nov 2024 16:00:00 +0200"
-    },
-    {
-        "title": "Mauro Icardi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Mauro%20Icardi",
-        "pubdate": "Tue, 12 Nov 2024 17:00:00 +0300"
-    },
-    {
         "title": "Song Jae Rim",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Song%20Jae%20Rim",
-        "pubdate": "Tue, 12 Nov 2024 19:00:00 +0800"
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Song%20Jae%20Rim",
+        "pubdate": "Tue, 12 Nov 2024 07:00:00 -0500"
     },
     {
-        "title": "Βαρδησ βαρδινογιαννησ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%92%CE%B1%CF%81%CE%B4%CE%B7%CF%83%20%CE%B2%CE%B1%CF%81%CE%B4%CE%B9%CE%BD%CE%BF%CE%B3%CE%B9%CE%B1%CE%BD%CE%BD%CE%B7%CF%83",
-        "pubdate": "Tue, 12 Nov 2024 11:00:00 +0200"
+        "title": "Senador Marco Rubio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Senador%20Marco%20Rubio",
+        "pubdate": "Tue, 12 Nov 2024 13:00:00 +0100"
+    },
+    {
+        "title": "57 letra",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#57%20letra",
+        "pubdate": "Tue, 12 Nov 2024 09:00:00 -0500"
+    },
+    {
+        "title": "Geneviève Gradová",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Genevi%C3%A8ve%20Gradov%C3%A1",
+        "pubdate": "Tue, 12 Nov 2024 08:00:00 +0100"
+    },
+    {
+        "title": "Holanda fecha fronteiras",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Holanda%20fecha%20fronteiras",
+        "pubdate": "Tue, 12 Nov 2024 00:00:00 +0000"
     },
     {
         "title": "Sinterklaas",
@@ -65,38 +70,33 @@
         "pubdate": "Tue, 12 Nov 2024 12:00:00 +0100"
     },
     {
-        "title": "Marco Rubio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Marco%20Rubio",
-        "pubdate": "Tue, 12 Nov 2024 09:00:00 +0100"
-    },
-    {
-        "title": "Wigilia 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Wigilia%202024",
-        "pubdate": "Tue, 12 Nov 2024 11:00:00 +0100"
-    },
-    {
-        "title": "แม่บ้านมีหนวด",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TH#%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%A1%E0%B8%B5%E0%B8%AB%E0%B8%99%E0%B8%A7%E0%B8%94",
-        "pubdate": "Tue, 12 Nov 2024 18:00:00 +0700"
-    },
-    {
         "title": "The Penguin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#The%20Penguin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#The%20Penguin",
+        "pubdate": "Tue, 12 Nov 2024 02:00:00 +0300"
+    },
+    {
+        "title": "宣昶有",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%AE%A3%E6%98%B6%E6%9C%89",
+        "pubdate": "Tue, 12 Nov 2024 09:00:00 +0800"
+    },
+    {
+        "title": "Marco Rubio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Marco%20Rubio",
+        "pubdate": "Tue, 12 Nov 2024 09:00:00 -0500"
+    },
+    {
+        "title": "Incident diplomatique Israël",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Incident%20diplomatique%20Isra%C3%ABl",
         "pubdate": "Tue, 12 Nov 2024 09:00:00 +0100"
     },
     {
-        "title": "Nombre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Nombre",
-        "pubdate": "Tue, 12 Nov 2024 07:00:00 -0600"
+        "title": "كنزي دياب",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=EG#%D9%83%D9%86%D8%B2%D9%8A%20%D8%AF%D9%8A%D8%A7%D8%A8",
+        "pubdate": "Tue, 12 Nov 2024 04:00:00 +0200"
     },
     {
-        "title": "Atlético Nacional  Medellín",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Atl%C3%A9tico%20Nacional%20%20Medell%C3%ADn",
-        "pubdate": "Mon, 11 Nov 2024 12:00:00 -0500"
-    },
-    {
-        "title": "Senador Marco Rubio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Senador%20Marco%20Rubio",
-        "pubdate": "Tue, 12 Nov 2024 13:00:00 +0100"
+        "title": "Nemere István",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Nemere%20Istv%C3%A1n",
+        "pubdate": "Tue, 12 Nov 2024 11:00:00 +0100"
     }
 ]
