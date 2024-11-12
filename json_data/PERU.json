@@ -25,6 +25,11 @@
         "pubdate": "Mon, 11 Nov 2024 14:00:00 -0500"
     },
     {
+        "title": "Paro Nacional",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Paro%20Nacional",
+        "pubdate": "Mon, 11 Nov 2024 04:00:00 -0500"
+    },
+    {
         "title": "Barcelona hoy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Barcelona%20hoy",
         "pubdate": "Mon, 11 Nov 2024 10:00:00 -0500"
@@ -33,11 +38,6 @@
         "title": "Dia del Soltero",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Dia%20del%20Soltero",
         "pubdate": "Mon, 11 Nov 2024 10:00:00 -0500"
-    },
-    {
-        "title": "Paro Nacional",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Paro%20Nacional",
-        "pubdate": "Mon, 11 Nov 2024 04:00:00 -0500"
     },
     {
         "title": "Dia de la educacion primaria",
@@ -60,6 +60,11 @@
         "pubdate": "Mon, 11 Nov 2024 10:00:00 -0500"
     },
     {
+        "title": "Temblor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Temblor",
+        "pubdate": "Mon, 11 Nov 2024 19:00:00 -0500"
+    },
+    {
         "title": "Georgina Cooper de que murio",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Georgina%20Cooper%20de%20que%20murio",
         "pubdate": "Mon, 11 Nov 2024 11:00:00 -0500"
@@ -68,6 +73,11 @@
         "title": "Adamo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Adamo",
         "pubdate": "Mon, 11 Nov 2024 09:00:00 -0500"
+    },
+    {
+        "title": "Peru vs Chile entradas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Peru%20vs%20Chile%20entradas",
+        "pubdate": "Mon, 11 Nov 2024 12:00:00 -0500"
     },
     {
         "title": "11 de noviembre",
@@ -88,15 +98,5 @@
         "title": "Camara",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Camara",
         "pubdate": "Mon, 11 Nov 2024 14:00:00 -0500"
-    },
-    {
-        "title": "Aldo Corzo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Aldo%20Corzo",
-        "pubdate": "Mon, 11 Nov 2024 17:00:00 -0500"
-    },
-    {
-        "title": "Real Sociedad - Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Real%20Sociedad%20-%20Barcelona",
-        "pubdate": "Sun, 10 Nov 2024 08:00:00 -0500"
     }
 ]
