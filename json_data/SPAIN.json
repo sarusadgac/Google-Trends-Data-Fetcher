@@ -1,5 +1,10 @@
 [
     {
+        "title": "Beatriz Luengo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Beatriz%20Luengo",
+        "pubdate": "Wed, 13 Nov 2024 00:00:00 +0100"
+    },
+    {
         "title": "Alerta por precipitaciones",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Alerta%20por%20precipitaciones",
         "pubdate": "Tue, 12 Nov 2024 16:00:00 +0100"
@@ -8,6 +13,11 @@
         "title": "Euroliga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Euroliga",
         "pubdate": "Tue, 12 Nov 2024 20:00:00 +0100"
+    },
+    {
+        "title": "Alerta roja malaga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Alerta%20roja%20malaga",
+        "pubdate": "Tue, 12 Nov 2024 00:00:00 +0100"
     },
     {
         "title": "Senador Marco Rubio",
@@ -20,9 +30,9 @@
         "pubdate": "Tue, 12 Nov 2024 10:00:00 +0100"
     },
     {
-        "title": "Silvia Abril",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Silvia%20Abril",
-        "pubdate": "Tue, 12 Nov 2024 23:00:00 +0100"
+        "title": "Isa Pantoja",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Isa%20Pantoja",
+        "pubdate": "Tue, 12 Nov 2024 21:00:00 +0100"
     },
     {
         "title": "David Bustamante",
@@ -30,9 +40,9 @@
         "pubdate": "Tue, 12 Nov 2024 23:00:00 +0100"
     },
     {
-        "title": "Alvaro Pombo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Alvaro%20Pombo",
-        "pubdate": "Tue, 12 Nov 2024 21:00:00 +0100"
+        "title": "Silvia Abril",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Silvia%20Abril",
+        "pubdate": "Tue, 12 Nov 2024 23:00:00 +0100"
     },
     {
         "title": "Diario Sur",
@@ -40,14 +50,14 @@
         "pubdate": "Tue, 12 Nov 2024 22:00:00 +0100"
     },
     {
+        "title": "Alvaro Pombo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Alvaro%20Pombo",
+        "pubdate": "Tue, 12 Nov 2024 21:00:00 +0100"
+    },
+    {
         "title": "Francis Lorenzo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Francis%20Lorenzo",
         "pubdate": "Tue, 12 Nov 2024 00:00:00 +0100"
-    },
-    {
-        "title": "Isa Pantoja",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Isa%20Pantoja",
-        "pubdate": "Tue, 12 Nov 2024 21:00:00 +0100"
     },
     {
         "title": "Incendio La Palma",
@@ -65,14 +75,14 @@
         "pubdate": "Tue, 12 Nov 2024 15:00:00 +0100"
     },
     {
-        "title": "Miren Arzalluz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Miren%20Arzalluz",
-        "pubdate": "Tue, 12 Nov 2024 16:00:00 +0100"
-    },
-    {
         "title": "Kristi Noem",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Kristi%20Noem",
         "pubdate": "Tue, 12 Nov 2024 20:00:00 +0100"
+    },
+    {
+        "title": "Miren Arzalluz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Miren%20Arzalluz",
+        "pubdate": "Tue, 12 Nov 2024 16:00:00 +0100"
     },
     {
         "title": "Spreen",
@@ -80,23 +90,13 @@
         "pubdate": "Tue, 12 Nov 2024 00:00:00 +0100"
     },
     {
-        "title": "Champions femenina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Champions%20femenina",
-        "pubdate": "Tue, 12 Nov 2024 20:00:00 +0100"
-    },
-    {
-        "title": "Sur",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Sur",
+        "title": "Aquisandrax novio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Aquisandrax%20novio",
         "pubdate": "Tue, 12 Nov 2024 23:00:00 +0100"
     },
     {
-        "title": "Karol G",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Karol%20G",
-        "pubdate": "Tue, 12 Nov 2024 12:00:00 +0100"
-    },
-    {
-        "title": "El Correo Gallego",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#El%20Correo%20Gallego",
-        "pubdate": "Tue, 12 Nov 2024 16:00:00 +0100"
+        "title": "Champions femenina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Champions%20femenina",
+        "pubdate": "Tue, 12 Nov 2024 20:00:00 +0100"
     }
 ]
