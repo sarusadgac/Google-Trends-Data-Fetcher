@@ -15,14 +15,14 @@
         "pubdate": "Mon, 11 Nov 2024 11:00:00 -0500"
     },
     {
-        "title": "Velez vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Velez%20vs",
-        "pubdate": "Mon, 11 Nov 2024 13:00:00 -0500"
-    },
-    {
         "title": "Peru vs Chile",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Peru%20vs%20Chile",
         "pubdate": "Mon, 11 Nov 2024 13:00:00 -0500"
+    },
+    {
+        "title": "Spreen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Spreen",
+        "pubdate": "Mon, 11 Nov 2024 14:00:00 -0500"
     },
     {
         "title": "APEC 2024",
@@ -35,14 +35,14 @@
         "pubdate": "Mon, 11 Nov 2024 04:00:00 -0500"
     },
     {
-        "title": "Eliminatorias",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Eliminatorias",
-        "pubdate": "Mon, 11 Nov 2024 12:00:00 -0500"
-    },
-    {
         "title": "Belgrano  Instituto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Belgrano%20%20Instituto",
         "pubdate": "Mon, 11 Nov 2024 20:00:00 -0500"
+    },
+    {
+        "title": "Eliminatorias",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Eliminatorias",
+        "pubdate": "Mon, 11 Nov 2024 19:00:00 -0500"
     },
     {
         "title": "Dia del Soltero",
@@ -80,6 +80,11 @@
         "pubdate": "Mon, 11 Nov 2024 11:00:00 -0500"
     },
     {
+        "title": "Peru vs Chile entradas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Peru%20vs%20Chile%20entradas",
+        "pubdate": "Mon, 11 Nov 2024 12:00:00 -0500"
+    },
+    {
         "title": "11 de noviembre",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#11%20de%20noviembre",
         "pubdate": "Mon, 11 Nov 2024 10:00:00 -0500"
@@ -93,10 +98,5 @@
         "title": "Microsoft Teams",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Microsoft%20Teams",
         "pubdate": "Mon, 11 Nov 2024 09:00:00 -0500"
-    },
-    {
-        "title": "Fútbol Club Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#F%C3%BAtbol%20Club%20Barcelona",
-        "pubdate": "Mon, 11 Nov 2024 12:00:00 -0500"
     }
 ]
