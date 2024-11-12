@@ -45,11 +45,6 @@
         "pubdate": "Mon, 11 Nov 2024 23:00:00 +0100"
     },
     {
-        "title": "Radon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Radon",
-        "pubdate": "Mon, 11 Nov 2024 15:00:00 +0100"
-    },
-    {
         "title": "Almeria",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Almeria",
         "pubdate": "Mon, 11 Nov 2024 21:00:00 +0100"
@@ -58,6 +53,11 @@
         "title": "Iñigo errejon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#I%C3%B1igo%20errejon",
         "pubdate": "Mon, 11 Nov 2024 04:00:00 +0100"
+    },
+    {
+        "title": "Huelga 12 de noviembre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Huelga%2012%20de%20noviembre",
+        "pubdate": "Mon, 11 Nov 2024 00:00:00 +0100"
     },
     {
         "title": "Kiko Matamoros",
@@ -75,9 +75,19 @@
         "pubdate": "Mon, 11 Nov 2024 00:00:00 +0100"
     },
     {
+        "title": "Radon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Radon",
+        "pubdate": "Mon, 11 Nov 2024 15:00:00 +0100"
+    },
+    {
         "title": "Zonas inundables España",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Zonas%20inundables%20Espa%C3%B1a",
         "pubdate": "Mon, 11 Nov 2024 21:00:00 +0100"
+    },
+    {
+        "title": "Tom Homan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Tom%20Homan",
+        "pubdate": "Mon, 11 Nov 2024 19:00:00 +0100"
     },
     {
         "title": "Peter Lim",
@@ -85,18 +95,8 @@
         "pubdate": "Mon, 11 Nov 2024 09:00:00 +0100"
     },
     {
-        "title": "Deportivo de La Coruña",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Deportivo%20de%20La%20Coru%C3%B1a",
+        "title": "Deportivo de la Coruña",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Deportivo%20de%20la%20Coru%C3%B1a",
         "pubdate": "Mon, 11 Nov 2024 22:00:00 +0100"
-    },
-    {
-        "title": "Real Oviedo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Real%20Oviedo",
-        "pubdate": "Mon, 11 Nov 2024 17:00:00 +0100"
-    },
-    {
-        "title": "Tom Homan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Tom%20Homan",
-        "pubdate": "Mon, 11 Nov 2024 19:00:00 +0100"
     }
 ]

@@ -25,8 +25,8 @@
         "pubdate": "Mon, 11 Nov 2024 10:00:00 -0500"
     },
     {
-        "title": "EsSalud",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#EsSalud",
+        "title": "Paro Nacional",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Paro%20Nacional",
         "pubdate": "Mon, 11 Nov 2024 04:00:00 -0500"
     },
     {
@@ -45,29 +45,24 @@
         "pubdate": "Mon, 11 Nov 2024 10:00:00 -0500"
     },
     {
-        "title": "Barca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Barca",
-        "pubdate": "Mon, 11 Nov 2024 11:00:00 -0500"
-    },
-    {
-        "title": "Temblor hoy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Temblor%20hoy",
-        "pubdate": "Mon, 11 Nov 2024 19:00:00 -0500"
-    },
-    {
         "title": "Brunei",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Brunei",
         "pubdate": "Mon, 11 Nov 2024 13:00:00 -0500"
     },
     {
-        "title": "Dia de la educacion primaria",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Dia%20de%20la%20educacion%20primaria",
+        "title": "Dia de la educacion Primaria",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Dia%20de%20la%20educacion%20Primaria",
         "pubdate": "Mon, 11 Nov 2024 06:00:00 -0500"
     },
     {
         "title": "Hombres G",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Hombres%20G",
         "pubdate": "Mon, 11 Nov 2024 18:00:00 -0500"
+    },
+    {
+        "title": "Cyber Days",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Cyber%20Days",
+        "pubdate": "Mon, 11 Nov 2024 08:00:00 -0500"
     },
     {
         "title": "Primera división",
@@ -98,5 +93,10 @@
         "title": "Microsoft Teams",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Microsoft%20Teams",
         "pubdate": "Mon, 11 Nov 2024 09:00:00 -0500"
+    },
+    {
+        "title": "Megan Fox",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Megan%20Fox",
+        "pubdate": "Mon, 11 Nov 2024 20:00:00 -0500"
     }
 ]
