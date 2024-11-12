@@ -20,19 +20,14 @@
         "pubdate": "Mon, 11 Nov 2024 18:00:00 +0100"
     },
     {
-        "title": "Barca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Barca",
-        "pubdate": "Mon, 11 Nov 2024 00:00:00 +0100"
+        "title": "Vladímir Putin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Vlad%C3%ADmir%20Putin",
+        "pubdate": "Mon, 11 Nov 2024 07:00:00 +0100"
     },
     {
         "title": "Deportivo  Eibar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Deportivo%20%20Eibar",
         "pubdate": "Mon, 11 Nov 2024 20:00:00 +0100"
-    },
-    {
-        "title": "Vladímir Putin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Vlad%C3%ADmir%20Putin",
-        "pubdate": "Mon, 11 Nov 2024 07:00:00 +0100"
     },
     {
         "title": "Juan gomez Jurado",
@@ -70,14 +65,14 @@
         "pubdate": "Mon, 11 Nov 2024 23:00:00 +0100"
     },
     {
-        "title": "Huelga de autobuses Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Huelga%20de%20autobuses%20Madrid",
-        "pubdate": "Mon, 11 Nov 2024 00:00:00 +0100"
-    },
-    {
         "title": "Irene Montero Yolanda Díaz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Irene%20Montero%20Yolanda%20D%C3%ADaz",
         "pubdate": "Mon, 11 Nov 2024 22:00:00 +0100"
+    },
+    {
+        "title": "Huelga de autobuses Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Huelga%20de%20autobuses%20Madrid",
+        "pubdate": "Mon, 11 Nov 2024 00:00:00 +0100"
     },
     {
         "title": "Zonas inundables España",
@@ -88,6 +83,11 @@
         "title": "Peter Lim",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Peter%20Lim",
         "pubdate": "Mon, 11 Nov 2024 09:00:00 +0100"
+    },
+    {
+        "title": "Deportivo de La Coruña",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Deportivo%20de%20La%20Coru%C3%B1a",
+        "pubdate": "Mon, 11 Nov 2024 22:00:00 +0100"
     },
     {
         "title": "Real Oviedo",
