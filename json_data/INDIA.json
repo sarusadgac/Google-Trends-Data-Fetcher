@@ -25,14 +25,14 @@
         "pubdate": "Tue, 12 Nov 2024 10:30:00 +0530"
     },
     {
-        "title": "The Penguin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#The%20Penguin",
-        "pubdate": "Tue, 12 Nov 2024 09:30:00 +0530"
-    },
-    {
         "title": "Manoj Mitra",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Manoj%20Mitra",
         "pubdate": "Tue, 12 Nov 2024 12:30:00 +0530"
+    },
+    {
+        "title": "The Penguin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#The%20Penguin",
+        "pubdate": "Tue, 12 Nov 2024 09:30:00 +0530"
     },
     {
         "title": "Mohammad Nabi",
@@ -58,6 +58,11 @@
         "title": "Kerala Lottery results",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Kerala%20Lottery%20results",
         "pubdate": "Tue, 12 Nov 2024 09:30:00 +0530"
+    },
+    {
+        "title": "IND vs SA 3rd T20",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#IND%20vs%20SA%203rd%20T20",
+        "pubdate": "Tue, 12 Nov 2024 18:30:00 +0530"
     },
     {
         "title": "Bangladesh vs Afghanistan",
@@ -93,10 +98,5 @@
         "title": "Vistara",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Vistara",
         "pubdate": "Mon, 11 Nov 2024 19:30:00 +0530"
-    },
-    {
-        "title": "Niva Bupa IPO GMP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Niva%20Bupa%20IPO%20GMP",
-        "pubdate": "Mon, 11 Nov 2024 12:30:00 +0530"
     }
 ]
