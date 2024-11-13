@@ -45,6 +45,11 @@
         "pubdate": "Tue, 12 Nov 2024 00:00:00 -0500"
     },
     {
+        "title": "MasterChef",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#MasterChef",
+        "pubdate": "Tue, 12 Nov 2024 21:00:00 -0500"
+    },
+    {
         "title": "Harriet",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Harriet",
         "pubdate": "Tue, 12 Nov 2024 15:00:00 -0500"
@@ -53,11 +58,6 @@
         "title": "Marco Angulo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Marco%20Angulo",
         "pubdate": "Tue, 12 Nov 2024 09:00:00 -0500"
-    },
-    {
-        "title": "MasterChef",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#MasterChef",
-        "pubdate": "Tue, 12 Nov 2024 21:00:00 -0500"
     },
     {
         "title": "Jaffar Bambirra",
@@ -85,18 +85,18 @@
         "pubdate": "Tue, 12 Nov 2024 16:00:00 -0500"
     },
     {
-        "title": "Marco Rubio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Marco%20Rubio",
-        "pubdate": "Tue, 12 Nov 2024 13:00:00 -0500"
-    },
-    {
         "title": "Mulher morre afogada Piracicaba",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Mulher%20morre%20afogada%20Piracicaba",
         "pubdate": "Tue, 12 Nov 2024 16:00:00 -0500"
     },
     {
-        "title": "Celtics x Hawks",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Celtics%20x%20Hawks",
-        "pubdate": "Tue, 12 Nov 2024 22:00:00 -0500"
+        "title": "Marco Rubio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Marco%20Rubio",
+        "pubdate": "Tue, 12 Nov 2024 13:00:00 -0500"
+    },
+    {
+        "title": "CBF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#CBF",
+        "pubdate": "Tue, 12 Nov 2024 17:00:00 -0500"
     }
 ]
