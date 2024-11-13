@@ -1,38 +1,8 @@
 [
     {
-        "title": "鈴木紗理奈",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E9%88%B4%E6%9C%A8%E7%B4%97%E7%90%86%E5%A5%88",
-        "pubdate": "Wed, 13 Nov 2024 14:00:00 +0900"
-    },
-    {
         "title": "Pénélope Fillon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#P%C3%A9n%C3%A9lope%20Fillon",
         "pubdate": "Wed, 13 Nov 2024 00:00:00 +0100"
-    },
-    {
-        "title": "Pete Hegseth",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Pete%20Hegseth",
-        "pubdate": "Wed, 13 Nov 2024 07:00:00 +0000"
-    },
-    {
-        "title": "大亞灣核電廠",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%A4%A7%E4%BA%9E%E7%81%A3%E6%A0%B8%E9%9B%BB%E5%BB%A0",
-        "pubdate": "Wed, 13 Nov 2024 13:00:00 +0800"
-    },
-    {
-        "title": "Warriors",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Warriors",
-        "pubdate": "Tue, 12 Nov 2024 17:00:00 -0800"
-    },
-    {
-        "title": "Neuwahlen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Neuwahlen",
-        "pubdate": "Tue, 12 Nov 2024 12:00:00 +0100"
-    },
-    {
-        "title": "Алексей Зимин",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9%20%D0%97%D0%B8%D0%BC%D0%B8%D0%BD",
-        "pubdate": "Wed, 13 Nov 2024 12:00:00 +0300"
     },
     {
         "title": "Sri Lanka vs New Zealand",
@@ -40,19 +10,34 @@
         "pubdate": "Wed, 13 Nov 2024 14:30:00 +0530"
     },
     {
-        "title": "Vivek Ramaswamy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Vivek%20Ramaswamy",
-        "pubdate": "Wed, 13 Nov 2024 07:00:00 +0100"
+        "title": "Neuwahlen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Neuwahlen",
+        "pubdate": "Tue, 12 Nov 2024 12:00:00 +0100"
     },
     {
-        "title": "Celtics vs Hawks",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Celtics%20vs%20Hawks",
-        "pubdate": "Wed, 13 Nov 2024 09:00:00 +0800"
+        "title": "鈴木紗理奈",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E9%88%B4%E6%9C%A8%E7%B4%97%E7%90%86%E5%A5%88",
+        "pubdate": "Wed, 13 Nov 2024 14:00:00 +0900"
     },
     {
-        "title": "محمد التاجي",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#%D9%85%D8%AD%D9%85%D8%AF%20%D8%A7%D9%84%D8%AA%D8%A7%D8%AC%D9%8A",
-        "pubdate": "Wed, 13 Nov 2024 03:00:00 +0300"
+        "title": "Warriors",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Warriors",
+        "pubdate": "Tue, 12 Nov 2024 17:00:00 -0800"
+    },
+    {
+        "title": "Pete Hegseth",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Pete%20Hegseth",
+        "pubdate": "Wed, 13 Nov 2024 07:00:00 +0000"
+    },
+    {
+        "title": "Алексей Зимин",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9%20%D0%97%D0%B8%D0%BC%D0%B8%D0%BD",
+        "pubdate": "Wed, 13 Nov 2024 12:00:00 +0300"
+    },
+    {
+        "title": "大亞灣核電廠",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%A4%A7%E4%BA%9E%E7%81%A3%E6%A0%B8%E9%9B%BB%E5%BB%A0",
+        "pubdate": "Wed, 13 Nov 2024 13:00:00 +0800"
     },
     {
         "title": "John Krasinski",
@@ -60,43 +45,58 @@
         "pubdate": "Wed, 13 Nov 2024 09:00:00 +0100"
     },
     {
-        "title": "Tödlicher Unfall Urnäsch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#T%C3%B6dlicher%20Unfall%20Urn%C3%A4sch",
+        "title": "Amsterdam",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Amsterdam",
+        "pubdate": "Tue, 12 Nov 2024 01:00:00 +0100"
+    },
+    {
+        "title": "Michael Schumacher",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Michael%20Schumacher",
         "pubdate": "Wed, 13 Nov 2024 08:00:00 +0100"
     },
     {
-        "title": "Sikorski",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Sikorski",
-        "pubdate": "Wed, 13 Nov 2024 00:00:00 +0100"
+        "title": "Vivek Ramaswamy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Vivek%20Ramaswamy",
+        "pubdate": "Wed, 13 Nov 2024 09:00:00 +0100"
     },
     {
-        "title": "Anne Hathaway",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Anne%20Hathaway",
-        "pubdate": "Wed, 13 Nov 2024 00:00:00 -0600"
+        "title": "Celtics vs Hawks",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Celtics%20vs%20Hawks",
+        "pubdate": "Wed, 13 Nov 2024 09:00:00 +0800"
     },
     {
-        "title": "Warriors vs Mavericks",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Warriors%20vs%20Mavericks",
-        "pubdate": "Wed, 13 Nov 2024 09:00:00 +0300"
+        "title": "Botafogo-SP x Ceará SC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Botafogo-SP%20x%20Cear%C3%A1%20SC",
+        "pubdate": "Tue, 12 Nov 2024 15:00:00 -0500"
     },
     {
-        "title": "מאסטר שף",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%9E%D7%90%D7%A1%D7%98%D7%A8%20%D7%A9%D7%A3",
+        "title": "Βαθμολογία Euroleague",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%92%CE%B1%CE%B8%CE%BC%CE%BF%CE%BB%CE%BF%CE%B3%CE%AF%CE%B1%20Euroleague",
         "pubdate": "Wed, 13 Nov 2024 00:00:00 +0200"
+    },
+    {
+        "title": "Gen Z",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gen%20Z",
+        "pubdate": "Wed, 13 Nov 2024 08:00:00 +0100"
+    },
+    {
+        "title": "Bali volcano eruption",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bali%20volcano%20eruption",
+        "pubdate": "Wed, 13 Nov 2024 12:00:00 +0800"
+    },
+    {
+        "title": "Rita Sugiarto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Rita%20Sugiarto",
+        "pubdate": "Wed, 13 Nov 2024 00:00:00 +0700"
+    },
+    {
+        "title": "AJet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#AJet",
+        "pubdate": "Wed, 13 Nov 2024 12:00:00 +0300"
     },
     {
         "title": "Krispy Kreme free doughnuts",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Krispy%20Kreme%20free%20doughnuts",
         "pubdate": "Wed, 13 Nov 2024 07:00:00 +1100"
-    },
-    {
-        "title": "Jannik Sinner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Jannik%20Sinner",
-        "pubdate": "Wed, 13 Nov 2024 00:00:00 +0100"
-    },
-    {
-        "title": "勇士 對 獨行俠",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%8B%87%E5%A3%AB%20%E5%B0%8D%20%E7%8D%A8%E8%A1%8C%E4%BF%A0",
-        "pubdate": "Wed, 13 Nov 2024 12:00:00 +0800"
     }
 ]
