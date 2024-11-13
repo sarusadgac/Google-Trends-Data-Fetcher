@@ -35,19 +35,24 @@
         "pubdate": "Tue, 12 Nov 2024 09:00:00 -0500"
     },
     {
-        "title": "Marco Rubio senador",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Marco%20Rubio%20senador",
-        "pubdate": "Tue, 12 Nov 2024 16:00:00 -0500"
-    },
-    {
         "title": "Paro de transportistas 13 de noviembre",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Paro%20de%20transportistas%2013%20de%20noviembre",
         "pubdate": "Tue, 12 Nov 2024 18:00:00 -0500"
     },
     {
+        "title": "Senador Marco Rubio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Senador%20Marco%20Rubio",
+        "pubdate": "Tue, 12 Nov 2024 16:00:00 -0500"
+    },
+    {
         "title": "Wicked",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Wicked",
         "pubdate": "Tue, 12 Nov 2024 01:00:00 -0500"
+    },
+    {
+        "title": "Huachipato  colo-colo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Huachipato%20%20colo-colo",
+        "pubdate": "Tue, 12 Nov 2024 17:00:00 -0500"
     },
     {
         "title": "Paolo Reyna",
@@ -93,10 +98,5 @@
         "title": "Spreen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Spreen",
         "pubdate": "Mon, 11 Nov 2024 14:00:00 -0500"
-    },
-    {
-        "title": "Brunei",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Brunei",
-        "pubdate": "Mon, 11 Nov 2024 13:00:00 -0500"
     }
 ]
