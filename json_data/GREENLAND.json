@@ -1,28 +1,8 @@
 [
     {
-        "title": "Neuwahlen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Neuwahlen",
-        "pubdate": "Tue, 12 Nov 2024 12:00:00 +0100"
-    },
-    {
-        "title": "サザンオールスターズ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%82%B5%E3%82%B6%E3%83%B3%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA",
-        "pubdate": "Wed, 13 Nov 2024 07:00:00 +0900"
-    },
-    {
-        "title": "李子柒",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E6%9D%8E%E5%AD%90%E6%9F%92",
-        "pubdate": "Wed, 13 Nov 2024 00:00:00 +0800"
-    },
-    {
         "title": "Меган Фокс",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%9C%D0%B5%D0%B3%D0%B0%D0%BD%20%D0%A4%D0%BE%D0%BA%D1%81",
         "pubdate": "Tue, 12 Nov 2024 00:00:00 +0300"
-    },
-    {
-        "title": "Iran",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Iran",
-        "pubdate": "Wed, 13 Nov 2024 05:30:00 +0530"
     },
     {
         "title": "Skai Jackson",
@@ -35,49 +15,44 @@
         "pubdate": "Tue, 12 Nov 2024 04:00:00 -0800"
     },
     {
+        "title": "Iran",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Iran",
+        "pubdate": "Wed, 13 Nov 2024 05:30:00 +0530"
+    },
+    {
+        "title": "Neuwahlen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Neuwahlen",
+        "pubdate": "Tue, 12 Nov 2024 12:00:00 +0100"
+    },
+    {
+        "title": "サザンオールスターズ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%82%B5%E3%82%B6%E3%83%B3%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA",
+        "pubdate": "Wed, 13 Nov 2024 07:00:00 +0900"
+    },
+    {
         "title": "Pénélope Fillon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#P%C3%A9n%C3%A9lope%20Fillon",
         "pubdate": "Wed, 13 Nov 2024 00:00:00 +0100"
     },
     {
-        "title": "Jannik Sinner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Jannik%20Sinner",
+        "title": "李子柒",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E6%9D%8E%E5%AD%90%E6%9F%92",
+        "pubdate": "Wed, 13 Nov 2024 00:00:00 +0800"
+    },
+    {
+        "title": "INEM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#INEM",
+        "pubdate": "Wed, 13 Nov 2024 00:00:00 +0000"
+    },
+    {
+        "title": "Sikorski",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Sikorski",
         "pubdate": "Wed, 13 Nov 2024 00:00:00 +0100"
     },
     {
-        "title": "إمام عاشور",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#%D8%A5%D9%85%D8%A7%D9%85%20%D8%B9%D8%A7%D8%B4%D9%88%D8%B1",
-        "pubdate": "Wed, 13 Nov 2024 01:00:00 +0300"
-    },
-    {
-        "title": "Haiti",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Haiti",
-        "pubdate": "Wed, 13 Nov 2024 01:00:00 +0100"
-    },
-    {
-        "title": "Krispy Kreme free doughnuts",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Krispy%20Kreme%20free%20doughnuts",
-        "pubdate": "Wed, 13 Nov 2024 07:00:00 +1100"
-    },
-    {
-        "title": "Twitch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Twitch",
-        "pubdate": "Tue, 12 Nov 2024 16:00:00 -0500"
-    },
-    {
-        "title": "Hikoi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Hikoi",
-        "pubdate": "Wed, 13 Nov 2024 10:00:00 +1300"
-    },
-    {
-        "title": "도지코인",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%8F%84%EC%A7%80%EC%BD%94%EC%9D%B8",
-        "pubdate": "Wed, 13 Nov 2024 03:00:00 +0900"
-    },
-    {
-        "title": "Wycombe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Wycombe",
-        "pubdate": "Wed, 13 Nov 2024 04:00:00 +0300"
+        "title": "Биткоин",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=UA#%D0%91%D0%B8%D1%82%D0%BA%D0%BE%D0%B8%D0%BD",
+        "pubdate": "Tue, 12 Nov 2024 12:00:00 +0200"
     },
     {
         "title": "Warriors vs Mavericks",
@@ -85,18 +60,43 @@
         "pubdate": "Wed, 13 Nov 2024 10:00:00 +0800"
     },
     {
-        "title": "Jobe Bellingham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Jobe%20Bellingham",
-        "pubdate": "Wed, 13 Nov 2024 02:00:00 +0200"
+        "title": "Twitch",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Twitch",
+        "pubdate": "Tue, 12 Nov 2024 17:00:00 -0500"
     },
     {
-        "title": "Man City vs Hammarby",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Man%20City%20vs%20Hammarby",
+        "title": "Jannik Sinner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Jannik%20Sinner",
+        "pubdate": "Wed, 13 Nov 2024 00:00:00 +0100"
+    },
+    {
+        "title": "Sinai",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Sinai",
+        "pubdate": "Tue, 12 Nov 2024 12:00:00 -0500"
+    },
+    {
+        "title": "Vague de froid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Vague%20de%20froid",
         "pubdate": "Wed, 13 Nov 2024 00:00:00 +0100"
     },
     {
         "title": "Cận vệ Lương Cường bị bắt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#C%E1%BA%ADn%20v%E1%BB%87%20L%C6%B0%C6%A1ng%20C%C6%B0%E1%BB%9Dng%20b%E1%BB%8B%20b%E1%BA%AFt",
         "pubdate": "Wed, 13 Nov 2024 09:00:00 +0700"
+    },
+    {
+        "title": "Bokor Gabriella újságíró",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bokor%20Gabriella%20%C3%BAjs%C3%A1g%C3%ADr%C3%B3",
+        "pubdate": "Tue, 12 Nov 2024 14:00:00 +0100"
+    },
+    {
+        "title": "Frank Auerbach",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Frank%20Auerbach",
+        "pubdate": "Wed, 13 Nov 2024 00:00:00 +0100"
+    },
+    {
+        "title": "Vinted",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Vinted",
+        "pubdate": "Wed, 13 Nov 2024 00:00:00 +0000"
     }
 ]
