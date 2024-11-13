@@ -1,13 +1,13 @@
 [
     {
-        "title": "Jannik Sinner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Jannik%20Sinner",
-        "pubdate": "Wed, 13 Nov 2024 00:00:00 +0100"
-    },
-    {
         "title": "Kyle Singler",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Kyle%20Singler",
         "pubdate": "Wed, 13 Nov 2024 01:00:00 +0100"
+    },
+    {
+        "title": "Miguel Ángel Rodríguez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Miguel%20%C3%81ngel%20Rodr%C3%ADguez",
+        "pubdate": "Wed, 13 Nov 2024 06:00:00 +0100"
     },
     {
         "title": "Carmen Posadas",
@@ -15,9 +15,9 @@
         "pubdate": "Wed, 13 Nov 2024 00:00:00 +0100"
     },
     {
-        "title": "Miguel Ángel Rodríguez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Miguel%20%C3%81ngel%20Rodr%C3%ADguez",
-        "pubdate": "Wed, 13 Nov 2024 06:00:00 +0100"
+        "title": "Granada Hoy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Granada%20Hoy",
+        "pubdate": "Wed, 13 Nov 2024 12:00:00 +0100"
     },
     {
         "title": "Warriors  Mavericks",
@@ -30,9 +30,19 @@
         "pubdate": "Wed, 13 Nov 2024 00:00:00 +0100"
     },
     {
+        "title": "Izan y ruben",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Izan%20y%20ruben",
+        "pubdate": "Wed, 13 Nov 2024 12:00:00 +0100"
+    },
+    {
         "title": "Radar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Radar",
         "pubdate": "Wed, 13 Nov 2024 10:00:00 +0100"
+    },
+    {
+        "title": "Adriano",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Adriano",
+        "pubdate": "Wed, 13 Nov 2024 11:00:00 +0100"
     },
     {
         "title": "Alerta por precipitaciones",
@@ -70,6 +80,11 @@
         "pubdate": "Tue, 12 Nov 2024 21:00:00 +0100"
     },
     {
+        "title": "Daniil Medvédev",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Daniil%20Medv%C3%A9dev",
+        "pubdate": "Tue, 12 Nov 2024 18:00:00 +0100"
+    },
+    {
         "title": "Diario Sur",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Diario%20Sur",
         "pubdate": "Tue, 12 Nov 2024 22:00:00 +0100"
@@ -83,20 +98,5 @@
         "title": "Tuberculosis Badajoz colegio",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Tuberculosis%20Badajoz%20colegio",
         "pubdate": "Tue, 12 Nov 2024 10:00:00 +0100"
-    },
-    {
-        "title": "Silvia Abril",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Silvia%20Abril",
-        "pubdate": "Tue, 12 Nov 2024 23:00:00 +0100"
-    },
-    {
-        "title": "Francis Lorenzo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Francis%20Lorenzo",
-        "pubdate": "Tue, 12 Nov 2024 00:00:00 +0100"
-    },
-    {
-        "title": "Benidorm Fest 2025",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Benidorm%20Fest%202025",
-        "pubdate": "Tue, 12 Nov 2024 17:00:00 +0100"
     }
 ]
