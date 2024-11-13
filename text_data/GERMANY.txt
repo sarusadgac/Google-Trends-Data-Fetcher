@@ -3,10 +3,8 @@ Bundestag
 John Krasinski
 Rivian
 Ford
-Musk
 Siemens Energy
 Neuwahlen
-Bundestagswahl 2025
 Frank Auerbach
 Gil Ofarim
 Bayer
@@ -18,3 +16,5 @@ Amsterdam
 Eintracht Braunschweig
 Wissing
 Bambi
+Lindner
+Europa League
