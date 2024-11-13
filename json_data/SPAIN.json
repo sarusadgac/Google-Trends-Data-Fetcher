@@ -15,6 +15,11 @@
         "pubdate": "Wed, 13 Nov 2024 00:00:00 +0100"
     },
     {
+        "title": "Kyle Singler",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Kyle%20Singler",
+        "pubdate": "Wed, 13 Nov 2024 01:00:00 +0100"
+    },
+    {
         "title": "Alerta por precipitaciones",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Alerta%20por%20precipitaciones",
         "pubdate": "Tue, 12 Nov 2024 16:00:00 +0100"
@@ -40,14 +45,14 @@
         "pubdate": "Tue, 12 Nov 2024 21:00:00 +0100"
     },
     {
-        "title": "Tuberculosis Badajoz colegio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Tuberculosis%20Badajoz%20colegio",
-        "pubdate": "Tue, 12 Nov 2024 10:00:00 +0100"
-    },
-    {
         "title": "Diario Sur",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Diario%20Sur",
         "pubdate": "Tue, 12 Nov 2024 22:00:00 +0100"
+    },
+    {
+        "title": "Tuberculosis Badajoz colegio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Tuberculosis%20Badajoz%20colegio",
+        "pubdate": "Tue, 12 Nov 2024 10:00:00 +0100"
     },
     {
         "title": "Alvaro Pombo",
@@ -65,14 +70,14 @@
         "pubdate": "Tue, 12 Nov 2024 00:00:00 +0100"
     },
     {
-        "title": "Incendio La Palma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Incendio%20La%20Palma",
-        "pubdate": "Tue, 12 Nov 2024 10:00:00 +0100"
-    },
-    {
         "title": "Kristi Noem",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Kristi%20Noem",
         "pubdate": "Tue, 12 Nov 2024 20:00:00 +0100"
+    },
+    {
+        "title": "Incendio La Palma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Incendio%20La%20Palma",
+        "pubdate": "Tue, 12 Nov 2024 10:00:00 +0100"
     },
     {
         "title": "Benidorm Fest 2025",
@@ -93,10 +98,5 @@
         "title": "Sur",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Sur",
         "pubdate": "Tue, 12 Nov 2024 23:00:00 +0100"
-    },
-    {
-        "title": "Champions femenina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Champions%20femenina",
-        "pubdate": "Tue, 12 Nov 2024 20:00:00 +0100"
     }
 ]

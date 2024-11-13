@@ -25,6 +25,11 @@
         "pubdate": "Tue, 12 Nov 2024 02:00:00 -0300"
     },
     {
+        "title": "Rangers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Rangers",
+        "pubdate": "Tue, 12 Nov 2024 21:00:00 -0300"
+    },
+    {
         "title": "TAS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#TAS",
         "pubdate": "Tue, 12 Nov 2024 16:00:00 -0300"
@@ -33,11 +38,6 @@
         "title": "Zampedri",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Zampedri",
         "pubdate": "Tue, 12 Nov 2024 07:00:00 -0300"
-    },
-    {
-        "title": "Rangers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Rangers",
-        "pubdate": "Tue, 12 Nov 2024 21:00:00 -0300"
     },
     {
         "title": "Incendio La Florida",
@@ -50,8 +50,8 @@
         "pubdate": "Tue, 12 Nov 2024 10:00:00 -0300"
     },
     {
-        "title": "Santiago Morning  Recoleta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Santiago%20Morning%20%20Recoleta",
+        "title": "Santiago Morning",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Santiago%20Morning",
         "pubdate": "Tue, 12 Nov 2024 21:00:00 -0300"
     },
     {
@@ -60,8 +60,18 @@
         "pubdate": "Tue, 12 Nov 2024 20:00:00 -0300"
     },
     {
+        "title": "Senador Marco Rubio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Senador%20Marco%20Rubio",
+        "pubdate": "Tue, 12 Nov 2024 20:00:00 -0300"
+    },
+    {
         "title": "Skai Jackson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Skai%20Jackson",
+        "pubdate": "Tue, 12 Nov 2024 17:00:00 -0300"
+    },
+    {
+        "title": "Georgina Cooper",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Georgina%20Cooper",
         "pubdate": "Tue, 12 Nov 2024 17:00:00 -0300"
     },
     {
@@ -70,14 +80,9 @@
         "pubdate": "Tue, 12 Nov 2024 03:00:00 -0300"
     },
     {
-        "title": "Senador Marco Rubio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Senador%20Marco%20Rubio",
-        "pubdate": "Tue, 12 Nov 2024 20:00:00 -0300"
-    },
-    {
-        "title": "Georgina Cooper",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Georgina%20Cooper",
-        "pubdate": "Tue, 12 Nov 2024 17:00:00 -0300"
+        "title": "Feria Laboral INACAP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Feria%20Laboral%20INACAP",
+        "pubdate": "Tue, 12 Nov 2024 15:00:00 -0300"
     },
     {
         "title": "Marcelo",
@@ -85,18 +90,13 @@
         "pubdate": "Tue, 12 Nov 2024 15:00:00 -0300"
     },
     {
-        "title": "Feria Laboral INACAP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Feria%20Laboral%20INACAP",
-        "pubdate": "Tue, 12 Nov 2024 15:00:00 -0300"
+        "title": "Gala Crack",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Gala%20Crack",
+        "pubdate": "Tue, 12 Nov 2024 00:00:00 -0300"
     },
     {
         "title": "Miss Universo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Miss%20Universo",
         "pubdate": "Tue, 12 Nov 2024 02:00:00 -0300"
-    },
-    {
-        "title": "Ventilador",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Ventilador",
-        "pubdate": "Tue, 12 Nov 2024 21:00:00 -0300"
     }
 ]

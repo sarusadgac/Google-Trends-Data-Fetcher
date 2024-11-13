@@ -5,14 +5,14 @@
         "pubdate": "Wed, 13 Nov 2024 10:00:00 +1300"
     },
     {
-        "title": "Gladiator 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Gladiator%202",
-        "pubdate": "Wed, 13 Nov 2024 00:00:00 +1300"
-    },
-    {
         "title": "Annex",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Annex",
         "pubdate": "Wed, 13 Nov 2024 10:00:00 +1300"
+    },
+    {
+        "title": "Gladiator 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Gladiator%202",
+        "pubdate": "Wed, 13 Nov 2024 00:00:00 +1300"
     },
     {
         "title": "Shihad",
@@ -43,6 +43,11 @@
         "title": "Marco Rubio",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Marco%20Rubio",
         "pubdate": "Wed, 13 Nov 2024 08:00:00 +1300"
+    },
+    {
+        "title": "Pete Hegseth",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Pete%20Hegseth",
+        "pubdate": "Wed, 13 Nov 2024 15:00:00 +1300"
     },
     {
         "title": "Machine Gun Kelly",
@@ -93,10 +98,5 @@
         "title": "Hikoi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Hikoi",
         "pubdate": "Mon, 11 Nov 2024 10:00:00 +1300"
-    },
-    {
-        "title": "Yellowstone",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Yellowstone",
-        "pubdate": "Mon, 11 Nov 2024 18:00:00 +1300"
     }
 ]
