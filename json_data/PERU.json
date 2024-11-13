@@ -5,6 +5,11 @@
         "pubdate": "Wed, 13 Nov 2024 03:00:00 -0500"
     },
     {
+        "title": "Ollanta Humala",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Ollanta%20Humala",
+        "pubdate": "Wed, 13 Nov 2024 11:00:00 -0500"
+    },
+    {
         "title": "Paro 13 de noviembre",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Paro%2013%20de%20noviembre",
         "pubdate": "Tue, 12 Nov 2024 14:00:00 -0500"
@@ -28,11 +33,6 @@
         "title": "Senador Marco Rubio",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Senador%20Marco%20Rubio",
         "pubdate": "Tue, 12 Nov 2024 16:00:00 -0500"
-    },
-    {
-        "title": "Paro de transportistas 13 de noviembre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Paro%20de%20transportistas%2013%20de%20noviembre",
-        "pubdate": "Tue, 12 Nov 2024 18:00:00 -0500"
     },
     {
         "title": "Huanuco",
@@ -70,11 +70,6 @@
         "pubdate": "Tue, 12 Nov 2024 13:00:00 -0500"
     },
     {
-        "title": "Alejandro Ramos buzo peruano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Alejandro%20Ramos%20buzo%20peruano",
-        "pubdate": "Tue, 12 Nov 2024 22:00:00 -0500"
-    },
-    {
         "title": "Cotización del dólar hoy peru",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Cotizaci%C3%B3n%20del%20d%C3%B3lar%20hoy%20peru",
         "pubdate": "Tue, 12 Nov 2024 18:00:00 -0500"
@@ -98,5 +93,10 @@
         "title": "Peru vs Chile",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Peru%20vs%20Chile",
         "pubdate": "Mon, 11 Nov 2024 12:00:00 -0500"
+    },
+    {
+        "title": "Spreen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Spreen",
+        "pubdate": "Mon, 11 Nov 2024 14:00:00 -0500"
     }
 ]
