@@ -7,7 +7,7 @@
     {
         "title": "ING",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#ING",
-        "pubdate": "Wed, 13 Nov 2024 21:00:00 +0100"
+        "pubdate": "Wed, 13 Nov 2024 19:00:00 +0100"
     },
     {
         "title": "Miguel Ángel Rodríguez",
@@ -20,6 +20,11 @@
         "pubdate": "Wed, 13 Nov 2024 12:00:00 +0100"
     },
     {
+        "title": "David de Jorge",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#David%20de%20Jorge",
+        "pubdate": "Wed, 13 Nov 2024 23:00:00 +0100"
+    },
+    {
         "title": "Jannik Sinner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Jannik%20Sinner",
         "pubdate": "Wed, 13 Nov 2024 00:00:00 +0100"
@@ -28,6 +33,11 @@
         "title": "Warriors  Mavericks",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Warriors%20%20Mavericks",
         "pubdate": "Wed, 13 Nov 2024 08:00:00 +0100"
+    },
+    {
+        "title": "Granada",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Granada",
+        "pubdate": "Wed, 13 Nov 2024 15:00:00 +0100"
     },
     {
         "title": "Kyle Singler",
@@ -40,6 +50,16 @@
         "pubdate": "Wed, 13 Nov 2024 16:00:00 +0100"
     },
     {
+        "title": "Maria hervas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Maria%20hervas",
+        "pubdate": "Wed, 13 Nov 2024 14:00:00 +0100"
+    },
+    {
+        "title": "Diario Sur Malaga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Diario%20Sur%20Malaga",
+        "pubdate": "Wed, 13 Nov 2024 16:00:00 +0100"
+    },
+    {
         "title": "Tiempo en Granada",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Tiempo%20en%20Granada",
         "pubdate": "Wed, 13 Nov 2024 09:00:00 +0100"
@@ -48,21 +68,6 @@
         "title": "Granada Hoy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Granada%20Hoy",
         "pubdate": "Wed, 13 Nov 2024 12:00:00 +0100"
-    },
-    {
-        "title": "Maria hervas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Maria%20hervas",
-        "pubdate": "Wed, 13 Nov 2024 14:00:00 +0100"
-    },
-    {
-        "title": "Partizan  Barça",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Partizan%20%20Bar%C3%A7a",
-        "pubdate": "Wed, 13 Nov 2024 19:00:00 +0100"
-    },
-    {
-        "title": "Granada",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Granada",
-        "pubdate": "Wed, 13 Nov 2024 15:00:00 +0100"
     },
     {
         "title": "Rey Felipe VI",
@@ -83,11 +88,6 @@
         "title": "Mike Tyson Jake Paul",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Mike%20Tyson%20Jake%20Paul",
         "pubdate": "Wed, 13 Nov 2024 18:00:00 +0100"
-    },
-    {
-        "title": "La opinion de malaga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#La%20opinion%20de%20malaga",
-        "pubdate": "Wed, 13 Nov 2024 17:00:00 +0100"
     },
     {
         "title": "Pete Hegseth",
