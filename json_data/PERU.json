@@ -5,6 +5,11 @@
         "pubdate": "Wed, 13 Nov 2024 03:00:00 -0500"
     },
     {
+        "title": "Carlos Alcaraz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Carlos%20Alcaraz",
+        "pubdate": "Wed, 13 Nov 2024 12:00:00 -0500"
+    },
+    {
         "title": "Ollanta Humala",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Ollanta%20Humala",
         "pubdate": "Wed, 13 Nov 2024 11:00:00 -0500"
@@ -93,10 +98,5 @@
         "title": "Peru vs Chile",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Peru%20vs%20Chile",
         "pubdate": "Mon, 11 Nov 2024 12:00:00 -0500"
-    },
-    {
-        "title": "Spreen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Spreen",
-        "pubdate": "Mon, 11 Nov 2024 14:00:00 -0500"
     }
 ]
