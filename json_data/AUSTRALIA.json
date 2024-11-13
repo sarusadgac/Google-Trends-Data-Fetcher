@@ -10,6 +10,11 @@
         "pubdate": "Thu, 14 Nov 2024 01:00:00 +1100"
     },
     {
+        "title": "Heston Blumenthal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Heston%20Blumenthal",
+        "pubdate": "Thu, 14 Nov 2024 08:00:00 +1100"
+    },
+    {
         "title": "FEMA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#FEMA",
         "pubdate": "Thu, 14 Nov 2024 04:00:00 +1100"
@@ -45,11 +50,6 @@
         "pubdate": "Wed, 13 Nov 2024 14:00:00 +1100"
     },
     {
-        "title": "Archbishop of Canterbury",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Archbishop%20of%20Canterbury",
-        "pubdate": "Wed, 13 Nov 2024 15:00:00 +1100"
-    },
-    {
         "title": "Klay Thompson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Klay%20Thompson",
         "pubdate": "Wed, 13 Nov 2024 15:00:00 +1100"
@@ -68,6 +68,11 @@
         "title": "Gavin Casalegno",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Gavin%20Casalegno",
         "pubdate": "Wed, 13 Nov 2024 14:00:00 +1100"
+    },
+    {
+        "title": "Archbishop of Canterbury",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Archbishop%20of%20Canterbury",
+        "pubdate": "Wed, 13 Nov 2024 15:00:00 +1100"
     },
     {
         "title": "Kevin Rudd",
@@ -93,10 +98,5 @@
         "title": "Kyle Singler",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Kyle%20Singler",
         "pubdate": "Wed, 13 Nov 2024 12:00:00 +1100"
-    },
-    {
-        "title": "NBA Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#NBA%20Cup",
-        "pubdate": "Wed, 13 Nov 2024 15:00:00 +1100"
     }
 ]
