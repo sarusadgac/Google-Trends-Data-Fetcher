@@ -10,9 +10,9 @@
         "pubdate": "Wed, 13 Nov 2024 07:00:00 +0900"
     },
     {
-        "title": "ゴールデングラブ賞",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%87%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%96%E8%B3%9E",
-        "pubdate": "Tue, 12 Nov 2024 18:00:00 +0900"
+        "title": "ゴールデングラブ賞 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%87%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%96%E8%B3%9E%202024",
+        "pubdate": "Tue, 12 Nov 2024 19:00:00 +0900"
     },
     {
         "title": "桜庭ななみ",
@@ -25,14 +25,14 @@
         "pubdate": "Tue, 12 Nov 2024 11:00:00 +0900"
     },
     {
-        "title": "九里亜蓮",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E4%B9%9D%E9%87%8C%E4%BA%9C%E8%93%AE",
-        "pubdate": "Tue, 12 Nov 2024 11:00:00 +0900"
-    },
-    {
         "title": "イニエスタ 引退試合",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%82%A4%E3%83%8B%E3%82%A8%E3%82%B9%E3%82%BF%20%E5%BC%95%E9%80%80%E8%A9%A6%E5%90%88",
         "pubdate": "Tue, 12 Nov 2024 23:00:00 +0900"
+    },
+    {
+        "title": "九里亜蓮",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E4%B9%9D%E9%87%8C%E4%BA%9C%E8%93%AE",
+        "pubdate": "Tue, 12 Nov 2024 11:00:00 +0900"
     },
     {
         "title": "パーキンソン病",
@@ -43,11 +43,6 @@
         "title": "玉木雄一郎",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E7%8E%89%E6%9C%A8%E9%9B%84%E4%B8%80%E9%83%8E",
         "pubdate": "Mon, 11 Nov 2024 11:00:00 +0900"
-    },
-    {
-        "title": "石破茂",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E7%9F%B3%E7%A0%B4%E8%8C%82",
-        "pubdate": "Mon, 11 Nov 2024 14:00:00 +0900"
     },
     {
         "title": "兵庫県知事選挙",
@@ -63,6 +58,11 @@
         "title": "ビットコイン",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%93%E3%83%83%E3%83%88%E3%82%B3%E3%82%A4%E3%83%B3",
         "pubdate": "Mon, 11 Nov 2024 11:00:00 +0900"
+    },
+    {
+        "title": "首相指名選挙",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E9%A6%96%E7%9B%B8%E6%8C%87%E5%90%8D%E9%81%B8%E6%8C%99",
+        "pubdate": "Mon, 11 Nov 2024 14:00:00 +0900"
     },
     {
         "title": "タイピング",
