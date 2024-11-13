@@ -5,11 +5,6 @@
         "pubdate": "Tue, 12 Nov 2024 15:00:00 -0500"
     },
     {
-        "title": "Shopify stock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Shopify%20stock",
-        "pubdate": "Tue, 12 Nov 2024 06:00:00 -0500"
-    },
-    {
         "title": "Jelly Roll",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jelly%20Roll",
         "pubdate": "Tue, 12 Nov 2024 11:00:00 -0500"
@@ -20,11 +15,6 @@
         "pubdate": "Tue, 12 Nov 2024 20:00:00 -0500"
     },
     {
-        "title": "Calgary Flames",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Calgary%20Flames",
-        "pubdate": "Tue, 12 Nov 2024 00:00:00 -0500"
-    },
-    {
         "title": "Song Jae Rim",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Song%20Jae%20Rim",
         "pubdate": "Tue, 12 Nov 2024 09:00:00 -0500"
@@ -33,6 +23,16 @@
         "title": "Kristi Noem",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Kristi%20Noem",
         "pubdate": "Tue, 12 Nov 2024 09:00:00 -0500"
+    },
+    {
+        "title": "Calgary Flames",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Calgary%20Flames",
+        "pubdate": "Tue, 12 Nov 2024 00:00:00 -0500"
+    },
+    {
+        "title": "Shopify stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Shopify%20stock",
+        "pubdate": "Tue, 12 Nov 2024 06:00:00 -0500"
     },
     {
         "title": "Jake Paul vs Mike Tyson",
@@ -50,9 +50,19 @@
         "pubdate": "Tue, 12 Nov 2024 03:00:00 -0500"
     },
     {
+        "title": "Vivek Ramaswamy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Vivek%20Ramaswamy",
+        "pubdate": "Tue, 12 Nov 2024 21:00:00 -0500"
+    },
+    {
         "title": "Benny Blanco",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Benny%20Blanco",
         "pubdate": "Tue, 12 Nov 2024 02:00:00 -0500"
+    },
+    {
+        "title": "Shopify",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Shopify",
+        "pubdate": "Tue, 12 Nov 2024 16:00:00 -0500"
     },
     {
         "title": "Saudi Arabia",
@@ -65,6 +75,16 @@
         "pubdate": "Tue, 12 Nov 2024 14:00:00 -0500"
     },
     {
+        "title": "Kyle Singler",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Kyle%20Singler",
+        "pubdate": "Tue, 12 Nov 2024 17:00:00 -0500"
+    },
+    {
+        "title": "Skai Jackson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Skai%20Jackson",
+        "pubdate": "Tue, 12 Nov 2024 17:00:00 -0500"
+    },
+    {
         "title": "Flames",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Flames",
         "pubdate": "Tue, 12 Nov 2024 00:00:00 -0500"
@@ -75,28 +95,8 @@
         "pubdate": "Tue, 12 Nov 2024 14:00:00 -0500"
     },
     {
-        "title": "Vivek Ramaswamy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Vivek%20Ramaswamy",
-        "pubdate": "Tue, 12 Nov 2024 21:00:00 -0500"
-    },
-    {
-        "title": "Skai Jackson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Skai%20Jackson",
-        "pubdate": "Tue, 12 Nov 2024 17:00:00 -0500"
-    },
-    {
-        "title": "Kyle Singler",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Kyle%20Singler",
-        "pubdate": "Tue, 12 Nov 2024 17:00:00 -0500"
-    },
-    {
         "title": "Mike Huckabee",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Mike%20Huckabee",
         "pubdate": "Tue, 12 Nov 2024 17:00:00 -0500"
-    },
-    {
-        "title": "Taylor Swift merch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Taylor%20Swift%20merch",
-        "pubdate": "Tue, 12 Nov 2024 19:00:00 -0500"
     }
 ]
