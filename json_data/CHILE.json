@@ -1,5 +1,10 @@
 [
     {
+        "title": "Monsalve",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Monsalve",
+        "pubdate": "Thu, 14 Nov 2024 12:00:00 -0300"
+    },
+    {
         "title": "Venezuela vs Brasil",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Venezuela%20vs%20Brasil",
         "pubdate": "Thu, 14 Nov 2024 08:00:00 -0300"
@@ -10,19 +15,14 @@
         "pubdate": "Thu, 14 Nov 2024 09:00:00 -0300"
     },
     {
-        "title": "Alexander Zverev",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Alexander%20Zverev",
-        "pubdate": "Thu, 14 Nov 2024 09:00:00 -0300"
-    },
-    {
-        "title": "Anahí Espíndola",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Anah%C3%AD%20Esp%C3%ADndola",
-        "pubdate": "Thu, 14 Nov 2024 02:00:00 -0300"
-    },
-    {
         "title": "Matt Gaetz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Matt%20Gaetz",
         "pubdate": "Thu, 14 Nov 2024 11:00:00 -0300"
+    },
+    {
+        "title": "Alexander Zverev",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Alexander%20Zverev",
+        "pubdate": "Thu, 14 Nov 2024 09:00:00 -0300"
     },
     {
         "title": "Ñublense  Magallanes",
@@ -38,6 +38,11 @@
         "title": "Chayanne",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Chayanne",
         "pubdate": "Wed, 13 Nov 2024 16:00:00 -0300"
+    },
+    {
+        "title": "Camila Polizzi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Camila%20Polizzi",
+        "pubdate": "Wed, 13 Nov 2024 08:00:00 -0300"
     },
     {
         "title": "Gladiador 2",
@@ -93,10 +98,5 @@
         "title": "Dunkin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Dunkin",
         "pubdate": "Wed, 13 Nov 2024 17:00:00 -0300"
-    },
-    {
-        "title": "Entradas Oasis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Entradas%20Oasis",
-        "pubdate": "Wed, 13 Nov 2024 11:00:00 -0300"
     }
 ]
