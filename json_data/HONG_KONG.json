@@ -45,11 +45,6 @@
         "pubdate": "Wed, 13 Nov 2024 12:00:00 +0800"
     },
     {
-        "title": "萬宜颱風",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E8%90%AC%E5%AE%9C%E9%A2%B1%E9%A2%A8",
-        "pubdate": "Wed, 13 Nov 2024 17:00:00 +0800"
-    },
-    {
         "title": "珠海越野車撞人",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E7%8F%A0%E6%B5%B7%E8%B6%8A%E9%87%8E%E8%BB%8A%E6%92%9E%E4%BA%BA",
         "pubdate": "Wed, 13 Nov 2024 02:00:00 +0800"
@@ -98,5 +93,10 @@
         "title": "CPI",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#CPI",
         "pubdate": "Wed, 13 Nov 2024 22:00:00 +0800"
+    },
+    {
+        "title": "李玟",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E6%9D%8E%E7%8E%9F",
+        "pubdate": "Wed, 13 Nov 2024 20:00:00 +0800"
     }
 ]
