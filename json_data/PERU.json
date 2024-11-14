@@ -1,8 +1,13 @@
 [
     {
-        "title": "Argentina vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Argentina%20vs",
-        "pubdate": "Thu, 14 Nov 2024 08:00:00 -0500"
+        "title": "Eliminatorias",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Eliminatorias",
+        "pubdate": "Thu, 14 Nov 2024 12:00:00 -0500"
+    },
+    {
+        "title": "Nations League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Nations%20League",
+        "pubdate": "Thu, 14 Nov 2024 02:00:00 -0500"
     },
     {
         "title": "Calendario de adviento",
@@ -15,11 +20,6 @@
         "pubdate": "Thu, 14 Nov 2024 10:00:00 -0500"
     },
     {
-        "title": "Francia vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Francia%20vs",
-        "pubdate": "Thu, 14 Nov 2024 02:00:00 -0500"
-    },
-    {
         "title": "UEFA Nations League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#UEFA%20Nations%20League",
         "pubdate": "Thu, 14 Nov 2024 11:00:00 -0500"
@@ -28,6 +28,16 @@
         "title": "Ecuador vs Bolivia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Ecuador%20vs%20Bolivia",
         "pubdate": "Thu, 14 Nov 2024 11:00:00 -0500"
+    },
+    {
+        "title": "Grecia vs Inglaterra",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Grecia%20vs%20Inglaterra",
+        "pubdate": "Thu, 14 Nov 2024 12:00:00 -0500"
+    },
+    {
+        "title": "Linkin Park",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Linkin%20Park",
+        "pubdate": "Thu, 14 Nov 2024 12:00:00 -0500"
     },
     {
         "title": "Venezuela vs Brasil",
@@ -87,16 +97,6 @@
     {
         "title": "Marco Angulo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Marco%20Angulo",
-        "pubdate": "Tue, 12 Nov 2024 08:00:00 -0500"
-    },
-    {
-        "title": "Senador Marco Rubio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Senador%20Marco%20Rubio",
-        "pubdate": "Tue, 12 Nov 2024 16:00:00 -0500"
-    },
-    {
-        "title": "Huanuco",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Huanuco",
         "pubdate": "Tue, 12 Nov 2024 08:00:00 -0500"
     }
 ]

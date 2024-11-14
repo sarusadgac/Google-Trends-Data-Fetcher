@@ -1,13 +1,13 @@
 [
     {
-        "title": "Diariodesevilla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Diariodesevilla",
+        "title": "Diario de Sevilla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Diario%20de%20Sevilla",
         "pubdate": "Thu, 14 Nov 2024 06:00:00 +0100"
     },
     {
-        "title": "Adriana Torrebejano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Adriana%20Torrebejano",
-        "pubdate": "Thu, 14 Nov 2024 00:00:00 +0100"
+        "title": "Bluesky",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Bluesky",
+        "pubdate": "Thu, 14 Nov 2024 09:00:00 +0100"
     },
     {
         "title": "Matt Gaetz",
@@ -15,9 +15,9 @@
         "pubdate": "Thu, 14 Nov 2024 06:00:00 +0100"
     },
     {
-        "title": "Bluesky",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Bluesky",
-        "pubdate": "Thu, 14 Nov 2024 09:00:00 +0100"
+        "title": "Adriana Torrebejano",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Adriana%20Torrebejano",
+        "pubdate": "Thu, 14 Nov 2024 00:00:00 +0100"
     },
     {
         "title": "Patricia Conde",
@@ -60,6 +60,16 @@
         "pubdate": "Thu, 14 Nov 2024 16:00:00 +0100"
     },
     {
+        "title": "Rusia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Rusia",
+        "pubdate": "Thu, 14 Nov 2024 11:00:00 +0100"
+    },
+    {
+        "title": "Pedro Pascal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Pedro%20Pascal",
+        "pubdate": "Thu, 14 Nov 2024 17:00:00 +0100"
+    },
+    {
         "title": "Diario de Jerez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Diario%20de%20Jerez",
         "pubdate": "Thu, 14 Nov 2024 11:00:00 +0100"
@@ -70,9 +80,9 @@
         "pubdate": "Thu, 14 Nov 2024 15:00:00 +0100"
     },
     {
-        "title": "Pedro Pascal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Pedro%20Pascal",
-        "pubdate": "Thu, 14 Nov 2024 17:00:00 +0100"
+        "title": "Emma Raducanu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Emma%20Raducanu",
+        "pubdate": "Thu, 14 Nov 2024 18:00:00 +0100"
     },
     {
         "title": "Carlos Alcaraz",
@@ -82,21 +92,11 @@
     {
         "title": "ING",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#ING",
-        "pubdate": "Wed, 13 Nov 2024 19:00:00 +0100"
+        "pubdate": "Wed, 13 Nov 2024 21:00:00 +0100"
     },
     {
         "title": "Miguel Ángel Rodríguez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Miguel%20%C3%81ngel%20Rodr%C3%ADguez",
         "pubdate": "Wed, 13 Nov 2024 06:00:00 +0100"
-    },
-    {
-        "title": "Granada",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Granada",
-        "pubdate": "Wed, 13 Nov 2024 15:00:00 +0100"
-    },
-    {
-        "title": "Niños desaparecidos DANA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ni%C3%B1os%20desaparecidos%20DANA",
-        "pubdate": "Wed, 13 Nov 2024 12:00:00 +0100"
     }
 ]
