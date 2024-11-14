@@ -25,18 +25,13 @@
         "pubdate": "Thu, 14 Nov 2024 01:00:00 +0100"
     },
     {
-        "title": "A que estas esperando",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#A%20que%20estas%20esperando",
-        "pubdate": "Thu, 14 Nov 2024 00:00:00 +0100"
-    },
-    {
         "title": "Matt Gaetz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Matt%20Gaetz",
         "pubdate": "Thu, 14 Nov 2024 06:00:00 +0100"
     },
     {
-        "title": "Valeria Ros",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Valeria%20Ros",
+        "title": "A que estas esperando",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#A%20que%20estas%20esperando",
         "pubdate": "Thu, 14 Nov 2024 00:00:00 +0100"
     },
     {
@@ -98,5 +93,10 @@
         "title": "Kyle Singler",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Kyle%20Singler",
         "pubdate": "Wed, 13 Nov 2024 01:00:00 +0100"
+    },
+    {
+        "title": "Ideal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ideal",
+        "pubdate": "Wed, 13 Nov 2024 16:00:00 +0100"
     }
 ]
