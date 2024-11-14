@@ -20,24 +20,9 @@
         "pubdate": "Thu, 14 Nov 2024 06:00:00 +0100"
     },
     {
-        "title": "Alexander Zverev",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Alexander%20Zverev",
-        "pubdate": "Thu, 14 Nov 2024 00:00:00 +0100"
-    },
-    {
         "title": "David Hasselhoff",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#David%20Hasselhoff",
         "pubdate": "Thu, 14 Nov 2024 01:00:00 +0100"
-    },
-    {
-        "title": "Carlos Sobera",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Carlos%20Sobera",
-        "pubdate": "Thu, 14 Nov 2024 01:00:00 +0100"
-    },
-    {
-        "title": "A que estas esperando",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#A%20que%20estas%20esperando",
-        "pubdate": "Thu, 14 Nov 2024 00:00:00 +0100"
     },
     {
         "title": "Bluesky",
@@ -45,13 +30,23 @@
         "pubdate": "Thu, 14 Nov 2024 09:00:00 +0100"
     },
     {
+        "title": "A que estas esperando",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#A%20que%20estas%20esperando",
+        "pubdate": "Thu, 14 Nov 2024 00:00:00 +0100"
+    },
+    {
         "title": "Valeria Ros",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Valeria%20Ros",
         "pubdate": "Thu, 14 Nov 2024 00:00:00 +0100"
     },
     {
-        "title": "Rusia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Rusia",
+        "title": "Carlos Sobera",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Carlos%20Sobera",
+        "pubdate": "Thu, 14 Nov 2024 01:00:00 +0100"
+    },
+    {
+        "title": "Diario de Jerez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Diario%20de%20Jerez",
         "pubdate": "Thu, 14 Nov 2024 11:00:00 +0100"
     },
     {
@@ -65,14 +60,14 @@
         "pubdate": "Wed, 13 Nov 2024 19:00:00 +0100"
     },
     {
-        "title": "Miguel Ángel Rodríguez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Miguel%20%C3%81ngel%20Rodr%C3%ADguez",
-        "pubdate": "Wed, 13 Nov 2024 06:00:00 +0100"
-    },
-    {
         "title": "Granada",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Granada",
         "pubdate": "Wed, 13 Nov 2024 15:00:00 +0100"
+    },
+    {
+        "title": "Miguel Ángel Rodríguez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Miguel%20%C3%81ngel%20Rodr%C3%ADguez",
+        "pubdate": "Wed, 13 Nov 2024 06:00:00 +0100"
     },
     {
         "title": "Niños desaparecidos DANA",
@@ -98,5 +93,10 @@
         "title": "Maria hervas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Maria%20hervas",
         "pubdate": "Wed, 13 Nov 2024 14:00:00 +0100"
+    },
+    {
+        "title": "Kyle Singler",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Kyle%20Singler",
+        "pubdate": "Wed, 13 Nov 2024 01:00:00 +0100"
     }
 ]
