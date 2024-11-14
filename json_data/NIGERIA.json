@@ -5,6 +5,11 @@
         "pubdate": "Thu, 14 Nov 2024 09:00:00 +0100"
     },
     {
+        "title": "Greece vs England",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Greece%20vs%20England",
+        "pubdate": "Thu, 14 Nov 2024 17:00:00 +0100"
+    },
+    {
         "title": "Bola Tinubu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Bola%20Tinubu",
         "pubdate": "Thu, 14 Nov 2024 00:00:00 +0100"
@@ -13,6 +18,16 @@
         "title": "Baba Gbenro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Baba%20Gbenro",
         "pubdate": "Thu, 14 Nov 2024 15:00:00 +0100"
+    },
+    {
+        "title": "France vs Israel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#France%20vs%20Israel",
+        "pubdate": "Thu, 14 Nov 2024 20:00:00 +0100"
+    },
+    {
+        "title": "Belgium vs Italy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Belgium%20vs%20Italy",
+        "pubdate": "Thu, 14 Nov 2024 19:00:00 +0100"
     },
     {
         "title": "Mike Tyson vs Jake Paul",
@@ -25,16 +40,6 @@
         "pubdate": "Thu, 14 Nov 2024 12:00:00 +0100"
     },
     {
-        "title": "Africa Cup of Nations qualification",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Africa%20Cup%20of%20Nations%20qualification",
-        "pubdate": "Thu, 14 Nov 2024 06:00:00 +0100"
-    },
-    {
-        "title": "France vs Israel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#France%20vs%20Israel",
-        "pubdate": "Thu, 14 Nov 2024 20:00:00 +0100"
-    },
-    {
         "title": "Lakers vs Grizzlies",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Lakers%20vs%20Grizzlies",
         "pubdate": "Thu, 14 Nov 2024 09:00:00 +0100"
@@ -45,14 +50,14 @@
         "pubdate": "Thu, 14 Nov 2024 09:00:00 +0100"
     },
     {
-        "title": "Greece vs England",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Greece%20vs%20England",
-        "pubdate": "Thu, 14 Nov 2024 19:00:00 +0100"
-    },
-    {
         "title": "Tulsi Gabbard",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Tulsi%20Gabbard",
         "pubdate": "Thu, 14 Nov 2024 12:00:00 +0100"
+    },
+    {
+        "title": "England",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#England",
+        "pubdate": "Thu, 14 Nov 2024 21:00:00 +0100"
     },
     {
         "title": "Dogecoin",
@@ -60,19 +65,14 @@
         "pubdate": "Thu, 14 Nov 2024 00:00:00 +0100"
     },
     {
-        "title": "Uefa Nations League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Uefa%20Nations%20League",
-        "pubdate": "Thu, 14 Nov 2024 17:00:00 +0100"
-    },
-    {
-        "title": "Belgium vs Italy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Belgium%20vs%20Italy",
-        "pubdate": "Thu, 14 Nov 2024 19:00:00 +0100"
-    },
-    {
         "title": "Shayne Coplan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Shayne%20Coplan",
         "pubdate": "Thu, 14 Nov 2024 19:00:00 +0100"
+    },
+    {
+        "title": "Ireland vs Finland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Ireland%20vs%20Finland",
+        "pubdate": "Thu, 14 Nov 2024 21:00:00 +0100"
     },
     {
         "title": "Temu",
@@ -85,6 +85,11 @@
         "pubdate": "Thu, 14 Nov 2024 19:00:00 +0100"
     },
     {
+        "title": "Pep Guardiola",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Pep%20Guardiola",
+        "pubdate": "Thu, 14 Nov 2024 21:00:00 +0100"
+    },
+    {
         "title": "David Coote",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#David%20Coote",
         "pubdate": "Thu, 14 Nov 2024 19:00:00 +0100"
@@ -93,10 +98,5 @@
         "title": "Benin vs Nigeria",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Benin%20vs%20Nigeria",
         "pubdate": "Wed, 13 Nov 2024 17:00:00 +0100"
-    },
-    {
-        "title": "Celtic vs Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Celtic%20vs%20Chelsea",
-        "pubdate": "Wed, 13 Nov 2024 21:00:00 +0100"
     }
 ]
