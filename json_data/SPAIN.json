@@ -50,19 +50,29 @@
         "pubdate": "Thu, 14 Nov 2024 11:00:00 +0100"
     },
     {
+        "title": "Juanma Moreno",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Juanma%20Moreno",
+        "pubdate": "Thu, 14 Nov 2024 15:00:00 +0100"
+    },
+    {
         "title": "Diario de Jerez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Diario%20de%20Jerez",
         "pubdate": "Thu, 14 Nov 2024 11:00:00 +0100"
     },
     {
-        "title": "ING",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#ING",
-        "pubdate": "Wed, 13 Nov 2024 19:00:00 +0100"
+        "title": "Cristina Kirchner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Cristina%20Kirchner",
+        "pubdate": "Thu, 14 Nov 2024 15:00:00 +0100"
     },
     {
         "title": "Carlos Alcaraz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Carlos%20Alcaraz",
         "pubdate": "Wed, 13 Nov 2024 17:00:00 +0100"
+    },
+    {
+        "title": "ING",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#ING",
+        "pubdate": "Wed, 13 Nov 2024 21:00:00 +0100"
     },
     {
         "title": "Granada",
@@ -88,15 +98,5 @@
         "title": "Amalia de Holanda",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Amalia%20de%20Holanda",
         "pubdate": "Wed, 13 Nov 2024 20:00:00 +0100"
-    },
-    {
-        "title": "Rey Felipe VI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Rey%20Felipe%20VI",
-        "pubdate": "Wed, 13 Nov 2024 19:00:00 +0100"
-    },
-    {
-        "title": "Maria hervas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Maria%20hervas",
-        "pubdate": "Wed, 13 Nov 2024 14:00:00 +0100"
     }
 ]
