@@ -1,8 +1,23 @@
 [
     {
+        "title": "Sports",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Sports",
+        "pubdate": "Thu, 14 Nov 2024 00:30:00 +0530"
+    },
+    {
+        "title": "Timothy West",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Timothy%20West",
+        "pubdate": "Wed, 13 Nov 2024 12:00:00 +0000"
+    },
+    {
         "title": "Matt Gaetz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Matt%20Gaetz",
         "pubdate": "Wed, 13 Nov 2024 13:00:00 -0800"
+    },
+    {
+        "title": "Pete Hegseth",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Pete%20Hegseth",
+        "pubdate": "Wed, 13 Nov 2024 06:00:00 +0100"
     },
     {
         "title": "ドラクエ3",
@@ -10,9 +25,9 @@
         "pubdate": "Thu, 14 Nov 2024 01:00:00 +0900"
     },
     {
-        "title": "Cricket",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Cricket",
-        "pubdate": "Thu, 14 Nov 2024 06:30:00 +0530"
+        "title": "保錡",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E4%BF%9D%E9%8C%A1",
+        "pubdate": "Thu, 14 Nov 2024 03:00:00 +0800"
     },
     {
         "title": "Алексей Зимин",
@@ -25,34 +40,14 @@
         "pubdate": "Thu, 14 Nov 2024 02:00:00 +0100"
     },
     {
-        "title": "騰訊業績",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E9%A8%B0%E8%A8%8A%E6%A5%AD%E7%B8%BE",
-        "pubdate": "Thu, 14 Nov 2024 00:00:00 +0800"
+        "title": "Flamengo x Atlético-MG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Flamengo%20x%20Atl%C3%A9tico-MG",
+        "pubdate": "Wed, 13 Nov 2024 17:00:00 -0500"
     },
     {
-        "title": "Pete Hegseth",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Pete%20Hegseth",
-        "pubdate": "Wed, 13 Nov 2024 06:00:00 +0100"
-    },
-    {
-        "title": "Timothy West",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Timothy%20West",
-        "pubdate": "Wed, 13 Nov 2024 12:00:00 +0000"
-    },
-    {
-        "title": "Cara cek NIK KTP penerima bansos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Cara%20cek%20NIK%20KTP%20penerima%20bansos",
-        "pubdate": "Thu, 14 Nov 2024 08:00:00 +0700"
-    },
-    {
-        "title": "Oilers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Oilers",
-        "pubdate": "Wed, 13 Nov 2024 00:00:00 -0500"
-    },
-    {
-        "title": "A que estas esperando serie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#A%20que%20estas%20esperando%20serie",
-        "pubdate": "Thu, 14 Nov 2024 00:00:00 +0100"
+        "title": "Leyla 9. bölüm izle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Leyla%209.%20b%C3%B6l%C3%BCm%20izle",
+        "pubdate": "Thu, 14 Nov 2024 05:00:00 +0300"
     },
     {
         "title": "John Krasinski",
@@ -60,29 +55,9 @@
         "pubdate": "Wed, 13 Nov 2024 14:00:00 +0100"
     },
     {
-        "title": "Jake Paul vs Mike Tyson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Jake%20Paul%20vs%20Mike%20Tyson",
-        "pubdate": "Thu, 14 Nov 2024 03:00:00 +0200"
-    },
-    {
-        "title": "Doskozil",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Doskozil",
-        "pubdate": "Thu, 14 Nov 2024 00:00:00 +0100"
-    },
-    {
-        "title": "Telenor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Telenor",
-        "pubdate": "Wed, 13 Nov 2024 14:00:00 +0100"
-    },
-    {
-        "title": "Dogecoin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Dogecoin",
-        "pubdate": "Thu, 14 Nov 2024 00:00:00 +0300"
-    },
-    {
-        "title": "Flamengo x Atlético-MG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Flamengo%20x%20Atl%C3%A9tico-MG",
-        "pubdate": "Wed, 13 Nov 2024 17:00:00 -0500"
+        "title": "Oilers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Oilers",
+        "pubdate": "Wed, 13 Nov 2024 00:00:00 -0500"
     },
     {
         "title": "Cristina",
@@ -90,13 +65,38 @@
         "pubdate": "Wed, 13 Nov 2024 00:00:00 -0300"
     },
     {
-        "title": "Incendio Lima",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Incendio%20Lima",
-        "pubdate": "Wed, 13 Nov 2024 13:00:00 -0500"
+        "title": "إيلون ماسك",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#%D8%A5%D9%8A%D9%84%D9%88%D9%86%20%D9%85%D8%A7%D8%B3%D9%83",
+        "pubdate": "Thu, 14 Nov 2024 01:00:00 +0300"
     },
     {
-        "title": "Tulsi Gabbard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tulsi%20Gabbard",
-        "pubdate": "Thu, 14 Nov 2024 00:00:00 +0100"
+        "title": "Timnas Jepang",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Timnas%20Jepang",
+        "pubdate": "Thu, 14 Nov 2024 08:00:00 +0700"
+    },
+    {
+        "title": "多明尼加",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%A4%9A%E6%98%8E%E5%B0%BC%E5%8A%A0",
+        "pubdate": "Thu, 14 Nov 2024 00:00:00 +0800"
+    },
+    {
+        "title": "Ελλαδα αγγλια",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%95%CE%BB%CE%BB%CE%B1%CE%B4%CE%B1%20%CE%B1%CE%B3%CE%B3%CE%BB%CE%B9%CE%B1",
+        "pubdate": "Thu, 14 Nov 2024 02:00:00 +0200"
+    },
+    {
+        "title": "Cașcaval",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ca%C8%99caval",
+        "pubdate": "Thu, 14 Nov 2024 00:00:00 +0200"
+    },
+    {
+        "title": "Cười xuyên biên giới",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#C%C6%B0%E1%BB%9Di%20xuy%C3%AAn%20bi%C3%AAn%20gi%E1%BB%9Bi",
+        "pubdate": "Thu, 14 Nov 2024 09:00:00 +0700"
+    },
+    {
+        "title": "Dogecoin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Dogecoin",
+        "pubdate": "Thu, 14 Nov 2024 00:00:00 +0300"
     }
 ]
