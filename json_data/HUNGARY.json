@@ -10,11 +10,6 @@
         "pubdate": "Fri, 15 Nov 2024 07:00:00 +0100"
     },
     {
-        "title": "Lindsey Vonn",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Lindsey%20Vonn",
-        "pubdate": "Fri, 15 Nov 2024 06:00:00 +0100"
-    },
-    {
         "title": "Magyar Péter hangfelvétel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Magyar%20P%C3%A9ter%20hangfelv%C3%A9tel",
         "pubdate": "Fri, 15 Nov 2024 08:00:00 +0100"
@@ -98,5 +93,10 @@
         "title": "Linkin Park",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Linkin%20Park",
         "pubdate": "Thu, 14 Nov 2024 16:00:00 +0100"
+    },
+    {
+        "title": "Palágyi Eszter SÉF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Pal%C3%A1gyi%20Eszter%20S%C3%89F",
+        "pubdate": "Thu, 14 Nov 2024 22:00:00 +0100"
     }
 ]

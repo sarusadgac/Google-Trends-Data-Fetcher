@@ -5,14 +5,14 @@
         "pubdate": "Fri, 15 Nov 2024 00:00:00 +0100"
     },
     {
-        "title": "Lindsey Vonn",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Lindsey%20Vonn",
-        "pubdate": "Fri, 15 Nov 2024 08:00:00 +0100"
-    },
-    {
         "title": "Damso",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Damso",
         "pubdate": "Fri, 15 Nov 2024 10:00:00 +0100"
+    },
+    {
+        "title": "Lindsey Vonn",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Lindsey%20Vonn",
+        "pubdate": "Fri, 15 Nov 2024 08:00:00 +0100"
     },
     {
         "title": "Cheque energie",
@@ -23,6 +23,11 @@
         "title": "Miss Univers 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Miss%20Univers%202024",
         "pubdate": "Fri, 15 Nov 2024 08:00:00 +0100"
+    },
+    {
+        "title": "Clara Luciani",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Clara%20Luciani",
+        "pubdate": "Fri, 15 Nov 2024 14:00:00 +0100"
     },
     {
         "title": "Nanterre",
@@ -70,6 +75,11 @@
         "pubdate": "Thu, 14 Nov 2024 14:00:00 +0100"
     },
     {
+        "title": "Louis Chedid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Louis%20Chedid",
+        "pubdate": "Thu, 14 Nov 2024 21:00:00 +0100"
+    },
+    {
         "title": "Matt Gaetz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Matt%20Gaetz",
         "pubdate": "Thu, 14 Nov 2024 08:00:00 +0100"
@@ -88,15 +98,5 @@
         "title": "Celine Dion",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Celine%20Dion",
         "pubdate": "Thu, 14 Nov 2024 18:00:00 +0100"
-    },
-    {
-        "title": "Marine Le Pen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Marine%20Le%20Pen",
-        "pubdate": "Wed, 13 Nov 2024 19:00:00 +0100"
-    },
-    {
-        "title": "Jean-Marie Le Pen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Jean-Marie%20Le%20Pen",
-        "pubdate": "Wed, 13 Nov 2024 16:00:00 +0100"
     }
 ]
