@@ -17,7 +17,7 @@
     {
         "title": "Ecuador  Bolivia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Ecuador%20%20Bolivia",
-        "pubdate": "Thu, 14 Nov 2024 08:00:00 -0500"
+        "pubdate": "Thu, 14 Nov 2024 11:00:00 -0500"
     },
     {
         "title": "Peru vs Chile",
@@ -25,14 +25,19 @@
         "pubdate": "Thu, 14 Nov 2024 18:00:00 -0500"
     },
     {
-        "title": "Liga de Naciones",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Liga%20de%20Naciones",
+        "title": "Nations League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Nations%20League",
         "pubdate": "Thu, 14 Nov 2024 11:00:00 -0500"
     },
     {
         "title": "Francia vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Francia%20vs",
         "pubdate": "Thu, 14 Nov 2024 02:00:00 -0500"
+    },
+    {
+        "title": "Xi Jinping",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Xi%20Jinping",
+        "pubdate": "Thu, 14 Nov 2024 10:00:00 -0500"
     },
     {
         "title": "Partidos de hoy",
@@ -45,9 +50,9 @@
         "pubdate": "Thu, 14 Nov 2024 12:00:00 -0500"
     },
     {
-        "title": "Xi Jinping",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Xi%20Jinping",
-        "pubdate": "Thu, 14 Nov 2024 10:00:00 -0500"
+        "title": "Liga de Naciones",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Liga%20de%20Naciones",
+        "pubdate": "Thu, 14 Nov 2024 11:00:00 -0500"
     },
     {
         "title": "Colombia vs",
@@ -70,11 +75,6 @@
         "pubdate": "Thu, 14 Nov 2024 14:00:00 -0500"
     },
     {
-        "title": "Costa Rica  Panamá",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Costa%20Rica%20%20Panam%C3%A1",
-        "pubdate": "Thu, 14 Nov 2024 23:00:00 -0500"
-    },
-    {
         "title": "Portugal vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Portugal%20vs",
         "pubdate": "Thu, 14 Nov 2024 17:00:00 -0500"
@@ -90,13 +90,13 @@
         "pubdate": "Thu, 14 Nov 2024 13:00:00 -0500"
     },
     {
+        "title": "Eslovenia  Noruega",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Eslovenia%20%20Noruega",
+        "pubdate": "Thu, 14 Nov 2024 16:00:00 -0500"
+    },
+    {
         "title": "Deportes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Deportes",
         "pubdate": "Thu, 14 Nov 2024 22:00:00 -0500"
-    },
-    {
-        "title": "Calendario de adviento",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Calendario%20de%20adviento",
-        "pubdate": "Thu, 14 Nov 2024 04:00:00 -0500"
     }
 ]

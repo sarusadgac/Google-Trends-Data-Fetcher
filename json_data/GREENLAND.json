@@ -1,8 +1,28 @@
 [
     {
+        "title": "Тикер",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%A2%D0%B8%D0%BA%D0%B5%D1%80",
+        "pubdate": "Fri, 15 Nov 2024 05:00:00 +0300"
+    },
+    {
+        "title": "Offset",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Offset",
+        "pubdate": "Fri, 15 Nov 2024 00:00:00 +0100"
+    },
+    {
         "title": "Eagles",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Eagles",
         "pubdate": "Thu, 14 Nov 2024 10:00:00 -0800"
+    },
+    {
+        "title": "Children in Need",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Children%20in%20Need",
+        "pubdate": "Fri, 15 Nov 2024 09:00:00 +0000"
+    },
+    {
+        "title": "West Indies vs England",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#West%20Indies%20vs%20England",
+        "pubdate": "Fri, 15 Nov 2024 01:30:00 +0530"
     },
     {
         "title": "即時交通",
@@ -15,39 +35,9 @@
         "pubdate": "Fri, 15 Nov 2024 03:00:00 +0100"
     },
     {
-        "title": "Children in Need",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Children%20in%20Need",
-        "pubdate": "Fri, 15 Nov 2024 09:00:00 +0000"
-    },
-    {
         "title": "サッカー日本代表",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC%E6%97%A5%E6%9C%AC%E4%BB%A3%E8%A1%A8",
         "pubdate": "Fri, 15 Nov 2024 01:00:00 +0900"
-    },
-    {
-        "title": "Offset",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Offset",
-        "pubdate": "Fri, 15 Nov 2024 00:00:00 +0100"
-    },
-    {
-        "title": "Тикер",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%A2%D0%B8%D0%BA%D0%B5%D1%80",
-        "pubdate": "Fri, 15 Nov 2024 05:00:00 +0300"
-    },
-    {
-        "title": "West Indies vs England",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#West%20Indies%20vs%20England",
-        "pubdate": "Fri, 15 Nov 2024 01:30:00 +0530"
-    },
-    {
-        "title": "Jazz vs Mavericks",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Jazz%20vs%20Mavericks",
-        "pubdate": "Fri, 15 Nov 2024 11:00:00 +0800"
-    },
-    {
-        "title": "France Israel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#France%20Israel",
-        "pubdate": "Fri, 15 Nov 2024 00:00:00 +0200"
     },
     {
         "title": "Familysearch",
@@ -55,9 +45,9 @@
         "pubdate": "Fri, 15 Nov 2024 00:00:00 -0600"
     },
     {
-        "title": "Eva Longoria",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Eva%20Longoria",
-        "pubdate": "Fri, 15 Nov 2024 05:00:00 +0100"
+        "title": "Jutta Leerdam",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jutta%20Leerdam",
+        "pubdate": "Fri, 15 Nov 2024 08:00:00 +0100"
     },
     {
         "title": "Greve Poste Canada",
@@ -65,24 +55,19 @@
         "pubdate": "Fri, 15 Nov 2024 03:00:00 -0500"
     },
     {
-        "title": "Paraguay  Argentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Paraguay%20%20Argentina",
-        "pubdate": "Fri, 15 Nov 2024 04:00:00 +0200"
+        "title": "Telemundo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Telemundo",
+        "pubdate": "Fri, 15 Nov 2024 00:00:00 -0500"
     },
     {
-        "title": "The Day of the Jackal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#The%20Day%20of%20the%20Jackal",
-        "pubdate": "Fri, 15 Nov 2024 08:00:00 +1300"
+        "title": "غروسي",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=EG#%D8%BA%D8%B1%D9%88%D8%B3%D9%8A",
+        "pubdate": "Fri, 15 Nov 2024 00:00:00 +0200"
     },
     {
-        "title": "Bucaramanga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Bucaramanga",
-        "pubdate": "Fri, 15 Nov 2024 06:00:00 -0500"
-    },
-    {
-        "title": "Jazz x Mavericks",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jazz%20x%20Mavericks",
-        "pubdate": "Fri, 15 Nov 2024 01:00:00 -0500"
+        "title": "Chile vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Chile%20vs",
+        "pubdate": "Fri, 15 Nov 2024 00:00:00 -0300"
     },
     {
         "title": "Mike Tyson vs Jake Paul",
@@ -95,8 +80,23 @@
         "pubdate": "Fri, 15 Nov 2024 00:00:00 +0200"
     },
     {
+        "title": "Ticketmaster",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Ticketmaster",
+        "pubdate": "Fri, 15 Nov 2024 10:00:00 +0000"
+    },
+    {
+        "title": "Robert F. Kennedy Jr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Robert%20F.%20Kennedy%20Jr",
+        "pubdate": "Fri, 15 Nov 2024 06:00:00 +0100"
+    },
+    {
         "title": "Paraguay vs Argentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Paraguay%20vs%20Argentina",
-        "pubdate": "Fri, 15 Nov 2024 08:00:00 +0800"
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Paraguay%20vs%20Argentina",
+        "pubdate": "Fri, 15 Nov 2024 01:00:00 +0200"
+    },
+    {
+        "title": "MAGU",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#MAGU",
+        "pubdate": "Fri, 15 Nov 2024 08:00:00 +0100"
     }
 ]
