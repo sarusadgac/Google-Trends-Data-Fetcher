@@ -40,6 +40,11 @@
         "pubdate": "Thu, 14 Nov 2024 21:00:00 +0000"
     },
     {
+        "title": "Ireland Football",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Ireland%20Football",
+        "pubdate": "Thu, 14 Nov 2024 19:00:00 +0000"
+    },
+    {
         "title": "Sutton Foster",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Sutton%20Foster",
         "pubdate": "Thu, 14 Nov 2024 00:00:00 +0000"
@@ -93,10 +98,5 @@
         "title": "Australia vs Pakistan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Australia%20vs%20Pakistan",
         "pubdate": "Thu, 14 Nov 2024 12:00:00 +0000"
-    },
-    {
-        "title": "Sunita Williams",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Sunita%20Williams",
-        "pubdate": "Thu, 14 Nov 2024 00:00:00 +0000"
     }
 ]
