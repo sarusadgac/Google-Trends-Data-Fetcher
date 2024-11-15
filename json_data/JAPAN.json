@@ -30,11 +30,6 @@
         "pubdate": "Fri, 15 Nov 2024 00:00:00 +0900"
     },
     {
-        "title": "世界野球プレミア12",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E4%B8%96%E7%95%8C%E9%87%8E%E7%90%83%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A212",
-        "pubdate": "Fri, 15 Nov 2024 22:00:00 +0900"
-    },
-    {
         "title": "山の上ホテル",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%B1%B1%E3%81%AE%E4%B8%8A%E3%83%9B%E3%83%86%E3%83%AB",
         "pubdate": "Fri, 15 Nov 2024 16:00:00 +0900"
@@ -80,6 +75,11 @@
         "pubdate": "Thu, 14 Nov 2024 01:00:00 +0900"
     },
     {
+        "title": "プレミア12",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A212",
+        "pubdate": "Thu, 14 Nov 2024 16:00:00 +0900"
+    },
+    {
         "title": "推しの子 最終話",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E6%8E%A8%E3%81%97%E3%81%AE%E5%AD%90%20%E6%9C%80%E7%B5%82%E8%A9%B1",
         "pubdate": "Thu, 14 Nov 2024 03:00:00 +0900"
@@ -90,13 +90,13 @@
         "pubdate": "Thu, 14 Nov 2024 22:00:00 +0900"
     },
     {
-        "title": "野球",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E9%87%8E%E7%90%83",
-        "pubdate": "Thu, 14 Nov 2024 16:00:00 +0900"
-    },
-    {
         "title": "Aiko",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#Aiko",
         "pubdate": "Thu, 14 Nov 2024 21:00:00 +0900"
+    },
+    {
+        "title": "野球 プレミア12",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E9%87%8E%E7%90%83%20%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A212",
+        "pubdate": "Thu, 14 Nov 2024 08:00:00 +0900"
     }
 ]
