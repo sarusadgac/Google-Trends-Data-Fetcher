@@ -1,5 +1,10 @@
 [
     {
+        "title": "Telemundo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Telemundo",
+        "pubdate": "Fri, 15 Nov 2024 00:00:00 -0500"
+    },
+    {
         "title": "Paraguay  Argentina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Paraguay%20%20Argentina",
         "pubdate": "Thu, 14 Nov 2024 08:00:00 -0500"
@@ -20,6 +25,16 @@
         "pubdate": "Thu, 14 Nov 2024 18:00:00 -0500"
     },
     {
+        "title": "Liga de Naciones",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Liga%20de%20Naciones",
+        "pubdate": "Thu, 14 Nov 2024 11:00:00 -0500"
+    },
+    {
+        "title": "Grecia  Inglaterra",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Grecia%20%20Inglaterra",
+        "pubdate": "Thu, 14 Nov 2024 12:00:00 -0500"
+    },
+    {
         "title": "Francia vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Francia%20vs",
         "pubdate": "Thu, 14 Nov 2024 02:00:00 -0500"
@@ -30,24 +45,9 @@
         "pubdate": "Thu, 14 Nov 2024 10:00:00 -0500"
     },
     {
-        "title": "Bélgica  Italia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#B%C3%A9lgica%20%20Italia",
-        "pubdate": "Thu, 14 Nov 2024 12:00:00 -0500"
-    },
-    {
         "title": "Partidos de hoy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Partidos%20de%20hoy",
         "pubdate": "Thu, 14 Nov 2024 15:00:00 -0500"
-    },
-    {
-        "title": "Grecia  Inglaterra",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Grecia%20%20Inglaterra",
-        "pubdate": "Thu, 14 Nov 2024 12:00:00 -0500"
-    },
-    {
-        "title": "Liga de Naciones",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Liga%20de%20Naciones",
-        "pubdate": "Thu, 14 Nov 2024 11:00:00 -0500"
     },
     {
         "title": "Colombia vs",
@@ -60,19 +60,24 @@
         "pubdate": "Thu, 14 Nov 2024 12:00:00 -0500"
     },
     {
-        "title": "Miss Universo 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Miss%20Universo%202024",
-        "pubdate": "Thu, 14 Nov 2024 20:00:00 -0500"
-    },
-    {
         "title": "Clasificatorias",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Clasificatorias",
         "pubdate": "Thu, 14 Nov 2024 12:00:00 -0500"
     },
     {
+        "title": "Miss Universo 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Miss%20Universo%202024",
+        "pubdate": "Thu, 14 Nov 2024 20:00:00 -0500"
+    },
+    {
         "title": "Joe Biden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Joe%20Biden",
         "pubdate": "Thu, 14 Nov 2024 14:00:00 -0500"
+    },
+    {
+        "title": "Costa Rica  Panamá",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Costa%20Rica%20%20Panam%C3%A1",
+        "pubdate": "Thu, 14 Nov 2024 23:00:00 -0500"
     },
     {
         "title": "Portugal vs",
@@ -93,10 +98,5 @@
         "title": "Eslovenia  Noruega",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Eslovenia%20%20Noruega",
         "pubdate": "Thu, 14 Nov 2024 16:00:00 -0500"
-    },
-    {
-        "title": "Deportes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Deportes",
-        "pubdate": "Thu, 14 Nov 2024 22:00:00 -0500"
     }
 ]

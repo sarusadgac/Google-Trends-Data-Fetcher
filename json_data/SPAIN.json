@@ -1,5 +1,10 @@
 [
     {
+        "title": "Paraguay  Argentina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Paraguay%20%20Argentina",
+        "pubdate": "Fri, 15 Nov 2024 01:00:00 +0100"
+    },
+    {
         "title": "Jannik Sinner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Jannik%20Sinner",
         "pubdate": "Fri, 15 Nov 2024 00:00:00 +0100"
@@ -8,11 +13,6 @@
         "title": "Villafranca de Ebro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Villafranca%20de%20Ebro",
         "pubdate": "Fri, 15 Nov 2024 10:00:00 +0100"
-    },
-    {
-        "title": "Elisa Mouliaá",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Elisa%20Moulia%C3%A1",
-        "pubdate": "Fri, 15 Nov 2024 09:00:00 +0100"
     },
     {
         "title": "Loreto Arenillas",
@@ -25,29 +25,9 @@
         "pubdate": "Fri, 15 Nov 2024 09:00:00 +0100"
     },
     {
-        "title": "Venezuela Brasil",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Venezuela%20Brasil",
-        "pubdate": "Fri, 15 Nov 2024 11:00:00 +0100"
-    },
-    {
-        "title": "Linkin Park",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Linkin%20Park",
-        "pubdate": "Fri, 15 Nov 2024 11:00:00 +0100"
-    },
-    {
-        "title": "Daniil medvédev",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Daniil%20medv%C3%A9dev",
-        "pubdate": "Fri, 15 Nov 2024 11:00:00 +0100"
-    },
-    {
         "title": "Venezuela  Brasil",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Venezuela%20%20Brasil",
         "pubdate": "Thu, 14 Nov 2024 20:00:00 +0100"
-    },
-    {
-        "title": "Paraguay  Argentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Paraguay%20%20Argentina",
-        "pubdate": "Thu, 14 Nov 2024 22:00:00 +0100"
     },
     {
         "title": "Topuria",
@@ -98,5 +78,25 @@
         "title": "Real Madrid  Anadolu Efes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Real%20Madrid%20%20Anadolu%20Efes",
         "pubdate": "Thu, 14 Nov 2024 21:00:00 +0100"
+    },
+    {
+        "title": "Nations League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Nations%20League",
+        "pubdate": "Thu, 14 Nov 2024 22:00:00 +0100"
+    },
+    {
+        "title": "Adriana Torrebejano",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Adriana%20Torrebejano",
+        "pubdate": "Thu, 14 Nov 2024 00:00:00 +0100"
+    },
+    {
+        "title": "Eliminatorias Sudamericanas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Eliminatorias%20Sudamericanas",
+        "pubdate": "Thu, 14 Nov 2024 22:00:00 +0100"
+    },
+    {
+        "title": "Argentina Cristina Kirchner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Argentina%20Cristina%20Kirchner",
+        "pubdate": "Thu, 14 Nov 2024 15:00:00 +0100"
     }
 ]
