@@ -1,28 +1,18 @@
 [
     {
-        "title": "Тикер",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%A2%D0%B8%D0%BA%D0%B5%D1%80",
-        "pubdate": "Fri, 15 Nov 2024 05:00:00 +0300"
-    },
-    {
-        "title": "Mike Tyson Jake Paul",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Mike%20Tyson%20Jake%20Paul",
-        "pubdate": "Fri, 15 Nov 2024 03:00:00 +0100"
-    },
-    {
-        "title": "インドネシア 対日本",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%82%A4%E3%83%B3%E3%83%89%E3%83%8D%E3%82%B7%E3%82%A2%20%E5%AF%BE%E6%97%A5%E6%9C%AC",
-        "pubdate": "Fri, 15 Nov 2024 01:00:00 +0900"
-    },
-    {
-        "title": "Eagles",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Eagles",
-        "pubdate": "Thu, 14 Nov 2024 10:00:00 -0800"
-    },
-    {
         "title": "Offset",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Offset",
         "pubdate": "Fri, 15 Nov 2024 00:00:00 +0100"
+    },
+    {
+        "title": "グラディエーター",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%82%B0%E3%83%A9%E3%83%87%E3%82%A3%E3%82%A8%E3%83%BC%E3%82%BF%E3%83%BC",
+        "pubdate": "Sat, 16 Nov 2024 00:00:00 +0900"
+    },
+    {
+        "title": "West Indies vs England",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#West%20Indies%20vs%20England",
+        "pubdate": "Fri, 15 Nov 2024 01:30:00 +0530"
     },
     {
         "title": "Davina McCall",
@@ -35,19 +25,24 @@
         "pubdate": "Fri, 15 Nov 2024 09:00:00 +0800"
     },
     {
-        "title": "West Indies vs England",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#West%20Indies%20vs%20England",
-        "pubdate": "Fri, 15 Nov 2024 01:30:00 +0530"
+        "title": "National Native American Heritage Month",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#National%20Native%20American%20Heritage%20Month",
+        "pubdate": "Fri, 15 Nov 2024 07:00:00 -0800"
     },
     {
-        "title": "Son dakika deprem",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Son%20dakika%20deprem",
-        "pubdate": "Fri, 15 Nov 2024 12:00:00 +0300"
+        "title": "Тикер",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%A2%D0%B8%D0%BA%D0%B5%D1%80",
+        "pubdate": "Fri, 15 Nov 2024 05:00:00 +0300"
     },
     {
-        "title": "Nations League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Nations%20League",
-        "pubdate": "Fri, 15 Nov 2024 08:00:00 +1100"
+        "title": "Mike Tyson Jake Paul",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Mike%20Tyson%20Jake%20Paul",
+        "pubdate": "Fri, 15 Nov 2024 03:00:00 +0100"
+    },
+    {
+        "title": "Venezuela vs Brasil",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Venezuela%20vs%20Brasil",
+        "pubdate": "Fri, 15 Nov 2024 04:00:00 +0700"
     },
     {
         "title": "فنزويلا ضد البرازيل",
@@ -55,14 +50,39 @@
         "pubdate": "Fri, 15 Nov 2024 00:00:00 +0300"
     },
     {
-        "title": "Uganda vs South Africa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Uganda%20vs%20South%20Africa",
-        "pubdate": "Fri, 15 Nov 2024 08:00:00 +0200"
+        "title": "Billie Jean King Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Billie%20Jean%20King%20Cup",
+        "pubdate": "Fri, 15 Nov 2024 15:00:00 +0100"
     },
     {
-        "title": "Mounjaro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mounjaro",
-        "pubdate": "Fri, 15 Nov 2024 09:00:00 +0100"
+        "title": "ΟΑΚΑ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%9F%CE%91%CE%9A%CE%91",
+        "pubdate": "Fri, 15 Nov 2024 13:00:00 +0200"
+    },
+    {
+        "title": "Son dakika deprem",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Son%20dakika%20deprem",
+        "pubdate": "Fri, 15 Nov 2024 12:00:00 +0300"
+    },
+    {
+        "title": "MAGU",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#MAGU",
+        "pubdate": "Fri, 15 Nov 2024 08:00:00 +0100"
+    },
+    {
+        "title": "Paraguay vs Argentina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Paraguay%20vs%20Argentina",
+        "pubdate": "Fri, 15 Nov 2024 08:00:00 +0800"
+    },
+    {
+        "title": "Villafranca de Ebro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Villafranca%20de%20Ebro",
+        "pubdate": "Fri, 15 Nov 2024 10:00:00 +0100"
+    },
+    {
+        "title": "Red panda",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Red%20panda",
+        "pubdate": "Sat, 16 Nov 2024 01:00:00 +1300"
     },
     {
         "title": "Robert F. Kennedy Jr",
@@ -70,33 +90,13 @@
         "pubdate": "Fri, 15 Nov 2024 06:00:00 +0100"
     },
     {
-        "title": "Paraguay vs Argentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Paraguay%20vs%20Argentina",
-        "pubdate": "Fri, 15 Nov 2024 03:00:00 +0300"
-    },
-    {
-        "title": "Парагвай – Аргентина",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=UA#%D0%9F%D0%B0%D1%80%D0%B0%D0%B3%D0%B2%D0%B0%D0%B9%20%E2%80%93%20%D0%90%D1%80%D0%B3%D0%B5%D0%BD%D1%82%D0%B8%D0%BD%D0%B0",
-        "pubdate": "Fri, 15 Nov 2024 06:00:00 +0200"
+        "title": "Telemundo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Telemundo",
+        "pubdate": "Fri, 15 Nov 2024 00:00:00 -0500"
     },
     {
         "title": "Jazz x Mavericks",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jazz%20x%20Mavericks",
         "pubdate": "Fri, 15 Nov 2024 01:00:00 -0500"
-    },
-    {
-        "title": "Emilia Dides",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Emilia%20Dides",
-        "pubdate": "Fri, 15 Nov 2024 00:00:00 -0300"
-    },
-    {
-        "title": "Nigeria",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Nigeria",
-        "pubdate": "Fri, 15 Nov 2024 05:00:00 +0100"
-    },
-    {
-        "title": "UZO",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#UZO",
-        "pubdate": "Fri, 15 Nov 2024 00:00:00 +0000"
     }
 ]
