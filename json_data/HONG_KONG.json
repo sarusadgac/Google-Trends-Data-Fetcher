@@ -10,6 +10,16 @@
         "pubdate": "Fri, 15 Nov 2024 09:00:00 +0800"
     },
     {
+        "title": "賀歲盃",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E8%B3%80%E6%AD%B2%E7%9B%83",
+        "pubdate": "Fri, 15 Nov 2024 12:00:00 +0800"
+    },
+    {
+        "title": "交通意外",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E4%BA%A4%E9%80%9A%E6%84%8F%E5%A4%96",
+        "pubdate": "Fri, 15 Nov 2024 12:00:00 +0800"
+    },
+    {
         "title": "教育局",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E6%95%99%E8%82%B2%E5%B1%80",
         "pubdate": "Thu, 14 Nov 2024 05:00:00 +0800"
@@ -33,6 +43,11 @@
         "title": "毅行者",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E6%AF%85%E8%A1%8C%E8%80%85",
         "pubdate": "Thu, 14 Nov 2024 16:00:00 +0800"
+    },
+    {
+        "title": "SOGO啟德",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#SOGO%E5%95%9F%E5%BE%B7",
+        "pubdate": "Thu, 14 Nov 2024 21:00:00 +0800"
     },
     {
         "title": "中大畢業禮",
@@ -60,6 +75,11 @@
         "pubdate": "Wed, 13 Nov 2024 11:00:00 +0800"
     },
     {
+        "title": "颱風",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E9%A2%B1%E9%A2%A8",
+        "pubdate": "Wed, 13 Nov 2024 17:00:00 +0800"
+    },
+    {
         "title": "打風",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E6%89%93%E9%A2%A8",
         "pubdate": "Wed, 13 Nov 2024 17:00:00 +0800"
@@ -78,25 +98,5 @@
         "title": "李子柒",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E6%9D%8E%E5%AD%90%E6%9F%92",
         "pubdate": "Wed, 13 Nov 2024 00:00:00 +0800"
-    },
-    {
-        "title": "機場快線",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E6%A9%9F%E5%A0%B4%E5%BF%AB%E7%B7%9A",
-        "pubdate": "Wed, 13 Nov 2024 22:00:00 +0800"
-    },
-    {
-        "title": "曙光計劃",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E6%9B%99%E5%85%89%E8%A8%88%E5%8A%83",
-        "pubdate": "Wed, 13 Nov 2024 10:00:00 +0800"
-    },
-    {
-        "title": "積金易",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E7%A9%8D%E9%87%91%E6%98%93",
-        "pubdate": "Wed, 13 Nov 2024 18:00:00 +0800"
-    },
-    {
-        "title": "Sydney Sweeney",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#Sydney%20Sweeney",
-        "pubdate": "Wed, 13 Nov 2024 10:00:00 +0800"
     }
 ]
