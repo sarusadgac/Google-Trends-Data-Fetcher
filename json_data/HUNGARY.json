@@ -15,11 +15,6 @@
         "pubdate": "Fri, 15 Nov 2024 08:00:00 +0100"
     },
     {
-        "title": "Vidnyánszky Szinetár",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Vidny%C3%A1nszky%20Szinet%C3%A1r",
-        "pubdate": "Fri, 15 Nov 2024 08:00:00 +0100"
-    },
-    {
         "title": "Herceg Erika",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Herceg%20Erika",
         "pubdate": "Fri, 15 Nov 2024 07:00:00 +0100"
@@ -65,14 +60,14 @@
         "pubdate": "Thu, 14 Nov 2024 19:00:00 +0100"
     },
     {
-        "title": "INC Ransomware",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#INC%20Ransomware",
-        "pubdate": "Thu, 14 Nov 2024 14:00:00 +0100"
-    },
-    {
         "title": "Haul Amazon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Haul%20Amazon",
         "pubdate": "Thu, 14 Nov 2024 19:00:00 +0100"
+    },
+    {
+        "title": "INC Ransomware",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#INC%20Ransomware",
+        "pubdate": "Thu, 14 Nov 2024 14:00:00 +0100"
     },
     {
         "title": "Pesti Magyar Színház",
@@ -98,5 +93,10 @@
         "title": "Pedro pascal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Pedro%20pascal",
         "pubdate": "Thu, 14 Nov 2024 21:00:00 +0100"
+    },
+    {
+        "title": "Dick Van Dyke",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Dick%20Van%20Dyke",
+        "pubdate": "Thu, 14 Nov 2024 23:00:00 +0100"
     }
 ]

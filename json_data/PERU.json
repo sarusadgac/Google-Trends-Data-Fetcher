@@ -1,5 +1,10 @@
 [
     {
+        "title": "Telemundo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Telemundo",
+        "pubdate": "Fri, 15 Nov 2024 00:00:00 -0500"
+    },
+    {
         "title": "Paraguay  Argentina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Paraguay%20%20Argentina",
         "pubdate": "Thu, 14 Nov 2024 08:00:00 -0500"
@@ -25,8 +30,8 @@
         "pubdate": "Thu, 14 Nov 2024 11:00:00 -0500"
     },
     {
-        "title": "Grecia - Inglaterra",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Grecia%20-%20Inglaterra",
+        "title": "Grecia  Inglaterra",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Grecia%20%20Inglaterra",
         "pubdate": "Thu, 14 Nov 2024 12:00:00 -0500"
     },
     {
@@ -50,14 +55,14 @@
         "pubdate": "Thu, 14 Nov 2024 17:00:00 -0500"
     },
     {
-        "title": "Miss Universo 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Miss%20Universo%202024",
-        "pubdate": "Thu, 14 Nov 2024 20:00:00 -0500"
-    },
-    {
         "title": "Clasificatorias",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Clasificatorias",
         "pubdate": "Thu, 14 Nov 2024 12:00:00 -0500"
+    },
+    {
+        "title": "Miss Universo 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Miss%20Universo%202024",
+        "pubdate": "Thu, 14 Nov 2024 20:00:00 -0500"
     },
     {
         "title": "Joe Biden",
@@ -93,10 +98,5 @@
         "title": "Deportes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Deportes",
         "pubdate": "Thu, 14 Nov 2024 22:00:00 -0500"
-    },
-    {
-        "title": "Calendario de adviento",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Calendario%20de%20adviento",
-        "pubdate": "Thu, 14 Nov 2024 04:00:00 -0500"
     }
 ]
