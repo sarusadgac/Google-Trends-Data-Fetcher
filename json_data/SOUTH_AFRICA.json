@@ -10,6 +10,11 @@
         "pubdate": "Fri, 15 Nov 2024 00:00:00 +0200"
     },
     {
+        "title": "Brazil",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Brazil",
+        "pubdate": "Fri, 15 Nov 2024 04:00:00 +0200"
+    },
+    {
         "title": "France vs Israel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#France%20vs%20Israel",
         "pubdate": "Thu, 14 Nov 2024 20:00:00 +0200"
@@ -93,10 +98,5 @@
         "title": "John Krasinski",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#John%20Krasinski",
         "pubdate": "Thu, 14 Nov 2024 07:00:00 +0200"
-    },
-    {
-        "title": "Gavin Casalegno",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Gavin%20Casalegno",
-        "pubdate": "Thu, 14 Nov 2024 01:00:00 +0200"
     }
 ]
