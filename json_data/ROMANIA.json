@@ -5,9 +5,9 @@
         "pubdate": "Fri, 15 Nov 2024 04:00:00 +0200"
     },
     {
-        "title": "Kupiansk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Kupiansk",
-        "pubdate": "Fri, 15 Nov 2024 05:00:00 +0200"
+        "title": "15 noiembrie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#15%20noiembrie",
+        "pubdate": "Fri, 15 Nov 2024 10:00:00 +0200"
     },
     {
         "title": "Sicilia",
@@ -15,9 +15,14 @@
         "pubdate": "Fri, 15 Nov 2024 09:00:00 +0200"
     },
     {
-        "title": "15 noiembrie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#15%20noiembrie",
-        "pubdate": "Fri, 15 Nov 2024 10:00:00 +0200"
+        "title": "Belgia - Italia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Belgia%20-%20Italia",
+        "pubdate": "Fri, 15 Nov 2024 08:00:00 +0200"
+    },
+    {
+        "title": "Kupiansk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Kupiansk",
+        "pubdate": "Fri, 15 Nov 2024 05:00:00 +0200"
     },
     {
         "title": "Pedro Pascal",
@@ -25,14 +30,14 @@
         "pubdate": "Fri, 15 Nov 2024 09:00:00 +0200"
     },
     {
+        "title": "Mircea Oprea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Mircea%20Oprea",
+        "pubdate": "Fri, 15 Nov 2024 13:00:00 +0200"
+    },
+    {
         "title": "Romania Kosovo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Romania%20Kosovo",
         "pubdate": "Thu, 14 Nov 2024 16:00:00 +0200"
-    },
-    {
-        "title": "Cine a castigat Asia Expres 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Cine%20a%20castigat%20Asia%20Expres%202024",
-        "pubdate": "Thu, 14 Nov 2024 00:00:00 +0200"
     },
     {
         "title": "Asia Express",
@@ -45,19 +50,14 @@
         "pubdate": "Thu, 14 Nov 2024 20:00:00 +0200"
     },
     {
-        "title": "Franța-Israel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Fran%C8%9Ba-Israel",
-        "pubdate": "Thu, 14 Nov 2024 21:00:00 +0200"
-    },
-    {
-        "title": "Inmormantare silviu prigoana",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Inmormantare%20silviu%20prigoana",
+        "title": "Inmormantare Silviu prigoana",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Inmormantare%20Silviu%20prigoana",
         "pubdate": "Thu, 14 Nov 2024 17:00:00 +0200"
     },
     {
-        "title": "Tulsi Gabbard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Tulsi%20Gabbard",
-        "pubdate": "Thu, 14 Nov 2024 02:00:00 +0200"
+        "title": "Franța-Israel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Fran%C8%9Ba-Israel",
+        "pubdate": "Thu, 14 Nov 2024 21:00:00 +0200"
     },
     {
         "title": "Grecia - Anglia",
@@ -65,9 +65,9 @@
         "pubdate": "Thu, 14 Nov 2024 22:00:00 +0200"
     },
     {
-        "title": "Shebara",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Shebara",
-        "pubdate": "Thu, 14 Nov 2024 19:00:00 +0200"
+        "title": "Tulsi Gabbard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Tulsi%20Gabbard",
+        "pubdate": "Thu, 14 Nov 2024 02:00:00 +0200"
     },
     {
         "title": "Cașcaval",
@@ -90,13 +90,13 @@
         "pubdate": "Thu, 14 Nov 2024 08:00:00 +0200"
     },
     {
-        "title": "UEFA Nations League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#UEFA%20Nations%20League",
-        "pubdate": "Thu, 14 Nov 2024 20:00:00 +0200"
-    },
-    {
         "title": "Regina intunericului",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Regina%20intunericului",
         "pubdate": "Thu, 14 Nov 2024 12:00:00 +0200"
+    },
+    {
+        "title": "Sondaj prezidentiale 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sondaj%20prezidentiale%202024",
+        "pubdate": "Thu, 14 Nov 2024 20:00:00 +0200"
     }
 ]
