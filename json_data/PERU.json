@@ -55,6 +55,11 @@
         "pubdate": "Thu, 14 Nov 2024 17:00:00 -0500"
     },
     {
+        "title": "Nations League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Nations%20League",
+        "pubdate": "Thu, 14 Nov 2024 12:00:00 -0500"
+    },
+    {
         "title": "Clasificatorias",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Clasificatorias",
         "pubdate": "Thu, 14 Nov 2024 12:00:00 -0500"
@@ -93,10 +98,5 @@
         "title": "Eslovenia  Noruega",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Eslovenia%20%20Noruega",
         "pubdate": "Thu, 14 Nov 2024 16:00:00 -0500"
-    },
-    {
-        "title": "Deportes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Deportes",
-        "pubdate": "Thu, 14 Nov 2024 22:00:00 -0500"
     }
 ]
