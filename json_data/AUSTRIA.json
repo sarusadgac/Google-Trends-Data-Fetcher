@@ -1,8 +1,8 @@
 [
     {
-        "title": "Friedrich Knapp New Yorker",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Friedrich%20Knapp%20New%20Yorker",
-        "pubdate": "Sat, 16 Nov 2024 00:00:00 +0100"
+        "title": "Levi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Levi",
+        "pubdate": "Sat, 16 Nov 2024 10:00:00 +0100"
     },
     {
         "title": "Karoline Leavitt",
@@ -10,19 +10,19 @@
         "pubdate": "Sat, 16 Nov 2024 08:00:00 +0100"
     },
     {
-        "title": "Levi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Levi",
-        "pubdate": "Sat, 16 Nov 2024 10:00:00 +0100"
-    },
-    {
-        "title": "Fenerbahce",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Fenerbahce",
-        "pubdate": "Sat, 16 Nov 2024 04:00:00 +0100"
+        "title": "Friedrich Knapp New Yorker",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Friedrich%20Knapp%20New%20Yorker",
+        "pubdate": "Sat, 16 Nov 2024 00:00:00 +0100"
     },
     {
         "title": "Onkel Wanja Josefstadt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Onkel%20Wanja%20Josefstadt",
         "pubdate": "Sat, 16 Nov 2024 07:00:00 +0100"
+    },
+    {
+        "title": "Cristiano Ronaldo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Cristiano%20Ronaldo",
+        "pubdate": "Sat, 16 Nov 2024 01:00:00 +0100"
     },
     {
         "title": "Wontorra",
@@ -35,6 +35,11 @@
         "pubdate": "Sat, 16 Nov 2024 11:00:00 +0100"
     },
     {
+        "title": "ICE Hockey",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#ICE%20Hockey",
+        "pubdate": "Sat, 16 Nov 2024 12:00:00 +0100"
+    },
+    {
         "title": "Robert F. Kennedy Jr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Robert%20F.%20Kennedy%20Jr",
         "pubdate": "Fri, 15 Nov 2024 06:00:00 +0100"
@@ -42,7 +47,7 @@
     {
         "title": "Romania Kosovo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Romania%20Kosovo",
-        "pubdate": "Fri, 15 Nov 2024 22:00:00 +0100"
+        "pubdate": "Fri, 15 Nov 2024 21:00:00 +0100"
     },
     {
         "title": "Alexander Zverev",
@@ -50,14 +55,9 @@
         "pubdate": "Fri, 15 Nov 2024 17:00:00 +0100"
     },
     {
-        "title": "Alzheimer Medikament",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Alzheimer%20Medikament",
+        "title": "Alzheimer-Medikament",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Alzheimer-Medikament",
         "pubdate": "Fri, 15 Nov 2024 09:00:00 +0100"
-    },
-    {
-        "title": "Schottland – Kroatien",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Schottland%20%E2%80%93%20Kroatien",
-        "pubdate": "Fri, 15 Nov 2024 21:00:00 +0100"
     },
     {
         "title": "Herbert Kickl",
@@ -73,11 +73,6 @@
         "title": "TSG Hoffenheim",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#TSG%20Hoffenheim",
         "pubdate": "Fri, 15 Nov 2024 12:00:00 +0100"
-    },
-    {
-        "title": "Portugal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Portugal",
-        "pubdate": "Fri, 15 Nov 2024 23:00:00 +0100"
     },
     {
         "title": "XRP",
@@ -98,5 +93,10 @@
         "title": "Willi Gabalier",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Willi%20Gabalier",
         "pubdate": "Fri, 15 Nov 2024 20:00:00 +0100"
+    },
+    {
+        "title": "Portugal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Portugal",
+        "pubdate": "Fri, 15 Nov 2024 23:00:00 +0100"
     }
 ]
