@@ -5,6 +5,11 @@
         "pubdate": "Fri, 15 Nov 2024 14:00:00 -0500"
     },
     {
+        "title": "Peru",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Peru",
+        "pubdate": "Fri, 15 Nov 2024 20:00:00 -0500"
+    },
+    {
         "title": "Rumania vs Kosovo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Rumania%20vs%20Kosovo",
         "pubdate": "Fri, 15 Nov 2024 15:00:00 -0500"
@@ -20,14 +25,14 @@
         "pubdate": "Fri, 15 Nov 2024 12:00:00 -0500"
     },
     {
-        "title": "Beca 18",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Beca%2018",
-        "pubdate": "Fri, 15 Nov 2024 10:00:00 -0500"
-    },
-    {
         "title": "Marruecos vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Marruecos%20vs",
         "pubdate": "Fri, 15 Nov 2024 15:00:00 -0500"
+    },
+    {
+        "title": "Liga de Naciones CONCACAF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Liga%20de%20Naciones%20CONCACAF",
+        "pubdate": "Fri, 15 Nov 2024 02:00:00 -0500"
     },
     {
         "title": "Egipto vs",
@@ -35,14 +40,14 @@
         "pubdate": "Fri, 15 Nov 2024 13:00:00 -0500"
     },
     {
-        "title": "Indonesia  Japón",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Indonesia%20%20Jap%C3%B3n",
-        "pubdate": "Fri, 15 Nov 2024 09:00:00 -0500"
-    },
-    {
         "title": "Juan Morelli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Juan%20Morelli",
         "pubdate": "Fri, 15 Nov 2024 17:00:00 -0500"
+    },
+    {
+        "title": "Indonesia  Japón",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Indonesia%20%20Jap%C3%B3n",
+        "pubdate": "Fri, 15 Nov 2024 09:00:00 -0500"
     },
     {
         "title": "Carlos Alcaraz",
@@ -60,6 +65,11 @@
         "pubdate": "Fri, 15 Nov 2024 13:00:00 -0500"
     },
     {
+        "title": "Arturo Vidal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Arturo%20Vidal",
+        "pubdate": "Fri, 15 Nov 2024 20:00:00 -0500"
+    },
+    {
         "title": "Alemania vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Alemania%20vs",
         "pubdate": "Fri, 15 Nov 2024 16:00:00 -0500"
@@ -75,28 +85,18 @@
         "pubdate": "Fri, 15 Nov 2024 19:00:00 -0500"
     },
     {
-        "title": "Paraguay  Argentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Paraguay%20%20Argentina",
+        "title": "Futbol Libre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Futbol%20Libre",
         "pubdate": "Thu, 14 Nov 2024 08:00:00 -0500"
     },
     {
         "title": "Peru vs Chile",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Peru%20vs%20Chile",
-        "pubdate": "Thu, 14 Nov 2024 18:00:00 -0500"
+        "pubdate": "Thu, 14 Nov 2024 12:00:00 -0500"
     },
     {
-        "title": "Eliminatorias",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Eliminatorias",
+        "title": "Paraguay  Argentina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Paraguay%20%20Argentina",
         "pubdate": "Thu, 14 Nov 2024 08:00:00 -0500"
-    },
-    {
-        "title": "Ecuador  Bolivia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Ecuador%20%20Bolivia",
-        "pubdate": "Thu, 14 Nov 2024 11:00:00 -0500"
-    },
-    {
-        "title": "Portugal  Polonia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Portugal%20%20Polonia",
-        "pubdate": "Thu, 14 Nov 2024 17:00:00 -0500"
     }
 ]
