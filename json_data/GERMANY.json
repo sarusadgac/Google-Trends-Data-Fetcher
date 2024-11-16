@@ -30,6 +30,16 @@
         "pubdate": "Fri, 15 Nov 2024 03:00:00 +0100"
     },
     {
+        "title": "Rumänien Kosovo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rum%C3%A4nien%20Kosovo",
+        "pubdate": "Fri, 15 Nov 2024 22:00:00 +0100"
+    },
+    {
+        "title": "Deutschland Bosnien",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Deutschland%20Bosnien",
+        "pubdate": "Fri, 15 Nov 2024 21:00:00 +0100"
+    },
+    {
         "title": "Marine Le Pen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Marine%20Le%20Pen",
         "pubdate": "Thu, 14 Nov 2024 18:00:00 +0100"
@@ -88,15 +98,5 @@
         "title": "Bambi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bambi",
         "pubdate": "Thu, 07 Nov 2024 18:00:00 +0100"
-    },
-    {
-        "title": "Lindner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Lindner",
-        "pubdate": "Wed, 06 Nov 2024 18:00:00 +0100"
-    },
-    {
-        "title": "Europa League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Europa%20League",
-        "pubdate": "Wed, 06 Nov 2024 00:00:00 +0100"
     }
 ]
