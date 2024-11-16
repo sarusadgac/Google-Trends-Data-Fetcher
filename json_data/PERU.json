@@ -5,6 +5,11 @@
         "pubdate": "Sat, 16 Nov 2024 00:00:00 -0500"
     },
     {
+        "title": "UFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#UFC",
+        "pubdate": "Sat, 16 Nov 2024 01:00:00 -0500"
+    },
+    {
         "title": "Robert Kennedy Jr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Robert%20Kennedy%20Jr",
         "pubdate": "Sat, 16 Nov 2024 00:00:00 -0500"
@@ -15,9 +20,14 @@
         "pubdate": "Fri, 15 Nov 2024 20:00:00 -0500"
     },
     {
-        "title": "Croacia vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Croacia%20vs",
+        "title": "Escocia  Croacia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Escocia%20%20Croacia",
         "pubdate": "Fri, 15 Nov 2024 14:00:00 -0500"
+    },
+    {
+        "title": "Suiza vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Suiza%20vs",
+        "pubdate": "Fri, 15 Nov 2024 12:00:00 -0500"
     },
     {
         "title": "Rumania vs Kosovo",
@@ -25,9 +35,9 @@
         "pubdate": "Fri, 15 Nov 2024 15:00:00 -0500"
     },
     {
-        "title": "Suiza vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Suiza%20vs",
-        "pubdate": "Fri, 15 Nov 2024 12:00:00 -0500"
+        "title": "Croacia vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Croacia%20vs",
+        "pubdate": "Fri, 15 Nov 2024 14:00:00 -0500"
     },
     {
         "title": "Arturo Vidal",
@@ -65,11 +75,6 @@
         "pubdate": "Fri, 15 Nov 2024 19:00:00 -0500"
     },
     {
-        "title": "Marruecos vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Marruecos%20vs",
-        "pubdate": "Fri, 15 Nov 2024 15:00:00 -0500"
-    },
-    {
         "title": "America",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#America",
         "pubdate": "Fri, 15 Nov 2024 21:00:00 -0500"
@@ -93,10 +98,5 @@
         "title": "Alemania vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Alemania%20vs",
         "pubdate": "Fri, 15 Nov 2024 16:00:00 -0500"
-    },
-    {
-        "title": "Juan Fernando Quintero",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Juan%20Fernando%20Quintero",
-        "pubdate": "Fri, 15 Nov 2024 21:00:00 -0500"
     }
 ]
