@@ -1,15 +1,5 @@
 [
     {
-        "title": "Alexander Zverev",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Alexander%20Zverev",
-        "pubdate": "Sat, 16 Nov 2024 02:00:00 +0100"
-    },
-    {
-        "title": "Issy-les-Moulineaux",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Issy-les-Moulineaux",
-        "pubdate": "Sat, 16 Nov 2024 15:00:00 +0100"
-    },
-    {
         "title": "England vs West Indies",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#England%20vs%20West%20Indies",
         "pubdate": "Sun, 17 Nov 2024 01:30:00 +0530"
@@ -20,9 +10,19 @@
         "pubdate": "Sun, 17 Nov 2024 00:00:00 +0300"
     },
     {
-        "title": "踊る大捜査線",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E8%B8%8A%E3%82%8B%E5%A4%A7%E6%8D%9C%E6%9F%BB%E7%B7%9A",
-        "pubdate": "Sat, 16 Nov 2024 22:00:00 +0900"
+        "title": "Texas vs Arkansas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Texas%20vs%20Arkansas",
+        "pubdate": "Sat, 16 Nov 2024 10:00:00 -0800"
+    },
+    {
+        "title": "Michel Denisot",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Michel%20Denisot",
+        "pubdate": "Sun, 17 Nov 2024 00:00:00 +0100"
+    },
+    {
+        "title": "Alexander Zverev",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Alexander%20Zverev",
+        "pubdate": "Sat, 16 Nov 2024 02:00:00 +0100"
     },
     {
         "title": "新城市廣場煙花",
@@ -35,19 +35,24 @@
         "pubdate": "Sat, 16 Nov 2024 14:00:00 +0000"
     },
     {
-        "title": "Texas vs Arkansas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Texas%20vs%20Arkansas",
-        "pubdate": "Sat, 16 Nov 2024 10:00:00 -0800"
+        "title": "プレミア12",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A212",
+        "pubdate": "Sat, 16 Nov 2024 00:00:00 +0900"
     },
     {
-        "title": "Chile vs Venezuela",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Chile%20vs%20Venezuela",
-        "pubdate": "Sat, 16 Nov 2024 01:00:00 -0300"
+        "title": "Caracol tv",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Caracol%20tv",
+        "pubdate": "Sat, 16 Nov 2024 18:00:00 -0500"
     },
     {
-        "title": "UFC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#UFC",
-        "pubdate": "Sun, 17 Nov 2024 11:00:00 +1300"
+        "title": "ألمانيا ضد البوسنة والهرسك",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7%20%D8%B6%D8%AF%20%D8%A7%D9%84%D8%A8%D9%88%D8%B3%D9%86%D8%A9%20%D9%88%D8%A7%D9%84%D9%87%D8%B1%D8%B3%D9%83",
+        "pubdate": "Sat, 16 Nov 2024 23:00:00 +0300"
+    },
+    {
+        "title": "2NE1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#2NE1",
+        "pubdate": "Sun, 17 Nov 2024 01:00:00 +0800"
     },
     {
         "title": "Russian",
@@ -55,14 +60,14 @@
         "pubdate": "Sun, 17 Nov 2024 03:00:00 +0800"
     },
     {
-        "title": "Deutschland – Bosnien-Herzegowina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Deutschland%20%E2%80%93%20Bosnien-Herzegowina",
-        "pubdate": "Sat, 16 Nov 2024 20:00:00 +0100"
+        "title": "Szalai Ádám",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szalai%20%C3%81d%C3%A1m",
+        "pubdate": "Sat, 16 Nov 2024 00:00:00 +0100"
     },
     {
-        "title": "SAS: Red Notice",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#SAS:%20Red%20Notice",
-        "pubdate": "Sun, 17 Nov 2024 00:00:00 +0700"
+        "title": "ลอตเตอรี่",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TH#%E0%B8%A5%E0%B8%AD%E0%B8%95%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B8%B5%E0%B9%88",
+        "pubdate": "Sat, 16 Nov 2024 11:00:00 +0700"
     },
     {
         "title": "Dubai-Schokolade Lindt",
@@ -70,33 +75,28 @@
         "pubdate": "Sat, 16 Nov 2024 20:00:00 +0100"
     },
     {
-        "title": "Alemania  Bosnia y Herzegovina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Alemania%20%20Bosnia%20y%20Herzegovina",
-        "pubdate": "Sat, 16 Nov 2024 14:00:00 -0600"
+        "title": "הכוכב הבא",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%94%D7%9B%D7%95%D7%9B%D7%91%20%D7%94%D7%91%D7%90",
+        "pubdate": "Sun, 17 Nov 2024 00:00:00 +0200"
     },
     {
-        "title": "吉力吉撈·鞏冠",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%90%89%E5%8A%9B%E5%90%89%E6%92%88%C2%B7%E9%9E%8F%E5%86%A0",
-        "pubdate": "Sun, 17 Nov 2024 00:00:00 +0800"
+        "title": "Netflix",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Netflix",
+        "pubdate": "Sat, 16 Nov 2024 04:00:00 +0100"
     },
     {
-        "title": "Ondo State election 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Ondo%20State%20election%202024",
-        "pubdate": "Sat, 16 Nov 2024 13:00:00 +0100"
+        "title": "Bushfires Victoria",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bushfires%20Victoria",
+        "pubdate": "Sun, 17 Nov 2024 09:00:00 +1100"
     },
     {
-        "title": "Jimmy Carter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Jimmy%20Carter",
-        "pubdate": "Sun, 17 Nov 2024 01:00:00 +0800"
+        "title": "Almanya",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Almanya",
+        "pubdate": "Sun, 17 Nov 2024 00:00:00 +0300"
     },
     {
-        "title": "Szalai Ádám",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szalai%20%C3%81d%C3%A1m",
-        "pubdate": "Sat, 16 Nov 2024 00:00:00 +0100"
-    },
-    {
-        "title": "Germany vs Bosnia and Herzegovina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Germany%20vs%20Bosnia%20and%20Herzegovina",
-        "pubdate": "Sun, 17 Nov 2024 05:00:00 +0800"
+        "title": "Athletico-PR x Atlético-MG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Athletico-PR%20x%20Atl%C3%A9tico-MG",
+        "pubdate": "Sat, 16 Nov 2024 16:00:00 -0500"
     }
 ]
