@@ -50,19 +50,24 @@
         "pubdate": "Sat, 16 Nov 2024 01:00:00 +0100"
     },
     {
-        "title": "Malu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Malu",
-        "pubdate": "Sat, 16 Nov 2024 00:00:00 +0100"
-    },
-    {
         "title": "Alex Baena",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Alex%20Baena",
         "pubdate": "Sat, 16 Nov 2024 02:00:00 +0100"
     },
     {
+        "title": "Malu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Malu",
+        "pubdate": "Sat, 16 Nov 2024 00:00:00 +0100"
+    },
+    {
         "title": "Escocia  Croacia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Escocia%20%20Croacia",
         "pubdate": "Sat, 16 Nov 2024 08:00:00 +0100"
+    },
+    {
+        "title": "Raquel Bollo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Raquel%20Bollo",
+        "pubdate": "Sat, 16 Nov 2024 09:00:00 +0100"
     },
     {
         "title": "Bon Jovi",
@@ -93,10 +98,5 @@
         "title": "España F.C",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Espa%C3%B1a%20F.C",
         "pubdate": "Fri, 15 Nov 2024 19:00:00 +0100"
-    },
-    {
-        "title": "Portugal  Polonia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Portugal%20%20Polonia",
-        "pubdate": "Fri, 15 Nov 2024 21:00:00 +0100"
     }
 ]
