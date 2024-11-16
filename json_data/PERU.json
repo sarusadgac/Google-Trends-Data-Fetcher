@@ -1,10 +1,5 @@
 [
     {
-        "title": "Kina Malpartida",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Kina%20Malpartida",
-        "pubdate": "Sat, 16 Nov 2024 00:00:00 -0500"
-    },
-    {
         "title": "Amanda Serrano",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Amanda%20Serrano",
         "pubdate": "Sat, 16 Nov 2024 00:00:00 -0500"
@@ -30,6 +25,11 @@
         "pubdate": "Fri, 15 Nov 2024 14:00:00 -0500"
     },
     {
+        "title": "Suiza vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Suiza%20vs",
+        "pubdate": "Fri, 15 Nov 2024 12:00:00 -0500"
+    },
+    {
         "title": "Rumania vs Kosovo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Rumania%20vs%20Kosovo",
         "pubdate": "Fri, 15 Nov 2024 15:00:00 -0500"
@@ -45,11 +45,6 @@
         "pubdate": "Fri, 15 Nov 2024 21:00:00 -0500"
     },
     {
-        "title": "Suiza vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Suiza%20vs",
-        "pubdate": "Fri, 15 Nov 2024 12:00:00 -0500"
-    },
-    {
         "title": "Arturo Vidal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Arturo%20Vidal",
         "pubdate": "Fri, 15 Nov 2024 20:00:00 -0500"
@@ -60,14 +55,14 @@
         "pubdate": "Fri, 15 Nov 2024 14:00:00 -0500"
     },
     {
-        "title": "Cobra Kai",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Cobra%20Kai",
-        "pubdate": "Fri, 15 Nov 2024 12:00:00 -0500"
-    },
-    {
         "title": "Paolo Guerrero",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Paolo%20Guerrero",
         "pubdate": "Fri, 15 Nov 2024 21:00:00 -0500"
+    },
+    {
+        "title": "Cobra Kai",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Cobra%20Kai",
+        "pubdate": "Fri, 15 Nov 2024 12:00:00 -0500"
     },
     {
         "title": "Oliver Sonne",
@@ -78,11 +73,6 @@
         "title": "Juan Morelli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Juan%20Morelli",
         "pubdate": "Fri, 15 Nov 2024 17:00:00 -0500"
-    },
-    {
-        "title": "Surinam  Canadá",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Surinam%20%20Canad%C3%A1",
-        "pubdate": "Fri, 15 Nov 2024 19:00:00 -0500"
     },
     {
         "title": "Marruecos vs",
@@ -98,5 +88,15 @@
         "title": "Carlos Alcaraz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Carlos%20Alcaraz",
         "pubdate": "Fri, 15 Nov 2024 16:00:00 -0500"
+    },
+    {
+        "title": "Alemania vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Alemania%20vs",
+        "pubdate": "Fri, 15 Nov 2024 16:00:00 -0500"
+    },
+    {
+        "title": "Eduardo Vargas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Eduardo%20Vargas",
+        "pubdate": "Fri, 15 Nov 2024 23:00:00 -0500"
     }
 ]

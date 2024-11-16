@@ -5,11 +5,6 @@
         "pubdate": "Sat, 16 Nov 2024 07:00:00 +0100"
     },
     {
-        "title": "Hart van Nederland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Hart%20van%20Nederland",
-        "pubdate": "Sat, 16 Nov 2024 00:00:00 +0100"
-    },
-    {
         "title": "Frans Timmermans",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Frans%20Timmermans",
         "pubdate": "Sat, 16 Nov 2024 12:00:00 +0100"
@@ -18,6 +13,16 @@
         "title": "Rachel Rosier",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Rachel%20Rosier",
         "pubdate": "Sat, 16 Nov 2024 14:00:00 +0100"
+    },
+    {
+        "title": "Ameide",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ameide",
+        "pubdate": "Sat, 16 Nov 2024 13:00:00 +0100"
+    },
+    {
+        "title": "MotoGP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#MotoGP",
+        "pubdate": "Sat, 16 Nov 2024 15:00:00 +0100"
     },
     {
         "title": "Zwarte Piet",
@@ -35,11 +40,6 @@
         "pubdate": "Fri, 15 Nov 2024 12:00:00 +0100"
     },
     {
-        "title": "Sinterklaas intocht",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sinterklaas%20intocht",
-        "pubdate": "Fri, 15 Nov 2024 18:00:00 +0100"
-    },
-    {
         "title": "Even Tot Hier",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Even%20Tot%20Hier",
         "pubdate": "Fri, 15 Nov 2024 23:00:00 +0100"
@@ -50,6 +50,11 @@
         "pubdate": "Fri, 15 Nov 2024 21:00:00 +0100"
     },
     {
+        "title": "Telstar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Telstar",
+        "pubdate": "Fri, 15 Nov 2024 23:00:00 +0100"
+    },
+    {
         "title": "Jake Paul Mike Tyson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jake%20Paul%20Mike%20Tyson",
         "pubdate": "Thu, 14 Nov 2024 19:00:00 +0100"
@@ -58,11 +63,6 @@
         "title": "Mike Tyson vs Jake Paul tijd",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Mike%20Tyson%20vs%20Jake%20Paul%20tijd",
         "pubdate": "Thu, 14 Nov 2024 00:00:00 +0100"
-    },
-    {
-        "title": "Nations League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nations%20League",
-        "pubdate": "Thu, 14 Nov 2024 22:00:00 +0100"
     },
     {
         "title": "Wie is de Mol",
