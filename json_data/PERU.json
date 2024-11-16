@@ -1,18 +1,18 @@
 [
     {
-        "title": "Países Bajos - Hungría",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Pa%C3%ADses%20Bajos%20-%20Hungr%C3%ADa",
+        "title": "Países Bajos-Hungría",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Pa%C3%ADses%20Bajos-Hungr%C3%ADa",
         "pubdate": "Sat, 16 Nov 2024 14:00:00 -0500"
-    },
-    {
-        "title": "Amanda Serrano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Amanda%20Serrano",
-        "pubdate": "Sat, 16 Nov 2024 00:00:00 -0500"
     },
     {
         "title": "UFC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#UFC",
         "pubdate": "Sat, 16 Nov 2024 01:00:00 -0500"
+    },
+    {
+        "title": "Amanda Serrano",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Amanda%20Serrano",
+        "pubdate": "Sat, 16 Nov 2024 00:00:00 -0500"
     },
     {
         "title": "Robert Kennedy Jr",
@@ -35,9 +35,9 @@
         "pubdate": "Sat, 16 Nov 2024 13:00:00 -0500"
     },
     {
-        "title": "Colegio Roosevelt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Colegio%20Roosevelt",
-        "pubdate": "Sat, 16 Nov 2024 14:00:00 -0500"
+        "title": "Real Madrid c F Femenino  Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Real%20Madrid%20c%20F%20Femenino%20%20Barcelona",
+        "pubdate": "Sat, 16 Nov 2024 16:00:00 -0500"
     },
     {
         "title": "Chemo' del Solar",
@@ -55,6 +55,11 @@
         "pubdate": "Fri, 15 Nov 2024 20:00:00 -0500"
     },
     {
+        "title": "Alemania  Bosnia y Herzegovina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Alemania%20%20Bosnia%20y%20Herzegovina",
+        "pubdate": "Fri, 15 Nov 2024 16:00:00 -0500"
+    },
+    {
         "title": "Rumania vs Kosovo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Rumania%20vs%20Kosovo",
         "pubdate": "Fri, 15 Nov 2024 15:00:00 -0500"
@@ -65,24 +70,9 @@
         "pubdate": "Fri, 15 Nov 2024 14:00:00 -0500"
     },
     {
-        "title": "Escocia  Croacia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Escocia%20%20Croacia",
-        "pubdate": "Fri, 15 Nov 2024 15:00:00 -0500"
-    },
-    {
         "title": "Peru vs Argentina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Peru%20vs%20Argentina",
         "pubdate": "Fri, 15 Nov 2024 14:00:00 -0500"
-    },
-    {
-        "title": "Alemania vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Alemania%20vs",
-        "pubdate": "Fri, 15 Nov 2024 16:00:00 -0500"
-    },
-    {
-        "title": "Suiza vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Suiza%20vs",
-        "pubdate": "Fri, 15 Nov 2024 12:00:00 -0500"
     },
     {
         "title": "Atv",
@@ -98,5 +88,15 @@
         "title": "Paolo Guerrero",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Paolo%20Guerrero",
         "pubdate": "Fri, 15 Nov 2024 21:00:00 -0500"
+    },
+    {
+        "title": "Cobra Kai",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Cobra%20Kai",
+        "pubdate": "Fri, 15 Nov 2024 12:00:00 -0500"
+    },
+    {
+        "title": "Oliver Sonne",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Oliver%20Sonne",
+        "pubdate": "Fri, 15 Nov 2024 22:00:00 -0500"
     }
 ]
