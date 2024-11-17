@@ -5,14 +5,19 @@
         "pubdate": "Sun, 17 Nov 2024 10:00:00 +0100"
     },
     {
+        "title": "David Alonso",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#David%20Alonso",
+        "pubdate": "Sun, 17 Nov 2024 12:00:00 +0100"
+    },
+    {
         "title": "Ultima noche en milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ultima%20noche%20en%20milan",
         "pubdate": "Sun, 17 Nov 2024 01:00:00 +0100"
     },
     {
-        "title": "Jorge martin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Jorge%20martin",
-        "pubdate": "Sun, 17 Nov 2024 11:00:00 +0100"
+        "title": "Eurovision Junior 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Eurovision%20Junior%202024",
+        "pubdate": "Sat, 16 Nov 2024 17:00:00 +0100"
     },
     {
         "title": "Jake Paul",
@@ -93,10 +98,5 @@
         "title": "CD Eldense.  Albacete",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#CD%20Eldense.%20%20Albacete",
         "pubdate": "Sat, 16 Nov 2024 17:00:00 +0100"
-    },
-    {
-        "title": "Victor elias",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Victor%20elias",
-        "pubdate": "Sat, 16 Nov 2024 18:00:00 +0100"
     }
 ]
