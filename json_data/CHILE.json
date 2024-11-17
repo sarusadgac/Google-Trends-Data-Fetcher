@@ -1,13 +1,13 @@
 [
     {
-        "title": "Peru vs Chile",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Peru%20vs%20Chile",
-        "pubdate": "Sat, 16 Nov 2024 21:00:00 -0300"
-    },
-    {
         "title": "UFC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#UFC",
         "pubdate": "Sat, 16 Nov 2024 02:00:00 -0300"
+    },
+    {
+        "title": "Telemundo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Telemundo",
+        "pubdate": "Sat, 16 Nov 2024 23:00:00 -0300"
     },
     {
         "title": "Alemania  Bosnia y Herzegovina",
@@ -20,19 +20,14 @@
         "pubdate": "Sat, 16 Nov 2024 01:00:00 -0300"
     },
     {
-        "title": "Telemundo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Telemundo",
-        "pubdate": "Sat, 16 Nov 2024 23:00:00 -0300"
-    },
-    {
         "title": "Amanda Serrano",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Amanda%20Serrano",
         "pubdate": "Sat, 16 Nov 2024 02:00:00 -0300"
     },
     {
-        "title": "Toni Espadas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Toni%20Espadas",
-        "pubdate": "Sat, 16 Nov 2024 02:00:00 -0300"
+        "title": "Macao",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Macao",
+        "pubdate": "Sat, 16 Nov 2024 23:00:00 -0300"
     },
     {
         "title": "Gareca",
@@ -43,11 +38,6 @@
         "title": "Mexico vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Mexico%20vs",
         "pubdate": "Sat, 16 Nov 2024 02:00:00 -0300"
-    },
-    {
-        "title": "Macao",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Macao",
-        "pubdate": "Sat, 16 Nov 2024 23:00:00 -0300"
     },
     {
         "title": "Jannik Sinner",
@@ -80,6 +70,11 @@
         "pubdate": "Sat, 16 Nov 2024 19:00:00 -0300"
     },
     {
+        "title": "Nico Ruiz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Nico%20Ruiz",
+        "pubdate": "Sat, 16 Nov 2024 23:00:00 -0300"
+    },
+    {
         "title": "Felipe Mora",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Felipe%20Mora",
         "pubdate": "Sat, 16 Nov 2024 01:00:00 -0300"
@@ -95,8 +90,13 @@
         "pubdate": "Sat, 16 Nov 2024 15:00:00 -0300"
     },
     {
-        "title": "Nico Ruiz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Nico%20Ruiz",
-        "pubdate": "Sat, 16 Nov 2024 23:00:00 -0300"
+        "title": "Eduardo Vargas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Eduardo%20Vargas",
+        "pubdate": "Sat, 16 Nov 2024 00:00:00 -0300"
+    },
+    {
+        "title": "Alexander Zverev",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Alexander%20Zverev",
+        "pubdate": "Sat, 16 Nov 2024 09:00:00 -0300"
     }
 ]
