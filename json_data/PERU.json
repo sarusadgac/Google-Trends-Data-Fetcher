@@ -35,11 +35,6 @@
         "pubdate": "Sat, 16 Nov 2024 21:00:00 -0500"
     },
     {
-        "title": "Turquía  Gales",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Turqu%C3%ADa%20%20Gales",
-        "pubdate": "Sat, 16 Nov 2024 14:00:00 -0500"
-    },
-    {
         "title": "Robert Kennedy Jr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Robert%20Kennedy%20Jr",
         "pubdate": "Sat, 16 Nov 2024 00:00:00 -0500"
@@ -78,6 +73,11 @@
         "title": "Peru",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Peru",
         "pubdate": "Fri, 15 Nov 2024 20:00:00 -0500"
+    },
+    {
+        "title": "America TV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#America%20TV",
+        "pubdate": "Fri, 15 Nov 2024 21:00:00 -0500"
     },
     {
         "title": "Alemania  Bosnia y Herzegovina",
