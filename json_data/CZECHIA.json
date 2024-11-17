@@ -5,11 +5,6 @@
         "pubdate": "Sun, 17 Nov 2024 01:00:00 +0100"
     },
     {
-        "title": "UFC 309",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#UFC%20309",
-        "pubdate": "Sun, 17 Nov 2024 07:00:00 +0100"
-    },
-    {
         "title": "Sametová revoluce",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sametov%C3%A1%20revoluce",
         "pubdate": "Sun, 17 Nov 2024 11:00:00 +0100"
@@ -18,11 +13,6 @@
         "title": "Antisemitismus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Antisemitismus",
         "pubdate": "Sun, 17 Nov 2024 08:00:00 +0100"
-    },
-    {
-        "title": "Sametova revoluce",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sametova%20revoluce",
-        "pubdate": "Sun, 17 Nov 2024 11:00:00 +0100"
     },
     {
         "title": "Petr Fiala",
@@ -37,7 +27,7 @@
     {
         "title": "Albánie – Česko",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Alb%C3%A1nie%20%E2%80%93%20%C4%8Cesko",
-        "pubdate": "Sat, 16 Nov 2024 19:00:00 +0100"
+        "pubdate": "Sat, 16 Nov 2024 20:00:00 +0100"
     },
     {
         "title": "Karel Vágner",
@@ -70,19 +60,19 @@
         "pubdate": "Sat, 16 Nov 2024 09:00:00 +0100"
     },
     {
-        "title": "Tenis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tenis",
-        "pubdate": "Sat, 16 Nov 2024 19:00:00 +0100"
-    },
-    {
-        "title": "Kdo vyhrál Mike Tyson nebo Jake Paul",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kdo%20vyhr%C3%A1l%20Mike%20Tyson%20nebo%20Jake%20Paul",
-        "pubdate": "Sat, 16 Nov 2024 09:00:00 +0100"
-    },
-    {
         "title": "Half-Life 2",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Half-Life%202",
         "pubdate": "Sat, 16 Nov 2024 16:00:00 +0100"
+    },
+    {
+        "title": "Tenis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tenis",
+        "pubdate": "Sat, 16 Nov 2024 22:00:00 +0100"
+    },
+    {
+        "title": "Pasta Oner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Pasta%20Oner",
+        "pubdate": "Sat, 16 Nov 2024 15:00:00 +0100"
     },
     {
         "title": "Hes",
@@ -98,5 +88,15 @@
         "title": "Hokej.cz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Hokej.cz",
         "pubdate": "Sat, 16 Nov 2024 12:00:00 +0100"
+    },
+    {
+        "title": "MotoGP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#MotoGP",
+        "pubdate": "Sat, 16 Nov 2024 21:00:00 +0100"
+    },
+    {
+        "title": "Opava – Prostějov",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Opava%20%E2%80%93%20Prost%C4%9Bjov",
+        "pubdate": "Sat, 16 Nov 2024 16:00:00 +0100"
     }
 ]

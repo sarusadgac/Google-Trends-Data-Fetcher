@@ -25,6 +25,11 @@
         "pubdate": "Sun, 17 Nov 2024 10:00:00 +0200"
     },
     {
+        "title": "Dune: Prophecy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Dune:%20Prophecy",
+        "pubdate": "Sun, 17 Nov 2024 15:00:00 +0200"
+    },
+    {
         "title": "Meci romania Kosovo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Meci%20romania%20Kosovo",
         "pubdate": "Sat, 16 Nov 2024 16:00:00 +0200"
@@ -60,9 +65,14 @@
         "pubdate": "Sat, 16 Nov 2024 11:00:00 +0200"
     },
     {
-        "title": "Romania Cipru",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Romania%20Cipru",
+        "title": "ROMANIA Cipru",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#ROMANIA%20Cipru",
         "pubdate": "Sat, 16 Nov 2024 00:00:00 +0200"
+    },
+    {
+        "title": "John Malkovich",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#John%20Malkovich",
+        "pubdate": "Sat, 16 Nov 2024 12:00:00 +0200"
     },
     {
         "title": "Ronaldo",
@@ -88,15 +98,5 @@
         "title": "Stanciu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Stanciu",
         "pubdate": "Sat, 16 Nov 2024 01:00:00 +0200"
-    },
-    {
-        "title": "DJ BOBO",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#DJ%20BOBO",
-        "pubdate": "Sat, 16 Nov 2024 19:00:00 +0200"
-    },
-    {
-        "title": "Floyd Mayweather",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Floyd%20Mayweather",
-        "pubdate": "Sat, 16 Nov 2024 09:00:00 +0200"
     }
 ]

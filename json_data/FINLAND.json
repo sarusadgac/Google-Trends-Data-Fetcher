@@ -40,11 +40,6 @@
         "pubdate": "Sat, 16 Nov 2024 22:00:00 +0200"
     },
     {
-        "title": "Sutton Foster",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Sutton%20Foster",
-        "pubdate": "Sat, 16 Nov 2024 07:00:00 +0200"
-    },
-    {
         "title": "Kimchi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Kimchi",
         "pubdate": "Sat, 16 Nov 2024 15:00:00 +0200"
@@ -98,5 +93,10 @@
         "title": "UFC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#UFC",
         "pubdate": "Fri, 15 Nov 2024 22:00:00 +0200"
+    },
+    {
+        "title": "Robert F. Kennedy Jr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Robert%20F.%20Kennedy%20Jr",
+        "pubdate": "Fri, 15 Nov 2024 12:00:00 +0200"
     }
 ]
