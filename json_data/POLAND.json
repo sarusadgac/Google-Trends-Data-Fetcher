@@ -5,6 +5,11 @@
         "pubdate": "Sun, 17 Nov 2024 00:00:00 +0100"
     },
     {
+        "title": "MASTERNAK walka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#MASTERNAK%20walka",
+        "pubdate": "Sun, 17 Nov 2024 00:00:00 +0100"
+    },
+    {
         "title": "King Richard",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#King%20Richard",
         "pubdate": "Sun, 17 Nov 2024 00:00:00 +0100"
@@ -15,24 +20,19 @@
         "pubdate": "Sat, 16 Nov 2024 18:00:00 +0100"
     },
     {
-        "title": "Szlachetna Paczka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Szlachetna%20Paczka",
-        "pubdate": "Sat, 16 Nov 2024 09:00:00 +0100"
-    },
-    {
         "title": "Niemcy – Bośnia i Hercegowina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Niemcy%20%E2%80%93%20Bo%C5%9Bnia%20i%20Hercegowina",
         "pubdate": "Sat, 16 Nov 2024 21:00:00 +0100"
     },
     {
+        "title": "Szlachetna Paczka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Szlachetna%20Paczka",
+        "pubdate": "Sat, 16 Nov 2024 09:00:00 +0100"
+    },
+    {
         "title": "Holandia – Węgry",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Holandia%20%E2%80%93%20W%C4%99gry",
         "pubdate": "Sat, 16 Nov 2024 21:00:00 +0100"
-    },
-    {
-        "title": "UFC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#UFC",
-        "pubdate": "Sat, 16 Nov 2024 07:00:00 +0100"
     },
     {
         "title": "Sport",
@@ -60,19 +60,24 @@
         "pubdate": "Sat, 16 Nov 2024 12:00:00 +0100"
     },
     {
-        "title": "Karoline Leavitt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Karoline%20Leavitt",
-        "pubdate": "Sat, 16 Nov 2024 10:00:00 +0100"
-    },
-    {
         "title": "Arkadiusz Wrzosek",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Arkadiusz%20Wrzosek",
         "pubdate": "Sat, 16 Nov 2024 23:00:00 +0100"
     },
     {
+        "title": "Karoline Leavitt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Karoline%20Leavitt",
+        "pubdate": "Sat, 16 Nov 2024 10:00:00 +0100"
+    },
+    {
         "title": "Manuela Gretkowska",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Manuela%20Gretkowska",
         "pubdate": "Sat, 16 Nov 2024 10:00:00 +0100"
+    },
+    {
+        "title": "Michał Szpak",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Micha%C5%82%20Szpak",
+        "pubdate": "Sat, 16 Nov 2024 22:00:00 +0100"
     },
     {
         "title": "Andrea Bocelli",
@@ -93,10 +98,5 @@
         "title": "Skoki narciarskie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Skoki%20narciarskie",
         "pubdate": "Sat, 16 Nov 2024 16:00:00 +0100"
-    },
-    {
-        "title": "Jan Błachowicz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jan%20B%C5%82achowicz",
-        "pubdate": "Sat, 16 Nov 2024 23:00:00 +0100"
     }
 ]
