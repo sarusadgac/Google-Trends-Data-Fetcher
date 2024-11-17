@@ -1,12 +1,27 @@
 [
     {
+        "title": "Miss Universo 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Miss%20Universo%202024",
+        "pubdate": "Sun, 17 Nov 2024 03:00:00 +0100"
+    },
+    {
         "title": "David Alonso",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#David%20Alonso",
         "pubdate": "Sun, 17 Nov 2024 12:00:00 +0100"
     },
     {
+        "title": "Marc marquez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Marc%20marquez",
+        "pubdate": "Sun, 17 Nov 2024 15:00:00 +0100"
+    },
+    {
         "title": "Aron Canet",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Aron%20Canet",
+        "pubdate": "Sun, 17 Nov 2024 14:00:00 +0100"
+    },
+    {
+        "title": "China suarez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#China%20suarez",
         "pubdate": "Sun, 17 Nov 2024 14:00:00 +0100"
     },
     {
@@ -15,9 +30,14 @@
         "pubdate": "Sun, 17 Nov 2024 11:00:00 +0100"
     },
     {
-        "title": "China suarez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#China%20suarez",
+        "title": "Beatriz Luengo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Beatriz%20Luengo",
         "pubdate": "Sun, 17 Nov 2024 14:00:00 +0100"
+    },
+    {
+        "title": "Fonsi Nieto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Fonsi%20Nieto",
+        "pubdate": "Sun, 17 Nov 2024 15:00:00 +0100"
     },
     {
         "title": "Ultima noche en milan",
@@ -28,6 +48,11 @@
         "title": "Eurovision Junior 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Eurovision%20Junior%202024",
         "pubdate": "Sat, 16 Nov 2024 17:00:00 +0100"
+    },
+    {
+        "title": "MotoGP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#MotoGP",
+        "pubdate": "Sat, 16 Nov 2024 09:00:00 +0100"
     },
     {
         "title": "Jake Paul",
@@ -48,11 +73,6 @@
         "title": "Sporting Gijón - Granada",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Sporting%20Gij%C3%B3n%20-%20Granada",
         "pubdate": "Sat, 16 Nov 2024 21:00:00 +0100"
-    },
-    {
-        "title": "MotoGP hoy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#MotoGP%20hoy",
-        "pubdate": "Sat, 16 Nov 2024 09:00:00 +0100"
     },
     {
         "title": "Racing de Santander - Burgos",
@@ -78,25 +98,5 @@
         "title": "RTVE",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#RTVE",
         "pubdate": "Sat, 16 Nov 2024 07:00:00 +0100"
-    },
-    {
-        "title": "Begoña gomez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Bego%C3%B1a%20gomez",
-        "pubdate": "Sat, 16 Nov 2024 01:00:00 +0100"
-    },
-    {
-        "title": "Jorge Martín",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Jorge%20Mart%C3%ADn",
-        "pubdate": "Sat, 16 Nov 2024 16:00:00 +0100"
-    },
-    {
-        "title": "Alex Baena",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Alex%20Baena",
-        "pubdate": "Sat, 16 Nov 2024 02:00:00 +0100"
-    },
-    {
-        "title": "Levante  #elchecf",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Levante%20%20%23elchecf",
-        "pubdate": "Sat, 16 Nov 2024 19:00:00 +0100"
     }
 ]

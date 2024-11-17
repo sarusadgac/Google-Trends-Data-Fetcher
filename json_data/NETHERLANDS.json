@@ -1,8 +1,8 @@
 [
     {
-        "title": "UFC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#UFC",
-        "pubdate": "Sun, 17 Nov 2024 03:00:00 +0100"
+        "title": "Duitsland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Duitsland",
+        "pubdate": "Sun, 17 Nov 2024 02:00:00 +0100"
     },
     {
         "title": "Netflix",
@@ -10,8 +10,13 @@
         "pubdate": "Sat, 16 Nov 2024 03:00:00 +0100"
     },
     {
-        "title": "UFC 309",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#UFC%20309",
+        "title": "UFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#UFC",
+        "pubdate": "Sat, 16 Nov 2024 21:00:00 +0100"
+    },
+    {
+        "title": "Anita Meyer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Anita%20Meyer",
         "pubdate": "Sat, 16 Nov 2024 21:00:00 +0100"
     },
     {
@@ -30,9 +35,9 @@
         "pubdate": "Sat, 16 Nov 2024 23:00:00 +0100"
     },
     {
-        "title": "Junior Songfestival",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Junior%20Songfestival",
-        "pubdate": "Sat, 16 Nov 2024 19:00:00 +0100"
+        "title": "MotoGP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#MotoGP",
+        "pubdate": "Sat, 16 Nov 2024 15:00:00 +0100"
     },
     {
         "title": "Qlimax",
@@ -83,11 +88,6 @@
         "title": "Zevenheuvelenloop",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Zevenheuvelenloop",
         "pubdate": "Fri, 15 Nov 2024 21:00:00 +0100"
-    },
-    {
-        "title": "Mike Tyson vs Jake Paul",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Mike%20Tyson%20vs%20Jake%20Paul",
-        "pubdate": "Thu, 14 Nov 2024 22:00:00 +0100"
     },
     {
         "title": "Mike Tyson",
