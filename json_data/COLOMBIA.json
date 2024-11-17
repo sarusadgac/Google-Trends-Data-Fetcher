@@ -1,8 +1,8 @@
 [
     {
-        "title": "Telemundo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Telemundo",
-        "pubdate": "Sun, 17 Nov 2024 00:00:00 -0500"
+        "title": "Inglaterra - Irlanda",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Inglaterra%20-%20Irlanda",
+        "pubdate": "Sun, 17 Nov 2024 12:00:00 -0500"
     },
     {
         "title": "Loteria de boyaca 16 de noviembre 2024",
@@ -10,9 +10,9 @@
         "pubdate": "Sun, 17 Nov 2024 01:00:00 -0500"
     },
     {
-        "title": "Inglaterra  Irlanda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Inglaterra%20%20Irlanda",
-        "pubdate": "Sun, 17 Nov 2024 12:00:00 -0500"
+        "title": "Telemundo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Telemundo",
+        "pubdate": "Sun, 17 Nov 2024 00:00:00 -0500"
     },
     {
         "title": "Gran Fondo bogota",
@@ -80,11 +80,6 @@
         "pubdate": "Sat, 16 Nov 2024 09:00:00 -0500"
     },
     {
-        "title": "Real Madrid c F Femenino  Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Real%20Madrid%20c%20F%20Femenino%20%20Barcelona",
-        "pubdate": "Sat, 16 Nov 2024 15:00:00 -0500"
-    },
-    {
         "title": "Pete Hegseth",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Pete%20Hegseth",
         "pubdate": "Sat, 16 Nov 2024 20:00:00 -0500"
@@ -98,5 +93,10 @@
         "title": "Muhammad Ali",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Muhammad%20Ali",
         "pubdate": "Sat, 16 Nov 2024 09:00:00 -0500"
+    },
+    {
+        "title": "Robert Kennedy Jr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Robert%20Kennedy%20Jr",
+        "pubdate": "Sat, 16 Nov 2024 11:00:00 -0500"
     }
 ]

@@ -5,14 +5,14 @@
         "pubdate": "Sun, 17 Nov 2024 09:00:00 +0200"
     },
     {
-        "title": "Marco Rubio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Marco%20Rubio",
-        "pubdate": "Sun, 17 Nov 2024 06:00:00 +0200"
-    },
-    {
         "title": "Miss Universe 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Miss%20Universe%202024",
         "pubdate": "Sun, 17 Nov 2024 12:00:00 +0200"
+    },
+    {
+        "title": "Marco Rubio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Marco%20Rubio",
+        "pubdate": "Sun, 17 Nov 2024 06:00:00 +0200"
     },
     {
         "title": "Ion Iliescu",
@@ -20,19 +20,24 @@
         "pubdate": "Sun, 17 Nov 2024 09:00:00 +0200"
     },
     {
-        "title": "Dune: Prophecy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Dune:%20Prophecy",
-        "pubdate": "Sun, 17 Nov 2024 15:00:00 +0200"
-    },
-    {
         "title": "Xi Jinping",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Xi%20Jinping",
         "pubdate": "Sun, 17 Nov 2024 19:00:00 +0200"
     },
     {
-        "title": "Gazprom",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Gazprom",
-        "pubdate": "Sun, 17 Nov 2024 10:00:00 +0200"
+        "title": "Dune: Prophecy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Dune:%20Prophecy",
+        "pubdate": "Sun, 17 Nov 2024 15:00:00 +0200"
+    },
+    {
+        "title": "Sinner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sinner",
+        "pubdate": "Sun, 17 Nov 2024 18:00:00 +0200"
+    },
+    {
+        "title": "17 noiembrie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#17%20noiembrie",
+        "pubdate": "Sun, 17 Nov 2024 17:00:00 +0200"
     },
     {
         "title": "Conor McGregor",
@@ -40,9 +45,9 @@
         "pubdate": "Sun, 17 Nov 2024 18:00:00 +0200"
     },
     {
-        "title": "Sinner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sinner",
-        "pubdate": "Sun, 17 Nov 2024 18:00:00 +0200"
+        "title": "Gazprom",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Gazprom",
+        "pubdate": "Sun, 17 Nov 2024 10:00:00 +0200"
     },
     {
         "title": "Meci romania Kosovo",
@@ -70,14 +75,14 @@
         "pubdate": "Sat, 16 Nov 2024 09:00:00 +0200"
     },
     {
-        "title": "UEFA Nations League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#UEFA%20Nations%20League",
-        "pubdate": "Sat, 16 Nov 2024 20:00:00 +0200"
-    },
-    {
         "title": "ROMANIA Cipru",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#ROMANIA%20Cipru",
         "pubdate": "Sat, 16 Nov 2024 00:00:00 +0200"
+    },
+    {
+        "title": "UEFA Nations League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#UEFA%20Nations%20League",
+        "pubdate": "Sat, 16 Nov 2024 20:00:00 +0200"
     },
     {
         "title": "Sport",
@@ -93,10 +98,5 @@
         "title": "Albania",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Albania",
         "pubdate": "Sat, 16 Nov 2024 01:00:00 +0200"
-    },
-    {
-        "title": "Olaf Scholz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Olaf%20Scholz",
-        "pubdate": "Sat, 16 Nov 2024 12:00:00 +0200"
     }
 ]
