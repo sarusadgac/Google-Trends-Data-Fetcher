@@ -1,5 +1,10 @@
 [
     {
+        "title": "Jon Jones",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Jon%20Jones",
+        "pubdate": "Sun, 17 Nov 2024 10:00:00 +0100"
+    },
+    {
         "title": "Ultima noche en milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ultima%20noche%20en%20milan",
         "pubdate": "Sun, 17 Nov 2024 01:00:00 +0100"
@@ -70,8 +75,8 @@
         "pubdate": "Sat, 16 Nov 2024 19:00:00 +0100"
     },
     {
-        "title": "EIBAR  Racing Ferrol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#EIBAR%20%20Racing%20Ferrol",
+        "title": "Eibar  Racing Ferrol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Eibar%20%20Racing%20Ferrol",
         "pubdate": "Sat, 16 Nov 2024 15:00:00 +0100"
     },
     {
@@ -93,10 +98,5 @@
         "title": "Pete Hegseth",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Pete%20Hegseth",
         "pubdate": "Sat, 16 Nov 2024 07:00:00 +0100"
-    },
-    {
-        "title": "Amanda Serrano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Amanda%20Serrano",
-        "pubdate": "Sat, 16 Nov 2024 11:00:00 +0100"
     }
 ]
