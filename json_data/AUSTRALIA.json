@@ -90,13 +90,13 @@
         "pubdate": "Sat, 16 Nov 2024 16:00:00 +1100"
     },
     {
-        "title": "MotoGP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#MotoGP",
-        "pubdate": "Sat, 16 Nov 2024 06:00:00 +1100"
-    },
-    {
         "title": "CFS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#CFS",
         "pubdate": "Sat, 16 Nov 2024 11:00:00 +1100"
+    },
+    {
+        "title": "Supercars",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Supercars",
+        "pubdate": "Sat, 16 Nov 2024 07:00:00 +1100"
     }
 ]
