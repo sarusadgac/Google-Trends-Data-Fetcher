@@ -1,9 +1,8 @@
-ALES
 Almanya
+ALES
+Niğde çikolatası
 Yusuf Tekin
 Abdülkerim Bardakcı
-Niğde çikolatası
-KAAN
 Elazığspor - Diyarbekirspor
 Gökhan Sazdağı
 Montella
@@ -18,3 +17,4 @@ Teğmen Ebru Eroğlu
 Pogba
 Polis alımı
 Türkiye Karadağ maçı
+TRT
