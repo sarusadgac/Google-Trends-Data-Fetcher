@@ -5,6 +5,11 @@
         "pubdate": "Sun, 17 Nov 2024 09:00:00 +0100"
     },
     {
+        "title": "Zevenheuvelenloop",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Zevenheuvelenloop",
+        "pubdate": "Sun, 17 Nov 2024 21:00:00 +0100"
+    },
+    {
         "title": "Duitsland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Duitsland",
         "pubdate": "Sun, 17 Nov 2024 02:00:00 +0100"
@@ -45,19 +50,9 @@
         "pubdate": "Sat, 16 Nov 2024 23:00:00 +0100"
     },
     {
-        "title": "Ajax  Utrecht",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax%20%20Utrecht",
-        "pubdate": "Sat, 16 Nov 2024 18:00:00 +0100"
-    },
-    {
         "title": "Zwarte Piet",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Zwarte%20Piet",
         "pubdate": "Sat, 16 Nov 2024 14:00:00 +0100"
-    },
-    {
-        "title": "Polarisatie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Polarisatie",
-        "pubdate": "Sat, 16 Nov 2024 21:00:00 +0100"
     },
     {
         "title": "Jake Paul Mike Tyson",
@@ -98,5 +93,10 @@
         "title": "Mike Tyson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Mike%20Tyson",
         "pubdate": "Thu, 14 Nov 2024 20:00:00 +0100"
+    },
+    {
+        "title": "Jake Paul",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jake%20Paul",
+        "pubdate": "Thu, 14 Nov 2024 19:00:00 +0100"
     }
 ]
