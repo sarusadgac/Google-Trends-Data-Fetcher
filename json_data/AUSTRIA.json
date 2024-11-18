@@ -15,6 +15,11 @@
         "pubdate": "Sun, 17 Nov 2024 19:00:00 +0100"
     },
     {
+        "title": "Bluesky",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bluesky",
+        "pubdate": "Sun, 17 Nov 2024 20:00:00 +0100"
+    },
+    {
         "title": "Österreich",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#%C3%96sterreich",
         "pubdate": "Sun, 17 Nov 2024 19:00:00 +0100"
@@ -93,10 +98,5 @@
         "title": "Goldene Henne",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Goldene%20Henne",
         "pubdate": "Sun, 17 Nov 2024 02:00:00 +0100"
-    },
-    {
-        "title": "Nader Jindaoui",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Nader%20Jindaoui",
-        "pubdate": "Sun, 17 Nov 2024 22:00:00 +0100"
     }
 ]

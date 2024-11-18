@@ -7,7 +7,6 @@ Torbjørn Heggem
 Tv2.no Farmen
 Egil Selvik
 Nesbyen
-Vladimir Smirnov
 Mia Rusthen
 Petter Northug
 Lucas Braathen
@@ -18,3 +17,4 @@ Ida Gran-Jansen
 Casper Ruud
 Therese Johaug
 Desta
+Smp
