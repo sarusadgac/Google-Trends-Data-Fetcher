@@ -65,19 +65,9 @@
         "pubdate": "Sun, 17 Nov 2024 22:00:00 +0100"
     },
     {
-        "title": "Dani benitez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Dani%20benitez",
-        "pubdate": "Sun, 17 Nov 2024 22:00:00 +0100"
-    },
-    {
         "title": "Maria Dolores Pradera",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Maria%20Dolores%20Pradera",
         "pubdate": "Sun, 17 Nov 2024 22:00:00 +0100"
-    },
-    {
-        "title": "Iñaki Urdangarin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#I%C3%B1aki%20Urdangarin",
-        "pubdate": "Sun, 17 Nov 2024 16:00:00 +0100"
     },
     {
         "title": "Nadia Comaneci",
@@ -97,6 +87,16 @@
     {
         "title": "Barça - Valencia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Bar%C3%A7a%20-%20Valencia",
+        "pubdate": "Sun, 17 Nov 2024 19:00:00 +0100"
+    },
+    {
+        "title": "El cover",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#El%20cover",
+        "pubdate": "Sun, 17 Nov 2024 23:00:00 +0100"
+    },
+    {
+        "title": "Cartagena  SD Huesca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Cartagena%20%20SD%20Huesca",
         "pubdate": "Sun, 17 Nov 2024 19:00:00 +0100"
     }
 ]
