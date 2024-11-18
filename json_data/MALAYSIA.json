@@ -25,6 +25,11 @@
         "pubdate": "Mon, 18 Nov 2024 10:00:00 +0800"
     },
     {
+        "title": "David Lynch",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#David%20Lynch",
+        "pubdate": "Mon, 18 Nov 2024 12:00:00 +0800"
+    },
+    {
         "title": "Knox Jolie-Pitt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Knox%20Jolie-Pitt",
         "pubdate": "Mon, 18 Nov 2024 18:00:00 +0800"
@@ -93,10 +98,5 @@
         "title": "Australia vs Pakistan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Australia%20vs%20Pakistan",
         "pubdate": "Sat, 16 Nov 2024 22:00:00 +0800"
-    },
-    {
-        "title": "UFC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#UFC",
-        "pubdate": "Sat, 16 Nov 2024 10:00:00 +0800"
     }
 ]
