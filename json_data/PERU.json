@@ -25,11 +25,6 @@
         "pubdate": "Sun, 17 Nov 2024 00:00:00 -0500"
     },
     {
-        "title": "Actor Arturo García Tenorio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Actor%20Arturo%20Garc%C3%ADa%20Tenorio",
-        "pubdate": "Sun, 17 Nov 2024 12:00:00 -0500"
-    },
-    {
         "title": "San Lorenzo  Racing",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#San%20Lorenzo%20%20Racing",
         "pubdate": "Sun, 17 Nov 2024 17:00:00 -0500"
@@ -98,5 +93,10 @@
         "title": "Miss Universo 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Miss%20Universo%202024",
         "pubdate": "Sat, 16 Nov 2024 20:00:00 -0500"
+    },
+    {
+        "title": "UFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#UFC",
+        "pubdate": "Sat, 16 Nov 2024 01:00:00 -0500"
     }
 ]

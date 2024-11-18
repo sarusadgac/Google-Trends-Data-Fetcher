@@ -5,6 +5,11 @@
         "pubdate": "Mon, 18 Nov 2024 05:00:00 +0100"
     },
     {
+        "title": "CV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#CV",
+        "pubdate": "Mon, 18 Nov 2024 01:00:00 +0100"
+    },
+    {
         "title": "Anna Cieślak",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Anna%20Cie%C5%9Blak",
         "pubdate": "Mon, 18 Nov 2024 00:00:00 +0100"
@@ -12,7 +17,7 @@
     {
         "title": "Taniec z gwiazdami",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Taniec%20z%20gwiazdami",
-        "pubdate": "Sun, 17 Nov 2024 19:00:00 +0100"
+        "pubdate": "Sun, 17 Nov 2024 17:00:00 +0100"
     },
     {
         "title": "Włochy – Francja",
@@ -30,8 +35,8 @@
         "pubdate": "Sun, 17 Nov 2024 04:00:00 +0100"
     },
     {
-        "title": "Żugaj",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#%C5%BBugaj",
+        "title": "Wojciech Kucina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Wojciech%20Kucina",
         "pubdate": "Sun, 17 Nov 2024 22:00:00 +0100"
     },
     {
@@ -55,14 +60,14 @@
         "pubdate": "Sun, 17 Nov 2024 22:00:00 +0100"
     },
     {
-        "title": "Joker",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Joker",
-        "pubdate": "Sun, 17 Nov 2024 23:00:00 +0100"
-    },
-    {
         "title": "ATACMS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#ATACMS",
         "pubdate": "Sun, 17 Nov 2024 21:00:00 +0100"
+    },
+    {
+        "title": "Joker",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Joker",
+        "pubdate": "Sun, 17 Nov 2024 23:00:00 +0100"
     },
     {
         "title": "MasterChef",
@@ -80,6 +85,11 @@
         "pubdate": "Sun, 17 Nov 2024 00:00:00 +0100"
     },
     {
+        "title": "Komenda",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Komenda",
+        "pubdate": "Sun, 17 Nov 2024 20:00:00 +0100"
+    },
+    {
         "title": "Sarnat",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Sarnat",
         "pubdate": "Sun, 17 Nov 2024 16:00:00 +0100"
@@ -88,15 +98,5 @@
         "title": "Phil De Fries",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Phil%20De%20Fries",
         "pubdate": "Sun, 17 Nov 2024 00:00:00 +0100"
-    },
-    {
-        "title": "Anna Seniuk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Anna%20Seniuk",
-        "pubdate": "Sun, 17 Nov 2024 18:00:00 +0100"
-    },
-    {
-        "title": "Nowa Era",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Nowa%20Era",
-        "pubdate": "Sun, 17 Nov 2024 19:00:00 +0100"
     }
 ]

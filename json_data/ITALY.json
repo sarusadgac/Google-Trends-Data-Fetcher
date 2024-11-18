@@ -15,6 +15,11 @@
         "pubdate": "Mon, 18 Nov 2024 05:00:00 +0100"
     },
     {
+        "title": "Barella",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Barella",
+        "pubdate": "Mon, 18 Nov 2024 00:00:00 +0100"
+    },
+    {
         "title": "Parigi può attendere",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Parigi%20pu%C3%B2%20attendere",
         "pubdate": "Mon, 18 Nov 2024 00:00:00 +0100"
@@ -75,14 +80,14 @@
         "pubdate": "Sun, 17 Nov 2024 22:00:00 +0100"
     },
     {
-        "title": "Tananai",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Tananai",
-        "pubdate": "Sun, 17 Nov 2024 16:00:00 +0100"
-    },
-    {
         "title": "Achille Lauro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Achille%20Lauro",
         "pubdate": "Sun, 17 Nov 2024 17:00:00 +0100"
+    },
+    {
+        "title": "Tananai",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Tananai",
+        "pubdate": "Sun, 17 Nov 2024 16:00:00 +0100"
     },
     {
         "title": "Elettra Lamborghini",
@@ -93,10 +98,5 @@
         "title": "Rai play",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Rai%20play",
         "pubdate": "Sun, 17 Nov 2024 22:00:00 +0100"
-    },
-    {
-        "title": "Francesca Tocca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Francesca%20Tocca",
-        "pubdate": "Sun, 17 Nov 2024 19:00:00 +0100"
     }
 ]
