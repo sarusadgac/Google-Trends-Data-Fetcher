@@ -1,8 +1,13 @@
 [
     {
-        "title": "Demi Moore",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Demi%20Moore",
-        "pubdate": "Mon, 18 Nov 2024 02:00:00 -0800"
+        "title": "День рождения Деда Мороза",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%94%D0%B5%D0%BD%D1%8C%20%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%94%D0%B5%D0%B4%D0%B0%20%D0%9C%D0%BE%D1%80%D0%BE%D0%B7%D0%B0",
+        "pubdate": "Mon, 18 Nov 2024 09:00:00 +0300"
+    },
+    {
+        "title": "天文台",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%A4%A9%E6%96%87%E5%8F%B0",
+        "pubdate": "Mon, 18 Nov 2024 12:00:00 +0800"
     },
     {
         "title": "Ongoing incident at Dublin Airport",
@@ -10,29 +15,9 @@
         "pubdate": "Mon, 18 Nov 2024 08:00:00 +0000"
     },
     {
-        "title": "День рождения Деда Мороза",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%94%D0%B5%D0%BD%D1%8C%20%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%94%D0%B5%D0%B4%D0%B0%20%D0%9C%D0%BE%D1%80%D0%BE%D0%B7%D0%B0",
-        "pubdate": "Mon, 18 Nov 2024 09:00:00 +0300"
-    },
-    {
-        "title": "Charles Dumont",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Charles%20Dumont",
-        "pubdate": "Mon, 18 Nov 2024 10:00:00 +0100"
-    },
-    {
-        "title": "天文台",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%A4%A9%E6%96%87%E5%8F%B0",
-        "pubdate": "Mon, 18 Nov 2024 10:00:00 +0800"
-    },
-    {
         "title": "藤平尚真",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E8%97%A4%E5%B9%B3%E5%B0%9A%E7%9C%9F",
         "pubdate": "Mon, 18 Nov 2024 00:00:00 +0900"
-    },
-    {
-        "title": "Italy vs France",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Italy%20vs%20France",
-        "pubdate": "Mon, 18 Nov 2024 01:30:00 +0530"
     },
     {
         "title": "Russland",
@@ -40,49 +25,34 @@
         "pubdate": "Mon, 18 Nov 2024 00:00:00 +0100"
     },
     {
+        "title": "Demi Moore",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Demi%20Moore",
+        "pubdate": "Mon, 18 Nov 2024 02:00:00 -0800"
+    },
+    {
+        "title": "Italy vs France",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Italy%20vs%20France",
+        "pubdate": "Mon, 18 Nov 2024 01:30:00 +0530"
+    },
+    {
+        "title": "Charles Dumont",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Charles%20Dumont",
+        "pubdate": "Mon, 18 Nov 2024 10:00:00 +0100"
+    },
+    {
         "title": "Matt Gaetz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Matt%20Gaetz",
         "pubdate": "Mon, 18 Nov 2024 02:00:00 +0300"
     },
     {
-        "title": "Alan Jones",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Alan%20Jones",
-        "pubdate": "Mon, 18 Nov 2024 09:00:00 +1100"
+        "title": "삼성전자 주가",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90%20%EC%A3%BC%EA%B0%80",
+        "pubdate": "Mon, 18 Nov 2024 12:00:00 +0900"
     },
     {
-        "title": "Joe Biden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Joe%20Biden",
-        "pubdate": "Mon, 18 Nov 2024 10:00:00 +0000"
-    },
-    {
-        "title": "Biden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Biden",
-        "pubdate": "Mon, 18 Nov 2024 08:00:00 +0100"
-    },
-    {
-        "title": "Neymar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Neymar",
-        "pubdate": "Mon, 18 Nov 2024 08:00:00 +0100"
-    },
-    {
-        "title": "Pogrom",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Pogrom",
-        "pubdate": "Mon, 18 Nov 2024 08:00:00 +0100"
-    },
-    {
-        "title": "China",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#China",
-        "pubdate": "Mon, 18 Nov 2024 02:00:00 -0500"
-    },
-    {
-        "title": "DAVID Norris",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#DAVID%20Norris",
-        "pubdate": "Mon, 18 Nov 2024 00:00:00 +0000"
-    },
-    {
-        "title": "Pete Hegseth",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Pete%20Hegseth",
-        "pubdate": "Mon, 18 Nov 2024 08:00:00 +0100"
+        "title": "Power",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Power",
+        "pubdate": "Mon, 18 Nov 2024 12:00:00 +0200"
     },
     {
         "title": "América  Bucaramanga",
@@ -90,13 +60,43 @@
         "pubdate": "Sun, 17 Nov 2024 12:00:00 -0500"
     },
     {
-        "title": "RMF FM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#RMF%20FM",
-        "pubdate": "Mon, 18 Nov 2024 09:00:00 +0100"
+        "title": "ZUS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#ZUS",
+        "pubdate": "Mon, 18 Nov 2024 12:00:00 +0100"
     },
     {
-        "title": "England vs Ireland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#England%20vs%20Ireland",
-        "pubdate": "Mon, 18 Nov 2024 01:00:00 +0800"
+        "title": "Nations League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Nations%20League",
+        "pubdate": "Mon, 18 Nov 2024 05:00:00 +0100"
+    },
+    {
+        "title": "DAVID Norris",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#DAVID%20Norris",
+        "pubdate": "Mon, 18 Nov 2024 00:00:00 +0000"
+    },
+    {
+        "title": "Biden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Biden",
+        "pubdate": "Mon, 18 Nov 2024 08:00:00 +0100"
+    },
+    {
+        "title": "Romania Cipru",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Romania%20Cipru",
+        "pubdate": "Mon, 18 Nov 2024 01:00:00 +0200"
+    },
+    {
+        "title": "Empire of The Sun",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Empire%20of%20The%20Sun",
+        "pubdate": "Mon, 18 Nov 2024 01:00:00 -0600"
+    },
+    {
+        "title": "תמיר גל",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%AA%D7%9E%D7%99%D7%A8%20%D7%92%D7%9C",
+        "pubdate": "Mon, 18 Nov 2024 02:00:00 +0200"
+    },
+    {
+        "title": "Baráth Kata",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bar%C3%A1th%20Kata",
+        "pubdate": "Mon, 18 Nov 2024 07:00:00 +0100"
     }
 ]

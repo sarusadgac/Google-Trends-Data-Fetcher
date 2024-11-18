@@ -30,6 +30,11 @@
         "pubdate": "Mon, 18 Nov 2024 04:00:00 +0700"
     },
     {
+        "title": "Anh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Anh",
+        "pubdate": "Mon, 18 Nov 2024 08:00:00 +0700"
+    },
+    {
         "title": "19/11 là ngày",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#19/11%20l%C3%A0%20ng%C3%A0y",
         "pubdate": "Mon, 18 Nov 2024 15:00:00 +0700"
@@ -62,7 +67,7 @@
     {
         "title": "Lời chúc 20/11",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#L%E1%BB%9Di%20ch%C3%BAc%2020/11",
-        "pubdate": "Sun, 17 Nov 2024 19:00:00 +0700"
+        "pubdate": "Sun, 17 Nov 2024 23:00:00 +0700"
     },
     {
         "title": "FPT",
@@ -73,6 +78,11 @@
         "title": "Quả xổ số miền Nam ngày 16 tháng 11",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Qu%E1%BA%A3%20x%E1%BB%95%20s%E1%BB%91%20mi%E1%BB%81n%20Nam%20ng%C3%A0y%2016%20th%C3%A1ng%2011",
         "pubdate": "Sun, 17 Nov 2024 09:00:00 +0700"
+    },
+    {
+        "title": "Xổ số Vietlott Mega",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#X%E1%BB%95%20s%E1%BB%91%20Vietlott%20Mega",
+        "pubdate": "Sun, 17 Nov 2024 08:00:00 +0700"
     },
     {
         "title": "Hà Lan vs",
@@ -88,15 +98,5 @@
         "title": "Giá vàng SJC 17/11",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Gi%C3%A1%20v%C3%A0ng%20SJC%2017/11",
         "pubdate": "Sun, 17 Nov 2024 09:00:00 +0700"
-    },
-    {
-        "title": "Xổ số Vietlott Mega",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#X%E1%BB%95%20s%E1%BB%91%20Vietlott%20Mega",
-        "pubdate": "Sun, 17 Nov 2024 08:00:00 +0700"
-    },
-    {
-        "title": "Đức vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#%C4%90%E1%BB%A9c%20vs",
-        "pubdate": "Sun, 17 Nov 2024 02:00:00 +0700"
     }
 ]

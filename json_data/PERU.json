@@ -15,19 +15,9 @@
         "pubdate": "Sun, 17 Nov 2024 14:00:00 -0500"
     },
     {
-        "title": "Telemundo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Telemundo",
-        "pubdate": "Sun, 17 Nov 2024 00:00:00 -0500"
-    },
-    {
         "title": "Tatiana Calmell",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Tatiana%20Calmell",
         "pubdate": "Sun, 17 Nov 2024 00:00:00 -0500"
-    },
-    {
-        "title": "Derechos del niño",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Derechos%20del%20ni%C3%B1o",
-        "pubdate": "Sun, 17 Nov 2024 20:00:00 -0500"
     },
     {
         "title": "Brasil",
@@ -60,14 +50,14 @@
         "pubdate": "Sun, 17 Nov 2024 20:00:00 -0500"
     },
     {
-        "title": "China suarez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#China%20suarez",
-        "pubdate": "Sun, 17 Nov 2024 15:00:00 -0500"
-    },
-    {
         "title": "Nadia Comaneci",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Nadia%20Comaneci",
         "pubdate": "Sun, 17 Nov 2024 22:00:00 -0500"
+    },
+    {
+        "title": "China suarez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#China%20suarez",
+        "pubdate": "Sun, 17 Nov 2024 15:00:00 -0500"
     },
     {
         "title": "Jannik Sinner",
@@ -98,5 +88,15 @@
         "title": "Miss Universo 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Miss%20Universo%202024",
         "pubdate": "Sat, 16 Nov 2024 20:00:00 -0500"
+    },
+    {
+        "title": "UFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#UFC",
+        "pubdate": "Sat, 16 Nov 2024 01:00:00 -0500"
+    },
+    {
+        "title": "Países Bajos  Hungría",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Pa%C3%ADses%20Bajos%20%20Hungr%C3%ADa",
+        "pubdate": "Sat, 16 Nov 2024 14:00:00 -0500"
     }
 ]

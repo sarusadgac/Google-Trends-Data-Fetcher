@@ -5,6 +5,11 @@
         "pubdate": "Mon, 18 Nov 2024 00:00:00 +0100"
     },
     {
+        "title": "Buß- und Bettag",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bu%C3%9F-%20und%20Bettag",
+        "pubdate": "Mon, 18 Nov 2024 08:00:00 +0100"
+    },
+    {
         "title": "Anni Albers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Anni%20Albers",
         "pubdate": "Mon, 18 Nov 2024 08:00:00 +0100"
@@ -28,11 +33,6 @@
         "title": "Fußball",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fu%C3%9Fball",
         "pubdate": "Sun, 17 Nov 2024 08:00:00 +0100"
-    },
-    {
-        "title": "Szalai",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Szalai",
-        "pubdate": "Sun, 17 Nov 2024 00:00:00 +0100"
     },
     {
         "title": "Pistorius",
@@ -75,11 +75,6 @@
         "pubdate": "Sat, 16 Nov 2024 22:00:00 +0100"
     },
     {
-        "title": "Musiala",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Musiala",
-        "pubdate": "Sat, 16 Nov 2024 22:00:00 +0100"
-    },
-    {
         "title": "FDP",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FDP",
         "pubdate": "Sat, 16 Nov 2024 17:00:00 +0100"
@@ -98,5 +93,10 @@
         "title": "Jake Paul",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Jake%20Paul",
         "pubdate": "Fri, 15 Nov 2024 10:00:00 +0100"
+    },
+    {
+        "title": "Marine Le Pen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Marine%20Le%20Pen",
+        "pubdate": "Thu, 14 Nov 2024 18:00:00 +0100"
     }
 ]

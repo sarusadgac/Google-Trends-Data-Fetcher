@@ -30,6 +30,16 @@
         "pubdate": "Mon, 18 Nov 2024 00:00:00 +0100"
     },
     {
+        "title": "Torrente",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Torrente",
+        "pubdate": "Mon, 18 Nov 2024 02:00:00 +0100"
+    },
+    {
+        "title": "Ayoze",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ayoze",
+        "pubdate": "Mon, 18 Nov 2024 11:00:00 +0100"
+    },
+    {
         "title": "Gobierno de Canarias",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Gobierno%20de%20Canarias",
         "pubdate": "Mon, 18 Nov 2024 09:00:00 +0100"
@@ -38,11 +48,6 @@
         "title": "Risto Mejide",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Risto%20Mejide",
         "pubdate": "Mon, 18 Nov 2024 09:00:00 +0100"
-    },
-    {
-        "title": "Ayoze",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ayoze",
-        "pubdate": "Mon, 18 Nov 2024 11:00:00 +0100"
     },
     {
         "title": "Italia  Francia",
@@ -93,10 +98,5 @@
         "title": "Maria Dolores Pradera",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Maria%20Dolores%20Pradera",
         "pubdate": "Sun, 17 Nov 2024 22:00:00 +0100"
-    },
-    {
-        "title": "Inglaterra  Irlanda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Inglaterra%20%20Irlanda",
-        "pubdate": "Sun, 17 Nov 2024 18:00:00 +0100"
     }
 ]
