@@ -1,5 +1,10 @@
 [
     {
+        "title": "Peru vs Argentina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Peru%20vs%20Argentina",
+        "pubdate": "Mon, 18 Nov 2024 08:00:00 -0500"
+    },
+    {
         "title": "Santos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Santos",
         "pubdate": "Mon, 18 Nov 2024 07:00:00 -0500"
@@ -65,6 +70,16 @@
         "pubdate": "Sun, 17 Nov 2024 15:00:00 -0500"
     },
     {
+        "title": "Los Derechos del Niño",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Los%20Derechos%20del%20Ni%C3%B1o",
+        "pubdate": "Sun, 17 Nov 2024 21:00:00 -0500"
+    },
+    {
+        "title": "Medellín  Atlético Nacional",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Medell%C3%ADn%20%20Atl%C3%A9tico%20Nacional",
+        "pubdate": "Sun, 17 Nov 2024 23:00:00 -0500"
+    },
+    {
         "title": "Jannik Sinner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Jannik%20Sinner",
         "pubdate": "Sun, 17 Nov 2024 13:00:00 -0500"
@@ -75,11 +90,6 @@
         "pubdate": "Sun, 17 Nov 2024 17:00:00 -0500"
     },
     {
-        "title": "Medellín  Atlético Nacional",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Medell%C3%ADn%20%20Atl%C3%A9tico%20Nacional",
-        "pubdate": "Sun, 17 Nov 2024 23:00:00 -0500"
-    },
-    {
         "title": "Janick Maceta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Janick%20Maceta",
         "pubdate": "Sun, 17 Nov 2024 14:00:00 -0500"
@@ -88,15 +98,5 @@
         "title": "Franco Colapinto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Franco%20Colapinto",
         "pubdate": "Sun, 17 Nov 2024 21:00:00 -0500"
-    },
-    {
-        "title": "Miss Universo 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Miss%20Universo%202024",
-        "pubdate": "Sat, 16 Nov 2024 20:00:00 -0500"
-    },
-    {
-        "title": "UFC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#UFC",
-        "pubdate": "Sat, 16 Nov 2024 01:00:00 -0500"
     }
 ]

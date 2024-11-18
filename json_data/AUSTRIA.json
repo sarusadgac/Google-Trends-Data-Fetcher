@@ -1,7 +1,7 @@
 [
     {
-        "title": "Biden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Biden",
+        "title": "Joe Biden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Joe%20Biden",
         "pubdate": "Mon, 18 Nov 2024 02:00:00 +0100"
     },
     {
@@ -15,8 +15,8 @@
         "pubdate": "Mon, 18 Nov 2024 08:00:00 +0100"
     },
     {
-        "title": "Vladimir Shklyarov",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Vladimir%20Shklyarov",
+        "title": "Anna Wróbel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Anna%20Wr%C3%B3bel",
         "pubdate": "Mon, 18 Nov 2024 12:00:00 +0100"
     },
     {
@@ -28,16 +28,6 @@
         "title": "Anzeigenhauptmeister",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Anzeigenhauptmeister",
         "pubdate": "Mon, 18 Nov 2024 12:00:00 +0100"
-    },
-    {
-        "title": "Anna Wróbel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Anna%20Wr%C3%B3bel",
-        "pubdate": "Mon, 18 Nov 2024 12:00:00 +0100"
-    },
-    {
-        "title": "Iris Berben",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Iris%20Berben",
-        "pubdate": "Mon, 18 Nov 2024 01:00:00 +0100"
     },
     {
         "title": "Bluesky",
@@ -70,6 +60,11 @@
         "pubdate": "Sun, 17 Nov 2024 19:00:00 +0100"
     },
     {
+        "title": "Steiermark Wahl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Steiermark%20Wahl",
+        "pubdate": "Sun, 17 Nov 2024 17:00:00 +0100"
+    },
+    {
         "title": "Robert Habeck",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Robert%20Habeck",
         "pubdate": "Sun, 17 Nov 2024 16:00:00 +0100"
@@ -98,5 +93,10 @@
         "title": "Jorge Martin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Jorge%20Martin",
         "pubdate": "Sun, 17 Nov 2024 15:00:00 +0100"
+    },
+    {
+        "title": "Sesko",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sesko",
+        "pubdate": "Sun, 17 Nov 2024 19:00:00 +0100"
     }
 ]
