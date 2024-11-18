@@ -15,6 +15,11 @@
         "pubdate": "Mon, 18 Nov 2024 09:00:00 +0100"
     },
     {
+        "title": "Jakub Štáfek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jakub%20%C5%A0t%C3%A1fek",
+        "pubdate": "Mon, 18 Nov 2024 10:00:00 +0100"
+    },
+    {
         "title": "Český Den boje za svobodu a demokracii",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C4%8Cesk%C3%BD%20Den%20boje%20za%20svobodu%20a%20demokracii",
         "pubdate": "Sun, 17 Nov 2024 01:00:00 +0100"
@@ -33,11 +38,6 @@
         "title": "UFC 309",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#UFC%20309",
         "pubdate": "Sun, 17 Nov 2024 07:00:00 +0100"
-    },
-    {
-        "title": "Liga národů",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Liga%20n%C3%A1rod%C5%AF",
-        "pubdate": "Sun, 17 Nov 2024 08:00:00 +0100"
     },
     {
         "title": "Petr Fiala",
@@ -90,13 +90,13 @@
         "pubdate": "Sun, 17 Nov 2024 19:00:00 +0100"
     },
     {
-        "title": "Narodni trida",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Narodni%20trida",
-        "pubdate": "Sun, 17 Nov 2024 18:00:00 +0100"
-    },
-    {
         "title": "Topolanek",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Topolanek",
         "pubdate": "Sun, 17 Nov 2024 14:00:00 +0100"
+    },
+    {
+        "title": "Prvni adventni nedele",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Prvni%20adventni%20nedele",
+        "pubdate": "Sun, 17 Nov 2024 20:00:00 +0100"
     }
 ]
