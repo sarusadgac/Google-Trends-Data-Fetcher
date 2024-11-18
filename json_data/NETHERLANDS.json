@@ -35,11 +35,6 @@
         "pubdate": "Sat, 16 Nov 2024 03:00:00 +0100"
     },
     {
-        "title": "Oranje",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Oranje",
-        "pubdate": "Sat, 16 Nov 2024 20:00:00 +0100"
-    },
-    {
         "title": "MotoGP",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#MotoGP",
         "pubdate": "Sat, 16 Nov 2024 15:00:00 +0100"
@@ -98,5 +93,10 @@
         "title": "Wie is de Mol",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Wie%20is%20de%20Mol",
         "pubdate": "Thu, 14 Nov 2024 11:00:00 +0100"
+    },
+    {
+        "title": "Jong Oranje",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jong%20Oranje",
+        "pubdate": "Thu, 14 Nov 2024 18:00:00 +0100"
     }
 ]
