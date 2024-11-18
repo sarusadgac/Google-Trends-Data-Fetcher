@@ -10,14 +10,14 @@
         "pubdate": "Mon, 18 Nov 2024 09:00:00 -0500"
     },
     {
-        "title": "Ajax",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ajax",
-        "pubdate": "Mon, 18 Nov 2024 06:00:00 -0500"
-    },
-    {
         "title": "CNH",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#CNH",
         "pubdate": "Mon, 18 Nov 2024 07:00:00 -0500"
+    },
+    {
+        "title": "Ajax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ajax",
+        "pubdate": "Mon, 18 Nov 2024 06:00:00 -0500"
     },
     {
         "title": "China",
@@ -30,9 +30,9 @@
         "pubdate": "Mon, 18 Nov 2024 08:00:00 -0500"
     },
     {
-        "title": "Tailandia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Tailandia",
-        "pubdate": "Mon, 18 Nov 2024 07:00:00 -0500"
+        "title": "Xi Jinping",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Xi%20Jinping",
+        "pubdate": "Mon, 18 Nov 2024 11:00:00 -0500"
     },
     {
         "title": "Santos x CRB",
@@ -95,8 +95,8 @@
         "pubdate": "Sun, 17 Nov 2024 14:00:00 -0500"
     },
     {
-        "title": "Elon Musk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Elon%20Musk",
-        "pubdate": "Sun, 17 Nov 2024 12:00:00 -0500"
+        "title": "Chapecoense",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Chapecoense",
+        "pubdate": "Sun, 17 Nov 2024 11:00:00 -0500"
     }
 ]

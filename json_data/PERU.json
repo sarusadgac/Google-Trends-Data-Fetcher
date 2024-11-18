@@ -20,11 +20,6 @@
         "pubdate": "Mon, 18 Nov 2024 10:00:00 -0500"
     },
     {
-        "title": "Santos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Santos",
-        "pubdate": "Mon, 18 Nov 2024 07:00:00 -0500"
-    },
-    {
         "title": "Italia  Francia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Italia%20%20Francia",
         "pubdate": "Sun, 17 Nov 2024 11:00:00 -0500"
@@ -55,6 +50,11 @@
         "pubdate": "Sun, 17 Nov 2024 17:00:00 -0500"
     },
     {
+        "title": "Actor Arturo García Tenorio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Actor%20Arturo%20Garc%C3%ADa%20Tenorio",
+        "pubdate": "Sun, 17 Nov 2024 12:00:00 -0500"
+    },
+    {
         "title": "San Lorenzo  Racing",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#San%20Lorenzo%20%20Racing",
         "pubdate": "Sun, 17 Nov 2024 17:00:00 -0500"
@@ -63,6 +63,11 @@
         "title": "Noruega  Kazajistán",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Noruega%20%20Kazajist%C3%A1n",
         "pubdate": "Sun, 17 Nov 2024 13:00:00 -0500"
+    },
+    {
+        "title": "Neymar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Neymar",
+        "pubdate": "Sun, 17 Nov 2024 20:00:00 -0500"
     },
     {
         "title": "Microondas",
@@ -78,11 +83,6 @@
         "title": "Nadia Comaneci",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Nadia%20Comaneci",
         "pubdate": "Sun, 17 Nov 2024 22:00:00 -0500"
-    },
-    {
-        "title": "Neymar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Neymar",
-        "pubdate": "Sun, 17 Nov 2024 20:00:00 -0500"
     },
     {
         "title": "China suarez",

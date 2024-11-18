@@ -30,11 +30,6 @@
         "pubdate": "Mon, 18 Nov 2024 14:00:00 +1100"
     },
     {
-        "title": "Methanol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Methanol",
-        "pubdate": "Mon, 18 Nov 2024 20:00:00 +1100"
-    },
-    {
         "title": "Supreme Leader Ayatollah Ali Khamenei",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Supreme%20Leader%20Ayatollah%20Ali%20Khamenei",
         "pubdate": "Mon, 18 Nov 2024 22:00:00 +1100"
@@ -83,6 +78,11 @@
         "title": "Rory McIlroy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Rory%20McIlroy",
         "pubdate": "Mon, 18 Nov 2024 00:00:00 +1100"
+    },
+    {
+        "title": "Methanol poisoning",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Methanol%20poisoning",
+        "pubdate": "Mon, 18 Nov 2024 21:00:00 +1100"
     },
     {
         "title": "Charli XCX",
