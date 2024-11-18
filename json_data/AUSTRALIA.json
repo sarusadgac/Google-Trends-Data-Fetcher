@@ -5,11 +5,6 @@
         "pubdate": "Mon, 18 Nov 2024 09:00:00 +1100"
     },
     {
-        "title": "England vs Ireland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#England%20vs%20Ireland",
-        "pubdate": "Mon, 18 Nov 2024 06:00:00 +1100"
-    },
-    {
         "title": "Italy vs France",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Italy%20vs%20France",
         "pubdate": "Mon, 18 Nov 2024 08:00:00 +1100"
@@ -33,11 +28,6 @@
         "title": "CHARLOTTE",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#CHARLOTTE",
         "pubdate": "Mon, 18 Nov 2024 08:00:00 +1100"
-    },
-    {
-        "title": "England Football",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#England%20Football",
-        "pubdate": "Mon, 18 Nov 2024 07:00:00 +1100"
     },
     {
         "title": "Caroline Kennedy",
@@ -90,6 +80,11 @@
         "pubdate": "Mon, 18 Nov 2024 16:00:00 +1100"
     },
     {
+        "title": "Methanol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Methanol",
+        "pubdate": "Mon, 18 Nov 2024 20:00:00 +1100"
+    },
+    {
         "title": "Stipe Miocic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Stipe%20Miocic",
         "pubdate": "Sun, 17 Nov 2024 09:00:00 +1100"
@@ -98,5 +93,10 @@
         "title": "Miss Universe 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Miss%20Universe%202024",
         "pubdate": "Sun, 17 Nov 2024 15:00:00 +1100"
+    },
+    {
+        "title": "Vladimir putin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Vladimir%20putin",
+        "pubdate": "Sun, 17 Nov 2024 00:00:00 +1100"
     }
 ]
