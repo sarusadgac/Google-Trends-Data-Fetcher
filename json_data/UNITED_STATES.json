@@ -25,16 +25,6 @@
         "pubdate": "Mon, 18 Nov 2024 17:00:00 -0800"
     },
     {
-        "title": "Spirit Airlines",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Spirit%20Airlines",
-        "pubdate": "Mon, 18 Nov 2024 09:00:00 -0800"
-    },
-    {
-        "title": "Daniel Jones",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Daniel%20Jones",
-        "pubdate": "Mon, 18 Nov 2024 09:00:00 -0800"
-    },
-    {
         "title": "Game Awards",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Game%20Awards",
         "pubdate": "Mon, 18 Nov 2024 14:00:00 -0800"
@@ -75,9 +65,19 @@
         "pubdate": "Mon, 18 Nov 2024 05:00:00 -0800"
     },
     {
+        "title": "Daniel Jones",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Daniel%20Jones",
+        "pubdate": "Mon, 18 Nov 2024 12:00:00 -0800"
+    },
+    {
         "title": "NFL playoff picture",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#NFL%20playoff%20picture",
         "pubdate": "Mon, 18 Nov 2024 16:00:00 -0800"
+    },
+    {
+        "title": "Seattle Seahawks",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Seattle%20Seahawks",
+        "pubdate": "Mon, 18 Nov 2024 08:00:00 -0800"
     },
     {
         "title": "Angelina Jolie",

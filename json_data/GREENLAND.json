@@ -1,20 +1,5 @@
 [
     {
-        "title": "Slimane",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Slimane",
-        "pubdate": "Tue, 19 Nov 2024 00:00:00 +0100"
-    },
-    {
-        "title": "School closures",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#School%20closures",
-        "pubdate": "Tue, 19 Nov 2024 07:00:00 +0000"
-    },
-    {
-        "title": "Kroatien – Portugal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kroatien%20%E2%80%93%20Portugal",
-        "pubdate": "Mon, 18 Nov 2024 21:00:00 +0100"
-    },
-    {
         "title": "岡田将生",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%B2%A1%E7%94%B0%E5%B0%86%E7%94%9F",
         "pubdate": "Tue, 19 Nov 2024 06:00:00 +0900"
@@ -25,9 +10,19 @@
         "pubdate": "Tue, 19 Nov 2024 00:30:00 +0530"
     },
     {
-        "title": "Texans vs Cowboys",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Texans%20vs%20Cowboys",
-        "pubdate": "Mon, 18 Nov 2024 15:00:00 -0800"
+        "title": "Slimane",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Slimane",
+        "pubdate": "Tue, 19 Nov 2024 00:00:00 +0100"
+    },
+    {
+        "title": "School closures",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#School%20closures",
+        "pubdate": "Tue, 19 Nov 2024 07:00:00 +0000"
+    },
+    {
+        "title": "San Marino",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#San%20Marino",
+        "pubdate": "Tue, 19 Nov 2024 03:00:00 +0100"
     },
     {
         "title": "高畑充希",
@@ -40,54 +35,19 @@
         "pubdate": "Tue, 19 Nov 2024 04:00:00 +0300"
     },
     {
-        "title": "Vlahovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Vlahovic",
-        "pubdate": "Tue, 19 Nov 2024 00:00:00 +0100"
+        "title": "Texans vs Cowboys",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Texans%20vs%20Cowboys",
+        "pubdate": "Mon, 18 Nov 2024 15:00:00 -0800"
     },
     {
-        "title": "Test",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Test",
-        "pubdate": "Tue, 19 Nov 2024 03:00:00 +0100"
+        "title": "Paul Teal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Paul%20Teal",
+        "pubdate": "Tue, 19 Nov 2024 08:00:00 +0100"
     },
     {
-        "title": "Ivana Bacik",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Ivana%20Bacik",
-        "pubdate": "Tue, 19 Nov 2024 00:00:00 +0000"
-    },
-    {
-        "title": "Sean Duffy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Sean%20Duffy",
-        "pubdate": "Tue, 19 Nov 2024 09:00:00 +0200"
-    },
-    {
-        "title": "สเปน",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TH#%E0%B8%AA%E0%B9%80%E0%B8%9B%E0%B8%99",
-        "pubdate": "Tue, 19 Nov 2024 03:00:00 +0700"
-    },
-    {
-        "title": "Carmen Machi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Carmen%20Machi",
-        "pubdate": "Tue, 19 Nov 2024 00:00:00 +0100"
-    },
-    {
-        "title": "Σερβια δανια",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%A3%CE%B5%CF%81%CE%B2%CE%B9%CE%B1%20%CE%B4%CE%B1%CE%BD%CE%B9%CE%B1",
-        "pubdate": "Tue, 19 Nov 2024 00:00:00 +0200"
-    },
-    {
-        "title": "Senzo Meyiwa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Senzo%20Meyiwa",
-        "pubdate": "Tue, 19 Nov 2024 09:00:00 +0200"
-    },
-    {
-        "title": "Warriors",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Warriors",
-        "pubdate": "Tue, 19 Nov 2024 01:00:00 -0500"
-    },
-    {
-        "title": "Peru vs Argentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Peru%20vs%20Argentina",
-        "pubdate": "Mon, 18 Nov 2024 08:00:00 -0500"
+        "title": "Get Ready!",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Get%20Ready!",
+        "pubdate": "Tue, 19 Nov 2024 09:00:00 +0100"
     },
     {
         "title": "Croatia đấu với Bồ Đào Nha",
@@ -95,8 +55,48 @@
         "pubdate": "Tue, 19 Nov 2024 03:00:00 +0700"
     },
     {
-        "title": "Atlético Tucumán  Huracán",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Atl%C3%A9tico%20Tucum%C3%A1n%20%20Hurac%C3%A1n",
-        "pubdate": "Tue, 19 Nov 2024 00:00:00 -0300"
+        "title": "The Game Awards",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#The%20Game%20Awards",
+        "pubdate": "Tue, 19 Nov 2024 02:00:00 +0100"
+    },
+    {
+        "title": "Nayanthara",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Nayanthara",
+        "pubdate": "Tue, 19 Nov 2024 02:00:00 +0800"
+    },
+    {
+        "title": "Game Awards",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Game%20Awards",
+        "pubdate": "Tue, 19 Nov 2024 01:00:00 -0300"
+    },
+    {
+        "title": "Helene Fischer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Helene%20Fischer",
+        "pubdate": "Tue, 19 Nov 2024 05:00:00 +0100"
+    },
+    {
+        "title": "Michał Probierz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Micha%C5%82%20Probierz",
+        "pubdate": "Tue, 19 Nov 2024 09:00:00 +0100"
+    },
+    {
+        "title": "Venezuela vs Chile",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Venezuela%20vs%20Chile",
+        "pubdate": "Tue, 19 Nov 2024 03:00:00 -0500"
+    },
+    {
+        "title": "Tate McRae",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Tate%20McRae",
+        "pubdate": "Tue, 19 Nov 2024 21:00:00 +1300"
+    },
+    {
+        "title": "Blokker",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Blokker",
+        "pubdate": "Mon, 18 Nov 2024 21:00:00 +0100"
+    },
+    {
+        "title": "최시훈",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%B5%9C%EC%8B%9C%ED%9B%88",
+        "pubdate": "Tue, 19 Nov 2024 12:00:00 +0900"
     }
 ]
