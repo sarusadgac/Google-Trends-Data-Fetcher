@@ -1,5 +1,10 @@
 [
     {
+        "title": "San Marino",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#San%20Marino",
+        "pubdate": "Tue, 19 Nov 2024 03:00:00 +0100"
+    },
+    {
         "title": "Russland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Russland",
         "pubdate": "Mon, 18 Nov 2024 01:00:00 +0100"
@@ -93,10 +98,5 @@
         "title": "Ravennaschlucht",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ravennaschlucht",
         "pubdate": "Sun, 10 Nov 2024 11:00:00 +0100"
-    },
-    {
-        "title": "Amsterdam",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Amsterdam",
-        "pubdate": "Fri, 08 Nov 2024 08:00:00 +0100"
     }
 ]

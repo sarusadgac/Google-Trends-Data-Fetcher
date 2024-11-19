@@ -25,6 +25,11 @@
         "pubdate": "Tue, 19 Nov 2024 10:00:00 +0800"
     },
     {
+        "title": "GSW",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#GSW",
+        "pubdate": "Tue, 19 Nov 2024 19:00:00 +0800"
+    },
+    {
         "title": "Kings vs Hawks",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Kings%20vs%20Hawks",
         "pubdate": "Tue, 19 Nov 2024 12:00:00 +0800"
@@ -60,14 +65,14 @@
         "pubdate": "Tue, 19 Nov 2024 15:00:00 +0800"
     },
     {
-        "title": "Xenophobia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Xenophobia",
-        "pubdate": "Tue, 19 Nov 2024 07:00:00 +0800"
-    },
-    {
         "title": "The Game Awards",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#The%20Game%20Awards",
         "pubdate": "Tue, 19 Nov 2024 15:00:00 +0800"
+    },
+    {
+        "title": "Xenophobia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Xenophobia",
+        "pubdate": "Tue, 19 Nov 2024 07:00:00 +0800"
     },
     {
         "title": "Mercy Sunot",
@@ -93,10 +98,5 @@
         "title": "Cavaliers vs Hornets",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Cavaliers%20vs%20Hornets",
         "pubdate": "Mon, 18 Nov 2024 09:00:00 +0800"
-    },
-    {
-        "title": "Grizzlies vs Nuggets",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Grizzlies%20vs%20Nuggets",
-        "pubdate": "Mon, 18 Nov 2024 08:00:00 +0800"
     }
 ]

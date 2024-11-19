@@ -85,11 +85,6 @@
         "pubdate": "Mon, 18 Nov 2024 13:00:00 -0500"
     },
     {
-        "title": "19 de noviembre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#19%20de%20noviembre",
-        "pubdate": "Mon, 18 Nov 2024 23:00:00 -0500"
-    },
-    {
         "title": "Brandon Lee Cobra Kai",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Brandon%20Lee%20Cobra%20Kai",
         "pubdate": "Mon, 18 Nov 2024 18:00:00 -0500"
@@ -98,5 +93,10 @@
         "title": "Brasil vs Uruguay",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Brasil%20vs%20Uruguay",
         "pubdate": "Mon, 18 Nov 2024 22:00:00 -0500"
+    },
+    {
+        "title": "Derechos de los Niños",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Derechos%20de%20los%20Ni%C3%B1os",
+        "pubdate": "Mon, 18 Nov 2024 13:00:00 -0500"
     }
 ]
