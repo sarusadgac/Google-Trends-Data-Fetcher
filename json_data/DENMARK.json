@@ -50,6 +50,11 @@
         "pubdate": "Mon, 18 Nov 2024 18:00:00 +0100"
     },
     {
+        "title": "Brian Riemer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Brian%20Riemer",
+        "pubdate": "Mon, 18 Nov 2024 21:00:00 +0100"
+    },
+    {
         "title": "Arnold Schwarzenegger",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Arnold%20Schwarzenegger",
         "pubdate": "Mon, 18 Nov 2024 21:00:00 +0100"
@@ -93,10 +98,5 @@
         "title": "Lounge",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Lounge",
         "pubdate": "Sun, 17 Nov 2024 20:00:00 +0100"
-    },
-    {
-        "title": "Jannik Sinner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jannik%20Sinner",
-        "pubdate": "Sun, 17 Nov 2024 19:00:00 +0100"
     }
 ]

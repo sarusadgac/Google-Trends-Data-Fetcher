@@ -1,5 +1,10 @@
 [
     {
+        "title": "Ceara",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ceara",
+        "pubdate": "Tue, 19 Nov 2024 08:00:00 -0500"
+    },
+    {
         "title": "Brasil x Uruguai",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Brasil%20x%20Uruguai",
         "pubdate": "Tue, 19 Nov 2024 07:00:00 -0500"
@@ -30,9 +35,9 @@
         "pubdate": "Tue, 19 Nov 2024 09:00:00 -0500"
     },
     {
-        "title": "Leilao Receita Federal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Leilao%20Receita%20Federal",
-        "pubdate": "Tue, 19 Nov 2024 08:00:00 -0500"
+        "title": "Dia do homem",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dia%20do%20homem",
+        "pubdate": "Tue, 19 Nov 2024 11:00:00 -0500"
     },
     {
         "title": "19 de novembro",
@@ -40,14 +45,19 @@
         "pubdate": "Tue, 19 Nov 2024 11:00:00 -0500"
     },
     {
+        "title": "Leilao Receita Federal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Leilao%20Receita%20Federal",
+        "pubdate": "Tue, 19 Nov 2024 08:00:00 -0500"
+    },
+    {
+        "title": "Braga neto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Braga%20neto",
+        "pubdate": "Tue, 19 Nov 2024 12:00:00 -0500"
+    },
+    {
         "title": "Astro Bot",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Astro%20Bot",
         "pubdate": "Tue, 19 Nov 2024 10:00:00 -0500"
-    },
-    {
-        "title": "Dia do homem",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dia%20do%20homem",
-        "pubdate": "Tue, 19 Nov 2024 11:00:00 -0500"
     },
     {
         "title": "America",
@@ -75,8 +85,8 @@
         "pubdate": "Mon, 18 Nov 2024 06:00:00 -0500"
     },
     {
-        "title": "Botafogo SP x Avaí",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Botafogo%20SP%20x%20Ava%C3%AD",
+        "title": "Botafogo-SP x Avaí",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Botafogo-SP%20x%20Ava%C3%AD",
         "pubdate": "Mon, 18 Nov 2024 18:00:00 -0500"
     },
     {
@@ -88,15 +98,5 @@
         "title": "Paul Teal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Paul%20Teal",
         "pubdate": "Mon, 18 Nov 2024 18:00:00 -0500"
-    },
-    {
-        "title": "AMER3",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#AMER3",
-        "pubdate": "Mon, 18 Nov 2024 09:00:00 -0500"
-    },
-    {
-        "title": "Stray Kids",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Stray%20Kids",
-        "pubdate": "Mon, 18 Nov 2024 12:00:00 -0500"
     }
 ]
