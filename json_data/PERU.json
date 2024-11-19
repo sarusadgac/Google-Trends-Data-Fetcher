@@ -25,14 +25,14 @@
         "pubdate": "Mon, 18 Nov 2024 12:00:00 -0500"
     },
     {
-        "title": "Movistar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Movistar",
-        "pubdate": "Mon, 18 Nov 2024 14:00:00 -0500"
-    },
-    {
         "title": "Ticketmaster",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Ticketmaster",
         "pubdate": "Mon, 18 Nov 2024 12:00:00 -0500"
+    },
+    {
+        "title": "Movistar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Movistar",
+        "pubdate": "Mon, 18 Nov 2024 14:00:00 -0500"
     },
     {
         "title": "Anni Albers",
@@ -55,9 +55,24 @@
         "pubdate": "Mon, 18 Nov 2024 10:00:00 -0500"
     },
     {
+        "title": "Bolivia vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bolivia%20vs",
+        "pubdate": "Mon, 18 Nov 2024 19:00:00 -0500"
+    },
+    {
         "title": "Peru Argentina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Peru%20Argentina",
         "pubdate": "Mon, 18 Nov 2024 09:00:00 -0500"
+    },
+    {
+        "title": "Venezuela vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Venezuela%20vs",
+        "pubdate": "Mon, 18 Nov 2024 20:00:00 -0500"
+    },
+    {
+        "title": "Brasil vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Brasil%20vs",
+        "pubdate": "Mon, 18 Nov 2024 19:00:00 -0500"
     },
     {
         "title": "Nicanor Boluarte",
@@ -70,11 +85,6 @@
         "pubdate": "Mon, 18 Nov 2024 13:00:00 -0500"
     },
     {
-        "title": "Linkin Park",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Linkin%20Park",
-        "pubdate": "Mon, 18 Nov 2024 18:00:00 -0500"
-    },
-    {
         "title": "Brandon Lee Cobra Kai",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Brandon%20Lee%20Cobra%20Kai",
         "pubdate": "Mon, 18 Nov 2024 18:00:00 -0500"
@@ -85,18 +95,8 @@
         "pubdate": "Mon, 18 Nov 2024 16:00:00 -0500"
     },
     {
-        "title": "Bolivia vs Paraguay",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bolivia%20vs%20Paraguay",
-        "pubdate": "Mon, 18 Nov 2024 19:00:00 -0500"
-    },
-    {
-        "title": "Italia  Francia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Italia%20%20Francia",
-        "pubdate": "Sun, 17 Nov 2024 11:00:00 -0500"
-    },
-    {
-        "title": "Inglaterra  Irlanda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Inglaterra%20%20Irlanda",
-        "pubdate": "Sun, 17 Nov 2024 11:00:00 -0500"
+        "title": "Linkin Park",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Linkin%20Park",
+        "pubdate": "Mon, 18 Nov 2024 18:00:00 -0500"
     }
 ]

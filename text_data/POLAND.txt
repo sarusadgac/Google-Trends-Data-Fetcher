@@ -4,12 +4,10 @@ Santander
 ING
 ZUS
 PKO
-KRS
 Alior Bank
 San Marino
 RMF FM
 BNP Paribas
-Millenium
 Diuna: Proroctwo
 IKP
 Knox Jolie-Pitt
@@ -18,3 +16,5 @@ Kalendarz 2025
 Radio ZET
 Andrzej Fidyk
 The Game Awards
+Microsoft 365
+Medicover

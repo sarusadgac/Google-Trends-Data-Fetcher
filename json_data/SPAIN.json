@@ -5,9 +5,19 @@
         "pubdate": "Tue, 19 Nov 2024 00:00:00 +0100"
     },
     {
+        "title": "Jonathan David",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Jonathan%20David",
+        "pubdate": "Tue, 19 Nov 2024 02:00:00 +0100"
+    },
+    {
         "title": "España - Suiza",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Espa%C3%B1a%20-%20Suiza",
         "pubdate": "Mon, 18 Nov 2024 00:00:00 +0100"
+    },
+    {
+        "title": "España FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Espa%C3%B1a%20FC",
+        "pubdate": "Mon, 18 Nov 2024 17:00:00 +0100"
     },
     {
         "title": "Game Awards",
@@ -60,6 +70,11 @@
         "pubdate": "Mon, 18 Nov 2024 03:00:00 +0100"
     },
     {
+        "title": "Juan jose guemes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Juan%20jose%20guemes",
+        "pubdate": "Mon, 18 Nov 2024 22:00:00 +0100"
+    },
+    {
         "title": "Yeremi Pino",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Yeremi%20Pino",
         "pubdate": "Mon, 18 Nov 2024 22:00:00 +0100"
@@ -70,6 +85,11 @@
         "pubdate": "Mon, 18 Nov 2024 08:00:00 +0100"
     },
     {
+        "title": "Rtve directo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Rtve%20directo",
+        "pubdate": "Mon, 18 Nov 2024 22:00:00 +0100"
+    },
+    {
         "title": "Nuria Montes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Nuria%20Montes",
         "pubdate": "Mon, 18 Nov 2024 19:00:00 +0100"
@@ -78,25 +98,5 @@
         "title": "Pedri",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Pedri",
         "pubdate": "Mon, 18 Nov 2024 22:00:00 +0100"
-    },
-    {
-        "title": "Doctor Cariñanos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Doctor%20Cari%C3%B1anos",
-        "pubdate": "Mon, 18 Nov 2024 21:00:00 +0100"
-    },
-    {
-        "title": "Malaga CF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Malaga%20CF",
-        "pubdate": "Mon, 18 Nov 2024 01:00:00 +0100"
-    },
-    {
-        "title": "Brandon Lee Cobra Kai",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Brandon%20Lee%20Cobra%20Kai",
-        "pubdate": "Mon, 18 Nov 2024 14:00:00 +0100"
-    },
-    {
-        "title": "Inma del Moral",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Inma%20del%20Moral",
-        "pubdate": "Mon, 18 Nov 2024 11:00:00 +0100"
     }
 ]
