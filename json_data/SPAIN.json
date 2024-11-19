@@ -5,19 +5,19 @@
         "pubdate": "Tue, 19 Nov 2024 12:00:00 +0100"
     },
     {
-        "title": "Carmen Machi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Carmen%20Machi",
-        "pubdate": "Tue, 19 Nov 2024 00:00:00 +0100"
-    },
-    {
         "title": "Rey Felipe VI",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Rey%20Felipe%20VI",
         "pubdate": "Tue, 19 Nov 2024 11:00:00 +0100"
     },
     {
-        "title": "Infinite",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Infinite",
+        "title": "Carmen Machi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Carmen%20Machi",
         "pubdate": "Tue, 19 Nov 2024 00:00:00 +0100"
+    },
+    {
+        "title": "Bryan Adams",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Bryan%20Adams",
+        "pubdate": "Tue, 19 Nov 2024 10:00:00 +0100"
     },
     {
         "title": "Dia del Hombre",
@@ -25,14 +25,19 @@
         "pubdate": "Tue, 19 Nov 2024 13:00:00 +0100"
     },
     {
-        "title": "Portugal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Portugal",
+        "title": "Infinite",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Infinite",
         "pubdate": "Tue, 19 Nov 2024 00:00:00 +0100"
     },
     {
         "title": "Jonathan David",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Jonathan%20David",
         "pubdate": "Tue, 19 Nov 2024 02:00:00 +0100"
+    },
+    {
+        "title": "Portugal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Portugal",
+        "pubdate": "Tue, 19 Nov 2024 00:00:00 +0100"
     },
     {
         "title": "Antonio Noblejas",
@@ -50,6 +55,11 @@
         "pubdate": "Tue, 19 Nov 2024 08:00:00 +0100"
     },
     {
+        "title": "CBD",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#CBD",
+        "pubdate": "Tue, 19 Nov 2024 15:00:00 +0100"
+    },
+    {
         "title": "España - Suiza",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Espa%C3%B1a%20-%20Suiza",
         "pubdate": "Mon, 18 Nov 2024 00:00:00 +0100"
@@ -60,14 +70,19 @@
         "pubdate": "Mon, 18 Nov 2024 20:00:00 +0100"
     },
     {
+        "title": "Game Awards",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Game%20Awards",
+        "pubdate": "Mon, 18 Nov 2024 20:00:00 +0100"
+    },
+    {
         "title": "España fc",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Espa%C3%B1a%20fc",
         "pubdate": "Mon, 18 Nov 2024 17:00:00 +0100"
     },
     {
-        "title": "Game Awards",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Game%20Awards",
-        "pubdate": "Mon, 18 Nov 2024 20:00:00 +0100"
+        "title": "MasterChef",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#MasterChef",
+        "pubdate": "Mon, 18 Nov 2024 23:00:00 +0100"
     },
     {
         "title": "Muface",
@@ -83,20 +98,5 @@
         "title": "Croacia - Portugal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Croacia%20-%20Portugal",
         "pubdate": "Mon, 18 Nov 2024 21:00:00 +0100"
-    },
-    {
-        "title": "RTVE",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#RTVE",
-        "pubdate": "Mon, 18 Nov 2024 22:00:00 +0100"
-    },
-    {
-        "title": "Muere Chapi futbolista",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Muere%20Chapi%20futbolista",
-        "pubdate": "Mon, 18 Nov 2024 20:00:00 +0100"
-    },
-    {
-        "title": "Juan jose guemes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Juan%20jose%20guemes",
-        "pubdate": "Mon, 18 Nov 2024 22:00:00 +0100"
     }
 ]
