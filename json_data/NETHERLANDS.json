@@ -20,6 +20,11 @@
         "pubdate": "Mon, 18 Nov 2024 18:00:00 +0100"
     },
     {
+        "title": "Sneeuw",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sneeuw",
+        "pubdate": "Mon, 18 Nov 2024 16:00:00 +0100"
+    },
+    {
         "title": "Ajax-logo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax-logo",
         "pubdate": "Sun, 17 Nov 2024 11:00:00 +0100"
@@ -93,10 +98,5 @@
         "title": "Wie is de Mol",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Wie%20is%20de%20Mol",
         "pubdate": "Thu, 14 Nov 2024 11:00:00 +0100"
-    },
-    {
-        "title": "Jong Oranje",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jong%20Oranje",
-        "pubdate": "Thu, 14 Nov 2024 18:00:00 +0100"
     }
 ]
