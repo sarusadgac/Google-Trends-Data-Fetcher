@@ -15,6 +15,11 @@
         "pubdate": "Tue, 19 Nov 2024 00:00:00 -0600"
     },
     {
+        "title": "Leishmaniasis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Leishmaniasis",
+        "pubdate": "Tue, 19 Nov 2024 03:00:00 -0600"
+    },
+    {
         "title": "Croacia - Portugal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Croacia%20-%20Portugal",
         "pubdate": "Mon, 18 Nov 2024 10:00:00 -0600"
@@ -65,14 +70,14 @@
         "pubdate": "Mon, 18 Nov 2024 21:00:00 -0600"
     },
     {
-        "title": "Game Awards",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Game%20Awards",
-        "pubdate": "Mon, 18 Nov 2024 19:00:00 -0600"
-    },
-    {
         "title": "Dia del Hombre",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Dia%20del%20Hombre",
         "pubdate": "Mon, 18 Nov 2024 21:00:00 -0600"
+    },
+    {
+        "title": "Game Awards",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Game%20Awards",
+        "pubdate": "Mon, 18 Nov 2024 19:00:00 -0600"
     },
     {
         "title": "Clippers  Warriors",
@@ -93,10 +98,5 @@
         "title": "Nadia Comaneci",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Nadia%20Comaneci",
         "pubdate": "Mon, 18 Nov 2024 10:00:00 -0600"
-    },
-    {
-        "title": "Empire of The Sun",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Empire%20of%20The%20Sun",
-        "pubdate": "Mon, 18 Nov 2024 01:00:00 -0600"
     }
 ]
