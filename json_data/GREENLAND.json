@@ -1,10 +1,5 @@
 [
     {
-        "title": "TVB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#TVB",
-        "pubdate": "Tue, 19 Nov 2024 18:00:00 +0800"
-    },
-    {
         "title": "Warriors",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Warriors",
         "pubdate": "Tue, 19 Nov 2024 03:00:00 -0800"
@@ -20,6 +15,21 @@
         "pubdate": "Tue, 19 Nov 2024 09:00:00 +0000"
     },
     {
+        "title": "San Marino",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#San%20Marino",
+        "pubdate": "Tue, 19 Nov 2024 03:00:00 +0100"
+    },
+    {
+        "title": "TVB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#TVB",
+        "pubdate": "Tue, 19 Nov 2024 18:00:00 +0800"
+    },
+    {
+        "title": "高畑充希",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E9%AB%98%E7%95%91%E5%85%85%E5%B8%8C",
+        "pubdate": "Tue, 19 Nov 2024 06:00:00 +0900"
+    },
+    {
         "title": "Anil Deshmukh",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Anil%20Deshmukh",
         "pubdate": "Tue, 19 Nov 2024 00:30:00 +0530"
@@ -30,19 +40,49 @@
         "pubdate": "Tue, 19 Nov 2024 00:00:00 +0100"
     },
     {
-        "title": "岡田将生",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%B2%A1%E7%94%B0%E5%B0%86%E7%94%9F",
-        "pubdate": "Tue, 19 Nov 2024 06:00:00 +0900"
+        "title": "Nayanthara",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Nayanthara",
+        "pubdate": "Tue, 19 Nov 2024 02:00:00 +0800"
     },
     {
-        "title": "San Marino",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#San%20Marino",
-        "pubdate": "Tue, 19 Nov 2024 03:00:00 +0100"
+        "title": "Jepang vs China",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Jepang%20vs%20China",
+        "pubdate": "Tue, 19 Nov 2024 16:00:00 +0700"
     },
     {
-        "title": "Héctor Parra actor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#H%C3%A9ctor%20Parra%20actor",
-        "pubdate": "Tue, 19 Nov 2024 02:00:00 -0600"
+        "title": "2,000 stimulus check",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#2,000%20stimulus%20check",
+        "pubdate": "Tue, 19 Nov 2024 07:00:00 +0100"
+    },
+    {
+        "title": "Raptors",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Raptors",
+        "pubdate": "Tue, 19 Nov 2024 01:00:00 -0500"
+    },
+    {
+        "title": "쿠팡플레이",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%BF%A0%ED%8C%A1%ED%94%8C%EB%A0%88%EC%9D%B4",
+        "pubdate": "Wed, 20 Nov 2024 00:00:00 +0900"
+    },
+    {
+        "title": "Ariana Grande",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ariana%20Grande",
+        "pubdate": "Tue, 19 Nov 2024 10:00:00 +0100"
+    },
+    {
+        "title": "Marius Borg Høiby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Marius%20Borg%20H%C3%B8iby",
+        "pubdate": "Tue, 19 Nov 2024 09:00:00 +0100"
+    },
+    {
+        "title": "Észak-Korea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%89szak-Korea",
+        "pubdate": "Tue, 19 Nov 2024 08:00:00 +0100"
+    },
+    {
+        "title": "Pinkpop",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Pinkpop",
+        "pubdate": "Tue, 19 Nov 2024 11:00:00 +0100"
     },
     {
         "title": "Ceara",
@@ -50,53 +90,13 @@
         "pubdate": "Tue, 19 Nov 2024 08:00:00 -0500"
     },
     {
-        "title": "Tate McRae",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Tate%20McRae",
-        "pubdate": "Tue, 19 Nov 2024 21:00:00 +1300"
+        "title": "كروت الشحن",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=EG#%D9%83%D8%B1%D9%88%D8%AA%20%D8%A7%D9%84%D8%B4%D8%AD%D9%86",
+        "pubdate": "Tue, 19 Nov 2024 01:00:00 +0200"
     },
     {
-        "title": "International Men's Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#International%20Men's%20Day",
-        "pubdate": "Tue, 19 Nov 2024 10:00:00 +0300"
-    },
-    {
-        "title": "Ziua barbatului",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ziua%20barbatului",
-        "pubdate": "Tue, 19 Nov 2024 08:00:00 +0200"
-    },
-    {
-        "title": "Bafana Bafana",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bafana%20Bafana",
-        "pubdate": "Tue, 19 Nov 2024 10:00:00 +0200"
-    },
-    {
-        "title": "Sydney Trains",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sydney%20Trains",
-        "pubdate": "Tue, 19 Nov 2024 17:00:00 +1100"
-    },
-    {
-        "title": "Croatia đấu với Bồ Đào Nha",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Croatia%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20B%E1%BB%93%20%C4%90%C3%A0o%20Nha",
-        "pubdate": "Tue, 19 Nov 2024 03:00:00 +0700"
-    },
-    {
-        "title": "אלי פלדשטיין",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%90%D7%9C%D7%99%20%D7%A4%D7%9C%D7%93%D7%A9%D7%98%D7%99%D7%99%D7%9F",
-        "pubdate": "Tue, 19 Nov 2024 14:00:00 +0200"
-    },
-    {
-        "title": "Spanyol vs Swiss",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Spanyol%20vs%20Swiss",
-        "pubdate": "Tue, 19 Nov 2024 02:00:00 +0700"
-    },
-    {
-        "title": "謝宜容",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%AC%9D%E5%AE%9C%E5%AE%B9",
-        "pubdate": "Tue, 19 Nov 2024 11:00:00 +0800"
-    },
-    {
-        "title": "Tomas Oral",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tomas%20Oral",
-        "pubdate": "Tue, 19 Nov 2024 10:00:00 +0100"
+        "title": "Vieira",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Vieira",
+        "pubdate": "Tue, 19 Nov 2024 12:00:00 +0100"
     }
 ]

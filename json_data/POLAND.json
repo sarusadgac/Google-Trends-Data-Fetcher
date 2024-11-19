@@ -20,6 +20,11 @@
         "pubdate": "Tue, 19 Nov 2024 10:00:00 +0100"
     },
     {
+        "title": "Sławomir Nitras",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#S%C5%82awomir%20Nitras",
+        "pubdate": "Tue, 19 Nov 2024 11:00:00 +0100"
+    },
+    {
         "title": "Prawa Dziecka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Prawa%20Dziecka",
         "pubdate": "Tue, 19 Nov 2024 09:00:00 +0100"
@@ -65,11 +70,6 @@
         "pubdate": "Mon, 18 Nov 2024 14:00:00 +0100"
     },
     {
-        "title": "PKO",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#PKO",
-        "pubdate": "Mon, 18 Nov 2024 12:00:00 +0100"
-    },
-    {
         "title": "ZUS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#ZUS",
         "pubdate": "Mon, 18 Nov 2024 12:00:00 +0100"
@@ -95,8 +95,8 @@
         "pubdate": "Mon, 18 Nov 2024 15:00:00 +0100"
     },
     {
-        "title": "RMF FM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#RMF%20FM",
-        "pubdate": "Mon, 18 Nov 2024 09:00:00 +0100"
+        "title": "PKO",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#PKO",
+        "pubdate": "Mon, 18 Nov 2024 17:00:00 +0100"
     }
 ]
