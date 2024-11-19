@@ -1,38 +1,8 @@
 [
     {
-        "title": "Slimane",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Slimane",
-        "pubdate": "Tue, 19 Nov 2024 00:00:00 +0100"
-    },
-    {
-        "title": "麥明詩",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E9%BA%A5%E6%98%8E%E8%A9%A9",
-        "pubdate": "Tue, 19 Nov 2024 10:00:00 +0800"
-    },
-    {
-        "title": "School closures",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#School%20closures",
-        "pubdate": "Tue, 19 Nov 2024 07:00:00 +0000"
-    },
-    {
-        "title": "高畑充希 結婚",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E9%AB%98%E7%95%91%E5%85%85%E5%B8%8C%20%E7%B5%90%E5%A9%9A",
-        "pubdate": "Tue, 19 Nov 2024 08:00:00 +0900"
-    },
-    {
-        "title": "Sixers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Sixers",
-        "pubdate": "Tue, 19 Nov 2024 01:00:00 -0800"
-    },
-    {
-        "title": "Kroatien – Portugal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kroatien%20%E2%80%93%20Portugal",
-        "pubdate": "Mon, 18 Nov 2024 21:00:00 +0100"
-    },
-    {
-        "title": "19 ноября праздник",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#19%20%D0%BD%D0%BE%D1%8F%D0%B1%D1%80%D1%8F%20%D0%BF%D1%80%D0%B0%D0%B7%D0%B4%D0%BD%D0%B8%D0%BA",
-        "pubdate": "Tue, 19 Nov 2024 04:00:00 +0300"
+        "title": "高畑充希",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E9%AB%98%E7%95%91%E5%85%85%E5%B8%8C",
+        "pubdate": "Tue, 19 Nov 2024 06:00:00 +0900"
     },
     {
         "title": "Anil Deshmukh",
@@ -40,49 +10,39 @@
         "pubdate": "Tue, 19 Nov 2024 00:30:00 +0530"
     },
     {
-        "title": "Sean Duffy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Sean%20Duffy",
-        "pubdate": "Tue, 19 Nov 2024 09:00:00 +0200"
+        "title": "麥明詩",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E9%BA%A5%E6%98%8E%E8%A9%A9",
+        "pubdate": "Tue, 19 Nov 2024 10:00:00 +0800"
     },
     {
-        "title": "Game Awards",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Game%20Awards",
-        "pubdate": "Tue, 19 Nov 2024 05:00:00 +0100"
+        "title": "Russland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Russland",
+        "pubdate": "Mon, 18 Nov 2024 01:00:00 +0100"
     },
     {
-        "title": "Nayanthara",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Nayanthara",
-        "pubdate": "Tue, 19 Nov 2024 02:00:00 +0800"
+        "title": "School closures",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#School%20closures",
+        "pubdate": "Tue, 19 Nov 2024 07:00:00 +0000"
     },
     {
-        "title": "السعوديه",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D9%87",
-        "pubdate": "Tue, 19 Nov 2024 12:00:00 +0300"
+        "title": "Sixers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Sixers",
+        "pubdate": "Tue, 19 Nov 2024 01:00:00 -0800"
     },
     {
-        "title": "Noruega suecia finlandia guerra",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Noruega%20suecia%20finlandia%20guerra",
-        "pubdate": "Tue, 19 Nov 2024 00:00:00 +0000"
+        "title": "19 ноября праздник",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#19%20%D0%BD%D0%BE%D1%8F%D0%B1%D1%80%D1%8F%20%D0%BF%D1%80%D0%B0%D0%B7%D0%B4%D0%BD%D0%B8%D0%BA",
+        "pubdate": "Tue, 19 Nov 2024 04:00:00 +0300"
     },
     {
-        "title": "Lengyelfi Miklós",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Lengyelfi%20Mikl%C3%B3s",
-        "pubdate": "Tue, 19 Nov 2024 07:00:00 +0100"
+        "title": "Slimane",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Slimane",
+        "pubdate": "Tue, 19 Nov 2024 00:00:00 +0100"
     },
     {
-        "title": "Peru vs Argentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Peru%20vs%20Argentina",
-        "pubdate": "Mon, 18 Nov 2024 08:00:00 -0500"
-    },
-    {
-        "title": "Bluesky",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Bluesky",
-        "pubdate": "Tue, 19 Nov 2024 01:00:00 -0600"
-    },
-    {
-        "title": "Spanyol vs Swiss",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Spanyol%20vs%20Swiss",
-        "pubdate": "Tue, 19 Nov 2024 02:00:00 +0700"
+        "title": "The Game Awards",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#The%20Game%20Awards",
+        "pubdate": "Tue, 19 Nov 2024 02:00:00 +0100"
     },
     {
         "title": "كروت الشحن",
@@ -90,13 +50,53 @@
         "pubdate": "Tue, 19 Nov 2024 01:00:00 +0200"
     },
     {
-        "title": "19 KASIM NE GÜNÜ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#19%20KASIM%20NE%20G%C3%9CN%C3%9C",
-        "pubdate": "Tue, 19 Nov 2024 01:00:00 +0300"
+        "title": "Tate McRae",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Tate%20McRae",
+        "pubdate": "Tue, 19 Nov 2024 21:00:00 +1300"
+    },
+    {
+        "title": "Clippers vs Warriors",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Clippers%20vs%20Warriors",
+        "pubdate": "Tue, 19 Nov 2024 12:00:00 +0800"
+    },
+    {
+        "title": "Croácia x Portugal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cro%C3%A1cia%20x%20Portugal",
+        "pubdate": "Mon, 18 Nov 2024 15:00:00 -0500"
+    },
+    {
+        "title": "Get Ready!",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Get%20Ready!",
+        "pubdate": "Tue, 19 Nov 2024 09:00:00 +0100"
+    },
+    {
+        "title": "Venezuela vs Chile",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Venezuela%20vs%20Chile",
+        "pubdate": "Tue, 19 Nov 2024 03:00:00 -0500"
     },
     {
         "title": "Atlético Tucumán  Huracán",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Atl%C3%A9tico%20Tucum%C3%A1n%20%20Hurac%C3%A1n",
         "pubdate": "Tue, 19 Nov 2024 00:00:00 -0300"
+    },
+    {
+        "title": "Ziua barbatului",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ziua%20barbatului",
+        "pubdate": "Tue, 19 Nov 2024 08:00:00 +0200"
+    },
+    {
+        "title": "Tomas Oral",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tomas%20Oral",
+        "pubdate": "Tue, 19 Nov 2024 10:00:00 +0100"
+    },
+    {
+        "title": "Σερβια δανια",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%A3%CE%B5%CF%81%CE%B2%CE%B9%CE%B1%20%CE%B4%CE%B1%CE%BD%CE%B9%CE%B1",
+        "pubdate": "Tue, 19 Nov 2024 00:00:00 +0200"
+    },
+    {
+        "title": "Weather",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#Weather",
+        "pubdate": "Mon, 18 Nov 2024 11:00:00 +0200"
     }
 ]
