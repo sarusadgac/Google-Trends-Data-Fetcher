@@ -25,19 +25,9 @@
         "pubdate": "Mon, 18 Nov 2024 12:00:00 +0100"
     },
     {
-        "title": "PKO",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#PKO",
-        "pubdate": "Mon, 18 Nov 2024 12:00:00 +0100"
-    },
-    {
         "title": "KRS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#KRS",
         "pubdate": "Mon, 18 Nov 2024 10:00:00 +0100"
-    },
-    {
-        "title": "Polska mecze",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Polska%20mecze",
-        "pubdate": "Mon, 18 Nov 2024 22:00:00 +0100"
     },
     {
         "title": "Alior Bank",
@@ -70,6 +60,11 @@
         "pubdate": "Mon, 18 Nov 2024 14:00:00 +0100"
     },
     {
+        "title": "PKO bp",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#PKO%20bp",
+        "pubdate": "Mon, 18 Nov 2024 12:00:00 +0100"
+    },
+    {
         "title": "Enea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Enea",
         "pubdate": "Mon, 18 Nov 2024 12:00:00 +0100"
@@ -98,5 +93,10 @@
         "title": "Microsoft 365",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Microsoft%20365",
         "pubdate": "Mon, 18 Nov 2024 10:00:00 +0100"
+    },
+    {
+        "title": "Medicover",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Medicover",
+        "pubdate": "Mon, 18 Nov 2024 11:00:00 +0100"
     }
 ]
