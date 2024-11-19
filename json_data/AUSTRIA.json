@@ -15,11 +15,6 @@
         "pubdate": "Mon, 18 Nov 2024 20:00:00 +0100"
     },
     {
-        "title": "Serbien – Dänemark",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Serbien%20%E2%80%93%20D%C3%A4nemark",
-        "pubdate": "Mon, 18 Nov 2024 21:00:00 +0100"
-    },
-    {
         "title": "Biden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Biden",
         "pubdate": "Mon, 18 Nov 2024 02:00:00 +0100"
@@ -98,5 +93,10 @@
         "title": "Steyr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Steyr",
         "pubdate": "Mon, 18 Nov 2024 16:00:00 +0100"
+    },
+    {
+        "title": "Siegen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Siegen",
+        "pubdate": "Mon, 18 Nov 2024 22:00:00 +0100"
     }
 ]

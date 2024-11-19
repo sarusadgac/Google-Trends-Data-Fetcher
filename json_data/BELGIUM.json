@@ -5,6 +5,11 @@
         "pubdate": "Tue, 19 Nov 2024 03:00:00 +0100"
     },
     {
+        "title": "Slimane",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Slimane",
+        "pubdate": "Tue, 19 Nov 2024 04:00:00 +0100"
+    },
+    {
         "title": "Game Awards",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Game%20Awards",
         "pubdate": "Tue, 19 Nov 2024 01:00:00 +0100"
@@ -80,8 +85,8 @@
         "pubdate": "Mon, 18 Nov 2024 21:00:00 +0100"
     },
     {
-        "title": "Dune: Prophecy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Dune:%20Prophecy",
+        "title": "Dune : Prophecy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Dune%20:%20Prophecy",
         "pubdate": "Mon, 18 Nov 2024 19:00:00 +0100"
     },
     {
@@ -92,11 +97,6 @@
     {
         "title": "BCE",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#BCE",
-        "pubdate": "Mon, 18 Nov 2024 11:00:00 +0100"
-    },
-    {
-        "title": "Snake",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Snake",
         "pubdate": "Mon, 18 Nov 2024 11:00:00 +0100"
     }
 ]
