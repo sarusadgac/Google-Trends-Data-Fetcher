@@ -1,13 +1,23 @@
 [
     {
-        "title": "Balatro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Balatro",
-        "pubdate": "Tue, 19 Nov 2024 00:00:00 -0500"
+        "title": "Partidos de hoy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Partidos%20de%20hoy",
+        "pubdate": "Tue, 19 Nov 2024 11:00:00 -0500"
     },
     {
         "title": "Colombia vs Ecuador",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Colombia%20vs%20Ecuador",
         "pubdate": "Tue, 19 Nov 2024 10:00:00 -0500"
+    },
+    {
+        "title": "Balatro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Balatro",
+        "pubdate": "Tue, 19 Nov 2024 00:00:00 -0500"
+    },
+    {
+        "title": "Egipto vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Egipto%20vs",
+        "pubdate": "Tue, 19 Nov 2024 11:00:00 -0500"
     },
     {
         "title": "Peru vs Argentina",
@@ -20,13 +30,18 @@
         "pubdate": "Mon, 18 Nov 2024 12:00:00 -0500"
     },
     {
-        "title": "España - Suiza",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Espa%C3%B1a%20-%20Suiza",
+        "title": "Dia del Hombre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Dia%20del%20Hombre",
         "pubdate": "Mon, 18 Nov 2024 10:00:00 -0500"
     },
     {
-        "title": "Dia del Hombre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Dia%20del%20Hombre",
+        "title": "España - Suiza",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Espa%C3%B1a%20-%20Suiza",
+        "pubdate": "Mon, 18 Nov 2024 14:00:00 -0500"
+    },
+    {
+        "title": "España vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Espa%C3%B1a%20vs",
         "pubdate": "Mon, 18 Nov 2024 10:00:00 -0500"
     },
     {
@@ -35,8 +50,13 @@
         "pubdate": "Mon, 18 Nov 2024 12:00:00 -0500"
     },
     {
-        "title": "Chile vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Chile%20vs",
+        "title": "Que se celebra el 19 de noviembre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Que%20se%20celebra%20el%2019%20de%20noviembre",
+        "pubdate": "Mon, 18 Nov 2024 21:00:00 -0500"
+    },
+    {
+        "title": "Chile vs Venezuela",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Chile%20vs%20Venezuela",
         "pubdate": "Mon, 18 Nov 2024 20:00:00 -0500"
     },
     {
@@ -65,38 +85,18 @@
         "pubdate": "Mon, 18 Nov 2024 17:00:00 -0500"
     },
     {
-        "title": "Panamá  Costa Rica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Panam%C3%A1%20%20Costa%20Rica",
-        "pubdate": "Mon, 18 Nov 2024 22:00:00 -0500"
-    },
-    {
         "title": "Bolivia vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bolivia%20vs",
         "pubdate": "Mon, 18 Nov 2024 19:00:00 -0500"
     },
     {
-        "title": "Que se celebra el 19 de noviembre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Que%20se%20celebra%20el%2019%20de%20noviembre",
-        "pubdate": "Mon, 18 Nov 2024 21:00:00 -0500"
-    },
-    {
-        "title": "Estados Unidos  Jamaica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Estados%20Unidos%20%20Jamaica",
-        "pubdate": "Mon, 18 Nov 2024 21:00:00 -0500"
-    },
-    {
-        "title": "España",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Espa%C3%B1a",
-        "pubdate": "Mon, 18 Nov 2024 16:00:00 -0500"
-    },
-    {
-        "title": "Nicanor Boluarte",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Nicanor%20Boluarte",
-        "pubdate": "Mon, 18 Nov 2024 13:00:00 -0500"
-    },
-    {
-        "title": "Brasil vs Uruguay",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Brasil%20vs%20Uruguay",
+        "title": "Panamá  Costa Rica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Panam%C3%A1%20%20Costa%20Rica",
         "pubdate": "Mon, 18 Nov 2024 22:00:00 -0500"
+    },
+    {
+        "title": "Eliminatorias Sudamericanas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Eliminatorias%20Sudamericanas",
+        "pubdate": "Mon, 18 Nov 2024 16:00:00 -0500"
     }
 ]
