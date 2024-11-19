@@ -1,28 +1,8 @@
 [
     {
-        "title": "Scott Mills",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Scott%20Mills",
-        "pubdate": "Tue, 19 Nov 2024 09:00:00 +0000"
-    },
-    {
-        "title": "Венгрия – Германия",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%92%D0%B5%D0%BD%D0%B3%D1%80%D0%B8%D1%8F%20%E2%80%93%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F",
-        "pubdate": "Wed, 20 Nov 2024 01:00:00 +0300"
-    },
-    {
         "title": "高畑充希",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E9%AB%98%E7%95%91%E5%85%85%E5%B8%8C",
         "pubdate": "Tue, 19 Nov 2024 06:00:00 +0900"
-    },
-    {
-        "title": "Warnung vor Sturmböen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Warnung%20vor%20Sturmb%C3%B6en",
-        "pubdate": "Tue, 19 Nov 2024 00:00:00 +0100"
-    },
-    {
-        "title": "Sarah McBride",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Sarah%20McBride",
-        "pubdate": "Tue, 19 Nov 2024 07:00:00 -0800"
     },
     {
         "title": "Paul Teal",
@@ -30,9 +10,19 @@
         "pubdate": "Tue, 19 Nov 2024 00:00:00 +0100"
     },
     {
+        "title": "Венгрия – Германия",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%92%D0%B5%D0%BD%D0%B3%D1%80%D0%B8%D1%8F%20%E2%80%93%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F",
+        "pubdate": "Wed, 20 Nov 2024 01:00:00 +0300"
+    },
+    {
         "title": "Rafael Nadal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Rafael%20Nadal",
         "pubdate": "Wed, 20 Nov 2024 03:30:00 +0530"
+    },
+    {
+        "title": "Warnung vor Sturmböen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Warnung%20vor%20Sturmb%C3%B6en",
+        "pubdate": "Tue, 19 Nov 2024 00:00:00 +0100"
     },
     {
         "title": "林峯",
@@ -40,19 +30,14 @@
         "pubdate": "Tue, 19 Nov 2024 18:00:00 +0800"
     },
     {
-        "title": "Ungarn – Deutschland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ungarn%20%E2%80%93%20Deutschland",
-        "pubdate": "Tue, 19 Nov 2024 20:00:00 +0100"
+        "title": "Scott Mills",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Scott%20Mills",
+        "pubdate": "Tue, 19 Nov 2024 09:00:00 +0000"
     },
     {
-        "title": "Brasil x Uruguai",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Brasil%20x%20Uruguai",
-        "pubdate": "Tue, 19 Nov 2024 07:00:00 -0500"
-    },
-    {
-        "title": "רותם סלע",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A8%D7%95%D7%AA%D7%9D%20%D7%A1%D7%9C%D7%A2",
-        "pubdate": "Wed, 20 Nov 2024 00:00:00 +0200"
+        "title": "Sarah McBride",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Sarah%20McBride",
+        "pubdate": "Tue, 19 Nov 2024 07:00:00 -0800"
     },
     {
         "title": "Max",
@@ -60,24 +45,9 @@
         "pubdate": "Tue, 19 Nov 2024 12:00:00 +0700"
     },
     {
-        "title": "Public Service Commission",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Public%20Service%20Commission",
-        "pubdate": "Wed, 20 Nov 2024 01:00:00 +0300"
-    },
-    {
-        "title": "M4 Sport",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M4%20Sport",
-        "pubdate": "Tue, 19 Nov 2024 21:00:00 +0100"
-    },
-    {
-        "title": "Bolivia  Paraguay",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Bolivia%20%20Paraguay",
-        "pubdate": "Tue, 19 Nov 2024 21:00:00 +0100"
-    },
-    {
-        "title": "Chile",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Chile",
-        "pubdate": "Tue, 19 Nov 2024 19:00:00 -0300"
+        "title": "Get Ready!",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Get%20Ready!",
+        "pubdate": "Tue, 19 Nov 2024 09:00:00 +0100"
     },
     {
         "title": "도란",
@@ -85,18 +55,48 @@
         "pubdate": "Wed, 20 Nov 2024 00:00:00 +0900"
     },
     {
-        "title": "Σουρασ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%A3%CE%BF%CF%85%CF%81%CE%B1%CF%83",
-        "pubdate": "Tue, 19 Nov 2024 18:00:00 +0200"
+        "title": "Bolivia  Paraguay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Bolivia%20%20Paraguay",
+        "pubdate": "Tue, 19 Nov 2024 21:00:00 +0100"
     },
     {
-        "title": "Liga das Nações",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Liga%20das%20Na%C3%A7%C3%B5es",
-        "pubdate": "Tue, 19 Nov 2024 00:00:00 +0000"
+        "title": "Garda Síochána",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Garda%20S%C3%ADoch%C3%A1na",
+        "pubdate": "Tue, 19 Nov 2024 12:00:00 +0000"
     },
     {
-        "title": "Get Ready!",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Get%20Ready!",
+        "title": "Chappell Roan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Chappell%20Roan",
+        "pubdate": "Tue, 19 Nov 2024 15:00:00 +0100"
+    },
+    {
+        "title": "الملكة رانيا",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=EG#%D8%A7%D9%84%D9%85%D9%84%D9%83%D8%A9%20%D8%B1%D8%A7%D9%86%D9%8A%D8%A7",
+        "pubdate": "Wed, 20 Nov 2024 00:00:00 +0200"
+    },
+    {
+        "title": "Dia del Hombre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Dia%20del%20Hombre",
+        "pubdate": "Tue, 19 Nov 2024 07:00:00 -0300"
+    },
+    {
+        "title": "Chile",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Chile",
+        "pubdate": "Tue, 19 Nov 2024 19:00:00 -0300"
+    },
+    {
+        "title": "Ostrzeżenie przed wiatrem",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ostrze%C5%BCenie%20przed%20wiatrem",
         "pubdate": "Tue, 19 Nov 2024 09:00:00 +0100"
+    },
+    {
+        "title": "الكويت ضد الأردن",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA%20%D8%B6%D8%AF%20%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86",
+        "pubdate": "Tue, 19 Nov 2024 21:00:00 +0300"
+    },
+    {
+        "title": "Alemania vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Alemania%20vs",
+        "pubdate": "Tue, 19 Nov 2024 13:00:00 -0500"
     }
 ]
