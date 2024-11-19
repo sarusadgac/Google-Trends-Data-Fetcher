@@ -25,11 +25,6 @@
         "pubdate": "Mon, 18 Nov 2024 09:00:00 -0500"
     },
     {
-        "title": "Boletim Escolar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Boletim%20Escolar",
-        "pubdate": "Mon, 18 Nov 2024 16:00:00 -0500"
-    },
-    {
         "title": "Paul Teal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Paul%20Teal",
         "pubdate": "Mon, 18 Nov 2024 18:00:00 -0500"
@@ -98,5 +93,10 @@
         "title": "Perse",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Perse",
         "pubdate": "Mon, 18 Nov 2024 20:00:00 -0500"
+    },
+    {
+        "title": "PUC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#PUC",
+        "pubdate": "Mon, 18 Nov 2024 12:00:00 -0500"
     }
 ]
