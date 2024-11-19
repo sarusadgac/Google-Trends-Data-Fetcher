@@ -5,11 +5,6 @@
         "pubdate": "Tue, 19 Nov 2024 11:00:00 -0500"
     },
     {
-        "title": "Colombia vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Colombia%20vs",
-        "pubdate": "Tue, 19 Nov 2024 10:00:00 -0500"
-    },
-    {
         "title": "Egipto vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Egipto%20vs",
         "pubdate": "Tue, 19 Nov 2024 11:00:00 -0500"
@@ -65,6 +60,11 @@
         "pubdate": "Mon, 18 Nov 2024 20:00:00 -0500"
     },
     {
+        "title": "Eliminatorias Copa del Mundo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Eliminatorias%20Copa%20del%20Mundo",
+        "pubdate": "Mon, 18 Nov 2024 23:00:00 -0500"
+    },
+    {
         "title": "Ticketmaster",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Ticketmaster",
         "pubdate": "Mon, 18 Nov 2024 12:00:00 -0500"
@@ -80,6 +80,16 @@
         "pubdate": "Mon, 18 Nov 2024 13:00:00 -0500"
     },
     {
+        "title": "Eliminatorias Sudamericanas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Eliminatorias%20Sudamericanas",
+        "pubdate": "Mon, 18 Nov 2024 16:00:00 -0500"
+    },
+    {
+        "title": "Bolivia vs Paraguay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bolivia%20vs%20Paraguay",
+        "pubdate": "Mon, 18 Nov 2024 19:00:00 -0500"
+    },
+    {
         "title": "Anni Albers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Anni%20Albers",
         "pubdate": "Mon, 18 Nov 2024 09:00:00 -0500"
@@ -88,15 +98,5 @@
         "title": "Movistar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Movistar",
         "pubdate": "Mon, 18 Nov 2024 14:00:00 -0500"
-    },
-    {
-        "title": "Bolivia vs Paraguay",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bolivia%20vs%20Paraguay",
-        "pubdate": "Mon, 18 Nov 2024 19:00:00 -0500"
-    },
-    {
-        "title": "San Marino",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#San%20Marino",
-        "pubdate": "Mon, 18 Nov 2024 17:00:00 -0500"
     }
 ]
