@@ -20,8 +20,8 @@
         "pubdate": "Mon, 18 Nov 2024 19:00:00 +0200"
     },
     {
-        "title": "Geoana",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Geoana",
+        "title": "Ciuca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ciuca",
         "pubdate": "Mon, 18 Nov 2024 15:00:00 +0200"
     },
     {
@@ -40,14 +40,9 @@
         "pubdate": "Mon, 18 Nov 2024 01:00:00 +0200"
     },
     {
-        "title": "Spania  Elveția",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Spania%20%20Elve%C8%9Bia",
+        "title": "Spania - Elveția",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Spania%20-%20Elve%C8%9Bia",
         "pubdate": "Mon, 18 Nov 2024 21:00:00 +0200"
-    },
-    {
-        "title": "Ciuca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ciuca",
-        "pubdate": "Mon, 18 Nov 2024 22:00:00 +0200"
     },
     {
         "title": "Klaus Iohannis",
@@ -75,6 +70,11 @@
         "pubdate": "Mon, 18 Nov 2024 15:00:00 +0200"
     },
     {
+        "title": "Simion",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Simion",
+        "pubdate": "Mon, 18 Nov 2024 23:00:00 +0200"
+    },
+    {
         "title": "Alex Pașcanu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Alex%20Pa%C8%99canu",
         "pubdate": "Mon, 18 Nov 2024 22:00:00 +0200"
@@ -90,13 +90,13 @@
         "pubdate": "Mon, 18 Nov 2024 23:00:00 +0200"
     },
     {
-        "title": "Loredana Salanță",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Loredana%20Salan%C8%9B%C4%83",
-        "pubdate": "Mon, 18 Nov 2024 01:00:00 +0200"
-    },
-    {
         "title": "Recorder.ro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Recorder.ro",
         "pubdate": "Mon, 18 Nov 2024 14:00:00 +0200"
+    },
+    {
+        "title": "Locuri rezidentiat 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Locuri%20rezidentiat%202024",
+        "pubdate": "Mon, 18 Nov 2024 01:00:00 +0200"
     }
 ]
