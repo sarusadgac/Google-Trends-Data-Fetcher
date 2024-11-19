@@ -10,6 +10,11 @@
         "pubdate": "Mon, 18 Nov 2024 01:00:00 +0100"
     },
     {
+        "title": "Ticketmaster",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ticketmaster",
+        "pubdate": "Mon, 18 Nov 2024 18:00:00 +0100"
+    },
+    {
         "title": "Verbraucherzentrale",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Verbraucherzentrale",
         "pubdate": "Mon, 18 Nov 2024 21:00:00 +0100"
@@ -93,10 +98,5 @@
         "title": "VfB Stuttgart",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VfB%20Stuttgart",
         "pubdate": "Sun, 10 Nov 2024 18:00:00 +0100"
-    },
-    {
-        "title": "Ravennaschlucht",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ravennaschlucht",
-        "pubdate": "Sun, 10 Nov 2024 11:00:00 +0100"
     }
 ]
