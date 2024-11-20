@@ -20,6 +20,11 @@
         "pubdate": "Tue, 19 Nov 2024 09:00:00 +0100"
     },
     {
+        "title": "Laos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Laos",
+        "pubdate": "Tue, 19 Nov 2024 15:00:00 +0100"
+    },
+    {
         "title": "The Game Awards",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#The%20Game%20Awards",
         "pubdate": "Tue, 19 Nov 2024 02:00:00 +0100"
@@ -93,10 +98,5 @@
         "title": "Hermit",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Hermit",
         "pubdate": "Mon, 18 Nov 2024 14:00:00 +0100"
-    },
-    {
-        "title": "Huda Beauty",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Huda%20Beauty",
-        "pubdate": "Mon, 18 Nov 2024 12:00:00 +0100"
     }
 ]

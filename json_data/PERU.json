@@ -35,19 +35,9 @@
         "pubdate": "Tue, 19 Nov 2024 15:00:00 -0500"
     },
     {
-        "title": "Venezuela",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Venezuela",
-        "pubdate": "Tue, 19 Nov 2024 19:00:00 -0500"
-    },
-    {
         "title": "Dia de la Mujer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Dia%20de%20la%20Mujer",
         "pubdate": "Tue, 19 Nov 2024 12:00:00 -0500"
-    },
-    {
-        "title": "Egipto vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Egipto%20vs",
-        "pubdate": "Tue, 19 Nov 2024 11:00:00 -0500"
     },
     {
         "title": "Paolo Guerrero",
@@ -55,9 +45,24 @@
         "pubdate": "Tue, 19 Nov 2024 20:00:00 -0500"
     },
     {
+        "title": "Egipto vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Egipto%20vs",
+        "pubdate": "Tue, 19 Nov 2024 11:00:00 -0500"
+    },
+    {
+        "title": "Agustin Lozano",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Agustin%20Lozano",
+        "pubdate": "Tue, 19 Nov 2024 21:00:00 -0500"
+    },
+    {
         "title": "Futbol",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Futbol",
         "pubdate": "Tue, 19 Nov 2024 20:00:00 -0500"
+    },
+    {
+        "title": "Cronograma de pagos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Cronograma%20de%20pagos",
+        "pubdate": "Tue, 19 Nov 2024 04:00:00 -0500"
     },
     {
         "title": "WOW",
@@ -85,18 +90,13 @@
         "pubdate": "Tue, 19 Nov 2024 20:00:00 -0500"
     },
     {
-        "title": "Balatro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Balatro",
-        "pubdate": "Tue, 19 Nov 2024 00:00:00 -0500"
-    },
-    {
         "title": "CONMEBOL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#CONMEBOL",
         "pubdate": "Tue, 19 Nov 2024 21:00:00 -0500"
     },
     {
-        "title": "Paul Teal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Paul%20Teal",
-        "pubdate": "Tue, 19 Nov 2024 21:00:00 -0500"
+        "title": "Balatro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Balatro",
+        "pubdate": "Tue, 19 Nov 2024 00:00:00 -0500"
     }
 ]
