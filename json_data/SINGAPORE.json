@@ -35,6 +35,11 @@
         "pubdate": "Wed, 20 Nov 2024 02:00:00 +0800"
     },
     {
+        "title": "COE",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#COE",
+        "pubdate": "Wed, 20 Nov 2024 17:00:00 +0800"
+    },
+    {
         "title": "How to Train Your Dragon live-action",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#How%20to%20Train%20Your%20Dragon%20live-action",
         "pubdate": "Wed, 20 Nov 2024 14:00:00 +0800"
@@ -80,6 +85,11 @@
         "pubdate": "Wed, 20 Nov 2024 20:00:00 +0800"
     },
     {
+        "title": "Sarah McBride",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Sarah%20McBride",
+        "pubdate": "Wed, 20 Nov 2024 20:00:00 +0800"
+    },
+    {
         "title": "Indonesia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Indonesia",
         "pubdate": "Wed, 20 Nov 2024 14:00:00 +0800"
@@ -88,15 +98,5 @@
         "title": "Diddy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Diddy",
         "pubdate": "Wed, 20 Nov 2024 00:00:00 +0800"
-    },
-    {
-        "title": "Ukraine war",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Ukraine%20war",
-        "pubdate": "Wed, 20 Nov 2024 11:00:00 +0800"
-    },
-    {
-        "title": "Russia-Ukraine war",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Russia-Ukraine%20war",
-        "pubdate": "Wed, 20 Nov 2024 15:00:00 +0800"
     }
 ]
