@@ -1,5 +1,10 @@
 [
     {
+        "title": "Penn",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Penn",
+        "pubdate": "Thu, 21 Nov 2024 07:00:00 +1300"
+    },
+    {
         "title": "Wicked",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Wicked",
         "pubdate": "Wed, 20 Nov 2024 21:00:00 +1300"
@@ -93,10 +98,5 @@
         "title": "Chatham Islands",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Chatham%20Islands",
         "pubdate": "Tue, 19 Nov 2024 19:00:00 +1300"
-    },
-    {
-        "title": "FIFA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#FIFA",
-        "pubdate": "Tue, 19 Nov 2024 00:00:00 +1300"
     }
 ]
