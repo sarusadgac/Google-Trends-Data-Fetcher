@@ -45,6 +45,11 @@
         "pubdate": "Tue, 19 Nov 2024 10:00:00 -0500"
     },
     {
+        "title": "Peru",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Peru",
+        "pubdate": "Tue, 19 Nov 2024 18:00:00 -0500"
+    },
+    {
         "title": "Partidos de hoy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Partidos%20de%20hoy",
         "pubdate": "Tue, 19 Nov 2024 11:00:00 -0500"
@@ -55,9 +60,9 @@
         "pubdate": "Tue, 19 Nov 2024 13:00:00 -0500"
     },
     {
-        "title": "RPP EN VIVO",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#RPP%20EN%20VIVO",
-        "pubdate": "Tue, 19 Nov 2024 20:00:00 -0500"
+        "title": "Día del Hombre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#D%C3%ADa%20del%20Hombre",
+        "pubdate": "Tue, 19 Nov 2024 07:00:00 -0500"
     },
     {
         "title": "MagisTV",
@@ -65,9 +70,9 @@
         "pubdate": "Tue, 19 Nov 2024 21:00:00 -0500"
     },
     {
-        "title": "Cuando es el dia del Hombre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Cuando%20es%20el%20dia%20del%20Hombre",
-        "pubdate": "Tue, 19 Nov 2024 07:00:00 -0500"
+        "title": "Corinthians vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Corinthians%20vs",
+        "pubdate": "Tue, 19 Nov 2024 21:00:00 -0500"
     },
     {
         "title": "Dia de la Mujer",
@@ -93,10 +98,5 @@
         "title": "Latina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Latina",
         "pubdate": "Tue, 19 Nov 2024 18:00:00 -0500"
-    },
-    {
-        "title": "Bosnia y Herzegovina  Países Bajos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bosnia%20y%20Herzegovina%20%20Pa%C3%ADses%20Bajos",
-        "pubdate": "Tue, 19 Nov 2024 15:00:00 -0500"
     }
 ]
