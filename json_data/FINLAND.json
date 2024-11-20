@@ -60,11 +60,6 @@
         "pubdate": "Mon, 18 Nov 2024 12:00:00 +0200"
     },
     {
-        "title": "Slush",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Slush",
-        "pubdate": "Mon, 18 Nov 2024 12:00:00 +0200"
-    },
-    {
         "title": "Nations League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Nations%20League",
         "pubdate": "Mon, 18 Nov 2024 09:00:00 +0200"
@@ -73,6 +68,11 @@
         "title": "Game Awards",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Game%20Awards",
         "pubdate": "Mon, 18 Nov 2024 23:00:00 +0200"
+    },
+    {
+        "title": "Slush",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Slush",
+        "pubdate": "Mon, 18 Nov 2024 12:00:00 +0200"
     },
     {
         "title": "Dune: Prophecy",
