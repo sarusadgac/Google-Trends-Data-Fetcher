@@ -1,10 +1,5 @@
 [
     {
-        "title": "Linda McMahon Education",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Linda%20McMahon%20Education",
-        "pubdate": "Wed, 20 Nov 2024 00:00:00 -0800"
-    },
-    {
         "title": "Russia Ukraine",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Russia%20Ukraine",
         "pubdate": "Wed, 20 Nov 2024 02:00:00 -0800"
@@ -25,6 +20,11 @@
         "pubdate": "Tue, 19 Nov 2024 03:00:00 -0800"
     },
     {
+        "title": "Linda McMahon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Linda%20McMahon",
+        "pubdate": "Tue, 19 Nov 2024 16:00:00 -0800"
+    },
+    {
         "title": "Matt Gaetz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Matt%20Gaetz",
         "pubdate": "Tue, 19 Nov 2024 08:00:00 -0800"
@@ -40,9 +40,9 @@
         "pubdate": "Tue, 19 Nov 2024 22:00:00 -0800"
     },
     {
-        "title": "Argentina vs Peru",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Argentina%20vs%20Peru",
-        "pubdate": "Tue, 19 Nov 2024 16:00:00 -0800"
+        "title": "Bomb cyclone",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bomb%20cyclone",
+        "pubdate": "Tue, 19 Nov 2024 01:00:00 -0800"
     },
     {
         "title": "SpaceX",
@@ -50,14 +50,14 @@
         "pubdate": "Tue, 19 Nov 2024 14:00:00 -0800"
     },
     {
-        "title": "Bomb cyclone",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bomb%20cyclone",
-        "pubdate": "Tue, 19 Nov 2024 01:00:00 -0800"
-    },
-    {
         "title": "Sarah McBride",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Sarah%20McBride",
         "pubdate": "Tue, 19 Nov 2024 07:00:00 -0800"
+    },
+    {
+        "title": "Argentina vs Peru",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Argentina%20vs%20Peru",
+        "pubdate": "Tue, 19 Nov 2024 16:00:00 -0800"
     },
     {
         "title": "Warriors",
@@ -65,14 +65,14 @@
         "pubdate": "Tue, 19 Nov 2024 03:00:00 -0800"
     },
     {
-        "title": "Bruins",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bruins",
-        "pubdate": "Tue, 19 Nov 2024 06:00:00 -0800"
-    },
-    {
         "title": "Brazil vs Uruguay",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Brazil%20vs%20Uruguay",
         "pubdate": "Tue, 19 Nov 2024 17:00:00 -0800"
+    },
+    {
+        "title": "Bruins",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bruins",
+        "pubdate": "Tue, 19 Nov 2024 06:00:00 -0800"
     },
     {
         "title": "Nuggets",
@@ -90,13 +90,13 @@
         "pubdate": "Tue, 19 Nov 2024 10:00:00 -0800"
     },
     {
+        "title": "Purdue basketball",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Purdue%20basketball",
+        "pubdate": "Tue, 19 Nov 2024 19:00:00 -0800"
+    },
+    {
         "title": "Population",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Population",
         "pubdate": "Tue, 19 Nov 2024 18:00:00 -0800"
-    },
-    {
-        "title": "Diddy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Diddy",
-        "pubdate": "Tue, 19 Nov 2024 02:00:00 -0800"
     }
 ]
