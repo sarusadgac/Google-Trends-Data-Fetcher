@@ -15,6 +15,11 @@
         "pubdate": "Wed, 20 Nov 2024 01:00:00 +0100"
     },
     {
+        "title": "Chelsea vs Celtic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Chelsea%20vs%20Celtic",
+        "pubdate": "Wed, 20 Nov 2024 21:00:00 +0100"
+    },
+    {
         "title": "NELFUND",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#NELFUND",
         "pubdate": "Wed, 20 Nov 2024 06:00:00 +0100"
@@ -93,10 +98,5 @@
         "title": "Nigerian naira",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Nigerian%20naira",
         "pubdate": "Tue, 19 Nov 2024 17:00:00 +0100"
-    },
-    {
-        "title": "Benjamin Netanyahu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Benjamin%20Netanyahu",
-        "pubdate": "Tue, 19 Nov 2024 19:00:00 +0100"
     }
 ]
