@@ -1,8 +1,23 @@
 [
     {
-        "title": "Russia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Russia",
+        "title": "Argentina vs Peru",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Argentina%20vs%20Peru",
+        "pubdate": "Wed, 20 Nov 2024 08:00:00 +0800"
+    },
+    {
+        "title": "Ukraine",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Ukraine",
         "pubdate": "Wed, 20 Nov 2024 07:00:00 +0800"
+    },
+    {
+        "title": "Brazil vs Uruguay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Brazil%20vs%20Uruguay",
+        "pubdate": "Wed, 20 Nov 2024 09:00:00 +0800"
+    },
+    {
+        "title": "AR Rahman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#AR%20Rahman",
+        "pubdate": "Wed, 20 Nov 2024 08:00:00 +0800"
     },
     {
         "title": "Davis Cup",
@@ -15,13 +30,13 @@
         "pubdate": "Wed, 20 Nov 2024 00:00:00 +0800"
     },
     {
-        "title": "International Men's Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#International%20Men's%20Day",
-        "pubdate": "Tue, 19 Nov 2024 17:00:00 +0800"
+        "title": "Marselino Ferdinan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Marselino%20Ferdinan",
+        "pubdate": "Wed, 20 Nov 2024 08:00:00 +0800"
     },
     {
-        "title": "Keppel DC REIT",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Keppel%20DC%20REIT",
+        "title": "Keppel DC Reit",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Keppel%20DC%20Reit",
         "pubdate": "Tue, 19 Nov 2024 17:00:00 +0800"
     },
     {
@@ -45,14 +60,14 @@
         "pubdate": "Tue, 19 Nov 2024 21:00:00 +0800"
     },
     {
-        "title": "OK Lim",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#OK%20Lim",
-        "pubdate": "Mon, 18 Nov 2024 16:00:00 +0800"
-    },
-    {
         "title": "Wong Li Lin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Wong%20Li%20Lin",
         "pubdate": "Mon, 18 Nov 2024 21:00:00 +0800"
+    },
+    {
+        "title": "OK Lim",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#OK%20Lim",
+        "pubdate": "Mon, 18 Nov 2024 16:00:00 +0800"
     },
     {
         "title": "Dune: Prophecy",
@@ -83,20 +98,5 @@
         "title": "APEC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#APEC",
         "pubdate": "Sun, 17 Nov 2024 22:00:00 +0800"
-    },
-    {
-        "title": "UFC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#UFC",
-        "pubdate": "Sat, 16 Nov 2024 20:00:00 +0800"
-    },
-    {
-        "title": "UFC 309",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#UFC%20309",
-        "pubdate": "Sat, 16 Nov 2024 07:00:00 +0800"
-    },
-    {
-        "title": "Emerald of Katong",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Emerald%20of%20Katong",
-        "pubdate": "Sat, 16 Nov 2024 16:00:00 +0800"
     }
 ]
