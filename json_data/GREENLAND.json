@@ -1,33 +1,8 @@
 [
     {
-        "title": "Starship",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Starship",
-        "pubdate": "Wed, 20 Nov 2024 02:00:00 +0100"
-    },
-    {
         "title": "Argentina vs Peru",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Argentina%20vs%20Peru",
-        "pubdate": "Wed, 20 Nov 2024 05:30:00 +0530"
-    },
-    {
-        "title": "Brazil vs Uruguay",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Brazil%20vs%20Uruguay",
-        "pubdate": "Wed, 20 Nov 2024 07:00:00 +0000"
-    },
-    {
-        "title": "NHK紅白歌合戦 出場歌手",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#NHK%E7%B4%85%E7%99%BD%E6%AD%8C%E5%90%88%E6%88%A6%20%E5%87%BA%E5%A0%B4%E6%AD%8C%E6%89%8B",
-        "pubdate": "Wed, 20 Nov 2024 14:00:00 +0900"
-    },
-    {
-        "title": "Buß- und Bettag",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bu%C3%9F-%20und%20Bettag",
-        "pubdate": "Wed, 20 Nov 2024 08:00:00 +0100"
-    },
-    {
-        "title": "林夏薇",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E6%9E%97%E5%A4%8F%E8%96%87",
-        "pubdate": "Wed, 20 Nov 2024 00:00:00 +0800"
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Argentina%20vs%20Peru",
+        "pubdate": "Wed, 20 Nov 2024 04:00:00 +0000"
     },
     {
         "title": "Russia Ukraine",
@@ -40,44 +15,34 @@
         "pubdate": "Wed, 20 Nov 2024 11:00:00 +0300"
     },
     {
-        "title": "Putin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Putin",
-        "pubdate": "Wed, 20 Nov 2024 08:00:00 +0200"
+        "title": "NHK紅白歌合戦 出場歌手",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#NHK%E7%B4%85%E7%99%BD%E6%AD%8C%E5%90%88%E6%88%A6%20%E5%87%BA%E5%A0%B4%E6%AD%8C%E6%89%8B",
+        "pubdate": "Wed, 20 Nov 2024 14:00:00 +0900"
     },
     {
-        "title": "Eskom meter update",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Eskom%20meter%20update",
-        "pubdate": "Wed, 20 Nov 2024 09:00:00 +0200"
+        "title": "Starship",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Starship",
+        "pubdate": "Wed, 20 Nov 2024 02:00:00 +0100"
     },
     {
-        "title": "한화",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%ED%95%9C%ED%99%94",
-        "pubdate": "Wed, 20 Nov 2024 01:00:00 +0900"
+        "title": "Brazil vs Uruguay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Brazil%20vs%20Uruguay",
+        "pubdate": "Wed, 20 Nov 2024 06:30:00 +0530"
     },
     {
-        "title": "Nederlands elftal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nederlands%20elftal",
-        "pubdate": "Tue, 19 Nov 2024 20:00:00 +0100"
-    },
-    {
-        "title": "Linda McMahon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Linda%20McMahon",
+        "title": "Buß- und Bettag",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bu%C3%9F-%20und%20Bettag",
         "pubdate": "Wed, 20 Nov 2024 08:00:00 +0100"
     },
     {
-        "title": "Atacms",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Atacms",
-        "pubdate": "Wed, 20 Nov 2024 09:00:00 +0100"
+        "title": "林夏薇",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E6%9E%97%E5%A4%8F%E8%96%87",
+        "pubdate": "Wed, 20 Nov 2024 00:00:00 +0800"
     },
     {
-        "title": "Dia del psicologo Colombia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Dia%20del%20psicologo%20Colombia",
-        "pubdate": "Wed, 20 Nov 2024 02:00:00 -0500"
-    },
-    {
-        "title": "Maçkolik",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ma%C3%A7kolik",
-        "pubdate": "Wed, 20 Nov 2024 01:00:00 +0300"
+        "title": "Lakers vs Jazz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Lakers%20vs%20Jazz",
+        "pubdate": "Wed, 20 Nov 2024 12:00:00 +0800"
     },
     {
         "title": "AFL Draft",
@@ -85,9 +50,39 @@
         "pubdate": "Wed, 20 Nov 2024 19:00:00 +1100"
     },
     {
-        "title": "Demisexual",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Demisexual",
-        "pubdate": "Wed, 20 Nov 2024 00:00:00 +0000"
+        "title": "STALKER 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#STALKER%202",
+        "pubdate": "Wed, 20 Nov 2024 08:00:00 +0200"
+    },
+    {
+        "title": "Argentina  Perú",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Argentina%20%20Per%C3%BA",
+        "pubdate": "Wed, 20 Nov 2024 01:00:00 +0100"
+    },
+    {
+        "title": "Lakers x Jazz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lakers%20x%20Jazz",
+        "pubdate": "Wed, 20 Nov 2024 01:00:00 -0500"
+    },
+    {
+        "title": "한화",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%ED%95%9C%ED%99%94",
+        "pubdate": "Wed, 20 Nov 2024 01:00:00 +0900"
+    },
+    {
+        "title": "Slub od pierwszego wejrzenia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Slub%20od%20pierwszego%20wejrzenia",
+        "pubdate": "Wed, 20 Nov 2024 00:00:00 +0100"
+    },
+    {
+        "title": "Ucrania",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Ucrania",
+        "pubdate": "Wed, 20 Nov 2024 02:00:00 -0500"
+    },
+    {
+        "title": "Argentina  Perù",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Argentina%20%20Per%C3%B9",
+        "pubdate": "Wed, 20 Nov 2024 02:00:00 +0100"
     },
     {
         "title": "Viktor Gyökeres",
@@ -95,8 +90,13 @@
         "pubdate": "Wed, 20 Nov 2024 00:00:00 +0100"
     },
     {
-        "title": "Lakers  Jazz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Lakers%20%20Jazz",
-        "pubdate": "Wed, 20 Nov 2024 00:00:00 -0600"
+        "title": "Brazília–uruguay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Braz%C3%ADlia%E2%80%93uruguay",
+        "pubdate": "Wed, 20 Nov 2024 06:00:00 +0100"
+    },
+    {
+        "title": "Dia del psicologo Colombia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Dia%20del%20psicologo%20Colombia",
+        "pubdate": "Wed, 20 Nov 2024 02:00:00 -0500"
     }
 ]
