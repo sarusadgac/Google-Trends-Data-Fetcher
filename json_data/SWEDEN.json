@@ -1,10 +1,5 @@
 [
     {
-        "title": "Johanna Rytting Kaneryd",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Johanna%20Rytting%20Kaneryd",
-        "pubdate": "Wed, 20 Nov 2024 14:00:00 +0100"
-    },
-    {
         "title": "Atacms",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Atacms",
         "pubdate": "Wed, 20 Nov 2024 09:00:00 +0100"
@@ -18,11 +13,6 @@
         "title": "Dr. Oz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Dr.%20Oz",
         "pubdate": "Wed, 20 Nov 2024 09:00:00 +0100"
-    },
-    {
-        "title": "Destination Gotland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Destination%20Gotland",
-        "pubdate": "Wed, 20 Nov 2024 12:00:00 +0100"
     },
     {
         "title": "How to Train Your Dragon",
@@ -65,6 +55,11 @@
         "pubdate": "Tue, 19 Nov 2024 21:00:00 +0100"
     },
     {
+        "title": "Johanna Rytting Kaneryd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Johanna%20Rytting%20Kaneryd",
+        "pubdate": "Tue, 19 Nov 2024 23:00:00 +0100"
+    },
+    {
         "title": "Sverige",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sverige",
         "pubdate": "Tue, 19 Nov 2024 23:00:00 +0100"
@@ -98,5 +93,10 @@
         "title": "Woke",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Woke",
         "pubdate": "Tue, 19 Nov 2024 01:00:00 +0100"
+    },
+    {
+        "title": "Signum",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Signum",
+        "pubdate": "Tue, 19 Nov 2024 21:00:00 +0100"
     }
 ]

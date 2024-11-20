@@ -20,11 +20,6 @@
         "pubdate": "Tue, 19 Nov 2024 10:00:00 -0500"
     },
     {
-        "title": "Peru",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Peru",
-        "pubdate": "Tue, 19 Nov 2024 18:00:00 -0500"
-    },
-    {
         "title": "Partidos de hoy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Partidos%20de%20hoy",
         "pubdate": "Tue, 19 Nov 2024 11:00:00 -0500"
@@ -38,6 +33,11 @@
         "title": "MagisTV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#MagisTV",
         "pubdate": "Tue, 19 Nov 2024 21:00:00 -0500"
+    },
+    {
+        "title": "Cuando es el dia del Hombre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Cuando%20es%20el%20dia%20del%20Hombre",
+        "pubdate": "Tue, 19 Nov 2024 07:00:00 -0500"
     },
     {
         "title": "Dia de la Mujer",
@@ -70,6 +70,11 @@
         "pubdate": "Tue, 19 Nov 2024 13:00:00 -0500"
     },
     {
+        "title": "Paolo Guerrero",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Paolo%20Guerrero",
+        "pubdate": "Tue, 19 Nov 2024 20:00:00 -0500"
+    },
+    {
         "title": "Futbol",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Futbol",
         "pubdate": "Tue, 19 Nov 2024 20:00:00 -0500"
@@ -93,10 +98,5 @@
         "title": "Montenegro  Turquía",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Montenegro%20%20Turqu%C3%ADa",
         "pubdate": "Tue, 19 Nov 2024 17:00:00 -0500"
-    },
-    {
-        "title": "Canada vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Canada%20vs",
-        "pubdate": "Tue, 19 Nov 2024 21:00:00 -0500"
     }
 ]
