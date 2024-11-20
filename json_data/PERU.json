@@ -15,9 +15,14 @@
         "pubdate": "Tue, 19 Nov 2024 11:00:00 -0500"
     },
     {
-        "title": "Bosnia y Herzegovina,  Países Bajos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bosnia%20y%20Herzegovina,%20%20Pa%C3%ADses%20Bajos",
-        "pubdate": "Tue, 19 Nov 2024 15:00:00 -0500"
+        "title": "MagisTV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#MagisTV",
+        "pubdate": "Tue, 19 Nov 2024 21:00:00 -0500"
+    },
+    {
+        "title": "Deportes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Deportes",
+        "pubdate": "Tue, 19 Nov 2024 19:00:00 -0500"
     },
     {
         "title": "Latina",
@@ -25,8 +30,13 @@
         "pubdate": "Tue, 19 Nov 2024 18:00:00 -0500"
     },
     {
-        "title": "Deportes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Deportes",
+        "title": "Bosnia y Herzegovina  Países Bajos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bosnia%20y%20Herzegovina%20%20Pa%C3%ADses%20Bajos",
+        "pubdate": "Tue, 19 Nov 2024 15:00:00 -0500"
+    },
+    {
+        "title": "Venezuela",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Venezuela",
         "pubdate": "Tue, 19 Nov 2024 19:00:00 -0500"
     },
     {
@@ -35,14 +45,14 @@
         "pubdate": "Tue, 19 Nov 2024 12:00:00 -0500"
     },
     {
-        "title": "Venezuela",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Venezuela",
-        "pubdate": "Tue, 19 Nov 2024 19:00:00 -0500"
-    },
-    {
         "title": "Egipto vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Egipto%20vs",
         "pubdate": "Tue, 19 Nov 2024 11:00:00 -0500"
+    },
+    {
+        "title": "Paolo Guerrero",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Paolo%20Guerrero",
+        "pubdate": "Tue, 19 Nov 2024 20:00:00 -0500"
     },
     {
         "title": "Futbol",
@@ -55,14 +65,14 @@
         "pubdate": "Tue, 19 Nov 2024 17:00:00 -0500"
     },
     {
+        "title": "America",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#America",
+        "pubdate": "Tue, 19 Nov 2024 20:00:00 -0500"
+    },
+    {
         "title": "Montenegro  Turquía",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Montenegro%20%20Turqu%C3%ADa",
         "pubdate": "Tue, 19 Nov 2024 17:00:00 -0500"
-    },
-    {
-        "title": "Paolo Guerrero",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Paolo%20Guerrero",
-        "pubdate": "Tue, 19 Nov 2024 20:00:00 -0500"
     },
     {
         "title": "Policia",
@@ -70,8 +80,8 @@
         "pubdate": "Tue, 19 Nov 2024 15:00:00 -0500"
     },
     {
-        "title": "America",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#America",
+        "title": "Lionel Messi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Lionel%20Messi",
         "pubdate": "Tue, 19 Nov 2024 20:00:00 -0500"
     },
     {
@@ -80,23 +90,13 @@
         "pubdate": "Tue, 19 Nov 2024 00:00:00 -0500"
     },
     {
-        "title": "Lionel Messi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Lionel%20Messi",
-        "pubdate": "Tue, 19 Nov 2024 20:00:00 -0500"
+        "title": "CONMEBOL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#CONMEBOL",
+        "pubdate": "Tue, 19 Nov 2024 21:00:00 -0500"
     },
     {
-        "title": "Peru vs Argentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Peru%20vs%20Argentina",
-        "pubdate": "Mon, 18 Nov 2024 08:00:00 -0500"
-    },
-    {
-        "title": "Chile  Venezuela",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Chile%20%20Venezuela",
-        "pubdate": "Mon, 18 Nov 2024 20:00:00 -0500"
-    },
-    {
-        "title": "Bolivia  Paraguay",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bolivia%20%20Paraguay",
-        "pubdate": "Mon, 18 Nov 2024 19:00:00 -0500"
+        "title": "Paul Teal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Paul%20Teal",
+        "pubdate": "Tue, 19 Nov 2024 21:00:00 -0500"
     }
 ]

@@ -1,5 +1,10 @@
 [
     {
+        "title": "Ucrania",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Ucrania",
+        "pubdate": "Wed, 20 Nov 2024 02:00:00 +0000"
+    },
+    {
         "title": "Argentina  Peru",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Argentina%20%20Peru",
         "pubdate": "Wed, 20 Nov 2024 00:00:00 +0000"
@@ -10,13 +15,13 @@
         "pubdate": "Wed, 20 Nov 2024 00:00:00 +0000"
     },
     {
-        "title": "NATO",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#NATO",
+        "title": "Chile  Venezuela",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Chile%20%20Venezuela",
         "pubdate": "Wed, 20 Nov 2024 01:00:00 +0000"
     },
     {
-        "title": "Chile  Venezuela",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Chile%20%20Venezuela",
+        "title": "NATO",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#NATO",
         "pubdate": "Wed, 20 Nov 2024 01:00:00 +0000"
     },
     {
@@ -35,11 +40,6 @@
         "pubdate": "Tue, 19 Nov 2024 17:00:00 +0000"
     },
     {
-        "title": "Brasil  Uruguai",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Brasil%20%20Uruguai",
-        "pubdate": "Tue, 19 Nov 2024 19:00:00 +0000"
-    },
-    {
         "title": "Bryan Adams",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bryan%20Adams",
         "pubdate": "Tue, 19 Nov 2024 00:00:00 +0000"
@@ -48,6 +48,11 @@
         "title": "Suécia  Azerbaijão",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Su%C3%A9cia%20%20Azerbaij%C3%A3o",
         "pubdate": "Tue, 19 Nov 2024 21:00:00 +0000"
+    },
+    {
+        "title": "Guerra Ucrânia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Guerra%20Ucr%C3%A2nia",
+        "pubdate": "Tue, 19 Nov 2024 00:00:00 +0000"
     },
     {
         "title": "Quenda",
@@ -93,10 +98,5 @@
         "title": "Hungria  Alemanha",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Hungria%20%20Alemanha",
         "pubdate": "Tue, 19 Nov 2024 21:00:00 +0000"
-    },
-    {
-        "title": "Guerra ucrania",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Guerra%20ucrania",
-        "pubdate": "Tue, 19 Nov 2024 15:00:00 +0000"
     }
 ]
