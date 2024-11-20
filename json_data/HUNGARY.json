@@ -15,6 +15,16 @@
         "pubdate": "Wed, 20 Nov 2024 00:00:00 +0100"
     },
     {
+        "title": "Molnár Andrea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Moln%C3%A1r%20Andrea",
+        "pubdate": "Wed, 20 Nov 2024 11:00:00 +0100"
+    },
+    {
+        "title": "Oroszország",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Oroszorsz%C3%A1g",
+        "pubdate": "Wed, 20 Nov 2024 12:00:00 +0100"
+    },
+    {
         "title": "Varga Barnabás",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Varga%20Barnab%C3%A1s",
         "pubdate": "Wed, 20 Nov 2024 08:00:00 +0100"
@@ -55,13 +65,13 @@
         "pubdate": "Tue, 19 Nov 2024 08:00:00 +0100"
     },
     {
-        "title": "Bodnar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bodnar",
+        "title": "Nadal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Nadal",
         "pubdate": "Tue, 19 Nov 2024 23:00:00 +0100"
     },
     {
-        "title": "Nadal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Nadal",
+        "title": "Bodnar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bodnar",
         "pubdate": "Tue, 19 Nov 2024 23:00:00 +0100"
     },
     {
@@ -88,15 +98,5 @@
         "title": "San Marino",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#San%20Marino",
         "pubdate": "Tue, 19 Nov 2024 11:00:00 +0100"
-    },
-    {
-        "title": "Bangó Margit",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bang%C3%B3%20Margit",
-        "pubdate": "Tue, 19 Nov 2024 11:00:00 +0100"
-    },
-    {
-        "title": "G.w.M",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#G.w.M",
-        "pubdate": "Tue, 19 Nov 2024 17:00:00 +0100"
     }
 ]

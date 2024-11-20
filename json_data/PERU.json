@@ -1,7 +1,7 @@
 [
     {
-        "title": "Ucrania",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Ucrania",
+        "title": "Rusia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Rusia",
         "pubdate": "Wed, 20 Nov 2024 02:00:00 -0500"
     },
     {
@@ -25,11 +25,6 @@
         "pubdate": "Tue, 19 Nov 2024 11:00:00 -0500"
     },
     {
-        "title": "Tarjeta roja",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Tarjeta%20roja",
-        "pubdate": "Tue, 19 Nov 2024 16:00:00 -0500"
-    },
-    {
         "title": "MagisTV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#MagisTV",
         "pubdate": "Tue, 19 Nov 2024 21:00:00 -0500"
@@ -50,14 +45,14 @@
         "pubdate": "Tue, 19 Nov 2024 15:00:00 -0500"
     },
     {
-        "title": "Agustin Lozano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Agustin%20Lozano",
-        "pubdate": "Tue, 19 Nov 2024 21:00:00 -0500"
-    },
-    {
         "title": "Dia de la Mujer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Dia%20de%20la%20Mujer",
         "pubdate": "Tue, 19 Nov 2024 12:00:00 -0500"
+    },
+    {
+        "title": "Agustin Lozano",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Agustin%20Lozano",
+        "pubdate": "Tue, 19 Nov 2024 21:00:00 -0500"
     },
     {
         "title": "Que se celebra hoy",
@@ -98,5 +93,10 @@
         "title": "Policia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Policia",
         "pubdate": "Tue, 19 Nov 2024 15:00:00 -0500"
+    },
+    {
+        "title": "Montenegro  Turquía",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Montenegro%20%20Turqu%C3%ADa",
+        "pubdate": "Tue, 19 Nov 2024 17:00:00 -0500"
     }
 ]
