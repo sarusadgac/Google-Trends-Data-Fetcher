@@ -45,9 +45,19 @@
         "pubdate": "Wed, 20 Nov 2024 02:00:00 -0500"
     },
     {
+        "title": "Tiago Nunes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Tiago%20Nunes",
+        "pubdate": "Wed, 20 Nov 2024 20:00:00 -0500"
+    },
+    {
         "title": "AméricaTV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Am%C3%A9ricaTV",
         "pubdate": "Wed, 20 Nov 2024 14:00:00 -0500"
+    },
+    {
+        "title": "Eliminatorias Copa del Mundo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Eliminatorias%20Copa%20del%20Mundo",
+        "pubdate": "Tue, 19 Nov 2024 09:00:00 -0500"
     },
     {
         "title": "Colombia  Ecuador",
@@ -55,14 +65,14 @@
         "pubdate": "Tue, 19 Nov 2024 10:00:00 -0500"
     },
     {
-        "title": "Tabla de posiciones Eliminatorias",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Tabla%20de%20posiciones%20Eliminatorias",
-        "pubdate": "Tue, 19 Nov 2024 16:00:00 -0500"
-    },
-    {
         "title": "Alemania vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Alemania%20vs",
         "pubdate": "Tue, 19 Nov 2024 13:00:00 -0500"
+    },
+    {
+        "title": "Día del Hombre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#D%C3%ADa%20del%20Hombre",
+        "pubdate": "Tue, 19 Nov 2024 07:00:00 -0500"
     },
     {
         "title": "Partidos de hoy",
@@ -70,19 +80,14 @@
         "pubdate": "Tue, 19 Nov 2024 11:00:00 -0500"
     },
     {
-        "title": "Chile",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Chile",
-        "pubdate": "Tue, 19 Nov 2024 20:00:00 -0500"
-    },
-    {
         "title": "MagisTV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#MagisTV",
         "pubdate": "Tue, 19 Nov 2024 21:00:00 -0500"
     },
     {
-        "title": "Cuando es el dia del Hombre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Cuando%20es%20el%20dia%20del%20Hombre",
-        "pubdate": "Tue, 19 Nov 2024 07:00:00 -0500"
+        "title": "Chile",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Chile",
+        "pubdate": "Tue, 19 Nov 2024 20:00:00 -0500"
     },
     {
         "title": "Dia de la Mujer",
@@ -93,10 +98,5 @@
         "title": "Brasileirao",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Brasileirao",
         "pubdate": "Tue, 19 Nov 2024 19:00:00 -0500"
-    },
-    {
-        "title": "Bolivia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bolivia",
-        "pubdate": "Tue, 19 Nov 2024 15:00:00 -0500"
     }
 ]
