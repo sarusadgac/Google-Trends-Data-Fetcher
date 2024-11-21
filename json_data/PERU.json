@@ -5,6 +5,11 @@
         "pubdate": "Thu, 21 Nov 2024 00:00:00 -0500"
     },
     {
+        "title": "Carlo Acutis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Carlo%20Acutis",
+        "pubdate": "Thu, 21 Nov 2024 11:00:00 -0500"
+    },
+    {
         "title": "Boca Juniors  Unión",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Boca%20Juniors%20%20Uni%C3%B3n",
         "pubdate": "Wed, 20 Nov 2024 19:00:00 -0500"
@@ -35,8 +40,8 @@
         "pubdate": "Wed, 20 Nov 2024 21:00:00 -0500"
     },
     {
-        "title": "Liga argentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Liga%20argentina",
+        "title": "Liga Argentina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Liga%20Argentina",
         "pubdate": "Wed, 20 Nov 2024 20:00:00 -0500"
     },
     {
@@ -93,10 +98,5 @@
         "title": "Chile",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Chile",
         "pubdate": "Tue, 19 Nov 2024 20:00:00 -0500"
-    },
-    {
-        "title": "Dia de la Mujer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Dia%20de%20la%20Mujer",
-        "pubdate": "Tue, 19 Nov 2024 12:00:00 -0500"
     }
 ]
