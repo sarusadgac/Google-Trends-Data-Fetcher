@@ -1,5 +1,10 @@
 [
     {
+        "title": "John Prescott",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#John%20Prescott",
+        "pubdate": "Thu, 21 Nov 2024 07:00:00 +0000"
+    },
+    {
         "title": "Beaujolais nouveau",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Beaujolais%20nouveau",
         "pubdate": "Thu, 21 Nov 2024 08:00:00 +0100"
@@ -10,19 +15,19 @@
         "pubdate": "Thu, 21 Nov 2024 12:30:00 +0530"
     },
     {
-        "title": "John Prescott",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#John%20Prescott",
-        "pubdate": "Thu, 21 Nov 2024 07:00:00 +0000"
-    },
-    {
-        "title": "廁所協會",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%BB%81%E6%89%80%E5%8D%94%E6%9C%83",
-        "pubdate": "Thu, 21 Nov 2024 09:00:00 +0800"
+        "title": "北の富士",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%8C%97%E3%81%AE%E5%AF%8C%E5%A3%AB",
+        "pubdate": "Thu, 21 Nov 2024 00:00:00 +0900"
     },
     {
         "title": "Hund",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hund",
         "pubdate": "Thu, 21 Nov 2024 09:00:00 +0100"
+    },
+    {
+        "title": "廁所協會",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%BB%81%E6%89%80%E5%8D%94%E6%9C%83",
+        "pubdate": "Thu, 21 Nov 2024 09:00:00 +0800"
     },
     {
         "title": "21 ноября праздник",
@@ -35,59 +40,19 @@
         "pubdate": "Wed, 20 Nov 2024 14:00:00 -0800"
     },
     {
-        "title": "北の富士",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%8C%97%E3%81%AE%E5%AF%8C%E5%A3%AB",
-        "pubdate": "Thu, 21 Nov 2024 00:00:00 +0900"
+        "title": "Madura United vs Arema FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Madura%20United%20vs%20Arema%20FC",
+        "pubdate": "Thu, 21 Nov 2024 15:00:00 +0700"
     },
     {
-        "title": "Blauzungenkrankheit",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Blauzungenkrankheit",
-        "pubdate": "Thu, 21 Nov 2024 07:00:00 +0100"
-    },
-    {
-        "title": "Inuikii",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Inuikii",
-        "pubdate": "Thu, 21 Nov 2024 08:00:00 +0100"
-    },
-    {
-        "title": "Gremio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Gremio",
-        "pubdate": "Thu, 21 Nov 2024 01:00:00 +0000"
-    },
-    {
-        "title": "Liam payne funeral",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Liam%20payne%20funeral",
-        "pubdate": "Thu, 21 Nov 2024 00:00:00 +0800"
-    },
-    {
-        "title": "Is Reddit down",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Is%20Reddit%20down",
-        "pubdate": "Thu, 21 Nov 2024 00:00:00 +0100"
-    },
-    {
-        "title": "Liga argentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Liga%20argentina",
-        "pubdate": "Thu, 21 Nov 2024 01:00:00 -0300"
+        "title": "Liam Payne funeral",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Liam%20Payne%20funeral",
+        "pubdate": "Thu, 21 Nov 2024 07:00:00 +1100"
     },
     {
         "title": "Adani",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Adani",
-        "pubdate": "Thu, 21 Nov 2024 10:00:00 +0300"
-    },
-    {
-        "title": "Stian Hole",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Stian%20Hole",
-        "pubdate": "Thu, 21 Nov 2024 09:00:00 +0100"
-    },
-    {
-        "title": "NVDA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#NVDA",
-        "pubdate": "Thu, 21 Nov 2024 00:00:00 +0200"
-    },
-    {
-        "title": "Nvidia stock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Nvidia%20stock",
-        "pubdate": "Thu, 21 Nov 2024 00:00:00 +0200"
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Adani",
+        "pubdate": "Thu, 21 Nov 2024 10:00:00 +0800"
     },
     {
         "title": "Internacional",
@@ -95,8 +60,43 @@
         "pubdate": "Thu, 21 Nov 2024 01:00:00 -0500"
     },
     {
-        "title": "Jaguar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Jaguar",
-        "pubdate": "Thu, 21 Nov 2024 00:00:00 +0800"
+        "title": "Atlético Nacional  Santa Fe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Atl%C3%A9tico%20Nacional%20%20Santa%20Fe",
+        "pubdate": "Thu, 21 Nov 2024 00:00:00 -0500"
+    },
+    {
+        "title": "Polis Akademisi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Polis%20Akademisi",
+        "pubdate": "Thu, 21 Nov 2024 01:00:00 +0300"
+    },
+    {
+        "title": "NVDA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#NVDA",
+        "pubdate": "Thu, 21 Nov 2024 00:00:00 +0200"
+    },
+    {
+        "title": "Liga Argentina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Liga%20Argentina",
+        "pubdate": "Thu, 21 Nov 2024 00:00:00 -0300"
+    },
+    {
+        "title": "UL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#UL",
+        "pubdate": "Thu, 21 Nov 2024 06:00:00 +0100"
+    },
+    {
+        "title": "Blauzungenkrankheit",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Blauzungenkrankheit",
+        "pubdate": "Thu, 21 Nov 2024 07:00:00 +0100"
+    },
+    {
+        "title": "Nvidia stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Nvidia%20stock",
+        "pubdate": "Thu, 21 Nov 2024 00:00:00 +0200"
+    },
+    {
+        "title": "Coral",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Coral",
+        "pubdate": "Fri, 22 Nov 2024 00:00:00 +1300"
     }
 ]
