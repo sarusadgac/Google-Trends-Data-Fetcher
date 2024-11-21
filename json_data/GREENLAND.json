@@ -1,25 +1,5 @@
 [
     {
-        "title": "北の富士",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%8C%97%E3%81%AE%E5%AF%8C%E5%A3%AB",
-        "pubdate": "Thu, 21 Nov 2024 00:00:00 +0900"
-    },
-    {
-        "title": "Pierre Palmade",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Pierre%20Palmade",
-        "pubdate": "Wed, 20 Nov 2024 01:00:00 +0100"
-    },
-    {
-        "title": "NVDA stock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#NVDA%20stock",
-        "pubdate": "Wed, 20 Nov 2024 14:00:00 -0800"
-    },
-    {
-        "title": "Adani",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Adani",
-        "pubdate": "Thu, 21 Nov 2024 09:30:00 +0530"
-    },
-    {
         "title": "Amersham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Amersham",
         "pubdate": "Thu, 21 Nov 2024 00:00:00 +0000"
@@ -40,19 +20,24 @@
         "pubdate": "Thu, 21 Nov 2024 03:00:00 +0300"
     },
     {
-        "title": "Liga argentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Liga%20argentina",
-        "pubdate": "Thu, 21 Nov 2024 01:00:00 -0300"
+        "title": "北の富士",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%8C%97%E3%81%AE%E5%AF%8C%E5%A3%AB",
+        "pubdate": "Thu, 21 Nov 2024 00:00:00 +0900"
     },
     {
-        "title": "NVDA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#NVDA",
-        "pubdate": "Thu, 21 Nov 2024 00:00:00 +0200"
+        "title": "Adani",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Adani",
+        "pubdate": "Thu, 21 Nov 2024 09:30:00 +0530"
     },
     {
-        "title": "Liam Payne funeral",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Liam%20Payne%20funeral",
-        "pubdate": "Thu, 21 Nov 2024 00:00:00 +0800"
+        "title": "Pierre Palmade",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Pierre%20Palmade",
+        "pubdate": "Wed, 20 Nov 2024 01:00:00 +0100"
+    },
+    {
+        "title": "NVDA stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#NVDA%20stock",
+        "pubdate": "Wed, 20 Nov 2024 14:00:00 -0800"
     },
     {
         "title": "Emeis",
@@ -60,29 +45,19 @@
         "pubdate": "Thu, 21 Nov 2024 00:00:00 +0100"
     },
     {
-        "title": "Lainey Wilson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lainey%20Wilson",
-        "pubdate": "Thu, 21 Nov 2024 00:00:00 -0500"
-    },
-    {
-        "title": "Bruce Willis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bruce%20Willis",
+        "title": "Wendy van Dijk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Wendy%20van%20Dijk",
         "pubdate": "Thu, 21 Nov 2024 00:00:00 +0100"
     },
     {
-        "title": "Desfile 20 de noviembre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Desfile%2020%20de%20noviembre",
-        "pubdate": "Wed, 20 Nov 2024 00:00:00 -0600"
+        "title": "Tyga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Tyga",
+        "pubdate": "Thu, 21 Nov 2024 09:00:00 +0800"
     },
     {
-        "title": "Liam Payne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Liam%20Payne",
-        "pubdate": "Thu, 21 Nov 2024 07:00:00 +0300"
-    },
-    {
-        "title": "Atlético Nacional  Santa Fe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Atl%C3%A9tico%20Nacional%20%20Santa%20Fe",
-        "pubdate": "Thu, 21 Nov 2024 00:00:00 -0500"
+        "title": "Liga argentina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Liga%20argentina",
+        "pubdate": "Thu, 21 Nov 2024 00:00:00 -0300"
     },
     {
         "title": "Ту-95",
@@ -90,13 +65,38 @@
         "pubdate": "Thu, 21 Nov 2024 01:00:00 +0200"
     },
     {
-        "title": "Beaujolais nouveau",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Beaujolais%20nouveau",
-        "pubdate": "Thu, 21 Nov 2024 02:00:00 +0100"
+        "title": "Bruce Willis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bruce%20Willis",
+        "pubdate": "Thu, 21 Nov 2024 00:00:00 +0100"
+    },
+    {
+        "title": "Liam Payne funeral",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Liam%20Payne%20funeral",
+        "pubdate": "Thu, 21 Nov 2024 00:00:00 +0800"
+    },
+    {
+        "title": "Lainey Wilson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lainey%20Wilson",
+        "pubdate": "Thu, 21 Nov 2024 00:00:00 -0500"
+    },
+    {
+        "title": "Chelsea vs Celtic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Chelsea%20vs%20Celtic",
+        "pubdate": "Thu, 21 Nov 2024 00:00:00 +0200"
+    },
+    {
+        "title": "حازم عادل",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#%D8%AD%D8%A7%D8%B2%D9%85%20%D8%B9%D8%A7%D8%AF%D9%84",
+        "pubdate": "Thu, 21 Nov 2024 03:00:00 +0300"
+    },
+    {
+        "title": "America vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#America%20vs",
+        "pubdate": "Thu, 21 Nov 2024 00:00:00 -0500"
     },
     {
         "title": "Penn",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Penn",
-        "pubdate": "Thu, 21 Nov 2024 06:00:00 +1100"
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Penn",
+        "pubdate": "Thu, 21 Nov 2024 07:00:00 +1300"
     }
 ]
