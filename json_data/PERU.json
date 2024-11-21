@@ -5,6 +5,11 @@
         "pubdate": "Thu, 21 Nov 2024 00:00:00 -0500"
     },
     {
+        "title": "Primera División",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Primera%20Divisi%C3%B3n",
+        "pubdate": "Thu, 21 Nov 2024 00:00:00 -0500"
+    },
+    {
         "title": "Boca Juniors  Unión",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Boca%20Juniors%20%20Uni%C3%B3n",
         "pubdate": "Wed, 20 Nov 2024 19:00:00 -0500"
@@ -38,11 +43,6 @@
         "title": "20 de noviembre",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#20%20de%20noviembre",
         "pubdate": "Wed, 20 Nov 2024 13:00:00 -0500"
-    },
-    {
-        "title": "Dia del Niño",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Dia%20del%20Ni%C3%B1o",
-        "pubdate": "Wed, 20 Nov 2024 11:00:00 -0500"
     },
     {
         "title": "Ucrania",
@@ -80,6 +80,11 @@
         "pubdate": "Tue, 19 Nov 2024 20:00:00 -0500"
     },
     {
+        "title": "Día del Hombre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#D%C3%ADa%20del%20Hombre",
+        "pubdate": "Tue, 19 Nov 2024 07:00:00 -0500"
+    },
+    {
         "title": "MagisTV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#MagisTV",
         "pubdate": "Tue, 19 Nov 2024 21:00:00 -0500"
@@ -88,11 +93,6 @@
         "title": "Chile",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Chile",
         "pubdate": "Tue, 19 Nov 2024 20:00:00 -0500"
-    },
-    {
-        "title": "Cuando es el dia del Hombre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Cuando%20es%20el%20dia%20del%20Hombre",
-        "pubdate": "Tue, 19 Nov 2024 07:00:00 -0500"
     },
     {
         "title": "Dia de la Mujer",

@@ -10,14 +10,14 @@
         "pubdate": "Thu, 21 Nov 2024 08:00:00 +0100"
     },
     {
+        "title": "Aldama",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Aldama",
+        "pubdate": "Thu, 21 Nov 2024 12:00:00 +0100"
+    },
+    {
         "title": "Ariana Grande",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ariana%20Grande",
         "pubdate": "Thu, 21 Nov 2024 00:00:00 +0100"
-    },
-    {
-        "title": "Salome Pradas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Salome%20Pradas",
-        "pubdate": "Thu, 21 Nov 2024 07:00:00 +0100"
     },
     {
         "title": "Alfred Costa dimite",
@@ -35,6 +35,11 @@
         "pubdate": "Thu, 21 Nov 2024 08:00:00 +0100"
     },
     {
+        "title": "El Ventorro Valencia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#El%20Ventorro%20Valencia",
+        "pubdate": "Thu, 21 Nov 2024 11:00:00 +0100"
+    },
+    {
         "title": "Susana Abaitua",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Susana%20Abaitua",
         "pubdate": "Thu, 21 Nov 2024 01:00:00 +0100"
@@ -45,14 +50,14 @@
         "pubdate": "Wed, 20 Nov 2024 23:00:00 +0100"
     },
     {
+        "title": "Putin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Putin",
+        "pubdate": "Wed, 20 Nov 2024 04:00:00 +0100"
+    },
+    {
         "title": "Brasil  Uruguay",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Brasil%20%20Uruguay",
         "pubdate": "Wed, 20 Nov 2024 02:00:00 +0100"
-    },
-    {
-        "title": "Ucrania",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ucrania",
-        "pubdate": "Wed, 20 Nov 2024 04:00:00 +0100"
     },
     {
         "title": "Rodri Hernández",
@@ -63,11 +68,6 @@
         "title": "Liam Payne funeral",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Liam%20Payne%20funeral",
         "pubdate": "Wed, 20 Nov 2024 21:00:00 +0100"
-    },
-    {
-        "title": "Rodri",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Rodri",
-        "pubdate": "Wed, 20 Nov 2024 23:00:00 +0100"
     },
     {
         "title": "Ana Moura",
@@ -85,18 +85,18 @@
         "pubdate": "Wed, 20 Nov 2024 20:00:00 +0100"
     },
     {
-        "title": "Franco",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Franco",
-        "pubdate": "Wed, 20 Nov 2024 10:00:00 +0100"
-    },
-    {
         "title": "Demisexual",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Demisexual",
         "pubdate": "Wed, 20 Nov 2024 16:00:00 +0100"
     },
     {
-        "title": "Putin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Putin",
-        "pubdate": "Wed, 20 Nov 2024 19:00:00 +0100"
+        "title": "Franco",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Franco",
+        "pubdate": "Wed, 20 Nov 2024 10:00:00 +0100"
+    },
+    {
+        "title": "Rodrigo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Rodrigo",
+        "pubdate": "Wed, 20 Nov 2024 23:00:00 +0100"
     }
 ]
