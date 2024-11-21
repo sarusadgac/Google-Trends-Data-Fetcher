@@ -15,11 +15,6 @@
         "pubdate": "Thu, 21 Nov 2024 01:30:00 +0530"
     },
     {
-        "title": "Telugu Titans",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Telugu%20Titans",
-        "pubdate": "Thu, 21 Nov 2024 00:30:00 +0530"
-    },
-    {
         "title": "Vivo Y300",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Vivo%20Y300",
         "pubdate": "Thu, 21 Nov 2024 16:30:00 +0530"
@@ -38,11 +33,6 @@
         "title": "Pat Cummins",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Pat%20Cummins",
         "pubdate": "Thu, 21 Nov 2024 06:30:00 +0530"
-    },
-    {
-        "title": "Vape",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Vape",
-        "pubdate": "Thu, 21 Nov 2024 14:30:00 +0530"
     },
     {
         "title": "Benjamin Netanyahu",
@@ -65,13 +55,18 @@
         "pubdate": "Wed, 20 Nov 2024 12:30:00 +0530"
     },
     {
+        "title": "Exit Poll Maharashtra",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Exit%20Poll%20Maharashtra",
+        "pubdate": "Wed, 20 Nov 2024 11:30:00 +0530"
+    },
+    {
         "title": "CBSE",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#CBSE",
         "pubdate": "Wed, 20 Nov 2024 22:30:00 +0530"
     },
     {
-        "title": "Maharashtra Election result date 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Maharashtra%20Election%20result%20date%202024",
+        "title": "Maharashtra election result Date 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Maharashtra%20election%20result%20Date%202024",
         "pubdate": "Wed, 20 Nov 2024 11:30:00 +0530"
     },
     {
@@ -80,8 +75,8 @@
         "pubdate": "Wed, 20 Nov 2024 19:30:00 +0530"
     },
     {
-        "title": "Share Market Today",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Share%20Market%20Today",
+        "title": "Share market today",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Share%20market%20today",
         "pubdate": "Wed, 20 Nov 2024 10:30:00 +0530"
     },
     {
@@ -98,5 +93,10 @@
         "title": "UGC NET",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#UGC%20NET",
         "pubdate": "Wed, 20 Nov 2024 07:30:00 +0530"
+    },
+    {
+        "title": "Share market holiday",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Share%20market%20holiday",
+        "pubdate": "Wed, 20 Nov 2024 09:30:00 +0530"
     }
 ]
