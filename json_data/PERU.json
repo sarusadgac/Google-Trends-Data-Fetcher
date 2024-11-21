@@ -5,6 +5,11 @@
         "pubdate": "Thu, 21 Nov 2024 00:00:00 -0500"
     },
     {
+        "title": "Pedro Castillo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Pedro%20Castillo",
+        "pubdate": "Thu, 21 Nov 2024 12:00:00 -0500"
+    },
+    {
         "title": "Carlo Acutis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Carlo%20Acutis",
         "pubdate": "Thu, 21 Nov 2024 11:00:00 -0500"
@@ -40,11 +45,6 @@
         "pubdate": "Wed, 20 Nov 2024 21:00:00 -0500"
     },
     {
-        "title": "Liga Argentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Liga%20Argentina",
-        "pubdate": "Wed, 20 Nov 2024 20:00:00 -0500"
-    },
-    {
         "title": "20 de noviembre",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#20%20de%20noviembre",
         "pubdate": "Wed, 20 Nov 2024 13:00:00 -0500"
@@ -70,11 +70,6 @@
         "pubdate": "Tue, 19 Nov 2024 10:00:00 -0500"
     },
     {
-        "title": "Peru",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Peru",
-        "pubdate": "Tue, 19 Nov 2024 19:00:00 -0500"
-    },
-    {
         "title": "PARTIDOS DE HOY",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#PARTIDOS%20DE%20HOY",
         "pubdate": "Tue, 19 Nov 2024 11:00:00 -0500"
@@ -98,5 +93,10 @@
         "title": "Chile",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Chile",
         "pubdate": "Tue, 19 Nov 2024 20:00:00 -0500"
+    },
+    {
+        "title": "Dia de la Mujer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Dia%20de%20la%20Mujer",
+        "pubdate": "Tue, 19 Nov 2024 12:00:00 -0500"
     }
 ]
