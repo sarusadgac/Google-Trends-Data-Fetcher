@@ -5,24 +5,24 @@
         "pubdate": "Thu, 21 Nov 2024 12:00:00 +0100"
     },
     {
-        "title": "Guerra Rusia Ucrania",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Guerra%20Rusia%20Ucrania",
-        "pubdate": "Thu, 21 Nov 2024 00:00:00 +0100"
-    },
-    {
         "title": "Ozempic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ozempic",
         "pubdate": "Thu, 21 Nov 2024 08:00:00 +0100"
     },
     {
-        "title": "Ariana Grande",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ariana%20Grande",
+        "title": "Guerra Rusia Ucrania",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Guerra%20Rusia%20Ucrania",
         "pubdate": "Thu, 21 Nov 2024 00:00:00 +0100"
     },
     {
         "title": "Dani fernandez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Dani%20fernandez",
         "pubdate": "Thu, 21 Nov 2024 01:00:00 +0100"
+    },
+    {
+        "title": "Guerra",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Guerra",
+        "pubdate": "Thu, 21 Nov 2024 07:00:00 +0100"
     },
     {
         "title": "Alfred Costa dimite",
@@ -40,19 +40,14 @@
         "pubdate": "Thu, 21 Nov 2024 11:00:00 +0100"
     },
     {
-        "title": "Wanda Nara",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Wanda%20Nara",
-        "pubdate": "Thu, 21 Nov 2024 13:00:00 +0100"
+        "title": "Mozos de Arousa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Mozos%20de%20Arousa",
+        "pubdate": "Thu, 21 Nov 2024 14:00:00 +0100"
     },
     {
         "title": "Susana Abaitua",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Susana%20Abaitua",
         "pubdate": "Thu, 21 Nov 2024 01:00:00 +0100"
-    },
-    {
-        "title": "Copa Davis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Copa%20Davis",
-        "pubdate": "Wed, 20 Nov 2024 13:00:00 +0100"
     },
     {
         "title": "Maria Becerra",
@@ -98,5 +93,10 @@
         "title": "Cd eldense sd huesca",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Cd%20eldense%20sd%20huesca",
         "pubdate": "Wed, 20 Nov 2024 20:00:00 +0100"
+    },
+    {
+        "title": "Franco",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Franco",
+        "pubdate": "Wed, 20 Nov 2024 10:00:00 +0100"
     }
 ]
