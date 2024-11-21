@@ -10,19 +10,14 @@
         "pubdate": "Thu, 21 Nov 2024 15:00:00 +0100"
     },
     {
-        "title": "Michel Fugain",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Michel%20Fugain",
-        "pubdate": "Thu, 21 Nov 2024 14:00:00 +0100"
-    },
-    {
         "title": "Boualem Sansal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Boualem%20Sansal",
         "pubdate": "Thu, 21 Nov 2024 16:00:00 +0100"
     },
     {
-        "title": "Paris FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Paris%20FC",
-        "pubdate": "Thu, 21 Nov 2024 10:00:00 +0100"
+        "title": "Michel Fugain",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Michel%20Fugain",
+        "pubdate": "Thu, 21 Nov 2024 14:00:00 +0100"
     },
     {
         "title": "Pont de Cheviré",
@@ -30,9 +25,19 @@
         "pubdate": "Thu, 21 Nov 2024 17:00:00 +0100"
     },
     {
+        "title": "Paris FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Paris%20FC",
+        "pubdate": "Thu, 21 Nov 2024 10:00:00 +0100"
+    },
+    {
         "title": "Missile intercontinental",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Missile%20intercontinental",
         "pubdate": "Thu, 21 Nov 2024 18:00:00 +0100"
+    },
+    {
+        "title": "Meteo France",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Meteo%20France",
+        "pubdate": "Wed, 20 Nov 2024 17:00:00 +0100"
     },
     {
         "title": "Pierre Palmade",
@@ -55,8 +60,8 @@
         "pubdate": "Wed, 20 Nov 2024 15:00:00 +0100"
     },
     {
-        "title": "STALKER 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#STALKER%202",
+        "title": "S.T.A.L.K.E.R. 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#S.T.A.L.K.E.R.%202",
         "pubdate": "Wed, 20 Nov 2024 16:00:00 +0100"
     },
     {
@@ -93,10 +98,5 @@
         "title": "Meteo Caen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Meteo%20Caen",
         "pubdate": "Wed, 20 Nov 2024 21:00:00 +0100"
-    },
-    {
-        "title": "Jenifer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Jenifer",
-        "pubdate": "Wed, 20 Nov 2024 20:00:00 +0100"
     }
 ]
