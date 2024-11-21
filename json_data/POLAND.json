@@ -15,9 +15,9 @@
         "pubdate": "Thu, 21 Nov 2024 14:00:00 +0100"
     },
     {
-        "title": "Dzień Życzliwości",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Dzie%C5%84%20%C5%BByczliwo%C5%9Bci",
-        "pubdate": "Thu, 21 Nov 2024 09:00:00 +0100"
+        "title": "Quebonafide",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Quebonafide",
+        "pubdate": "Thu, 21 Nov 2024 16:00:00 +0100"
     },
     {
         "title": "Fazy Księżyca",
@@ -25,9 +25,9 @@
         "pubdate": "Thu, 21 Nov 2024 09:00:00 +0100"
     },
     {
-        "title": "Quebonafide",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Quebonafide",
-        "pubdate": "Thu, 21 Nov 2024 16:00:00 +0100"
+        "title": "Dzień Życzliwości",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Dzie%C5%84%20%C5%BByczliwo%C5%9Bci",
+        "pubdate": "Thu, 21 Nov 2024 09:00:00 +0100"
     },
     {
         "title": "Jacek Kaczmarski",
@@ -40,14 +40,14 @@
         "pubdate": "Thu, 21 Nov 2024 17:00:00 +0100"
     },
     {
-        "title": "Beata Szydło",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Beata%20Szyd%C5%82o",
-        "pubdate": "Thu, 21 Nov 2024 07:00:00 +0100"
-    },
-    {
         "title": "Trzynasta emerytura 2025",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Trzynasta%20emerytura%202025",
         "pubdate": "Thu, 21 Nov 2024 18:00:00 +0100"
+    },
+    {
+        "title": "Beata Szydło",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Beata%20Szyd%C5%82o",
+        "pubdate": "Thu, 21 Nov 2024 07:00:00 +0100"
     },
     {
         "title": "Erupcja wulkanu islandia",
@@ -58,6 +58,11 @@
         "title": "Dzień Pracownika Socjalnego",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Dzie%C5%84%20Pracownika%20Socjalnego",
         "pubdate": "Thu, 21 Nov 2024 09:00:00 +0100"
+    },
+    {
+        "title": "Trzewik",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Trzewik",
+        "pubdate": "Thu, 21 Nov 2024 22:00:00 +0100"
     },
     {
         "title": "Going",
@@ -93,10 +98,5 @@
         "title": "McDonald",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#McDonald",
         "pubdate": "Wed, 20 Nov 2024 13:00:00 +0100"
-    },
-    {
-        "title": "Pogrzeb Liama payna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Pogrzeb%20Liama%20payna",
-        "pubdate": "Wed, 20 Nov 2024 18:00:00 +0100"
     }
 ]
