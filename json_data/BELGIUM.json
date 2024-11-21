@@ -75,6 +75,11 @@
         "pubdate": "Wed, 20 Nov 2024 13:00:00 +0100"
     },
     {
+        "title": "Sneeuw",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Sneeuw",
+        "pubdate": "Wed, 20 Nov 2024 15:00:00 +0100"
+    },
+    {
         "title": "Neige Belgique",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Neige%20Belgique",
         "pubdate": "Wed, 20 Nov 2024 22:00:00 +0100"
@@ -93,10 +98,5 @@
         "title": "Saint-Verhaegen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Saint-Verhaegen",
         "pubdate": "Wed, 20 Nov 2024 15:00:00 +0100"
-    },
-    {
-        "title": "Coca-Cola",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Coca-Cola",
-        "pubdate": "Wed, 20 Nov 2024 13:00:00 +0100"
     }
 ]

@@ -5,11 +5,6 @@
         "pubdate": "Wed, 20 Nov 2024 14:00:00 +0100"
     },
     {
-        "title": "McDonald",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#McDonald",
-        "pubdate": "Wed, 20 Nov 2024 12:00:00 +0100"
-    },
-    {
         "title": "Mława",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#M%C5%82awa",
         "pubdate": "Wed, 20 Nov 2024 13:00:00 +0100"
@@ -68,6 +63,11 @@
         "title": "Julia Szeremeta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Julia%20Szeremeta",
         "pubdate": "Wed, 20 Nov 2024 00:00:00 +0100"
+    },
+    {
+        "title": "Tomasz Jakubiak",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Tomasz%20Jakubiak",
+        "pubdate": "Wed, 20 Nov 2024 20:00:00 +0100"
     },
     {
         "title": "Joanna Krupa",
