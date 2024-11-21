@@ -10,13 +10,18 @@
         "pubdate": "Thu, 21 Nov 2024 12:00:00 +0200"
     },
     {
+        "title": "RS-26",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#RS-26",
+        "pubdate": "Thu, 21 Nov 2024 11:00:00 +0200"
+    },
+    {
         "title": "Reddit down",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Reddit%20down",
         "pubdate": "Thu, 21 Nov 2024 05:00:00 +0200"
     },
     {
-        "title": "STALKER 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#STALKER%202",
+        "title": "Stalker 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Stalker%202",
         "pubdate": "Wed, 20 Nov 2024 08:00:00 +0200"
     },
     {
@@ -93,10 +98,5 @@
         "title": "Neymar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Neymar",
         "pubdate": "Tue, 19 Nov 2024 09:00:00 +0200"
-    },
-    {
-        "title": "The Game Awards",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#The%20Game%20Awards",
-        "pubdate": "Tue, 19 Nov 2024 16:00:00 +0200"
     }
 ]
