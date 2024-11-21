@@ -25,6 +25,11 @@
         "pubdate": "Wed, 20 Nov 2024 20:00:00 +0000"
     },
     {
+        "title": "Dia do Pijama",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Dia%20do%20Pijama",
+        "pubdate": "Wed, 20 Nov 2024 09:00:00 +0000"
+    },
+    {
         "title": "Corinthians",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Corinthians",
         "pubdate": "Wed, 20 Nov 2024 14:00:00 +0000"
@@ -93,10 +98,5 @@
         "title": "Rúben Silvestre",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#R%C3%BAben%20Silvestre",
         "pubdate": "Wed, 20 Nov 2024 05:00:00 +0000"
-    },
-    {
-        "title": "Dr. Oz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Dr.%20Oz",
-        "pubdate": "Wed, 20 Nov 2024 03:00:00 +0000"
     }
 ]
