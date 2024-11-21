@@ -1,13 +1,13 @@
 [
     {
-        "title": "Meteo Rennes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Meteo%20Rennes",
-        "pubdate": "Thu, 21 Nov 2024 00:00:00 +0100"
-    },
-    {
         "title": "北の富士",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%8C%97%E3%81%AE%E5%AF%8C%E5%A3%AB",
         "pubdate": "Thu, 21 Nov 2024 00:00:00 +0900"
+    },
+    {
+        "title": "Pierre Palmade",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Pierre%20Palmade",
+        "pubdate": "Wed, 20 Nov 2024 01:00:00 +0100"
     },
     {
         "title": "Nvidia-Aktie",
@@ -15,9 +15,19 @@
         "pubdate": "Wed, 20 Nov 2024 21:00:00 +0100"
     },
     {
+        "title": "Adani",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Adani",
+        "pubdate": "Thu, 21 Nov 2024 09:30:00 +0530"
+    },
+    {
         "title": "NVDA stock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#NVDA%20stock",
         "pubdate": "Wed, 20 Nov 2024 14:00:00 -0800"
+    },
+    {
+        "title": "廁所協會",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%BB%81%E6%89%80%E5%8D%94%E6%9C%83",
+        "pubdate": "Thu, 21 Nov 2024 09:00:00 +0800"
     },
     {
         "title": "21 ноября праздник",
@@ -30,39 +40,14 @@
         "pubdate": "Thu, 21 Nov 2024 00:00:00 +0000"
     },
     {
-        "title": "Nvidia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#Nvidia",
-        "pubdate": "Thu, 21 Nov 2024 13:00:00 +0800"
-    },
-    {
-        "title": "Adani",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Adani",
-        "pubdate": "Thu, 21 Nov 2024 09:30:00 +0530"
-    },
-    {
-        "title": "حازم عادل",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#%D8%AD%D8%A7%D8%B2%D9%85%20%D8%B9%D8%A7%D8%AF%D9%84",
-        "pubdate": "Thu, 21 Nov 2024 03:00:00 +0300"
-    },
-    {
-        "title": "Spermidin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Spermidin",
-        "pubdate": "Thu, 21 Nov 2024 05:00:00 +0100"
-    },
-    {
-        "title": "New York Times",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#New%20York%20Times",
-        "pubdate": "Thu, 21 Nov 2024 00:00:00 +0100"
+        "title": "Chelsea vs Celtic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Chelsea%20vs%20Celtic",
+        "pubdate": "Thu, 21 Nov 2024 00:00:00 +0200"
     },
     {
         "title": "Liga argentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Liga%20argentina",
-        "pubdate": "Thu, 21 Nov 2024 01:00:00 -0300"
-    },
-    {
-        "title": "Diana Del Bufalo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Diana%20Del%20Bufalo",
-        "pubdate": "Thu, 21 Nov 2024 00:00:00 +0100"
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Liga%20argentina",
+        "pubdate": "Thu, 21 Nov 2024 00:00:00 -0300"
     },
     {
         "title": "Tyga",
@@ -70,33 +55,48 @@
         "pubdate": "Thu, 21 Nov 2024 09:00:00 +0800"
     },
     {
-        "title": "บุ๋ม-ปนัดดา",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TH#%E0%B8%9A%E0%B8%B8%E0%B9%8B%E0%B8%A1-%E0%B8%9B%E0%B8%99%E0%B8%B1%E0%B8%94%E0%B8%94%E0%B8%B2",
-        "pubdate": "Thu, 21 Nov 2024 11:00:00 +0700"
+        "title": "Beata Szydło",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Beata%20Szyd%C5%82o",
+        "pubdate": "Thu, 21 Nov 2024 07:00:00 +0100"
     },
     {
-        "title": "Σαρπ Αταμάν",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%A3%CE%B1%CF%81%CF%80%20%CE%91%CF%84%CE%B1%CE%BC%CE%AC%CE%BD",
+        "title": "Internacional",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Internacional",
+        "pubdate": "Thu, 21 Nov 2024 01:00:00 -0500"
+    },
+    {
+        "title": "NVDA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#NVDA",
         "pubdate": "Thu, 21 Nov 2024 00:00:00 +0200"
     },
     {
-        "title": "UEFA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#UEFA",
-        "pubdate": "Wed, 20 Nov 2024 19:00:00 +0200"
-    },
-    {
-        "title": "River vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#River%20vs",
-        "pubdate": "Thu, 21 Nov 2024 01:00:00 -0300"
-    },
-    {
-        "title": "Emeis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Emeis",
+        "title": "Is Reddit down",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Is%20Reddit%20down",
         "pubdate": "Thu, 21 Nov 2024 00:00:00 +0100"
     },
     {
-        "title": "Vigilance neige",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Vigilance%20neige",
-        "pubdate": "Wed, 20 Nov 2024 03:00:00 +0100"
+        "title": "Wendy van Dijk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Wendy%20van%20Dijk",
+        "pubdate": "Thu, 21 Nov 2024 00:00:00 +0100"
+    },
+    {
+        "title": "Nvidia stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Nvidia%20stock",
+        "pubdate": "Thu, 21 Nov 2024 00:00:00 +0200"
+    },
+    {
+        "title": "Elsa Thora",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Elsa%20Thora",
+        "pubdate": "Thu, 21 Nov 2024 08:00:00 +0200"
+    },
+    {
+        "title": "Bruce Willis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bruce%20Willis",
+        "pubdate": "Thu, 21 Nov 2024 00:00:00 +0100"
+    },
+    {
+        "title": "Liam Payne funeral",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Liam%20Payne%20funeral",
+        "pubdate": "Thu, 21 Nov 2024 00:00:00 +0800"
     }
 ]

@@ -10,6 +10,11 @@
         "pubdate": "Thu, 21 Nov 2024 05:00:00 +0200"
     },
     {
+        "title": "Wind Warning",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Wind%20Warning",
+        "pubdate": "Thu, 21 Nov 2024 08:00:00 +0200"
+    },
+    {
         "title": "Stalker 2",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Stalker%202",
         "pubdate": "Wed, 20 Nov 2024 08:00:00 +0200"
@@ -60,14 +65,14 @@
         "pubdate": "Tue, 19 Nov 2024 16:00:00 +0200"
     },
     {
-        "title": "International Men's Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#International%20Men's%20Day",
-        "pubdate": "Tue, 19 Nov 2024 16:00:00 +0200"
-    },
-    {
         "title": "Kasperi Kapanen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Kasperi%20Kapanen",
         "pubdate": "Tue, 19 Nov 2024 11:00:00 +0200"
+    },
+    {
+        "title": "International Men's Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#International%20Men's%20Day",
+        "pubdate": "Tue, 19 Nov 2024 16:00:00 +0200"
     },
     {
         "title": "Sean Duffy",
@@ -93,10 +98,5 @@
         "title": "The Game Awards",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#The%20Game%20Awards",
         "pubdate": "Tue, 19 Nov 2024 16:00:00 +0200"
-    },
-    {
-        "title": "Power",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Power",
-        "pubdate": "Mon, 18 Nov 2024 12:00:00 +0200"
     }
 ]

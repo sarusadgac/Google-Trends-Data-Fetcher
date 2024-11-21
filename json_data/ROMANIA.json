@@ -1,7 +1,12 @@
 [
     {
-        "title": "UEFA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#UEFA",
+        "title": "Elsa Thora",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Elsa%20Thora",
+        "pubdate": "Thu, 21 Nov 2024 08:00:00 +0200"
+    },
+    {
+        "title": "Romania Kosovo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Romania%20Kosovo",
         "pubdate": "Wed, 20 Nov 2024 19:00:00 +0200"
     },
     {
@@ -93,10 +98,5 @@
         "title": "Linda McMahon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Linda%20McMahon",
         "pubdate": "Wed, 20 Nov 2024 20:00:00 +0200"
-    },
-    {
-        "title": "Andrew Tate",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Andrew%20Tate",
-        "pubdate": "Wed, 20 Nov 2024 03:00:00 +0200"
     }
 ]
