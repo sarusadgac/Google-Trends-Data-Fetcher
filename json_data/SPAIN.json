@@ -5,6 +5,11 @@
         "pubdate": "Thu, 21 Nov 2024 12:00:00 +0100"
     },
     {
+        "title": "Jove Español - Real Sociedad",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Jove%20Espa%C3%B1ol%20-%20Real%20Sociedad",
+        "pubdate": "Thu, 21 Nov 2024 21:00:00 +0100"
+    },
+    {
         "title": "Guerra Rusia Ucrania",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Guerra%20Rusia%20Ucrania",
         "pubdate": "Thu, 21 Nov 2024 00:00:00 +0100"
@@ -25,6 +30,11 @@
         "pubdate": "Thu, 21 Nov 2024 14:00:00 +0100"
     },
     {
+        "title": "Kiko",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Kiko",
+        "pubdate": "Thu, 21 Nov 2024 21:00:00 +0100"
+    },
+    {
         "title": "Reina Letizia Isabel diaz Ayuso",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Reina%20Letizia%20Isabel%20diaz%20Ayuso",
         "pubdate": "Thu, 21 Nov 2024 16:00:00 +0100"
@@ -40,6 +50,16 @@
         "pubdate": "Thu, 21 Nov 2024 13:00:00 +0100"
     },
     {
+        "title": "Netanyahu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Netanyahu",
+        "pubdate": "Thu, 21 Nov 2024 18:00:00 +0100"
+    },
+    {
+        "title": "Quevedo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Quevedo",
+        "pubdate": "Thu, 21 Nov 2024 17:00:00 +0100"
+    },
+    {
         "title": "Guerra",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Guerra",
         "pubdate": "Thu, 21 Nov 2024 07:00:00 +0100"
@@ -50,24 +70,9 @@
         "pubdate": "Thu, 21 Nov 2024 01:00:00 +0100"
     },
     {
-        "title": "Quevedo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Quevedo",
-        "pubdate": "Thu, 21 Nov 2024 17:00:00 +0100"
-    },
-    {
-        "title": "Netanyahu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Netanyahu",
-        "pubdate": "Thu, 21 Nov 2024 18:00:00 +0100"
-    },
-    {
         "title": "Alfred Costa dimite",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Alfred%20Costa%20dimite",
         "pubdate": "Thu, 21 Nov 2024 01:00:00 +0100"
-    },
-    {
-        "title": "Tamara Falco",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Tamara%20Falco",
-        "pubdate": "Thu, 21 Nov 2024 08:00:00 +0100"
     },
     {
         "title": "El Ventorro Valencia",
@@ -80,9 +85,9 @@
         "pubdate": "Thu, 21 Nov 2024 17:00:00 +0100"
     },
     {
-        "title": "Diaz Canel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Diaz%20Canel",
-        "pubdate": "Thu, 21 Nov 2024 16:00:00 +0100"
+        "title": "Tamara Falco",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Tamara%20Falco",
+        "pubdate": "Thu, 21 Nov 2024 08:00:00 +0100"
     },
     {
         "title": "Amazon Black Friday",
@@ -93,10 +98,5 @@
         "title": "Susana Abaitua",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Susana%20Abaitua",
         "pubdate": "Thu, 21 Nov 2024 01:00:00 +0100"
-    },
-    {
-        "title": "Copa Davis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Copa%20Davis",
-        "pubdate": "Wed, 20 Nov 2024 13:00:00 +0100"
     }
 ]
