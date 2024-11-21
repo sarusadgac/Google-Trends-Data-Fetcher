@@ -20,9 +20,19 @@
         "pubdate": "Thu, 21 Nov 2024 01:00:00 +0100"
     },
     {
+        "title": "Argentina  Perú",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Argentina%20%20Per%C3%BA",
+        "pubdate": "Wed, 20 Nov 2024 01:00:00 +0100"
+    },
+    {
         "title": "Maria Becerra",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Maria%20Becerra",
         "pubdate": "Wed, 20 Nov 2024 23:00:00 +0100"
+    },
+    {
+        "title": "Putin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Putin",
+        "pubdate": "Wed, 20 Nov 2024 04:00:00 +0100"
     },
     {
         "title": "Brasil  Uruguay",
@@ -30,18 +40,8 @@
         "pubdate": "Wed, 20 Nov 2024 02:00:00 +0100"
     },
     {
-        "title": "Ucrania",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ucrania",
-        "pubdate": "Wed, 20 Nov 2024 04:00:00 +0100"
-    },
-    {
         "title": "Rodri Hernández",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Rodri%20Hern%C3%A1ndez",
-        "pubdate": "Wed, 20 Nov 2024 23:00:00 +0100"
-    },
-    {
-        "title": "Rodri",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Rodri",
         "pubdate": "Wed, 20 Nov 2024 23:00:00 +0100"
     },
     {
@@ -70,11 +70,6 @@
         "pubdate": "Wed, 20 Nov 2024 21:00:00 +0100"
     },
     {
-        "title": "Putin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Putin",
-        "pubdate": "Wed, 20 Nov 2024 19:00:00 +0100"
-    },
-    {
         "title": "Rodrigo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Rodrigo",
         "pubdate": "Wed, 20 Nov 2024 23:00:00 +0100"
@@ -98,5 +93,10 @@
         "title": "Ana de Armas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ana%20de%20Armas",
         "pubdate": "Wed, 20 Nov 2024 17:00:00 +0100"
+    },
+    {
+        "title": "Demisexual",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Demisexual",
+        "pubdate": "Wed, 20 Nov 2024 16:00:00 +0100"
     }
 ]
