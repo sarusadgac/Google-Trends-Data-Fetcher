@@ -1,5 +1,15 @@
 [
     {
+        "title": "Desigual",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Desigual",
+        "pubdate": "Fri, 22 Nov 2024 00:00:00 +0100"
+    },
+    {
+        "title": "Platano Maurizio Cattelan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Platano%20Maurizio%20Cattelan",
+        "pubdate": "Fri, 22 Nov 2024 00:00:00 +0100"
+    },
+    {
         "title": "Aldama",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Aldama",
         "pubdate": "Thu, 21 Nov 2024 12:00:00 +0100"
@@ -8,6 +18,11 @@
         "title": "Jove Español - Real Sociedad",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Jove%20Espa%C3%B1ol%20-%20Real%20Sociedad",
         "pubdate": "Thu, 21 Nov 2024 21:00:00 +0100"
+    },
+    {
+        "title": "La Revuelta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#La%20Revuelta",
+        "pubdate": "Thu, 21 Nov 2024 23:00:00 +0100"
     },
     {
         "title": "Hugh Grant",
@@ -20,24 +35,19 @@
         "pubdate": "Thu, 21 Nov 2024 21:00:00 +0100"
     },
     {
-        "title": "La Revuelta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#La%20Revuelta",
-        "pubdate": "Thu, 21 Nov 2024 23:00:00 +0100"
-    },
-    {
         "title": "Jorge Martín",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Jorge%20Mart%C3%ADn",
         "pubdate": "Thu, 21 Nov 2024 23:00:00 +0100"
     },
     {
-        "title": "Real Sociedad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Real%20Sociedad",
-        "pubdate": "Thu, 21 Nov 2024 22:00:00 +0100"
-    },
-    {
         "title": "Guerra Rusia Ucrania",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Guerra%20Rusia%20Ucrania",
         "pubdate": "Thu, 21 Nov 2024 00:00:00 +0100"
+    },
+    {
+        "title": "Real Sociedad",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Real%20Sociedad",
+        "pubdate": "Thu, 21 Nov 2024 22:00:00 +0100"
     },
     {
         "title": "Real Madrid - Alba Berlin",
@@ -55,14 +65,14 @@
         "pubdate": "Thu, 21 Nov 2024 08:00:00 +0100"
     },
     {
-        "title": "Mozos de Arousa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Mozos%20de%20Arousa",
-        "pubdate": "Thu, 21 Nov 2024 14:00:00 +0100"
-    },
-    {
         "title": "Kiko",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Kiko",
         "pubdate": "Thu, 21 Nov 2024 21:00:00 +0100"
+    },
+    {
+        "title": "Mozos de Arousa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Mozos%20de%20Arousa",
+        "pubdate": "Thu, 21 Nov 2024 14:00:00 +0100"
     },
     {
         "title": "Reina Letizia Isabel diaz Ayuso",
@@ -80,23 +90,13 @@
         "pubdate": "Thu, 21 Nov 2024 00:00:00 +0100"
     },
     {
-        "title": "Wanda Nara",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Wanda%20Nara",
-        "pubdate": "Thu, 21 Nov 2024 13:00:00 +0100"
-    },
-    {
         "title": "Quevedo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Quevedo",
         "pubdate": "Thu, 21 Nov 2024 17:00:00 +0100"
     },
     {
-        "title": "Dani fernandez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Dani%20fernandez",
-        "pubdate": "Thu, 21 Nov 2024 01:00:00 +0100"
-    },
-    {
-        "title": "Ana Boyer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ana%20Boyer",
-        "pubdate": "Thu, 21 Nov 2024 17:00:00 +0100"
+        "title": "Wanda Nara",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Wanda%20Nara",
+        "pubdate": "Thu, 21 Nov 2024 13:00:00 +0100"
     }
 ]
