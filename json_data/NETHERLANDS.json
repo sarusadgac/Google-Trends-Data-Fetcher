@@ -1,5 +1,10 @@
 [
     {
+        "title": "Sneeuw Groningen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sneeuw%20Groningen",
+        "pubdate": "Fri, 22 Nov 2024 08:00:00 +0100"
+    },
+    {
         "title": "Laos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Laos",
         "pubdate": "Thu, 21 Nov 2024 00:00:00 +0100"
@@ -93,10 +98,5 @@
         "title": "Jake Paul Mike Tyson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jake%20Paul%20Mike%20Tyson",
         "pubdate": "Fri, 15 Nov 2024 08:00:00 +0100"
-    },
-    {
-        "title": "Sinterklaas intocht",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sinterklaas%20intocht",
-        "pubdate": "Fri, 15 Nov 2024 18:00:00 +0100"
     }
 ]

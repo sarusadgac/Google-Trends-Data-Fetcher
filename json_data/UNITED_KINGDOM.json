@@ -15,11 +15,6 @@
         "pubdate": "Fri, 22 Nov 2024 03:00:00 +0000"
     },
     {
-        "title": "Ind vs Aus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Ind%20vs%20Aus",
-        "pubdate": "Fri, 22 Nov 2024 07:00:00 +0000"
-    },
-    {
         "title": "Bruce Willis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Bruce%20Willis",
         "pubdate": "Fri, 22 Nov 2024 08:00:00 +0000"
@@ -85,11 +80,6 @@
         "pubdate": "Thu, 21 Nov 2024 00:00:00 +0000"
     },
     {
-        "title": "John Prescott punch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#John%20Prescott%20punch",
-        "pubdate": "Thu, 21 Nov 2024 19:00:00 +0000"
-    },
-    {
         "title": "Linda Nolan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Linda%20Nolan",
         "pubdate": "Thu, 21 Nov 2024 21:00:00 +0000"
@@ -98,5 +88,15 @@
         "title": "Ken Reid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Ken%20Reid",
         "pubdate": "Thu, 21 Nov 2024 14:00:00 +0000"
+    },
+    {
+        "title": "Alex Burghart",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Alex%20Burghart",
+        "pubdate": "Thu, 21 Nov 2024 08:00:00 +0000"
+    },
+    {
+        "title": "Snow warning",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Snow%20warning",
+        "pubdate": "Wed, 20 Nov 2024 13:00:00 +0000"
     }
 ]
