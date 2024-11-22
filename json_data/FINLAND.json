@@ -40,6 +40,11 @@
         "pubdate": "Thu, 21 Nov 2024 18:00:00 +0200"
     },
     {
+        "title": "Character AI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Character%20AI",
+        "pubdate": "Thu, 21 Nov 2024 03:00:00 +0200"
+    },
+    {
         "title": "Laken Riley",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Laken%20Riley",
         "pubdate": "Thu, 21 Nov 2024 20:00:00 +0200"
@@ -93,10 +98,5 @@
         "title": "Provence",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Provence",
         "pubdate": "Wed, 20 Nov 2024 22:00:00 +0200"
-    },
-    {
-        "title": "Yi Peng 3",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Yi%20Peng%203",
-        "pubdate": "Tue, 19 Nov 2024 16:00:00 +0200"
     }
 ]

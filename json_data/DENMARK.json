@@ -15,11 +15,6 @@
         "pubdate": "Thu, 21 Nov 2024 00:00:00 +0100"
     },
     {
-        "title": "MicroStrategy stock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#MicroStrategy%20stock",
-        "pubdate": "Thu, 21 Nov 2024 00:00:00 +0100"
-    },
-    {
         "title": "Kate Winslet",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Kate%20Winslet",
         "pubdate": "Thu, 21 Nov 2024 20:00:00 +0100"
@@ -42,6 +37,11 @@
     {
         "title": "Laken Riley",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Laken%20Riley",
+        "pubdate": "Thu, 21 Nov 2024 08:00:00 +0100"
+    },
+    {
+        "title": "MicroStrategy stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#MicroStrategy%20stock",
         "pubdate": "Thu, 21 Nov 2024 08:00:00 +0100"
     },
     {
@@ -70,6 +70,11 @@
         "pubdate": "Thu, 21 Nov 2024 18:00:00 +0100"
     },
     {
+        "title": "Character AI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Character%20AI",
+        "pubdate": "Thu, 21 Nov 2024 02:00:00 +0100"
+    },
+    {
         "title": "Nvidia stock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Nvidia%20stock",
         "pubdate": "Wed, 20 Nov 2024 20:00:00 +0100"
@@ -93,10 +98,5 @@
         "title": "Matt Gaetz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Matt%20Gaetz",
         "pubdate": "Wed, 20 Nov 2024 00:00:00 +0100"
-    },
-    {
-        "title": "Rafael Nadal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Rafael%20Nadal",
-        "pubdate": "Wed, 20 Nov 2024 10:00:00 +0100"
     }
 ]

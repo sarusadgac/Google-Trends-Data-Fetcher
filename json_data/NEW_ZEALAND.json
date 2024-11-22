@@ -10,8 +10,13 @@
         "pubdate": "Fri, 22 Nov 2024 03:00:00 +1300"
     },
     {
-        "title": "Whooping cough",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Whooping%20cough",
+        "title": "Pam Bondi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Pam%20Bondi",
+        "pubdate": "Fri, 22 Nov 2024 14:00:00 +1300"
+    },
+    {
+        "title": "Ind vs Aus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Ind%20vs%20Aus",
         "pubdate": "Fri, 22 Nov 2024 13:00:00 +1300"
     },
     {
@@ -20,9 +25,9 @@
         "pubdate": "Fri, 22 Nov 2024 00:00:00 +1300"
     },
     {
-        "title": "IND vs AUS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#IND%20vs%20AUS",
-        "pubdate": "Fri, 22 Nov 2024 13:00:00 +1300"
+        "title": "John Prescott",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#John%20Prescott",
+        "pubdate": "Fri, 22 Nov 2024 15:00:00 +1300"
     },
     {
         "title": "Coral",
@@ -45,14 +50,14 @@
         "pubdate": "Thu, 21 Nov 2024 07:00:00 +1300"
     },
     {
-        "title": "Jaguar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Jaguar",
-        "pubdate": "Thu, 21 Nov 2024 11:00:00 +1300"
-    },
-    {
         "title": "Erica Stanford",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Erica%20Stanford",
         "pubdate": "Thu, 21 Nov 2024 20:00:00 +1300"
+    },
+    {
+        "title": "Jaguar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Jaguar",
+        "pubdate": "Thu, 21 Nov 2024 11:00:00 +1300"
     },
     {
         "title": "Nvidia stock",
@@ -93,10 +98,5 @@
         "title": "Puma",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Puma",
         "pubdate": "Thu, 21 Nov 2024 22:00:00 +1300"
-    },
-    {
-        "title": "Vladimir Putin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Vladimir%20Putin",
-        "pubdate": "Thu, 21 Nov 2024 11:00:00 +1300"
     }
 ]

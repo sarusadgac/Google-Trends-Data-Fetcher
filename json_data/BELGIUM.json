@@ -1,7 +1,12 @@
 [
     {
-        "title": "Jove Español  Real Sociedad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jove%20Espa%C3%B1ol%20%20Real%20Sociedad",
+        "title": "Nele Somers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Nele%20Somers",
+        "pubdate": "Fri, 22 Nov 2024 02:00:00 +0100"
+    },
+    {
+        "title": "Jove Español - Real Sociedad",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jove%20Espa%C3%B1ol%20-%20Real%20Sociedad",
         "pubdate": "Fri, 22 Nov 2024 01:00:00 +0100"
     },
     {
@@ -25,14 +30,14 @@
         "pubdate": "Thu, 21 Nov 2024 12:00:00 +0100"
     },
     {
-        "title": "ICBM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#ICBM",
-        "pubdate": "Thu, 21 Nov 2024 17:00:00 +0100"
-    },
-    {
         "title": "WRC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#WRC",
         "pubdate": "Thu, 21 Nov 2024 12:00:00 +0100"
+    },
+    {
+        "title": "ICBM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#ICBM",
+        "pubdate": "Thu, 21 Nov 2024 17:00:00 +0100"
     },
     {
         "title": "Netanyahu",
@@ -65,8 +70,8 @@
         "pubdate": "Thu, 21 Nov 2024 08:00:00 +0100"
     },
     {
-        "title": "Forbes 30 Under 30",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Forbes%2030%20Under%2030",
+        "title": "Forbes '30 Under 30",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Forbes%20'30%20Under%2030",
         "pubdate": "Thu, 21 Nov 2024 20:00:00 +0100"
     },
     {
@@ -92,11 +97,6 @@
     {
         "title": "La Liste de Schindler",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#La%20Liste%20de%20Schindler",
-        "pubdate": "Thu, 21 Nov 2024 00:00:00 +0100"
-    },
-    {
-        "title": "Ongeval Diepenbeek",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ongeval%20Diepenbeek",
         "pubdate": "Thu, 21 Nov 2024 00:00:00 +0100"
     }
 ]
