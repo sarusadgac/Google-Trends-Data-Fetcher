@@ -25,6 +25,11 @@
         "pubdate": "Fri, 22 Nov 2024 12:00:00 +0100"
     },
     {
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#PSG",
+        "pubdate": "Fri, 22 Nov 2024 20:00:00 +0100"
+    },
+    {
         "title": "Carlo Acutis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Carlo%20Acutis",
         "pubdate": "Fri, 22 Nov 2024 12:00:00 +0100"
@@ -93,10 +98,5 @@
         "title": "Nancy Mace",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Nancy%20Mace",
         "pubdate": "Wed, 20 Nov 2024 02:00:00 +0100"
-    },
-    {
-        "title": "Gyokeres",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Gyokeres",
-        "pubdate": "Wed, 20 Nov 2024 00:00:00 +0100"
     }
 ]

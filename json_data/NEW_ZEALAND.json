@@ -1,5 +1,10 @@
 [
     {
+        "title": "F1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#F1",
+        "pubdate": "Sat, 23 Nov 2024 08:00:00 +1300"
+    },
+    {
         "title": "Slack",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Slack",
         "pubdate": "Sat, 23 Nov 2024 00:00:00 +1300"
@@ -30,8 +35,8 @@
         "pubdate": "Fri, 22 Nov 2024 14:00:00 +1300"
     },
     {
-        "title": "Aus vs Ind",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Aus%20vs%20Ind",
+        "title": "AUS vs IND",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#AUS%20vs%20IND",
         "pubdate": "Fri, 22 Nov 2024 18:00:00 +1300"
     },
     {
@@ -93,10 +98,5 @@
         "title": "Erica Stanford",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Erica%20Stanford",
         "pubdate": "Thu, 21 Nov 2024 20:00:00 +1300"
-    },
-    {
-        "title": "Jaguar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Jaguar",
-        "pubdate": "Thu, 21 Nov 2024 11:00:00 +1300"
     }
 ]
