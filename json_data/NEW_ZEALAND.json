@@ -30,11 +30,6 @@
         "pubdate": "Fri, 22 Nov 2024 15:00:00 +1300"
     },
     {
-        "title": "Lakers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Lakers",
-        "pubdate": "Fri, 22 Nov 2024 21:00:00 +1300"
-    },
-    {
         "title": "Lydia Ko",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Lydia%20Ko",
         "pubdate": "Fri, 22 Nov 2024 03:00:00 +1300"
@@ -50,6 +45,11 @@
         "pubdate": "Fri, 22 Nov 2024 16:00:00 +1300"
     },
     {
+        "title": "Lakers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Lakers",
+        "pubdate": "Fri, 22 Nov 2024 21:00:00 +1300"
+    },
+    {
         "title": "Pamela Hayden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Pamela%20Hayden",
         "pubdate": "Fri, 22 Nov 2024 00:00:00 +1300"
@@ -58,6 +58,11 @@
         "title": "John Prescott",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#John%20Prescott",
         "pubdate": "Fri, 22 Nov 2024 15:00:00 +1300"
+    },
+    {
+        "title": "Lakers vs Magic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Lakers%20vs%20Magic",
+        "pubdate": "Fri, 22 Nov 2024 21:00:00 +1300"
     },
     {
         "title": "Coral",
@@ -93,10 +98,5 @@
         "title": "Nvidia stock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Nvidia%20stock",
         "pubdate": "Thu, 21 Nov 2024 15:00:00 +1300"
-    },
-    {
-        "title": "Kogan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Kogan",
-        "pubdate": "Thu, 21 Nov 2024 12:00:00 +1300"
     }
 ]

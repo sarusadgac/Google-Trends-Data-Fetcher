@@ -1,33 +1,13 @@
 [
     {
-        "title": "Steelers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Steelers",
-        "pubdate": "Thu, 21 Nov 2024 13:00:00 -0800"
-    },
-    {
-        "title": "Pistorius",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Pistorius",
-        "pubdate": "Fri, 22 Nov 2024 09:00:00 +0100"
-    },
-    {
-        "title": "大谷翔平",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%A4%A7%E8%B0%B7%E7%BF%94%E5%B9%B3",
-        "pubdate": "Fri, 22 Nov 2024 08:00:00 +0900"
-    },
-    {
-        "title": "India vs Australia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#India%20vs%20Australia",
-        "pubdate": "Fri, 22 Nov 2024 05:00:00 +0000"
-    },
-    {
         "title": "День сыновей",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%94%D0%B5%D0%BD%D1%8C%20%D1%81%D1%8B%D0%BD%D0%BE%D0%B2%D0%B5%D0%B9",
         "pubdate": "Fri, 22 Nov 2024 03:00:00 +0300"
     },
     {
-        "title": "Pam Bondi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Pam%20Bondi",
-        "pubdate": "Fri, 22 Nov 2024 08:00:00 +0100"
+        "title": "Spurs – Jazz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Spurs%20%E2%80%93%20Jazz",
+        "pubdate": "Fri, 22 Nov 2024 07:00:00 +0100"
     },
     {
         "title": "Live Cricket Score",
@@ -35,19 +15,74 @@
         "pubdate": "Fri, 22 Nov 2024 08:30:00 +0530"
     },
     {
+        "title": "India vs Australia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#India%20vs%20Australia",
+        "pubdate": "Fri, 22 Nov 2024 05:00:00 +0000"
+    },
+    {
+        "title": "Pam Bondi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Pam%20Bondi",
+        "pubdate": "Fri, 22 Nov 2024 06:00:00 +0100"
+    },
+    {
+        "title": "大谷翔平",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%A4%A7%E8%B0%B7%E7%BF%94%E5%B9%B3",
+        "pubdate": "Fri, 22 Nov 2024 08:00:00 +0900"
+    },
+    {
+        "title": "Steelers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Steelers",
+        "pubdate": "Thu, 21 Nov 2024 13:00:00 -0800"
+    },
+    {
         "title": "Edan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#Edan",
         "pubdate": "Fri, 22 Nov 2024 10:00:00 +0800"
     },
     {
-        "title": "علي البليهي",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#%D8%B9%D9%84%D9%8A%20%D8%A7%D9%84%D8%A8%D9%84%D9%8A%D9%87%D9%8A",
-        "pubdate": "Fri, 22 Nov 2024 05:00:00 +0300"
+        "title": "Håndball",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#H%C3%A5ndball",
+        "pubdate": "Fri, 22 Nov 2024 00:00:00 +0100"
     },
     {
-        "title": "Peta Wilson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Peta%20Wilson",
-        "pubdate": "Fri, 22 Nov 2024 09:00:00 +0100"
+        "title": "Arlbergtunnel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Arlbergtunnel",
+        "pubdate": "Fri, 22 Nov 2024 06:00:00 +0100"
+    },
+    {
+        "title": "정철원",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%A0%95%EC%B2%A0%EC%9B%90",
+        "pubdate": "Fri, 22 Nov 2024 14:00:00 +0900"
+    },
+    {
+        "title": "Deportes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Deportes",
+        "pubdate": "Fri, 22 Nov 2024 01:00:00 -0600"
+    },
+    {
+        "title": "Lotto Jackpot",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Lotto%20Jackpot",
+        "pubdate": "Fri, 22 Nov 2024 01:00:00 +0000"
+    },
+    {
+        "title": "中華大學",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E4%B8%AD%E8%8F%AF%E5%A4%A7%E5%AD%B8",
+        "pubdate": "Fri, 22 Nov 2024 00:00:00 +0800"
+    },
+    {
+        "title": "Ind vs Aus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ind%20vs%20Aus",
+        "pubdate": "Fri, 22 Nov 2024 02:00:00 -0500"
+    },
+    {
+        "title": "Lakers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Lakers",
+        "pubdate": "Fri, 22 Nov 2024 14:00:00 +0800"
+    },
+    {
+        "title": "Talisca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Talisca",
+        "pubdate": "Fri, 22 Nov 2024 01:00:00 +0300"
     },
     {
         "title": "Lakers vs Magic",
@@ -55,48 +90,13 @@
         "pubdate": "Fri, 22 Nov 2024 09:00:00 +0200"
     },
     {
-        "title": "Lakers x Magic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lakers%20x%20Magic",
-        "pubdate": "Fri, 22 Nov 2024 01:00:00 -0500"
-    },
-    {
-        "title": "عادل الفار",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=EG#%D8%B9%D8%A7%D8%AF%D9%84%20%D8%A7%D9%84%D9%81%D8%A7%D8%B1",
-        "pubdate": "Fri, 22 Nov 2024 01:00:00 +0200"
-    },
-    {
-        "title": "BEC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#BEC",
-        "pubdate": "Fri, 22 Nov 2024 09:00:00 +0200"
-    },
-    {
-        "title": "Liga MX",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Liga%20MX",
-        "pubdate": "Fri, 22 Nov 2024 01:00:00 -0500"
-    },
-    {
-        "title": "Whooping cough",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Whooping%20cough",
-        "pubdate": "Fri, 22 Nov 2024 13:00:00 +1300"
-    },
-    {
-        "title": "Groningen!",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Groningen!",
-        "pubdate": "Fri, 22 Nov 2024 01:00:00 +0100"
-    },
-    {
-        "title": "Landskrona Bois",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Landskrona%20Bois",
-        "pubdate": "Thu, 21 Nov 2024 16:00:00 +0100"
-    },
-    {
-        "title": "Kiko",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Kiko",
-        "pubdate": "Fri, 22 Nov 2024 01:00:00 +0000"
-    },
-    {
         "title": "Radar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Radar",
         "pubdate": "Fri, 22 Nov 2024 09:00:00 +0100"
+    },
+    {
+        "title": "Netanyahu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Netanyahu",
+        "pubdate": "Thu, 21 Nov 2024 16:00:00 +0100"
     }
 ]
