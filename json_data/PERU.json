@@ -10,6 +10,11 @@
         "pubdate": "Fri, 22 Nov 2024 01:00:00 -0500"
     },
     {
+        "title": "LALIGA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#LALIGA",
+        "pubdate": "Fri, 22 Nov 2024 07:00:00 -0500"
+    },
+    {
         "title": "Jove Español - Real Sociedad",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Jove%20Espa%C3%B1ol%20-%20Real%20Sociedad",
         "pubdate": "Thu, 21 Nov 2024 15:00:00 -0500"
@@ -23,11 +28,6 @@
         "title": "Keane",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Keane",
         "pubdate": "Thu, 21 Nov 2024 11:00:00 -0500"
-    },
-    {
-        "title": "River",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#River",
-        "pubdate": "Thu, 21 Nov 2024 21:00:00 -0500"
     },
     {
         "title": "Barracas Central  Belgrano",
@@ -75,11 +75,6 @@
         "pubdate": "Thu, 21 Nov 2024 00:00:00 -0500"
     },
     {
-        "title": "PRIMERA DIVISIÓN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#PRIMERA%20DIVISI%C3%93N",
-        "pubdate": "Thu, 21 Nov 2024 00:00:00 -0500"
-    },
-    {
         "title": "Boca Juniors  Unión",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Boca%20Juniors%20%20Uni%C3%B3n",
         "pubdate": "Wed, 20 Nov 2024 19:00:00 -0500"
@@ -98,5 +93,10 @@
         "title": "Brasileirao",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Brasileirao",
         "pubdate": "Wed, 20 Nov 2024 16:00:00 -0500"
+    },
+    {
+        "title": "Liga Argentina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Liga%20Argentina",
+        "pubdate": "Wed, 20 Nov 2024 20:00:00 -0500"
     }
 ]
