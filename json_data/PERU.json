@@ -75,11 +75,6 @@
         "pubdate": "Thu, 21 Nov 2024 00:00:00 -0500"
     },
     {
-        "title": "PRIMERA DIVISIÓN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#PRIMERA%20DIVISI%C3%93N",
-        "pubdate": "Thu, 21 Nov 2024 00:00:00 -0500"
-    },
-    {
         "title": "Union civil peru",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Union%20civil%20peru",
         "pubdate": "Thu, 21 Nov 2024 11:00:00 -0500"
@@ -98,5 +93,10 @@
         "title": "Liam Payne",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Liam%20Payne",
         "pubdate": "Wed, 20 Nov 2024 14:00:00 -0500"
+    },
+    {
+        "title": "Brasileirao",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Brasileirao",
+        "pubdate": "Wed, 20 Nov 2024 16:00:00 -0500"
     }
 ]
