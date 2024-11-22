@@ -85,11 +85,6 @@
         "pubdate": "Thu, 21 Nov 2024 11:00:00 +0100"
     },
     {
-        "title": "Hó",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#H%C3%B3",
-        "pubdate": "Thu, 21 Nov 2024 20:00:00 +0100"
-    },
-    {
         "title": "Rolling Stones",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Rolling%20Stones",
         "pubdate": "Thu, 21 Nov 2024 05:00:00 +0100"
@@ -98,5 +93,10 @@
         "title": "Biden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Biden",
         "pubdate": "Thu, 21 Nov 2024 18:00:00 +0100"
+    },
+    {
+        "title": "Grimes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Grimes",
+        "pubdate": "Thu, 21 Nov 2024 20:00:00 +0100"
     }
 ]
