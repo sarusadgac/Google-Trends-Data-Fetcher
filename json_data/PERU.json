@@ -1,7 +1,7 @@
 [
     {
-        "title": "Liga MX",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Liga%20MX",
+        "title": "Tijuana  América",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Tijuana%20%20Am%C3%A9rica",
         "pubdate": "Fri, 22 Nov 2024 01:00:00 -0500"
     },
     {
@@ -10,8 +10,8 @@
         "pubdate": "Fri, 22 Nov 2024 01:00:00 -0500"
     },
     {
-        "title": "LALIGA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#LALIGA",
+        "title": "LaLiga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#LaLiga",
         "pubdate": "Fri, 22 Nov 2024 07:00:00 -0500"
     },
     {
@@ -55,14 +55,14 @@
         "pubdate": "Thu, 21 Nov 2024 20:00:00 -0500"
     },
     {
-        "title": "Carlo Acutis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Carlo%20Acutis",
-        "pubdate": "Thu, 21 Nov 2024 11:00:00 -0500"
-    },
-    {
         "title": "Dia del musico",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Dia%20del%20musico",
         "pubdate": "Thu, 21 Nov 2024 23:00:00 -0500"
+    },
+    {
+        "title": "Carlo Acutis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Carlo%20Acutis",
+        "pubdate": "Thu, 21 Nov 2024 11:00:00 -0500"
     },
     {
         "title": "Pedro Castillo",
@@ -72,6 +72,11 @@
     {
         "title": "Atlético Nacional  Santa Fe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Atl%C3%A9tico%20Nacional%20%20Santa%20Fe",
+        "pubdate": "Thu, 21 Nov 2024 00:00:00 -0500"
+    },
+    {
+        "title": "PRIMERA DIVISIÓN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#PRIMERA%20DIVISI%C3%93N",
         "pubdate": "Thu, 21 Nov 2024 00:00:00 -0500"
     },
     {
@@ -93,10 +98,5 @@
         "title": "Brasileirao",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Brasileirao",
         "pubdate": "Wed, 20 Nov 2024 16:00:00 -0500"
-    },
-    {
-        "title": "Liga Argentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Liga%20Argentina",
-        "pubdate": "Wed, 20 Nov 2024 20:00:00 -0500"
     }
 ]
