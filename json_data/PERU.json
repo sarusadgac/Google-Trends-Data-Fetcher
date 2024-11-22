@@ -1,5 +1,15 @@
 [
     {
+        "title": "Liga MX",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Liga%20MX",
+        "pubdate": "Fri, 22 Nov 2024 01:00:00 -0500"
+    },
+    {
+        "title": "Mario Vargas Llosa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Mario%20Vargas%20Llosa",
+        "pubdate": "Fri, 22 Nov 2024 01:00:00 -0500"
+    },
+    {
         "title": "Independiente  River Plate",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Independiente%20%20River%20Plate",
         "pubdate": "Thu, 21 Nov 2024 20:00:00 -0500"
@@ -55,14 +65,14 @@
         "pubdate": "Thu, 21 Nov 2024 00:00:00 -0500"
     },
     {
-        "title": "PRIMERA DIVISIÓN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#PRIMERA%20DIVISI%C3%93N",
-        "pubdate": "Thu, 21 Nov 2024 00:00:00 -0500"
-    },
-    {
         "title": "Dia del musico",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Dia%20del%20musico",
         "pubdate": "Thu, 21 Nov 2024 23:00:00 -0500"
+    },
+    {
+        "title": "PRIMERA DIVISIÓN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#PRIMERA%20DIVISI%C3%93N",
+        "pubdate": "Thu, 21 Nov 2024 00:00:00 -0500"
     },
     {
         "title": "Putin",
@@ -87,16 +97,6 @@
     {
         "title": "Brasileirao",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Brasileirao",
-        "pubdate": "Wed, 20 Nov 2024 11:00:00 -0500"
-    },
-    {
-        "title": "Velez vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Velez%20vs",
-        "pubdate": "Wed, 20 Nov 2024 19:00:00 -0500"
-    },
-    {
-        "title": "Cuando es el dia de la Mujer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Cuando%20es%20el%20dia%20de%20la%20Mujer",
         "pubdate": "Wed, 20 Nov 2024 11:00:00 -0500"
     }
 ]
