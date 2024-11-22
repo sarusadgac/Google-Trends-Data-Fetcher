@@ -15,19 +15,24 @@
         "pubdate": "Thu, 21 Nov 2024 11:00:00 -0500"
     },
     {
-        "title": "Los Mirlos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Los%20Mirlos",
-        "pubdate": "Thu, 21 Nov 2024 13:00:00 -0500"
-    },
-    {
         "title": "Barracas Central  Belgrano",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Barracas%20Central%20%20Belgrano",
         "pubdate": "Thu, 21 Nov 2024 16:00:00 -0500"
     },
     {
+        "title": "Los Mirlos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Los%20Mirlos",
+        "pubdate": "Thu, 21 Nov 2024 13:00:00 -0500"
+    },
+    {
         "title": "Cesar Inga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Cesar%20Inga",
         "pubdate": "Thu, 21 Nov 2024 16:00:00 -0500"
+    },
+    {
+        "title": "Vasco da Gama  Internacional",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Vasco%20da%20Gama%20%20Internacional",
+        "pubdate": "Thu, 21 Nov 2024 20:00:00 -0500"
     },
     {
         "title": "Carlo Acutis",
@@ -45,6 +50,11 @@
         "pubdate": "Thu, 21 Nov 2024 00:00:00 -0500"
     },
     {
+        "title": "Franco Navarro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Franco%20Navarro",
+        "pubdate": "Thu, 21 Nov 2024 21:00:00 -0500"
+    },
+    {
         "title": "Talleres vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Talleres%20vs",
         "pubdate": "Thu, 21 Nov 2024 20:00:00 -0500"
@@ -53,11 +63,6 @@
         "title": "PRIMERA DIVISIÓN",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#PRIMERA%20DIVISI%C3%93N",
         "pubdate": "Thu, 21 Nov 2024 00:00:00 -0500"
-    },
-    {
-        "title": "Franco Navarro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Franco%20Navarro",
-        "pubdate": "Thu, 21 Nov 2024 21:00:00 -0500"
     },
     {
         "title": "Putin",
@@ -85,18 +90,13 @@
         "pubdate": "Wed, 20 Nov 2024 11:00:00 -0500"
     },
     {
+        "title": "Velez vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Velez%20vs",
+        "pubdate": "Wed, 20 Nov 2024 19:00:00 -0500"
+    },
+    {
         "title": "Cuando es el dia de la Mujer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Cuando%20es%20el%20dia%20de%20la%20Mujer",
         "pubdate": "Wed, 20 Nov 2024 11:00:00 -0500"
-    },
-    {
-        "title": "Liam Payne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Liam%20Payne",
-        "pubdate": "Wed, 20 Nov 2024 14:00:00 -0500"
-    },
-    {
-        "title": "20 de noviembre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#20%20de%20noviembre",
-        "pubdate": "Wed, 20 Nov 2024 13:00:00 -0500"
     }
 ]
