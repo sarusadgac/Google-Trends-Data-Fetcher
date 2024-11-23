@@ -10,8 +10,8 @@
         "pubdate": "Fri, 22 Nov 2024 10:00:00 -0500"
     },
     {
-        "title": "PSG - Toulouse",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#PSG%20-%20Toulouse",
+        "title": "PSG  Toulouse",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#PSG%20%20Toulouse",
         "pubdate": "Fri, 22 Nov 2024 15:00:00 -0500"
     },
     {
@@ -45,6 +45,11 @@
         "pubdate": "Fri, 22 Nov 2024 17:00:00 -0500"
     },
     {
+        "title": "Liga española",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Liga%20espa%C3%B1ola",
+        "pubdate": "Fri, 22 Nov 2024 20:00:00 -0500"
+    },
+    {
         "title": "Liga MX",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Liga%20MX",
         "pubdate": "Fri, 22 Nov 2024 01:00:00 -0500"
@@ -58,6 +63,11 @@
         "title": "Mario Vargas Llosa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Mario%20Vargas%20Llosa",
         "pubdate": "Fri, 22 Nov 2024 01:00:00 -0500"
+    },
+    {
+        "title": "Serie a",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Serie%20a",
+        "pubdate": "Fri, 22 Nov 2024 20:00:00 -0500"
     },
     {
         "title": "Independiente  River Plate",
@@ -88,15 +98,5 @@
         "title": "Los Mirlos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Los%20Mirlos",
         "pubdate": "Thu, 21 Nov 2024 13:00:00 -0500"
-    },
-    {
-        "title": "Cesar Inga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Cesar%20Inga",
-        "pubdate": "Thu, 21 Nov 2024 16:00:00 -0500"
-    },
-    {
-        "title": "Carlo Acutis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Carlo%20Acutis",
-        "pubdate": "Thu, 21 Nov 2024 11:00:00 -0500"
     }
 ]

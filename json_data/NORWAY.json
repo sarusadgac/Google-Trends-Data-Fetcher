@@ -25,6 +25,11 @@
         "pubdate": "Fri, 22 Nov 2024 18:00:00 +0100"
     },
     {
+        "title": "Beitostølen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Beitost%C3%B8len",
+        "pubdate": "Fri, 22 Nov 2024 12:00:00 +0100"
+    },
+    {
         "title": "Conor McGregor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Conor%20McGregor",
         "pubdate": "Fri, 22 Nov 2024 20:00:00 +0100"
@@ -48,16 +53,6 @@
         "title": "Monki",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Monki",
         "pubdate": "Fri, 22 Nov 2024 18:00:00 +0100"
-    },
-    {
-        "title": "Beitostølen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Beitost%C3%B8len",
-        "pubdate": "Fri, 22 Nov 2024 12:00:00 +0100"
-    },
-    {
-        "title": "Ane Appelkvist Stenseth",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ane%20Appelkvist%20Stenseth",
-        "pubdate": "Fri, 22 Nov 2024 16:00:00 +0100"
     },
     {
         "title": "Fantasy Premier League",
@@ -98,5 +93,10 @@
         "title": "Josh Brolin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Josh%20Brolin",
         "pubdate": "Fri, 22 Nov 2024 18:00:00 +0100"
+    },
+    {
+        "title": "Island",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Island",
+        "pubdate": "Fri, 22 Nov 2024 00:00:00 +0100"
     }
 ]
