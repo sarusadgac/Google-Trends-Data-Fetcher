@@ -65,8 +65,8 @@
         "pubdate": "Fri, 22 Nov 2024 16:00:00 +0100"
     },
     {
-        "title": "PSG - Toulouse",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#PSG%20-%20Toulouse",
+        "title": "PSG  Toulouse",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#PSG%20%20Toulouse",
         "pubdate": "Fri, 22 Nov 2024 21:00:00 +0100"
     },
     {
@@ -77,11 +77,6 @@
     {
         "title": "Copa del Rey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Copa%20del%20Rey",
-        "pubdate": "Fri, 22 Nov 2024 11:00:00 +0100"
-    },
-    {
-        "title": "Flipy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Flipy",
         "pubdate": "Fri, 22 Nov 2024 11:00:00 +0100"
     },
     {
@@ -98,5 +93,10 @@
         "title": "Anabel Segura",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Anabel%20Segura",
         "pubdate": "Fri, 22 Nov 2024 18:00:00 +0100"
+    },
+    {
+        "title": "Raquel Martos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Raquel%20Martos",
+        "pubdate": "Fri, 22 Nov 2024 11:00:00 +0100"
     }
 ]
