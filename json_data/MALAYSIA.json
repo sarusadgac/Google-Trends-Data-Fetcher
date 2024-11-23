@@ -10,11 +10,6 @@
         "pubdate": "Sun, 24 Nov 2024 01:00:00 +0800"
     },
     {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Barcelona",
-        "pubdate": "Sun, 24 Nov 2024 04:00:00 +0800"
-    },
-    {
         "title": "Everton vs Brentford",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Everton%20vs%20Brentford",
         "pubdate": "Sun, 24 Nov 2024 00:00:00 +0800"
@@ -35,9 +30,9 @@
         "pubdate": "Sat, 23 Nov 2024 23:00:00 +0800"
     },
     {
-        "title": "Bundesliga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Bundesliga",
-        "pubdate": "Sat, 23 Nov 2024 05:00:00 +0800"
+        "title": "La Liga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#La%20Liga",
+        "pubdate": "Sat, 23 Nov 2024 00:00:00 +0800"
     },
     {
         "title": "F1",
@@ -45,9 +40,9 @@
         "pubdate": "Sat, 23 Nov 2024 11:00:00 +0800"
     },
     {
-        "title": "La Liga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#La%20Liga",
-        "pubdate": "Sat, 23 Nov 2024 00:00:00 +0800"
+        "title": "Bundesliga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Bundesliga",
+        "pubdate": "Sat, 23 Nov 2024 05:00:00 +0800"
     },
     {
         "title": "Aston Villa vs Crystal Palace",
@@ -65,14 +60,14 @@
         "pubdate": "Sat, 23 Nov 2024 20:00:00 +0800"
     },
     {
-        "title": "PL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#PL",
-        "pubdate": "Sat, 23 Nov 2024 21:00:00 +0800"
-    },
-    {
         "title": "Conor McGregor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Conor%20McGregor",
         "pubdate": "Sat, 23 Nov 2024 16:00:00 +0800"
+    },
+    {
+        "title": "PL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#PL",
+        "pubdate": "Sat, 23 Nov 2024 21:00:00 +0800"
     },
     {
         "title": "LaLiga",
@@ -83,6 +78,11 @@
         "title": "Serie A",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Serie%20A",
         "pubdate": "Sat, 23 Nov 2024 21:00:00 +0800"
+    },
+    {
+        "title": "Jinx season 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Jinx%20season%202",
+        "pubdate": "Sat, 23 Nov 2024 13:00:00 +0800"
     },
     {
         "title": "G-Dragon",

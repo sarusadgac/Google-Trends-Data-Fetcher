@@ -5,6 +5,11 @@
         "pubdate": "Sat, 23 Nov 2024 16:00:00 +0100"
     },
     {
+        "title": "Saint-Étienne – Montpellier",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Saint-%C3%89tienne%20%E2%80%93%20Montpellier",
+        "pubdate": "Sat, 23 Nov 2024 19:00:00 +0100"
+    },
+    {
         "title": "Top 14",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Top%2014",
         "pubdate": "Sat, 23 Nov 2024 11:00:00 +0100"
@@ -15,14 +20,9 @@
         "pubdate": "Sat, 23 Nov 2024 13:00:00 +0100"
     },
     {
-        "title": "ASSE",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#ASSE",
-        "pubdate": "Sat, 23 Nov 2024 20:00:00 +0100"
-    },
-    {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Real%20Madrid",
-        "pubdate": "Sat, 23 Nov 2024 19:00:00 +0100"
+        "title": "Reims – Lyon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Reims%20%E2%80%93%20Lyon",
+        "pubdate": "Sat, 23 Nov 2024 21:00:00 +0100"
     },
     {
         "title": "Marc Bloch",
@@ -30,8 +30,13 @@
         "pubdate": "Sat, 23 Nov 2024 14:00:00 +0100"
     },
     {
-        "title": "Reims – Lyon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Reims%20%E2%80%93%20Lyon",
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Real%20Madrid",
+        "pubdate": "Sat, 23 Nov 2024 19:00:00 +0100"
+    },
+    {
+        "title": "Sylvie Vartan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Sylvie%20Vartan",
         "pubdate": "Sat, 23 Nov 2024 21:00:00 +0100"
     },
     {
@@ -55,6 +60,11 @@
         "pubdate": "Sat, 23 Nov 2024 12:00:00 +0100"
     },
     {
+        "title": "Barca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Barca",
+        "pubdate": "Sat, 23 Nov 2024 16:00:00 +0100"
+    },
+    {
         "title": "Conor McGregor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Conor%20McGregor",
         "pubdate": "Sat, 23 Nov 2024 00:00:00 +0100"
@@ -63,11 +73,6 @@
         "title": "Le Coq Sportif",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Le%20Coq%20Sportif",
         "pubdate": "Sat, 23 Nov 2024 14:00:00 +0100"
-    },
-    {
-        "title": "Sylvie Vartan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Sylvie%20Vartan",
-        "pubdate": "Sat, 23 Nov 2024 21:00:00 +0100"
     },
     {
         "title": "Arsenal",
@@ -90,13 +95,8 @@
         "pubdate": "Sat, 23 Nov 2024 10:00:00 +0100"
     },
     {
-        "title": "Paris FC – FC Annecy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Paris%20FC%20%E2%80%93%20FC%20Annecy",
-        "pubdate": "Sat, 23 Nov 2024 16:00:00 +0100"
-    },
-    {
-        "title": "Emmanuel Macron",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Emmanuel%20Macron",
-        "pubdate": "Sat, 23 Nov 2024 19:00:00 +0100"
+        "title": "Bastia – Lorient",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Bastia%20%E2%80%93%20Lorient",
+        "pubdate": "Sat, 23 Nov 2024 21:00:00 +0100"
     }
 ]
