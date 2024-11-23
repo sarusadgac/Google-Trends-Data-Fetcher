@@ -15,16 +15,6 @@
         "pubdate": "Fri, 22 Nov 2024 19:30:00 +0530"
     },
     {
-        "title": "Australia vs India",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Australia%20vs%20India",
-        "pubdate": "Fri, 22 Nov 2024 06:30:00 +0530"
-    },
-    {
-        "title": "Cricket",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Cricket",
-        "pubdate": "Fri, 22 Nov 2024 09:30:00 +0530"
-    },
-    {
         "title": "Sports",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Sports",
         "pubdate": "Fri, 22 Nov 2024 15:30:00 +0530"
@@ -50,6 +40,11 @@
         "pubdate": "Fri, 22 Nov 2024 10:30:00 +0530"
     },
     {
+        "title": "Border Gavaskar Trophy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Border%20Gavaskar%20Trophy",
+        "pubdate": "Fri, 22 Nov 2024 07:30:00 +0530"
+    },
+    {
         "title": "Yeh Kaali Kaali Ankhein Season 2",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Yeh%20Kaali%20Kaali%20Ankhein%20Season%202",
         "pubdate": "Fri, 22 Nov 2024 11:30:00 +0530"
@@ -65,13 +60,13 @@
         "pubdate": "Fri, 22 Nov 2024 15:30:00 +0530"
     },
     {
-        "title": "Dubai",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Dubai",
+        "title": "Election Result",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Election%20Result",
         "pubdate": "Fri, 22 Nov 2024 10:30:00 +0530"
     },
     {
-        "title": "Election Result",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Election%20Result",
+        "title": "Dubai",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Dubai",
         "pubdate": "Fri, 22 Nov 2024 10:30:00 +0530"
     },
     {
@@ -97,6 +92,11 @@
     {
         "title": "ICBM",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#ICBM",
+        "pubdate": "Fri, 22 Nov 2024 09:30:00 +0530"
+    },
+    {
+        "title": "Rights",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Rights",
         "pubdate": "Fri, 22 Nov 2024 09:30:00 +0530"
     }
 ]

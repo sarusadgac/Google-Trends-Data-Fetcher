@@ -70,6 +70,11 @@
         "pubdate": "Fri, 22 Nov 2024 20:00:00 -0500"
     },
     {
+        "title": "Racing",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Racing",
+        "pubdate": "Fri, 22 Nov 2024 21:00:00 -0500"
+    },
+    {
         "title": "Independiente  River Plate",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Independiente%20%20River%20Plate",
         "pubdate": "Thu, 21 Nov 2024 20:00:00 -0500"
@@ -93,10 +98,5 @@
         "title": "Franco Navarro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Franco%20Navarro",
         "pubdate": "Thu, 21 Nov 2024 21:00:00 -0500"
-    },
-    {
-        "title": "Los Mirlos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Los%20Mirlos",
-        "pubdate": "Thu, 21 Nov 2024 13:00:00 -0500"
     }
 ]
