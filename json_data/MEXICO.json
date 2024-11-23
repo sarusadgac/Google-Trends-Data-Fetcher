@@ -5,11 +5,6 @@
         "pubdate": "Sat, 23 Nov 2024 09:00:00 -0600"
     },
     {
-        "title": "Milan  Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Milan%20%20Juventus",
-        "pubdate": "Sat, 23 Nov 2024 11:00:00 -0600"
-    },
-    {
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Real%20Madrid",
         "pubdate": "Sat, 23 Nov 2024 12:00:00 -0600"
@@ -18,6 +13,11 @@
         "title": "Leicester City  Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Leicester%20City%20%20Chelsea",
         "pubdate": "Sat, 23 Nov 2024 07:00:00 -0600"
+    },
+    {
+        "title": "Racing vs Cruzeiro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Racing%20vs%20Cruzeiro",
+        "pubdate": "Sat, 23 Nov 2024 14:00:00 -0600"
     },
     {
         "title": "Atlético Madrid  Alavés",
@@ -30,9 +30,9 @@
         "pubdate": "Sat, 23 Nov 2024 10:00:00 -0600"
     },
     {
-        "title": "Racing vs Cruzeiro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Racing%20vs%20Cruzeiro",
-        "pubdate": "Sat, 23 Nov 2024 14:00:00 -0600"
+        "title": "Hellas Verona  Inter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Hellas%20Verona%20%20Inter",
+        "pubdate": "Sat, 23 Nov 2024 09:00:00 -0600"
     },
     {
         "title": "Aston Villa  Crystal Palace",
@@ -40,9 +40,9 @@
         "pubdate": "Sat, 23 Nov 2024 10:00:00 -0600"
     },
     {
-        "title": "UD Las Palmas  RCD Mallorca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#UD%20Las%20Palmas%20%20RCD%20Mallorca",
-        "pubdate": "Sat, 23 Nov 2024 13:00:00 -0600"
+        "title": "Angela Merkel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Angela%20Merkel",
+        "pubdate": "Sat, 23 Nov 2024 14:00:00 -0600"
     },
     {
         "title": "Bournemouth - Brighton",
@@ -60,23 +60,33 @@
         "pubdate": "Sat, 23 Nov 2024 11:00:00 -0600"
     },
     {
-        "title": "Angela Merkel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Angela%20Merkel",
-        "pubdate": "Sat, 23 Nov 2024 14:00:00 -0600"
-    },
-    {
         "title": "Girona  RCD Espanyol",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Girona%20%20RCD%20Espanyol",
         "pubdate": "Sat, 23 Nov 2024 13:00:00 -0600"
     },
     {
-        "title": "F1 Las Vegas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#F1%20Las%20Vegas",
-        "pubdate": "Sat, 23 Nov 2024 00:00:00 -0600"
+        "title": "Parma - Atalanta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Parma%20-%20Atalanta",
+        "pubdate": "Sat, 23 Nov 2024 16:00:00 -0600"
+    },
+    {
+        "title": "Tapatio vs Celaya",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Tapatio%20vs%20Celaya",
+        "pubdate": "Sat, 23 Nov 2024 17:00:00 -0600"
+    },
+    {
+        "title": "UD Las Palmas  RCD Mallorca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#UD%20Las%20Palmas%20%20RCD%20Mallorca",
+        "pubdate": "Sat, 23 Nov 2024 14:00:00 -0600"
     },
     {
         "title": "Feyenoord",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Feyenoord",
+        "pubdate": "Sat, 23 Nov 2024 13:00:00 -0600"
+    },
+    {
+        "title": "Las Palmas vs Mallorca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Las%20Palmas%20vs%20Mallorca",
         "pubdate": "Sat, 23 Nov 2024 13:00:00 -0600"
     },
     {
@@ -88,15 +98,5 @@
         "title": "Liga italiana",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Liga%20italiana",
         "pubdate": "Sat, 23 Nov 2024 13:00:00 -0600"
-    },
-    {
-        "title": "Parma  Atalanta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Parma%20%20Atalanta",
-        "pubdate": "Sat, 23 Nov 2024 16:00:00 -0600"
-    },
-    {
-        "title": "Conor McGregor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Conor%20McGregor",
-        "pubdate": "Sat, 23 Nov 2024 11:00:00 -0600"
     }
 ]
