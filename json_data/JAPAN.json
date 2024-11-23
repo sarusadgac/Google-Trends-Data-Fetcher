@@ -25,11 +25,6 @@
         "pubdate": "Sat, 23 Nov 2024 15:00:00 +0900"
     },
     {
-        "title": "市川團蔵",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%B8%82%E5%B7%9D%E5%9C%98%E8%94%B5",
-        "pubdate": "Sat, 23 Nov 2024 15:00:00 +0900"
-    },
-    {
         "title": "BIGBANG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#BIGBANG",
         "pubdate": "Sat, 23 Nov 2024 22:00:00 +0900"
@@ -98,5 +93,10 @@
         "title": "ICBM",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#ICBM",
         "pubdate": "Thu, 21 Nov 2024 18:00:00 +0900"
+    },
+    {
+        "title": "MAMA 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#MAMA%202024",
+        "pubdate": "Thu, 21 Nov 2024 16:00:00 +0900"
     }
 ]
