@@ -1,5 +1,10 @@
 [
     {
+        "title": "Raul Seixas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Raul%20Seixas",
+        "pubdate": "Sat, 23 Nov 2024 01:00:00 -0500"
+    },
+    {
         "title": "Bayern  Augsburgo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bayern%20%20Augsburgo",
         "pubdate": "Fri, 22 Nov 2024 14:00:00 -0500"
@@ -45,6 +50,11 @@
         "pubdate": "Fri, 22 Nov 2024 18:00:00 -0500"
     },
     {
+        "title": "Fluminense vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Fluminense%20vs",
+        "pubdate": "Fri, 22 Nov 2024 20:00:00 -0500"
+    },
+    {
         "title": "Feid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Feid",
         "pubdate": "Fri, 22 Nov 2024 17:00:00 -0500"
@@ -88,15 +98,5 @@
         "title": "Independiente  River Plate",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Independiente%20%20River%20Plate",
         "pubdate": "Thu, 21 Nov 2024 20:00:00 -0500"
-    },
-    {
-        "title": "Jove Español - Real Sociedad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Jove%20Espa%C3%B1ol%20-%20Real%20Sociedad",
-        "pubdate": "Thu, 21 Nov 2024 15:00:00 -0500"
-    },
-    {
-        "title": "Dia del musico",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Dia%20del%20musico",
-        "pubdate": "Thu, 21 Nov 2024 23:00:00 -0500"
     }
 ]
