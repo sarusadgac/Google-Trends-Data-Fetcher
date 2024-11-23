@@ -5,9 +5,9 @@
         "pubdate": "Sat, 23 Nov 2024 01:00:00 -0500"
     },
     {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Barcelona",
-        "pubdate": "Sat, 23 Nov 2024 11:00:00 -0500"
+        "title": "Atlético Madrid - Alavés",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Atl%C3%A9tico%20Madrid%20-%20Alav%C3%A9s",
+        "pubdate": "Sat, 23 Nov 2024 10:00:00 -0500"
     },
     {
         "title": "Arsenal - Nottingham Forest",
@@ -15,9 +15,14 @@
         "pubdate": "Sat, 23 Nov 2024 10:00:00 -0500"
     },
     {
-        "title": "Leverkusen  Heidenheim",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Leverkusen%20%20Heidenheim",
+        "title": "Manchester City - Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Manchester%20City%20-%20Tottenham",
         "pubdate": "Sat, 23 Nov 2024 10:00:00 -0500"
+    },
+    {
+        "title": "Aston Villa  Crystal Palace",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Aston%20Villa%20%20Crystal%20Palace",
+        "pubdate": "Sat, 23 Nov 2024 11:00:00 -0500"
     },
     {
         "title": "Hellas Verona  Inter",
@@ -25,9 +30,9 @@
         "pubdate": "Sat, 23 Nov 2024 10:00:00 -0500"
     },
     {
-        "title": "Aston Villa - Crystal Palace",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Aston%20Villa%20-%20Crystal%20Palace",
-        "pubdate": "Sat, 23 Nov 2024 11:00:00 -0500"
+        "title": "Milan - Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Milan%20-%20Juventus",
+        "pubdate": "Sat, 23 Nov 2024 12:00:00 -0500"
     },
     {
         "title": "F1",
@@ -35,19 +40,24 @@
         "pubdate": "Sat, 23 Nov 2024 08:00:00 -0500"
     },
     {
-        "title": "Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Manchester%20City",
-        "pubdate": "Sat, 23 Nov 2024 10:00:00 -0500"
+        "title": "Bournemouth  Brighton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bournemouth%20%20Brighton",
+        "pubdate": "Sat, 23 Nov 2024 12:00:00 -0500"
     },
     {
-        "title": "Leverkusen vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Leverkusen%20vs",
+        "title": "Liga Inglesa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Liga%20Inglesa",
         "pubdate": "Sat, 23 Nov 2024 11:00:00 -0500"
     },
     {
-        "title": "Bayern  Augsburgo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bayern%20%20Augsburgo",
-        "pubdate": "Fri, 22 Nov 2024 14:00:00 -0500"
+        "title": "FC Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#FC%20Barcelona",
+        "pubdate": "Sat, 23 Nov 2024 11:00:00 -0500"
+    },
+    {
+        "title": "Inter vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Inter%20vs",
+        "pubdate": "Sat, 23 Nov 2024 12:00:00 -0500"
     },
     {
         "title": "Premier League",
@@ -55,24 +65,29 @@
         "pubdate": "Fri, 22 Nov 2024 23:00:00 -0500"
     },
     {
+        "title": "Bayern  Augsburgo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bayern%20%20Augsburgo",
+        "pubdate": "Fri, 22 Nov 2024 14:00:00 -0500"
+    },
+    {
         "title": "PSG  Toulouse",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#PSG%20%20Toulouse",
         "pubdate": "Fri, 22 Nov 2024 15:00:00 -0500"
     },
     {
+        "title": "Bundesliga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bundesliga",
+        "pubdate": "Fri, 22 Nov 2024 14:00:00 -0500"
+    },
+    {
         "title": "La Liga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#La%20Liga",
-        "pubdate": "Fri, 22 Nov 2024 22:00:00 -0500"
+        "pubdate": "Fri, 22 Nov 2024 07:00:00 -0500"
     },
     {
         "title": "Al Nassr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Al%20Nassr",
         "pubdate": "Fri, 22 Nov 2024 10:00:00 -0500"
-    },
-    {
-        "title": "LaLiga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#LaLiga",
-        "pubdate": "Fri, 22 Nov 2024 07:00:00 -0500"
     },
     {
         "title": "Copa Sudamericana",
@@ -83,20 +98,5 @@
         "title": "Jinx",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Jinx",
         "pubdate": "Fri, 22 Nov 2024 09:00:00 -0500"
-    },
-    {
-        "title": "Fluminense vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Fluminense%20vs",
-        "pubdate": "Fri, 22 Nov 2024 20:00:00 -0500"
-    },
-    {
-        "title": "Pam Bondi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Pam%20Bondi",
-        "pubdate": "Fri, 22 Nov 2024 12:00:00 -0500"
-    },
-    {
-        "title": "LIGA ESPAÑOLA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#LIGA%20ESPA%C3%91OLA",
-        "pubdate": "Fri, 22 Nov 2024 20:00:00 -0500"
     }
 ]

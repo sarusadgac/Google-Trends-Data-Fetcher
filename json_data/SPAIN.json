@@ -5,9 +5,14 @@
         "pubdate": "Sat, 23 Nov 2024 14:00:00 +0100"
     },
     {
-        "title": "Atlético Madrid  Alavés",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Atl%C3%A9tico%20Madrid%20%20Alav%C3%A9s",
+        "title": "Atlético Madrid - Alavés",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Atl%C3%A9tico%20Madrid%20-%20Alav%C3%A9s",
         "pubdate": "Sat, 23 Nov 2024 16:00:00 +0100"
+    },
+    {
+        "title": "Premier League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Premier%20League",
+        "pubdate": "Sat, 23 Nov 2024 11:00:00 +0100"
     },
     {
         "title": "Wicked",
@@ -15,13 +20,13 @@
         "pubdate": "Sat, 23 Nov 2024 02:00:00 +0100"
     },
     {
-        "title": "Leicester City  Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Leicester%20City%20%20Chelsea",
-        "pubdate": "Sat, 23 Nov 2024 14:00:00 +0100"
+        "title": "Granada - Cádiz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Granada%20-%20C%C3%A1diz",
+        "pubdate": "Sat, 23 Nov 2024 16:00:00 +0100"
     },
     {
-        "title": "Premier League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Premier%20League",
+        "title": "Formula 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Formula%201",
         "pubdate": "Sat, 23 Nov 2024 11:00:00 +0100"
     },
     {
@@ -35,18 +40,13 @@
         "pubdate": "Sat, 23 Nov 2024 14:00:00 +0100"
     },
     {
-        "title": "Granada - Cádiz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Granada%20-%20C%C3%A1diz",
-        "pubdate": "Sat, 23 Nov 2024 16:00:00 +0100"
+        "title": "Premier",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Premier",
+        "pubdate": "Sat, 23 Nov 2024 15:00:00 +0100"
     },
     {
         "title": "Partidos de la Liga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Partidos%20de%20la%20Liga",
-        "pubdate": "Sat, 23 Nov 2024 00:00:00 +0100"
-    },
-    {
-        "title": "Leiva",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Leiva",
         "pubdate": "Sat, 23 Nov 2024 00:00:00 +0100"
     },
     {
@@ -55,14 +55,14 @@
         "pubdate": "Sat, 23 Nov 2024 16:00:00 +0100"
     },
     {
-        "title": "La Liga Hoy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#La%20Liga%20Hoy",
-        "pubdate": "Sat, 23 Nov 2024 13:00:00 +0100"
-    },
-    {
         "title": "Margarita Robles",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Margarita%20Robles",
         "pubdate": "Sat, 23 Nov 2024 13:00:00 +0100"
+    },
+    {
+        "title": "Leiva",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Leiva",
+        "pubdate": "Sat, 23 Nov 2024 00:00:00 +0100"
     },
     {
         "title": "Serie a",
@@ -75,14 +75,9 @@
         "pubdate": "Sat, 23 Nov 2024 01:00:00 +0100"
     },
     {
-        "title": "Real Madrid hoy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Real%20Madrid%20hoy",
+        "title": "Cristina Porta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Cristina%20Porta",
         "pubdate": "Sat, 23 Nov 2024 17:00:00 +0100"
-    },
-    {
-        "title": "Premier",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Premier",
-        "pubdate": "Sat, 23 Nov 2024 15:00:00 +0100"
     },
     {
         "title": "Primera división",
@@ -90,9 +85,14 @@
         "pubdate": "Sat, 23 Nov 2024 14:00:00 +0100"
     },
     {
-        "title": "Real Valladolid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Real%20Valladolid",
-        "pubdate": "Sat, 23 Nov 2024 10:00:00 +0100"
+        "title": "Arsenal - Nottingham Forest",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Arsenal%20-%20Nottingham%20Forest",
+        "pubdate": "Sat, 23 Nov 2024 17:00:00 +0100"
+    },
+    {
+        "title": "Milan - Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Milan%20-%20Juventus",
+        "pubdate": "Sat, 23 Nov 2024 18:00:00 +0100"
     },
     {
         "title": "Hellas Verona  Inter",
