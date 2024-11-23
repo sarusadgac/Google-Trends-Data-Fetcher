@@ -30,8 +30,8 @@
         "pubdate": "Sat, 23 Nov 2024 22:00:00 +0100"
     },
     {
-        "title": "Córdoba  - Real Zaragoza",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#C%C3%B3rdoba%20%20-%20Real%20Zaragoza",
+        "title": "Córdoba  Real Zaragoza",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#C%C3%B3rdoba%20%20Real%20Zaragoza",
         "pubdate": "Sat, 23 Nov 2024 18:00:00 +0100"
     },
     {
@@ -40,14 +40,24 @@
         "pubdate": "Sat, 23 Nov 2024 02:00:00 +0100"
     },
     {
-        "title": "Granada  Cádiz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Granada%20%20C%C3%A1diz",
+        "title": "Granada - Cádiz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Granada%20-%20C%C3%A1diz",
         "pubdate": "Sat, 23 Nov 2024 16:00:00 +0100"
+    },
+    {
+        "title": "Málaga  Racing de Santander",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#M%C3%A1laga%20%20Racing%20de%20Santander",
+        "pubdate": "Sat, 23 Nov 2024 21:00:00 +0100"
     },
     {
         "title": "Leicester City  Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Leicester%20City%20%20Chelsea",
         "pubdate": "Sat, 23 Nov 2024 14:00:00 +0100"
+    },
+    {
+        "title": "Formula 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Formula%201",
+        "pubdate": "Sat, 23 Nov 2024 11:00:00 +0100"
     },
     {
         "title": "Anabel Pantoja",
@@ -60,24 +70,9 @@
         "pubdate": "Sat, 23 Nov 2024 00:00:00 +0100"
     },
     {
-        "title": "Conor McGregor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Conor%20McGregor",
-        "pubdate": "Sat, 23 Nov 2024 00:00:00 +0100"
-    },
-    {
         "title": "Milan - Juventus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Milan%20-%20Juventus",
         "pubdate": "Sat, 23 Nov 2024 18:00:00 +0100"
-    },
-    {
-        "title": "Cartagena  Almería",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Cartagena%20%20Almer%C3%ADa",
-        "pubdate": "Sat, 23 Nov 2024 14:00:00 +0100"
-    },
-    {
-        "title": "Arsenal - Nottingham Forest",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Arsenal%20-%20Nottingham%20Forest",
-        "pubdate": "Sat, 23 Nov 2024 17:00:00 +0100"
     },
     {
         "title": "LIGA ESPAÑOLA",
@@ -85,14 +80,19 @@
         "pubdate": "Sat, 23 Nov 2024 01:00:00 +0100"
     },
     {
-        "title": "UD Las Palmas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#UD%20Las%20Palmas",
-        "pubdate": "Sat, 23 Nov 2024 19:00:00 +0100"
+        "title": "Conor McGregor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Conor%20McGregor",
+        "pubdate": "Sat, 23 Nov 2024 00:00:00 +0100"
     },
     {
-        "title": "Málaga - Racing de Santander",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#M%C3%A1laga%20-%20Racing%20de%20Santander",
-        "pubdate": "Sat, 23 Nov 2024 21:00:00 +0100"
+        "title": "Arsenal - Nottingham Forest",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Arsenal%20-%20Nottingham%20Forest",
+        "pubdate": "Sat, 23 Nov 2024 17:00:00 +0100"
+    },
+    {
+        "title": "Cartagena  Almería",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Cartagena%20%20Almer%C3%ADa",
+        "pubdate": "Sat, 23 Nov 2024 14:00:00 +0100"
     },
     {
         "title": "Margarita Robles",
