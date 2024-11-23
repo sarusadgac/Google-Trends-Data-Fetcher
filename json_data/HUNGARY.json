@@ -1,7 +1,7 @@
 [
     {
-        "title": "Manchester city–tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Manchester%20city%E2%80%93tottenham",
+        "title": "Manchester City–Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Manchester%20City%E2%80%93Tottenham",
         "pubdate": "Sat, 23 Nov 2024 18:00:00 +0100"
     },
     {
@@ -10,19 +10,9 @@
         "pubdate": "Sat, 23 Nov 2024 01:00:00 +0100"
     },
     {
-        "title": "Bournemouth–brighton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bournemouth%E2%80%93brighton",
-        "pubdate": "Sat, 23 Nov 2024 16:00:00 +0100"
-    },
-    {
-        "title": "Mtk–eto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Mtk%E2%80%93eto",
-        "pubdate": "Sat, 23 Nov 2024 16:00:00 +0100"
-    },
-    {
-        "title": "F1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#F1",
-        "pubdate": "Sat, 23 Nov 2024 14:00:00 +0100"
+        "title": "Celta–barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Celta%E2%80%93barcelona",
+        "pubdate": "Sat, 23 Nov 2024 21:00:00 +0100"
     },
     {
         "title": "Gorka Sebestyén",
@@ -33,6 +23,11 @@
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Liverpool",
         "pubdate": "Sat, 23 Nov 2024 16:00:00 +0100"
+    },
+    {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Barcelona",
+        "pubdate": "Sat, 23 Nov 2024 21:00:00 +0100"
     },
     {
         "title": "Atlético madrid–alavés",
@@ -48,6 +43,11 @@
         "title": "PL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#PL",
         "pubdate": "Sat, 23 Nov 2024 17:00:00 +0100"
+    },
+    {
+        "title": "Aston villa–crystal Palace",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Aston%20villa%E2%80%93crystal%20Palace",
+        "pubdate": "Sat, 23 Nov 2024 16:00:00 +0100"
     },
     {
         "title": "Serie A",
@@ -75,6 +75,11 @@
         "pubdate": "Sat, 23 Nov 2024 18:00:00 +0100"
     },
     {
+        "title": "Tóth Gabi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#T%C3%B3th%20Gabi",
+        "pubdate": "Sat, 23 Nov 2024 21:00:00 +0100"
+    },
+    {
         "title": "Sisi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sisi",
         "pubdate": "Sat, 23 Nov 2024 00:00:00 +0100"
@@ -93,10 +98,5 @@
         "title": "Kelenföld",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kelenf%C3%B6ld",
         "pubdate": "Fri, 22 Nov 2024 13:00:00 +0100"
-    },
-    {
-        "title": "A világ legmagasabb nője",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#A%20vil%C3%A1g%20legmagasabb%20n%C5%91je",
-        "pubdate": "Fri, 22 Nov 2024 19:00:00 +0100"
     }
 ]
