@@ -10,11 +10,6 @@
         "pubdate": "Sat, 23 Nov 2024 03:00:00 +0300"
     },
     {
-        "title": "500 TL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#500%20TL",
-        "pubdate": "Sat, 23 Nov 2024 01:00:00 +0300"
-    },
-    {
         "title": "Eyüpspor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ey%C3%BCpspor",
         "pubdate": "Sat, 23 Nov 2024 00:00:00 +0300"
@@ -93,6 +88,11 @@
         "title": "Türkiye-Macaristan basketbol",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#T%C3%BCrkiye-Macaristan%20basketbol",
         "pubdate": "Fri, 22 Nov 2024 22:00:00 +0300"
+    },
+    {
+        "title": "Kayserispor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Kayserispor",
+        "pubdate": "Fri, 22 Nov 2024 21:00:00 +0300"
     },
     {
         "title": "Bodrumspor  Galatasaray",
