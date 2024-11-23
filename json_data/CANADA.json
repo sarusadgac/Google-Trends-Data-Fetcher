@@ -1,5 +1,25 @@
 [
     {
+        "title": "Montreal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Montreal",
+        "pubdate": "Sat, 23 Nov 2024 01:00:00 -0500"
+    },
+    {
+        "title": "Formula 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Formula%201",
+        "pubdate": "Sat, 23 Nov 2024 00:00:00 -0500"
+    },
+    {
+        "title": "Jason Kelce",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jason%20Kelce",
+        "pubdate": "Sat, 23 Nov 2024 01:00:00 -0500"
+    },
+    {
+        "title": "Brock Purdy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Brock%20Purdy",
+        "pubdate": "Sat, 23 Nov 2024 01:00:00 -0500"
+    },
+    {
         "title": "Snowfall warning",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Snowfall%20warning",
         "pubdate": "Fri, 22 Nov 2024 08:00:00 -0500"
@@ -13,11 +33,6 @@
         "title": "Conor McGregor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Conor%20McGregor",
         "pubdate": "Fri, 22 Nov 2024 14:00:00 -0500"
-    },
-    {
-        "title": "F1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#F1",
-        "pubdate": "Fri, 22 Nov 2024 18:00:00 -0500"
     },
     {
         "title": "Calgary Flames",
@@ -35,9 +50,9 @@
         "pubdate": "Fri, 22 Nov 2024 14:00:00 -0500"
     },
     {
-        "title": "Wind Warning",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Wind%20Warning",
-        "pubdate": "Fri, 22 Nov 2024 12:00:00 -0500"
+        "title": "F1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#F1",
+        "pubdate": "Fri, 22 Nov 2024 18:00:00 -0500"
     },
     {
         "title": "XRP",
@@ -65,14 +80,14 @@
         "pubdate": "Fri, 22 Nov 2024 12:00:00 -0500"
     },
     {
-        "title": "Josh Brolin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Josh%20Brolin",
-        "pubdate": "Fri, 22 Nov 2024 12:00:00 -0500"
-    },
-    {
         "title": "Khalid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Khalid",
         "pubdate": "Fri, 22 Nov 2024 22:00:00 -0500"
+    },
+    {
+        "title": "Josh Brolin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Josh%20Brolin",
+        "pubdate": "Fri, 22 Nov 2024 12:00:00 -0500"
     },
     {
         "title": "Jets vs Penguins",
@@ -83,20 +98,5 @@
         "title": "Scott Bessent",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Scott%20Bessent",
         "pubdate": "Fri, 22 Nov 2024 21:00:00 -0500"
-    },
-    {
-        "title": "Alex Ovechkin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Alex%20Ovechkin",
-        "pubdate": "Fri, 22 Nov 2024 16:00:00 -0500"
-    },
-    {
-        "title": "Cineplex free popcorn drink refills",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Cineplex%20free%20popcorn%20drink%20refills",
-        "pubdate": "Fri, 22 Nov 2024 23:00:00 -0500"
-    },
-    {
-        "title": "Maharashtra Election 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Maharashtra%20Election%202024",
-        "pubdate": "Fri, 22 Nov 2024 23:00:00 -0500"
     }
 ]
