@@ -10,14 +10,14 @@
         "pubdate": "Fri, 22 Nov 2024 14:00:00 -0500"
     },
     {
-        "title": "Al-nassr  Al Qadisiya",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Al-nassr%20%20Al%20Qadisiya",
-        "pubdate": "Fri, 22 Nov 2024 10:00:00 -0500"
-    },
-    {
         "title": "PSG  Toulouse",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#PSG%20%20Toulouse",
         "pubdate": "Fri, 22 Nov 2024 15:00:00 -0500"
+    },
+    {
+        "title": "Al Nassr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Al%20Nassr",
+        "pubdate": "Fri, 22 Nov 2024 10:00:00 -0500"
     },
     {
         "title": "Fluminense  Fortaleza",
@@ -35,11 +35,6 @@
         "pubdate": "Fri, 22 Nov 2024 09:00:00 -0500"
     },
     {
-        "title": "La Liga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#La%20Liga",
-        "pubdate": "Fri, 22 Nov 2024 20:00:00 -0500"
-    },
-    {
         "title": "Fluminense vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Fluminense%20vs",
         "pubdate": "Fri, 22 Nov 2024 20:00:00 -0500"
@@ -53,6 +48,16 @@
         "title": "Ferxxo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Ferxxo",
         "pubdate": "Fri, 22 Nov 2024 18:00:00 -0500"
+    },
+    {
+        "title": "La Liga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#La%20Liga",
+        "pubdate": "Fri, 22 Nov 2024 22:00:00 -0500"
+    },
+    {
+        "title": "Racing",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Racing",
+        "pubdate": "Fri, 22 Nov 2024 21:00:00 -0500"
     },
     {
         "title": "Feid",
@@ -70,14 +75,14 @@
         "pubdate": "Fri, 22 Nov 2024 17:00:00 -0500"
     },
     {
-        "title": "Serie a",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Serie%20a",
+        "title": "LIGA ESPAÑOLA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#LIGA%20ESPA%C3%91OLA",
         "pubdate": "Fri, 22 Nov 2024 20:00:00 -0500"
     },
     {
-        "title": "Racing",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Racing",
-        "pubdate": "Fri, 22 Nov 2024 21:00:00 -0500"
+        "title": "Serie a",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Serie%20a",
+        "pubdate": "Fri, 22 Nov 2024 20:00:00 -0500"
     },
     {
         "title": "Liga MX",
@@ -93,10 +98,5 @@
         "title": "Mario Vargas Llosa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Mario%20Vargas%20Llosa",
         "pubdate": "Fri, 22 Nov 2024 01:00:00 -0500"
-    },
-    {
-        "title": "Independiente  River Plate",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Independiente%20%20River%20Plate",
-        "pubdate": "Thu, 21 Nov 2024 20:00:00 -0500"
     }
 ]
