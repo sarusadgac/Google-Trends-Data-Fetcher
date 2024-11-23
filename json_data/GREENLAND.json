@@ -1,33 +1,13 @@
 [
     {
-        "title": "Bundesliga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bundesliga",
-        "pubdate": "Fri, 22 Nov 2024 17:00:00 +0100"
-    },
-    {
-        "title": "Рубин – Акрон",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%A0%D1%83%D0%B1%D0%B8%D0%BD%20%E2%80%93%20%D0%90%D0%BA%D1%80%D0%BE%D0%BD",
-        "pubdate": "Fri, 22 Nov 2024 19:00:00 +0300"
-    },
-    {
-        "title": "Conor McGregor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Conor%20McGregor",
-        "pubdate": "Sat, 23 Nov 2024 00:00:00 +0100"
-    },
-    {
-        "title": "Cynthia Erivo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Cynthia%20Erivo",
-        "pubdate": "Sat, 23 Nov 2024 00:00:00 +0000"
-    },
-    {
         "title": "天皇杯決勝",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%A4%A9%E7%9A%87%E6%9D%AF%E6%B1%BA%E5%8B%9D",
         "pubdate": "Sat, 23 Nov 2024 12:00:00 +0900"
     },
     {
-        "title": "Kendrick Lamar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kendrick%20Lamar",
-        "pubdate": "Fri, 22 Nov 2024 10:00:00 -0800"
+        "title": "Bundesliga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bundesliga",
+        "pubdate": "Fri, 22 Nov 2024 17:00:00 +0100"
     },
     {
         "title": "Election Commission of India",
@@ -35,49 +15,34 @@
         "pubdate": "Sat, 23 Nov 2024 08:30:00 +0530"
     },
     {
+        "title": "Cynthia Erivo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Cynthia%20Erivo",
+        "pubdate": "Sat, 23 Nov 2024 00:00:00 +0000"
+    },
+    {
+        "title": "Conor McGregor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Conor%20McGregor",
+        "pubdate": "Sat, 23 Nov 2024 00:00:00 +0100"
+    },
+    {
+        "title": "Kendrick Lamar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kendrick%20Lamar",
+        "pubdate": "Fri, 22 Nov 2024 10:00:00 -0800"
+    },
+    {
+        "title": "Рубин – Акрон",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%A0%D1%83%D0%B1%D0%B8%D0%BD%20%E2%80%93%20%D0%90%D0%BA%D1%80%D0%BE%D0%BD",
+        "pubdate": "Fri, 22 Nov 2024 19:00:00 +0300"
+    },
+    {
         "title": "金馬獎",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E9%87%91%E9%A6%AC%E7%8D%8E",
         "pubdate": "Sat, 23 Nov 2024 14:00:00 +0800"
     },
     {
-        "title": "F1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#F1",
-        "pubdate": "Fri, 22 Nov 2024 09:00:00 +0100"
-    },
-    {
-        "title": "Bayern đấu với Augsburg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Bayern%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Augsburg",
-        "pubdate": "Sat, 23 Nov 2024 02:00:00 +0700"
-    },
-    {
-        "title": "Bayern  Augsburgo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bayern%20%20Augsburgo",
-        "pubdate": "Fri, 22 Nov 2024 14:00:00 -0500"
-    },
-    {
-        "title": "Bayern vs Augsburg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Bayern%20vs%20Augsburg",
-        "pubdate": "Sat, 23 Nov 2024 04:00:00 +0800"
-    },
-    {
-        "title": "محمد رحيم",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=EG#%D9%85%D8%AD%D9%85%D8%AF%20%D8%B1%D8%AD%D9%8A%D9%85",
-        "pubdate": "Sat, 23 Nov 2024 04:00:00 +0200"
-    },
-    {
-        "title": "Clash of the Stars",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Clash%20of%20the%20Stars",
-        "pubdate": "Fri, 22 Nov 2024 18:00:00 +0100"
-    },
-    {
-        "title": "Fatih Altaylı",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Fatih%20Altayl%C4%B1",
-        "pubdate": "Sat, 23 Nov 2024 01:00:00 +0300"
-    },
-    {
-        "title": "Weather forecast",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Weather%20forecast",
-        "pubdate": "Sat, 23 Nov 2024 13:00:00 +0800"
+        "title": "Wicked",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Wicked",
+        "pubdate": "Sat, 23 Nov 2024 00:00:00 +0000"
     },
     {
         "title": "Chelsea",
@@ -85,9 +50,19 @@
         "pubdate": "Sat, 23 Nov 2024 01:00:00 -0500"
     },
     {
-        "title": "XRP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#XRP",
-        "pubdate": "Sat, 23 Nov 2024 03:00:00 +0100"
+        "title": "АПЛ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=UA#%D0%90%D0%9F%D0%9B",
+        "pubdate": "Sat, 23 Nov 2024 08:00:00 +0200"
+    },
+    {
+        "title": "Cruzeiro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Cruzeiro",
+        "pubdate": "Sat, 23 Nov 2024 00:00:00 -0300"
+    },
+    {
+        "title": "Susanne Sundfør",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Susanne%20Sundf%C3%B8r",
+        "pubdate": "Sat, 23 Nov 2024 00:00:00 +0100"
     },
     {
         "title": "Markku Kanerva",
@@ -95,8 +70,33 @@
         "pubdate": "Fri, 22 Nov 2024 14:00:00 +0200"
     },
     {
-        "title": "אסי דיין",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%90%D7%A1%D7%99%20%D7%93%D7%99%D7%99%D7%9F",
-        "pubdate": "Fri, 22 Nov 2024 22:00:00 +0200"
+        "title": "Super League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#Super%20League",
+        "pubdate": "Sat, 23 Nov 2024 02:00:00 +0200"
+    },
+    {
+        "title": "Tessa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tessa",
+        "pubdate": "Sat, 23 Nov 2024 00:00:00 +0100"
+    },
+    {
+        "title": "Bayern  Augsburgo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bayern%20%20Augsburgo",
+        "pubdate": "Fri, 22 Nov 2024 14:00:00 -0500"
+    },
+    {
+        "title": "PSG vs Toulouse",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#PSG%20vs%20Toulouse",
+        "pubdate": "Sat, 23 Nov 2024 03:00:00 +0700"
+    },
+    {
+        "title": "Montreal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Montreal",
+        "pubdate": "Sat, 23 Nov 2024 01:00:00 -0500"
+    },
+    {
+        "title": "Zygmunt Solorz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Zygmunt%20Solorz",
+        "pubdate": "Sat, 23 Nov 2024 00:00:00 +0100"
     }
 ]
