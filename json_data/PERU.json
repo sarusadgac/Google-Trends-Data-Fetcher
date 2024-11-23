@@ -15,6 +15,11 @@
         "pubdate": "Fri, 22 Nov 2024 15:00:00 -0500"
     },
     {
+        "title": "Fluminense  Fortaleza",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Fluminense%20%20Fortaleza",
+        "pubdate": "Fri, 22 Nov 2024 20:00:00 -0500"
+    },
+    {
         "title": "Jinx",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Jinx",
         "pubdate": "Fri, 22 Nov 2024 09:00:00 -0500"
@@ -25,14 +30,19 @@
         "pubdate": "Fri, 22 Nov 2024 16:00:00 -0500"
     },
     {
+        "title": "Pam Bondi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Pam%20Bondi",
+        "pubdate": "Fri, 22 Nov 2024 12:00:00 -0500"
+    },
+    {
         "title": "Ferxxo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Ferxxo",
         "pubdate": "Fri, 22 Nov 2024 18:00:00 -0500"
     },
     {
-        "title": "Pam Bondi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Pam%20Bondi",
-        "pubdate": "Fri, 22 Nov 2024 12:00:00 -0500"
+        "title": "La Liga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#La%20Liga",
+        "pubdate": "Fri, 22 Nov 2024 22:00:00 -0500"
     },
     {
         "title": "LaLiga",
@@ -43,11 +53,6 @@
         "title": "Feid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Feid",
         "pubdate": "Fri, 22 Nov 2024 17:00:00 -0500"
-    },
-    {
-        "title": "Liga española",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Liga%20espa%C3%B1ola",
-        "pubdate": "Fri, 22 Nov 2024 20:00:00 -0500"
     },
     {
         "title": "Liga MX",
@@ -93,10 +98,5 @@
         "title": "Keane",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Keane",
         "pubdate": "Thu, 21 Nov 2024 11:00:00 -0500"
-    },
-    {
-        "title": "Franco Navarro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Franco%20Navarro",
-        "pubdate": "Thu, 21 Nov 2024 21:00:00 -0500"
     }
 ]
