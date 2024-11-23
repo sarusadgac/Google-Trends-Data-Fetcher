@@ -25,6 +25,11 @@
         "pubdate": "Sat, 23 Nov 2024 01:00:00 +0100"
     },
     {
+        "title": "Real Valladolid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Real%20Valladolid",
+        "pubdate": "Sat, 23 Nov 2024 10:00:00 +0100"
+    },
+    {
         "title": "Getafe  Valladolid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Getafe%20%20Valladolid",
         "pubdate": "Fri, 22 Nov 2024 21:00:00 +0100"
@@ -80,8 +85,8 @@
         "pubdate": "Fri, 22 Nov 2024 16:00:00 +0100"
     },
     {
-        "title": "Racing Ferrol - Levante",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Racing%20Ferrol%20-%20Levante",
+        "title": "Racing Ferrol  Levante",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Racing%20Ferrol%20%20Levante",
         "pubdate": "Fri, 22 Nov 2024 21:00:00 +0100"
     },
     {
@@ -93,10 +98,5 @@
         "title": "Flipy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Flipy",
         "pubdate": "Fri, 22 Nov 2024 11:00:00 +0100"
-    },
-    {
-        "title": "Eslovaquia - España",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Eslovaquia%20-%20Espa%C3%B1a",
-        "pubdate": "Fri, 22 Nov 2024 19:00:00 +0100"
     }
 ]
