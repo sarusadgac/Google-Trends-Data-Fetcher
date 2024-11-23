@@ -15,6 +15,11 @@
         "pubdate": "Fri, 22 Nov 2024 15:00:00 -0500"
     },
     {
+        "title": "Fluminense  Fortaleza",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Fluminense%20%20Fortaleza",
+        "pubdate": "Fri, 22 Nov 2024 20:00:00 -0500"
+    },
+    {
         "title": "Jinx",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Jinx",
         "pubdate": "Fri, 22 Nov 2024 09:00:00 -0500"
@@ -25,6 +30,11 @@
         "pubdate": "Fri, 22 Nov 2024 23:00:00 -0500"
     },
     {
+        "title": "La Liga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#La%20Liga",
+        "pubdate": "Fri, 22 Nov 2024 20:00:00 -0500"
+    },
+    {
         "title": "Pam Bondi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Pam%20Bondi",
         "pubdate": "Fri, 22 Nov 2024 12:00:00 -0500"
@@ -33,11 +43,6 @@
         "title": "Ferxxo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Ferxxo",
         "pubdate": "Fri, 22 Nov 2024 18:00:00 -0500"
-    },
-    {
-        "title": "La Liga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#La%20Liga",
-        "pubdate": "Fri, 22 Nov 2024 22:00:00 -0500"
     },
     {
         "title": "Feid",
@@ -55,11 +60,6 @@
         "pubdate": "Fri, 22 Nov 2024 17:00:00 -0500"
     },
     {
-        "title": "LIGA ESPAÑOLA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#LIGA%20ESPA%C3%91OLA",
-        "pubdate": "Fri, 22 Nov 2024 20:00:00 -0500"
-    },
-    {
         "title": "Serie a",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Serie%20a",
         "pubdate": "Fri, 22 Nov 2024 20:00:00 -0500"
@@ -68,11 +68,6 @@
         "title": "Racing",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Racing",
         "pubdate": "Fri, 22 Nov 2024 21:00:00 -0500"
-    },
-    {
-        "title": "Fluminense",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Fluminense",
-        "pubdate": "Fri, 22 Nov 2024 22:00:00 -0500"
     },
     {
         "title": "Liga MX",
@@ -98,5 +93,10 @@
         "title": "Jove Español - Real Sociedad",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Jove%20Espa%C3%B1ol%20-%20Real%20Sociedad",
         "pubdate": "Thu, 21 Nov 2024 15:00:00 -0500"
+    },
+    {
+        "title": "Dia del musico",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Dia%20del%20musico",
+        "pubdate": "Thu, 21 Nov 2024 23:00:00 -0500"
     }
 ]

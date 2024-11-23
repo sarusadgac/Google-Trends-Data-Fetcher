@@ -45,6 +45,11 @@
         "pubdate": "Fri, 22 Nov 2024 09:00:00 +0100"
     },
     {
+        "title": "F1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#F1",
+        "pubdate": "Fri, 22 Nov 2024 08:00:00 +0100"
+    },
+    {
         "title": "LaLiga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#LaLiga",
         "pubdate": "Fri, 22 Nov 2024 22:00:00 +0100"
@@ -60,6 +65,11 @@
         "pubdate": "Fri, 22 Nov 2024 02:00:00 +0100"
     },
     {
+        "title": "Maribel Vilaplana",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Maribel%20Vilaplana",
+        "pubdate": "Fri, 22 Nov 2024 10:00:00 +0100"
+    },
+    {
         "title": "PSG  Toulouse",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#PSG%20%20Toulouse",
         "pubdate": "Fri, 22 Nov 2024 21:00:00 +0100"
@@ -68,11 +78,6 @@
         "title": "Alexia de Holanda",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Alexia%20de%20Holanda",
         "pubdate": "Fri, 22 Nov 2024 16:00:00 +0100"
-    },
-    {
-        "title": "Horario F1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Horario%20F1",
-        "pubdate": "Fri, 22 Nov 2024 08:00:00 +0100"
     },
     {
         "title": "Copa del Rey",
@@ -93,10 +98,5 @@
         "title": "Eslovaquia - España",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Eslovaquia%20-%20Espa%C3%B1a",
         "pubdate": "Fri, 22 Nov 2024 19:00:00 +0100"
-    },
-    {
-        "title": "Anabel Segura",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Anabel%20Segura",
-        "pubdate": "Fri, 22 Nov 2024 18:00:00 +0100"
     }
 ]

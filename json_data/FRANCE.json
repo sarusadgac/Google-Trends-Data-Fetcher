@@ -10,6 +10,11 @@
         "pubdate": "Sat, 23 Nov 2024 01:00:00 +0100"
     },
     {
+        "title": "Abel Gance",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Abel%20Gance",
+        "pubdate": "Sat, 23 Nov 2024 01:00:00 +0100"
+    },
+    {
         "title": "Ligue 1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Ligue%201",
         "pubdate": "Fri, 22 Nov 2024 19:00:00 +0100"
@@ -38,6 +43,11 @@
         "title": "Pam Bondi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Pam%20Bondi",
         "pubdate": "Fri, 22 Nov 2024 08:00:00 +0100"
+    },
+    {
+        "title": "Bayern – Augsbourg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Bayern%20%E2%80%93%20Augsbourg",
+        "pubdate": "Fri, 22 Nov 2024 20:00:00 +0100"
     },
     {
         "title": "Louis Bielle-Biarrey",
@@ -88,15 +98,5 @@
         "title": "Jordan Bardella",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Jordan%20Bardella",
         "pubdate": "Fri, 22 Nov 2024 19:00:00 +0100"
-    },
-    {
-        "title": "National",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#National",
-        "pubdate": "Fri, 22 Nov 2024 22:00:00 +0100"
-    },
-    {
-        "title": "Thierry Lhermitte",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Thierry%20Lhermitte",
-        "pubdate": "Fri, 22 Nov 2024 10:00:00 +0100"
     }
 ]
