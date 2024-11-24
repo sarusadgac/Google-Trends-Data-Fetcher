@@ -1,13 +1,13 @@
 [
     {
-        "title": "Зенит",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%97%D0%B5%D0%BD%D0%B8%D1%82",
-        "pubdate": "Sun, 24 Nov 2024 08:00:00 +0300"
+        "title": "Masked Singer 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Masked%20Singer%202024",
+        "pubdate": "Sun, 24 Nov 2024 00:00:00 +0100"
     },
     {
-        "title": "IPL auction 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#IPL%20auction%202024",
-        "pubdate": "Sun, 24 Nov 2024 00:30:00 +0530"
+        "title": "ジャパンカップ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%82%AB%E3%83%83%E3%83%97",
+        "pubdate": "Sun, 24 Nov 2024 12:00:00 +0900"
     },
     {
         "title": "Paris FC",
@@ -20,9 +20,9 @@
         "pubdate": "Sun, 24 Nov 2024 00:00:00 +0800"
     },
     {
-        "title": "Masked Singer 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Masked%20Singer%202024",
-        "pubdate": "Sun, 24 Nov 2024 00:00:00 +0100"
+        "title": "IPL auction 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#IPL%20auction%202024",
+        "pubdate": "Sun, 24 Nov 2024 00:30:00 +0530"
     },
     {
         "title": "Indiana football",
@@ -35,54 +35,19 @@
         "pubdate": "Sun, 24 Nov 2024 01:00:00 +0000"
     },
     {
-        "title": "ジャパンカップ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%82%AB%E3%83%83%E3%83%97",
-        "pubdate": "Sun, 24 Nov 2024 12:00:00 +0900"
+        "title": "Зенит",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%97%D0%B5%D0%BD%D0%B8%D1%82",
+        "pubdate": "Sun, 24 Nov 2024 08:00:00 +0300"
     },
     {
-        "title": "แมนยู",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TH#%E0%B9%81%E0%B8%A1%E0%B8%99%E0%B8%A2%E0%B8%B9",
-        "pubdate": "Sun, 24 Nov 2024 04:00:00 +0700"
+        "title": "PSV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#PSV",
+        "pubdate": "Sun, 24 Nov 2024 00:00:00 +0200"
     },
     {
-        "title": "Pablo Moyano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Pablo%20Moyano",
-        "pubdate": "Sun, 24 Nov 2024 00:00:00 -0500"
-    },
-    {
-        "title": "Botafogo x EC Vitória",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Botafogo%20x%20EC%20Vit%C3%B3ria",
-        "pubdate": "Sat, 23 Nov 2024 15:00:00 -0500"
-    },
-    {
-        "title": "리버풀",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%A6%AC%EB%B2%84%ED%92%80",
-        "pubdate": "Sun, 24 Nov 2024 08:00:00 +0900"
-    },
-    {
-        "title": "Premier League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Premier%20League",
-        "pubdate": "Sat, 23 Nov 2024 03:00:00 -0500"
-    },
-    {
-        "title": "緯來體育台",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E7%B7%AF%E4%BE%86%E9%AB%94%E8%82%B2%E5%8F%B0",
-        "pubdate": "Sun, 24 Nov 2024 13:00:00 +0800"
-    },
-    {
-        "title": "Spurs vs Warriors",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Spurs%20vs%20Warriors",
-        "pubdate": "Sun, 24 Nov 2024 10:00:00 +0800"
-    },
-    {
-        "title": "ΑΡΗΣ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%91%CE%A1%CE%97%CE%A3",
-        "pubdate": "Sat, 23 Nov 2024 00:00:00 +0200"
-    },
-    {
-        "title": "Primera División",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Primera%20Divisi%C3%B3n",
-        "pubdate": "Sun, 24 Nov 2024 01:00:00 -0300"
+        "title": "Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Madrid",
+        "pubdate": "Sun, 24 Nov 2024 00:00:00 +0100"
     },
     {
         "title": "All Blacks vs Italy",
@@ -90,13 +55,48 @@
         "pubdate": "Sun, 24 Nov 2024 01:00:00 +1300"
     },
     {
+        "title": "緯來體育台",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E7%B7%AF%E4%BE%86%E9%AB%94%E8%82%B2%E5%8F%B0",
+        "pubdate": "Sun, 24 Nov 2024 13:00:00 +0800"
+    },
+    {
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Manchester%20United",
         "pubdate": "Sun, 24 Nov 2024 03:00:00 +0700"
     },
     {
-        "title": "АПЛ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=UA#%D0%90%D0%9F%D0%9B",
-        "pubdate": "Sat, 23 Nov 2024 08:00:00 +0200"
+        "title": "Eliteserien",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Eliteserien",
+        "pubdate": "Sat, 23 Nov 2024 10:00:00 +0100"
+    },
+    {
+        "title": "Pablo Moyano",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Pablo%20Moyano",
+        "pubdate": "Sun, 24 Nov 2024 00:00:00 -0500"
+    },
+    {
+        "title": "Liverpool FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Liverpool%20FC",
+        "pubdate": "Sun, 24 Nov 2024 02:00:00 +0000"
+    },
+    {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Arsenal",
+        "pubdate": "Sun, 24 Nov 2024 00:00:00 +0800"
+    },
+    {
+        "title": "Premier League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Premier%20League",
+        "pubdate": "Sat, 23 Nov 2024 13:00:00 +0100"
+    },
+    {
+        "title": "Alerta de viento",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Alerta%20de%20viento",
+        "pubdate": "Sun, 24 Nov 2024 00:00:00 +0100"
+    },
+    {
+        "title": "Celta de Vigo  Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Celta%20de%20Vigo%20%20Barcelona",
+        "pubdate": "Sat, 23 Nov 2024 09:00:00 -0500"
     }
 ]
