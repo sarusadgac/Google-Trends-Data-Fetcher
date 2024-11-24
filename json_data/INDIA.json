@@ -1,7 +1,7 @@
 [
     {
-        "title": "Barca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Barca",
+        "title": "Serie A",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Serie%20A",
         "pubdate": "Sun, 24 Nov 2024 01:30:00 +0530"
     },
     {
@@ -20,9 +20,9 @@
         "pubdate": "Sat, 23 Nov 2024 17:30:00 +0530"
     },
     {
-        "title": "IPL Auction",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#IPL%20Auction",
-        "pubdate": "Sat, 23 Nov 2024 16:30:00 +0530"
+        "title": "Celta Vigo vs Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Celta%20Vigo%20vs%20Barcelona",
+        "pubdate": "Sat, 23 Nov 2024 00:30:00 +0530"
     },
     {
         "title": "UP Election Result",
@@ -40,13 +40,28 @@
         "pubdate": "Sat, 23 Nov 2024 13:30:00 +0530"
     },
     {
-        "title": "Celta Vigo vs Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Celta%20Vigo%20vs%20Barcelona",
-        "pubdate": "Sat, 23 Nov 2024 00:30:00 +0530"
+        "title": "IPL Auction",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#IPL%20Auction",
+        "pubdate": "Sat, 23 Nov 2024 21:30:00 +0530"
+    },
+    {
+        "title": "Hemant Soren",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Hemant%20Soren",
+        "pubdate": "Sat, 23 Nov 2024 12:30:00 +0530"
+    },
+    {
+        "title": "IPL Auction 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#IPL%20Auction%202024",
+        "pubdate": "Sat, 23 Nov 2024 16:30:00 +0530"
     },
     {
         "title": "Jharkhand election result date 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Jharkhand%20election%20result%20date%202024",
+        "pubdate": "Sat, 23 Nov 2024 12:30:00 +0530"
+    },
+    {
+        "title": "Channapatna election results",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Channapatna%20election%20results",
         "pubdate": "Sat, 23 Nov 2024 12:30:00 +0530"
     },
     {
@@ -70,33 +85,18 @@
         "pubdate": "Sat, 23 Nov 2024 11:30:00 +0530"
     },
     {
-        "title": "Latur Election Result 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Latur%20Election%20Result%202024",
-        "pubdate": "Sat, 23 Nov 2024 15:30:00 +0530"
-    },
-    {
-        "title": "Hemant Soren",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Hemant%20Soren",
-        "pubdate": "Sat, 23 Nov 2024 16:30:00 +0530"
-    },
-    {
-        "title": "Channapatna election results",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Channapatna%20election%20results",
-        "pubdate": "Sat, 23 Nov 2024 12:30:00 +0530"
-    },
-    {
-        "title": "Fahad Ahmad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Fahad%20Ahmad",
-        "pubdate": "Sat, 23 Nov 2024 18:30:00 +0530"
-    },
-    {
         "title": "Nana Patole",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Nana%20Patole",
         "pubdate": "Sat, 23 Nov 2024 16:30:00 +0530"
     },
     {
-        "title": "Imtiaz Jaleel Election Result 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Imtiaz%20Jaleel%20Election%20Result%202024",
-        "pubdate": "Sat, 23 Nov 2024 17:30:00 +0530"
+        "title": "LaLiga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#LaLiga",
+        "pubdate": "Sat, 23 Nov 2024 10:30:00 +0530"
+    },
+    {
+        "title": "Ajaz Khan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Ajaz%20Khan",
+        "pubdate": "Sat, 23 Nov 2024 18:30:00 +0530"
     }
 ]

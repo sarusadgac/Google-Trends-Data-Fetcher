@@ -5,9 +5,9 @@
         "pubdate": "Sun, 24 Nov 2024 00:00:00 +0100"
     },
     {
-        "title": "Club Brugge  STVV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Club%20Brugge%20%20STVV",
-        "pubdate": "Sat, 23 Nov 2024 16:00:00 +0100"
+        "title": "Feyenoord",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Feyenoord",
+        "pubdate": "Sun, 24 Nov 2024 01:00:00 +0100"
     },
     {
         "title": "Premier League",
@@ -15,9 +15,19 @@
         "pubdate": "Sat, 23 Nov 2024 11:00:00 +0100"
     },
     {
+        "title": "Club Brugge  STVV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Club%20Brugge%20%20STVV",
+        "pubdate": "Sat, 23 Nov 2024 16:00:00 +0100"
+    },
+    {
         "title": "Standard – Cercle Bruges",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Standard%20%E2%80%93%20Cercle%20Bruges",
         "pubdate": "Sat, 23 Nov 2024 18:00:00 +0100"
+    },
+    {
+        "title": "Gregory Lemarchal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Gregory%20Lemarchal",
+        "pubdate": "Sat, 23 Nov 2024 22:00:00 +0100"
     },
     {
         "title": "Celta  Barcelona",
@@ -25,9 +35,9 @@
         "pubdate": "Sat, 23 Nov 2024 21:00:00 +0100"
     },
     {
-        "title": "Gregory Lemarchal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Gregory%20Lemarchal",
-        "pubdate": "Sat, 23 Nov 2024 22:00:00 +0100"
+        "title": "Genk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Genk",
+        "pubdate": "Sat, 23 Nov 2024 21:00:00 +0100"
     },
     {
         "title": "Real Madrid",
@@ -45,11 +55,6 @@
         "pubdate": "Sat, 23 Nov 2024 14:00:00 +0100"
     },
     {
-        "title": "Genk – Charleroi SC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Genk%20%E2%80%93%20Charleroi%20SC",
-        "pubdate": "Sat, 23 Nov 2024 21:00:00 +0100"
-    },
-    {
         "title": "Galatasaray",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Galatasaray",
         "pubdate": "Sat, 23 Nov 2024 16:00:00 +0100"
@@ -60,24 +65,14 @@
         "pubdate": "Sat, 23 Nov 2024 20:00:00 +0100"
     },
     {
-        "title": "Lens – Marseille",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Lens%20%E2%80%93%20Marseille",
-        "pubdate": "Sat, 23 Nov 2024 18:00:00 +0100"
+        "title": "Roch Voisine",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Roch%20Voisine",
+        "pubdate": "Sat, 23 Nov 2024 23:00:00 +0100"
     },
     {
         "title": "Standard de Liège",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Standard%20de%20Li%C3%A8ge",
         "pubdate": "Sat, 23 Nov 2024 17:00:00 +0100"
-    },
-    {
-        "title": "Genk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Genk",
-        "pubdate": "Sat, 23 Nov 2024 21:00:00 +0100"
-    },
-    {
-        "title": "Roch Voisine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Roch%20Voisine",
-        "pubdate": "Sat, 23 Nov 2024 23:00:00 +0100"
     },
     {
         "title": "Zeeduivel Masked Singer",
@@ -93,6 +88,11 @@
         "title": "Pro League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Pro%20League",
         "pubdate": "Sat, 23 Nov 2024 00:00:00 +0100"
+    },
+    {
+        "title": "RWDM  SK BEVEREN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#RWDM%20%20SK%20BEVEREN",
+        "pubdate": "Sat, 23 Nov 2024 22:00:00 +0100"
     },
     {
         "title": "Arsenal",

@@ -50,6 +50,11 @@
         "pubdate": "Sat, 23 Nov 2024 19:00:00 +0800"
     },
     {
+        "title": "Nvidia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#Nvidia",
+        "pubdate": "Sat, 23 Nov 2024 19:00:00 +0800"
+    },
+    {
         "title": "黃之瀚",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E9%BB%83%E4%B9%8B%E7%80%9A",
         "pubdate": "Sat, 23 Nov 2024 17:00:00 +0800"
@@ -93,10 +98,5 @@
         "title": "F1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#F1",
         "pubdate": "Fri, 22 Nov 2024 17:00:00 +0800"
-    },
-    {
-        "title": "胡定欣",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E8%83%A1%E5%AE%9A%E6%AC%A3",
-        "pubdate": "Fri, 22 Nov 2024 21:00:00 +0800"
     }
 ]

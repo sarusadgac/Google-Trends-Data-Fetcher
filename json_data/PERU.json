@@ -10,9 +10,14 @@
         "pubdate": "Sat, 23 Nov 2024 10:00:00 -0500"
     },
     {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Real%20Madrid",
+        "title": "Real Madrid vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Real%20Madrid%20vs",
         "pubdate": "Sat, 23 Nov 2024 11:00:00 -0500"
+    },
+    {
+        "title": "Milan  Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Milan%20%20Juventus",
+        "pubdate": "Sat, 23 Nov 2024 12:00:00 -0500"
     },
     {
         "title": "Leicester City  Chelsea",
@@ -40,9 +45,19 @@
         "pubdate": "Sat, 23 Nov 2024 10:00:00 -0500"
     },
     {
+        "title": "Huracán  Boca Juniors",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Hurac%C3%A1n%20%20Boca%20Juniors",
+        "pubdate": "Sat, 23 Nov 2024 20:00:00 -0500"
+    },
+    {
         "title": "Valencia CF  Betis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Valencia%20CF%20%20Betis",
         "pubdate": "Sat, 23 Nov 2024 09:00:00 -0500"
+    },
+    {
+        "title": "Libertadores",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Libertadores",
+        "pubdate": "Sat, 23 Nov 2024 15:00:00 -0500"
     },
     {
         "title": "Girona  RCD Espanyol",
@@ -60,13 +75,8 @@
         "pubdate": "Sat, 23 Nov 2024 15:00:00 -0500"
     },
     {
-        "title": "Libertadores",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Libertadores",
-        "pubdate": "Sat, 23 Nov 2024 15:00:00 -0500"
-    },
-    {
-        "title": "Parma  Atalanta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Parma%20%20Atalanta",
+        "title": "Parma - Atalanta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Parma%20-%20Atalanta",
         "pubdate": "Sat, 23 Nov 2024 16:00:00 -0500"
     },
     {
@@ -87,16 +97,6 @@
     {
         "title": "Liverpool vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Liverpool%20vs",
-        "pubdate": "Sat, 23 Nov 2024 14:00:00 -0500"
-    },
-    {
-        "title": "Hoffenheim - RB Leipzig",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Hoffenheim%20-%20RB%20Leipzig",
-        "pubdate": "Sat, 23 Nov 2024 14:00:00 -0500"
-    },
-    {
-        "title": "Fulham  Wolves",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Fulham%20%20Wolves",
         "pubdate": "Sat, 23 Nov 2024 14:00:00 -0500"
     }
 ]
