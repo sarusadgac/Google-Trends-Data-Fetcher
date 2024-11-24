@@ -65,11 +65,6 @@
         "pubdate": "Sat, 23 Nov 2024 19:00:00 +0100"
     },
     {
-        "title": "Hostinec U kamenného stolu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Hostinec%20U%20kamenn%C3%A9ho%20stolu",
-        "pubdate": "Sat, 23 Nov 2024 17:00:00 +0100"
-    },
-    {
         "title": "Potravinová sbírka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Potravinov%C3%A1%20sb%C3%ADrka",
         "pubdate": "Sat, 23 Nov 2024 15:00:00 +0100"
@@ -98,5 +93,10 @@
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Arsenal",
         "pubdate": "Sat, 23 Nov 2024 20:00:00 +0100"
+    },
+    {
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Chelsea",
+        "pubdate": "Sat, 23 Nov 2024 21:00:00 +0100"
     }
 ]
