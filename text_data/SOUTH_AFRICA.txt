@@ -1,4 +1,5 @@
-Formula 1
+Las Vegas Grand Prix
+Zimbabwe vs Pakistan
 PSV
 Celtic
 Magesi vs Mamelodi Sundowns
@@ -9,6 +10,7 @@ Aston Villa vs Crystal Palace
 Milan vs Juventus
 Manchester United
 Italy vs New Zealand
+Liverpool
 Atletico Madrid
 Inter Milan
 Fulham vs Wolves
@@ -16,5 +18,3 @@ Everton vs Brentford
 Bayer Leverkusen
 Real Madrid
 Chelsea FC
-PSL
-Ireland vs Fiji

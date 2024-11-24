@@ -10,6 +10,16 @@
         "pubdate": "Sun, 24 Nov 2024 03:00:00 +0100"
     },
     {
+        "title": "Colapinto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Colapinto",
+        "pubdate": "Sun, 24 Nov 2024 01:00:00 +0100"
+    },
+    {
+        "title": "Silvia Caballol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Silvia%20Caballol",
+        "pubdate": "Sun, 24 Nov 2024 10:00:00 +0100"
+    },
+    {
         "title": "Valencia CF  Betis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Valencia%20CF%20%20Betis",
         "pubdate": "Sat, 23 Nov 2024 14:00:00 +0100"
@@ -40,8 +50,13 @@
         "pubdate": "Sat, 23 Nov 2024 10:00:00 +0100"
     },
     {
-        "title": "Córdoba  - Real Zaragoza",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#C%C3%B3rdoba%20%20-%20Real%20Zaragoza",
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Real%20Madrid",
+        "pubdate": "Sat, 23 Nov 2024 17:00:00 +0100"
+    },
+    {
+        "title": "Córdoba  Real Zaragoza",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#C%C3%B3rdoba%20%20Real%20Zaragoza",
         "pubdate": "Sat, 23 Nov 2024 18:00:00 +0100"
     },
     {
@@ -58,16 +73,6 @@
         "title": "Granada  Cádiz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Granada%20%20C%C3%A1diz",
         "pubdate": "Sat, 23 Nov 2024 16:00:00 +0100"
-    },
-    {
-        "title": "Leicester City  Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Leicester%20City%20%20Chelsea",
-        "pubdate": "Sat, 23 Nov 2024 14:00:00 +0100"
-    },
-    {
-        "title": "Formula 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Formula%201",
-        "pubdate": "Sat, 23 Nov 2024 11:00:00 +0100"
     },
     {
         "title": "Anabel Pantoja",
@@ -93,10 +98,5 @@
         "title": "Liga Española",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Liga%20Espa%C3%B1ola",
         "pubdate": "Sat, 23 Nov 2024 01:00:00 +0100"
-    },
-    {
-        "title": "Cartagena  Almería",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Cartagena%20%20Almer%C3%ADa",
-        "pubdate": "Sat, 23 Nov 2024 14:00:00 +0100"
     }
 ]

@@ -65,11 +65,6 @@
         "pubdate": "Sat, 23 Nov 2024 15:00:00 -0500"
     },
     {
-        "title": "Botafogo  Vitória",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Botafogo%20%20Vit%C3%B3ria",
-        "pubdate": "Sat, 23 Nov 2024 19:00:00 -0500"
-    },
-    {
         "title": "Valencia CF  Betis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Valencia%20CF%20%20Betis",
         "pubdate": "Sat, 23 Nov 2024 09:00:00 -0500"
@@ -93,6 +88,11 @@
         "title": "São Paulo  Atlético Mineiro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#S%C3%A3o%20Paulo%20%20Atl%C3%A9tico%20Mineiro",
         "pubdate": "Sat, 23 Nov 2024 20:00:00 -0500"
+    },
+    {
+        "title": "Keylor Navas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Keylor%20Navas",
+        "pubdate": "Sat, 23 Nov 2024 15:00:00 -0500"
     },
     {
         "title": "Bournemouth - Brighton",
