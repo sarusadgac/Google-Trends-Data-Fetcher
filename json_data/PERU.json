@@ -1,10 +1,5 @@
 [
     {
-        "title": "Napoli vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Napoli%20vs",
-        "pubdate": "Sun, 24 Nov 2024 13:00:00 -0500"
-    },
-    {
         "title": "Genoa  Cagliari",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Genoa%20%20Cagliari",
         "pubdate": "Sun, 24 Nov 2024 08:00:00 -0500"
@@ -20,6 +15,11 @@
         "pubdate": "Sun, 24 Nov 2024 12:00:00 -0500"
     },
     {
+        "title": "Athletic  Real Sociedad",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Athletic%20%20Real%20Sociedad",
+        "pubdate": "Sun, 24 Nov 2024 15:00:00 -0500"
+    },
+    {
         "title": "Real Madrid Club de fútbol",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Real%20Madrid%20Club%20de%20f%C3%BAtbol",
         "pubdate": "Sun, 24 Nov 2024 13:00:00 -0500"
@@ -30,18 +30,13 @@
         "pubdate": "Sun, 24 Nov 2024 13:00:00 -0500"
     },
     {
-        "title": "Athletic  Real Sociedad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Athletic%20%20Real%20Sociedad",
-        "pubdate": "Sun, 24 Nov 2024 15:00:00 -0500"
-    },
-    {
         "title": "MLS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#MLS",
         "pubdate": "Sun, 24 Nov 2024 02:00:00 -0500"
     },
     {
-        "title": "Como  Fiorentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Como%20%20Fiorentina",
+        "title": "Como - Fiorentina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Como%20-%20Fiorentina",
         "pubdate": "Sun, 24 Nov 2024 12:00:00 -0500"
     },
     {
@@ -53,6 +48,11 @@
         "title": "Boca Juniors",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Boca%20Juniors",
         "pubdate": "Sun, 24 Nov 2024 08:00:00 -0500"
+    },
+    {
+        "title": "Lazio  Bolonia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Lazio%20%20Bolonia",
+        "pubdate": "Sun, 24 Nov 2024 16:00:00 -0500"
     },
     {
         "title": "Celta de Vigo  Barcelona",
