@@ -5,9 +5,19 @@
         "pubdate": "Sun, 24 Nov 2024 03:00:00 +0300"
     },
     {
+        "title": "Sky Sports",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Sky%20Sports",
+        "pubdate": "Sun, 24 Nov 2024 09:00:00 +0300"
+    },
+    {
         "title": "Celtic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Celtic",
         "pubdate": "Sun, 24 Nov 2024 02:00:00 +0300"
+    },
+    {
+        "title": "Pep Guardiola",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Pep%20Guardiola",
+        "pubdate": "Sun, 24 Nov 2024 09:00:00 +0300"
     },
     {
         "title": "Man City vs Tottenham",
@@ -88,15 +98,5 @@
         "title": "PL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#PL",
         "pubdate": "Sat, 23 Nov 2024 12:00:00 +0300"
-    },
-    {
-        "title": "Liverpool FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Liverpool%20FC",
-        "pubdate": "Sat, 23 Nov 2024 21:00:00 +0300"
-    },
-    {
-        "title": "Atletico Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Atletico%20Madrid",
-        "pubdate": "Sat, 23 Nov 2024 19:00:00 +0300"
     }
 ]

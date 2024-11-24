@@ -1,10 +1,5 @@
 [
     {
-        "title": "Chimene Badi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Chimene%20Badi",
-        "pubdate": "Sun, 24 Nov 2024 00:00:00 +0100"
-    },
-    {
         "title": "Feyenoord",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Feyenoord",
         "pubdate": "Sun, 24 Nov 2024 01:00:00 +0100"
@@ -63,6 +58,11 @@
         "title": "Stromae",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Stromae",
         "pubdate": "Sat, 23 Nov 2024 20:00:00 +0100"
+    },
+    {
+        "title": "Lens – Marseille",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Lens%20%E2%80%93%20Marseille",
+        "pubdate": "Sat, 23 Nov 2024 18:00:00 +0100"
     },
     {
         "title": "Roch Voisine",
