@@ -25,16 +25,6 @@
         "pubdate": "Sun, 24 Nov 2024 10:00:00 +0100"
     },
     {
-        "title": "Colapinto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Colapinto",
-        "pubdate": "Sun, 24 Nov 2024 01:00:00 +0100"
-    },
-    {
-        "title": "Celta barsa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Celta%20barsa",
-        "pubdate": "Sun, 24 Nov 2024 12:00:00 +0100"
-    },
-    {
         "title": "Valencia CF  Betis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Valencia%20CF%20%20Betis",
         "pubdate": "Sat, 23 Nov 2024 14:00:00 +0100"
@@ -55,14 +45,24 @@
         "pubdate": "Sat, 23 Nov 2024 18:00:00 +0100"
     },
     {
-        "title": "F1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#F1",
-        "pubdate": "Sat, 23 Nov 2024 10:00:00 +0100"
-    },
-    {
         "title": "UD Las Palmas  RCD Mallorca",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#UD%20Las%20Palmas%20%20RCD%20Mallorca",
         "pubdate": "Sat, 23 Nov 2024 18:00:00 +0100"
+    },
+    {
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Real%20Madrid",
+        "pubdate": "Sat, 23 Nov 2024 17:00:00 +0100"
+    },
+    {
+        "title": "Formula 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Formula%201",
+        "pubdate": "Sat, 23 Nov 2024 11:00:00 +0100"
+    },
+    {
+        "title": "F1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#F1",
+        "pubdate": "Sat, 23 Nov 2024 10:00:00 +0100"
     },
     {
         "title": "Córdoba  Real Zaragoza",

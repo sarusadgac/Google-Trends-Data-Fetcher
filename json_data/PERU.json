@@ -1,5 +1,10 @@
 [
     {
+        "title": "LaLiga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#LaLiga",
+        "pubdate": "Sun, 24 Nov 2024 07:00:00 -0500"
+    },
+    {
         "title": "MLS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#MLS",
         "pubdate": "Sun, 24 Nov 2024 02:00:00 -0500"
@@ -50,14 +55,14 @@
         "pubdate": "Sat, 23 Nov 2024 10:00:00 -0500"
     },
     {
-        "title": "Hellas Verona  Inter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Hellas%20Verona%20%20Inter",
+        "title": "Leverkusen  Heidenheim",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Leverkusen%20%20Heidenheim",
         "pubdate": "Sat, 23 Nov 2024 10:00:00 -0500"
     },
     {
-        "title": "F1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#F1",
-        "pubdate": "Sat, 23 Nov 2024 08:00:00 -0500"
+        "title": "Hellas Verona  Inter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Hellas%20Verona%20%20Inter",
+        "pubdate": "Sat, 23 Nov 2024 10:00:00 -0500"
     },
     {
         "title": "Libertadores",
@@ -80,9 +85,9 @@
         "pubdate": "Sat, 23 Nov 2024 14:00:00 -0500"
     },
     {
-        "title": "Botafogo vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Botafogo%20vs",
-        "pubdate": "Sat, 23 Nov 2024 18:00:00 -0500"
+        "title": "F1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#F1",
+        "pubdate": "Sat, 23 Nov 2024 08:00:00 -0500"
     },
     {
         "title": "Keylor Navas",
@@ -93,10 +98,5 @@
         "title": "Bournemouth - Brighton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bournemouth%20-%20Brighton",
         "pubdate": "Sat, 23 Nov 2024 12:00:00 -0500"
-    },
-    {
-        "title": "Red Bull Carros Locos peru",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Red%20Bull%20Carros%20Locos%20peru",
-        "pubdate": "Sat, 23 Nov 2024 15:00:00 -0500"
     }
 ]
