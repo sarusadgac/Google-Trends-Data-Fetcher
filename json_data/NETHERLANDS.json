@@ -1,5 +1,10 @@
 [
     {
+        "title": "Jos Lammertink",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jos%20Lammertink",
+        "pubdate": "Mon, 25 Nov 2024 00:00:00 +0100"
+    },
+    {
         "title": "Max Verstappen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Max%20Verstappen",
         "pubdate": "Sun, 24 Nov 2024 09:00:00 +0100"
@@ -20,8 +25,8 @@
         "pubdate": "Sun, 24 Nov 2024 12:00:00 +0100"
     },
     {
-        "title": "Davis Cup-finale",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Davis%20Cup-finale",
+        "title": "Davis Cup finale",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Davis%20Cup%20finale",
         "pubdate": "Sun, 24 Nov 2024 11:00:00 +0100"
     },
     {
@@ -93,10 +98,5 @@
         "title": "Davis Cup",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Davis%20Cup",
         "pubdate": "Fri, 22 Nov 2024 20:00:00 +0100"
-    },
-    {
-        "title": "Verstappen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Verstappen",
-        "pubdate": "Fri, 22 Nov 2024 19:00:00 +0100"
     }
 ]
