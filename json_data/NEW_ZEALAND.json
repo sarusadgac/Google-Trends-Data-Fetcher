@@ -20,11 +20,6 @@
         "pubdate": "Mon, 25 Nov 2024 09:00:00 +1300"
     },
     {
-        "title": "Yang",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Yang",
-        "pubdate": "Mon, 25 Nov 2024 08:00:00 +1300"
-    },
-    {
         "title": "England vs Japan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#England%20vs%20Japan",
         "pubdate": "Mon, 25 Nov 2024 08:00:00 +1300"
@@ -78,6 +73,11 @@
         "title": "La Liga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#La%20Liga",
         "pubdate": "Sun, 24 Nov 2024 12:00:00 +1300"
+    },
+    {
+        "title": "Carlos Ulberg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Carlos%20Ulberg",
+        "pubdate": "Sun, 24 Nov 2024 01:00:00 +1300"
     },
     {
         "title": "Chelsea",
