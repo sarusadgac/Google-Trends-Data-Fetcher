@@ -1,3 +1,4 @@
+Formula 1
 PSV
 Celtic
 Magesi vs Mamelodi Sundowns
@@ -6,11 +7,10 @@ Leicester City vs Chelsea
 Arsenal vs nottm Forest
 Aston Villa vs Crystal Palace
 Milan vs Juventus
-Inter Milan
 Manchester United
 Italy vs New Zealand
-Liverpool
 Atletico Madrid
+Inter Milan
 Fulham vs Wolves
 Everton vs Brentford
 Bayer Leverkusen
