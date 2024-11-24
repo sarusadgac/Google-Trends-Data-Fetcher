@@ -5,9 +5,9 @@ Manchester City - Tottenham
 Girona  RCD Espanyol
 UD Las Palmas  RCD Mallorca
 Real Madrid
-Córdoba  Real Zaragoza
+Córdoba  - Real Zaragoza
 F1
-Málaga  Racing de Santander
+Málaga - Racing de Santander
 Wicked
 Granada  Cádiz
 Formula 1
@@ -16,5 +16,5 @@ Anabel Pantoja
 Racing Club
 Partidos de la Liga
 Liga Española
-Milan  Juventus
+Milan - Juventus
 Cartagena  Almería
