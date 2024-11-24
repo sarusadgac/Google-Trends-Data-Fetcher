@@ -25,11 +25,6 @@
         "pubdate": "Sun, 24 Nov 2024 14:00:00 +0100"
     },
     {
-        "title": "Kristiansand",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kristiansand",
-        "pubdate": "Sun, 24 Nov 2024 10:00:00 +0100"
-    },
-    {
         "title": "Angelina Jolie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Angelina%20Jolie",
         "pubdate": "Sun, 24 Nov 2024 16:00:00 +0100"
@@ -40,9 +35,19 @@
         "pubdate": "Sun, 24 Nov 2024 16:00:00 +0100"
     },
     {
+        "title": "Kristiansand",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kristiansand",
+        "pubdate": "Sun, 24 Nov 2024 10:00:00 +0100"
+    },
+    {
+        "title": "Brann",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Brann",
+        "pubdate": "Sat, 23 Nov 2024 10:00:00 +0100"
+    },
+    {
         "title": "Eliteserien",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Eliteserien",
-        "pubdate": "Sat, 23 Nov 2024 10:00:00 +0100"
+        "pubdate": "Sat, 23 Nov 2024 15:00:00 +0100"
     },
     {
         "title": "Therese Johaug",
@@ -55,14 +60,9 @@
         "pubdate": "Sat, 23 Nov 2024 10:00:00 +0100"
     },
     {
-        "title": "Rosenborg mot Sarpsborg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Rosenborg%20mot%20Sarpsborg",
-        "pubdate": "Sat, 23 Nov 2024 17:00:00 +0100"
-    },
-    {
         "title": "Viking",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Viking",
-        "pubdate": "Sat, 23 Nov 2024 18:00:00 +0100"
+        "pubdate": "Sat, 23 Nov 2024 17:00:00 +0100"
     },
     {
         "title": "Arsenal",
@@ -95,8 +95,8 @@
         "pubdate": "Sat, 23 Nov 2024 22:00:00 +0100"
     },
     {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Chelsea",
-        "pubdate": "Sat, 23 Nov 2024 15:00:00 +0100"
+        "title": "RBK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#RBK",
+        "pubdate": "Sat, 23 Nov 2024 17:00:00 +0100"
     }
 ]

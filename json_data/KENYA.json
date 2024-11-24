@@ -20,11 +20,6 @@
         "pubdate": "Sun, 24 Nov 2024 11:00:00 +0300"
     },
     {
-        "title": "Live",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Live",
-        "pubdate": "Sun, 24 Nov 2024 12:00:00 +0300"
-    },
-    {
         "title": "Barcelona FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Barcelona%20FC",
         "pubdate": "Sun, 24 Nov 2024 00:00:00 +0300"
@@ -65,9 +60,9 @@
         "pubdate": "Sat, 23 Nov 2024 12:00:00 +0300"
     },
     {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Manchester%20United",
-        "pubdate": "Sat, 23 Nov 2024 16:00:00 +0300"
+        "title": "Ipswich Town vs Man United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Ipswich%20Town%20vs%20Man%20United",
+        "pubdate": "Sat, 23 Nov 2024 20:00:00 +0300"
     },
     {
         "title": "Celta Vigo vs Barcelona",
@@ -98,5 +93,10 @@
         "title": "Chelsea FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Chelsea%20FC",
         "pubdate": "Sat, 23 Nov 2024 15:00:00 +0300"
+    },
+    {
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Real%20Madrid",
+        "pubdate": "Sat, 23 Nov 2024 09:00:00 +0300"
     }
 ]
