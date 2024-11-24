@@ -35,6 +35,11 @@
         "pubdate": "Sat, 23 Nov 2024 22:00:00 +0200"
     },
     {
+        "title": "Panama",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Panama",
+        "pubdate": "Sat, 23 Nov 2024 21:00:00 +0200"
+    },
+    {
         "title": "Leicester City – Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Leicester%20City%20%E2%80%93%20Chelsea",
         "pubdate": "Sat, 23 Nov 2024 16:00:00 +0200"
@@ -93,10 +98,5 @@
         "title": "Nvidia stock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Nvidia%20stock",
         "pubdate": "Thu, 21 Nov 2024 00:00:00 +0200"
-    },
-    {
-        "title": "ICBM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#ICBM",
-        "pubdate": "Thu, 21 Nov 2024 11:00:00 +0200"
     }
 ]

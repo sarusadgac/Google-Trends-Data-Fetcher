@@ -1,6 +1,7 @@
 Manchester United
 Liverpool
 Marselino Ferdinan
+Atalanta
 Leverkusen
 Dortmund
 Galatasaray
@@ -17,4 +18,3 @@ PSIS
 PSG vs Toulouse
 Dewa United vs Bali United
 Oxford utd vs Middlesbrough
-Atlético Madrid vs Alavés
