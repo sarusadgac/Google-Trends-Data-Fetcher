@@ -1,4 +1,3 @@
-Holstein Kiel
 HSV – Schalke
 Formel-1
 Hoffenheim – RB Leipzig
@@ -7,10 +6,8 @@ VfB Stuttgart
 Eintracht Frankfurt
 Ehrlich Brothers
 Hertha BSC
-Hannover 96
 Nan Goldin
 KSC
-Schalke 04
 Borussia Dortmund
 Northvolt
 Nvidia
@@ -18,3 +15,6 @@ Marius Borg Høiby
 Pistorius
 Taurus
 Sinner
+Volkstrauertag
+FDP
+Türkei

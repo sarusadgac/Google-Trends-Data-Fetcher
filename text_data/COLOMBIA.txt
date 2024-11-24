@@ -1,15 +1,16 @@
 Sevilla - Rayo Vallecano
-Osasuna  Villarreal
-Genoa-Cagliari
+Osasuna - Villarreal
+Genoa  Cagliari
 Boca Juniors
 Celta de Vigo  Barcelona
 Manchester City - Tottenham
-Aston Villa  (Crystal Palace
+Aston Villa  Crystal Palace
 Real Cartagena
 Atlético Madrid  Alavés
 Arsenal - Nottingham Forest
 Atlético Huila  Cúcuta
 Milan  Juventus
+Ipswich  Manchester United
 Leverkusen  Heidenheim
 Libertadores
 Hellas Verona  Inter
@@ -17,4 +18,3 @@ Serie a
 Julio Medina
 Bournemouth - Brighton
 Juan Fernando Quintero
-Huracán  Boca Juniors
