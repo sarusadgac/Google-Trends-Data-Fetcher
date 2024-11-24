@@ -1,20 +1,5 @@
 [
     {
-        "title": "Star Academy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Star%20Academy",
-        "pubdate": "Sun, 24 Nov 2024 10:00:00 +0100"
-    },
-    {
-        "title": "JioCinema",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#JioCinema",
-        "pubdate": "Sun, 24 Nov 2024 16:30:00 +0530"
-    },
-    {
-        "title": "Man utd",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Man%20utd",
-        "pubdate": "Sun, 24 Nov 2024 01:00:00 +0000"
-    },
-    {
         "title": "F1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#F1",
         "pubdate": "Sun, 24 Nov 2024 17:00:00 +0800"
@@ -22,7 +7,12 @@
     {
         "title": "ジャパンカップ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%82%AB%E3%83%83%E3%83%97",
-        "pubdate": "Sun, 24 Nov 2024 13:00:00 +0900"
+        "pubdate": "Sun, 24 Nov 2024 12:00:00 +0900"
+    },
+    {
+        "title": "Man utd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Man%20utd",
+        "pubdate": "Sun, 24 Nov 2024 01:00:00 +0000"
     },
     {
         "title": "С днем матери",
@@ -30,9 +20,9 @@
         "pubdate": "Sun, 24 Nov 2024 14:00:00 +0300"
     },
     {
-        "title": "Indiana football",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Indiana%20football",
-        "pubdate": "Sat, 23 Nov 2024 10:00:00 -0800"
+        "title": "JioCinema",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#JioCinema",
+        "pubdate": "Sun, 24 Nov 2024 16:30:00 +0530"
     },
     {
         "title": "HSV – Schalke",
@@ -40,34 +30,29 @@
         "pubdate": "Sat, 23 Nov 2024 18:00:00 +0100"
     },
     {
-        "title": "ΠΑΟΚ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%A0%CE%91%CE%9F%CE%9A",
-        "pubdate": "Sun, 24 Nov 2024 11:00:00 +0200"
+        "title": "Star Academy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Star%20Academy",
+        "pubdate": "Sun, 24 Nov 2024 10:00:00 +0100"
     },
     {
-        "title": "Premier League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Premier%20League",
-        "pubdate": "Sun, 24 Nov 2024 00:00:00 +1100"
+        "title": "Indiana football",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Indiana%20football",
+        "pubdate": "Sat, 23 Nov 2024 10:00:00 -0800"
     },
     {
-        "title": "Abstimmungen November 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Abstimmungen%20November%202024",
-        "pubdate": "Sun, 24 Nov 2024 04:00:00 +0100"
+        "title": "Max Verstappen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Max%20Verstappen",
+        "pubdate": "Sun, 24 Nov 2024 07:00:00 +0100"
     },
     {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Arsenal",
-        "pubdate": "Sun, 24 Nov 2024 00:00:00 +0800"
+        "title": "กีฬา",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TH#%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2",
+        "pubdate": "Sun, 24 Nov 2024 08:00:00 +0700"
     },
     {
-        "title": "Pedro Sánchez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Pedro%20S%C3%A1nchez",
-        "pubdate": "Sun, 24 Nov 2024 00:00:00 +0100"
-    },
-    {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Real%20Madrid",
-        "pubdate": "Sun, 24 Nov 2024 01:00:00 +0100"
+        "title": "FC Utrecht",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Utrecht",
+        "pubdate": "Sun, 24 Nov 2024 12:00:00 +0100"
     },
     {
         "title": "День матери",
@@ -75,28 +60,43 @@
         "pubdate": "Sun, 24 Nov 2024 08:00:00 +0200"
     },
     {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Liverpool",
-        "pubdate": "Sun, 24 Nov 2024 11:00:00 +0100"
+        "title": "Abstimmungen November 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Abstimmungen%20November%202024",
+        "pubdate": "Sun, 24 Nov 2024 04:00:00 +0100"
     },
     {
-        "title": "Nuggets vs Lakers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Nuggets%20vs%20Lakers",
-        "pubdate": "Sun, 24 Nov 2024 02:00:00 -0500"
+        "title": "F1 Las Vegas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#F1%20Las%20Vegas",
+        "pubdate": "Sun, 24 Nov 2024 09:00:00 +0100"
     },
     {
-        "title": "Murió Julio cesar gonzalez locutor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Muri%C3%B3%20Julio%20cesar%20gonzalez%20locutor",
-        "pubdate": "Sun, 24 Nov 2024 02:00:00 -0600"
+        "title": "Real Madryt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Real%20Madryt",
+        "pubdate": "Sun, 24 Nov 2024 00:00:00 +0100"
     },
     {
-        "title": "馬刺 對勇士",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%A6%AC%E5%88%BA%20%E5%B0%8D%E5%8B%87%E5%A3%AB",
-        "pubdate": "Sun, 24 Nov 2024 11:00:00 +0800"
+        "title": "Premier League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Premier%20League",
+        "pubdate": "Sun, 24 Nov 2024 00:00:00 +1100"
     },
     {
-        "title": "Weather",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#Weather",
-        "pubdate": "Sun, 24 Nov 2024 09:00:00 +0200"
+        "title": "Primera División",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Primera%20Divisi%C3%B3n",
+        "pubdate": "Sun, 24 Nov 2024 01:00:00 -0300"
+    },
+    {
+        "title": "Landtagswahl Steiermark 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Landtagswahl%20Steiermark%202024",
+        "pubdate": "Sun, 24 Nov 2024 05:00:00 +0100"
+    },
+    {
+        "title": "KV Mechelen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#KV%20Mechelen",
+        "pubdate": "Sun, 24 Nov 2024 13:00:00 +0100"
+    },
+    {
+        "title": "Chess",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Chess",
+        "pubdate": "Mon, 25 Nov 2024 01:00:00 +1300"
     }
 ]

@@ -1,8 +1,10 @@
+Lakers  Nuggets
 Murió Julio cesar gonzalez locutor
 Laos
 Celta de Vigo  Barcelona
 Fulham  Wolves
 Real Madrid
+Milan  Juventus
 Racing
 Leicester City  Chelsea
 Atlético Madrid  Alavés
@@ -16,5 +18,3 @@ Premier
 Hellas Verona  Inter
 Valencia CF  Betis
 Aston Villa  Crystal Palace
-Huracán  Boca Juniors
-Jasper
