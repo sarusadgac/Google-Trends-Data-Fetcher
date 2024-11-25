@@ -1,13 +1,13 @@
 [
     {
-        "title": "Star Academy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Star%20Academy",
+        "title": "Gregory Lemarchal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Gregory%20Lemarchal",
         "pubdate": "Sun, 24 Nov 2024 10:00:00 +0100"
     },
     {
-        "title": "Gregory Lemarchal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Gregory%20Lemarchal",
-        "pubdate": "Sun, 24 Nov 2024 21:00:00 +0100"
+        "title": "Star Academy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Star%20Academy",
+        "pubdate": "Sun, 24 Nov 2024 10:00:00 +0100"
     },
     {
         "title": "Lille – Rennes",
@@ -75,6 +75,11 @@
         "pubdate": "Sun, 24 Nov 2024 11:00:00 +0100"
     },
     {
+        "title": "Grand Prix de Las Vegas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Grand%20Prix%20de%20Las%20Vegas",
+        "pubdate": "Sun, 24 Nov 2024 03:00:00 +0100"
+    },
+    {
         "title": "Jordan Bardella",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Jordan%20Bardella",
         "pubdate": "Sun, 24 Nov 2024 20:00:00 +0100"
@@ -93,10 +98,5 @@
         "title": "Gerald Thomassin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Gerald%20Thomassin",
         "pubdate": "Sun, 24 Nov 2024 16:00:00 +0100"
-    },
-    {
-        "title": "Paris FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Paris%20FC",
-        "pubdate": "Sun, 24 Nov 2024 06:00:00 +0100"
     }
 ]

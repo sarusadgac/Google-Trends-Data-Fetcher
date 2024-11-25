@@ -5,29 +5,14 @@
         "pubdate": "Sun, 24 Nov 2024 18:00:00 +0100"
     },
     {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Real%20Madrid",
-        "pubdate": "Sun, 24 Nov 2024 01:00:00 +0100"
-    },
-    {
         "title": "Kai Wiesinger",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kai%20Wiesinger",
         "pubdate": "Sun, 24 Nov 2024 21:00:00 +0100"
     },
     {
-        "title": "Antonia Bill",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Antonia%20Bill",
-        "pubdate": "Sun, 24 Nov 2024 22:00:00 +0100"
-    },
-    {
         "title": "Holstein Kiel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Holstein%20Kiel",
         "pubdate": "Sun, 24 Nov 2024 11:00:00 +0100"
-    },
-    {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Liverpool",
-        "pubdate": "Sun, 24 Nov 2024 02:00:00 +0100"
     },
     {
         "title": "Masked Singer 2024",
@@ -43,6 +28,11 @@
         "title": "The Masked Singer 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#The%20Masked%20Singer%202024",
         "pubdate": "Sun, 24 Nov 2024 00:00:00 +0100"
+    },
+    {
+        "title": "Traumschiff",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Traumschiff",
+        "pubdate": "Sun, 24 Nov 2024 21:00:00 +0100"
     },
     {
         "title": "HSV",
@@ -98,5 +88,15 @@
         "title": "Marius Borg Høiby",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Marius%20Borg%20H%C3%B8iby",
         "pubdate": "Tue, 19 Nov 2024 15:00:00 +0100"
+    },
+    {
+        "title": "Pistorius",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Pistorius",
+        "pubdate": "Sun, 17 Nov 2024 20:00:00 +0100"
+    },
+    {
+        "title": "Taurus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Taurus",
+        "pubdate": "Sun, 17 Nov 2024 12:00:00 +0100"
     }
 ]
