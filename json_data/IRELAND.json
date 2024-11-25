@@ -20,11 +20,6 @@
         "pubdate": "Sun, 24 Nov 2024 13:00:00 +0000"
     },
     {
-        "title": "Liverpool f.c",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Liverpool%20f.c",
-        "pubdate": "Sun, 24 Nov 2024 14:00:00 +0000"
-    },
-    {
         "title": "England v Japan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#England%20v%20Japan",
         "pubdate": "Sun, 24 Nov 2024 17:00:00 +0000"
@@ -98,5 +93,10 @@
         "title": "Zimbabwe vs Pakistan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Zimbabwe%20vs%20Pakistan",
         "pubdate": "Sun, 24 Nov 2024 20:00:00 +0000"
+    },
+    {
+        "title": "Ipswich Town vs Man United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Ipswich%20Town%20vs%20Man%20United",
+        "pubdate": "Sat, 23 Nov 2024 21:00:00 +0000"
     }
 ]

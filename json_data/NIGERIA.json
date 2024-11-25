@@ -5,6 +5,11 @@
         "pubdate": "Mon, 25 Nov 2024 00:00:00 +0100"
     },
     {
+        "title": "Nice",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Nice",
+        "pubdate": "Mon, 25 Nov 2024 07:00:00 +0100"
+    },
+    {
         "title": "Leganes vs Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Leganes%20vs%20Real%20Madrid",
         "pubdate": "Sun, 24 Nov 2024 00:00:00 +0100"
@@ -45,11 +50,6 @@
         "pubdate": "Sun, 24 Nov 2024 08:00:00 +0100"
     },
     {
-        "title": "Porto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Porto",
-        "pubdate": "Sun, 24 Nov 2024 20:00:00 +0100"
-    },
-    {
         "title": "Bad girl",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Bad%20girl",
         "pubdate": "Sun, 24 Nov 2024 19:00:00 +0100"
@@ -60,14 +60,14 @@
         "pubdate": "Sun, 24 Nov 2024 00:00:00 +0100"
     },
     {
-        "title": "Jade Cargill",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Jade%20Cargill",
-        "pubdate": "Sun, 24 Nov 2024 11:00:00 +0100"
-    },
-    {
         "title": "Lille",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Lille",
         "pubdate": "Sun, 24 Nov 2024 17:00:00 +0100"
+    },
+    {
+        "title": "Jade Cargill",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Jade%20Cargill",
+        "pubdate": "Sun, 24 Nov 2024 11:00:00 +0100"
     },
     {
         "title": "Fiorentina",
@@ -95,8 +95,8 @@
         "pubdate": "Sun, 24 Nov 2024 16:00:00 +0100"
     },
     {
-        "title": "Besiktas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Besiktas",
-        "pubdate": "Sun, 24 Nov 2024 20:00:00 +0100"
+        "title": "Jill Green",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Jill%20Green",
+        "pubdate": "Sun, 24 Nov 2024 23:00:00 +0100"
     }
 ]
