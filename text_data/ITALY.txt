@@ -3,11 +3,9 @@ Banca Mediolanum Ennio Doris
 Mediolanum
 Elodie
 Santa Caterina
-Maria De Filippi
 Fabrizio Miccoli
-Roberto Vannacci
-Pietrangeli
 Incendio Roma
+Pietrangeli
 Ascoli-Gubbio
 Genoa  Cagliari
 Como  Fiorentina
@@ -17,4 +15,6 @@ Torino-Monza
 Palermo-Sampdoria
 Buffon
 Fausto Leali
+Pino Daniele
+Southampton-Liverpool
 Bari  Cittadella
