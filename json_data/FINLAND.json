@@ -55,6 +55,11 @@
         "pubdate": "Sun, 24 Nov 2024 10:00:00 +0200"
     },
     {
+        "title": "Niki",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Niki",
+        "pubdate": "Sun, 24 Nov 2024 21:00:00 +0200"
+    },
+    {
         "title": "Thierry Neuville",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Thierry%20Neuville",
         "pubdate": "Sun, 24 Nov 2024 22:00:00 +0200"
@@ -93,10 +98,5 @@
         "title": "Kendrick Lamar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Kendrick%20Lamar",
         "pubdate": "Sat, 23 Nov 2024 16:00:00 +0200"
-    },
-    {
-        "title": "Marilyn Monroe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Marilyn%20Monroe",
-        "pubdate": "Sat, 23 Nov 2024 22:00:00 +0200"
     }
 ]

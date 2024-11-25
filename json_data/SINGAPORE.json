@@ -15,11 +15,6 @@
         "pubdate": "Mon, 25 Nov 2024 15:00:00 +0800"
     },
     {
-        "title": "Thanksgiving 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Thanksgiving%202024",
-        "pubdate": "Mon, 25 Nov 2024 16:00:00 +0800"
-    },
-    {
         "title": "Liverpool FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Liverpool%20FC",
         "pubdate": "Mon, 25 Nov 2024 00:00:00 +0800"
@@ -85,8 +80,8 @@
         "pubdate": "Sun, 24 Nov 2024 12:00:00 +0800"
     },
     {
-        "title": "Jung Woo-sung",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Jung%20Woo-sung",
+        "title": "Moon Ga-bi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Moon%20Ga-bi",
         "pubdate": "Sun, 24 Nov 2024 22:00:00 +0800"
     },
     {
@@ -98,5 +93,10 @@
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Real%20Madrid",
         "pubdate": "Sun, 24 Nov 2024 07:00:00 +0800"
+    },
+    {
+        "title": "Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Tottenham",
+        "pubdate": "Sun, 24 Nov 2024 03:00:00 +0800"
     }
 ]
