@@ -55,6 +55,11 @@
         "pubdate": "Sun, 24 Nov 2024 18:00:00 +0000"
     },
     {
+        "title": "Calin Georgescu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Calin%20Georgescu",
+        "pubdate": "Sun, 24 Nov 2024 21:00:00 +0000"
+    },
+    {
         "title": "Westminster Bridge",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Westminster%20Bridge",
         "pubdate": "Sun, 24 Nov 2024 18:00:00 +0000"
@@ -90,13 +95,8 @@
         "pubdate": "Sun, 24 Nov 2024 00:00:00 +0000"
     },
     {
-        "title": "Leeds",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Leeds",
-        "pubdate": "Sun, 24 Nov 2024 21:00:00 +0000"
-    },
-    {
-        "title": "Man City vs Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Man%20City%20vs%20Tottenham",
-        "pubdate": "Sat, 23 Nov 2024 17:00:00 +0000"
+        "title": "Premier League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Premier%20League",
+        "pubdate": "Sat, 23 Nov 2024 12:00:00 +0000"
     }
 ]

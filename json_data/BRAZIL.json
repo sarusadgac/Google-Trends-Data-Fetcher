@@ -30,14 +30,14 @@
         "pubdate": "Sun, 24 Nov 2024 17:00:00 -0500"
     },
     {
-        "title": "CRB x Operário",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#CRB%20x%20Oper%C3%A1rio",
-        "pubdate": "Sun, 24 Nov 2024 14:00:00 -0500"
-    },
-    {
         "title": "América-MG x Brusque",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Am%C3%A9rica-MG%20x%20Brusque",
         "pubdate": "Sun, 24 Nov 2024 17:00:00 -0500"
+    },
+    {
+        "title": "CRB x Operário",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#CRB%20x%20Oper%C3%A1rio",
+        "pubdate": "Sun, 24 Nov 2024 14:00:00 -0500"
     },
     {
         "title": "Ana Castela",
@@ -85,6 +85,11 @@
         "pubdate": "Sun, 24 Nov 2024 16:00:00 -0500"
     },
     {
+        "title": "Nego do Borel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Nego%20do%20Borel",
+        "pubdate": "Sun, 24 Nov 2024 19:00:00 -0500"
+    },
+    {
         "title": "Luciano Huck",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Luciano%20Huck",
         "pubdate": "Sun, 24 Nov 2024 17:00:00 -0500"
@@ -93,10 +98,5 @@
         "title": "Seria a",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Seria%20a",
         "pubdate": "Sun, 24 Nov 2024 12:00:00 -0500"
-    },
-    {
-        "title": "Nego do Borel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Nego%20do%20Borel",
-        "pubdate": "Sun, 24 Nov 2024 19:00:00 -0500"
     }
 ]
