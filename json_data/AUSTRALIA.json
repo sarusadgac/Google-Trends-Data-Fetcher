@@ -15,11 +15,6 @@
         "pubdate": "Mon, 25 Nov 2024 04:00:00 +1100"
     },
     {
-        "title": "Yang",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Yang",
-        "pubdate": "Mon, 25 Nov 2024 08:00:00 +1100"
-    },
-    {
         "title": "Nathan McSweeney",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Nathan%20McSweeney",
         "pubdate": "Mon, 25 Nov 2024 02:00:00 +1100"
@@ -70,11 +65,6 @@
         "pubdate": "Mon, 25 Nov 2024 08:00:00 +1100"
     },
     {
-        "title": "Jill Green",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jill%20Green",
-        "pubdate": "Mon, 25 Nov 2024 22:00:00 +1100"
-    },
-    {
         "title": "Gemma Carey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Gemma%20Carey",
         "pubdate": "Mon, 25 Nov 2024 18:00:00 +1100"
@@ -98,5 +88,15 @@
         "title": "Falling in Reverse",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Falling%20in%20Reverse",
         "pubdate": "Mon, 25 Nov 2024 11:00:00 +1100"
+    },
+    {
+        "title": "Jung Woo-sung",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jung%20Woo-sung",
+        "pubdate": "Mon, 25 Nov 2024 18:00:00 +1100"
+    },
+    {
+        "title": "Mary Fowler",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Mary%20Fowler",
+        "pubdate": "Mon, 25 Nov 2024 18:00:00 +1100"
     }
 ]

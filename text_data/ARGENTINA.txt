@@ -1,5 +1,7 @@
-Trenes Argentinos
 Banco nacion
+Trenes Argentinos
+Banco Macro
+Black Friday
 ABC
 ARCA
 Epec
@@ -10,11 +12,9 @@ PAMI
 Mi Escuela
 Servicio meteorologico
 Sergio Rotman
-Temperatura cordoba
 Sorteo Quini 6
+Temperatura cordoba
 Elecciones Uruguay
 Gimnasia  Atlético Tucumán
 Nueva Chicago  San Martín
 Deportivo Riestra  Banfield
-Lanús  Defensa y Justicia
-Liga Argentina

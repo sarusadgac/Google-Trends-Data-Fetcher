@@ -30,6 +30,11 @@
         "pubdate": "Sun, 24 Nov 2024 18:00:00 +0100"
     },
     {
+        "title": "UNIQLO",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#UNIQLO",
+        "pubdate": "Sun, 24 Nov 2024 21:00:00 +0100"
+    },
+    {
         "title": "Queen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Queen",
         "pubdate": "Sun, 24 Nov 2024 22:00:00 +0100"
@@ -93,10 +98,5 @@
         "title": "Celta Vigo  Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Celta%20Vigo%20%20Barcelona",
         "pubdate": "Sat, 23 Nov 2024 15:00:00 +0100"
-    },
-    {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Liverpool",
-        "pubdate": "Sat, 23 Nov 2024 21:00:00 +0100"
     }
 ]
