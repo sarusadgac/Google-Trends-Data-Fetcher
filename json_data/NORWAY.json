@@ -5,9 +5,9 @@
         "pubdate": "Mon, 25 Nov 2024 12:00:00 +0100"
     },
     {
-        "title": "Sauda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sauda",
-        "pubdate": "Mon, 25 Nov 2024 10:00:00 +0100"
+        "title": "Kompani Lauritzen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kompani%20Lauritzen",
+        "pubdate": "Mon, 25 Nov 2024 15:00:00 +0100"
     },
     {
         "title": "Adele",
@@ -15,9 +15,9 @@
         "pubdate": "Mon, 25 Nov 2024 12:00:00 +0100"
     },
     {
-        "title": "Salah",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Salah",
-        "pubdate": "Mon, 25 Nov 2024 11:00:00 +0100"
+        "title": "Sauda",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sauda",
+        "pubdate": "Mon, 25 Nov 2024 10:00:00 +0100"
     },
     {
         "title": "Zambia",
@@ -25,8 +25,8 @@
         "pubdate": "Mon, 25 Nov 2024 01:00:00 +0100"
     },
     {
-        "title": "Ipswich mot Man United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ipswich%20mot%20Man%20United",
+        "title": "Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Manchester%20United",
         "pubdate": "Sun, 24 Nov 2024 15:00:00 +0100"
     },
     {
@@ -38,6 +38,11 @@
         "title": "Andreas Fjorden Ree",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Andreas%20Fjorden%20Ree",
         "pubdate": "Sun, 24 Nov 2024 15:00:00 +0100"
+    },
+    {
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Real%20Madrid",
+        "pubdate": "Sun, 24 Nov 2024 14:00:00 +0100"
     },
     {
         "title": "Johan Kaggestad sykdom",
@@ -60,9 +65,9 @@
         "pubdate": "Sun, 24 Nov 2024 19:00:00 +0100"
     },
     {
-        "title": "Ruben Amorim",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ruben%20Amorim",
-        "pubdate": "Sun, 24 Nov 2024 18:00:00 +0100"
+        "title": "Ed Sheeran",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ed%20Sheeran",
+        "pubdate": "Sun, 24 Nov 2024 19:00:00 +0100"
     },
     {
         "title": "Cher",
@@ -93,10 +98,5 @@
         "title": "Kong Harald",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kong%20Harald",
         "pubdate": "Sun, 24 Nov 2024 22:00:00 +0100"
-    },
-    {
-        "title": "Kristiansand",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kristiansand",
-        "pubdate": "Sun, 24 Nov 2024 10:00:00 +0100"
     }
 ]
