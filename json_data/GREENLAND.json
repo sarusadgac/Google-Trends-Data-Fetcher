@@ -1,5 +1,30 @@
 [
     {
+        "title": "Chess",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Chess",
+        "pubdate": "Mon, 25 Nov 2024 01:30:00 +0530"
+    },
+    {
+        "title": "飯塚幸三",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E9%A3%AF%E5%A1%9A%E5%B9%B8%E4%B8%89",
+        "pubdate": "Mon, 25 Nov 2024 13:00:00 +0900"
+    },
+    {
+        "title": "Flugzeugabsturz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Flugzeugabsturz",
+        "pubdate": "Mon, 25 Nov 2024 09:00:00 +0100"
+    },
+    {
+        "title": "GWR",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#GWR",
+        "pubdate": "Mon, 25 Nov 2024 09:00:00 +0000"
+    },
+    {
+        "title": "Aurore Clement",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Aurore%20Clement",
+        "pubdate": "Mon, 25 Nov 2024 10:00:00 +0100"
+    },
+    {
         "title": "葉嘉瑩",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E8%91%89%E5%98%89%E7%91%A9",
         "pubdate": "Mon, 25 Nov 2024 13:00:00 +0800"
@@ -15,34 +40,14 @@
         "pubdate": "Mon, 25 Nov 2024 00:00:00 -0800"
     },
     {
-        "title": "Aurore Clement",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Aurore%20Clement",
-        "pubdate": "Mon, 25 Nov 2024 10:00:00 +0100"
+        "title": "Stiri",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Stiri",
+        "pubdate": "Mon, 25 Nov 2024 06:00:00 +0200"
     },
     {
-        "title": "Flugzeugabsturz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Flugzeugabsturz",
-        "pubdate": "Mon, 25 Nov 2024 09:00:00 +0100"
-    },
-    {
-        "title": "飯塚幸三",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E9%A3%AF%E5%A1%9A%E5%B9%B8%E4%B8%89",
-        "pubdate": "Mon, 25 Nov 2024 13:00:00 +0900"
-    },
-    {
-        "title": "Chess",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Chess",
-        "pubdate": "Mon, 25 Nov 2024 01:00:00 +0000"
-    },
-    {
-        "title": "Allah Ghazanfar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Allah%20Ghazanfar",
-        "pubdate": "Mon, 25 Nov 2024 17:30:00 +0530"
-    },
-    {
-        "title": "John Krasinski",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#John%20Krasinski",
-        "pubdate": "Mon, 25 Nov 2024 08:00:00 +0100"
+        "title": "NYT Connections hints",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#NYT%20Connections%20hints",
+        "pubdate": "Mon, 25 Nov 2024 00:00:00 -0500"
     },
     {
         "title": "Cadiz Vale mas 2024",
@@ -50,39 +55,9 @@
         "pubdate": "Mon, 25 Nov 2024 09:00:00 +0100"
     },
     {
-        "title": "מיכל הקטנה",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%9E%D7%99%D7%9B%D7%9C%20%D7%94%D7%A7%D7%98%D7%A0%D7%94",
-        "pubdate": "Mon, 25 Nov 2024 09:00:00 +0200"
-    },
-    {
-        "title": "Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Champions%20League",
-        "pubdate": "Mon, 25 Nov 2024 10:00:00 -0300"
-    },
-    {
-        "title": "統一發票",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E7%B5%B1%E4%B8%80%E7%99%BC%E7%A5%A8",
-        "pubdate": "Mon, 25 Nov 2024 11:00:00 +0800"
-    },
-    {
-        "title": "Калуга",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=UA#%D0%9A%D0%B0%D0%BB%D1%83%D0%B3%D0%B0",
-        "pubdate": "Mon, 25 Nov 2024 08:00:00 +0200"
-    },
-    {
-        "title": "KFC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#KFC",
-        "pubdate": "Mon, 25 Nov 2024 12:00:00 +0200"
-    },
-    {
-        "title": "NYSC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#NYSC",
-        "pubdate": "Mon, 25 Nov 2024 10:00:00 +0100"
-    },
-    {
-        "title": "دوري أبطال أفريقيا",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=EG#%D8%AF%D9%88%D8%B1%D9%8A%20%D8%A3%D8%A8%D8%B7%D8%A7%D9%84%20%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7",
-        "pubdate": "Mon, 25 Nov 2024 02:00:00 +0200"
+        "title": "موهبة",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#%D9%85%D9%88%D9%87%D8%A8%D8%A9",
+        "pubdate": "Mon, 25 Nov 2024 02:00:00 +0300"
     },
     {
         "title": "Outlook",
@@ -90,13 +65,38 @@
         "pubdate": "Mon, 25 Nov 2024 12:00:00 +0000"
     },
     {
-        "title": "Lanús  Defensa y Justicia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Lan%C3%BAs%20%20Defensa%20y%20Justicia",
-        "pubdate": "Mon, 25 Nov 2024 01:00:00 -0500"
+        "title": "Adele",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Adele",
+        "pubdate": "Mon, 25 Nov 2024 00:00:00 +0100"
     },
     {
-        "title": "Σκάκι",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%A3%CE%BA%CE%AC%CE%BA%CE%B9",
-        "pubdate": "Mon, 25 Nov 2024 01:00:00 +0200"
+        "title": "DHL Flugzeugabsturz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#DHL%20Flugzeugabsturz",
+        "pubdate": "Mon, 25 Nov 2024 12:00:00 +0100"
+    },
+    {
+        "title": "เงินเดือนข้าราชการ 2567",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TH#%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%81%E0%B8%B2%E0%B8%A3%202567",
+        "pubdate": "Mon, 25 Nov 2024 08:00:00 +0700"
+    },
+    {
+        "title": "Serie B",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Serie%20B",
+        "pubdate": "Mon, 25 Nov 2024 10:00:00 +0000"
+    },
+    {
+        "title": "John Krasinski",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#John%20Krasinski",
+        "pubdate": "Mon, 25 Nov 2024 08:00:00 +0100"
+    },
+    {
+        "title": "Emma Heesters",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Emma%20Heesters",
+        "pubdate": "Mon, 25 Nov 2024 00:00:00 +0100"
+    },
+    {
+        "title": "Civil servant bonus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Civil%20servant%20bonus",
+        "pubdate": "Mon, 25 Nov 2024 15:00:00 +0800"
     }
 ]
