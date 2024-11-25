@@ -35,6 +35,11 @@
         "pubdate": "Sun, 24 Nov 2024 16:00:00 +0100"
     },
     {
+        "title": "Southampton  Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Southampton%20%20Liverpool",
+        "pubdate": "Sun, 24 Nov 2024 15:00:00 +0100"
+    },
+    {
         "title": "Pedro Sánchez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Pedro%20S%C3%A1nchez",
         "pubdate": "Sun, 24 Nov 2024 00:00:00 +0100"
@@ -70,6 +75,11 @@
         "pubdate": "Sun, 24 Nov 2024 14:00:00 +0100"
     },
     {
+        "title": "Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Madrid",
+        "pubdate": "Sun, 24 Nov 2024 20:00:00 +0100"
+    },
+    {
         "title": "Real Madrid club de fútbol",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Real%20Madrid%20club%20de%20f%C3%BAtbol",
         "pubdate": "Sun, 24 Nov 2024 12:00:00 +0100"
@@ -88,15 +98,5 @@
         "title": "Derrumbe colegio Massanassa (Valencia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Derrumbe%20colegio%20Massanassa%20(Valencia",
         "pubdate": "Sun, 24 Nov 2024 19:00:00 +0100"
-    },
-    {
-        "title": "SD Huesca  Castellón",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#SD%20Huesca%20%20Castell%C3%B3n",
-        "pubdate": "Sun, 24 Nov 2024 19:00:00 +0100"
-    },
-    {
-        "title": "Champions",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Champions",
-        "pubdate": "Sun, 24 Nov 2024 20:00:00 +0100"
     }
 ]
