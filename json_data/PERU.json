@@ -5,11 +5,6 @@
         "pubdate": "Mon, 25 Nov 2024 01:00:00 -0500"
     },
     {
-        "title": "Corinthians  Vasco da Gama",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Corinthians%20%20Vasco%20da%20Gama",
-        "pubdate": "Sun, 24 Nov 2024 14:00:00 -0500"
-    },
-    {
         "title": "Athletic  Real Sociedad",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Athletic%20%20Real%20Sociedad",
         "pubdate": "Sun, 24 Nov 2024 15:00:00 -0500"
@@ -83,6 +78,11 @@
         "title": "Como - Fiorentina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Como%20-%20Fiorentina",
         "pubdate": "Sun, 24 Nov 2024 12:00:00 -0500"
+    },
+    {
+        "title": "Corinthians",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Corinthians",
+        "pubdate": "Sun, 24 Nov 2024 22:00:00 -0500"
     },
     {
         "title": "Boca Juniors",
