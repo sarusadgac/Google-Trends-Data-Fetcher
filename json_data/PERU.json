@@ -45,16 +45,6 @@
         "pubdate": "Sun, 24 Nov 2024 09:00:00 -0500"
     },
     {
-        "title": "Velez vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Velez%20vs",
-        "pubdate": "Sun, 24 Nov 2024 20:00:00 -0500"
-    },
-    {
-        "title": "Real Madrid Club de fútbol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Real%20Madrid%20Club%20de%20f%C3%BAtbol",
-        "pubdate": "Sun, 24 Nov 2024 13:00:00 -0500"
-    },
-    {
         "title": "MLS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#MLS",
         "pubdate": "Sun, 24 Nov 2024 02:00:00 -0500"
@@ -62,6 +52,11 @@
     {
         "title": "Copa peru",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Copa%20peru",
+        "pubdate": "Sun, 24 Nov 2024 23:00:00 -0500"
+    },
+    {
+        "title": "Que se celebra el 25 de noviembre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Que%20se%20celebra%20el%2025%20de%20noviembre",
         "pubdate": "Sun, 24 Nov 2024 23:00:00 -0500"
     },
     {
@@ -73,11 +68,6 @@
         "title": "Boca Juniors",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Boca%20Juniors",
         "pubdate": "Sun, 24 Nov 2024 08:00:00 -0500"
-    },
-    {
-        "title": "Que se celebra el 25 de noviembre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Que%20se%20celebra%20el%2025%20de%20noviembre",
-        "pubdate": "Sun, 24 Nov 2024 23:00:00 -0500"
     },
     {
         "title": "Celta de Vigo  Barcelona",
@@ -98,5 +88,15 @@
         "title": "Southampton  Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Southampton%20%20Liverpool",
         "pubdate": "Sat, 23 Nov 2024 14:00:00 -0500"
+    },
+    {
+        "title": "Ipswich Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Ipswich%20Manchester%20United",
+        "pubdate": "Sat, 23 Nov 2024 15:00:00 -0500"
+    },
+    {
+        "title": "Atlético Madrid  Alavés",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Atl%C3%A9tico%20Madrid%20%20Alav%C3%A9s",
+        "pubdate": "Sat, 23 Nov 2024 10:00:00 -0500"
     }
 ]
