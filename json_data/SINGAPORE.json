@@ -5,6 +5,11 @@
         "pubdate": "Mon, 25 Nov 2024 01:00:00 +0800"
     },
     {
+        "title": "Thanksgiving 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Thanksgiving%202024",
+        "pubdate": "Mon, 25 Nov 2024 16:00:00 +0800"
+    },
+    {
         "title": "Liverpool f.c.",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Liverpool%20f.c.",
         "pubdate": "Mon, 25 Nov 2024 00:00:00 +0800"
@@ -13,6 +18,11 @@
         "title": "Steve Cooper",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Steve%20Cooper",
         "pubdate": "Mon, 25 Nov 2024 01:00:00 +0800"
+    },
+    {
+        "title": "Thanksgiving",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Thanksgiving",
+        "pubdate": "Mon, 25 Nov 2024 16:00:00 +0800"
     },
     {
         "title": "Ipswich Town vs Man United",
@@ -25,19 +35,14 @@
         "pubdate": "Sun, 24 Nov 2024 22:00:00 +0800"
     },
     {
-        "title": "IPL Auction 2025",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#IPL%20Auction%202025",
-        "pubdate": "Sun, 24 Nov 2024 12:00:00 +0800"
-    },
-    {
-        "title": "Star Search 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Star%20Search%202024",
-        "pubdate": "Sun, 24 Nov 2024 18:00:00 +0800"
-    },
-    {
         "title": "Star Search 2024 final",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Star%20Search%202024%20final",
         "pubdate": "Sun, 24 Nov 2024 17:00:00 +0800"
+    },
+    {
+        "title": "IPL Auction 2025",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#IPL%20Auction%202025",
+        "pubdate": "Sun, 24 Nov 2024 12:00:00 +0800"
     },
     {
         "title": "Leganes vs Real Madrid",
@@ -53,11 +58,6 @@
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Arsenal",
         "pubdate": "Sun, 24 Nov 2024 00:00:00 +0800"
-    },
-    {
-        "title": "Lawrence Wong",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Lawrence%20Wong",
-        "pubdate": "Sun, 24 Nov 2024 15:00:00 +0800"
     },
     {
         "title": "Serie a",
@@ -95,8 +95,8 @@
         "pubdate": "Sun, 24 Nov 2024 08:00:00 +0800"
     },
     {
-        "title": "Man City vs Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Man%20City%20vs%20Tottenham",
-        "pubdate": "Sat, 23 Nov 2024 22:00:00 +0800"
+        "title": "Lee Hsien Loong",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Lee%20Hsien%20Loong",
+        "pubdate": "Sun, 24 Nov 2024 15:00:00 +0800"
     }
 ]

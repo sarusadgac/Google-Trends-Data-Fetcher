@@ -8,6 +8,7 @@ Gimnasia  Atlético Tucumán
 Nueva Chicago  San Martín
 Deportivo Riestra  Banfield
 Liga Argentina
+Lanús  Defensa y Justicia
 F1 Las Vegas
 Primera División
 Southampton  Liverpool
@@ -17,4 +18,3 @@ Villa Mitre  Sarmiento de La Banda
 Talleres
 Albon
 Superliga
-Futbol argentino
