@@ -5,6 +5,11 @@
         "pubdate": "Mon, 25 Nov 2024 11:00:00 +0300"
     },
     {
+        "title": "Newcastle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Newcastle",
+        "pubdate": "Mon, 25 Nov 2024 12:00:00 +0300"
+    },
+    {
         "title": "Chelsea vs Man Utd",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Chelsea%20vs%20Man%20Utd",
         "pubdate": "Sun, 24 Nov 2024 15:00:00 +0300"
@@ -40,6 +45,11 @@
         "pubdate": "Sun, 24 Nov 2024 22:00:00 +0300"
     },
     {
+        "title": "Manchester",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Manchester",
+        "pubdate": "Sun, 24 Nov 2024 21:00:00 +0300"
+    },
+    {
         "title": "Steve Cooper",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Steve%20Cooper",
         "pubdate": "Sun, 24 Nov 2024 20:00:00 +0300"
@@ -67,7 +77,7 @@
     {
         "title": "Ipswich Town vs man United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Ipswich%20Town%20vs%20man%20United",
-        "pubdate": "Sat, 23 Nov 2024 16:00:00 +0300"
+        "pubdate": "Sat, 23 Nov 2024 20:00:00 +0300"
     },
     {
         "title": "Man City vs Tottenham",
@@ -88,15 +98,5 @@
         "title": "Southampton vs Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Southampton%20vs%20Liverpool",
         "pubdate": "Sat, 23 Nov 2024 19:00:00 +0300"
-    },
-    {
-        "title": "Leganes vs Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Leganes%20vs%20Real%20Madrid",
-        "pubdate": "Sat, 23 Nov 2024 21:00:00 +0300"
-    },
-    {
-        "title": "Premier League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Premier%20League",
-        "pubdate": "Sat, 23 Nov 2024 12:00:00 +0300"
     }
 ]
