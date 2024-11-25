@@ -15,6 +15,11 @@
         "pubdate": "Mon, 25 Nov 2024 06:00:00 +0100"
     },
     {
+        "title": "Elecciones Uruguay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Elecciones%20Uruguay",
+        "pubdate": "Mon, 25 Nov 2024 08:00:00 +0100"
+    },
+    {
         "title": "Athletic  Real Sociedad",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Athletic%20%20Real%20Sociedad",
         "pubdate": "Sun, 24 Nov 2024 21:00:00 +0100"
@@ -75,9 +80,9 @@
         "pubdate": "Sun, 24 Nov 2024 12:00:00 +0100"
     },
     {
-        "title": "Madrid FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Madrid%20FC",
-        "pubdate": "Sun, 24 Nov 2024 15:00:00 +0100"
+        "title": "Derrumbe colegio Massanassa (Valencia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Derrumbe%20colegio%20Massanassa%20(Valencia",
+        "pubdate": "Sun, 24 Nov 2024 19:00:00 +0100"
     },
     {
         "title": "Albacete  Tenerife",
@@ -85,18 +90,13 @@
         "pubdate": "Sun, 24 Nov 2024 14:00:00 +0100"
     },
     {
-        "title": "Derrumbe colegio Massanassa (Valencia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Derrumbe%20colegio%20Massanassa%20(Valencia",
-        "pubdate": "Sun, 24 Nov 2024 19:00:00 +0100"
+        "title": "Madrid FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Madrid%20FC",
+        "pubdate": "Sun, 24 Nov 2024 15:00:00 +0100"
     },
     {
         "title": "SD Huesca  Castellón",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#SD%20Huesca%20%20Castell%C3%B3n",
         "pubdate": "Sun, 24 Nov 2024 19:00:00 +0100"
-    },
-    {
-        "title": "Champions",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Champions",
-        "pubdate": "Sun, 24 Nov 2024 20:00:00 +0100"
     }
 ]
