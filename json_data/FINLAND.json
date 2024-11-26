@@ -5,6 +5,11 @@
         "pubdate": "Tue, 26 Nov 2024 09:00:00 +0200"
     },
     {
+        "title": "Chris Chan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Chris%20Chan",
+        "pubdate": "Tue, 26 Nov 2024 02:00:00 +0200"
+    },
+    {
         "title": "Newcastle United – West Ham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Newcastle%20United%20%E2%80%93%20West%20Ham",
         "pubdate": "Tue, 26 Nov 2024 08:00:00 +0200"
@@ -93,10 +98,5 @@
         "title": "Mission: Impossible",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Mission:%20Impossible",
         "pubdate": "Sun, 24 Nov 2024 21:00:00 +0200"
-    },
-    {
-        "title": "Celta Vigo – Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Celta%20Vigo%20%E2%80%93%20Barcelona",
-        "pubdate": "Sat, 23 Nov 2024 22:00:00 +0200"
     }
 ]
