@@ -5,6 +5,11 @@
         "pubdate": "Tue, 26 Nov 2024 02:00:00 +0100"
     },
     {
+        "title": "Audiencias ayer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Audiencias%20ayer",
+        "pubdate": "Tue, 26 Nov 2024 11:00:00 +0100"
+    },
+    {
         "title": "Adeslas Muface",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Adeslas%20Muface",
         "pubdate": "Tue, 26 Nov 2024 01:00:00 +0100"
@@ -30,9 +35,9 @@
         "pubdate": "Tue, 26 Nov 2024 12:00:00 +0100"
     },
     {
-        "title": "Audiencias TV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Audiencias%20TV",
-        "pubdate": "Tue, 26 Nov 2024 11:00:00 +0100"
+        "title": "Annie Leibovitz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Annie%20Leibovitz",
+        "pubdate": "Tue, 26 Nov 2024 15:00:00 +0100"
     },
     {
         "title": "Bratz Karol G",
@@ -45,14 +50,19 @@
         "pubdate": "Tue, 26 Nov 2024 01:00:00 +0100"
     },
     {
-        "title": "Maradona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Maradona",
-        "pubdate": "Tue, 26 Nov 2024 00:00:00 +0100"
-    },
-    {
         "title": "Champions hoy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Champions%20hoy",
         "pubdate": "Tue, 26 Nov 2024 15:00:00 +0100"
+    },
+    {
+        "title": "Juice WRLD",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Juice%20WRLD",
+        "pubdate": "Tue, 26 Nov 2024 08:00:00 +0100"
+    },
+    {
+        "title": "Maradona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Maradona",
+        "pubdate": "Tue, 26 Nov 2024 00:00:00 +0100"
     },
     {
         "title": "Leiva",
@@ -60,14 +70,19 @@
         "pubdate": "Tue, 26 Nov 2024 15:00:00 +0100"
     },
     {
-        "title": "Annie Leibovitz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Annie%20Leibovitz",
-        "pubdate": "Tue, 26 Nov 2024 15:00:00 +0100"
-    },
-    {
         "title": "Raul Neto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Raul%20Neto",
         "pubdate": "Tue, 26 Nov 2024 00:00:00 +0100"
+    },
+    {
+        "title": "Dani martin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Dani%20martin",
+        "pubdate": "Tue, 26 Nov 2024 16:00:00 +0100"
+    },
+    {
+        "title": "Gabriel Escarrer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Gabriel%20Escarrer",
+        "pubdate": "Tue, 26 Nov 2024 16:00:00 +0100"
     },
     {
         "title": "Mango",
@@ -83,20 +98,5 @@
         "title": "Rigoberta Bandini",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Rigoberta%20Bandini",
         "pubdate": "Mon, 25 Nov 2024 23:00:00 +0100"
-    },
-    {
-        "title": "Sara Aagesen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Sara%20Aagesen",
-        "pubdate": "Mon, 25 Nov 2024 10:00:00 +0100"
-    },
-    {
-        "title": "Pablo Motos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Pablo%20Motos",
-        "pubdate": "Mon, 25 Nov 2024 23:00:00 +0100"
-    },
-    {
-        "title": "Real Madrid hoy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Real%20Madrid%20hoy",
-        "pubdate": "Mon, 25 Nov 2024 17:00:00 +0100"
     }
 ]
