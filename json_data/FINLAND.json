@@ -10,11 +10,6 @@
         "pubdate": "Tue, 26 Nov 2024 08:00:00 +0200"
     },
     {
-        "title": "Chris Chan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Chris%20Chan",
-        "pubdate": "Tue, 26 Nov 2024 02:00:00 +0200"
-    },
-    {
         "title": "Outlook",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Outlook",
         "pubdate": "Mon, 25 Nov 2024 13:00:00 +0200"
@@ -98,5 +93,10 @@
         "title": "Celta Vigo – Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Celta%20Vigo%20%E2%80%93%20Barcelona",
         "pubdate": "Sat, 23 Nov 2024 22:00:00 +0200"
+    },
+    {
+        "title": "Manchester City – Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Manchester%20City%20%E2%80%93%20Tottenham",
+        "pubdate": "Sat, 23 Nov 2024 20:00:00 +0200"
     }
 ]

@@ -75,11 +75,6 @@
         "pubdate": "Mon, 25 Nov 2024 10:00:00 -0500"
     },
     {
-        "title": "Alfonso Swett Opazo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Alfonso%20Swett%20Opazo",
-        "pubdate": "Mon, 25 Nov 2024 19:00:00 -0500"
-    },
-    {
         "title": "Joselu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Joselu",
         "pubdate": "Mon, 25 Nov 2024 20:00:00 -0500"
@@ -98,5 +93,10 @@
         "title": "Genoa  Cagliari",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Genoa%20%20Cagliari",
         "pubdate": "Sun, 24 Nov 2024 08:00:00 -0500"
+    },
+    {
+        "title": "Manchester United vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Manchester%20United%20vs",
+        "pubdate": "Sun, 24 Nov 2024 12:00:00 -0500"
     }
 ]
