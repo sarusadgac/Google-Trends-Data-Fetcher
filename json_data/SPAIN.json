@@ -1,8 +1,23 @@
 [
     {
+        "title": "Sparta Praha  Atlético Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Sparta%20Praha%20%20Atl%C3%A9tico%20Madrid",
+        "pubdate": "Tue, 26 Nov 2024 18:00:00 +0100"
+    },
+    {
+        "title": "Parla Escuela - Valencia CF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Parla%20Escuela%20-%20Valencia%20CF",
+        "pubdate": "Tue, 26 Nov 2024 19:00:00 +0100"
+    },
+    {
         "title": "Daniel Sancho",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Daniel%20Sancho",
         "pubdate": "Tue, 26 Nov 2024 02:00:00 +0100"
+    },
+    {
+        "title": "Audiencias ayer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Audiencias%20ayer",
+        "pubdate": "Tue, 26 Nov 2024 11:00:00 +0100"
     },
     {
         "title": "Adeslas Muface",
@@ -10,14 +25,14 @@
         "pubdate": "Tue, 26 Nov 2024 01:00:00 +0100"
     },
     {
-        "title": "Francis Lorenzo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Francis%20Lorenzo",
-        "pubdate": "Tue, 26 Nov 2024 00:00:00 +0100"
-    },
-    {
         "title": "Victor elias",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Victor%20elias",
         "pubdate": "Tue, 26 Nov 2024 10:00:00 +0100"
+    },
+    {
+        "title": "Francis Lorenzo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Francis%20Lorenzo",
+        "pubdate": "Tue, 26 Nov 2024 00:00:00 +0100"
     },
     {
         "title": "Annie Leibovitz",
@@ -28,6 +43,11 @@
         "title": "Pocholo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Pocholo",
         "pubdate": "Tue, 26 Nov 2024 00:00:00 +0100"
+    },
+    {
+        "title": "Slovan Bratislava - Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Slovan%20Bratislava%20-%20Milan",
+        "pubdate": "Tue, 26 Nov 2024 19:00:00 +0100"
     },
     {
         "title": "Rels B",
@@ -50,9 +70,9 @@
         "pubdate": "Tue, 26 Nov 2024 08:00:00 +0100"
     },
     {
-        "title": "Marlaska",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Marlaska",
-        "pubdate": "Tue, 26 Nov 2024 18:00:00 +0100"
+        "title": "Ozempic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ozempic",
+        "pubdate": "Tue, 26 Nov 2024 19:00:00 +0100"
     },
     {
         "title": "Pamela Anderson",
@@ -60,14 +80,14 @@
         "pubdate": "Tue, 26 Nov 2024 17:00:00 +0100"
     },
     {
-        "title": "Maradona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Maradona",
-        "pubdate": "Tue, 26 Nov 2024 00:00:00 +0100"
-    },
-    {
         "title": "Gabriel Escarrer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Gabriel%20Escarrer",
         "pubdate": "Tue, 26 Nov 2024 16:00:00 +0100"
+    },
+    {
+        "title": "Maradona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Maradona",
+        "pubdate": "Tue, 26 Nov 2024 00:00:00 +0100"
     },
     {
         "title": "Leiva",
@@ -78,25 +98,5 @@
         "title": "Dani martin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Dani%20martin",
         "pubdate": "Tue, 26 Nov 2024 16:00:00 +0100"
-    },
-    {
-        "title": "Raul Neto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Raul%20Neto",
-        "pubdate": "Tue, 26 Nov 2024 00:00:00 +0100"
-    },
-    {
-        "title": "Erreway",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Erreway",
-        "pubdate": "Tue, 26 Nov 2024 18:00:00 +0100"
-    },
-    {
-        "title": "Mango",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Mango",
-        "pubdate": "Mon, 25 Nov 2024 18:00:00 +0100"
-    },
-    {
-        "title": "Salva Reina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Salva%20Reina",
-        "pubdate": "Mon, 25 Nov 2024 23:00:00 +0100"
     }
 ]
