@@ -5,11 +5,6 @@
         "pubdate": "Tue, 26 Nov 2024 02:00:00 +0100"
     },
     {
-        "title": "Audiencias ayer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Audiencias%20ayer",
-        "pubdate": "Tue, 26 Nov 2024 11:00:00 +0100"
-    },
-    {
         "title": "Francis Lorenzo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Francis%20Lorenzo",
         "pubdate": "Tue, 26 Nov 2024 00:00:00 +0100"
@@ -20,14 +15,14 @@
         "pubdate": "Tue, 26 Nov 2024 01:00:00 +0100"
     },
     {
-        "title": "Pocholo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Pocholo",
-        "pubdate": "Tue, 26 Nov 2024 00:00:00 +0100"
-    },
-    {
         "title": "Victor elias",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Victor%20elias",
         "pubdate": "Tue, 26 Nov 2024 10:00:00 +0100"
+    },
+    {
+        "title": "Pocholo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Pocholo",
+        "pubdate": "Tue, 26 Nov 2024 00:00:00 +0100"
     },
     {
         "title": "Rels B",
@@ -38,6 +33,11 @@
         "title": "Bratz Karol G",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Bratz%20Karol%20G",
         "pubdate": "Tue, 26 Nov 2024 08:00:00 +0100"
+    },
+    {
+        "title": "Audiencias TV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Audiencias%20TV",
+        "pubdate": "Tue, 26 Nov 2024 11:00:00 +0100"
     },
     {
         "title": "Pitingo",
@@ -70,14 +70,14 @@
         "pubdate": "Mon, 25 Nov 2024 23:00:00 +0100"
     },
     {
+        "title": "Sara Aagesen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Sara%20Aagesen",
+        "pubdate": "Mon, 25 Nov 2024 10:00:00 +0100"
+    },
+    {
         "title": "Pablo Motos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Pablo%20Motos",
         "pubdate": "Mon, 25 Nov 2024 23:00:00 +0100"
-    },
-    {
-        "title": "Lobato",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Lobato",
-        "pubdate": "Mon, 25 Nov 2024 09:00:00 +0100"
     },
     {
         "title": "Real Madrid hoy",
@@ -90,13 +90,13 @@
         "pubdate": "Mon, 25 Nov 2024 09:00:00 +0100"
     },
     {
+        "title": "Lobato",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Lobato",
+        "pubdate": "Mon, 25 Nov 2024 09:00:00 +0100"
+    },
+    {
         "title": "Accidente avion DHL Lituania",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Accidente%20avion%20DHL%20Lituania",
         "pubdate": "Mon, 25 Nov 2024 17:00:00 +0100"
-    },
-    {
-        "title": "25 noviembre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#25%20noviembre",
-        "pubdate": "Mon, 25 Nov 2024 02:00:00 +0100"
     }
 ]
