@@ -1,18 +1,8 @@
 [
     {
-        "title": "Constitution Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Constitution%20Day",
-        "pubdate": "Tue, 26 Nov 2024 00:30:00 +0530"
-    },
-    {
-        "title": "菊池雄星",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E8%8F%8A%E6%B1%A0%E9%9B%84%E6%98%9F",
-        "pubdate": "Tue, 26 Nov 2024 05:00:00 +0900"
-    },
-    {
-        "title": "Большой театр",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9%20%D1%82%D0%B5%D0%B0%D1%82%D1%80",
-        "pubdate": "Mon, 25 Nov 2024 16:00:00 +0300"
+        "title": "Microsoft outage",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Microsoft%20outage",
+        "pubdate": "Mon, 25 Nov 2024 11:00:00 -0800"
     },
     {
         "title": "Flugzeugabsturz",
@@ -20,9 +10,29 @@
         "pubdate": "Mon, 25 Nov 2024 09:00:00 +0100"
     },
     {
-        "title": "Chess",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Chess",
-        "pubdate": "Mon, 25 Nov 2024 01:00:00 +0000"
+        "title": "陳寶珠",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E9%99%B3%E5%AF%B6%E7%8F%A0",
+        "pubdate": "Tue, 26 Nov 2024 00:00:00 +0800"
+    },
+    {
+        "title": "Большой театр",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9%20%D1%82%D0%B5%D0%B0%D1%82%D1%80",
+        "pubdate": "Mon, 25 Nov 2024 16:00:00 +0300"
+    },
+    {
+        "title": "Constitution Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Constitution%20Day",
+        "pubdate": "Tue, 26 Nov 2024 00:30:00 +0530"
+    },
+    {
+        "title": "Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Champions%20League",
+        "pubdate": "Tue, 26 Nov 2024 00:00:00 +0000"
+    },
+    {
+        "title": "菊池雄星",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E8%8F%8A%E6%B1%A0%E9%9B%84%E6%98%9F",
+        "pubdate": "Tue, 26 Nov 2024 05:00:00 +0900"
     },
     {
         "title": "Pelicot",
@@ -30,14 +40,9 @@
         "pubdate": "Mon, 25 Nov 2024 12:00:00 +0100"
     },
     {
-        "title": "陳寶珠",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E9%99%B3%E5%AF%B6%E7%8F%A0",
-        "pubdate": "Tue, 26 Nov 2024 00:00:00 +0800"
-    },
-    {
-        "title": "Microsoft outage",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Microsoft%20outage",
-        "pubdate": "Mon, 25 Nov 2024 11:00:00 -0800"
+        "title": "Venezia vs Lecce",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Venezia%20vs%20Lecce",
+        "pubdate": "Tue, 26 Nov 2024 03:00:00 +0700"
     },
     {
         "title": "Полісся – Зоря",
@@ -45,58 +50,53 @@
         "pubdate": "Mon, 25 Nov 2024 18:00:00 +0200"
     },
     {
+        "title": "Chess",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Chess",
+        "pubdate": "Mon, 25 Nov 2024 01:00:00 -0500"
+    },
+    {
+        "title": "La Talpa chiude",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#La%20Talpa%20chiude",
+        "pubdate": "Tue, 26 Nov 2024 00:00:00 +0100"
+    },
+    {
+        "title": "이재명",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9D%B4%EC%9E%AC%EB%AA%85",
+        "pubdate": "Mon, 25 Nov 2024 14:00:00 +0900"
+    },
+    {
+        "title": "Málta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M%C3%A1lta",
+        "pubdate": "Tue, 26 Nov 2024 00:00:00 +0100"
+    },
+    {
+        "title": "John Longmire",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#John%20Longmire",
+        "pubdate": "Tue, 26 Nov 2024 10:00:00 +1100"
+    },
+    {
         "title": "Newcastle vs West Ham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Newcastle%20vs%20West%20Ham",
-        "pubdate": "Tue, 26 Nov 2024 04:00:00 +0800"
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Newcastle%20vs%20West%20Ham",
+        "pubdate": "Mon, 25 Nov 2024 12:00:00 +0300"
     },
     {
-        "title": "DHL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#DHL",
-        "pubdate": "Mon, 25 Nov 2024 09:00:00 +0100"
+        "title": "Al-Nassr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Al-Nassr",
+        "pubdate": "Tue, 26 Nov 2024 00:00:00 +0100"
     },
     {
-        "title": "יואב ירום",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%99%D7%95%D7%90%D7%91%20%D7%99%D7%A8%D7%95%D7%9D",
-        "pubdate": "Mon, 25 Nov 2024 19:00:00 +0200"
+        "title": "นิวคาสเซิล พบ เวสต์แฮม",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TH#%E0%B8%99%E0%B8%B4%E0%B8%A7%E0%B8%84%E0%B8%B2%E0%B8%AA%E0%B9%80%E0%B8%8B%E0%B8%B4%E0%B8%A5%20%E0%B8%9E%E0%B8%9A%20%E0%B9%80%E0%B8%A7%E0%B8%AA%E0%B8%95%E0%B9%8C%E0%B9%81%E0%B8%AE%E0%B8%A1",
+        "pubdate": "Mon, 25 Nov 2024 21:00:00 +0700"
     },
     {
-        "title": "Venezia vs Lecce",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Venezia%20vs%20Lecce",
-        "pubdate": "Tue, 26 Nov 2024 03:00:00 +0700"
+        "title": "Λυδια φωτοπουλου",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%9B%CF%85%CE%B4%CE%B9%CE%B1%20%CF%86%CF%89%CF%84%CE%BF%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%85",
+        "pubdate": "Tue, 26 Nov 2024 01:00:00 +0200"
     },
     {
-        "title": "Black Friday specials",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Black%20Friday%20specials",
-        "pubdate": "Mon, 25 Nov 2024 11:00:00 +0200"
-    },
-    {
-        "title": "Mango",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Mango",
-        "pubdate": "Mon, 25 Nov 2024 18:00:00 +0100"
-    },
-    {
-        "title": "Canada Post strike update",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canada%20Post%20strike%20update",
-        "pubdate": "Mon, 25 Nov 2024 12:00:00 -0500"
-    },
-    {
-        "title": "Dominique Pelicot",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Dominique%20Pelicot",
-        "pubdate": "Mon, 25 Nov 2024 14:00:00 +0100"
-    },
-    {
-        "title": "Nicklas Bendtner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Nicklas%20Bendtner",
-        "pubdate": "Mon, 25 Nov 2024 19:00:00 +0100"
-    },
-    {
-        "title": "Al Nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Al%20Nassr",
-        "pubdate": "Mon, 25 Nov 2024 19:00:00 +0100"
-    },
-    {
-        "title": "Azahriah",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Azahriah",
-        "pubdate": "Mon, 25 Nov 2024 23:00:00 +0100"
+        "title": "Scott Bessent",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Scott%20Bessent",
+        "pubdate": "Tue, 26 Nov 2024 00:00:00 +0800"
     }
 ]

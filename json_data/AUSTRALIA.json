@@ -5,8 +5,18 @@
         "pubdate": "Tue, 26 Nov 2024 01:00:00 +1100"
     },
     {
+        "title": "John Longmire",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#John%20Longmire",
+        "pubdate": "Tue, 26 Nov 2024 10:00:00 +1100"
+    },
+    {
         "title": "Newcastle vs West Ham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Newcastle%20vs%20West%20Ham",
+        "pubdate": "Tue, 26 Nov 2024 08:00:00 +1100"
+    },
+    {
+        "title": "Melbourne Airport",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Melbourne%20Airport",
         "pubdate": "Tue, 26 Nov 2024 08:00:00 +1100"
     },
     {
@@ -15,9 +25,9 @@
         "pubdate": "Tue, 26 Nov 2024 00:00:00 +1100"
     },
     {
-        "title": "Tallebudgera Creek",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tallebudgera%20Creek",
-        "pubdate": "Tue, 26 Nov 2024 06:00:00 +1100"
+        "title": "Al Nassr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Al%20Nassr",
+        "pubdate": "Tue, 26 Nov 2024 11:00:00 +1100"
     },
     {
         "title": "Ipswich Town vs Man United",
@@ -25,14 +35,14 @@
         "pubdate": "Mon, 25 Nov 2024 04:00:00 +1100"
     },
     {
+        "title": "Nathan McSweeney",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Nathan%20McSweeney",
+        "pubdate": "Mon, 25 Nov 2024 02:00:00 +1100"
+    },
+    {
         "title": "Marnus Labuschagne",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Marnus%20Labuschagne",
         "pubdate": "Mon, 25 Nov 2024 11:00:00 +1100"
-    },
-    {
-        "title": "Scotland vs Australia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Scotland%20vs%20Australia",
-        "pubdate": "Mon, 25 Nov 2024 05:00:00 +1100"
     },
     {
         "title": "Drake Australia tour",
@@ -53,6 +63,11 @@
         "title": "Lululemon Black Friday",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Lululemon%20Black%20Friday",
         "pubdate": "Mon, 25 Nov 2024 18:00:00 +1100"
+    },
+    {
+        "title": "D.B. Cooper",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#D.B.%20Cooper",
+        "pubdate": "Mon, 25 Nov 2024 09:00:00 +1100"
     },
     {
         "title": "Jasprit Bumrah",
@@ -80,23 +95,8 @@
         "pubdate": "Mon, 25 Nov 2024 18:00:00 +1100"
     },
     {
-        "title": "Breyten Breytenbach",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Breyten%20Breytenbach",
-        "pubdate": "Mon, 25 Nov 2024 19:00:00 +1100"
-    },
-    {
-        "title": "The Kid LAROI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#The%20Kid%20LAROI",
-        "pubdate": "Mon, 25 Nov 2024 16:00:00 +1100"
-    },
-    {
         "title": "Drake",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Drake",
         "pubdate": "Mon, 25 Nov 2024 20:00:00 +1100"
-    },
-    {
-        "title": "Mars",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Mars",
-        "pubdate": "Mon, 25 Nov 2024 15:00:00 +1100"
     }
 ]

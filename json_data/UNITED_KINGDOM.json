@@ -1,5 +1,10 @@
 [
     {
+        "title": "Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Champions%20League",
+        "pubdate": "Tue, 26 Nov 2024 00:00:00 +0000"
+    },
+    {
         "title": "Chess",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Chess",
         "pubdate": "Mon, 25 Nov 2024 01:00:00 +0000"
@@ -25,6 +30,11 @@
         "pubdate": "Mon, 25 Nov 2024 14:00:00 +0000"
     },
     {
+        "title": "D.B. Cooper",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#D.B.%20Cooper",
+        "pubdate": "Mon, 25 Nov 2024 16:00:00 +0000"
+    },
+    {
         "title": "Tenbury Wells",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Tenbury%20Wells",
         "pubdate": "Mon, 25 Nov 2024 09:00:00 +0000"
@@ -33,11 +43,6 @@
         "title": "Roy Keane",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Roy%20Keane",
         "pubdate": "Mon, 25 Nov 2024 20:00:00 +0000"
-    },
-    {
-        "title": "DB Cooper",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#DB%20Cooper",
-        "pubdate": "Mon, 25 Nov 2024 16:00:00 +0000"
     },
     {
         "title": "Jonbenet Ramsey",
@@ -55,14 +60,14 @@
         "pubdate": "Mon, 25 Nov 2024 00:00:00 +0000"
     },
     {
-        "title": "Lauren Laverne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Lauren%20Laverne",
-        "pubdate": "Mon, 25 Nov 2024 08:00:00 +0000"
-    },
-    {
         "title": "Al-Nassr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Al-Nassr",
         "pubdate": "Mon, 25 Nov 2024 21:00:00 +0000"
+    },
+    {
+        "title": "Lauren Laverne",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Lauren%20Laverne",
+        "pubdate": "Mon, 25 Nov 2024 08:00:00 +0000"
     },
     {
         "title": "SOAS",
@@ -93,10 +98,5 @@
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Manchester%20United",
         "pubdate": "Sun, 24 Nov 2024 16:00:00 +0000"
-    },
-    {
-        "title": "Scotland vs Australia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Scotland%20vs%20Australia",
-        "pubdate": "Sun, 24 Nov 2024 14:00:00 +0000"
     }
 ]

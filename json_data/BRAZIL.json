@@ -1,10 +1,5 @@
 [
     {
-        "title": "Serie B",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Serie%20B",
-        "pubdate": "Mon, 25 Nov 2024 05:00:00 -0500"
-    },
-    {
         "title": "Al-Gharafa x Al-Nassr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Al-Gharafa%20x%20Al-Nassr",
         "pubdate": "Mon, 25 Nov 2024 11:00:00 -0500"
@@ -30,6 +25,11 @@
         "pubdate": "Mon, 25 Nov 2024 10:00:00 -0500"
     },
     {
+        "title": "Serie B 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Serie%20B%202024",
+        "pubdate": "Mon, 25 Nov 2024 15:00:00 -0500"
+    },
+    {
         "title": "Athletico",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Athletico",
         "pubdate": "Mon, 25 Nov 2024 07:00:00 -0500"
@@ -40,14 +40,14 @@
         "pubdate": "Mon, 25 Nov 2024 09:00:00 -0500"
     },
     {
+        "title": "Dia da Madrinha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dia%20da%20Madrinha",
+        "pubdate": "Mon, 25 Nov 2024 13:00:00 -0500"
+    },
+    {
         "title": "Eleições presidenciais no Uruguai",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Elei%C3%A7%C3%B5es%20presidenciais%20no%20Uruguai",
         "pubdate": "Mon, 25 Nov 2024 00:00:00 -0500"
-    },
-    {
-        "title": "Vila Nova",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vila%20Nova",
-        "pubdate": "Mon, 25 Nov 2024 08:00:00 -0500"
     },
     {
         "title": "Tree",
@@ -55,19 +55,14 @@
         "pubdate": "Mon, 25 Nov 2024 10:00:00 -0500"
     },
     {
-        "title": "Dia da madrinha!",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dia%20da%20madrinha!",
-        "pubdate": "Mon, 25 Nov 2024 13:00:00 -0500"
-    },
-    {
         "title": "Brasileirão Série C",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Brasileir%C3%A3o%20S%C3%A9rie%20C",
         "pubdate": "Mon, 25 Nov 2024 16:00:00 -0500"
     },
     {
-        "title": "Luce",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Luce",
-        "pubdate": "Mon, 25 Nov 2024 00:00:00 -0500"
+        "title": "Mercurio retrogrado",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Mercurio%20retrogrado",
+        "pubdate": "Mon, 25 Nov 2024 17:00:00 -0500"
     },
     {
         "title": "SANTA CRUZ",
@@ -90,13 +85,18 @@
         "pubdate": "Mon, 25 Nov 2024 13:00:00 -0500"
     },
     {
-        "title": "Mercurio retrogrado",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Mercurio%20retrogrado",
-        "pubdate": "Mon, 25 Nov 2024 17:00:00 -0500"
-    },
-    {
         "title": "Rafael Paiva",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Rafael%20Paiva",
         "pubdate": "Mon, 25 Nov 2024 08:00:00 -0500"
+    },
+    {
+        "title": "Midtjylland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Midtjylland",
+        "pubdate": "Mon, 25 Nov 2024 17:00:00 -0500"
+    },
+    {
+        "title": "Corinthians x Vasco da Gama",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Corinthians%20x%20Vasco%20da%20Gama",
+        "pubdate": "Sun, 24 Nov 2024 09:00:00 -0500"
     }
 ]
