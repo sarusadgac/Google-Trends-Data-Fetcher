@@ -1,5 +1,10 @@
 [
     {
+        "title": "Spotify Wrapped 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Spotify%20Wrapped%202024",
+        "pubdate": "Tue, 26 Nov 2024 15:00:00 +0200"
+    },
+    {
         "title": "Guns N' Roses",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Guns%20N'%20Roses",
         "pubdate": "Tue, 26 Nov 2024 09:00:00 +0200"
@@ -8,6 +13,11 @@
         "title": "Newcastle United – West Ham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Newcastle%20United%20%E2%80%93%20West%20Ham",
         "pubdate": "Tue, 26 Nov 2024 08:00:00 +0200"
+    },
+    {
+        "title": "Morgan Freeman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Morgan%20Freeman",
+        "pubdate": "Tue, 26 Nov 2024 16:00:00 +0200"
     },
     {
         "title": "Sea Story",
@@ -87,16 +97,6 @@
     {
         "title": "Joe Thornton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Joe%20Thornton",
-        "pubdate": "Sun, 24 Nov 2024 21:00:00 +0200"
-    },
-    {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Barcelona",
-        "pubdate": "Sun, 24 Nov 2024 12:00:00 +0200"
-    },
-    {
-        "title": "Mission: Impossible",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Mission:%20Impossible",
         "pubdate": "Sun, 24 Nov 2024 21:00:00 +0200"
     }
 ]
