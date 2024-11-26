@@ -20,6 +20,11 @@
         "pubdate": "Mon, 25 Nov 2024 17:00:00 +0100"
     },
     {
+        "title": "Laos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Laos",
+        "pubdate": "Mon, 25 Nov 2024 16:00:00 +0100"
+    },
+    {
         "title": "Orange day",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Orange%20day",
         "pubdate": "Mon, 25 Nov 2024 11:00:00 +0100"
@@ -93,10 +98,5 @@
         "title": "Ebba Andersson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ebba%20Andersson",
         "pubdate": "Sun, 24 Nov 2024 14:00:00 +0100"
-    },
-    {
-        "title": "Från insidan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Fr%C3%A5n%20insidan",
-        "pubdate": "Sun, 24 Nov 2024 22:00:00 +0100"
     }
 ]

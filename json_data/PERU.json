@@ -20,13 +20,18 @@
         "pubdate": "Mon, 25 Nov 2024 11:00:00 -0500"
     },
     {
-        "title": "Black Friday",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Black%20Friday",
+        "title": "Costa 21",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Costa%2021",
         "pubdate": "Mon, 25 Nov 2024 16:00:00 -0500"
     },
     {
-        "title": "Costa 21",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Costa%2021",
+        "title": "Adidas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Adidas",
+        "pubdate": "Mon, 25 Nov 2024 22:00:00 -0500"
+    },
+    {
+        "title": "Black Friday",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Black%20Friday",
         "pubdate": "Mon, 25 Nov 2024 16:00:00 -0500"
     },
     {
@@ -60,14 +65,14 @@
         "pubdate": "Mon, 25 Nov 2024 17:00:00 -0500"
     },
     {
-        "title": "Lanús  Defensa y Justicia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Lan%C3%BAs%20%20Defensa%20y%20Justicia",
-        "pubdate": "Mon, 25 Nov 2024 01:00:00 -0500"
-    },
-    {
         "title": "Joselu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Joselu",
         "pubdate": "Mon, 25 Nov 2024 20:00:00 -0500"
+    },
+    {
+        "title": "Lanús  Defensa y Justicia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Lan%C3%BAs%20%20Defensa%20y%20Justicia",
+        "pubdate": "Mon, 25 Nov 2024 01:00:00 -0500"
     },
     {
         "title": "Que se celebra El 25 de noviembre",
@@ -92,11 +97,6 @@
     {
         "title": "Osasuna - Villarreal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Osasuna%20-%20Villarreal",
-        "pubdate": "Sun, 24 Nov 2024 09:00:00 -0500"
-    },
-    {
-        "title": "Accidente en Moyobamba",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Accidente%20en%20Moyobamba",
         "pubdate": "Sun, 24 Nov 2024 09:00:00 -0500"
     }
 ]

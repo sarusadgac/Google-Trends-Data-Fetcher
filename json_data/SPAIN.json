@@ -15,14 +15,14 @@
         "pubdate": "Tue, 26 Nov 2024 01:00:00 +0100"
     },
     {
-        "title": "Pitingo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Pitingo",
-        "pubdate": "Tue, 26 Nov 2024 01:00:00 +0100"
-    },
-    {
         "title": "Daniel Sancho",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Daniel%20Sancho",
         "pubdate": "Tue, 26 Nov 2024 02:00:00 +0100"
+    },
+    {
+        "title": "Pitingo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Pitingo",
+        "pubdate": "Tue, 26 Nov 2024 01:00:00 +0100"
     },
     {
         "title": "Maradona",
@@ -60,6 +60,11 @@
         "pubdate": "Mon, 25 Nov 2024 09:00:00 +0100"
     },
     {
+        "title": "Lobato",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Lobato",
+        "pubdate": "Mon, 25 Nov 2024 09:00:00 +0100"
+    },
+    {
         "title": "Al Gharafa  al-nassr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Al%20Gharafa%20%20al-nassr",
         "pubdate": "Mon, 25 Nov 2024 18:00:00 +0100"
@@ -92,11 +97,6 @@
     {
         "title": "España - Eslovaquia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Espa%C3%B1a%20-%20Eslovaquia",
-        "pubdate": "Mon, 25 Nov 2024 21:00:00 +0100"
-    },
-    {
-        "title": "Irene Villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Irene%20Villa",
         "pubdate": "Mon, 25 Nov 2024 21:00:00 +0100"
     }
 ]
