@@ -20,6 +20,11 @@
         "pubdate": "Mon, 25 Nov 2024 11:00:00 -0500"
     },
     {
+        "title": "Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Champions%20League",
+        "pubdate": "Mon, 25 Nov 2024 11:00:00 -0500"
+    },
+    {
         "title": "Palmeiras x Botafogo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Palmeiras%20x%20Botafogo",
         "pubdate": "Mon, 25 Nov 2024 22:00:00 -0500"
@@ -35,11 +40,6 @@
         "pubdate": "Mon, 25 Nov 2024 13:00:00 -0500"
     },
     {
-        "title": "Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Champions%20League",
-        "pubdate": "Mon, 25 Nov 2024 14:00:00 -0500"
-    },
-    {
         "title": "Serie B 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Serie%20B%202024",
         "pubdate": "Mon, 25 Nov 2024 15:00:00 -0500"
@@ -50,23 +50,13 @@
         "pubdate": "Mon, 25 Nov 2024 22:00:00 -0500"
     },
     {
-        "title": "Liga dos Campeões",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Liga%20dos%20Campe%C3%B5es",
-        "pubdate": "Mon, 25 Nov 2024 11:00:00 -0500"
-    },
-    {
         "title": "Dia da Madrinha",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dia%20da%20Madrinha",
         "pubdate": "Mon, 25 Nov 2024 13:00:00 -0500"
     },
     {
-        "title": "Champions",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Champions",
-        "pubdate": "Mon, 25 Nov 2024 11:00:00 -0500"
-    },
-    {
-        "title": "DUX",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#DUX",
+        "title": "Dux",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dux",
         "pubdate": "Mon, 25 Nov 2024 09:00:00 -0500"
     },
     {
@@ -78,6 +68,11 @@
         "title": "Tree",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Tree",
         "pubdate": "Mon, 25 Nov 2024 10:00:00 -0500"
+    },
+    {
+        "title": "Cesgranrio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cesgranrio",
+        "pubdate": "Mon, 25 Nov 2024 14:00:00 -0500"
     },
     {
         "title": "Thaisa Show do Milhão",
@@ -98,5 +93,10 @@
         "title": "Fortaleza x Flamengo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fortaleza%20x%20Flamengo",
         "pubdate": "Mon, 25 Nov 2024 10:00:00 -0500"
+    },
+    {
+        "title": "Emily em Paris",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Emily%20em%20Paris",
+        "pubdate": "Mon, 25 Nov 2024 16:00:00 -0500"
     }
 ]
