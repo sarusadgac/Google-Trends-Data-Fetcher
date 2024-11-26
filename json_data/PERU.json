@@ -10,11 +10,6 @@
         "pubdate": "Mon, 25 Nov 2024 11:00:00 -0500"
     },
     {
-        "title": "Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Champions%20League",
-        "pubdate": "Mon, 25 Nov 2024 11:00:00 -0500"
-    },
-    {
         "title": "Newcastle - West Ham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Newcastle%20-%20West%20Ham",
         "pubdate": "Mon, 25 Nov 2024 15:00:00 -0500"
@@ -23,6 +18,11 @@
         "title": "Costa 21",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Costa%2021",
         "pubdate": "Mon, 25 Nov 2024 16:00:00 -0500"
+    },
+    {
+        "title": "Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Champions%20League",
+        "pubdate": "Mon, 25 Nov 2024 11:00:00 -0500"
     },
     {
         "title": "Adidas",
@@ -35,6 +35,11 @@
         "pubdate": "Mon, 25 Nov 2024 16:00:00 -0500"
     },
     {
+        "title": "Champions",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Champions",
+        "pubdate": "Mon, 25 Nov 2024 12:00:00 -0500"
+    },
+    {
         "title": "Belgrano  Independiente",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Belgrano%20%20Independiente",
         "pubdate": "Mon, 25 Nov 2024 20:00:00 -0500"
@@ -43,6 +48,11 @@
         "title": "Ayni",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Ayni",
         "pubdate": "Mon, 25 Nov 2024 11:00:00 -0500"
+    },
+    {
+        "title": "25 de noviembre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#25%20de%20noviembre",
+        "pubdate": "Mon, 25 Nov 2024 08:00:00 -0500"
     },
     {
         "title": "Simon",
@@ -75,9 +85,9 @@
         "pubdate": "Mon, 25 Nov 2024 20:00:00 -0500"
     },
     {
-        "title": "Lanús  Defensa y Justicia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Lan%C3%BAs%20%20Defensa%20y%20Justicia",
-        "pubdate": "Mon, 25 Nov 2024 01:00:00 -0500"
+        "title": "Athletic  Real Sociedad",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Athletic%20%20Real%20Sociedad",
+        "pubdate": "Sun, 24 Nov 2024 15:00:00 -0500"
     },
     {
         "title": "Que se celebra el 25 de noviembre",
@@ -85,18 +95,8 @@
         "pubdate": "Sun, 24 Nov 2024 23:00:00 -0500"
     },
     {
-        "title": "Athletic  Real Sociedad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Athletic%20%20Real%20Sociedad",
-        "pubdate": "Sun, 24 Nov 2024 15:00:00 -0500"
-    },
-    {
         "title": "Genoa  Cagliari",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Genoa%20%20Cagliari",
         "pubdate": "Sun, 24 Nov 2024 08:00:00 -0500"
-    },
-    {
-        "title": "Manchester United vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Manchester%20United%20vs",
-        "pubdate": "Sun, 24 Nov 2024 12:00:00 -0500"
     }
 ]
