@@ -50,11 +50,6 @@
         "pubdate": "Mon, 25 Nov 2024 23:00:00 +0100"
     },
     {
-        "title": "Real Madrid hoy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Real%20Madrid%20hoy",
-        "pubdate": "Mon, 25 Nov 2024 17:00:00 +0100"
-    },
-    {
         "title": "Pablo Motos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Pablo%20Motos",
         "pubdate": "Mon, 25 Nov 2024 23:00:00 +0100"
@@ -62,11 +57,6 @@
     {
         "title": "Axel Pons",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Axel%20Pons",
-        "pubdate": "Mon, 25 Nov 2024 09:00:00 +0100"
-    },
-    {
-        "title": "Lobato",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Lobato",
         "pubdate": "Mon, 25 Nov 2024 09:00:00 +0100"
     },
     {
@@ -98,5 +88,15 @@
         "title": "Angela Merkel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Angela%20Merkel",
         "pubdate": "Mon, 25 Nov 2024 16:00:00 +0100"
+    },
+    {
+        "title": "España - Eslovaquia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Espa%C3%B1a%20-%20Eslovaquia",
+        "pubdate": "Mon, 25 Nov 2024 21:00:00 +0100"
+    },
+    {
+        "title": "Irene Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Irene%20Villa",
+        "pubdate": "Mon, 25 Nov 2024 21:00:00 +0100"
     }
 ]
