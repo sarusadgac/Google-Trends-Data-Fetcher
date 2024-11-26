@@ -1,10 +1,11 @@
 Pronostico
-Belgrano  Independiente
 WhatsApp
+Belgrano  Independiente
 Central Córdoba  Rosario Central
 Maps
 Banco nacion
 Trenes Argentinos
+Pronostico del tiempo
 Banco Macro
 Argentinos jrs.  Barracas Central
 Correo Argentino
@@ -17,4 +18,3 @@ Clima cordoba
 Clima Buenos Aires
 Santander
 Galicia
-LinkedIn
