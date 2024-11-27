@@ -25,6 +25,11 @@
         "pubdate": "Wed, 27 Nov 2024 07:00:00 +0000"
     },
     {
+        "title": "Norwich City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Norwich%20City",
+        "pubdate": "Wed, 27 Nov 2024 09:00:00 +0000"
+    },
+    {
         "title": "Champions League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Champions%20League",
         "pubdate": "Tue, 26 Nov 2024 00:00:00 +0000"
@@ -93,10 +98,5 @@
         "title": "Aberdeen fc",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Aberdeen%20fc",
         "pubdate": "Tue, 26 Nov 2024 22:00:00 +0000"
-    },
-    {
-        "title": "Egypt tourist boat sinks Red Sea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Egypt%20tourist%20boat%20sinks%20Red%20Sea",
-        "pubdate": "Tue, 26 Nov 2024 08:00:00 +0000"
     }
 ]
