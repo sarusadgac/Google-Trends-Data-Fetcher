@@ -1,14 +1,15 @@
 Barcelona
 UEFA Avrupa Ligi
 Inter
+Atalanta
 Deniz Akkaya
 Ahmet Özer
 Bayern Münih PSG
 Manchester City Feyenoord
-Milan
 Barcelona Brest
-Sparta Prag Atletico Madrid
+Milan
 Sporting Lizbon-Arsenal
+Sparta Prag Atletico Madrid
 Başakşehir
 İlhan Sami Çomak
 AZ Alkmaar  Galatasaray
@@ -17,4 +18,3 @@ Didem Soydan
 Cedi Osman
 Neşeli Günler
 Bruma
-Ali Palabıyık

@@ -1,5 +1,10 @@
 [
     {
+        "title": "Ozempic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Ozempic",
+        "pubdate": "Wed, 27 Nov 2024 02:00:00 -0300"
+    },
+    {
         "title": "Newell's  Independiente",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Newell's%20%20Independiente",
         "pubdate": "Tue, 26 Nov 2024 18:00:00 -0300"
@@ -60,8 +65,8 @@
         "pubdate": "Tue, 26 Nov 2024 18:00:00 -0300"
     },
     {
-        "title": "Young Boys  Atalanta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Young%20Boys%20%20Atalanta",
+        "title": "Young Boys - Atalanta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Young%20Boys%20-%20Atalanta",
         "pubdate": "Tue, 26 Nov 2024 19:00:00 -0300"
     },
     {
@@ -75,6 +80,11 @@
         "pubdate": "Tue, 26 Nov 2024 15:00:00 -0300"
     },
     {
+        "title": "Maria Cash",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Maria%20Cash",
+        "pubdate": "Tue, 26 Nov 2024 23:00:00 -0300"
+    },
+    {
         "title": "Teatro colon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Teatro%20colon",
         "pubdate": "Tue, 26 Nov 2024 12:00:00 -0300"
@@ -85,18 +95,8 @@
         "pubdate": "Tue, 26 Nov 2024 18:00:00 -0300"
     },
     {
-        "title": "Maria Cash",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Maria%20Cash",
-        "pubdate": "Tue, 26 Nov 2024 23:00:00 -0300"
-    },
-    {
         "title": "Fortaleza  Flamengo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Fortaleza%20%20Flamengo",
         "pubdate": "Tue, 26 Nov 2024 22:00:00 -0300"
-    },
-    {
-        "title": "Gastonedul",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Gastonedul",
-        "pubdate": "Tue, 26 Nov 2024 16:00:00 -0300"
     }
 ]

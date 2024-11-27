@@ -1,5 +1,10 @@
 [
     {
+        "title": "Bonnie Blue",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Bonnie%20Blue",
+        "pubdate": "Wed, 27 Nov 2024 01:00:00 +0000"
+    },
+    {
         "title": "Vanderpump Rules",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Vanderpump%20Rules",
         "pubdate": "Wed, 27 Nov 2024 01:00:00 +0000"
@@ -93,10 +98,5 @@
         "title": "Joe Slattery",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Joe%20Slattery",
         "pubdate": "Tue, 26 Nov 2024 23:00:00 +0000"
-    },
-    {
-        "title": "Helen mcentee",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Helen%20mcentee",
-        "pubdate": "Tue, 26 Nov 2024 00:00:00 +0000"
     }
 ]
