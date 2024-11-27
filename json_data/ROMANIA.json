@@ -15,6 +15,11 @@
         "pubdate": "Wed, 27 Nov 2024 10:00:00 +0200"
     },
     {
+        "title": "Partidul POT",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Partidul%20POT",
+        "pubdate": "Tue, 26 Nov 2024 18:00:00 +0200"
+    },
+    {
         "title": "Liga Campionilor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Liga%20Campionilor",
         "pubdate": "Tue, 26 Nov 2024 16:00:00 +0200"
@@ -93,10 +98,5 @@
         "title": "Igor Dodon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Igor%20Dodon",
         "pubdate": "Tue, 26 Nov 2024 00:00:00 +0200"
-    },
-    {
-        "title": "Al Sadd  al-hilal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Al%20Sadd%20%20al-hilal",
-        "pubdate": "Tue, 26 Nov 2024 19:00:00 +0200"
     }
 ]
