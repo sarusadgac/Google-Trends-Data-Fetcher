@@ -3,9 +3,8 @@ Manchester City fc
 Burnley
 Aberdeen fc
 Sunderland
-Champions League results
+Sheffield United
 Sporting vs Arsenal
-Man City vs Feyenoord
 Bayern vs PSG
 Barcelona vs Brest
 Slovan Bratislava vs Milan
@@ -16,5 +15,6 @@ Atletico Madrid
 Liverpool vs Real Madrid
 Europa League
 Norwich vs Plymouth
+Man City vs Feyenoord
 Newcastle vs West Ham
-UEFA Champions League
+Champions League fixtures

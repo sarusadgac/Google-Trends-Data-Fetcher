@@ -30,8 +30,8 @@
         "pubdate": "Tue, 26 Nov 2024 15:00:00 -0500"
     },
     {
-        "title": "Inter - RB Leipzig",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Inter%20-%20RB%20Leipzig",
+        "title": "Inter  RB Leipzig",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Inter%20%20RB%20Leipzig",
         "pubdate": "Tue, 26 Nov 2024 16:00:00 -0500"
     },
     {
@@ -60,9 +60,19 @@
         "pubdate": "Tue, 26 Nov 2024 14:00:00 -0500"
     },
     {
+        "title": "Fluminense",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Fluminense",
+        "pubdate": "Tue, 26 Nov 2024 19:00:00 -0500"
+    },
+    {
         "title": "Europa League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Europa%20League",
         "pubdate": "Tue, 26 Nov 2024 18:00:00 -0500"
+    },
+    {
+        "title": "Newell's  Independiente",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Newell's%20%20Independiente",
+        "pubdate": "Tue, 26 Nov 2024 20:00:00 -0500"
     },
     {
         "title": "Barcelona  Stade Brestois",
@@ -85,18 +95,8 @@
         "pubdate": "Mon, 25 Nov 2024 11:00:00 -0500"
     },
     {
-        "title": "Newcastle - West Ham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Newcastle%20-%20West%20Ham",
-        "pubdate": "Mon, 25 Nov 2024 15:00:00 -0500"
-    },
-    {
         "title": "Rebelde Way",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Rebelde%20Way",
         "pubdate": "Mon, 25 Nov 2024 16:00:00 -0500"
-    },
-    {
-        "title": "Adidas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Adidas",
-        "pubdate": "Mon, 25 Nov 2024 22:00:00 -0500"
     }
 ]
