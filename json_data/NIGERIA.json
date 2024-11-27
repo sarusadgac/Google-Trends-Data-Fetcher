@@ -1,7 +1,7 @@
 [
     {
-        "title": "Man City fc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Man%20City%20fc",
+        "title": "Man City FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Man%20City%20FC",
         "pubdate": "Wed, 27 Nov 2024 00:00:00 +0100"
     },
     {
@@ -33,6 +33,11 @@
         "title": "UEFA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#UEFA",
         "pubdate": "Wed, 27 Nov 2024 08:00:00 +0100"
+    },
+    {
+        "title": "Itel S25 Ultra",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Itel%20S25%20Ultra",
+        "pubdate": "Wed, 27 Nov 2024 15:00:00 +0100"
     },
     {
         "title": "Sporting vs Arsenal",
@@ -80,11 +85,6 @@
         "pubdate": "Tue, 26 Nov 2024 22:00:00 +0100"
     },
     {
-        "title": "Atletico Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Atletico%20Madrid",
-        "pubdate": "Tue, 26 Nov 2024 20:00:00 +0100"
-    },
-    {
         "title": "Champions League fixtures",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Champions%20League%20fixtures",
         "pubdate": "Tue, 26 Nov 2024 07:00:00 +0100"
@@ -95,8 +95,8 @@
         "pubdate": "Tue, 26 Nov 2024 14:00:00 +0100"
     },
     {
-        "title": "Yahaya Bello",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Yahaya%20Bello",
-        "pubdate": "Tue, 26 Nov 2024 18:00:00 +0100"
+        "title": "Atletico Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Atletico%20Madrid",
+        "pubdate": "Tue, 26 Nov 2024 20:00:00 +0100"
     }
 ]
