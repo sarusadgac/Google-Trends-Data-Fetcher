@@ -1,10 +1,5 @@
 [
     {
-        "title": "Futbol hoy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Futbol%20hoy",
-        "pubdate": "Wed, 27 Nov 2024 00:00:00 +0100"
-    },
-    {
         "title": "Mika",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Mika",
         "pubdate": "Wed, 27 Nov 2024 00:00:00 +0100"
@@ -20,8 +15,18 @@
         "pubdate": "Wed, 27 Nov 2024 01:00:00 +0100"
     },
     {
+        "title": "Sorteo Euromillones",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Sorteo%20Euromillones",
+        "pubdate": "Wed, 27 Nov 2024 07:00:00 +0100"
+    },
+    {
         "title": "Barcelona - Stade Brestois",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Barcelona%20-%20Stade%20Brestois",
+        "pubdate": "Tue, 26 Nov 2024 14:00:00 +0100"
+    },
+    {
+        "title": "Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Champions%20League",
         "pubdate": "Tue, 26 Nov 2024 12:00:00 +0100"
     },
     {
@@ -83,11 +88,6 @@
         "title": "Almería - Córdoba",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Almer%C3%ADa%20-%20C%C3%B3rdoba",
         "pubdate": "Tue, 26 Nov 2024 20:00:00 +0100"
-    },
-    {
-        "title": "Biznaga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Biznaga",
-        "pubdate": "Tue, 26 Nov 2024 23:00:00 +0100"
     },
     {
         "title": "Audiencias ayer",
