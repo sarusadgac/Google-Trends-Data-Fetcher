@@ -5,10 +5,11 @@ Man City fc
 Champions league standings
 Atlanta
 Europa League
+Hugging Face
 Itel S25 Ultra
 UEFA
+Man City vs Feyenoord
 Sporting vs Arsenal
-Barcelona vs Brest
 Bayern vs PSG
 Slovan Bratislava vs Milan
 Champions League table
@@ -17,4 +18,3 @@ Liverpool vs Real Madrid
 Barca
 Champions League fixtures
 Port Harcourt Refinery
-Atletico Madrid

@@ -1,5 +1,10 @@
 [
     {
+        "title": "Sturm  Girona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Sturm%20%20Girona",
+        "pubdate": "Wed, 27 Nov 2024 18:00:00 +0100"
+    },
+    {
         "title": "Spotify Wrapped",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Spotify%20Wrapped",
         "pubdate": "Wed, 27 Nov 2024 15:00:00 +0100"
@@ -8,6 +13,11 @@
         "title": "COPE",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#COPE",
         "pubdate": "Wed, 27 Nov 2024 11:00:00 +0100"
+    },
+    {
+        "title": "Ibi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ibi",
+        "pubdate": "Wed, 27 Nov 2024 16:00:00 +0100"
     },
     {
         "title": "Huelga de autobuses Madrid",
@@ -20,9 +30,9 @@
         "pubdate": "Wed, 27 Nov 2024 00:00:00 +0100"
     },
     {
-        "title": "Sorteo Euromillones",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Sorteo%20Euromillones",
-        "pubdate": "Wed, 27 Nov 2024 07:00:00 +0100"
+        "title": "Playa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Playa",
+        "pubdate": "Wed, 27 Nov 2024 19:00:00 +0100"
     },
     {
         "title": "Juan Lobato PSOE-Madrid",
@@ -30,14 +40,19 @@
         "pubdate": "Wed, 27 Nov 2024 12:00:00 +0100"
     },
     {
+        "title": "Sorteo Euromillones",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Sorteo%20Euromillones",
+        "pubdate": "Wed, 27 Nov 2024 07:00:00 +0100"
+    },
+    {
+        "title": "Levante - Málaga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Levante%20-%20M%C3%A1laga",
+        "pubdate": "Wed, 27 Nov 2024 19:00:00 +0100"
+    },
+    {
         "title": "Lewandowski",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Lewandowski",
         "pubdate": "Wed, 27 Nov 2024 01:00:00 +0100"
-    },
-    {
-        "title": "Europa League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Europa%20League",
-        "pubdate": "Wed, 27 Nov 2024 15:00:00 +0100"
     },
     {
         "title": "Aldaia",
@@ -45,29 +60,14 @@
         "pubdate": "Wed, 27 Nov 2024 11:00:00 +0100"
     },
     {
-        "title": "Ibi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ibi",
-        "pubdate": "Wed, 27 Nov 2024 16:00:00 +0100"
+        "title": "Europa League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Europa%20League",
+        "pubdate": "Wed, 27 Nov 2024 15:00:00 +0100"
     },
     {
-        "title": "Dia del maestro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Dia%20del%20maestro",
+        "title": "Dia del Maestro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Dia%20del%20Maestro",
         "pubdate": "Wed, 27 Nov 2024 14:00:00 +0100"
-    },
-    {
-        "title": "Stray Kids",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Stray%20Kids",
-        "pubdate": "Wed, 27 Nov 2024 14:00:00 +0100"
-    },
-    {
-        "title": "Girona FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Girona%20FC",
-        "pubdate": "Wed, 27 Nov 2024 18:00:00 +0100"
-    },
-    {
-        "title": "Mika",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Mika",
-        "pubdate": "Wed, 27 Nov 2024 00:00:00 +0100"
     },
     {
         "title": "Benito Lertxundi",
@@ -75,28 +75,28 @@
         "pubdate": "Wed, 27 Nov 2024 17:00:00 +0100"
     },
     {
+        "title": "Stray Kids",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Stray%20Kids",
+        "pubdate": "Wed, 27 Nov 2024 14:00:00 +0100"
+    },
+    {
+        "title": "Mika",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Mika",
+        "pubdate": "Wed, 27 Nov 2024 00:00:00 +0100"
+    },
+    {
         "title": "Grifols",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Grifols",
         "pubdate": "Wed, 27 Nov 2024 15:00:00 +0100"
     },
     {
-        "title": "Young Boys  Atalanta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Young%20Boys%20%20Atalanta",
-        "pubdate": "Wed, 27 Nov 2024 00:00:00 +0100"
-    },
-    {
-        "title": "Andreu Buenafuente The Chicken",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Andreu%20Buenafuente%20The%20Chicken",
+        "title": "Disney Channel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Disney%20Channel",
         "pubdate": "Wed, 27 Nov 2024 17:00:00 +0100"
     },
     {
         "title": "Castore",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Castore",
-        "pubdate": "Wed, 27 Nov 2024 17:00:00 +0100"
-    },
-    {
-        "title": "Disney Channel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Disney%20Channel",
         "pubdate": "Wed, 27 Nov 2024 17:00:00 +0100"
     }
 ]
