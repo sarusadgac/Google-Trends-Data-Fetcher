@@ -1,10 +1,5 @@
 [
     {
-        "title": "Ticketmaster",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ticketmaster",
-        "pubdate": "Wed, 27 Nov 2024 10:00:00 +0100"
-    },
-    {
         "title": "COPE",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#COPE",
         "pubdate": "Wed, 27 Nov 2024 11:00:00 +0100"
@@ -43,6 +38,11 @@
         "title": "Nunca mas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Nunca%20mas",
         "pubdate": "Wed, 27 Nov 2024 01:00:00 +0100"
+    },
+    {
+        "title": "Dia del maestro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Dia%20del%20maestro",
+        "pubdate": "Wed, 27 Nov 2024 14:00:00 +0100"
     },
     {
         "title": "Puro Latino",
@@ -85,14 +85,14 @@
         "pubdate": "Tue, 26 Nov 2024 23:00:00 +0100"
     },
     {
-        "title": "Hugo Silva",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Hugo%20Silva",
-        "pubdate": "Tue, 26 Nov 2024 23:00:00 +0100"
-    },
-    {
         "title": "Copa del Rey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Copa%20del%20Rey",
         "pubdate": "Tue, 26 Nov 2024 20:00:00 +0100"
+    },
+    {
+        "title": "Hugo Silva",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Hugo%20Silva",
+        "pubdate": "Tue, 26 Nov 2024 23:00:00 +0100"
     },
     {
         "title": "Sporting Lisboa  Arsenal",

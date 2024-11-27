@@ -30,6 +30,11 @@
         "pubdate": "Wed, 27 Nov 2024 09:00:00 +0800"
     },
     {
+        "title": "Estafa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Estafa",
+        "pubdate": "Wed, 27 Nov 2024 09:00:00 +0800"
+    },
+    {
         "title": "PBA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#PBA",
         "pubdate": "Wed, 27 Nov 2024 20:00:00 +0800"
@@ -93,10 +98,5 @@
         "title": "Celtics vs Clippers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Celtics%20vs%20Clippers",
         "pubdate": "Tue, 26 Nov 2024 10:00:00 +0800"
-    },
-    {
-        "title": "Estafa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Estafa",
-        "pubdate": "Tue, 26 Nov 2024 17:00:00 +0800"
     }
 ]
