@@ -20,9 +20,19 @@
         "pubdate": "Wed, 27 Nov 2024 07:00:00 +0100"
     },
     {
+        "title": "Lewandowski",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Lewandowski",
+        "pubdate": "Wed, 27 Nov 2024 01:00:00 +0100"
+    },
+    {
         "title": "Juan Lobato PSOE-Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Juan%20Lobato%20PSOE-Madrid",
         "pubdate": "Wed, 27 Nov 2024 12:00:00 +0100"
+    },
+    {
+        "title": "Europa League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Europa%20League",
+        "pubdate": "Wed, 27 Nov 2024 15:00:00 +0100"
     },
     {
         "title": "Aldaia",
@@ -35,24 +45,29 @@
         "pubdate": "Wed, 27 Nov 2024 00:00:00 +0100"
     },
     {
-        "title": "Stray Kids",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Stray%20Kids",
-        "pubdate": "Wed, 27 Nov 2024 14:00:00 +0100"
-    },
-    {
         "title": "Dia del maestro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Dia%20del%20maestro",
         "pubdate": "Wed, 27 Nov 2024 14:00:00 +0100"
     },
     {
-        "title": "Young Boys  Atalanta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Young%20Boys%20%20Atalanta",
-        "pubdate": "Wed, 27 Nov 2024 00:00:00 +0100"
+        "title": "Stray Kids",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Stray%20Kids",
+        "pubdate": "Wed, 27 Nov 2024 14:00:00 +0100"
+    },
+    {
+        "title": "Huelga de autobuses Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Huelga%20de%20autobuses%20Madrid",
+        "pubdate": "Wed, 27 Nov 2024 12:00:00 +0100"
     },
     {
         "title": "Ibi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ibi",
         "pubdate": "Wed, 27 Nov 2024 16:00:00 +0100"
+    },
+    {
+        "title": "Young Boys  Atalanta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Young%20Boys%20%20Atalanta",
+        "pubdate": "Wed, 27 Nov 2024 00:00:00 +0100"
     },
     {
         "title": "Grifols",
@@ -65,38 +80,23 @@
         "pubdate": "Wed, 27 Nov 2024 08:00:00 +0100"
     },
     {
+        "title": "Benito Lertxundi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Benito%20Lertxundi",
+        "pubdate": "Wed, 27 Nov 2024 17:00:00 +0100"
+    },
+    {
+        "title": "Castore",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Castore",
+        "pubdate": "Wed, 27 Nov 2024 17:00:00 +0100"
+    },
+    {
         "title": "Nunca mas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Nunca%20mas",
         "pubdate": "Wed, 27 Nov 2024 01:00:00 +0100"
     },
     {
-        "title": "Puro Latino",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Puro%20Latino",
-        "pubdate": "Wed, 27 Nov 2024 09:00:00 +0100"
-    },
-    {
-        "title": "Barcelona - Stade Brestois",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Barcelona%20-%20Stade%20Brestois",
-        "pubdate": "Tue, 26 Nov 2024 14:00:00 +0100"
-    },
-    {
-        "title": "Sparta Praha  Atlético Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Sparta%20Praha%20%20Atl%C3%A9tico%20Madrid",
-        "pubdate": "Tue, 26 Nov 2024 18:00:00 +0100"
-    },
-    {
-        "title": "Manchester City - Feyenoord",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Manchester%20City%20-%20Feyenoord",
-        "pubdate": "Tue, 26 Nov 2024 21:00:00 +0100"
-    },
-    {
-        "title": "Bayern  PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Bayern%20%20PSG",
-        "pubdate": "Tue, 26 Nov 2024 21:00:00 +0100"
-    },
-    {
-        "title": "Copa del Rey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Copa%20del%20Rey",
-        "pubdate": "Tue, 26 Nov 2024 20:00:00 +0100"
+        "title": "Andreu Buenafuente The Chicken",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Andreu%20Buenafuente%20The%20Chicken",
+        "pubdate": "Wed, 27 Nov 2024 17:00:00 +0100"
     }
 ]
