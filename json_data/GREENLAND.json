@@ -1,13 +1,8 @@
 [
     {
-        "title": "Inter – RB Leipzig",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Inter%20%E2%80%93%20RB%20Leipzig",
-        "pubdate": "Tue, 26 Nov 2024 21:00:00 +0100"
-    },
-    {
-        "title": "Eloise",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Eloise",
-        "pubdate": "Tue, 26 Nov 2024 01:00:00 -0800"
+        "title": "Манчестер Сити – Фейеноорд",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%9C%D0%B0%D0%BD%D1%87%D0%B5%D1%81%D1%82%D0%B5%D1%80%20%D0%A1%D0%B8%D1%82%D0%B8%20%E2%80%93%20%D0%A4%D0%B5%D0%B9%D0%B5%D0%BD%D0%BE%D0%BE%D1%80%D0%B4",
+        "pubdate": "Wed, 27 Nov 2024 00:00:00 +0300"
     },
     {
         "title": "能登半島地震",
@@ -15,9 +10,19 @@
         "pubdate": "Wed, 27 Nov 2024 00:00:00 +0900"
     },
     {
-        "title": "Barcelona vs Brest",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Barcelona%20vs%20Brest",
-        "pubdate": "Wed, 27 Nov 2024 01:30:00 +0530"
+        "title": "South Africa vs Sri Lanka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#South%20Africa%20vs%20Sri%20Lanka",
+        "pubdate": "Wed, 27 Nov 2024 13:30:00 +0530"
+    },
+    {
+        "title": "Inter – RB Leipzig",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Inter%20%E2%80%93%20RB%20Leipzig",
+        "pubdate": "Tue, 26 Nov 2024 21:00:00 +0100"
+    },
+    {
+        "title": "Spurs vs Jazz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Spurs%20vs%20Jazz",
+        "pubdate": "Wed, 27 Nov 2024 00:00:00 -0800"
     },
     {
         "title": "Spotify Wrapped 2024",
@@ -25,9 +30,9 @@
         "pubdate": "Wed, 27 Nov 2024 07:00:00 +0000"
     },
     {
-        "title": "曼城",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E6%9B%BC%E5%9F%8E",
-        "pubdate": "Wed, 27 Nov 2024 08:00:00 +0800"
+        "title": "姜濤",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%A7%9C%E6%BF%A4",
+        "pubdate": "Wed, 27 Nov 2024 10:00:00 +0800"
     },
     {
         "title": "Nicolas Sarkozy",
@@ -35,68 +40,63 @@
         "pubdate": "Wed, 27 Nov 2024 01:00:00 +0100"
     },
     {
-        "title": "Манчестер Сити – Фейеноорд",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%9C%D0%B0%D0%BD%D1%87%D0%B5%D1%81%D1%82%D0%B5%D1%80%20%D0%A1%D0%B8%D1%82%D0%B8%20%E2%80%93%20%D0%A4%D0%B5%D0%B9%D0%B5%D0%BD%D0%BE%D0%BE%D1%80%D0%B4",
+        "title": "Manchester City - Feyenoord",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Manchester%20City%20-%20Feyenoord",
+        "pubdate": "Tue, 26 Nov 2024 15:00:00 -0500"
+    },
+    {
+        "title": "Suns vs Lakers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Suns%20vs%20Lakers",
+        "pubdate": "Wed, 27 Nov 2024 11:00:00 +0800"
+    },
+    {
+        "title": "Manchester City fc",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Manchester%20City%20fc",
+        "pubdate": "Wed, 27 Nov 2024 01:00:00 +0200"
+    },
+    {
+        "title": "Барселона – Брест",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=UA#%D0%91%D0%B0%D1%80%D1%81%D0%B5%D0%BB%D0%BE%D0%BD%D0%B0%20%E2%80%93%20%D0%91%D1%80%D0%B5%D1%81%D1%82",
+        "pubdate": "Tue, 26 Nov 2024 09:00:00 +0200"
+    },
+    {
+        "title": "Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Manchester%20City",
+        "pubdate": "Wed, 27 Nov 2024 00:00:00 +0100"
+    },
+    {
+        "title": "ترتيب دوري ابطال اوروبا",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#%D8%AA%D8%B1%D8%AA%D9%8A%D8%A8%20%D8%AF%D9%88%D8%B1%D9%8A%20%D8%A7%D8%A8%D8%B7%D8%A7%D9%84%20%D8%A7%D9%88%D8%B1%D9%88%D8%A8%D8%A7",
         "pubdate": "Wed, 27 Nov 2024 00:00:00 +0300"
     },
     {
-        "title": "Sporting – Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Sporting%20%E2%80%93%20Arsenal",
-        "pubdate": "Wed, 27 Nov 2024 00:00:00 +0200"
+        "title": "Miller Dávid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Miller%20D%C3%A1vid",
+        "pubdate": "Wed, 27 Nov 2024 09:00:00 +0100"
     },
     {
-        "title": "Palmeiras",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Palmeiras",
-        "pubdate": "Wed, 27 Nov 2024 00:00:00 +0000"
+        "title": "Sam Benastick",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Sam%20Benastick",
+        "pubdate": "Wed, 27 Nov 2024 02:00:00 -0500"
     },
     {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Barcelona",
-        "pubdate": "Wed, 27 Nov 2024 01:00:00 +0100"
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Arsenal",
+        "pubdate": "Wed, 27 Nov 2024 10:00:00 +1300"
     },
     {
-        "title": "Influenza aviaria",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Influenza%20aviaria",
-        "pubdate": "Wed, 27 Nov 2024 02:00:00 +0100"
+        "title": "Phillip Hughes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Phillip%20Hughes",
+        "pubdate": "Wed, 27 Nov 2024 11:00:00 +1100"
+    },
+    {
+        "title": "Aumento salario minimo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Aumento%20salario%20minimo",
+        "pubdate": "Wed, 27 Nov 2024 00:00:00 -0600"
     },
     {
         "title": "AJet",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#AJet",
         "pubdate": "Wed, 27 Nov 2024 09:00:00 +0300"
-    },
-    {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Arsenal",
-        "pubdate": "Wed, 27 Nov 2024 08:00:00 +1100"
-    },
-    {
-        "title": "Tabela Ligi Mistrzów",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Tabela%20Ligi%20Mistrz%C3%B3w",
-        "pubdate": "Wed, 27 Nov 2024 00:00:00 +0100"
-    },
-    {
-        "title": "Europa League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Europa%20League",
-        "pubdate": "Wed, 27 Nov 2024 08:00:00 +0100"
-    },
-    {
-        "title": "Sporting vs Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Sporting%20vs%20Arsenal",
-        "pubdate": "Wed, 27 Nov 2024 04:00:00 +0800"
-    },
-    {
-        "title": "Mika",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Mika",
-        "pubdate": "Wed, 27 Nov 2024 00:00:00 +0100"
-    },
-    {
-        "title": "Tirage Euromillions",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tirage%20Euromillions",
-        "pubdate": "Wed, 27 Nov 2024 02:00:00 +0100"
-    },
-    {
-        "title": "P diddy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#P%20diddy",
-        "pubdate": "Wed, 27 Nov 2024 01:00:00 +0200"
     }
 ]
