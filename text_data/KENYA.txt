@@ -1,4 +1,5 @@
 Barcelona
+Live Score
 Manchester City fc
 Burnley
 Aberdeen fc
@@ -15,6 +16,5 @@ UEFA
 Atletico Madrid
 Liverpool vs Real Madrid
 Europa League
-Norwich vs Plymouth
 Man City vs Feyenoord
 Newcastle vs West Ham

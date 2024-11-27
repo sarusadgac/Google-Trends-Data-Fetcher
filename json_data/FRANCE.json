@@ -5,11 +5,6 @@
         "pubdate": "Wed, 27 Nov 2024 01:00:00 +0100"
     },
     {
-        "title": "Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Man%20City",
-        "pubdate": "Wed, 27 Nov 2024 00:00:00 +0100"
-    },
-    {
         "title": "Brest barca",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Brest%20barca",
         "pubdate": "Tue, 26 Nov 2024 20:00:00 +0100"
@@ -20,6 +15,11 @@
         "pubdate": "Tue, 26 Nov 2024 19:00:00 +0100"
     },
     {
+        "title": "Manchester City – Feyenoord",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Manchester%20City%20%E2%80%93%20Feyenoord",
+        "pubdate": "Tue, 26 Nov 2024 21:00:00 +0100"
+    },
+    {
         "title": "Anne Hidalgo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Anne%20Hidalgo",
         "pubdate": "Tue, 26 Nov 2024 10:00:00 +0100"
@@ -28,11 +28,6 @@
         "title": "André Lajoinie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Andr%C3%A9%20Lajoinie",
         "pubdate": "Tue, 26 Nov 2024 13:00:00 +0100"
-    },
-    {
-        "title": "Manchester City – Feyenoord",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Manchester%20City%20%E2%80%93%20Feyenoord",
-        "pubdate": "Tue, 26 Nov 2024 21:00:00 +0100"
     },
     {
         "title": "Michel Barnier",
@@ -73,6 +68,11 @@
         "title": "Paul Pogba",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Paul%20Pogba",
         "pubdate": "Tue, 26 Nov 2024 19:00:00 +0100"
+    },
+    {
+        "title": "Brigitte Macron",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Brigitte%20Macron",
+        "pubdate": "Tue, 26 Nov 2024 13:00:00 +0100"
     },
     {
         "title": "Burger King KFC",
