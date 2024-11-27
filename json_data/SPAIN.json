@@ -5,6 +5,11 @@
         "pubdate": "Wed, 27 Nov 2024 11:00:00 +0100"
     },
     {
+        "title": "Spotify Wrapped",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Spotify%20Wrapped",
+        "pubdate": "Wed, 27 Nov 2024 15:00:00 +0100"
+    },
+    {
         "title": "Barbie Ferreira",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Barbie%20Ferreira",
         "pubdate": "Wed, 27 Nov 2024 00:00:00 +0100"
@@ -15,9 +20,9 @@
         "pubdate": "Wed, 27 Nov 2024 07:00:00 +0100"
     },
     {
-        "title": "Mika",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Mika",
-        "pubdate": "Wed, 27 Nov 2024 00:00:00 +0100"
+        "title": "Juan Lobato PSOE-Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Juan%20Lobato%20PSOE-Madrid",
+        "pubdate": "Wed, 27 Nov 2024 12:00:00 +0100"
     },
     {
         "title": "Aldaia",
@@ -25,9 +30,14 @@
         "pubdate": "Wed, 27 Nov 2024 11:00:00 +0100"
     },
     {
-        "title": "Young Boys  Atalanta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Young%20Boys%20%20Atalanta",
+        "title": "Mika",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Mika",
         "pubdate": "Wed, 27 Nov 2024 00:00:00 +0100"
+    },
+    {
+        "title": "Stray Kids",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Stray%20Kids",
+        "pubdate": "Wed, 27 Nov 2024 14:00:00 +0100"
     },
     {
         "title": "Dia del maestro",
@@ -35,19 +45,24 @@
         "pubdate": "Wed, 27 Nov 2024 14:00:00 +0100"
     },
     {
-        "title": "Spotify Wrapped 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Spotify%20Wrapped%202024",
+        "title": "Young Boys  Atalanta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Young%20Boys%20%20Atalanta",
+        "pubdate": "Wed, 27 Nov 2024 00:00:00 +0100"
+    },
+    {
+        "title": "Ibi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Ibi",
+        "pubdate": "Wed, 27 Nov 2024 16:00:00 +0100"
+    },
+    {
+        "title": "Grifols",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Grifols",
         "pubdate": "Wed, 27 Nov 2024 15:00:00 +0100"
     },
     {
         "title": "Desmontando a lucia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Desmontando%20a%20lucia",
         "pubdate": "Wed, 27 Nov 2024 08:00:00 +0100"
-    },
-    {
-        "title": "Grifols",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Grifols",
-        "pubdate": "Wed, 27 Nov 2024 15:00:00 +0100"
     },
     {
         "title": "Nunca mas",
@@ -60,19 +75,9 @@
         "pubdate": "Wed, 27 Nov 2024 09:00:00 +0100"
     },
     {
-        "title": "Alcalde de Aldaia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Alcalde%20de%20Aldaia",
-        "pubdate": "Wed, 27 Nov 2024 15:00:00 +0100"
-    },
-    {
         "title": "Barcelona - Stade Brestois",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Barcelona%20-%20Stade%20Brestois",
         "pubdate": "Tue, 26 Nov 2024 14:00:00 +0100"
-    },
-    {
-        "title": "Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Champions%20League",
-        "pubdate": "Tue, 26 Nov 2024 12:00:00 +0100"
     },
     {
         "title": "Sparta Praha  Atlético Madrid",
@@ -88,11 +93,6 @@
         "title": "Bayern  PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Bayern%20%20PSG",
         "pubdate": "Tue, 26 Nov 2024 21:00:00 +0100"
-    },
-    {
-        "title": "Parla Escuela - Valencia CF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Parla%20Escuela%20-%20Valencia%20CF",
-        "pubdate": "Tue, 26 Nov 2024 19:00:00 +0100"
     },
     {
         "title": "Copa del Rey",
