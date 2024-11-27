@@ -1,5 +1,10 @@
 [
     {
+        "title": "COPE",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#COPE",
+        "pubdate": "Wed, 27 Nov 2024 11:00:00 +0100"
+    },
+    {
         "title": "Sorteo Euromillones",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Sorteo%20Euromillones",
         "pubdate": "Wed, 27 Nov 2024 07:00:00 +0100"
@@ -15,6 +20,11 @@
         "pubdate": "Wed, 27 Nov 2024 00:00:00 +0100"
     },
     {
+        "title": "Desmontando a lucia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Desmontando%20a%20lucia",
+        "pubdate": "Wed, 27 Nov 2024 08:00:00 +0100"
+    },
+    {
         "title": "Nunca mas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Nunca%20mas",
         "pubdate": "Wed, 27 Nov 2024 01:00:00 +0100"
@@ -27,6 +37,11 @@
     {
         "title": "Barcelona - Stade Brestois",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Barcelona%20-%20Stade%20Brestois",
+        "pubdate": "Tue, 26 Nov 2024 14:00:00 +0100"
+    },
+    {
+        "title": "Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Champions%20League",
         "pubdate": "Tue, 26 Nov 2024 12:00:00 +0100"
     },
     {
@@ -50,6 +65,11 @@
         "pubdate": "Tue, 26 Nov 2024 21:00:00 +0100"
     },
     {
+        "title": "Casa Marcial",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Casa%20Marcial",
+        "pubdate": "Tue, 26 Nov 2024 23:00:00 +0100"
+    },
+    {
         "title": "Hugo Silva",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Hugo%20Silva",
         "pubdate": "Tue, 26 Nov 2024 23:00:00 +0100"
@@ -60,19 +80,9 @@
         "pubdate": "Tue, 26 Nov 2024 21:00:00 +0100"
     },
     {
-        "title": "Casa Marcial",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Casa%20Marcial",
-        "pubdate": "Tue, 26 Nov 2024 23:00:00 +0100"
-    },
-    {
         "title": "Sporting Lisboa  Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Sporting%20Lisboa%20%20Arsenal",
         "pubdate": "Tue, 26 Nov 2024 22:00:00 +0100"
-    },
-    {
-        "title": "Slovan Bratislava - Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Slovan%20Bratislava%20-%20Milan",
-        "pubdate": "Tue, 26 Nov 2024 19:00:00 +0100"
     },
     {
         "title": "Copa del Rey",
@@ -80,23 +90,13 @@
         "pubdate": "Tue, 26 Nov 2024 20:00:00 +0100"
     },
     {
-        "title": "Futbol hoy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Futbol%20hoy",
-        "pubdate": "Tue, 26 Nov 2024 22:00:00 +0100"
+        "title": "Slovan Bratislava - Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Slovan%20Bratislava%20-%20Milan",
+        "pubdate": "Tue, 26 Nov 2024 19:00:00 +0100"
     },
     {
         "title": "Begoña gomez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Bego%C3%B1a%20gomez",
         "pubdate": "Tue, 26 Nov 2024 22:00:00 +0100"
-    },
-    {
-        "title": "Muere Gabriel Escarrer julia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Muere%20Gabriel%20Escarrer%20julia",
-        "pubdate": "Tue, 26 Nov 2024 16:00:00 +0100"
-    },
-    {
-        "title": "Almería - Córdoba",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Almer%C3%ADa%20-%20C%C3%B3rdoba",
-        "pubdate": "Tue, 26 Nov 2024 20:00:00 +0100"
     }
 ]
