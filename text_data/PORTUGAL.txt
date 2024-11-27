@@ -1,4 +1,5 @@
 Palmeiras
+Desporto
 Fluminense
 Inflação
 Sporting FC
@@ -6,8 +7,8 @@ Dolly Parton
 Inter  RB Leipzig
 Neemias Queta
 City  Feyenoord
-Bayern  PSG
 City
+Bayern  PSG
 Flamengo
 Sparta Praga  Atlético Madrid
 Slovan Bratislava  Milan
@@ -17,4 +18,3 @@ Graça Ribeiro Telles Caldeira
 FACEIT
 Monaco
 Morgan Freeman
-Youth League
