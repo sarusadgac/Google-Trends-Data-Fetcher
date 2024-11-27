@@ -5,6 +5,11 @@
         "pubdate": "Wed, 27 Nov 2024 01:00:00 +0100"
     },
     {
+        "title": "Wendy Williams",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Wendy%20Williams",
+        "pubdate": "Wed, 27 Nov 2024 08:00:00 +0100"
+    },
+    {
         "title": "Melodifestivalen 2025",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Melodifestivalen%202025",
         "pubdate": "Tue, 26 Nov 2024 13:00:00 +0100"
@@ -40,9 +45,9 @@
         "pubdate": "Tue, 26 Nov 2024 17:00:00 +0100"
     },
     {
-        "title": "Champions League matcher",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Champions%20League%20matcher",
-        "pubdate": "Tue, 26 Nov 2024 22:00:00 +0100"
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#PSG",
+        "pubdate": "Tue, 26 Nov 2024 23:00:00 +0100"
     },
     {
         "title": "CL",
@@ -80,6 +85,11 @@
         "pubdate": "Tue, 26 Nov 2024 18:00:00 +0100"
     },
     {
+        "title": "Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Champions%20League",
+        "pubdate": "Mon, 25 Nov 2024 22:00:00 +0100"
+    },
+    {
         "title": "Outlook",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Outlook",
         "pubdate": "Mon, 25 Nov 2024 14:00:00 +0100"
@@ -88,15 +98,5 @@
         "title": "Tre",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tre",
         "pubdate": "Mon, 25 Nov 2024 23:00:00 +0100"
-    },
-    {
-        "title": "Sarah Sjöström",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sarah%20Sj%C3%B6str%C3%B6m",
-        "pubdate": "Mon, 25 Nov 2024 20:00:00 +0100"
-    },
-    {
-        "title": "Newcastle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Newcastle",
-        "pubdate": "Mon, 25 Nov 2024 22:00:00 +0100"
     }
 ]

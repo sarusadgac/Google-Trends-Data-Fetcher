@@ -30,11 +30,6 @@
         "pubdate": "Tue, 26 Nov 2024 15:00:00 -0500"
     },
     {
-        "title": "Inter  RB Leipzig",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Inter%20%20RB%20Leipzig",
-        "pubdate": "Tue, 26 Nov 2024 16:00:00 -0500"
-    },
-    {
         "title": "UEFA Champions League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#UEFA%20Champions%20League",
         "pubdate": "Tue, 26 Nov 2024 04:00:00 -0500"
@@ -47,6 +42,11 @@
     {
         "title": "Atalanta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Atalanta",
+        "pubdate": "Tue, 26 Nov 2024 16:00:00 -0500"
+    },
+    {
+        "title": "Inter  RB Leipzig",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Inter%20%20RB%20Leipzig",
         "pubdate": "Tue, 26 Nov 2024 16:00:00 -0500"
     },
     {
@@ -65,14 +65,19 @@
         "pubdate": "Tue, 26 Nov 2024 19:00:00 -0500"
     },
     {
-        "title": "Parla Escuela - Valencia CF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Parla%20Escuela%20-%20Valencia%20CF",
-        "pubdate": "Tue, 26 Nov 2024 14:00:00 -0500"
+        "title": "Brasileirao",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Brasileirao",
+        "pubdate": "Tue, 26 Nov 2024 22:00:00 -0500"
     },
     {
         "title": "Cesar Inga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Cesar%20Inga",
         "pubdate": "Tue, 26 Nov 2024 22:00:00 -0500"
+    },
+    {
+        "title": "Parla Escuela - Valencia CF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Parla%20Escuela%20-%20Valencia%20CF",
+        "pubdate": "Tue, 26 Nov 2024 14:00:00 -0500"
     },
     {
         "title": "Fluminense",
@@ -93,10 +98,5 @@
         "title": "Barcelona  Stade Brestois",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Barcelona%20%20Stade%20Brestois",
         "pubdate": "Mon, 25 Nov 2024 12:00:00 -0500"
-    },
-    {
-        "title": "Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Champions%20League",
-        "pubdate": "Mon, 25 Nov 2024 11:00:00 -0500"
     }
 ]
