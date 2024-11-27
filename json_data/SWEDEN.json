@@ -25,6 +25,11 @@
         "pubdate": "Wed, 27 Nov 2024 08:00:00 +0100"
     },
     {
+        "title": "HP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#HP",
+        "pubdate": "Wed, 27 Nov 2024 14:00:00 +0100"
+    },
+    {
         "title": "Bayern munchen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bayern%20munchen",
         "pubdate": "Wed, 27 Nov 2024 01:00:00 +0100"
@@ -93,10 +98,5 @@
         "title": "Angela Merkel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Angela%20Merkel",
         "pubdate": "Tue, 26 Nov 2024 18:00:00 +0100"
-    },
-    {
-        "title": "Beirut",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Beirut",
-        "pubdate": "Tue, 26 Nov 2024 21:00:00 +0100"
     }
 ]
