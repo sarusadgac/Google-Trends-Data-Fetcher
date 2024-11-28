@@ -1,7 +1,6 @@
 INTERPOL
 Raúl Asencio
 Man City
-UEFA Champions League
 Aston Villa vs Juventus
 Champions League fixtures
 Manchester City fc
@@ -18,3 +17,4 @@ Bologna
 Gor Mahia
 Barca
 Shabana
+Sunderland
