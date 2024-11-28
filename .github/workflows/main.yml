@@ -4,7 +4,7 @@ name: Google Trends Data Fetcher
 on:
   workflow_dispatch:  # Allows manual triggering from the GitHub UI
   schedule:
-    - cron: '*/5 * * * *'  # Run every 5 minutes
+    - cron: '0 0 * * *'  # Run once a day at midnight (00:00 UTC)
 
 jobs:
   run-script:
