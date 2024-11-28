@@ -70,9 +70,19 @@
         "pubdate": "Wed, 27 Nov 2024 11:00:00 +0100"
     },
     {
+        "title": "Clasificación Champions",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Clasificaci%C3%B3n%20Champions",
+        "pubdate": "Wed, 27 Nov 2024 00:00:00 +0100"
+    },
+    {
         "title": "Aston Villa - Juventus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Aston%20Villa%20-%20Juventus",
         "pubdate": "Wed, 27 Nov 2024 22:00:00 +0100"
+    },
+    {
+        "title": "Mina El Hammani",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Mina%20El%20Hammani",
+        "pubdate": "Wed, 27 Nov 2024 23:00:00 +0100"
     },
     {
         "title": "Playa",
@@ -88,15 +98,5 @@
         "title": "Asencio",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Asencio",
         "pubdate": "Wed, 27 Nov 2024 22:00:00 +0100"
-    },
-    {
-        "title": "Dinamo Zagreb  Dortmund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Dinamo%20Zagreb%20%20Dortmund",
-        "pubdate": "Wed, 27 Nov 2024 22:00:00 +0100"
-    },
-    {
-        "title": "Benito Lertxundi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Benito%20Lertxundi",
-        "pubdate": "Wed, 27 Nov 2024 17:00:00 +0100"
     }
 ]
