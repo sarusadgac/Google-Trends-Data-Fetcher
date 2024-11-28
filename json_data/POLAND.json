@@ -20,6 +20,16 @@
         "pubdate": "Thu, 28 Nov 2024 02:00:00 +0100"
     },
     {
+        "title": "Krzysztof Ibisz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Krzysztof%20Ibisz",
+        "pubdate": "Thu, 28 Nov 2024 11:00:00 +0100"
+    },
+    {
+        "title": "Opady śniegu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Opady%20%C5%9Bniegu",
+        "pubdate": "Thu, 28 Nov 2024 09:00:00 +0100"
+    },
+    {
         "title": "Jagiellonia Białystok",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jagiellonia%20Bia%C5%82ystok",
         "pubdate": "Thu, 28 Nov 2024 09:00:00 +0100"
@@ -42,7 +52,7 @@
     {
         "title": "Aston Villa – Juventus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Aston%20Villa%20%E2%80%93%20Juventus",
-        "pubdate": "Wed, 27 Nov 2024 15:00:00 +0100"
+        "pubdate": "Wed, 27 Nov 2024 20:00:00 +0100"
     },
     {
         "title": "Turku",
@@ -55,14 +65,19 @@
         "pubdate": "Wed, 27 Nov 2024 00:00:00 +0100"
     },
     {
-        "title": "Crvena Zvezda – Stuttgart",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Crvena%20Zvezda%20%E2%80%93%20Stuttgart",
-        "pubdate": "Wed, 27 Nov 2024 19:00:00 +0100"
+        "title": "Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Juventus",
+        "pubdate": "Wed, 27 Nov 2024 15:00:00 +0100"
     },
     {
         "title": "Rubel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Rubel",
         "pubdate": "Wed, 27 Nov 2024 15:00:00 +0100"
+    },
+    {
+        "title": "Crvena Zvezda – Stuttgart",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Crvena%20Zvezda%20%E2%80%93%20Stuttgart",
+        "pubdate": "Wed, 27 Nov 2024 19:00:00 +0100"
     },
     {
         "title": "600 zł do prądu",
@@ -80,23 +95,8 @@
         "pubdate": "Wed, 27 Nov 2024 00:00:00 +0100"
     },
     {
-        "title": "Ostrzeżenie przed mgłą",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ostrze%C5%BCenie%20przed%20mg%C5%82%C4%85",
-        "pubdate": "Wed, 27 Nov 2024 08:00:00 +0100"
-    },
-    {
         "title": "Drwal z kurkami",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Drwal%20z%20kurkami",
         "pubdate": "Wed, 27 Nov 2024 19:00:00 +0100"
-    },
-    {
-        "title": "Monaco – Benfica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Monaco%20%E2%80%93%20Benfica",
-        "pubdate": "Wed, 27 Nov 2024 23:00:00 +0100"
-    },
-    {
-        "title": "Piotr Serafin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Piotr%20Serafin",
-        "pubdate": "Wed, 27 Nov 2024 16:00:00 +0100"
     }
 ]

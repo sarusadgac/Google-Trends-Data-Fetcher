@@ -5,8 +5,8 @@
         "pubdate": "Thu, 28 Nov 2024 08:00:00 +0100"
     },
     {
-        "title": "Thanksgiving!",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Thanksgiving!",
+        "title": "Thanksgiving",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Thanksgiving",
         "pubdate": "Thu, 28 Nov 2024 09:00:00 +0100"
     },
     {
@@ -60,11 +60,6 @@
         "pubdate": "Wed, 27 Nov 2024 21:00:00 +0100"
     },
     {
-        "title": "Girona FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Girona%20FC",
-        "pubdate": "Wed, 27 Nov 2024 20:00:00 +0100"
-    },
-    {
         "title": "Man City fc",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Man%20City%20fc",
         "pubdate": "Wed, 27 Nov 2024 00:00:00 +0100"
@@ -73,6 +68,11 @@
         "title": "Lille",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Lille",
         "pubdate": "Wed, 27 Nov 2024 23:00:00 +0100"
+    },
+    {
+        "title": "Liverpool vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Liverpool%20vs",
+        "pubdate": "Wed, 27 Nov 2024 22:00:00 +0100"
     },
     {
         "title": "Europa League",
