@@ -1,38 +1,8 @@
 [
     {
-        "title": "Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Champions%20League",
-        "pubdate": "Wed, 27 Nov 2024 10:00:00 -0800"
-    },
-    {
-        "title": "猪口議員",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E7%8C%AA%E5%8F%A3%E8%AD%B0%E5%93%A1",
-        "pubdate": "Thu, 28 Nov 2024 00:00:00 +0900"
-    },
-    {
         "title": "感恩節",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E6%84%9F%E6%81%A9%E7%AF%80",
         "pubdate": "Thu, 28 Nov 2024 08:00:00 +0800"
-    },
-    {
-        "title": "Stuttgart",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Stuttgart",
-        "pubdate": "Thu, 28 Nov 2024 03:00:00 +0100"
-    },
-    {
-        "title": "Liverpool – Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Liverpool%20%E2%80%93%20Real%20Madrid",
-        "pubdate": "Wed, 27 Nov 2024 13:00:00 +0100"
-    },
-    {
-        "title": "ЦБ РФ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%A6%D0%91%20%D0%A0%D0%A4",
-        "pubdate": "Thu, 28 Nov 2024 09:00:00 +0300"
-    },
-    {
-        "title": "Liverpool vs Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Liverpool%20vs%20Real%20Madrid",
-        "pubdate": "Wed, 27 Nov 2024 12:00:00 +0000"
     },
     {
         "title": "New Zealand vs England",
@@ -40,49 +10,34 @@
         "pubdate": "Thu, 28 Nov 2024 03:30:00 +0530"
     },
     {
+        "title": "Ligue des champions",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Ligue%20des%20champions",
+        "pubdate": "Wed, 27 Nov 2024 13:00:00 +0100"
+    },
+    {
+        "title": "Астон Вилла – Ювентус",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RU#%D0%90%D1%81%D1%82%D0%BE%D0%BD%20%D0%92%D0%B8%D0%BB%D0%BB%D0%B0%20%E2%80%93%20%D0%AE%D0%B2%D0%B5%D0%BD%D1%82%D1%83%D1%81",
+        "pubdate": "Thu, 28 Nov 2024 02:00:00 +0300"
+    },
+    {
         "title": "Thanksgiving",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Thanksgiving",
-        "pubdate": "Thu, 28 Nov 2024 08:00:00 +0100"
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Thanksgiving",
+        "pubdate": "Thu, 28 Nov 2024 09:00:00 +0100"
     },
     {
-        "title": "The Day of the Jackal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#The%20Day%20of%20the%20Jackal",
-        "pubdate": "Thu, 28 Nov 2024 08:00:00 +0100"
+        "title": "Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Champions%20League",
+        "pubdate": "Wed, 27 Nov 2024 10:00:00 -0800"
     },
     {
-        "title": "Marco Paulo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Marco%20Paulo",
-        "pubdate": "Thu, 28 Nov 2024 03:00:00 +0000"
+        "title": "Lucy Letby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Lucy%20Letby",
+        "pubdate": "Thu, 28 Nov 2024 00:00:00 +0000"
     },
     {
-        "title": "C1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#C1",
-        "pubdate": "Thu, 28 Nov 2024 00:00:00 +0700"
-    },
-    {
-        "title": "Haddad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Haddad",
-        "pubdate": "Wed, 27 Nov 2024 14:00:00 -0500"
-    },
-    {
-        "title": "地震",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%9C%B0%E9%9C%87",
-        "pubdate": "Thu, 28 Nov 2024 00:00:00 +0800"
-    },
-    {
-        "title": "Camilla Jakten på kjærligheten",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Camilla%20Jakten%20p%C3%A5%20kj%C3%A6rligheten",
-        "pubdate": "Thu, 28 Nov 2024 00:00:00 +0100"
-    },
-    {
-        "title": "Interpol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Interpol",
-        "pubdate": "Thu, 28 Nov 2024 01:00:00 +0300"
-    },
-    {
-        "title": "Θάνος Παπαδόπουλος",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%98%CE%AC%CE%BD%CE%BF%CF%82%20%CE%A0%CE%B1%CF%80%CE%B1%CE%B4%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82",
-        "pubdate": "Thu, 28 Nov 2024 00:00:00 +0200"
+        "title": "猪口議員",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E7%8C%AA%E5%8F%A3%E8%AD%B0%E5%93%A1",
+        "pubdate": "Thu, 28 Nov 2024 00:00:00 +0900"
     },
     {
         "title": "Стрий",
@@ -90,13 +45,58 @@
         "pubdate": "Thu, 28 Nov 2024 09:00:00 +0200"
     },
     {
-        "title": "Benfica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Benfica",
+        "title": "Θάνος Παπαδόπουλος",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%98%CE%AC%CE%BD%CE%BF%CF%82%20%CE%A0%CE%B1%CF%80%CE%B1%CE%B4%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82",
+        "pubdate": "Thu, 28 Nov 2024 00:00:00 +0200"
+    },
+    {
+        "title": "Celtic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Celtic",
+        "pubdate": "Thu, 28 Nov 2024 00:00:00 +0200"
+    },
+    {
+        "title": "Spotify Wrapped 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Spotify%20Wrapped%202024",
+        "pubdate": "Wed, 27 Nov 2024 14:00:00 +0100"
+    },
+    {
+        "title": "Silvia Pinal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Silvia%20Pinal",
+        "pubdate": "Thu, 28 Nov 2024 01:00:00 -0600"
+    },
+    {
+        "title": "Liverpool vs Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Liverpool%20vs%20Real%20Madrid",
+        "pubdate": "Thu, 28 Nov 2024 09:00:00 +1300"
+    },
+    {
+        "title": "แอสตันวิลลา พบ ยูเวนตุส",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TH#%E0%B9%81%E0%B8%AD%E0%B8%AA%E0%B8%95%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%A5%E0%B8%A5%E0%B8%B2%20%E0%B8%9E%E0%B8%9A%20%E0%B8%A2%E0%B8%B9%E0%B9%80%E0%B8%A7%E0%B8%99%E0%B8%95%E0%B8%B8%E0%B8%AA",
+        "pubdate": "Thu, 28 Nov 2024 01:00:00 +0700"
+    },
+    {
+        "title": "Camilla Jakten på kjærligheten",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Camilla%20Jakten%20p%C3%A5%20kj%C3%A6rligheten",
         "pubdate": "Thu, 28 Nov 2024 00:00:00 +0100"
     },
     {
-        "title": "Arne Slot",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Arne%20Slot",
+        "title": "The Day of the Jackal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#The%20Day%20of%20the%20Jackal",
+        "pubdate": "Thu, 28 Nov 2024 08:00:00 +0100"
+    },
+    {
+        "title": "Warriors x Thunder",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Warriors%20x%20Thunder",
+        "pubdate": "Thu, 28 Nov 2024 03:00:00 -0500"
+    },
+    {
+        "title": "Manchester City – Feyenoord",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Manchester%20City%20%E2%80%93%20Feyenoord",
+        "pubdate": "Wed, 27 Nov 2024 00:00:00 +0200"
+    },
+    {
+        "title": "Laura Escanes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Laura%20Escanes",
         "pubdate": "Thu, 28 Nov 2024 00:00:00 +0100"
     }
 ]
