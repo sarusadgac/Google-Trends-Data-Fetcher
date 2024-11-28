@@ -70,11 +70,6 @@
         "pubdate": "Wed, 27 Nov 2024 11:00:00 +0100"
     },
     {
-        "title": "Isabel Díaz Ayuso",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Isabel%20D%C3%ADaz%20Ayuso",
-        "pubdate": "Wed, 27 Nov 2024 12:00:00 +0100"
-    },
-    {
         "title": "Futbol hoy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Futbol%20hoy",
         "pubdate": "Wed, 27 Nov 2024 00:00:00 +0100"
@@ -88,6 +83,11 @@
         "title": "Playa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Playa",
         "pubdate": "Wed, 27 Nov 2024 19:00:00 +0100"
+    },
+    {
+        "title": "Juan Lobato PSOE Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Juan%20Lobato%20PSOE%20Madrid",
+        "pubdate": "Wed, 27 Nov 2024 12:00:00 +0100"
     },
     {
         "title": "Clasificación Champions",

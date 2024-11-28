@@ -6,7 +6,6 @@ Palmeiras
 Liverpool  Real Madrid
 Plutonio MEO Arena
 Liga Europa
-Flamengo
 Aston Villa  Juventus
 Vasco da Gama
 Monaco fc
@@ -18,3 +17,4 @@ ANTENA 1
 Atlético-MG  Juventude
 João Palha Ribeiro Telles
 Cia
+Claudia Nayara
