@@ -5,14 +5,14 @@
         "pubdate": "Thu, 28 Nov 2024 00:00:00 +0100"
     },
     {
-        "title": "Juana Acosta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Juana%20Acosta",
-        "pubdate": "Thu, 28 Nov 2024 01:00:00 +0100"
-    },
-    {
         "title": "Camavinga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Camavinga",
         "pubdate": "Thu, 28 Nov 2024 00:00:00 +0100"
+    },
+    {
+        "title": "Juana Acosta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Juana%20Acosta",
+        "pubdate": "Thu, 28 Nov 2024 01:00:00 +0100"
     },
     {
         "title": "Marcial Dorado",
@@ -28,6 +28,11 @@
         "title": "PSV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#PSV",
         "pubdate": "Thu, 28 Nov 2024 01:00:00 +0100"
+    },
+    {
+        "title": "Alejandra Rubio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Alejandra%20Rubio",
+        "pubdate": "Thu, 28 Nov 2024 07:00:00 +0100"
     },
     {
         "title": "Sturm  Girona",
@@ -93,10 +98,5 @@
         "title": "Clasificación Champions",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Clasificaci%C3%B3n%20Champions",
         "pubdate": "Wed, 27 Nov 2024 00:00:00 +0100"
-    },
-    {
-        "title": "Asencio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ES#Asencio",
-        "pubdate": "Wed, 27 Nov 2024 22:00:00 +0100"
     }
 ]
