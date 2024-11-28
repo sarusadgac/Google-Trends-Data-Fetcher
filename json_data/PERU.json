@@ -10,8 +10,8 @@
         "pubdate": "Wed, 27 Nov 2024 15:00:00 -0500"
     },
     {
-        "title": "Dinamo Zagreb.  Dortmund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Dinamo%20Zagreb.%20%20Dortmund",
+        "title": "Dinamo Zagreb  Dortmund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Dinamo%20Zagreb%20%20Dortmund",
         "pubdate": "Wed, 27 Nov 2024 15:00:00 -0500"
     },
     {
@@ -35,18 +35,13 @@
         "pubdate": "Wed, 27 Nov 2024 15:00:00 -0500"
     },
     {
-        "title": "PSV  Shakhtar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#PSV%20%20Shakhtar",
-        "pubdate": "Wed, 27 Nov 2024 17:00:00 -0500"
-    },
-    {
         "title": "Spotify Wrapped 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Spotify%20Wrapped%202024",
         "pubdate": "Wed, 27 Nov 2024 15:00:00 -0500"
     },
     {
-        "title": "Tabla de la Champions",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Tabla%20de%20la%20Champions",
+        "title": "PSV  Shakhtar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#PSV%20%20Shakhtar",
         "pubdate": "Wed, 27 Nov 2024 17:00:00 -0500"
     },
     {
@@ -98,5 +93,10 @@
         "title": "Barcelona  Stade Brestois",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Barcelona%20%20Stade%20Brestois",
         "pubdate": "Tue, 26 Nov 2024 14:00:00 -0500"
+    },
+    {
+        "title": "Manchester City - Feyenoord",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Manchester%20City%20-%20Feyenoord",
+        "pubdate": "Tue, 26 Nov 2024 15:00:00 -0500"
     }
 ]
