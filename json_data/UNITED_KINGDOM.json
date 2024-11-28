@@ -30,11 +30,6 @@
         "pubdate": "Wed, 27 Nov 2024 07:00:00 +0000"
     },
     {
-        "title": "Fog warning",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Fog%20warning",
-        "pubdate": "Wed, 27 Nov 2024 20:00:00 +0000"
-    },
-    {
         "title": "Celtic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Celtic",
         "pubdate": "Wed, 27 Nov 2024 20:00:00 +0000"
@@ -98,5 +93,10 @@
         "title": "Dee Devlin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Dee%20Devlin",
         "pubdate": "Wed, 27 Nov 2024 15:00:00 +0000"
+    },
+    {
+        "title": "Groucho Club",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Groucho%20Club",
+        "pubdate": "Wed, 27 Nov 2024 12:00:00 +0000"
     }
 ]
