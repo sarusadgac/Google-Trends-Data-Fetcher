@@ -20,6 +20,16 @@
         "pubdate": "Thu, 28 Nov 2024 12:00:00 +0800"
     },
     {
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Chelsea",
+        "pubdate": "Thu, 28 Nov 2024 15:00:00 +0800"
+    },
+    {
+        "title": "Najib",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Najib",
+        "pubdate": "Thu, 28 Nov 2024 08:00:00 +0800"
+    },
+    {
         "title": "Liverpool vs Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Liverpool%20vs%20Real%20Madrid",
         "pubdate": "Wed, 27 Nov 2024 14:00:00 +0800"
@@ -60,11 +70,6 @@
         "pubdate": "Wed, 27 Nov 2024 18:00:00 +0800"
     },
     {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Barcelona",
-        "pubdate": "Wed, 27 Nov 2024 12:00:00 +0800"
-    },
-    {
         "title": "Dong Jun",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Dong%20Jun",
         "pubdate": "Wed, 27 Nov 2024 22:00:00 +0800"
@@ -93,10 +98,5 @@
         "title": "Scott Bessent",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Scott%20Bessent",
         "pubdate": "Tue, 26 Nov 2024 00:00:00 +0800"
-    },
-    {
-        "title": "Taiwan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Taiwan",
-        "pubdate": "Tue, 26 Nov 2024 19:00:00 +0800"
     }
 ]

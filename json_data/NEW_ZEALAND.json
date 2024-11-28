@@ -25,11 +25,6 @@
         "pubdate": "Thu, 28 Nov 2024 08:00:00 +1300"
     },
     {
-        "title": "Blackcaps",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Blackcaps",
-        "pubdate": "Thu, 28 Nov 2024 12:00:00 +1300"
-    },
-    {
         "title": "Arsenic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Arsenic",
         "pubdate": "Thu, 28 Nov 2024 10:00:00 +1300"
@@ -75,6 +70,11 @@
         "pubdate": "Wed, 27 Nov 2024 18:00:00 +1300"
     },
     {
+        "title": "Kiwibank mortgage rates",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Kiwibank%20mortgage%20rates",
+        "pubdate": "Wed, 27 Nov 2024 19:00:00 +1300"
+    },
+    {
         "title": "Zimbabwe vs Pakistan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Zimbabwe%20vs%20Pakistan",
         "pubdate": "Wed, 27 Nov 2024 01:00:00 +1300"
@@ -85,11 +85,6 @@
         "pubdate": "Wed, 27 Nov 2024 12:00:00 +1300"
     },
     {
-        "title": "American Airlines",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#American%20Airlines",
-        "pubdate": "Wed, 27 Nov 2024 17:00:00 +1300"
-    },
-    {
         "title": "iPhone 17",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#iPhone%2017",
         "pubdate": "Wed, 27 Nov 2024 01:00:00 +1300"
@@ -98,5 +93,10 @@
         "title": "Mortgage Rates",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Mortgage%20Rates",
         "pubdate": "Wed, 27 Nov 2024 22:00:00 +1300"
+    },
+    {
+        "title": "Shane Reti",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Shane%20Reti",
+        "pubdate": "Wed, 27 Nov 2024 16:00:00 +1300"
     }
 ]
