@@ -1,28 +1,68 @@
 [
     {
-        "title": "Powerball",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Powerball",
+        "title": "Jetstar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jetstar",
+        "pubdate": "Fri, 29 Nov 2024 09:00:00 +1100"
+    },
+    {
+        "title": "Europa League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Europa%20League",
+        "pubdate": "Fri, 29 Nov 2024 08:00:00 +1100"
+    },
+    {
+        "title": "Man United vs Bodø/Glimt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Man%20United%20vs%20Bod%C3%B8/Glimt",
+        "pubdate": "Fri, 29 Nov 2024 07:00:00 +1100"
+    },
+    {
+        "title": "NFL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#NFL",
+        "pubdate": "Fri, 29 Nov 2024 09:00:00 +1100"
+    },
+    {
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Chelsea",
+        "pubdate": "Fri, 29 Nov 2024 07:00:00 +1100"
+    },
+    {
+        "title": "Social media ban",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Social%20media%20ban",
+        "pubdate": "Fri, 29 Nov 2024 09:00:00 +1100"
+    },
+    {
+        "title": "Gregg Wallace",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Gregg%20Wallace",
+        "pubdate": "Fri, 29 Nov 2024 09:00:00 +1100"
+    },
+    {
+        "title": "Australian region tropical cyclone",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Australian%20region%20tropical%20cyclone",
+        "pubdate": "Fri, 29 Nov 2024 10:00:00 +1100"
+    },
+    {
+        "title": "Lions vs Bears",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Lions%20vs%20Bears",
+        "pubdate": "Fri, 29 Nov 2024 10:00:00 +1100"
+    },
+    {
+        "title": "NewJeans",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#NewJeans",
+        "pubdate": "Fri, 29 Nov 2024 12:00:00 +1100"
+    },
+    {
+        "title": "Powerball Results",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Powerball%20Results",
         "pubdate": "Thu, 28 Nov 2024 10:00:00 +1100"
     },
     {
-        "title": "Australian Open Golf",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Australian%20Open%20Golf",
-        "pubdate": "Thu, 28 Nov 2024 09:00:00 +1100"
-    },
-    {
-        "title": "Matildas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Matildas",
+        "title": "Matildas vs Brazil",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Matildas%20vs%20Brazil",
         "pubdate": "Thu, 28 Nov 2024 12:00:00 +1100"
     },
     {
-        "title": "Nissan collapse",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Nissan%20collapse",
-        "pubdate": "Thu, 28 Nov 2024 14:00:00 +1100"
-    },
-    {
-        "title": "New Zealand vs England",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#New%20Zealand%20vs%20England",
-        "pubdate": "Thu, 28 Nov 2024 10:00:00 +1100"
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Liverpool",
+        "pubdate": "Thu, 28 Nov 2024 08:00:00 +1100"
     },
     {
         "title": "Thanksgiving",
@@ -30,9 +70,19 @@
         "pubdate": "Thu, 28 Nov 2024 16:00:00 +1100"
     },
     {
-        "title": "Lindsay Lohan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Lindsay%20Lohan",
-        "pubdate": "Thu, 28 Nov 2024 00:00:00 +1100"
+        "title": "Australian Open Golf",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Australian%20Open%20Golf",
+        "pubdate": "Thu, 28 Nov 2024 09:00:00 +1100"
+    },
+    {
+        "title": "New Zealand vs England",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#New%20Zealand%20vs%20England",
+        "pubdate": "Thu, 28 Nov 2024 10:00:00 +1100"
+    },
+    {
+        "title": "Jetstar Black Friday",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jetstar%20Black%20Friday",
+        "pubdate": "Thu, 28 Nov 2024 15:00:00 +1100"
     },
     {
         "title": "Simon Birmingham",
@@ -40,63 +90,13 @@
         "pubdate": "Thu, 28 Nov 2024 17:00:00 +1100"
     },
     {
+        "title": "Lindsay Lohan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Lindsay%20Lohan",
+        "pubdate": "Thu, 28 Nov 2024 00:00:00 +1100"
+    },
+    {
         "title": "Joe Rogan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Joe%20Rogan",
         "pubdate": "Thu, 28 Nov 2024 10:00:00 +1100"
-    },
-    {
-        "title": "Aston Villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Aston%20Villa",
-        "pubdate": "Thu, 28 Nov 2024 12:00:00 +1100"
-    },
-    {
-        "title": "Ben Simmons",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ben%20Simmons",
-        "pubdate": "Thu, 28 Nov 2024 21:00:00 +1100"
-    },
-    {
-        "title": "Beau Webster",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Beau%20Webster",
-        "pubdate": "Thu, 28 Nov 2024 17:00:00 +1100"
-    },
-    {
-        "title": "Wayne Rooney",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Wayne%20Rooney",
-        "pubdate": "Thu, 28 Nov 2024 17:00:00 +1100"
-    },
-    {
-        "title": "Cervantes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Cervantes",
-        "pubdate": "Thu, 28 Nov 2024 21:00:00 +1100"
-    },
-    {
-        "title": "The Man From Snowy River",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#The%20Man%20From%20Snowy%20River",
-        "pubdate": "Thu, 28 Nov 2024 02:00:00 +1100"
-    },
-    {
-        "title": "Liverpool vs Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Liverpool%20vs%20Real%20Madrid",
-        "pubdate": "Wed, 27 Nov 2024 20:00:00 +1100"
-    },
-    {
-        "title": "Lidia Thorpe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Lidia%20Thorpe",
-        "pubdate": "Wed, 27 Nov 2024 18:00:00 +1100"
-    },
-    {
-        "title": "Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Man%20City",
-        "pubdate": "Wed, 27 Nov 2024 09:00:00 +1100"
-    },
-    {
-        "title": "Phillip Hughes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Phillip%20Hughes",
-        "pubdate": "Wed, 27 Nov 2024 11:00:00 +1100"
-    },
-    {
-        "title": "Spotify Wrapped 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Spotify%20Wrapped%202024",
-        "pubdate": "Wed, 27 Nov 2024 21:00:00 +1100"
     }
 ]
