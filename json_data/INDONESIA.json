@@ -1,5 +1,30 @@
 [
     {
+        "title": "Brighton vs Southampton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Brighton%20vs%20Southampton",
+        "pubdate": "Sat, 30 Nov 2024 03:00:00 +0700"
+    },
+    {
+        "title": "Cagliari vs Verona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Cagliari%20vs%20Verona",
+        "pubdate": "Sat, 30 Nov 2024 04:00:00 +0700"
+    },
+    {
+        "title": "Mallorca vs Valencia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Mallorca%20vs%20Valencia",
+        "pubdate": "Sat, 30 Nov 2024 04:00:00 +0700"
+    },
+    {
+        "title": "St. Pauli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#St.%20Pauli",
+        "pubdate": "Sat, 30 Nov 2024 04:00:00 +0700"
+    },
+    {
+        "title": "Al Nassr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Al%20Nassr",
+        "pubdate": "Fri, 29 Nov 2024 21:00:00 +0700"
+    },
+    {
         "title": "Heidenheim vs Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Heidenheim%20vs%20Chelsea",
         "pubdate": "Fri, 29 Nov 2024 00:00:00 +0700"
@@ -8,6 +33,11 @@
         "title": "Tottenham vs Roma",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Tottenham%20vs%20Roma",
         "pubdate": "Fri, 29 Nov 2024 01:00:00 +0700"
+    },
+    {
+        "title": "Kenaikan gaji guru Prabowo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Kenaikan%20gaji%20guru%20Prabowo",
+        "pubdate": "Fri, 29 Nov 2024 02:00:00 +0700"
     },
     {
         "title": "Real Sociedad vs Ajax",
@@ -20,83 +50,53 @@
         "pubdate": "Fri, 29 Nov 2024 05:00:00 +0700"
     },
     {
-        "title": "Copenhagen FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Copenhagen%20FC",
-        "pubdate": "Fri, 29 Nov 2024 05:00:00 +0700"
+        "title": "NewJeans",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#NewJeans",
+        "pubdate": "Fri, 29 Nov 2024 09:00:00 +0700"
     },
     {
-        "title": "Arne Slot",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Arne%20Slot",
-        "pubdate": "Fri, 29 Nov 2024 00:00:00 +0700"
+        "title": "Man utd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Man%20utd",
+        "pubdate": "Fri, 29 Nov 2024 04:00:00 +0700"
     },
     {
-        "title": "Persib",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Persib",
-        "pubdate": "Thu, 28 Nov 2024 02:00:00 +0700"
+        "title": "The Trunk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#The%20Trunk",
+        "pubdate": "Fri, 29 Nov 2024 20:00:00 +0700"
     },
     {
-        "title": "Info GTK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Info%20GTK",
-        "pubdate": "Thu, 28 Nov 2024 14:00:00 +0700"
+        "title": "UMP Jakarta 2025",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#UMP%20Jakarta%202025",
+        "pubdate": "Fri, 29 Nov 2024 23:00:00 +0700"
     },
     {
-        "title": "Aston Villa vs Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Aston%20Villa%20vs%20Juventus",
-        "pubdate": "Thu, 28 Nov 2024 03:00:00 +0700"
+        "title": "Adrian Wibowo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Adrian%20Wibowo",
+        "pubdate": "Fri, 29 Nov 2024 15:00:00 +0700"
     },
     {
-        "title": "Zhejiang vs Lion City Sailors",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Zhejiang%20vs%20Lion%20City%20Sailors",
-        "pubdate": "Thu, 28 Nov 2024 19:00:00 +0700"
+        "title": "Spotify Mod",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Spotify%20Mod",
+        "pubdate": "Fri, 29 Nov 2024 12:00:00 +0700"
     },
     {
-        "title": "Jadwal M6",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Jadwal%20M6",
-        "pubdate": "Thu, 28 Nov 2024 13:00:00 +0700"
+        "title": "Alvin Lim",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Alvin%20Lim",
+        "pubdate": "Fri, 29 Nov 2024 17:00:00 +0700"
     },
     {
-        "title": "Hari Korpri 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Hari%20Korpri%202024",
-        "pubdate": "Thu, 28 Nov 2024 09:00:00 +0700"
+        "title": "Film Moana",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Film%20Moana",
+        "pubdate": "Fri, 29 Nov 2024 18:00:00 +0700"
     },
     {
-        "title": "Lazio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Lazio",
-        "pubdate": "Thu, 28 Nov 2024 23:00:00 +0700"
+        "title": "Fiorentina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Fiorentina",
+        "pubdate": "Fri, 29 Nov 2024 06:00:00 +0700"
     },
     {
-        "title": "GTK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#GTK",
-        "pubdate": "Thu, 28 Nov 2024 14:00:00 +0700"
-    },
-    {
-        "title": "Pilkada Bandung Barat",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Pilkada%20Bandung%20Barat",
-        "pubdate": "Thu, 28 Nov 2024 11:00:00 +0700"
-    },
-    {
-        "title": "Pijar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Pijar",
-        "pubdate": "Thu, 28 Nov 2024 09:00:00 +0700"
-    },
-    {
-        "title": "PPG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#PPG",
-        "pubdate": "Thu, 28 Nov 2024 15:00:00 +0700"
-    },
-    {
-        "title": "Girona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Girona",
-        "pubdate": "Thu, 28 Nov 2024 01:00:00 +0700"
-    },
-    {
-        "title": "Axel Pons",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Axel%20Pons",
-        "pubdate": "Thu, 28 Nov 2024 05:00:00 +0700"
-    },
-    {
-        "title": "Hasil Pilkada Indramayu 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Hasil%20Pilkada%20Indramayu%202024",
-        "pubdate": "Thu, 28 Nov 2024 09:00:00 +0700"
+        "title": "UEFA Conference League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#UEFA%20Conference%20League",
+        "pubdate": "Fri, 29 Nov 2024 09:00:00 +0700"
     }
 ]

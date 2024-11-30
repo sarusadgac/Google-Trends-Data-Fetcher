@@ -1,8 +1,28 @@
 [
     {
-        "title": "AEGEAN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#AEGEAN",
-        "pubdate": "Fri, 29 Nov 2024 01:00:00 +0200"
+        "title": "Παναθηναικοσ μονακο",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%A0%CE%B1%CE%BD%CE%B1%CE%B8%CE%B7%CE%BD%CE%B1%CE%B9%CE%BA%CE%BF%CF%83%20%CE%BC%CE%BF%CE%BD%CE%B1%CE%BA%CE%BF",
+        "pubdate": "Fri, 29 Nov 2024 13:00:00 +0200"
+    },
+    {
+        "title": "Εγκαινια μετρο θεσσαλονικησ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%95%CE%B3%CE%BA%CE%B1%CE%B9%CE%BD%CE%B9%CE%B1%20%CE%BC%CE%B5%CF%84%CF%81%CE%BF%20%CE%B8%CE%B5%CF%83%CF%83%CE%B1%CE%BB%CE%BF%CE%BD%CE%B9%CE%BA%CE%B7%CF%83",
+        "pubdate": "Fri, 29 Nov 2024 20:00:00 +0200"
+    },
+    {
+        "title": "Mac",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#Mac",
+        "pubdate": "Fri, 29 Nov 2024 18:00:00 +0200"
+    },
+    {
+        "title": "Ξανθη",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%9E%CE%B1%CE%BD%CE%B8%CE%B7",
+        "pubdate": "Fri, 29 Nov 2024 11:00:00 +0200"
+    },
+    {
+        "title": "ΚΑΤΣΑΦΑΔΟΥ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%9A%CE%91%CE%A4%CE%A3%CE%91%CE%A6%CE%91%CE%94%CE%9F%CE%A5",
+        "pubdate": "Fri, 29 Nov 2024 21:00:00 +0200"
     },
     {
         "title": "Βαθμολογια ουεφα",
@@ -10,9 +30,54 @@
         "pubdate": "Fri, 29 Nov 2024 01:00:00 +0200"
     },
     {
+        "title": "Wizz Air",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#Wizz%20Air",
+        "pubdate": "Fri, 29 Nov 2024 10:00:00 +0200"
+    },
+    {
+        "title": "Διδασκαλου",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%94%CE%B9%CE%B4%CE%B1%CF%83%CE%BA%CE%B1%CE%BB%CE%BF%CF%85",
+        "pubdate": "Fri, 29 Nov 2024 18:00:00 +0200"
+    },
+    {
+        "title": "Αγιοσ ανδρεασ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%91%CE%B3%CE%B9%CE%BF%CF%83%20%CE%B1%CE%BD%CE%B4%CF%81%CE%B5%CE%B1%CF%83",
+        "pubdate": "Fri, 29 Nov 2024 10:00:00 +0200"
+    },
+    {
         "title": "ΑΠΟΣΤΟΛΑΚΗΣ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%91%CE%A0%CE%9F%CE%A3%CE%A4%CE%9F%CE%9B%CE%91%CE%9A%CE%97%CE%A3",
         "pubdate": "Fri, 29 Nov 2024 00:00:00 +0200"
+    },
+    {
+        "title": "Νεκροσ βατραχανθρωποσ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%9D%CE%B5%CE%BA%CF%81%CE%BF%CF%83%20%CE%B2%CE%B1%CF%84%CF%81%CE%B1%CF%87%CE%B1%CE%BD%CE%B8%CF%81%CF%89%CF%80%CE%BF%CF%83",
+        "pubdate": "Fri, 29 Nov 2024 23:00:00 +0200"
+    },
+    {
+        "title": "Volotea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#Volotea",
+        "pubdate": "Fri, 29 Nov 2024 18:00:00 +0200"
+    },
+    {
+        "title": "Ολυμπία Τελιγιορίδου",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%9F%CE%BB%CF%85%CE%BC%CF%80%CE%AF%CE%B1%20%CE%A4%CE%B5%CE%BB%CE%B9%CE%B3%CE%B9%CE%BF%CF%81%CE%AF%CE%B4%CE%BF%CF%85",
+        "pubdate": "Fri, 29 Nov 2024 18:00:00 +0200"
+    },
+    {
+        "title": "Ρυαναιρ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%A1%CF%85%CE%B1%CE%BD%CE%B1%CE%B9%CF%81",
+        "pubdate": "Fri, 29 Nov 2024 10:00:00 +0200"
+    },
+    {
+        "title": "Δωρο Χριστουγέννων",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%94%CF%89%CF%81%CE%BF%20%CE%A7%CF%81%CE%B9%CF%83%CF%84%CE%BF%CF%85%CE%B3%CE%AD%CE%BD%CE%BD%CF%89%CE%BD",
+        "pubdate": "Fri, 29 Nov 2024 20:00:00 +0200"
+    },
+    {
+        "title": "ΟΠΕΚΑ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%9F%CE%A0%CE%95%CE%9A%CE%91",
+        "pubdate": "Fri, 29 Nov 2024 02:00:00 +0200"
     },
     {
         "title": "Megalopolis",
@@ -20,83 +85,18 @@
         "pubdate": "Fri, 29 Nov 2024 02:00:00 +0200"
     },
     {
-        "title": "Ολυμπιακοσ ποδοσφαιρο",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%9F%CE%BB%CF%85%CE%BC%CF%80%CE%B9%CE%B1%CE%BA%CE%BF%CF%83%20%CF%80%CE%BF%CE%B4%CE%BF%CF%83%CF%86%CE%B1%CE%B9%CF%81%CE%BF",
-        "pubdate": "Fri, 29 Nov 2024 00:00:00 +0200"
+        "title": "Βαθμολογία Conference League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%92%CE%B1%CE%B8%CE%BC%CE%BF%CE%BB%CE%BF%CE%B3%CE%AF%CE%B1%20Conference%20League",
+        "pubdate": "Fri, 29 Nov 2024 01:00:00 +0200"
     },
     {
-        "title": "ΠΑΟΚ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%A0%CE%91%CE%9F%CE%9A",
-        "pubdate": "Thu, 28 Nov 2024 15:00:00 +0200"
+        "title": "ΑΕΚ αρησ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%91%CE%95%CE%9A%20%CE%B1%CF%81%CE%B7%CF%83",
+        "pubdate": "Fri, 29 Nov 2024 20:00:00 +0200"
     },
     {
-        "title": "SKY express",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#SKY%20express",
-        "pubdate": "Thu, 28 Nov 2024 13:00:00 +0200"
-    },
-    {
-        "title": "Θάνος Παπαδόπουλος",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%98%CE%AC%CE%BD%CE%BF%CF%82%20%CE%A0%CE%B1%CF%80%CE%B1%CE%B4%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82",
-        "pubdate": "Thu, 28 Nov 2024 00:00:00 +0200"
-    },
-    {
-        "title": "Παρτιζαν ολυμπιακοσ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%A0%CE%B1%CF%81%CF%84%CE%B9%CE%B6%CE%B1%CE%BD%20%CE%BF%CE%BB%CF%85%CE%BC%CF%80%CE%B9%CE%B1%CE%BA%CE%BF%CF%83",
-        "pubdate": "Thu, 28 Nov 2024 18:00:00 +0200"
-    },
-    {
-        "title": "Thanksgiving 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#Thanksgiving%202024",
-        "pubdate": "Thu, 28 Nov 2024 12:00:00 +0200"
-    },
-    {
-        "title": "Ελλη σταη",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%95%CE%BB%CE%BB%CE%B7%20%CF%83%CF%84%CE%B1%CE%B7",
-        "pubdate": "Thu, 28 Nov 2024 17:00:00 +0200"
-    },
-    {
-        "title": "Αλβανια",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%91%CE%BB%CE%B2%CE%B1%CE%BD%CE%B9%CE%B1",
-        "pubdate": "Thu, 28 Nov 2024 21:00:00 +0200"
-    },
-    {
-        "title": "Καιροσ κακοκαιρια",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%9A%CE%B1%CE%B9%CF%81%CE%BF%CF%83%20%CE%BA%CE%B1%CE%BA%CE%BF%CE%BA%CE%B1%CE%B9%CF%81%CE%B9%CE%B1",
-        "pubdate": "Thu, 28 Nov 2024 04:00:00 +0200"
-    },
-    {
-        "title": "ΟΠΕΚΑ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%9F%CE%A0%CE%95%CE%9A%CE%91",
-        "pubdate": "Thu, 28 Nov 2024 19:00:00 +0200"
-    },
-    {
-        "title": "Ταχιαοσ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%A4%CE%B1%CF%87%CE%B9%CE%B1%CE%BF%CF%83",
-        "pubdate": "Thu, 28 Nov 2024 17:00:00 +0200"
-    },
-    {
-        "title": "28 Νοεμβρίου γιορτή",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#28%20%CE%9D%CE%BF%CE%B5%CE%BC%CE%B2%CF%81%CE%AF%CE%BF%CF%85%20%CE%B3%CE%B9%CE%BF%CF%81%CF%84%CE%AE",
-        "pubdate": "Thu, 28 Nov 2024 08:00:00 +0200"
-    },
-    {
-        "title": "Diesel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#Diesel",
-        "pubdate": "Thu, 28 Nov 2024 18:00:00 +0200"
-    },
-    {
-        "title": "Πρινς",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%A0%CF%81%CE%B9%CE%BD%CF%82",
-        "pubdate": "Thu, 28 Nov 2024 21:00:00 +0200"
-    },
-    {
-        "title": "Prince",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#Prince",
-        "pubdate": "Thu, 28 Nov 2024 21:00:00 +0200"
-    },
-    {
-        "title": "Αυστραλία",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%91%CF%85%CF%83%CF%84%CF%81%CE%B1%CE%BB%CE%AF%CE%B1",
-        "pubdate": "Thu, 28 Nov 2024 22:00:00 +0200"
+        "title": "29 Νοεμβρίου γιορτή",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#29%20%CE%9D%CE%BF%CE%B5%CE%BC%CE%B2%CF%81%CE%AF%CE%BF%CF%85%20%CE%B3%CE%B9%CE%BF%CF%81%CF%84%CE%AE",
+        "pubdate": "Fri, 29 Nov 2024 10:00:00 +0200"
     }
 ]
