@@ -1,23 +1,63 @@
 [
     {
-        "title": "Tagesschau Damen und Herren",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tagesschau%20Damen%20und%20Herren",
-        "pubdate": "Sat, 30 Nov 2024 00:00:00 +0100"
+        "title": "Dortmund – Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dortmund%20%E2%80%93%20Bayern",
+        "pubdate": "Sat, 30 Nov 2024 11:00:00 +0100"
     },
     {
-        "title": "St. Pauli – Holstein",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#St.%20Pauli%20%E2%80%93%20Holstein",
-        "pubdate": "Fri, 29 Nov 2024 19:00:00 +0100"
+        "title": "Karin Baal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Karin%20Baal",
+        "pubdate": "Sat, 30 Nov 2024 11:00:00 +0100"
     },
     {
-        "title": "Schweiz – Deutschland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schweiz%20%E2%80%93%20Deutschland",
-        "pubdate": "Fri, 29 Nov 2024 20:00:00 +0100"
+        "title": "Werder Bremen – VfB Stuttgart",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Werder%20Bremen%20%E2%80%93%20VfB%20Stuttgart",
+        "pubdate": "Sat, 30 Nov 2024 16:00:00 +0100"
     },
     {
-        "title": "Black Friday Angebote",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Black%20Friday%20Angebote",
-        "pubdate": "Fri, 29 Nov 2024 18:00:00 +0100"
+        "title": "Helene Fischer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Helene%20Fischer",
+        "pubdate": "Sat, 30 Nov 2024 22:00:00 +0100"
+    },
+    {
+        "title": "Sky",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sky",
+        "pubdate": "Sat, 30 Nov 2024 17:00:00 +0100"
+    },
+    {
+        "title": "Joey Kelly",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Joey%20Kelly",
+        "pubdate": "Sat, 30 Nov 2024 22:00:00 +0100"
+    },
+    {
+        "title": "FC Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FC%20Barcelona",
+        "pubdate": "Sat, 30 Nov 2024 17:00:00 +0100"
+    },
+    {
+        "title": "Hauptbahnhof Münster",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hauptbahnhof%20M%C3%BCnster",
+        "pubdate": "Sat, 30 Nov 2024 18:00:00 +0100"
+    },
+    {
+        "title": "Biathlon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Biathlon",
+        "pubdate": "Sat, 30 Nov 2024 16:00:00 +0100"
+    },
+    {
+        "title": "Eltons 12",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eltons%2012",
+        "pubdate": "Sat, 30 Nov 2024 22:00:00 +0100"
+    },
+    {
+        "title": "Eintracht Braunschweig",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eintracht%20Braunschweig",
+        "pubdate": "Sat, 30 Nov 2024 15:00:00 +0100"
+    },
+    {
+        "title": "Bayern Dortmund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayern%20Dortmund",
+        "pubdate": "Fri, 29 Nov 2024 23:00:00 +0100"
     },
     {
         "title": "Borkum",
@@ -25,8 +65,28 @@
         "pubdate": "Fri, 29 Nov 2024 02:00:00 +0100"
     },
     {
+        "title": "Franca Lehfeldt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Franca%20Lehfeldt",
+        "pubdate": "Fri, 29 Nov 2024 19:00:00 +0100"
+    },
+    {
         "title": "Schalke",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schalke",
+        "pubdate": "Fri, 29 Nov 2024 18:00:00 +0100"
+    },
+    {
+        "title": "Aleppo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Aleppo",
+        "pubdate": "Fri, 29 Nov 2024 17:00:00 +0100"
+    },
+    {
+        "title": "Lindner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Lindner",
+        "pubdate": "Fri, 29 Nov 2024 15:00:00 +0100"
+    },
+    {
+        "title": "St. Pauli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#St.%20Pauli",
         "pubdate": "Fri, 29 Nov 2024 19:00:00 +0100"
     },
     {
@@ -35,68 +95,8 @@
         "pubdate": "Fri, 29 Nov 2024 22:00:00 +0100"
     },
     {
-        "title": "GameStop",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#GameStop",
-        "pubdate": "Fri, 29 Nov 2024 17:00:00 +0100"
-    },
-    {
-        "title": "Aleppo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Aleppo",
-        "pubdate": "Fri, 29 Nov 2024 17:00:00 +0100"
-    },
-    {
-        "title": "Frankfurt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Frankfurt",
-        "pubdate": "Fri, 29 Nov 2024 14:00:00 +0100"
-    },
-    {
-        "title": "D-Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#D-Day",
-        "pubdate": "Thu, 28 Nov 2024 20:00:00 +0100"
-    },
-    {
-        "title": "Habeck",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Habeck",
-        "pubdate": "Thu, 28 Nov 2024 15:00:00 +0100"
-    },
-    {
-        "title": "RTL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#RTL",
-        "pubdate": "Thu, 28 Nov 2024 23:00:00 +0100"
-    },
-    {
-        "title": "Stuttgart",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Stuttgart",
-        "pubdate": "Thu, 28 Nov 2024 03:00:00 +0100"
-    },
-    {
-        "title": "Conference League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Conference%20League",
-        "pubdate": "Wed, 27 Nov 2024 21:00:00 +0100"
-    },
-    {
-        "title": "Atos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Atos",
-        "pubdate": "Wed, 27 Nov 2024 22:00:00 +0100"
-    },
-    {
-        "title": "Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Champions%20League",
-        "pubdate": "Tue, 26 Nov 2024 16:00:00 +0100"
-    },
-    {
-        "title": "Angela Merkel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Angela%20Merkel",
-        "pubdate": "Tue, 26 Nov 2024 14:00:00 +0100"
-    },
-    {
-        "title": "RB Leipzig",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#RB%20Leipzig",
-        "pubdate": "Tue, 26 Nov 2024 23:00:00 +0100"
-    },
-    {
-        "title": "Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Champions%20League",
-        "pubdate": "Mon, 25 Nov 2024 18:00:00 +0100"
+        "title": "1. Advent",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#1.%20Advent",
+        "pubdate": "Fri, 29 Nov 2024 19:00:00 +0100"
     }
 ]
