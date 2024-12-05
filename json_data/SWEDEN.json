@@ -1,8 +1,63 @@
 [
     {
+        "title": "Spotify Wrapped 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Spotify%20Wrapped%202024",
+        "pubdate": "Wed, 04 Dec 2024 14:00:00 +0100"
+    },
+    {
+        "title": "TV4-profil",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#TV4-profil",
+        "pubdate": "Wed, 04 Dec 2024 14:00:00 +0100"
+    },
+    {
+        "title": "Prinsessan Birgitta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Prinsessan%20Birgitta",
+        "pubdate": "Wed, 04 Dec 2024 16:00:00 +0100"
+    },
+    {
+        "title": "Ella Halvarsson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ella%20Halvarsson",
+        "pubdate": "Wed, 04 Dec 2024 17:00:00 +0100"
+    },
+    {
+        "title": "Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Manchester%20United",
+        "pubdate": "Wed, 04 Dec 2024 22:00:00 +0100"
+    },
+    {
+        "title": "Newcastle Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Newcastle%20Liverpool",
+        "pubdate": "Wed, 04 Dec 2024 22:00:00 +0100"
+    },
+    {
+        "title": "David Lindgren",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#David%20Lindgren",
+        "pubdate": "Wed, 04 Dec 2024 20:00:00 +0100"
+    },
+    {
+        "title": "Nya Jönssonligan! Recension",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Nya%20J%C3%B6nssonligan!%20Recension",
+        "pubdate": "Wed, 04 Dec 2024 09:00:00 +0100"
+    },
+    {
+        "title": "Barry Keoghan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Barry%20Keoghan",
+        "pubdate": "Wed, 04 Dec 2024 20:00:00 +0100"
+    },
+    {
+        "title": "Explosion Hässelby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Explosion%20H%C3%A4sselby",
+        "pubdate": "Wed, 04 Dec 2024 08:00:00 +0100"
+    },
+    {
         "title": "Caroline Seger",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Caroline%20Seger",
         "pubdate": "Tue, 03 Dec 2024 21:00:00 +0100"
+    },
+    {
+        "title": "Undantagstillstånd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Undantagstillst%C3%A5nd",
+        "pubdate": "Tue, 03 Dec 2024 22:00:00 +0100"
     },
     {
         "title": "Sverige Serbien",
@@ -10,19 +65,9 @@
         "pubdate": "Tue, 03 Dec 2024 18:00:00 +0100"
     },
     {
-        "title": "Sydkorea krigslagar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sydkorea%20krigslagar",
-        "pubdate": "Tue, 03 Dec 2024 22:00:00 +0100"
-    },
-    {
         "title": "Svenska Cupen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Svenska%20Cupen",
-        "pubdate": "Tue, 03 Dec 2024 16:00:00 +0100"
-    },
-    {
-        "title": "Melina Göransson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Melina%20G%C3%B6ransson",
-        "pubdate": "Tue, 03 Dec 2024 17:00:00 +0100"
+        "pubdate": "Tue, 03 Dec 2024 15:00:00 +0100"
     },
     {
         "title": "Kosovare Asllani",
@@ -30,9 +75,9 @@
         "pubdate": "Tue, 03 Dec 2024 22:00:00 +0100"
     },
     {
-        "title": "CHL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#CHL",
-        "pubdate": "Tue, 03 Dec 2024 20:00:00 +0100"
+        "title": "Melina Göransson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Melina%20G%C3%B6ransson",
+        "pubdate": "Tue, 03 Dec 2024 17:00:00 +0100"
     },
     {
         "title": "Bonde söker fru",
@@ -40,14 +85,9 @@
         "pubdate": "Tue, 03 Dec 2024 21:00:00 +0100"
     },
     {
-        "title": "Gyn Stockholm",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gyn%20Stockholm",
-        "pubdate": "Tue, 03 Dec 2024 14:00:00 +0100"
-    },
-    {
-        "title": "3 december",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#3%20december",
-        "pubdate": "Tue, 03 Dec 2024 14:00:00 +0100"
+        "title": "CHL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#CHL",
+        "pubdate": "Tue, 03 Dec 2024 20:00:00 +0100"
     },
     {
         "title": "Martin Stenmarck",
@@ -55,48 +95,8 @@
         "pubdate": "Tue, 03 Dec 2024 20:00:00 +0100"
     },
     {
-        "title": "Hesa Fredrik",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hesa%20Fredrik",
-        "pubdate": "Mon, 02 Dec 2024 16:00:00 +0100"
-    },
-    {
-        "title": "Varning för snöfall",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Varning%20f%C3%B6r%20sn%C3%B6fall",
-        "pubdate": "Mon, 02 Dec 2024 17:00:00 +0100"
-    },
-    {
-        "title": "Hunter Biden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hunter%20Biden",
-        "pubdate": "Mon, 02 Dec 2024 08:00:00 +0100"
-    },
-    {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Liverpool",
-        "pubdate": "Mon, 02 Dec 2024 17:00:00 +0100"
-    },
-    {
-        "title": "Roger Melin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Roger%20Melin",
-        "pubdate": "Mon, 02 Dec 2024 15:00:00 +0100"
-    },
-    {
-        "title": "Brödernas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Br%C3%B6dernas",
-        "pubdate": "Mon, 02 Dec 2024 20:00:00 +0100"
-    },
-    {
-        "title": "Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tottenham",
-        "pubdate": "Mon, 02 Dec 2024 03:00:00 +0100"
-    },
-    {
-        "title": "David Ritschard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#David%20Ritschard",
-        "pubdate": "Mon, 02 Dec 2024 19:00:00 +0100"
-    },
-    {
-        "title": "Olycka E22",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Olycka%20E22",
-        "pubdate": "Mon, 02 Dec 2024 20:00:00 +0100"
+        "title": "3 december",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#3%20december",
+        "pubdate": "Tue, 03 Dec 2024 14:00:00 +0100"
     }
 ]
