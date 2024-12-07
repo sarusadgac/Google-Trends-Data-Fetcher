@@ -1,18 +1,83 @@
 [
     {
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#PSG",
+        "pubdate": "Sat, 07 Dec 2024 00:00:00 +0300"
+    },
+    {
+        "title": "AZ Alkmaar vs Ajax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#AZ%20Alkmaar%20vs%20Ajax",
+        "pubdate": "Sat, 07 Dec 2024 02:00:00 +0300"
+    },
+    {
+        "title": "JKUAT",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#JKUAT",
+        "pubdate": "Sat, 07 Dec 2024 03:00:00 +0300"
+    },
+    {
+        "title": "Isaac Lenaola",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Isaac%20Lenaola",
+        "pubdate": "Sat, 07 Dec 2024 01:00:00 +0300"
+    },
+    {
+        "title": "Samsung One UI 7",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Samsung%20One%20UI%207",
+        "pubdate": "Sat, 07 Dec 2024 00:00:00 +0300"
+    },
+    {
+        "title": "Atalanta vs Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Atalanta%20vs%20Milan",
+        "pubdate": "Fri, 06 Dec 2024 16:00:00 +0300"
+    },
+    {
+        "title": "Inter Vs Parma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Inter%20Vs%20Parma",
+        "pubdate": "Fri, 06 Dec 2024 20:00:00 +0300"
+    },
+    {
+        "title": "Burnley vs Middlesbrough",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Burnley%20vs%20Middlesbrough",
+        "pubdate": "Fri, 06 Dec 2024 10:00:00 +0300"
+    },
+    {
+        "title": "India vs Australia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#India%20vs%20Australia",
+        "pubdate": "Fri, 06 Dec 2024 09:00:00 +0300"
+    },
+    {
+        "title": "Kylian Mbappé",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Kylian%20Mbapp%C3%A9",
+        "pubdate": "Fri, 06 Dec 2024 09:00:00 +0300"
+    },
+    {
         "title": "French government collapse",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#French%20government%20collapse",
         "pubdate": "Fri, 06 Dec 2024 01:00:00 +0300"
     },
     {
-        "title": "Nantes vs Rennes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Nantes%20vs%20Rennes",
-        "pubdate": "Fri, 06 Dec 2024 00:00:00 +0300"
+        "title": "Al Ittihad vs Al Nassr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Al%20Ittihad%20vs%20Al%20Nassr",
+        "pubdate": "Fri, 06 Dec 2024 15:00:00 +0300"
     },
     {
-        "title": "Fulham vs Brighton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Fulham%20vs%20Brighton",
-        "pubdate": "Thu, 05 Dec 2024 12:00:00 +0300"
+        "title": "Inter Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Inter%20Milan",
+        "pubdate": "Fri, 06 Dec 2024 22:00:00 +0300"
+    },
+    {
+        "title": "Borussia monchengladbach Borussia Dortmund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Borussia%20monchengladbach%20Borussia%20Dortmund",
+        "pubdate": "Fri, 06 Dec 2024 22:00:00 +0300"
+    },
+    {
+        "title": "Bournemouth vs Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Bournemouth%20vs%20Tottenham",
+        "pubdate": "Thu, 05 Dec 2024 01:00:00 +0300"
+    },
+    {
+        "title": "Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Man%20City",
+        "pubdate": "Thu, 05 Dec 2024 08:00:00 +0300"
     },
     {
         "title": "Premier League standings",
@@ -20,14 +85,9 @@
         "pubdate": "Thu, 05 Dec 2024 01:00:00 +0300"
     },
     {
-        "title": "Lazio vs Napoli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Lazio%20vs%20Napoli",
-        "pubdate": "Thu, 05 Dec 2024 11:00:00 +0300"
-    },
-    {
-        "title": "FPL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#FPL",
-        "pubdate": "Thu, 05 Dec 2024 21:00:00 +0300"
+        "title": "Asbestos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Asbestos",
+        "pubdate": "Thu, 05 Dec 2024 20:00:00 +0300"
     },
     {
         "title": "Bitcoin",
@@ -35,68 +95,8 @@
         "pubdate": "Thu, 05 Dec 2024 15:00:00 +0300"
     },
     {
-        "title": "Sports",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Sports",
-        "pubdate": "Thu, 05 Dec 2024 09:00:00 +0300"
-    },
-    {
-        "title": "Asbestos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Asbestos",
-        "pubdate": "Thu, 05 Dec 2024 20:00:00 +0300"
-    },
-    {
-        "title": "Manchester United fixtures",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Manchester%20United%20fixtures",
-        "pubdate": "Thu, 05 Dec 2024 11:00:00 +0300"
-    },
-    {
-        "title": "South Korean President",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#South%20Korean%20President",
-        "pubdate": "Thu, 05 Dec 2024 15:00:00 +0300"
-    },
-    {
-        "title": "Leny Yoro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Leny%20Yoro",
-        "pubdate": "Thu, 05 Dec 2024 16:00:00 +0300"
-    },
-    {
-        "title": "Manchester",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Manchester",
-        "pubdate": "Thu, 05 Dec 2024 01:00:00 +0300"
-    },
-    {
-        "title": "Table",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Table",
-        "pubdate": "Thu, 05 Dec 2024 10:00:00 +0300"
-    },
-    {
-        "title": "Chelsea FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Chelsea%20FC",
-        "pubdate": "Thu, 05 Dec 2024 02:00:00 +0300"
-    },
-    {
-        "title": "Cole Palmer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Cole%20Palmer",
-        "pubdate": "Thu, 05 Dec 2024 11:00:00 +0300"
-    },
-    {
-        "title": "Brian Thompson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Brian%20Thompson",
-        "pubdate": "Thu, 05 Dec 2024 15:00:00 +0300"
-    },
-    {
-        "title": "Arsenal vs Man United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Arsenal%20vs%20Man%20United",
-        "pubdate": "Wed, 04 Dec 2024 08:00:00 +0300"
-    },
-    {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Arsenal",
-        "pubdate": "Wed, 04 Dec 2024 19:00:00 +0300"
-    },
-    {
-        "title": "Southampton vs Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Southampton%20vs%20Chelsea",
-        "pubdate": "Wed, 04 Dec 2024 11:00:00 +0300"
+        "title": "FPL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#FPL",
+        "pubdate": "Thu, 05 Dec 2024 21:00:00 +0300"
     }
 ]
