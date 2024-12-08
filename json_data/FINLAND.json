@@ -1,13 +1,83 @@
 [
     {
+        "title": "Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Manchester%20United",
+        "pubdate": "Sun, 08 Dec 2024 00:00:00 +0200"
+    },
+    {
+        "title": "Indiana Jones",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Indiana%20Jones",
+        "pubdate": "Sun, 08 Dec 2024 01:00:00 +0200"
+    },
+    {
+        "title": "Girona – Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Girona%20%E2%80%93%20Real%20Madrid",
+        "pubdate": "Sat, 07 Dec 2024 23:00:00 +0200"
+    },
+    {
+        "title": "Everton – Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Everton%20%E2%80%93%20Liverpool",
+        "pubdate": "Sat, 07 Dec 2024 13:00:00 +0200"
+    },
+    {
+        "title": "Nicko McBrain",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Nicko%20McBrain",
+        "pubdate": "Sat, 07 Dec 2024 18:00:00 +0200"
+    },
+    {
+        "title": "UFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#UFC",
+        "pubdate": "Sat, 07 Dec 2024 22:00:00 +0200"
+    },
+    {
+        "title": "Notre-Dame",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Notre-Dame",
+        "pubdate": "Sat, 07 Dec 2024 20:00:00 +0200"
+    },
+    {
+        "title": "Real Betis – Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Real%20Betis%20%E2%80%93%20Barcelona",
+        "pubdate": "Sat, 07 Dec 2024 19:00:00 +0200"
+    },
+    {
+        "title": "Crystal Palace – Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Crystal%20Palace%20%E2%80%93%20Manchester%20City",
+        "pubdate": "Sat, 07 Dec 2024 18:00:00 +0200"
+    },
+    {
+        "title": "Michail Antonio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Michail%20Antonio",
+        "pubdate": "Sat, 07 Dec 2024 21:00:00 +0200"
+    },
+    {
         "title": "Hawk Tuah coin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Hawk%20Tuah%20coin",
         "pubdate": "Sat, 07 Dec 2024 02:00:00 +0200"
     },
     {
-        "title": "Finland Independence Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Finland%20Independence%20Day",
-        "pubdate": "Fri, 06 Dec 2024 01:00:00 +0200"
+        "title": "Beetlejuice",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Beetlejuice",
+        "pubdate": "Sat, 07 Dec 2024 10:00:00 +0200"
+    },
+    {
+        "title": "Urho Vaakanainen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Urho%20Vaakanainen",
+        "pubdate": "Sat, 07 Dec 2024 14:00:00 +0200"
+    },
+    {
+        "title": "Beaver Creek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Beaver%20Creek",
+        "pubdate": "Sat, 07 Dec 2024 17:00:00 +0200"
+    },
+    {
+        "title": "Jacob Trouba",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Jacob%20Trouba",
+        "pubdate": "Sat, 07 Dec 2024 12:00:00 +0200"
+    },
+    {
+        "title": "Romania",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Romania",
+        "pubdate": "Sat, 07 Dec 2024 22:00:00 +0200"
     },
     {
         "title": "Path of Exile 2",
@@ -28,75 +98,5 @@
         "title": "Marvel Rivals",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Marvel%20Rivals",
         "pubdate": "Fri, 06 Dec 2024 02:00:00 +0200"
-    },
-    {
-        "title": "Lillehammer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Lillehammer",
-        "pubdate": "Fri, 06 Dec 2024 12:00:00 +0200"
-    },
-    {
-        "title": "Indiana Jones and the Great Circle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Indiana%20Jones%20and%20the%20Great%20Circle",
-        "pubdate": "Fri, 06 Dec 2024 11:00:00 +0200"
-    },
-    {
-        "title": "Jumbo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Jumbo",
-        "pubdate": "Fri, 06 Dec 2024 14:00:00 +0200"
-    },
-    {
-        "title": "Poe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Poe",
-        "pubdate": "Fri, 06 Dec 2024 19:00:00 +0200"
-    },
-    {
-        "title": "Kelly Piquet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Kelly%20Piquet",
-        "pubdate": "Fri, 06 Dec 2024 17:00:00 +0200"
-    },
-    {
-        "title": "California earthquake",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#California%20earthquake",
-        "pubdate": "Fri, 06 Dec 2024 00:00:00 +0200"
-    },
-    {
-        "title": "Sale",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Sale",
-        "pubdate": "Fri, 06 Dec 2024 19:00:00 +0200"
-    },
-    {
-        "title": "Rhine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Rhine",
-        "pubdate": "Fri, 06 Dec 2024 00:00:00 +0200"
-    },
-    {
-        "title": "Snow warning",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Snow%20warning",
-        "pubdate": "Fri, 06 Dec 2024 00:00:00 +0200"
-    },
-    {
-        "title": "Bitcoin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bitcoin",
-        "pubdate": "Thu, 05 Dec 2024 13:00:00 +0200"
-    },
-    {
-        "title": "Sauli Niinistö",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Sauli%20Niinist%C3%B6",
-        "pubdate": "Thu, 05 Dec 2024 22:00:00 +0200"
-    },
-    {
-        "title": "Sergei Lavrov",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Sergei%20Lavrov",
-        "pubdate": "Thu, 05 Dec 2024 21:00:00 +0200"
-    },
-    {
-        "title": "Paapa Essiedu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Paapa%20Essiedu",
-        "pubdate": "Thu, 05 Dec 2024 15:00:00 +0200"
-    },
-    {
-        "title": "Flow",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Flow",
-        "pubdate": "Thu, 05 Dec 2024 11:00:00 +0200"
     }
 ]
