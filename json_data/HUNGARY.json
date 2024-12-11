@@ -1,18 +1,58 @@
 [
     {
-        "title": "West Ham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#West%20Ham",
+        "title": "Girona–liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Girona%E2%80%93liverpool",
+        "pubdate": "Tue, 10 Dec 2024 09:00:00 +0100"
+    },
+    {
+        "title": "Atalanta–real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Atalanta%E2%80%93real%20Madrid",
+        "pubdate": "Tue, 10 Dec 2024 21:00:00 +0100"
+    },
+    {
+        "title": "Till Tamás",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Till%20Tam%C3%A1s",
+        "pubdate": "Tue, 10 Dec 2024 17:00:00 +0100"
+    },
+    {
+        "title": "Sahtar–bayern München",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sahtar%E2%80%93bayern%20M%C3%BCnchen",
+        "pubdate": "Tue, 10 Dec 2024 21:00:00 +0100"
+    },
+    {
+        "title": "Jászai Gellért",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#J%C3%A1szai%20Gell%C3%A9rt",
+        "pubdate": "Tue, 10 Dec 2024 14:00:00 +0100"
+    },
+    {
+        "title": "Ónodi Henrietta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%93nodi%20Henrietta",
+        "pubdate": "Tue, 10 Dec 2024 09:00:00 +0100"
+    },
+    {
+        "title": "Leverkusen–inter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Leverkusen%E2%80%93inter",
+        "pubdate": "Tue, 10 Dec 2024 21:00:00 +0100"
+    },
+    {
+        "title": "28 nappal később",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#28%20nappal%20k%C3%A9s%C5%91bb",
+        "pubdate": "Tue, 10 Dec 2024 15:00:00 +0100"
+    },
+    {
+        "title": "Dobó Kata",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Dob%C3%B3%20Kata",
+        "pubdate": "Tue, 10 Dec 2024 20:00:00 +0100"
+    },
+    {
+        "title": "Nyugdíjemelés 2025",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Nyugd%C3%ADjemel%C3%A9s%202025",
         "pubdate": "Tue, 10 Dec 2024 00:00:00 +0100"
     },
     {
-        "title": "Nyerő Páros",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Nyer%C5%91%20P%C3%A1ros",
-        "pubdate": "Tue, 10 Dec 2024 00:00:00 +0100"
-    },
-    {
-        "title": "Sora",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sora",
-        "pubdate": "Tue, 10 Dec 2024 02:00:00 +0100"
+        "title": "Lázár János",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#L%C3%A1z%C3%A1r%20J%C3%A1nos",
+        "pubdate": "Tue, 10 Dec 2024 13:00:00 +0100"
     },
     {
         "title": "Gáspárék",
@@ -20,83 +60,43 @@
         "pubdate": "Tue, 10 Dec 2024 02:00:00 +0100"
     },
     {
-        "title": "Keita",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Keita",
-        "pubdate": "Mon, 09 Dec 2024 18:00:00 +0100"
+        "title": "RTL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#RTL",
+        "pubdate": "Tue, 10 Dec 2024 20:00:00 +0100"
     },
     {
-        "title": "Guns N' Roses",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Guns%20N'%20Roses",
-        "pubdate": "Mon, 09 Dec 2024 15:00:00 +0100"
+        "title": "Sora",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sora",
+        "pubdate": "Tue, 10 Dec 2024 02:00:00 +0100"
     },
     {
-        "title": "Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Trump",
-        "pubdate": "Mon, 09 Dec 2024 13:00:00 +0100"
+        "title": "Havazás",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Havaz%C3%A1s",
+        "pubdate": "Tue, 10 Dec 2024 22:00:00 +0100"
     },
     {
-        "title": "Kamarás Norbert",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kamar%C3%A1s%20Norbert",
-        "pubdate": "Mon, 09 Dec 2024 13:00:00 +0100"
+        "title": "Politico",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Politico",
+        "pubdate": "Tue, 10 Dec 2024 14:00:00 +0100"
     },
     {
-        "title": "Jay-Z",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Jay-Z",
-        "pubdate": "Mon, 09 Dec 2024 12:00:00 +0100"
+        "title": "Megan Fox",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Megan%20Fox",
+        "pubdate": "Tue, 10 Dec 2024 22:00:00 +0100"
     },
     {
-        "title": "Navracsics Tibor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Navracsics%20Tibor",
-        "pubdate": "Mon, 09 Dec 2024 19:00:00 +0100"
+        "title": "Busz villamos baleset",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Busz%20villamos%20baleset",
+        "pubdate": "Tue, 10 Dec 2024 19:00:00 +0100"
     },
     {
-        "title": "Istenes Bence Hell Boxing",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Istenes%20Bence%20Hell%20Boxing",
-        "pubdate": "Mon, 09 Dec 2024 08:00:00 +0100"
+        "title": "Nagy Márton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Nagy%20M%C3%A1rton",
+        "pubdate": "Tue, 10 Dec 2024 19:00:00 +0100"
     },
     {
-        "title": "Orosz Hírek",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Orosz%20H%C3%ADrek",
-        "pubdate": "Mon, 09 Dec 2024 21:00:00 +0100"
-    },
-    {
-        "title": "Solti Ádám",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Solti%20%C3%81d%C3%A1m",
-        "pubdate": "Mon, 09 Dec 2024 22:00:00 +0100"
-    },
-    {
-        "title": "Katy Perry",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Katy%20Perry",
-        "pubdate": "Mon, 09 Dec 2024 19:00:00 +0100"
-    },
-    {
-        "title": "Radar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Radar",
-        "pubdate": "Mon, 09 Dec 2024 11:00:00 +0100"
-    },
-    {
-        "title": "Aranyosi Péter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Aranyosi%20P%C3%A9ter",
-        "pubdate": "Mon, 09 Dec 2024 17:00:00 +0100"
-    },
-    {
-        "title": "Fehér Krisztián",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Feh%C3%A9r%20Kriszti%C3%A1n",
-        "pubdate": "Sun, 08 Dec 2024 02:00:00 +0100"
-    },
-    {
-        "title": "Megasztár 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Megaszt%C3%A1r%202024",
-        "pubdate": "Sun, 08 Dec 2024 11:00:00 +0100"
-    },
-    {
-        "title": "Szíria",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sz%C3%ADria",
-        "pubdate": "Sun, 08 Dec 2024 09:00:00 +0100"
-    },
-    {
-        "title": "Női kézilabda Eb 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#N%C5%91i%20k%C3%A9zilabda%20Eb%202024",
-        "pubdate": "Sun, 08 Dec 2024 19:00:00 +0100"
+        "title": "Várkonyi Andrea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#V%C3%A1rkonyi%20Andrea",
+        "pubdate": "Tue, 10 Dec 2024 15:00:00 +0100"
     }
 ]

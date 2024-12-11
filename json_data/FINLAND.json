@@ -1,18 +1,73 @@
 [
     {
+        "title": "Iron Maiden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Iron%20Maiden",
+        "pubdate": "Wed, 11 Dec 2024 00:00:00 +0200"
+    },
+    {
+        "title": "Secret Level",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Secret%20Level",
+        "pubdate": "Wed, 11 Dec 2024 00:00:00 +0200"
+    },
+    {
+        "title": "Twitch Recap 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Twitch%20Recap%202024",
+        "pubdate": "Wed, 11 Dec 2024 01:00:00 +0200"
+    },
+    {
+        "title": "Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Champions%20League",
+        "pubdate": "Tue, 10 Dec 2024 11:00:00 +0200"
+    },
+    {
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Real%20Madrid",
+        "pubdate": "Tue, 10 Dec 2024 23:00:00 +0200"
+    },
+    {
+        "title": "28 Years Later",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#28%20Years%20Later",
+        "pubdate": "Tue, 10 Dec 2024 16:00:00 +0200"
+    },
+    {
+        "title": "Megan Fox",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Megan%20Fox",
+        "pubdate": "Tue, 10 Dec 2024 21:00:00 +0200"
+    },
+    {
+        "title": "Sora",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Sora",
+        "pubdate": "Tue, 10 Dec 2024 11:00:00 +0200"
+    },
+    {
+        "title": "Mackenzie Blackwood",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Mackenzie%20Blackwood",
+        "pubdate": "Tue, 10 Dec 2024 10:00:00 +0200"
+    },
+    {
+        "title": "Daniel Penny",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Daniel%20Penny",
+        "pubdate": "Tue, 10 Dec 2024 12:00:00 +0200"
+    },
+    {
+        "title": "Clint Eastwood",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Clint%20Eastwood",
+        "pubdate": "Tue, 10 Dec 2024 09:00:00 +0200"
+    },
+    {
         "title": "Taylor Swift",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Taylor%20Swift",
         "pubdate": "Tue, 10 Dec 2024 01:00:00 +0200"
     },
     {
-        "title": "Jay-Z",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Jay-Z",
-        "pubdate": "Mon, 09 Dec 2024 08:00:00 +0200"
-    },
-    {
         "title": "Luigi Mangione",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Luigi%20Mangione",
         "pubdate": "Mon, 09 Dec 2024 22:00:00 +0200"
+    },
+    {
+        "title": "Jay-Z",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Jay-Z",
+        "pubdate": "Mon, 09 Dec 2024 08:00:00 +0200"
     },
     {
         "title": "Guns N' Roses",
@@ -30,73 +85,18 @@
         "pubdate": "Mon, 09 Dec 2024 14:00:00 +0200"
     },
     {
-        "title": "Skoda Elroq",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Skoda%20Elroq",
+        "title": "Poliovirus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Poliovirus",
         "pubdate": "Mon, 09 Dec 2024 23:00:00 +0200"
     },
     {
-        "title": "Mettle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Mettle",
-        "pubdate": "Mon, 09 Dec 2024 00:00:00 +0200"
+        "title": "Public enemy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Public%20enemy",
+        "pubdate": "Mon, 09 Dec 2024 21:00:00 +0200"
     },
     {
-        "title": "Bashar al-Assad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bashar%20al-Assad",
-        "pubdate": "Sun, 08 Dec 2024 06:00:00 +0200"
-    },
-    {
-        "title": "Tottenham – Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tottenham%20%E2%80%93%20Chelsea",
-        "pubdate": "Sun, 08 Dec 2024 19:00:00 +0200"
-    },
-    {
-        "title": "Fulham – Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Fulham%20%E2%80%93%20Arsenal",
-        "pubdate": "Sun, 08 Dec 2024 17:00:00 +0200"
-    },
-    {
-        "title": "CNN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#CNN",
-        "pubdate": "Sun, 08 Dec 2024 12:00:00 +0200"
-    },
-    {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Real%20Madrid",
-        "pubdate": "Sun, 08 Dec 2024 00:00:00 +0200"
-    },
-    {
-        "title": "BBC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#BBC",
-        "pubdate": "Sun, 08 Dec 2024 12:00:00 +0200"
-    },
-    {
-        "title": "Asma al-Assad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Asma%20al-Assad",
-        "pubdate": "Sun, 08 Dec 2024 19:00:00 +0200"
-    },
-    {
-        "title": "Valtteri Bottas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Valtteri%20Bottas",
-        "pubdate": "Sun, 08 Dec 2024 18:00:00 +0200"
-    },
-    {
-        "title": "Hawk Tuah",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Hawk%20Tuah",
-        "pubdate": "Sun, 08 Dec 2024 09:00:00 +0200"
-    },
-    {
-        "title": "Indiana Jones",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Indiana%20Jones",
-        "pubdate": "Sun, 08 Dec 2024 01:00:00 +0200"
-    },
-    {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Manchester%20United",
-        "pubdate": "Sun, 08 Dec 2024 00:00:00 +0200"
-    },
-    {
-        "title": "Nicko McBrain",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Nicko%20McBrain",
-        "pubdate": "Sat, 07 Dec 2024 18:00:00 +0200"
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Chelsea",
+        "pubdate": "Mon, 09 Dec 2024 14:00:00 +0200"
     }
 ]
