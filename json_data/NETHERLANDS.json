@@ -1,48 +1,43 @@
 [
     {
-        "title": "WhatsApp storing",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#WhatsApp%20storing",
-        "pubdate": "Wed, 11 Dec 2024 20:00:00 +0100"
+        "title": "Ajax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
+        "pubdate": "Thu, 12 Dec 2024 08:00:00 +0100"
     },
     {
-        "title": "Contant geld in huis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Contant%20geld%20in%20huis",
-        "pubdate": "Wed, 11 Dec 2024 19:00:00 +0100"
+        "title": "FC Twente",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Twente",
+        "pubdate": "Thu, 12 Dec 2024 13:00:00 +0100"
     },
     {
-        "title": "Fenerbahce",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Fenerbahce",
-        "pubdate": "Wed, 11 Dec 2024 17:00:00 +0100"
+        "title": "AZ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AZ",
+        "pubdate": "Thu, 12 Dec 2024 19:00:00 +0100"
     },
     {
-        "title": "Lily Phillips",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Lily%20Phillips",
-        "pubdate": "Wed, 11 Dec 2024 21:00:00 +0100"
+        "title": "Rutte",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Rutte",
+        "pubdate": "Thu, 12 Dec 2024 18:00:00 +0100"
     },
     {
-        "title": "Maarten 't Hart",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Maarten%20't%20Hart",
-        "pubdate": "Wed, 11 Dec 2024 09:00:00 +0100"
-    },
-    {
-        "title": "Atalanta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Atalanta",
-        "pubdate": "Wed, 11 Dec 2024 09:00:00 +0100"
+        "title": "Oorlog",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Oorlog",
+        "pubdate": "Thu, 12 Dec 2024 17:00:00 +0100"
     },
     {
         "title": "Feyenoord",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord",
+        "pubdate": "Wed, 11 Dec 2024 11:00:00 +0100"
+    },
+    {
+        "title": "Europa League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Europa%20League",
+        "pubdate": "Wed, 11 Dec 2024 03:00:00 +0100"
+    },
+    {
+        "title": "Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Champions%20League",
         "pubdate": "Tue, 10 Dec 2024 07:00:00 +0100"
-    },
-    {
-        "title": "PSV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV",
-        "pubdate": "Tue, 10 Dec 2024 19:00:00 +0100"
-    },
-    {
-        "title": "Bruidswinkel Tarwekamp Den Haag",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bruidswinkel%20Tarwekamp%20Den%20Haag",
-        "pubdate": "Tue, 10 Dec 2024 22:00:00 +0100"
     },
     {
         "title": "Assad",
@@ -98,5 +93,10 @@
         "title": "Eredivisie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Eredivisie",
         "pubdate": "Wed, 04 Dec 2024 21:00:00 +0100"
+    },
+    {
+        "title": "Dieuwertje Blok",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Dieuwertje%20Blok",
+        "pubdate": "Tue, 03 Dec 2024 16:00:00 +0100"
     }
 ]
