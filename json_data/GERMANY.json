@@ -1,33 +1,48 @@
 [
     {
-        "title": "St. Pauli – Werder Bremen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#St.%20Pauli%20%E2%80%93%20Werder%20Bremen",
+        "title": "Dortmund – Hoffenheim",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dortmund%20%E2%80%93%20Hoffenheim",
+        "pubdate": "Sun, 15 Dec 2024 17:00:00 +0100"
+    },
+    {
+        "title": "RB Leipzig – Eintracht Frankfurt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#RB%20Leipzig%20%E2%80%93%20Eintracht%20Frankfurt",
+        "pubdate": "Sun, 15 Dec 2024 19:00:00 +0100"
+    },
+    {
+        "title": "DFB-Pokal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Pokal",
+        "pubdate": "Sun, 15 Dec 2024 16:00:00 +0100"
+    },
+    {
+        "title": "Mayotte",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Mayotte",
+        "pubdate": "Sun, 15 Dec 2024 15:00:00 +0100"
+    },
+    {
+        "title": "Elversberg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Elversberg",
+        "pubdate": "Sun, 15 Dec 2024 16:00:00 +0100"
+    },
+    {
+        "title": "St. Pauli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#St.%20Pauli",
+        "pubdate": "Sun, 15 Dec 2024 04:00:00 +0100"
+    },
+    {
+        "title": "VfB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VfB",
+        "pubdate": "Sun, 15 Dec 2024 17:00:00 +0100"
+    },
+    {
+        "title": "Pius Paschke",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Pius%20Paschke",
         "pubdate": "Sat, 14 Dec 2024 19:00:00 +0100"
-    },
-    {
-        "title": "Union Berlin – Bochum",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Union%20Berlin%20%E2%80%93%20Bochum",
-        "pubdate": "Sat, 14 Dec 2024 16:00:00 +0100"
-    },
-    {
-        "title": "Isak Andic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Isak%20Andic",
-        "pubdate": "Sat, 14 Dec 2024 21:00:00 +0100"
-    },
-    {
-        "title": "Berghain",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Berghain",
-        "pubdate": "Sat, 14 Dec 2024 20:00:00 +0100"
     },
     {
         "title": "Hertha BSC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hertha%20BSC",
         "pubdate": "Fri, 13 Dec 2024 20:00:00 +0100"
-    },
-    {
-        "title": "Wolfgang Becker",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wolfgang%20Becker",
-        "pubdate": "Fri, 13 Dec 2024 18:00:00 +0100"
     },
     {
         "title": "Mario Voigt",
@@ -83,20 +98,5 @@
         "title": "Mercosur",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Mercosur",
         "pubdate": "Fri, 06 Dec 2024 15:00:00 +0100"
-    },
-    {
-        "title": "RB Leipzig",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#RB%20Leipzig",
-        "pubdate": "Wed, 04 Dec 2024 23:00:00 +0100"
-    },
-    {
-        "title": "Macron",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Macron",
-        "pubdate": "Wed, 04 Dec 2024 23:00:00 +0100"
-    },
-    {
-        "title": "Südkorea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#S%C3%BCdkorea",
-        "pubdate": "Tue, 03 Dec 2024 16:00:00 +0100"
     }
 ]
