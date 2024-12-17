@@ -1,5 +1,75 @@
 [
     {
+        "title": "Pintér Sándor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Pint%C3%A9r%20S%C3%A1ndor",
+        "pubdate": "Mon, 16 Dec 2024 19:00:00 +0100"
+    },
+    {
+        "title": "FC Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#FC%20Barcelona",
+        "pubdate": "Mon, 16 Dec 2024 11:00:00 +0100"
+    },
+    {
+        "title": "Brad Pitt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Brad%20Pitt",
+        "pubdate": "Mon, 16 Dec 2024 08:00:00 +0100"
+    },
+    {
+        "title": "Varga Mihály",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Varga%20Mih%C3%A1ly",
+        "pubdate": "Mon, 16 Dec 2024 19:00:00 +0100"
+    },
+    {
+        "title": "Nagy döggomba",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Nagy%20d%C3%B6ggomba",
+        "pubdate": "Mon, 16 Dec 2024 22:00:00 +0100"
+    },
+    {
+        "title": "Olaf Scholz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Olaf%20Scholz",
+        "pubdate": "Mon, 16 Dec 2024 21:00:00 +0100"
+    },
+    {
+        "title": "Leonora Carrington",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Leonora%20Carrington",
+        "pubdate": "Mon, 16 Dec 2024 08:00:00 +0100"
+    },
+    {
+        "title": "Téli napforduló",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#T%C3%A9li%20napfordul%C3%B3",
+        "pubdate": "Mon, 16 Dec 2024 10:00:00 +0100"
+    },
+    {
+        "title": "Soltvadkert",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Soltvadkert",
+        "pubdate": "Mon, 16 Dec 2024 21:00:00 +0100"
+    },
+    {
+        "title": "Zalatnay Sarolta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Zalatnay%20Sarolta",
+        "pubdate": "Mon, 16 Dec 2024 21:00:00 +0100"
+    },
+    {
+        "title": "ACMilan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#ACMilan",
+        "pubdate": "Mon, 16 Dec 2024 11:00:00 +0100"
+    },
+    {
+        "title": "Várkonyi Andrea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#V%C3%A1rkonyi%20Andrea",
+        "pubdate": "Mon, 16 Dec 2024 21:00:00 +0100"
+    },
+    {
+        "title": "Weöres Szabolcs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#We%C3%B6res%20Szabolcs",
+        "pubdate": "Mon, 16 Dec 2024 18:00:00 +0100"
+    },
+    {
+        "title": "Barcelona–leganés",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Barcelona%E2%80%93legan%C3%A9s",
+        "pubdate": "Sun, 15 Dec 2024 21:00:00 +0100"
+    },
+    {
         "title": "Manchester city–man utd",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Manchester%20city%E2%80%93man%20utd",
         "pubdate": "Sun, 15 Dec 2024 17:00:00 +0100"
@@ -10,24 +80,14 @@
         "pubdate": "Sun, 15 Dec 2024 15:00:00 +0100"
     },
     {
-        "title": "Barcelona–leganés",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Barcelona%E2%80%93legan%C3%A9s",
-        "pubdate": "Sun, 15 Dec 2024 21:00:00 +0100"
-    },
-    {
-        "title": "Újpest–kte",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%9Ajpest%E2%80%93kte",
-        "pubdate": "Sun, 15 Dec 2024 13:00:00 +0100"
-    },
-    {
-        "title": "Szabó Zsófi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szab%C3%B3%20Zs%C3%B3fi",
-        "pubdate": "Sun, 15 Dec 2024 00:00:00 +0100"
-    },
-    {
         "title": "Kézilabda Eb bronzmeccs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#K%C3%A9zilabda%20Eb%20bronzmeccs",
         "pubdate": "Sun, 15 Dec 2024 16:00:00 +0100"
+    },
+    {
+        "title": "Giorgia Meloni",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Giorgia%20Meloni",
+        "pubdate": "Sun, 15 Dec 2024 19:00:00 +0100"
     },
     {
         "title": "Advent 3. vasárnapja",
@@ -38,65 +98,5 @@
         "title": "John Cena",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#John%20Cena",
         "pubdate": "Sun, 15 Dec 2024 00:00:00 +0100"
-    },
-    {
-        "title": "Atlético madrid–getafe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Atl%C3%A9tico%20madrid%E2%80%93getafe",
-        "pubdate": "Sun, 15 Dec 2024 14:00:00 +0100"
-    },
-    {
-        "title": "Giorgia Meloni",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Giorgia%20Meloni",
-        "pubdate": "Sun, 15 Dec 2024 19:00:00 +0100"
-    },
-    {
-        "title": "Brighton–crystal Palace",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Brighton%E2%80%93crystal%20Palace",
-        "pubdate": "Sun, 15 Dec 2024 15:00:00 +0100"
-    },
-    {
-        "title": "Brasch Bence",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Brasch%20Bence",
-        "pubdate": "Sun, 15 Dec 2024 22:00:00 +0100"
-    },
-    {
-        "title": "Mircea Diaconu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Mircea%20Diaconu",
-        "pubdate": "Sun, 15 Dec 2024 18:00:00 +0100"
-    },
-    {
-        "title": "Kuczora Csenge",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kuczora%20Csenge",
-        "pubdate": "Sun, 15 Dec 2024 18:00:00 +0100"
-    },
-    {
-        "title": "Whisper Ton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Whisper%20Ton",
-        "pubdate": "Sun, 15 Dec 2024 01:00:00 +0100"
-    },
-    {
-        "title": "Mayotte",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Mayotte",
-        "pubdate": "Sun, 15 Dec 2024 21:00:00 +0100"
-    },
-    {
-        "title": "Golovin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Golovin",
-        "pubdate": "Sun, 15 Dec 2024 21:00:00 +0100"
-    },
-    {
-        "title": "DVTK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#DVTK",
-        "pubdate": "Sun, 15 Dec 2024 16:00:00 +0100"
-    },
-    {
-        "title": "Kerkez Milos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kerkez%20Milos",
-        "pubdate": "Sun, 15 Dec 2024 07:00:00 +0100"
-    },
-    {
-        "title": "Angelina Jolie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Angelina%20Jolie",
-        "pubdate": "Sun, 15 Dec 2024 13:00:00 +0100"
     }
 ]
