@@ -1,8 +1,43 @@
 [
     {
-        "title": "Sydney Sweeney",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sydney%20Sweeney",
-        "pubdate": "Tue, 17 Dec 2024 02:00:00 +0100"
+        "title": "Natalie Rupnow",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Natalie%20Rupnow",
+        "pubdate": "Tue, 17 Dec 2024 07:00:00 +0100"
+    },
+    {
+        "title": "Allsvenskan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Allsvenskan",
+        "pubdate": "Tue, 17 Dec 2024 15:00:00 +0100"
+    },
+    {
+        "title": "Tyresö",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tyres%C3%B6",
+        "pubdate": "Tue, 17 Dec 2024 22:00:00 +0100"
+    },
+    {
+        "title": "CHL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#CHL",
+        "pubdate": "Tue, 17 Dec 2024 21:00:00 +0100"
+    },
+    {
+        "title": "Bill Skarsgård",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bill%20Skarsg%C3%A5rd",
+        "pubdate": "Tue, 17 Dec 2024 20:00:00 +0100"
+    },
+    {
+        "title": "Mudryk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mudryk",
+        "pubdate": "Tue, 17 Dec 2024 16:00:00 +0100"
+    },
+    {
+        "title": "Gyökeres",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gy%C3%B6keres",
+        "pubdate": "Tue, 17 Dec 2024 08:00:00 +0100"
+    },
+    {
+        "title": "Let's dance",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Let's%20dance",
+        "pubdate": "Tue, 17 Dec 2024 15:00:00 +0100"
     },
     {
         "title": "Förrädarna",
@@ -15,29 +50,9 @@
         "pubdate": "Mon, 16 Dec 2024 19:00:00 +0100"
     },
     {
-        "title": "NPF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#NPF",
-        "pubdate": "Mon, 16 Dec 2024 10:00:00 +0100"
-    },
-    {
         "title": "Kommuner höjer skatten",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kommuner%20h%C3%B6jer%20skatten",
         "pubdate": "Mon, 16 Dec 2024 19:00:00 +0100"
-    },
-    {
-        "title": "God jul",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#God%20jul",
-        "pubdate": "Mon, 16 Dec 2024 10:00:00 +0100"
-    },
-    {
-        "title": "Märsta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#M%C3%A4rsta",
-        "pubdate": "Mon, 16 Dec 2024 20:00:00 +0100"
-    },
-    {
-        "title": "Storm",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Storm",
-        "pubdate": "Mon, 16 Dec 2024 07:00:00 +0100"
     },
     {
         "title": "Bonde söker fru",
@@ -45,58 +60,43 @@
         "pubdate": "Mon, 16 Dec 2024 23:00:00 +0100"
     },
     {
-        "title": "Allan Svensson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Allan%20Svensson",
+        "title": "NPF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#NPF",
+        "pubdate": "Mon, 16 Dec 2024 10:00:00 +0100"
+    },
+    {
+        "title": "God jul",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#God%20jul",
+        "pubdate": "Mon, 16 Dec 2024 10:00:00 +0100"
+    },
+    {
+        "title": "Die hard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Die%20hard",
+        "pubdate": "Mon, 16 Dec 2024 23:00:00 +0100"
+    },
+    {
+        "title": "Bournemouth mot West Ham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bournemouth%20mot%20West%20Ham",
+        "pubdate": "Mon, 16 Dec 2024 22:00:00 +0100"
+    },
+    {
+        "title": "Märsta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#M%C3%A4rsta",
+        "pubdate": "Mon, 16 Dec 2024 20:00:00 +0100"
+    },
+    {
+        "title": "Galatasaray",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Galatasaray",
         "pubdate": "Mon, 16 Dec 2024 21:00:00 +0100"
+    },
+    {
+        "title": "Storm",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Storm",
+        "pubdate": "Mon, 16 Dec 2024 07:00:00 +0100"
     },
     {
         "title": "Morten Kalvenes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Morten%20Kalvenes",
         "pubdate": "Mon, 16 Dec 2024 22:00:00 +0100"
-    },
-    {
-        "title": "Man United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Man%20United",
-        "pubdate": "Mon, 16 Dec 2024 09:00:00 +0100"
-    },
-    {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Manchester%20United",
-        "pubdate": "Sun, 15 Dec 2024 19:00:00 +0100"
-    },
-    {
-        "title": "innebandy-VM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#innebandy-VM",
-        "pubdate": "Sun, 15 Dec 2024 10:00:00 +0100"
-    },
-    {
-        "title": "Mayotte",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mayotte",
-        "pubdate": "Sun, 15 Dec 2024 19:00:00 +0100"
-    },
-    {
-        "title": "Prinsessan Birgitta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Prinsessan%20Birgitta",
-        "pubdate": "Sun, 15 Dec 2024 18:00:00 +0100"
-    },
-    {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Barcelona",
-        "pubdate": "Sun, 15 Dec 2024 23:00:00 +0100"
-    },
-    {
-        "title": "Ryska tankfartyg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ryska%20tankfartyg",
-        "pubdate": "Sun, 15 Dec 2024 21:00:00 +0100"
-    },
-    {
-        "title": "Lucianoz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Lucianoz",
-        "pubdate": "Sun, 15 Dec 2024 19:00:00 +0100"
-    },
-    {
-        "title": "Viktor Gyökeres",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Viktor%20Gy%C3%B6keres",
-        "pubdate": "Sun, 15 Dec 2024 17:00:00 +0100"
     }
 ]

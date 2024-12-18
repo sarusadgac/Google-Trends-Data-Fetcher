@@ -1,23 +1,48 @@
 [
     {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Manchester%20United",
+        "title": "Vanuatu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Vanuatu",
+        "pubdate": "Tue, 17 Dec 2024 19:00:00 +0800"
+    },
+    {
+        "title": "Nicholas Chia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Nicholas%20Chia",
+        "pubdate": "Tue, 17 Dec 2024 23:00:00 +0800"
+    },
+    {
+        "title": "South Africa vs Pakistan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#South%20Africa%20vs%20Pakistan",
+        "pubdate": "Tue, 17 Dec 2024 21:00:00 +0800"
+    },
+    {
+        "title": "Singapore Football",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Singapore%20Football",
+        "pubdate": "Tue, 17 Dec 2024 21:00:00 +0800"
+    },
+    {
+        "title": "Mudryk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Mudryk",
+        "pubdate": "Tue, 17 Dec 2024 21:00:00 +0800"
+    },
+    {
+        "title": "SoftBank",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#SoftBank",
+        "pubdate": "Tue, 17 Dec 2024 23:00:00 +0800"
+    },
+    {
+        "title": "Man utd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Man%20utd",
+        "pubdate": "Mon, 16 Dec 2024 08:00:00 +0800"
+    },
+    {
+        "title": "Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Man%20City",
         "pubdate": "Mon, 16 Dec 2024 05:00:00 +0800"
     },
     {
         "title": "Zakir Hussain",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Zakir%20Hussain",
         "pubdate": "Mon, 16 Dec 2024 03:00:00 +0800"
-    },
-    {
-        "title": "Bloomberg Tan See Leng",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bloomberg%20Tan%20See%20Leng",
-        "pubdate": "Mon, 16 Dec 2024 16:00:00 +0800"
-    },
-    {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Barcelona",
-        "pubdate": "Mon, 16 Dec 2024 09:00:00 +0800"
     },
     {
         "title": "Mayotte",
@@ -27,11 +52,6 @@
     {
         "title": "Bali Nine",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bali%20Nine",
-        "pubdate": "Mon, 16 Dec 2024 10:00:00 +0800"
-    },
-    {
-        "title": "Rashford",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Rashford",
         "pubdate": "Mon, 16 Dec 2024 10:00:00 +0800"
     },
     {
@@ -78,25 +98,5 @@
         "title": "Benny Blanco",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Benny%20Blanco",
         "pubdate": "Thu, 12 Dec 2024 15:00:00 +0800"
-    },
-    {
-        "title": "AI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#AI",
-        "pubdate": "Thu, 12 Dec 2024 11:00:00 +0800"
-    },
-    {
-        "title": "Norovirus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Norovirus",
-        "pubdate": "Thu, 12 Dec 2024 10:00:00 +0800"
-    },
-    {
-        "title": "Europa League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Europa%20League",
-        "pubdate": "Wed, 11 Dec 2024 10:00:00 +0800"
-    },
-    {
-        "title": "Kraven the Hunter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Kraven%20the%20Hunter",
-        "pubdate": "Wed, 11 Dec 2024 19:00:00 +0800"
     }
 ]

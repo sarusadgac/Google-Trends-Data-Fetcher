@@ -1,15 +1,13 @@
-KNVB Beker
-ASN
-FC Utrecht
-Mayotte
+Feyenoord
+PSV  HFC
+Fortuna Sittard
+Salderingsregeling
+RKC
+Campina Echte Slagroom
+Noa-Lynn van Leuven
 NAC
 FC Twente
-NEC
-Go Ahead Eagles
-Explosie Purmerend
 Oekraïne
-Darts
-Qbuzz
 Sparta
 ADO Den Haag
 Paarse Vrijdag
@@ -18,3 +16,5 @@ Selena Gomez
 Feyenoord
 Europa League
 Champions League
+Assad
+FC Groningen
