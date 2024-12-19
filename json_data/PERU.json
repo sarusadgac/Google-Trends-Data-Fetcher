@@ -1,5 +1,65 @@
 [
     {
+        "title": "Southampton  Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Southampton%20%20Liverpool",
+        "pubdate": "Wed, 18 Dec 2024 00:00:00 -0500"
+    },
+    {
+        "title": "Mónaco  PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#M%C3%B3naco%20%20PSG",
+        "pubdate": "Wed, 18 Dec 2024 15:00:00 -0500"
+    },
+    {
+        "title": "Arsenal  Crystal Palace",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Arsenal%20%20Crystal%20Palace",
+        "pubdate": "Wed, 18 Dec 2024 15:00:00 -0500"
+    },
+    {
+        "title": "Villarreal - Rayo Vallecano",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Villarreal%20-%20Rayo%20Vallecano",
+        "pubdate": "Wed, 18 Dec 2024 16:00:00 -0500"
+    },
+    {
+        "title": "Fossati",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Fossati",
+        "pubdate": "Wed, 18 Dec 2024 15:00:00 -0500"
+    },
+    {
+        "title": "Copa peru",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Copa%20peru",
+        "pubdate": "Wed, 18 Dec 2024 14:00:00 -0500"
+    },
+    {
+        "title": "Atalanta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Atalanta",
+        "pubdate": "Wed, 18 Dec 2024 18:00:00 -0500"
+    },
+    {
+        "title": "Barcelona  Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Barcelona%20%20Man%20City",
+        "pubdate": "Wed, 18 Dec 2024 14:00:00 -0500"
+    },
+    {
+        "title": "RCD Espanyol - Valencia CF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#RCD%20Espanyol%20-%20Valencia%20CF",
+        "pubdate": "Wed, 18 Dec 2024 18:00:00 -0500"
+    },
+    {
+        "title": "Monaco vs PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Monaco%20vs%20PSG",
+        "pubdate": "Wed, 18 Dec 2024 17:00:00 -0500"
+    },
+    {
+        "title": "Atv",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Atv",
+        "pubdate": "Wed, 18 Dec 2024 16:00:00 -0500"
+    },
+    {
+        "title": "Real Madrid  Pachuca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Real%20Madrid%20%20Pachuca",
+        "pubdate": "Tue, 17 Dec 2024 01:00:00 -0500"
+    },
+    {
         "title": "Juventus  Cagliari",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Juventus%20%20Cagliari",
         "pubdate": "Tue, 17 Dec 2024 15:00:00 -0500"
@@ -10,14 +70,24 @@
         "pubdate": "Tue, 17 Dec 2024 03:00:00 -0500"
     },
     {
-        "title": "Real Madrid vs Pachuca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Real%20Madrid%20vs%20Pachuca",
-        "pubdate": "Tue, 17 Dec 2024 01:00:00 -0500"
-    },
-    {
         "title": "Raphael",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Raphael",
         "pubdate": "Tue, 17 Dec 2024 19:00:00 -0500"
+    },
+    {
+        "title": "Andrea Vidal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Andrea%20Vidal",
+        "pubdate": "Tue, 17 Dec 2024 22:00:00 -0500"
+    },
+    {
+        "title": "The Best",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#The%20Best",
+        "pubdate": "Tue, 17 Dec 2024 14:00:00 -0500"
+    },
+    {
+        "title": "UIT",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#UIT",
+        "pubdate": "Tue, 17 Dec 2024 10:00:00 -0500"
     },
     {
         "title": "Sunat",
@@ -25,78 +95,8 @@
         "pubdate": "Mon, 16 Dec 2024 15:00:00 -0500"
     },
     {
-        "title": "Lazio  Inter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Lazio%20%20Inter",
-        "pubdate": "Mon, 16 Dec 2024 15:00:00 -0500"
-    },
-    {
-        "title": "Banco de la nacion",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Banco%20de%20la%20nacion",
+        "title": "Banco de la Nacion",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Banco%20de%20la%20Nacion",
         "pubdate": "Mon, 16 Dec 2024 12:00:00 -0500"
-    },
-    {
-        "title": "System of a Down",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#System%20of%20a%20Down",
-        "pubdate": "Mon, 16 Dec 2024 11:00:00 -0500"
-    },
-    {
-        "title": "BBVA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#BBVA",
-        "pubdate": "Mon, 16 Dec 2024 17:00:00 -0500"
-    },
-    {
-        "title": "BN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#BN",
-        "pubdate": "Mon, 16 Dec 2024 13:00:00 -0500"
-    },
-    {
-        "title": "Tipo de cambio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Tipo%20de%20cambio",
-        "pubdate": "Mon, 16 Dec 2024 12:00:00 -0500"
-    },
-    {
-        "title": "Bournemouth  (West Ham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Bournemouth%20%20(West%20Ham",
-        "pubdate": "Mon, 16 Dec 2024 16:00:00 -0500"
-    },
-    {
-        "title": "Poder Judicial",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Poder%20Judicial",
-        "pubdate": "Mon, 16 Dec 2024 11:00:00 -0500"
-    },
-    {
-        "title": "UIT",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#UIT",
-        "pubdate": "Mon, 16 Dec 2024 15:00:00 -0500"
-    },
-    {
-        "title": "Tottenham vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Tottenham%20vs",
-        "pubdate": "Mon, 16 Dec 2024 12:00:00 -0500"
-    },
-    {
-        "title": "SIS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#SIS",
-        "pubdate": "Mon, 16 Dec 2024 12:00:00 -0500"
-    },
-    {
-        "title": "El peruano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#El%20peruano",
-        "pubdate": "Mon, 16 Dec 2024 09:00:00 -0500"
-    },
-    {
-        "title": "Guillermo Viscarra",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Guillermo%20Viscarra",
-        "pubdate": "Mon, 16 Dec 2024 00:00:00 -0500"
-    },
-    {
-        "title": "Teams",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Teams",
-        "pubdate": "Mon, 16 Dec 2024 16:00:00 -0500"
-    },
-    {
-        "title": "EsSalud",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#EsSalud",
-        "pubdate": "Mon, 16 Dec 2024 15:00:00 -0500"
     }
 ]
