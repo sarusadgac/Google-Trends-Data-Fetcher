@@ -1,13 +1,48 @@
 [
     {
+        "title": "Putin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Putin",
+        "pubdate": "Fri, 20 Dec 2024 00:00:00 +0200"
+    },
+    {
+        "title": "Joker",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Joker",
+        "pubdate": "Fri, 20 Dec 2024 00:00:00 +0200"
+    },
+    {
+        "title": "Valtteri Bottas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Valtteri%20Bottas",
+        "pubdate": "Fri, 20 Dec 2024 01:00:00 +0200"
+    },
+    {
+        "title": "Kaapo Kakko",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Kaapo%20Kakko",
+        "pubdate": "Thu, 19 Dec 2024 07:00:00 +0200"
+    },
+    {
+        "title": "Dominique Pelicot",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Dominique%20Pelicot",
+        "pubdate": "Thu, 19 Dec 2024 13:00:00 +0200"
+    },
+    {
+        "title": "Tottenham – manu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tottenham%20%E2%80%93%20manu",
+        "pubdate": "Thu, 19 Dec 2024 13:00:00 +0200"
+    },
+    {
+        "title": "SP500",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#SP500",
+        "pubdate": "Thu, 19 Dec 2024 12:00:00 +0200"
+    },
+    {
+        "title": "Notre Dame",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Notre%20Dame",
+        "pubdate": "Thu, 19 Dec 2024 10:00:00 +0200"
+    },
+    {
         "title": "Real Madrid – Pachuca",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Real%20Madrid%20%E2%80%93%20Pachuca",
         "pubdate": "Wed, 18 Dec 2024 19:00:00 +0200"
-    },
-    {
-        "title": "Patrik Laine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Patrik%20Laine",
-        "pubdate": "Wed, 18 Dec 2024 15:00:00 +0200"
     },
     {
         "title": "Southampton – Liverpool",
@@ -45,6 +80,11 @@
         "pubdate": "Tue, 17 Dec 2024 18:00:00 +0200"
     },
     {
+        "title": "RockFest",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#RockFest",
+        "pubdate": "Tue, 17 Dec 2024 13:00:00 +0200"
+    },
+    {
         "title": "Janis Timma",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Janis%20Timma",
         "pubdate": "Tue, 17 Dec 2024 16:00:00 +0200"
@@ -58,45 +98,5 @@
         "title": "Eva Longoria",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Eva%20Longoria",
         "pubdate": "Tue, 17 Dec 2024 21:00:00 +0200"
-    },
-    {
-        "title": "Igor Kirillov",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Igor%20Kirillov",
-        "pubdate": "Tue, 17 Dec 2024 21:00:00 +0200"
-    },
-    {
-        "title": "Vanuatu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Vanuatu",
-        "pubdate": "Tue, 17 Dec 2024 18:00:00 +0200"
-    },
-    {
-        "title": "Lamborghini",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Lamborghini",
-        "pubdate": "Tue, 17 Dec 2024 12:00:00 +0200"
-    },
-    {
-        "title": "Anna Sedokova",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Anna%20Sedokova",
-        "pubdate": "Tue, 17 Dec 2024 17:00:00 +0200"
-    },
-    {
-        "title": "Pulp Fiction",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Pulp%20Fiction",
-        "pubdate": "Tue, 17 Dec 2024 09:00:00 +0200"
-    },
-    {
-        "title": "RLUSD",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#RLUSD",
-        "pubdate": "Tue, 17 Dec 2024 18:00:00 +0200"
-    },
-    {
-        "title": "Marisa Paredes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Marisa%20Paredes",
-        "pubdate": "Tue, 17 Dec 2024 21:00:00 +0200"
-    },
-    {
-        "title": "Jill Jacobson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Jill%20Jacobson",
-        "pubdate": "Tue, 17 Dec 2024 10:00:00 +0200"
     }
 ]
