@@ -1,5 +1,60 @@
 [
     {
+        "title": "Ridley Scott",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Ridley%20Scott",
+        "pubdate": "Sat, 21 Dec 2024 00:00:00 +0200"
+    },
+    {
+        "title": "AfD",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#AfD",
+        "pubdate": "Sat, 21 Dec 2024 00:00:00 +0200"
+    },
+    {
+        "title": "Gaboro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Gaboro",
+        "pubdate": "Fri, 20 Dec 2024 10:00:00 +0200"
+    },
+    {
+        "title": "Novo Nordisk stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Novo%20Nordisk%20stock",
+        "pubdate": "Fri, 20 Dec 2024 16:00:00 +0200"
+    },
+    {
+        "title": "Magdeburg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Magdeburg",
+        "pubdate": "Fri, 20 Dec 2024 23:00:00 +0200"
+    },
+    {
+        "title": "Kick",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Kick",
+        "pubdate": "Fri, 20 Dec 2024 05:00:00 +0200"
+    },
+    {
+        "title": "Singapore",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Singapore",
+        "pubdate": "Fri, 20 Dec 2024 19:00:00 +0200"
+    },
+    {
+        "title": "Valio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Valio",
+        "pubdate": "Fri, 20 Dec 2024 21:00:00 +0200"
+    },
+    {
+        "title": "Merry Christmas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Merry%20Christmas",
+        "pubdate": "Fri, 20 Dec 2024 16:00:00 +0200"
+    },
+    {
+        "title": "Chelsea – Shamrock Rovers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Chelsea%20%E2%80%93%20Shamrock%20Rovers",
+        "pubdate": "Fri, 20 Dec 2024 06:00:00 +0200"
+    },
+    {
+        "title": "Valtteri Bottas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Valtteri%20Bottas",
+        "pubdate": "Fri, 20 Dec 2024 01:00:00 +0200"
+    },
+    {
         "title": "Putin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Putin",
         "pubdate": "Fri, 20 Dec 2024 00:00:00 +0200"
@@ -10,9 +65,14 @@
         "pubdate": "Fri, 20 Dec 2024 00:00:00 +0200"
     },
     {
-        "title": "Valtteri Bottas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Valtteri%20Bottas",
-        "pubdate": "Fri, 20 Dec 2024 01:00:00 +0200"
+        "title": "Op",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Op",
+        "pubdate": "Thu, 19 Dec 2024 19:00:00 +0200"
+    },
+    {
+        "title": "Eriikka Maalismaa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Eriikka%20Maalismaa",
+        "pubdate": "Thu, 19 Dec 2024 19:00:00 +0200"
     },
     {
         "title": "Kaapo Kakko",
@@ -20,19 +80,14 @@
         "pubdate": "Thu, 19 Dec 2024 07:00:00 +0200"
     },
     {
-        "title": "Dominique Pelicot",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Dominique%20Pelicot",
+        "title": "Gisele Pelicot",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Gisele%20Pelicot",
         "pubdate": "Thu, 19 Dec 2024 13:00:00 +0200"
     },
     {
-        "title": "Tottenham – manu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tottenham%20%E2%80%93%20manu",
+        "title": "Tottenham vs Man United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tottenham%20vs%20Man%20United",
         "pubdate": "Thu, 19 Dec 2024 13:00:00 +0200"
-    },
-    {
-        "title": "SP500",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#SP500",
-        "pubdate": "Thu, 19 Dec 2024 12:00:00 +0200"
     },
     {
         "title": "Notre Dame",
@@ -43,60 +98,5 @@
         "title": "Real Madrid – Pachuca",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Real%20Madrid%20%E2%80%93%20Pachuca",
         "pubdate": "Wed, 18 Dec 2024 19:00:00 +0200"
-    },
-    {
-        "title": "Southampton – Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Southampton%20%E2%80%93%20Liverpool",
-        "pubdate": "Wed, 18 Dec 2024 22:00:00 +0200"
-    },
-    {
-        "title": "Arsenal – Crystal Palace",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Arsenal%20%E2%80%93%20Crystal%20Palace",
-        "pubdate": "Wed, 18 Dec 2024 23:00:00 +0200"
-    },
-    {
-        "title": "Matilda Djerf",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Matilda%20Djerf",
-        "pubdate": "Wed, 18 Dec 2024 00:00:00 +0200"
-    },
-    {
-        "title": "Arnold Schwarzenegger",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Arnold%20Schwarzenegger",
-        "pubdate": "Wed, 18 Dec 2024 18:00:00 +0200"
-    },
-    {
-        "title": "Last Christmas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Last%20Christmas",
-        "pubdate": "Wed, 18 Dec 2024 00:00:00 +0200"
-    },
-    {
-        "title": "Bruce Willis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bruce%20Willis",
-        "pubdate": "Wed, 18 Dec 2024 00:00:00 +0200"
-    },
-    {
-        "title": "Hostaway",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Hostaway",
-        "pubdate": "Tue, 17 Dec 2024 18:00:00 +0200"
-    },
-    {
-        "title": "RockFest",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#RockFest",
-        "pubdate": "Tue, 17 Dec 2024 13:00:00 +0200"
-    },
-    {
-        "title": "Janis Timma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Janis%20Timma",
-        "pubdate": "Tue, 17 Dec 2024 16:00:00 +0200"
-    },
-    {
-        "title": "Natalie Rupnow",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Natalie%20Rupnow",
-        "pubdate": "Tue, 17 Dec 2024 17:00:00 +0200"
-    },
-    {
-        "title": "Eva Longoria",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Eva%20Longoria",
-        "pubdate": "Tue, 17 Dec 2024 21:00:00 +0200"
     }
 ]
