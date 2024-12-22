@@ -1,7 +1,12 @@
 [
     {
-        "title": "Tagesschau",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tagesschau",
+        "title": "Tyson Fury",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tyson%20Fury",
+        "pubdate": "Sat, 21 Dec 2024 21:00:00 +0100"
+    },
+    {
+        "title": "AfD",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#AfD",
         "pubdate": "Sat, 21 Dec 2024 01:00:00 +0100"
     },
     {
@@ -10,39 +15,14 @@
         "pubdate": "Fri, 20 Dec 2024 20:00:00 +0100"
     },
     {
-        "title": "Bayern – RB Leipzig",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayern%20%E2%80%93%20RB%20Leipzig",
-        "pubdate": "Fri, 20 Dec 2024 15:00:00 +0100"
-    },
-    {
-        "title": "Elon Musk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Elon%20Musk",
-        "pubdate": "Fri, 20 Dec 2024 14:00:00 +0100"
+        "title": "Nachrichten",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Nachrichten",
+        "pubdate": "Fri, 20 Dec 2024 23:00:00 +0100"
     },
     {
         "title": "MDR",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#MDR",
         "pubdate": "Fri, 20 Dec 2024 21:00:00 +0100"
-    },
-    {
-        "title": "Bayern vs RB Leipzig",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayern%20vs%20RB%20Leipzig",
-        "pubdate": "Fri, 20 Dec 2024 22:00:00 +0100"
-    },
-    {
-        "title": "Tom Cruise",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tom%20Cruise",
-        "pubdate": "Fri, 20 Dec 2024 22:00:00 +0100"
-    },
-    {
-        "title": "Mannheim",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Mannheim",
-        "pubdate": "Fri, 20 Dec 2024 23:00:00 +0100"
-    },
-    {
-        "title": "Pelicot",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Pelicot",
-        "pubdate": "Thu, 19 Dec 2024 12:00:00 +0100"
     },
     {
         "title": "Vertrauensfrage",
@@ -98,5 +78,25 @@
         "title": "UEFA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#UEFA",
         "pubdate": "Tue, 10 Dec 2024 22:00:00 +0100"
+    },
+    {
+        "title": "Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Champions%20League",
+        "pubdate": "Mon, 09 Dec 2024 18:00:00 +0100"
+    },
+    {
+        "title": "Assad Syrien",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Assad%20Syrien",
+        "pubdate": "Sun, 08 Dec 2024 10:00:00 +0100"
+    },
+    {
+        "title": "Notre-Dame",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Notre-Dame",
+        "pubdate": "Sat, 07 Dec 2024 11:00:00 +0100"
+    },
+    {
+        "title": "Ein Herz für Kinder",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ein%20Herz%20f%C3%BCr%20Kinder",
+        "pubdate": "Sat, 07 Dec 2024 21:00:00 +0100"
     }
 ]
