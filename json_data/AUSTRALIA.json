@@ -1,13 +1,38 @@
 [
     {
-        "title": "Merry Christmas!",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Merry%20Christmas!",
+        "title": "Christmas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Christmas",
+        "pubdate": "Wed, 25 Dec 2024 08:00:00 +1100"
+    },
+    {
+        "title": "Christmas movies",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Christmas%20movies",
+        "pubdate": "Wed, 25 Dec 2024 02:00:00 +1100"
+    },
+    {
+        "title": "Best Christmas movies",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Best%20Christmas%20movies",
+        "pubdate": "Wed, 25 Dec 2024 08:00:00 +1100"
+    },
+    {
+        "title": "Christmas songs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Christmas%20songs",
+        "pubdate": "Wed, 25 Dec 2024 08:00:00 +1100"
+    },
+    {
+        "title": "Santa Tracker",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Santa%20Tracker",
+        "pubdate": "Tue, 24 Dec 2024 13:00:00 +1100"
+    },
+    {
+        "title": "Merry Christmas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Merry%20Christmas",
         "pubdate": "Tue, 24 Dec 2024 00:00:00 +1100"
     },
     {
-        "title": "Dusk Christmas candle recall",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Dusk%20Christmas%20candle%20recall",
-        "pubdate": "Tue, 24 Dec 2024 00:00:00 +1100"
+        "title": "Home Alone",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Home%20Alone",
+        "pubdate": "Tue, 24 Dec 2024 22:00:00 +1100"
     },
     {
         "title": "Nissan Honda merger",
@@ -15,14 +40,9 @@
         "pubdate": "Tue, 24 Dec 2024 07:00:00 +1100"
     },
     {
-        "title": "Perth Scorchers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Perth%20Scorchers",
-        "pubdate": "Tue, 24 Dec 2024 01:00:00 +1100"
-    },
-    {
-        "title": "Cyclone Tracy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Cyclone%20Tracy",
-        "pubdate": "Tue, 24 Dec 2024 11:00:00 +1100"
+        "title": "The Odyssey",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#The%20Odyssey",
+        "pubdate": "Tue, 24 Dec 2024 16:00:00 +1100"
     },
     {
         "title": "Greenland",
@@ -30,9 +50,19 @@
         "pubdate": "Tue, 24 Dec 2024 10:00:00 +1100"
     },
     {
-        "title": "Merry Christmas and Happy New Year",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Merry%20Christmas%20and%20Happy%20New%20Year",
+        "title": "Cyclone Tracy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Cyclone%20Tracy",
         "pubdate": "Tue, 24 Dec 2024 11:00:00 +1100"
+    },
+    {
+        "title": "Christmas wishes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Christmas%20wishes",
+        "pubdate": "Tue, 24 Dec 2024 14:00:00 +1100"
+    },
+    {
+        "title": "Christmas carols",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Christmas%20carols",
+        "pubdate": "Tue, 24 Dec 2024 20:00:00 +1100"
     },
     {
         "title": "Matt Gaetz",
@@ -40,63 +70,33 @@
         "pubdate": "Tue, 24 Dec 2024 12:00:00 +1100"
     },
     {
+        "title": "Christmas message",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Christmas%20message",
+        "pubdate": "Tue, 24 Dec 2024 22:00:00 +1100"
+    },
+    {
+        "title": "Reindeer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Reindeer",
+        "pubdate": "Tue, 24 Dec 2024 23:00:00 +1100"
+    },
+    {
+        "title": "Bill Clinton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bill%20Clinton",
+        "pubdate": "Tue, 24 Dec 2024 20:00:00 +1100"
+    },
+    {
+        "title": "All I Want for Christmas Is You",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#All%20I%20Want%20for%20Christmas%20Is%20You",
+        "pubdate": "Tue, 24 Dec 2024 23:00:00 +1100"
+    },
+    {
+        "title": "Katie Boulter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Katie%20Boulter",
+        "pubdate": "Tue, 24 Dec 2024 15:00:00 +1100"
+    },
+    {
         "title": "DAZN",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#DAZN",
         "pubdate": "Mon, 23 Dec 2024 16:00:00 +1100"
-    },
-    {
-        "title": "Paul Hogan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Paul%20Hogan",
-        "pubdate": "Mon, 23 Dec 2024 19:00:00 +1100"
-    },
-    {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Liverpool",
-        "pubdate": "Mon, 23 Dec 2024 11:00:00 +1100"
-    },
-    {
-        "title": "Charlie Woods",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Charlie%20Woods",
-        "pubdate": "Mon, 23 Dec 2024 10:00:00 +1100"
-    },
-    {
-        "title": "Panama Canal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Panama%20Canal",
-        "pubdate": "Mon, 23 Dec 2024 09:00:00 +1100"
-    },
-    {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Real%20Madrid",
-        "pubdate": "Mon, 23 Dec 2024 13:00:00 +1100"
-    },
-    {
-        "title": "Oscar Jenkins",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Oscar%20Jenkins",
-        "pubdate": "Mon, 23 Dec 2024 13:00:00 +1100"
-    },
-    {
-        "title": "Eddie Aikau 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Eddie%20Aikau%202024",
-        "pubdate": "Mon, 23 Dec 2024 12:00:00 +1100"
-    },
-    {
-        "title": "Kevin Andrews",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Kevin%20Andrews",
-        "pubdate": "Mon, 23 Dec 2024 18:00:00 +1100"
-    },
-    {
-        "title": "Liverpool FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Liverpool%20FC",
-        "pubdate": "Mon, 23 Dec 2024 08:00:00 +1100"
-    },
-    {
-        "title": "Christmas Eve",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Christmas%20Eve",
-        "pubdate": "Mon, 23 Dec 2024 21:00:00 +1100"
-    },
-    {
-        "title": "Max Purcell",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Max%20Purcell",
-        "pubdate": "Mon, 23 Dec 2024 23:00:00 +1100"
     }
 ]

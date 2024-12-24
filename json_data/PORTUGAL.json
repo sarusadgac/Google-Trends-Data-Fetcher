@@ -1,8 +1,63 @@
 [
     {
+        "title": "Pai Natal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pai%20Natal",
+        "pubdate": "Tue, 24 Dec 2024 14:00:00 +0000"
+    },
+    {
+        "title": "Natal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Natal",
+        "pubdate": "Tue, 24 Dec 2024 11:00:00 +0000"
+    },
+    {
+        "title": "Christmas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Christmas",
+        "pubdate": "Tue, 24 Dec 2024 19:00:00 +0000"
+    },
+    {
         "title": "Laponia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Laponia",
         "pubdate": "Tue, 24 Dec 2024 01:00:00 +0000"
+    },
+    {
+        "title": "Música de Natal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#M%C3%BAsica%20de%20Natal",
+        "pubdate": "Tue, 24 Dec 2024 13:00:00 +0000"
+    },
+    {
+        "title": "Mickael Carreira",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Mickael%20Carreira",
+        "pubdate": "Tue, 24 Dec 2024 00:00:00 +0000"
+    },
+    {
+        "title": "Love Actually",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Love%20Actually",
+        "pubdate": "Tue, 24 Dec 2024 21:00:00 +0000"
+    },
+    {
+        "title": "Rabanada",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rabanada",
+        "pubdate": "Tue, 24 Dec 2024 10:00:00 +0000"
+    },
+    {
+        "title": "Músicas de Natal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#M%C3%BAsicas%20de%20Natal",
+        "pubdate": "Tue, 24 Dec 2024 16:00:00 +0000"
+    },
+    {
+        "title": "Starlink",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Starlink",
+        "pubdate": "Tue, 24 Dec 2024 20:00:00 +0000"
+    },
+    {
+        "title": "Nissan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Nissan",
+        "pubdate": "Tue, 24 Dec 2024 09:00:00 +0000"
+    },
+    {
+        "title": "Missa do Galo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Missa%20do%20Galo",
+        "pubdate": "Tue, 24 Dec 2024 19:00:00 +0000"
     },
     {
         "title": "Pave",
@@ -10,93 +65,38 @@
         "pubdate": "Tue, 24 Dec 2024 00:00:00 +0000"
     },
     {
-        "title": "Bom Natal!",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bom%20Natal!",
-        "pubdate": "Tue, 24 Dec 2024 01:00:00 +0000"
+        "title": "MENSAGEM Natal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#MENSAGEM%20Natal",
+        "pubdate": "Tue, 24 Dec 2024 16:00:00 +0000"
     },
     {
-        "title": "Vitória SC  Nacional",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Vit%C3%B3ria%20SC%20%20Nacional",
-        "pubdate": "Mon, 23 Dec 2024 19:00:00 +0000"
+        "title": "Feliz Natal e prospero Ano Novo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Feliz%20Natal%20e%20prospero%20Ano%20Novo",
+        "pubdate": "Tue, 24 Dec 2024 09:00:00 +0000"
     },
     {
-        "title": "Sport Lisboa e Benfica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sport%20Lisboa%20e%20Benfica",
-        "pubdate": "Mon, 23 Dec 2024 21:00:00 +0000"
+        "title": "Salpicão",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Salpic%C3%A3o",
+        "pubdate": "Tue, 24 Dec 2024 17:00:00 +0000"
     },
     {
-        "title": "Estrela Amadora  Rio Ave",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Estrela%20Amadora%20%20Rio%20Ave",
-        "pubdate": "Mon, 23 Dec 2024 21:00:00 +0000"
+        "title": "Where is Santa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Where%20is%20Santa",
+        "pubdate": "Tue, 24 Dec 2024 21:00:00 +0000"
     },
     {
-        "title": "Mensagens de Natal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Mensagens%20de%20Natal",
-        "pubdate": "Mon, 23 Dec 2024 02:00:00 +0000"
+        "title": "Guimaraes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Guimaraes",
+        "pubdate": "Tue, 24 Dec 2024 11:00:00 +0000"
     },
     {
-        "title": "Mensagem de Natal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Mensagem%20de%20Natal",
-        "pubdate": "Mon, 23 Dec 2024 15:00:00 +0000"
+        "title": "Penamacor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Penamacor",
+        "pubdate": "Tue, 24 Dec 2024 20:00:00 +0000"
     },
     {
-        "title": "Vasco Pereira Coutinho",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Vasco%20Pereira%20Coutinho",
-        "pubdate": "Mon, 23 Dec 2024 00:00:00 +0000"
-    },
-    {
-        "title": "Arroz doce",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Arroz%20doce",
-        "pubdate": "Mon, 23 Dec 2024 21:00:00 +0000"
-    },
-    {
-        "title": "BOAS FESTAS! 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#BOAS%20FESTAS!%202024",
-        "pubdate": "Mon, 23 Dec 2024 13:00:00 +0000"
-    },
-    {
-        "title": "Vitoria",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Vitoria",
-        "pubdate": "Mon, 23 Dec 2024 19:00:00 +0000"
-    },
-    {
-        "title": "Slbenfica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Slbenfica",
-        "pubdate": "Mon, 23 Dec 2024 21:00:00 +0000"
-    },
-    {
-        "title": "Sonhos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sonhos",
-        "pubdate": "Mon, 23 Dec 2024 18:00:00 +0000"
-    },
-    {
-        "title": "Força Aérea Portuguesa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#For%C3%A7a%20A%C3%A9rea%20Portuguesa",
-        "pubdate": "Mon, 23 Dec 2024 19:00:00 +0000"
-    },
-    {
-        "title": "Antena 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Antena%201",
-        "pubdate": "Mon, 23 Dec 2024 20:00:00 +0000"
-    },
-    {
-        "title": "Serviço Nacional de Saúde",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Servi%C3%A7o%20Nacional%20de%20Sa%C3%BAde",
-        "pubdate": "Mon, 23 Dec 2024 20:00:00 +0000"
-    },
-    {
-        "title": "Sofia Alves",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sofia%20Alves",
-        "pubdate": "Mon, 23 Dec 2024 19:00:00 +0000"
-    },
-    {
-        "title": "Canal do Panamá",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Canal%20do%20Panam%C3%A1",
-        "pubdate": "Mon, 23 Dec 2024 14:00:00 +0000"
-    },
-    {
-        "title": "Salpicao",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Salpicao",
-        "pubdate": "Mon, 23 Dec 2024 18:00:00 +0000"
+        "title": "Nova iorque",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Nova%20iorque",
+        "pubdate": "Tue, 24 Dec 2024 21:00:00 +0000"
     }
 ]

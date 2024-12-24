@@ -1,38 +1,43 @@
 [
     {
-        "title": "Koper Blokker",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Koper%20Blokker",
-        "pubdate": "Mon, 23 Dec 2024 20:00:00 +0100"
+        "title": "Top 2000",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Top%202000",
+        "pubdate": "Tue, 24 Dec 2024 19:00:00 +0100"
     },
     {
-        "title": "Gian van Veen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Gian%20van%20Veen",
-        "pubdate": "Mon, 23 Dec 2024 21:00:00 +0100"
+        "title": "Fijne feestdagen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Fijne%20feestdagen",
+        "pubdate": "Tue, 24 Dec 2024 16:00:00 +0100"
     },
     {
-        "title": "Rob Kamphues",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Rob%20Kamphues",
-        "pubdate": "Mon, 23 Dec 2024 19:00:00 +0100"
+        "title": "3FM Serious Request",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#3FM%20Serious%20Request",
+        "pubdate": "Tue, 24 Dec 2024 20:00:00 +0100"
     },
     {
-        "title": "Mathieu van der Poel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Mathieu%20van%20der%20Poel",
-        "pubdate": "Mon, 23 Dec 2024 04:00:00 +0100"
+        "title": "Roland Palmer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Roland%20Palmer",
+        "pubdate": "Tue, 24 Dec 2024 09:00:00 +0100"
+    },
+    {
+        "title": "Hunted",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Hunted",
+        "pubdate": "Tue, 24 Dec 2024 01:00:00 +0100"
+    },
+    {
+        "title": "Frans Bauer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Frans%20Bauer",
+        "pubdate": "Tue, 24 Dec 2024 22:00:00 +0100"
+    },
+    {
+        "title": "Een huis vol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Een%20huis%20vol",
+        "pubdate": "Mon, 23 Dec 2024 23:00:00 +0100"
     },
     {
         "title": "De slimste mens",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#De%20slimste%20mens",
         "pubdate": "Mon, 23 Dec 2024 22:00:00 +0100"
-    },
-    {
-        "title": "PSV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV",
-        "pubdate": "Sun, 22 Dec 2024 22:00:00 +0100"
-    },
-    {
-        "title": "Fortuna Sittard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Fortuna%20Sittard",
-        "pubdate": "Sun, 22 Dec 2024 23:00:00 +0100"
     },
     {
         "title": "PSV  Feyenoord",
@@ -93,10 +98,5 @@
         "title": "Oekraïne",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Oekra%C3%AFne",
         "pubdate": "Sun, 15 Dec 2024 22:00:00 +0100"
-    },
-    {
-        "title": "Sparta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sparta",
-        "pubdate": "Sun, 15 Dec 2024 23:00:00 +0100"
     }
 ]
