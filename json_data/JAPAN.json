@@ -5,9 +5,19 @@
         "pubdate": "Tue, 24 Dec 2024 01:00:00 +0900"
     },
     {
+        "title": "サンタクロース",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%82%B5%E3%83%B3%E3%82%BF%E3%82%AF%E3%83%AD%E3%83%BC%E3%82%B9",
+        "pubdate": "Tue, 24 Dec 2024 11:00:00 +0900"
+    },
+    {
         "title": "クリスマスソング",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%BD%E3%83%B3%E3%82%B0",
         "pubdate": "Tue, 24 Dec 2024 20:00:00 +0900"
+    },
+    {
+        "title": "ローストチキン",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%AD%E3%83%BC%E3%82%B9%E3%83%88%E3%83%81%E3%82%AD%E3%83%B3",
+        "pubdate": "Tue, 24 Dec 2024 15:00:00 +0900"
     },
     {
         "title": "ヤマト運輸 日本郵便",
@@ -20,6 +30,21 @@
         "pubdate": "Tue, 24 Dec 2024 16:00:00 +0900"
     },
     {
+        "title": "森山良子",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E6%A3%AE%E5%B1%B1%E8%89%AF%E5%AD%90",
+        "pubdate": "Tue, 24 Dec 2024 14:00:00 +0900"
+    },
+    {
+        "title": "グリーンランド",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89",
+        "pubdate": "Tue, 24 Dec 2024 16:00:00 +0900"
+    },
+    {
+        "title": "宮世琉弥",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%AE%AE%E4%B8%96%E7%90%89%E5%BC%A5",
+        "pubdate": "Tue, 24 Dec 2024 21:00:00 +0900"
+    },
+    {
         "title": "インフルエンザ 感染",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6%20%E6%84%9F%E6%9F%93",
         "pubdate": "Tue, 24 Dec 2024 14:00:00 +0900"
@@ -28,11 +53,6 @@
         "title": "北朝鮮",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%8C%97%E6%9C%9D%E9%AE%AE",
         "pubdate": "Tue, 24 Dec 2024 05:00:00 +0900"
-    },
-    {
-        "title": "グリーンランド",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89",
-        "pubdate": "Tue, 24 Dec 2024 16:00:00 +0900"
     },
     {
         "title": "福谷浩司",
@@ -45,29 +65,19 @@
         "pubdate": "Tue, 24 Dec 2024 22:00:00 +0900"
     },
     {
-        "title": "本仮屋ユイカ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E6%9C%AC%E4%BB%AE%E5%B1%8B%E3%83%A6%E3%82%A4%E3%82%AB",
-        "pubdate": "Tue, 24 Dec 2024 22:00:00 +0900"
-    },
-    {
         "title": "テスラ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%86%E3%82%B9%E3%83%A9",
         "pubdate": "Tue, 24 Dec 2024 11:00:00 +0900"
     },
     {
-        "title": "川島海荷",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%B7%9D%E5%B3%B6%E6%B5%B7%E8%8D%B7",
-        "pubdate": "Mon, 23 Dec 2024 14:00:00 +0900"
+        "title": "日産",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E6%97%A5%E7%94%A3",
+        "pubdate": "Mon, 23 Dec 2024 20:00:00 +0900"
     },
     {
         "title": "クリスマスイブ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%A4%E3%83%96",
         "pubdate": "Mon, 23 Dec 2024 18:00:00 +0900"
-    },
-    {
-        "title": "日産",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E6%97%A5%E7%94%A3",
-        "pubdate": "Mon, 23 Dec 2024 20:00:00 +0900"
     },
     {
         "title": "ウインターカップ2024",
@@ -80,23 +90,13 @@
         "pubdate": "Mon, 23 Dec 2024 14:00:00 +0900"
     },
     {
+        "title": "ロシア",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%AD%E3%82%B7%E3%82%A2",
+        "pubdate": "Mon, 23 Dec 2024 23:00:00 +0900"
+    },
+    {
         "title": "有馬記念",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E6%9C%89%E9%A6%AC%E8%A8%98%E5%BF%B5",
         "pubdate": "Sun, 22 Dec 2024 16:00:00 +0900"
-    },
-    {
-        "title": "バッテリィズ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%82%A3%E3%82%BA",
-        "pubdate": "Sun, 22 Dec 2024 19:00:00 +0900"
-    },
-    {
-        "title": "高校駅伝",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E9%AB%98%E6%A0%A1%E9%A7%85%E4%BC%9D",
-        "pubdate": "Sun, 22 Dec 2024 08:00:00 +0900"
-    },
-    {
-        "title": "競馬",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E7%AB%B6%E9%A6%AC",
-        "pubdate": "Sun, 22 Dec 2024 17:00:00 +0900"
     }
 ]

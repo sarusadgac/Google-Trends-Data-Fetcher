@@ -5,14 +5,14 @@
         "pubdate": "Tue, 24 Dec 2024 01:00:00 +0700"
     },
     {
-        "title": "Noel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Noel",
-        "pubdate": "Tue, 24 Dec 2024 16:00:00 +0700"
-    },
-    {
         "title": "Tháp Eiffel bốc cháy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Th%C3%A1p%20Eiffel%20b%E1%BB%91c%20ch%C3%A1y",
         "pubdate": "Tue, 24 Dec 2024 20:00:00 +0700"
+    },
+    {
+        "title": "Nhạc Giáng sinh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Nh%E1%BA%A1c%20Gi%C3%A1ng%20sinh",
+        "pubdate": "Tue, 24 Dec 2024 14:00:00 +0700"
     },
     {
         "title": "Xác thực tài khoản Facebook",
@@ -30,16 +30,6 @@
         "pubdate": "Tue, 24 Dec 2024 07:00:00 +0700"
     },
     {
-        "title": "Jingle Bell",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Jingle%20Bell",
-        "pubdate": "Tue, 24 Dec 2024 14:00:00 +0700"
-    },
-    {
-        "title": "Giáng sinh an lành",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Gi%C3%A1ng%20sinh%20an%20l%C3%A0nh",
-        "pubdate": "Tue, 24 Dec 2024 10:00:00 +0700"
-    },
-    {
         "title": "Lê Sỹ Mạnh",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#L%C3%AA%20S%E1%BB%B9%20M%E1%BA%A1nh",
         "pubdate": "Tue, 24 Dec 2024 10:00:00 +0700"
@@ -50,19 +40,19 @@
         "pubdate": "Tue, 24 Dec 2024 08:00:00 +0700"
     },
     {
-        "title": "Nhạc Giáng sinh",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Nh%E1%BA%A1c%20Gi%C3%A1ng%20sinh",
-        "pubdate": "Tue, 24 Dec 2024 18:00:00 +0700"
-    },
-    {
         "title": "Fiorentina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Fiorentina",
         "pubdate": "Tue, 24 Dec 2024 01:00:00 +0700"
     },
     {
-        "title": "Chúc mừng Giáng sinh 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ch%C3%BAc%20m%E1%BB%ABng%20Gi%C3%A1ng%20sinh%202024",
-        "pubdate": "Tue, 24 Dec 2024 13:00:00 +0700"
+        "title": "We wish you a merry Christmas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#We%20wish%20you%20a%20merry%20Christmas",
+        "pubdate": "Tue, 24 Dec 2024 15:00:00 +0700"
+    },
+    {
+        "title": "Chuc mung giang sinh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Chuc%20mung%20giang%20sinh",
+        "pubdate": "Tue, 24 Dec 2024 21:00:00 +0700"
     },
     {
         "title": "DXG",
@@ -70,19 +60,19 @@
         "pubdate": "Tue, 24 Dec 2024 14:00:00 +0700"
     },
     {
-        "title": "Áp thấp nhiệt đới. Dự báo thời tiết",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#%C3%81p%20th%E1%BA%A5p%20nhi%E1%BB%87t%20%C4%91%E1%BB%9Bi.%20D%E1%BB%B1%20b%C3%A1o%20th%E1%BB%9Di%20ti%E1%BA%BFt",
+        "title": "Chúc Giáng sinh an lành",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ch%C3%BAc%20Gi%C3%A1ng%20sinh%20an%20l%C3%A0nh",
+        "pubdate": "Tue, 24 Dec 2024 15:00:00 +0700"
+    },
+    {
+        "title": "Áp thấp nhiệt đới Dự báo thời tiết",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#%C3%81p%20th%E1%BA%A5p%20nhi%E1%BB%87t%20%C4%91%E1%BB%9Bi%20D%E1%BB%B1%20b%C3%A1o%20th%E1%BB%9Di%20ti%E1%BA%BFt",
         "pubdate": "Tue, 24 Dec 2024 18:00:00 +0700"
     },
     {
         "title": "Quà Giáng sinh",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Qu%C3%A0%20Gi%C3%A1ng%20sinh",
         "pubdate": "Tue, 24 Dec 2024 12:00:00 +0700"
-    },
-    {
-        "title": "Ngày Noel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ng%C3%A0y%20Noel",
-        "pubdate": "Tue, 24 Dec 2024 15:00:00 +0700"
     },
     {
         "title": "Jujutsu Kaisen",
@@ -98,5 +88,15 @@
         "title": "Việt Nam Singapore",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Vi%E1%BB%87t%20Nam%20Singapore",
         "pubdate": "Tue, 24 Dec 2024 16:00:00 +0700"
+    },
+    {
+        "title": "Kính Vạn Hoa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#K%C3%ADnh%20V%E1%BA%A1n%20Hoa",
+        "pubdate": "Tue, 24 Dec 2024 23:00:00 +0700"
+    },
+    {
+        "title": "Ngày Giáng sinh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ng%C3%A0y%20Gi%C3%A1ng%20sinh",
+        "pubdate": "Tue, 24 Dec 2024 20:00:00 +0700"
     }
 ]

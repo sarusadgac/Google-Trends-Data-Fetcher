@@ -1,13 +1,23 @@
 [
     {
+        "title": "Tary",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tary",
+        "pubdate": "Wed, 25 Dec 2024 00:00:00 +0100"
+    },
+    {
+        "title": "Bill Clinton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bill%20Clinton",
+        "pubdate": "Wed, 25 Dec 2024 01:00:00 +0100"
+    },
+    {
+        "title": "Krakonoš a lyžníci",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Krakono%C5%A1%20a%20ly%C5%BEn%C3%ADci",
+        "pubdate": "Wed, 25 Dec 2024 01:00:00 +0100"
+    },
+    {
         "title": "Vanocni prani",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vanocni%20prani",
         "pubdate": "Tue, 24 Dec 2024 10:00:00 +0100"
-    },
-    {
-        "title": "Tři princezny",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#T%C5%99i%20princezny",
-        "pubdate": "Tue, 24 Dec 2024 18:00:00 +0100"
     },
     {
         "title": "Lotrando a Zubejda",
@@ -25,6 +35,11 @@
         "pubdate": "Tue, 24 Dec 2024 12:00:00 +0100"
     },
     {
+        "title": "Stastne a vesele vanoce",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Stastne%20a%20vesele%20vanoce",
+        "pubdate": "Tue, 24 Dec 2024 06:00:00 +0100"
+    },
+    {
         "title": "Vánoční koledy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#V%C3%A1no%C4%8Dn%C3%AD%20koledy",
         "pubdate": "Tue, 24 Dec 2024 14:00:00 +0100"
@@ -40,9 +55,14 @@
         "pubdate": "Tue, 24 Dec 2024 09:00:00 +0100"
     },
     {
-        "title": "Stastne a vesele vanoce",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Stastne%20a%20vesele%20vanoce",
-        "pubdate": "Tue, 24 Dec 2024 06:00:00 +0100"
+        "title": "Donutil",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Donutil",
+        "pubdate": "Tue, 24 Dec 2024 12:00:00 +0100"
+    },
+    {
+        "title": "Karel Gott",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Karel%20Gott",
+        "pubdate": "Tue, 24 Dec 2024 16:00:00 +0100"
     },
     {
         "title": "Christmas",
@@ -60,6 +80,11 @@
         "pubdate": "Tue, 24 Dec 2024 14:00:00 +0100"
     },
     {
+        "title": "Princezna na hrášku",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Princezna%20na%20hr%C3%A1%C5%A1ku",
+        "pubdate": "Tue, 24 Dec 2024 19:00:00 +0100"
+    },
+    {
         "title": "Pyšná princezna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Py%C5%A1n%C3%A1%20princezna",
         "pubdate": "Tue, 24 Dec 2024 16:00:00 +0100"
@@ -70,33 +95,8 @@
         "pubdate": "Tue, 24 Dec 2024 12:00:00 +0100"
     },
     {
-        "title": "Princezna na hrášku",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Princezna%20na%20hr%C3%A1%C5%A1ku",
-        "pubdate": "Tue, 24 Dec 2024 19:00:00 +0100"
-    },
-    {
-        "title": "Miroslav Donutil",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Miroslav%20Donutil",
-        "pubdate": "Tue, 24 Dec 2024 12:00:00 +0100"
-    },
-    {
-        "title": "Karel Gott",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Karel%20Gott",
-        "pubdate": "Tue, 24 Dec 2024 16:00:00 +0100"
-    },
-    {
-        "title": "Šíleně smutná princezna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C5%A0%C3%ADlen%C4%9B%20smutn%C3%A1%20princezna",
-        "pubdate": "Tue, 24 Dec 2024 09:00:00 +0100"
-    },
-    {
-        "title": "Kouzelný měšec",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kouzeln%C3%BD%20m%C4%9B%C5%A1ec",
-        "pubdate": "Tue, 24 Dec 2024 14:00:00 +0100"
-    },
-    {
-        "title": "Ježíšek",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Je%C5%BE%C3%AD%C5%A1ek",
-        "pubdate": "Tue, 24 Dec 2024 00:00:00 +0100"
+        "title": "Bolek Polívka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bolek%20Pol%C3%ADvka",
+        "pubdate": "Tue, 24 Dec 2024 22:00:00 +0100"
     }
 ]

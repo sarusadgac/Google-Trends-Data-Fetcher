@@ -15,14 +15,14 @@
         "pubdate": "Tue, 24 Dec 2024 16:00:00 +0100"
     },
     {
-        "title": "Tv4",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tv4",
-        "pubdate": "Tue, 24 Dec 2024 00:00:00 +0100"
-    },
-    {
         "title": "Swish",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Swish",
         "pubdate": "Tue, 24 Dec 2024 14:00:00 +0100"
+    },
+    {
+        "title": "Tv4",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tv4",
+        "pubdate": "Tue, 24 Dec 2024 00:00:00 +0100"
     },
     {
         "title": "Tomten",
@@ -30,9 +30,9 @@
         "pubdate": "Tue, 24 Dec 2024 11:00:00 +0100"
     },
     {
-        "title": "Mammut",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mammut",
-        "pubdate": "Tue, 24 Dec 2024 16:00:00 +0100"
+        "title": "Påven",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#P%C3%A5ven",
+        "pubdate": "Tue, 24 Dec 2024 23:00:00 +0100"
     },
     {
         "title": "God Jul hälsning",
@@ -75,11 +75,6 @@
         "pubdate": "Mon, 23 Dec 2024 20:00:00 +0100"
     },
     {
-        "title": "Lotta Engberg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Lotta%20Engberg",
-        "pubdate": "Mon, 23 Dec 2024 20:00:00 +0100"
-    },
-    {
         "title": "Carola",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Carola",
         "pubdate": "Mon, 23 Dec 2024 23:00:00 +0100"
@@ -98,5 +93,10 @@
         "title": "Pernilla Wahlgren",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Pernilla%20Wahlgren",
         "pubdate": "Mon, 23 Dec 2024 22:00:00 +0100"
+    },
+    {
+        "title": "Torbjörn Averås Skorup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Torbj%C3%B6rn%20Aver%C3%A5s%20Skorup",
+        "pubdate": "Mon, 23 Dec 2024 20:00:00 +0100"
     }
 ]
