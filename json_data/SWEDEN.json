@@ -1,28 +1,58 @@
 [
     {
+        "title": "Emilia Brangefält",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Emilia%20Brangef%C3%A4lt",
+        "pubdate": "Fri, 27 Dec 2024 09:00:00 +0100"
+    },
+    {
+        "title": "Rotvälta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Rotv%C3%A4lta",
+        "pubdate": "Fri, 27 Dec 2024 22:00:00 +0100"
+    },
+    {
+        "title": "Stjärnorna på slottet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Stj%C3%A4rnorna%20p%C3%A5%20slottet",
+        "pubdate": "Fri, 27 Dec 2024 12:00:00 +0100"
+    },
+    {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Arsenal",
+        "pubdate": "Fri, 27 Dec 2024 23:00:00 +0100"
+    },
+    {
+        "title": "Nya ord 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Nya%20ord%202024",
+        "pubdate": "Fri, 27 Dec 2024 19:00:00 +0100"
+    },
+    {
+        "title": "Björklöven",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bj%C3%B6rkl%C3%B6ven",
+        "pubdate": "Fri, 27 Dec 2024 22:00:00 +0100"
+    },
+    {
+        "title": "Kalmar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kalmar",
+        "pubdate": "Fri, 27 Dec 2024 23:00:00 +0100"
+    },
+    {
         "title": "Premier League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Premier%20League",
         "pubdate": "Thu, 26 Dec 2024 16:00:00 +0100"
     },
     {
-        "title": "JVM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#JVM",
-        "pubdate": "Thu, 26 Dec 2024 00:00:00 +0100"
+        "title": "Sandin-Pellikka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sandin-Pellikka",
+        "pubdate": "Thu, 26 Dec 2024 20:00:00 +0100"
     },
     {
-        "title": "Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Man%20City",
-        "pubdate": "Thu, 26 Dec 2024 15:00:00 +0100"
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Liverpool",
+        "pubdate": "Thu, 26 Dec 2024 23:00:00 +0100"
     },
     {
-        "title": "Joy Beune",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Joy%20Beune",
-        "pubdate": "Thu, 26 Dec 2024 08:00:00 +0100"
-    },
-    {
-        "title": "Bussolyckan i Norge",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bussolyckan%20i%20Norge",
-        "pubdate": "Thu, 26 Dec 2024 19:00:00 +0100"
+        "title": "Liverpool FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Liverpool%20FC",
+        "pubdate": "Thu, 26 Dec 2024 22:00:00 +0100"
     },
     {
         "title": "HV71",
@@ -30,14 +60,19 @@
         "pubdate": "Thu, 26 Dec 2024 19:00:00 +0100"
     },
     {
+        "title": "Newcastle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Newcastle",
+        "pubdate": "Thu, 26 Dec 2024 22:00:00 +0100"
+    },
+    {
+        "title": "Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Manchester%20City",
+        "pubdate": "Thu, 26 Dec 2024 16:00:00 +0100"
+    },
+    {
         "title": "NBA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#NBA",
         "pubdate": "Thu, 26 Dec 2024 11:00:00 +0100"
-    },
-    {
-        "title": "Championship",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Championship",
-        "pubdate": "Thu, 26 Dec 2024 17:00:00 +0100"
     },
     {
         "title": "Eagle S",
@@ -45,58 +80,23 @@
         "pubdate": "Thu, 26 Dec 2024 18:00:00 +0100"
     },
     {
+        "title": "Patrick Swayze",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Patrick%20Swayze",
+        "pubdate": "Thu, 26 Dec 2024 16:00:00 +0100"
+    },
+    {
+        "title": "Vuollerim",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Vuollerim",
+        "pubdate": "Thu, 26 Dec 2024 22:00:00 +0100"
+    },
+    {
         "title": "Gry Forssell",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gry%20Forssell",
         "pubdate": "Thu, 26 Dec 2024 08:00:00 +0100"
     },
     {
-        "title": "Khao Lak",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Khao%20Lak",
-        "pubdate": "Thu, 26 Dec 2024 14:00:00 +0100"
-    },
-    {
-        "title": "Squid Game 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Squid%20Game%202",
-        "pubdate": "Wed, 25 Dec 2024 13:00:00 +0100"
-    },
-    {
-        "title": "Turkmenistan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Turkmenistan",
-        "pubdate": "Wed, 25 Dec 2024 18:00:00 +0100"
-    },
-    {
-        "title": "Tour de Ski",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tour%20de%20Ski",
-        "pubdate": "Wed, 25 Dec 2024 10:00:00 +0100"
-    },
-    {
-        "title": "Nintendo Switch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Nintendo%20Switch",
-        "pubdate": "Wed, 25 Dec 2024 14:00:00 +0100"
-    },
-    {
-        "title": "V75",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#V75",
-        "pubdate": "Wed, 25 Dec 2024 23:00:00 +0100"
-    },
-    {
-        "title": "Måns Zelmerlöw",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#M%C3%A5ns%20Zelmerl%C3%B6w",
-        "pubdate": "Wed, 25 Dec 2024 23:00:00 +0100"
-    },
-    {
-        "title": "Komplett",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Komplett",
-        "pubdate": "Wed, 25 Dec 2024 12:00:00 +0100"
-    },
-    {
-        "title": "Bollebygd",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bollebygd",
-        "pubdate": "Wed, 25 Dec 2024 14:00:00 +0100"
-    },
-    {
-        "title": "Wolf hall",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Wolf%20hall",
-        "pubdate": "Wed, 25 Dec 2024 21:00:00 +0100"
+        "title": "William Eklund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#William%20Eklund",
+        "pubdate": "Thu, 26 Dec 2024 21:00:00 +0100"
     }
 ]

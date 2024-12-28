@@ -1,8 +1,58 @@
 [
     {
+        "title": "Tv 5",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tv%205",
+        "pubdate": "Sat, 28 Dec 2024 00:00:00 +0200"
+    },
+    {
+        "title": "Departed",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Departed",
+        "pubdate": "Sat, 28 Dec 2024 01:00:00 +0200"
+    },
+    {
+        "title": "Alien",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Alien",
+        "pubdate": "Sat, 28 Dec 2024 01:00:00 +0200"
+    },
+    {
+        "title": "Tour de ski 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tour%20de%20ski%202024",
+        "pubdate": "Fri, 27 Dec 2024 08:00:00 +0200"
+    },
+    {
+        "title": "Lady Gaga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Lady%20Gaga",
+        "pubdate": "Fri, 27 Dec 2024 22:00:00 +0200"
+    },
+    {
+        "title": "Arsenal – Ipswich Town",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Arsenal%20%E2%80%93%20Ipswich%20Town",
+        "pubdate": "Fri, 27 Dec 2024 23:00:00 +0200"
+    },
+    {
+        "title": "U20",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#U20",
+        "pubdate": "Fri, 27 Dec 2024 13:00:00 +0200"
+    },
+    {
+        "title": "IIHF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#IIHF",
+        "pubdate": "Fri, 27 Dec 2024 12:00:00 +0200"
+    },
+    {
+        "title": "Alan Rickman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Alan%20Rickman",
+        "pubdate": "Fri, 27 Dec 2024 00:00:00 +0200"
+    },
+    {
         "title": "Tsunami 2004",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tsunami%202004",
         "pubdate": "Thu, 26 Dec 2024 09:00:00 +0200"
+    },
+    {
+        "title": "Squid Game",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Squid%20Game",
+        "pubdate": "Thu, 26 Dec 2024 20:00:00 +0200"
     },
     {
         "title": "Premier League",
@@ -25,14 +75,9 @@
         "pubdate": "Thu, 26 Dec 2024 23:00:00 +0200"
     },
     {
-        "title": "Interstellar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Interstellar",
-        "pubdate": "Thu, 26 Dec 2024 01:00:00 +0200"
-    },
-    {
-        "title": "Liverpool – Leicester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Liverpool%20%E2%80%93%20Leicester%20City",
-        "pubdate": "Thu, 26 Dec 2024 22:00:00 +0200"
+        "title": "Manchester City – Everton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Manchester%20City%20%E2%80%93%20Everton",
+        "pubdate": "Thu, 26 Dec 2024 15:00:00 +0200"
     },
     {
         "title": "Danny",
@@ -40,63 +85,18 @@
         "pubdate": "Thu, 26 Dec 2024 23:00:00 +0200"
     },
     {
-        "title": "Bruce Willis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bruce%20Willis",
-        "pubdate": "Thu, 26 Dec 2024 23:00:00 +0200"
-    },
-    {
-        "title": "NBA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#NBA",
-        "pubdate": "Thu, 26 Dec 2024 07:00:00 +0200"
-    },
-    {
         "title": "Spengler Cup",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Spengler%20Cup",
         "pubdate": "Thu, 26 Dec 2024 20:00:00 +0200"
     },
     {
-        "title": "Tom Hanks",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tom%20Hanks",
-        "pubdate": "Thu, 26 Dec 2024 00:00:00 +0200"
-    },
-    {
-        "title": "Chelsea – Fulham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Chelsea%20%E2%80%93%20Fulham",
-        "pubdate": "Thu, 26 Dec 2024 20:00:00 +0200"
-    },
-    {
-        "title": "Hong Kong",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Hong%20Kong",
-        "pubdate": "Thu, 26 Dec 2024 08:00:00 +0200"
+        "title": "Sandin-Pellikka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Sandin-Pellikka",
+        "pubdate": "Thu, 26 Dec 2024 22:00:00 +0200"
     },
     {
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Manchester%20United",
         "pubdate": "Thu, 26 Dec 2024 22:00:00 +0200"
-    },
-    {
-        "title": "North West",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#North%20West",
-        "pubdate": "Thu, 26 Dec 2024 01:00:00 +0200"
-    },
-    {
-        "title": "Thelma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Thelma",
-        "pubdate": "Thu, 26 Dec 2024 18:00:00 +0200"
-    },
-    {
-        "title": "Squid Game season 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Squid%20Game%20season%202",
-        "pubdate": "Wed, 25 Dec 2024 17:00:00 +0200"
-    },
-    {
-        "title": "Minerva Pappi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Minerva%20Pappi",
-        "pubdate": "Wed, 25 Dec 2024 22:00:00 +0200"
-    },
-    {
-        "title": "Estlink 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Estlink%202",
-        "pubdate": "Wed, 25 Dec 2024 17:00:00 +0200"
     }
 ]
