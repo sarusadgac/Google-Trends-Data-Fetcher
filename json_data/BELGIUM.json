@@ -1,8 +1,68 @@
 [
     {
+        "title": "Xander De Rycke",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Xander%20De%20Rycke",
+        "pubdate": "Sun, 29 Dec 2024 01:00:00 +0100"
+    },
+    {
+        "title": "Barbara Sarafian",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Barbara%20Sarafian",
+        "pubdate": "Sun, 29 Dec 2024 01:00:00 +0100"
+    },
+    {
+        "title": "Lazio 'Atalanta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Lazio%20'Atalanta",
+        "pubdate": "Sat, 28 Dec 2024 21:00:00 +0100"
+    },
+    {
+        "title": "Olivia Hussey",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Olivia%20Hussey",
+        "pubdate": "Sat, 28 Dec 2024 10:00:00 +0100"
+    },
+    {
+        "title": "Tradwife",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tradwife",
+        "pubdate": "Sat, 28 Dec 2024 18:00:00 +0100"
+    },
+    {
+        "title": "Cagliari – Inter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Cagliari%20%E2%80%93%20Inter",
+        "pubdate": "Sat, 28 Dec 2024 19:00:00 +0100"
+    },
+    {
+        "title": "Titanic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Titanic",
+        "pubdate": "Sat, 28 Dec 2024 19:00:00 +0100"
+    },
+    {
+        "title": "Magnus Carlsen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Magnus%20Carlsen",
+        "pubdate": "Sat, 28 Dec 2024 15:00:00 +0100"
+    },
+    {
         "title": "Darts WK",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Darts%20WK",
         "pubdate": "Sat, 28 Dec 2024 00:00:00 +0100"
+    },
+    {
+        "title": "Ben l'Oncle Soul",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ben%20l'Oncle%20Soul",
+        "pubdate": "Sat, 28 Dec 2024 23:00:00 +0100"
+    },
+    {
+        "title": "City 2 Bruxelles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#City%202%20Bruxelles",
+        "pubdate": "Sat, 28 Dec 2024 21:00:00 +0100"
+    },
+    {
+        "title": "USB-C",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#USB-C",
+        "pubdate": "Sat, 28 Dec 2024 17:00:00 +0100"
+    },
+    {
+        "title": "Mer Baltique",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mer%20Baltique",
+        "pubdate": "Sat, 28 Dec 2024 21:00:00 +0100"
     },
     {
         "title": "Et",
@@ -25,78 +85,18 @@
         "pubdate": "Fri, 27 Dec 2024 21:00:00 +0100"
     },
     {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Arsenal",
-        "pubdate": "Fri, 27 Dec 2024 15:00:00 +0100"
-    },
-    {
-        "title": "Beerschot",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Beerschot",
-        "pubdate": "Fri, 27 Dec 2024 18:00:00 +0100"
-    },
-    {
         "title": "RSCA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#RSCA",
         "pubdate": "Fri, 27 Dec 2024 23:00:00 +0100"
     },
     {
-        "title": "Callum Turner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Callum%20Turner",
-        "pubdate": "Fri, 27 Dec 2024 12:00:00 +0100"
-    },
-    {
-        "title": "Ongeval Mechelen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ongeval%20Mechelen",
-        "pubdate": "Fri, 27 Dec 2024 14:00:00 +0100"
-    },
-    {
-        "title": "Crash avion Azerbaijan Airlines",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Crash%20avion%20Azerbaijan%20Airlines",
-        "pubdate": "Fri, 27 Dec 2024 08:00:00 +0100"
-    },
-    {
-        "title": "Loenhout Cross",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Loenhout%20Cross",
-        "pubdate": "Fri, 27 Dec 2024 11:00:00 +0100"
-    },
-    {
-        "title": "Mechelen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mechelen",
-        "pubdate": "Fri, 27 Dec 2024 12:00:00 +0100"
-    },
-    {
-        "title": "Knokke Off 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Knokke%20Off%202",
-        "pubdate": "Fri, 27 Dec 2024 19:00:00 +0100"
+        "title": "Brouillard Belgique",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Brouillard%20Belgique",
+        "pubdate": "Fri, 27 Dec 2024 21:00:00 +0100"
     },
     {
         "title": "Remco Evenepoel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Remco%20Evenepoel",
         "pubdate": "Fri, 27 Dec 2024 22:00:00 +0100"
-    },
-    {
-        "title": "Will Tura",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Will%20Tura",
-        "pubdate": "Fri, 27 Dec 2024 00:00:00 +0100"
-    },
-    {
-        "title": "Arthur",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Arthur",
-        "pubdate": "Fri, 27 Dec 2024 01:00:00 +0100"
-    },
-    {
-        "title": "Sanne Cant",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Sanne%20Cant",
-        "pubdate": "Fri, 27 Dec 2024 15:00:00 +0100"
-    },
-    {
-        "title": "Mozambique",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mozambique",
-        "pubdate": "Fri, 27 Dec 2024 20:00:00 +0100"
-    },
-    {
-        "title": "Gremlins",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Gremlins",
-        "pubdate": "Fri, 27 Dec 2024 01:00:00 +0100"
     }
 ]

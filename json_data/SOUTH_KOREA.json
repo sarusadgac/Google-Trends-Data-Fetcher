@@ -1,8 +1,63 @@
 [
     {
-        "title": "AAA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#AAA",
-        "pubdate": "Sat, 28 Dec 2024 00:00:00 +0900"
+        "title": "문가비",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%AC%B8%EA%B0%80%EB%B9%84",
+        "pubdate": "Sun, 29 Dec 2024 01:00:00 +0900"
+    },
+    {
+        "title": "무안공항",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%AC%B4%EC%95%88%EA%B3%B5%ED%95%AD",
+        "pubdate": "Sun, 29 Dec 2024 10:00:00 +0900"
+    },
+    {
+        "title": "윤상현",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9C%A4%EC%83%81%ED%98%84",
+        "pubdate": "Sun, 29 Dec 2024 05:00:00 +0900"
+    },
+    {
+        "title": "올리비아 핫세",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%98%AC%EB%A6%AC%EB%B9%84%EC%95%84%20%ED%95%AB%EC%84%B8",
+        "pubdate": "Sat, 28 Dec 2024 12:00:00 +0900"
+    },
+    {
+        "title": "로또번호",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%A1%9C%EB%98%90%EB%B2%88%ED%98%B8",
+        "pubdate": "Sat, 28 Dec 2024 22:00:00 +0900"
+    },
+    {
+        "title": "박수영",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%B0%95%EC%88%98%EC%98%81",
+        "pubdate": "Sat, 28 Dec 2024 20:00:00 +0900"
+    },
+    {
+        "title": "GTX",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#GTX",
+        "pubdate": "Sat, 28 Dec 2024 15:00:00 +0900"
+    },
+    {
+        "title": "성시경",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%84%B1%EC%8B%9C%EA%B2%BD",
+        "pubdate": "Sat, 28 Dec 2024 23:00:00 +0900"
+    },
+    {
+        "title": "블랙컴뱃",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%B8%94%EB%9E%99%EC%BB%B4%EB%B1%83",
+        "pubdate": "Sat, 28 Dec 2024 20:00:00 +0900"
+    },
+    {
+        "title": "김지수",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B9%80%EC%A7%80%EC%88%98",
+        "pubdate": "Sat, 28 Dec 2024 19:00:00 +0900"
+    },
+    {
+        "title": "이영지",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9D%B4%EC%98%81%EC%A7%80",
+        "pubdate": "Sat, 28 Dec 2024 11:00:00 +0900"
+    },
+    {
+        "title": "넷플릭스",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4",
+        "pubdate": "Fri, 27 Dec 2024 00:00:00 +0900"
     },
     {
         "title": "환율",
@@ -10,18 +65,28 @@
         "pubdate": "Fri, 27 Dec 2024 14:00:00 +0900"
     },
     {
+        "title": "프리미어리그",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%ED%94%84%EB%A6%AC%EB%AF%B8%EC%96%B4%EB%A6%AC%EA%B7%B8",
+        "pubdate": "Fri, 27 Dec 2024 00:00:00 +0900"
+    },
+    {
         "title": "토트넘",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%ED%86%A0%ED%8A%B8%EB%84%98",
         "pubdate": "Fri, 27 Dec 2024 02:00:00 +0900"
     },
     {
-        "title": "EPL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#EPL",
-        "pubdate": "Fri, 27 Dec 2024 01:00:00 +0900"
+        "title": "황희찬",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%ED%99%A9%ED%9D%AC%EC%B0%AC",
+        "pubdate": "Fri, 27 Dec 2024 11:00:00 +0900"
     },
     {
         "title": "전지희",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%A0%84%EC%A7%80%ED%9D%AC",
+        "pubdate": "Fri, 27 Dec 2024 20:00:00 +0900"
+    },
+    {
+        "title": "김문수 의원",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B9%80%EB%AC%B8%EC%88%98%20%EC%9D%98%EC%9B%90",
         "pubdate": "Fri, 27 Dec 2024 20:00:00 +0900"
     },
     {
@@ -30,73 +95,8 @@
         "pubdate": "Fri, 27 Dec 2024 11:00:00 +0900"
     },
     {
-        "title": "김문수 의원",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B9%80%EB%AC%B8%EC%88%98%20%EC%9D%98%EC%9B%90",
-        "pubdate": "Fri, 27 Dec 2024 20:00:00 +0900"
-    },
-    {
         "title": "토트넘 노팅엄",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%ED%86%A0%ED%8A%B8%EB%84%98%20%EB%85%B8%ED%8C%85%EC%97%84",
         "pubdate": "Fri, 27 Dec 2024 01:00:00 +0900"
-    },
-    {
-        "title": "문정복",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%AC%B8%EC%A0%95%EB%B3%B5",
-        "pubdate": "Fri, 27 Dec 2024 10:00:00 +0900"
-    },
-    {
-        "title": "송중기",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%86%A1%EC%A4%91%EA%B8%B0",
-        "pubdate": "Fri, 27 Dec 2024 16:00:00 +0900"
-    },
-    {
-        "title": "단통법",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%8B%A8%ED%86%B5%EB%B2%95",
-        "pubdate": "Fri, 27 Dec 2024 14:00:00 +0900"
-    },
-    {
-        "title": "오징어게임2 평가",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%98%A4%EC%A7%95%EC%96%B4%EA%B2%8C%EC%9E%842%20%ED%8F%89%EA%B0%80",
-        "pubdate": "Fri, 27 Dec 2024 16:00:00 +0900"
-    },
-    {
-        "title": "한지아",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%ED%95%9C%EC%A7%80%EC%95%84",
-        "pubdate": "Fri, 27 Dec 2024 13:00:00 +0900"
-    },
-    {
-        "title": "넷플릭스",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4",
-        "pubdate": "Thu, 26 Dec 2024 05:00:00 +0900"
-    },
-    {
-        "title": "한덕수",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%ED%95%9C%EB%8D%95%EC%88%98",
-        "pubdate": "Thu, 26 Dec 2024 18:00:00 +0900"
-    },
-    {
-        "title": "조유리",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%A1%B0%EC%9C%A0%EB%A6%AC",
-        "pubdate": "Thu, 26 Dec 2024 20:00:00 +0900"
-    },
-    {
-        "title": "NBA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#NBA",
-        "pubdate": "Thu, 26 Dec 2024 16:00:00 +0900"
-    },
-    {
-        "title": "김용현",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B9%80%EC%9A%A9%ED%98%84",
-        "pubdate": "Thu, 26 Dec 2024 14:00:00 +0900"
-    },
-    {
-        "title": "경기도교육청",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B2%BD%EA%B8%B0%EB%8F%84%EA%B5%90%EC%9C%A1%EC%B2%AD",
-        "pubdate": "Thu, 26 Dec 2024 11:00:00 +0900"
-    },
-    {
-        "title": "청년도약계좌",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%B2%AD%EB%85%84%EB%8F%84%EC%95%BD%EA%B3%84%EC%A2%8C",
-        "pubdate": "Thu, 26 Dec 2024 23:00:00 +0900"
     }
 ]
