@@ -1,8 +1,73 @@
 [
     {
-        "title": "Larry Ellison",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Larry%20Ellison",
-        "pubdate": "Thu, 02 Jan 2025 00:00:00 +0100"
+        "title": "Rádió 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#R%C3%A1di%C3%B3%201",
+        "pubdate": "Fri, 03 Jan 2025 00:00:00 +0100"
+    },
+    {
+        "title": "Inter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Inter",
+        "pubdate": "Fri, 03 Jan 2025 00:00:00 +0100"
+    },
+    {
+        "title": "Keleti Ágnes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Keleti%20%C3%81gnes",
+        "pubdate": "Thu, 02 Jan 2025 09:00:00 +0100"
+    },
+    {
+        "title": "OTP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#OTP",
+        "pubdate": "Thu, 02 Jan 2025 12:00:00 +0100"
+    },
+    {
+        "title": "Digitális Állampolgárság",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Digit%C3%A1lis%20%C3%81llampolg%C3%A1rs%C3%A1g",
+        "pubdate": "Thu, 02 Jan 2025 09:00:00 +0100"
+    },
+    {
+        "title": "Erste",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Erste",
+        "pubdate": "Thu, 02 Jan 2025 10:00:00 +0100"
+    },
+    {
+        "title": "Házasság első látásra",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#H%C3%A1zass%C3%A1g%20els%C5%91%20l%C3%A1t%C3%A1sra",
+        "pubdate": "Thu, 02 Jan 2025 11:00:00 +0100"
+    },
+    {
+        "title": "Rossmann",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Rossmann",
+        "pubdate": "Thu, 02 Jan 2025 15:00:00 +0100"
+    },
+    {
+        "title": "MVM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#MVM",
+        "pubdate": "Thu, 02 Jan 2025 14:00:00 +0100"
+    },
+    {
+        "title": "Autópálya-matrica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Aut%C3%B3p%C3%A1lya-matrica",
+        "pubdate": "Thu, 02 Jan 2025 09:00:00 +0100"
+    },
+    {
+        "title": "Magyarorszag.hu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Magyarorszag.hu",
+        "pubdate": "Thu, 02 Jan 2025 12:00:00 +0100"
+    },
+    {
+        "title": "Ügyfélkapu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%9Cgyf%C3%A9lkapu",
+        "pubdate": "Thu, 02 Jan 2025 11:00:00 +0100"
+    },
+    {
+        "title": "Halászbástya",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hal%C3%A1szb%C3%A1stya",
+        "pubdate": "Thu, 02 Jan 2025 17:00:00 +0100"
+    },
+    {
+        "title": "Tüzijáték halálos baleset",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#T%C3%BCzij%C3%A1t%C3%A9k%20hal%C3%A1los%20baleset",
+        "pubdate": "Thu, 02 Jan 2025 02:00:00 +0100"
     },
     {
         "title": "Jocelyn Wildenstein",
@@ -10,93 +75,28 @@
         "pubdate": "Thu, 02 Jan 2025 01:00:00 +0100"
     },
     {
-        "title": "Boldog új évet 2025",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Boldog%20%C3%BAj%20%C3%A9vet%202025",
-        "pubdate": "Wed, 01 Jan 2025 11:00:00 +0100"
+        "title": "Ásványvíz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%81sv%C3%A1nyv%C3%ADz",
+        "pubdate": "Thu, 02 Jan 2025 18:00:00 +0100"
     },
     {
-        "title": "Magyar Péter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Magyar%20P%C3%A9ter",
-        "pubdate": "Wed, 01 Jan 2025 00:00:00 +0100"
+        "title": "Gubacsi híd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Gubacsi%20h%C3%ADd",
+        "pubdate": "Thu, 02 Jan 2025 14:00:00 +0100"
     },
     {
-        "title": "Vodafone",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Vodafone",
-        "pubdate": "Wed, 01 Jan 2025 17:00:00 +0100"
+        "title": "The Zone",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#The%20Zone",
+        "pubdate": "Thu, 02 Jan 2025 19:00:00 +0100"
     },
     {
-        "title": "One",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#One",
-        "pubdate": "Wed, 01 Jan 2025 01:00:00 +0100"
+        "title": "Ónos eső",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%93nos%20es%C5%91",
+        "pubdate": "Thu, 02 Jan 2025 22:00:00 +0100"
     },
     {
-        "title": "Boldog új évet kívánok!",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Boldog%20%C3%BAj%20%C3%A9vet%20k%C3%ADv%C3%A1nok!",
-        "pubdate": "Wed, 01 Jan 2025 09:00:00 +0100"
-    },
-    {
-        "title": "M1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M1",
-        "pubdate": "Wed, 01 Jan 2025 00:00:00 +0100"
-    },
-    {
-        "title": "New Orleans",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#New%20Orleans",
-        "pubdate": "Wed, 01 Jan 2025 15:00:00 +0100"
-    },
-    {
-        "title": "Linda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Linda",
-        "pubdate": "Wed, 01 Jan 2025 12:00:00 +0100"
-    },
-    {
-        "title": "Taxi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Taxi",
-        "pubdate": "Wed, 01 Jan 2025 02:00:00 +0100"
-    },
-    {
-        "title": "Bécsi újévi koncert 2025",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#B%C3%A9csi%20%C3%BAj%C3%A9vi%20koncert%202025",
-        "pubdate": "Wed, 01 Jan 2025 12:00:00 +0100"
-    },
-    {
-        "title": "Himnusz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Himnusz",
-        "pubdate": "Wed, 01 Jan 2025 00:00:00 +0100"
-    },
-    {
-        "title": "Újévi koncert 2025",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%9Aj%C3%A9vi%20koncert%202025",
-        "pubdate": "Wed, 01 Jan 2025 11:00:00 +0100"
-    },
-    {
-        "title": "Horoszkóp 2025",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Horoszk%C3%B3p%202025",
-        "pubdate": "Wed, 01 Jan 2025 15:00:00 +0100"
-    },
-    {
-        "title": "Szarka Tamás",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szarka%20Tam%C3%A1s",
-        "pubdate": "Wed, 01 Jan 2025 03:00:00 +0100"
-    },
-    {
-        "title": "Kovács Kati",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kov%C3%A1cs%20Kati",
-        "pubdate": "Wed, 01 Jan 2025 01:00:00 +0100"
-    },
-    {
-        "title": "Petárda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Pet%C3%A1rda",
-        "pubdate": "Wed, 01 Jan 2025 03:00:00 +0100"
-    },
-    {
-        "title": "DARTS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#DARTS",
-        "pubdate": "Wed, 01 Jan 2025 22:00:00 +0100"
-    },
-    {
-        "title": "Charlie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Charlie",
-        "pubdate": "Wed, 01 Jan 2025 01:00:00 +0100"
+        "title": "Larry Ellison",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Larry%20Ellison",
+        "pubdate": "Thu, 02 Jan 2025 00:00:00 +0100"
     }
 ]
