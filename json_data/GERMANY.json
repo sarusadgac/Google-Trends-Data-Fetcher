@@ -1,18 +1,23 @@
 [
     {
-        "title": "Commerzbank",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Commerzbank",
-        "pubdate": "Thu, 02 Jan 2025 13:00:00 +0100"
+        "title": "Baerbock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Baerbock",
+        "pubdate": "Fri, 03 Jan 2025 17:00:00 +0100"
     },
     {
-        "title": "Bergdoktor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bergdoktor",
-        "pubdate": "Thu, 02 Jan 2025 18:00:00 +0100"
+        "title": "Petra Kleinert",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Petra%20Kleinert",
+        "pubdate": "Fri, 03 Jan 2025 18:00:00 +0100"
     },
     {
-        "title": "Darts-WM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Darts-WM",
-        "pubdate": "Wed, 01 Jan 2025 22:00:00 +0100"
+        "title": "Darts-WM Finale",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Darts-WM%20Finale",
+        "pubdate": "Thu, 02 Jan 2025 01:00:00 +0100"
+    },
+    {
+        "title": "Sternschnuppen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sternschnuppen",
+        "pubdate": "Thu, 02 Jan 2025 21:00:00 +0100"
     },
     {
         "title": "New Orleans",
@@ -20,34 +25,14 @@
         "pubdate": "Wed, 01 Jan 2025 14:00:00 +0100"
     },
     {
-        "title": "Kugelbombe Was ist das",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kugelbombe%20Was%20ist%20das",
-        "pubdate": "Wed, 01 Jan 2025 11:00:00 +0100"
-    },
-    {
-        "title": "Cybertruck",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Cybertruck",
+        "title": "Michael van Gerwen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Michael%20van%20Gerwen",
         "pubdate": "Wed, 01 Jan 2025 23:00:00 +0100"
     },
     {
-        "title": "Gewürz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Gew%C3%BCrz",
-        "pubdate": "Wed, 01 Jan 2025 18:00:00 +0100"
-    },
-    {
-        "title": "Schnee",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schnee",
-        "pubdate": "Wed, 01 Jan 2025 18:00:00 +0100"
-    },
-    {
-        "title": "Better Man",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Better%20Man",
-        "pubdate": "Wed, 01 Jan 2025 22:00:00 +0100"
-    },
-    {
-        "title": "Russland Ukraine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Russland%20Ukraine",
-        "pubdate": "Wed, 01 Jan 2025 21:00:00 +0100"
+        "title": "Was sind Kugelbomben",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Was%20sind%20Kugelbomben",
+        "pubdate": "Wed, 01 Jan 2025 11:00:00 +0100"
     },
     {
         "title": "Luke Littler",
@@ -98,5 +83,20 @@
         "title": "Vertrauensfrage",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Vertrauensfrage",
         "pubdate": "Mon, 16 Dec 2024 00:00:00 +0100"
+    },
+    {
+        "title": "Mpox",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Mpox",
+        "pubdate": "Mon, 16 Dec 2024 18:00:00 +0100"
+    },
+    {
+        "title": "Rolf Zuckowski",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rolf%20Zuckowski",
+        "pubdate": "Mon, 16 Dec 2024 23:00:00 +0100"
+    },
+    {
+        "title": "Mayotte",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Mayotte",
+        "pubdate": "Sun, 15 Dec 2024 15:00:00 +0100"
     }
 ]
