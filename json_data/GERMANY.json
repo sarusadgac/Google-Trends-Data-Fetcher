@@ -1,28 +1,38 @@
 [
     {
+        "title": "Promi-Darts-WM 2025",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Promi-Darts-WM%202025",
+        "pubdate": "Sun, 05 Jan 2025 23:00:00 +0100"
+    },
+    {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Liverpool",
+        "pubdate": "Sun, 05 Jan 2025 16:00:00 +0100"
+    },
+    {
+        "title": "Union Berlin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Union%20Berlin",
+        "pubdate": "Sun, 05 Jan 2025 21:00:00 +0100"
+    },
+    {
+        "title": "Bundestagswahl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bundestagswahl",
+        "pubdate": "Sun, 05 Jan 2025 16:00:00 +0100"
+    },
+    {
+        "title": "Papst Franziskus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Papst%20Franziskus",
+        "pubdate": "Sun, 05 Jan 2025 17:00:00 +0100"
+    },
+    {
         "title": "Thilo Mischke",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Thilo%20Mischke",
         "pubdate": "Sat, 04 Jan 2025 20:00:00 +0100"
     },
     {
-        "title": "China",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#China",
-        "pubdate": "Sat, 04 Jan 2025 06:00:00 +0100"
-    },
-    {
         "title": "Österreich",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#%C3%96sterreich",
         "pubdate": "Sat, 04 Jan 2025 10:00:00 +0100"
-    },
-    {
-        "title": "Hechte",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hechte",
-        "pubdate": "Sat, 04 Jan 2025 19:00:00 +0100"
-    },
-    {
-        "title": "Baerbock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Baerbock",
-        "pubdate": "Fri, 03 Jan 2025 17:00:00 +0100"
     },
     {
         "title": "Luke Littler",
@@ -88,15 +98,5 @@
         "title": "Magdeburg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Magdeburg",
         "pubdate": "Fri, 20 Dec 2024 20:00:00 +0100"
-    },
-    {
-        "title": "MDR",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#MDR",
-        "pubdate": "Fri, 20 Dec 2024 21:00:00 +0100"
-    },
-    {
-        "title": "Vertrauensfrage",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Vertrauensfrage",
-        "pubdate": "Mon, 16 Dec 2024 00:00:00 +0100"
     }
 ]
