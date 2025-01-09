@@ -1,5 +1,30 @@
 [
     {
+        "title": "タミフル",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%82%BF%E3%83%9F%E3%83%95%E3%83%AB",
+        "pubdate": "Thu, 09 Jan 2025 10:00:00 +0900"
+    },
+    {
+        "title": "香取慎吾",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E9%A6%99%E5%8F%96%E6%85%8E%E5%90%BE",
+        "pubdate": "Thu, 09 Jan 2025 08:00:00 +0900"
+    },
+    {
+        "title": "中居正広",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E4%B8%AD%E5%B1%85%E6%AD%A3%E5%BA%83",
+        "pubdate": "Wed, 08 Jan 2025 12:00:00 +0900"
+    },
+    {
+        "title": "舘ひろし",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E8%88%98%E3%81%B2%E3%82%8D%E3%81%97",
+        "pubdate": "Wed, 08 Jan 2025 11:00:00 +0900"
+    },
+    {
+        "title": "上沢直之",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E4%B8%8A%E6%B2%A2%E7%9B%B4%E4%B9%8B",
+        "pubdate": "Wed, 08 Jan 2025 21:00:00 +0900"
+    },
+    {
         "title": "大雪",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%A4%A7%E9%9B%AA",
         "pubdate": "Wed, 08 Jan 2025 07:00:00 +0900"
@@ -15,14 +40,9 @@
         "pubdate": "Tue, 07 Jan 2025 00:00:00 +0900"
     },
     {
-        "title": "春の七草",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E6%98%A5%E3%81%AE%E4%B8%83%E8%8D%89",
-        "pubdate": "Tue, 07 Jan 2025 03:00:00 +0900"
-    },
-    {
-        "title": "御堂筋線",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%BE%A1%E5%A0%82%E7%AD%8B%E7%B7%9A",
-        "pubdate": "Tue, 07 Jan 2025 18:00:00 +0900"
+        "title": "ヒトメタニューモウイルス感染症 中国",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%92%E3%83%88%E3%83%A1%E3%82%BF%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A2%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E6%84%9F%E6%9F%93%E7%97%87%20%E4%B8%AD%E5%9B%BD",
+        "pubdate": "Tue, 07 Jan 2025 23:00:00 +0900"
     },
     {
         "title": "チベット",
@@ -33,11 +53,6 @@
         "title": "富士通ゼネラル",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%AF%8C%E5%A3%AB%E9%80%9A%E3%82%BC%E3%83%8D%E3%83%A9%E3%83%AB",
         "pubdate": "Tue, 07 Jan 2025 08:00:00 +0900"
-    },
-    {
-        "title": "ミニロト",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%9F%E3%83%8B%E3%83%AD%E3%83%88",
-        "pubdate": "Tue, 07 Jan 2025 22:00:00 +0900"
     },
     {
         "title": "NVIDIA",
@@ -55,14 +70,9 @@
         "pubdate": "Mon, 06 Jan 2025 16:00:00 +0900"
     },
     {
-        "title": "ゴールデングローブ賞",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%87%E3%83%B3%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%96%E8%B3%9E",
+        "title": "中居正広 トラブルとは",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E4%B8%AD%E5%B1%85%E6%AD%A3%E5%BA%83%20%E3%83%88%E3%83%A9%E3%83%96%E3%83%AB%E3%81%A8%E3%81%AF",
         "pubdate": "Mon, 06 Jan 2025 13:00:00 +0900"
-    },
-    {
-        "title": "DeepL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#DeepL",
-        "pubdate": "Mon, 06 Jan 2025 16:00:00 +0900"
     },
     {
         "title": "カレンダー",
@@ -88,15 +98,5 @@
         "title": "弾道ミサイル",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%BC%BE%E9%81%93%E3%83%9F%E3%82%B5%E3%82%A4%E3%83%AB",
         "pubdate": "Mon, 06 Jan 2025 17:00:00 +0900"
-    },
-    {
-        "title": "神田明神",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E7%A5%9E%E7%94%B0%E6%98%8E%E7%A5%9E",
-        "pubdate": "Mon, 06 Jan 2025 15:00:00 +0900"
-    },
-    {
-        "title": "箱根",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E7%AE%B1%E6%A0%B9",
-        "pubdate": "Mon, 06 Jan 2025 21:00:00 +0900"
     }
 ]
