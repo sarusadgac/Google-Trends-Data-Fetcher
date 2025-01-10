@@ -1,8 +1,68 @@
 [
     {
-        "title": "La fire",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#La%20fire",
+        "title": "Færøyene",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#F%C3%A6r%C3%B8yene",
+        "pubdate": "Fri, 10 Jan 2025 02:00:00 +0100"
+    },
+    {
+        "title": "Everton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Everton",
+        "pubdate": "Fri, 10 Jan 2025 00:00:00 +0100"
+    },
+    {
+        "title": "Ida Fladen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ida%20Fladen",
+        "pubdate": "Fri, 10 Jan 2025 02:00:00 +0100"
+    },
+    {
+        "title": "Boksen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Boksen",
+        "pubdate": "Thu, 09 Jan 2025 21:00:00 +0100"
+    },
+    {
+        "title": "Emma Ellingsen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Emma%20Ellingsen",
+        "pubdate": "Thu, 09 Jan 2025 19:00:00 +0100"
+    },
+    {
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Real%20Madrid",
+        "pubdate": "Thu, 09 Jan 2025 21:00:00 +0100"
+    },
+    {
+        "title": "La Fire",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#La%20Fire",
         "pubdate": "Thu, 09 Jan 2025 00:00:00 +0100"
+    },
+    {
+        "title": "Lucas Bergvall",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lucas%20Bergvall",
+        "pubdate": "Thu, 09 Jan 2025 00:00:00 +0100"
+    },
+    {
+        "title": "MDMA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#MDMA",
+        "pubdate": "Thu, 09 Jan 2025 18:00:00 +0100"
+    },
+    {
+        "title": "Alice Weidel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Alice%20Weidel",
+        "pubdate": "Thu, 09 Jan 2025 22:00:00 +0100"
+    },
+    {
+        "title": "Aker Solutions",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Aker%20Solutions",
+        "pubdate": "Thu, 09 Jan 2025 09:00:00 +0100"
+    },
+    {
+        "title": "Jo Nesbø",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jo%20Nesb%C3%B8",
+        "pubdate": "Thu, 09 Jan 2025 21:00:00 +0100"
+    },
+    {
+        "title": "NATO",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#NATO",
+        "pubdate": "Thu, 09 Jan 2025 10:00:00 +0100"
     },
     {
         "title": "Tottenham mot Liverpool",
@@ -10,14 +70,14 @@
         "pubdate": "Wed, 08 Jan 2025 21:00:00 +0100"
     },
     {
-        "title": "Joachim Rønning",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Joachim%20R%C3%B8nning",
+        "title": "Los Angeles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Los%20Angeles",
         "pubdate": "Wed, 08 Jan 2025 12:00:00 +0100"
     },
     {
-        "title": "Kaia Gerber",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kaia%20Gerber",
-        "pubdate": "Wed, 08 Jan 2025 12:00:00 +0100"
+        "title": "VGTV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#VGTV",
+        "pubdate": "Wed, 08 Jan 2025 19:00:00 +0100"
     },
     {
         "title": "Liverpool FC",
@@ -25,78 +85,18 @@
         "pubdate": "Wed, 08 Jan 2025 21:00:00 +0100"
     },
     {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Barcelona",
-        "pubdate": "Wed, 08 Jan 2025 22:00:00 +0100"
-    },
-    {
-        "title": "Stein Erik Hagen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Stein%20Erik%20Hagen",
-        "pubdate": "Wed, 08 Jan 2025 13:00:00 +0100"
-    },
-    {
-        "title": "Skoda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Skoda",
-        "pubdate": "Wed, 08 Jan 2025 18:00:00 +0100"
-    },
-    {
         "title": "Per-Mathias Høgmo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Per-Mathias%20H%C3%B8gmo",
         "pubdate": "Wed, 08 Jan 2025 14:00:00 +0100"
     },
     {
-        "title": "Panama",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Panama",
-        "pubdate": "Wed, 08 Jan 2025 09:00:00 +0100"
+        "title": "Kaia Gerber",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kaia%20Gerber",
+        "pubdate": "Wed, 08 Jan 2025 12:00:00 +0100"
     },
     {
-        "title": "Elvis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Elvis",
-        "pubdate": "Wed, 08 Jan 2025 17:00:00 +0100"
-    },
-    {
-        "title": "Helikopter Oslo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Helikopter%20Oslo",
-        "pubdate": "Wed, 08 Jan 2025 21:00:00 +0100"
-    },
-    {
-        "title": "Petter Stordalen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Petter%20Stordalen",
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Barcelona",
         "pubdate": "Wed, 08 Jan 2025 22:00:00 +0100"
-    },
-    {
-        "title": "Øyvind Vågnes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#%C3%98yvind%20V%C3%A5gnes",
-        "pubdate": "Wed, 08 Jan 2025 19:00:00 +0100"
-    },
-    {
-        "title": "Island",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Island",
-        "pubdate": "Wed, 08 Jan 2025 00:00:00 +0100"
-    },
-    {
-        "title": "Håndball",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#H%C3%A5ndball",
-        "pubdate": "Wed, 08 Jan 2025 23:00:00 +0100"
-    },
-    {
-        "title": "FC Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#FC%20Barcelona",
-        "pubdate": "Wed, 08 Jan 2025 23:00:00 +0100"
-    },
-    {
-        "title": "Snøfreser",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sn%C3%B8freser",
-        "pubdate": "Tue, 07 Jan 2025 11:00:00 +0100"
-    },
-    {
-        "title": "Arsenal mot Newcastle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Arsenal%20mot%20Newcastle",
-        "pubdate": "Tue, 07 Jan 2025 21:00:00 +0100"
-    },
-    {
-        "title": "Farmen kjendis 2025",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Farmen%20kjendis%202025",
-        "pubdate": "Tue, 07 Jan 2025 15:00:00 +0100"
     }
 ]

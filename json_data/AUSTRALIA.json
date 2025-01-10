@@ -1,22 +1,82 @@
 [
     {
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Real%20Madrid",
+        "pubdate": "Fri, 10 Jan 2025 08:00:00 +1100"
+    },
+    {
+        "title": "Melbourne Stars vs Sydney Sixers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Melbourne%20Stars%20vs%20Sydney%20Sixers",
+        "pubdate": "Fri, 10 Jan 2025 00:00:00 +1100"
+    },
+    {
+        "title": "Jimmy Carter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jimmy%20Carter",
+        "pubdate": "Fri, 10 Jan 2025 12:00:00 +1100"
+    },
+    {
+        "title": "Joseph Aoun president Lebanon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Joseph%20Aoun%20president%20Lebanon",
+        "pubdate": "Fri, 10 Jan 2025 11:00:00 +1100"
+    },
+    {
+        "title": "Bluey LEGO sets",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bluey%20LEGO%20sets",
+        "pubdate": "Fri, 10 Jan 2025 09:00:00 +1100"
+    },
+    {
+        "title": "Everton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Everton",
+        "pubdate": "Fri, 10 Jan 2025 09:00:00 +1100"
+    },
+    {
+        "title": "Jamie Lee Curtis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jamie%20Lee%20Curtis",
+        "pubdate": "Fri, 10 Jan 2025 00:00:00 +1100"
+    },
+    {
+        "title": "Karen Bass",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Karen%20Bass",
+        "pubdate": "Fri, 10 Jan 2025 07:00:00 +1100"
+    },
+    {
+        "title": "La Wildfires 2025",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#La%20Wildfires%202025",
+        "pubdate": "Fri, 10 Jan 2025 00:00:00 +1100"
+    },
+    {
+        "title": "Sydney Sixers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sydney%20Sixers",
+        "pubdate": "Fri, 10 Jan 2025 11:00:00 +1100"
+    },
+    {
         "title": "Tottenham vs Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tottenham%20vs%20Liverpool",
         "pubdate": "Thu, 09 Jan 2025 07:00:00 +1100"
     },
     {
-        "title": "Liverpool FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Liverpool%20FC",
-        "pubdate": "Thu, 09 Jan 2025 07:00:00 +1100"
-    },
-    {
-        "title": "James Woods",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#James%20Woods",
+        "title": "FA Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#FA%20Cup",
         "pubdate": "Thu, 09 Jan 2025 01:00:00 +1100"
     },
     {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Barcelona",
+        "title": "Australian Open draw",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Australian%20Open%20draw",
+        "pubdate": "Thu, 09 Jan 2025 16:00:00 +1100"
+    },
+    {
+        "title": "Paris Hilton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Paris%20Hilton",
+        "pubdate": "Thu, 09 Jan 2025 12:00:00 +1100"
+    },
+    {
+        "title": "Luke Sayers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Luke%20Sayers",
+        "pubdate": "Thu, 09 Jan 2025 13:00:00 +1100"
+    },
+    {
+        "title": "Liverpool FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Liverpool%20FC",
         "pubdate": "Thu, 09 Jan 2025 07:00:00 +1100"
     },
     {
@@ -25,19 +85,9 @@
         "pubdate": "Thu, 09 Jan 2025 12:00:00 +1100"
     },
     {
-        "title": "Sam Altman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sam%20Altman",
-        "pubdate": "Thu, 09 Jan 2025 10:00:00 +1100"
-    },
-    {
-        "title": "Supercopa de España",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Supercopa%20de%20Espa%C3%B1a",
-        "pubdate": "Thu, 09 Jan 2025 12:00:00 +1100"
-    },
-    {
-        "title": "Zion Williamson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Zion%20Williamson",
-        "pubdate": "Thu, 09 Jan 2025 00:00:00 +1100"
+        "title": "Leighton Meester",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Leighton%20Meester",
+        "pubdate": "Thu, 09 Jan 2025 22:00:00 +1100"
     },
     {
         "title": "Jessica Alba",
@@ -45,58 +95,8 @@
         "pubdate": "Thu, 09 Jan 2025 12:00:00 +1100"
     },
     {
-        "title": "La fires",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#La%20fires",
-        "pubdate": "Wed, 08 Jan 2025 14:00:00 +1100"
-    },
-    {
-        "title": "Jai Opetaia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jai%20Opetaia",
-        "pubdate": "Wed, 08 Jan 2025 02:00:00 +1100"
-    },
-    {
-        "title": "Holden transmission class action lawsuit",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Holden%20transmission%20class%20action%20lawsuit",
-        "pubdate": "Wed, 08 Jan 2025 12:00:00 +1100"
-    },
-    {
-        "title": "Kokkinakis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Kokkinakis",
-        "pubdate": "Wed, 08 Jan 2025 23:00:00 +1100"
-    },
-    {
-        "title": "Mark Zuckerberg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Mark%20Zuckerberg",
-        "pubdate": "Wed, 08 Jan 2025 13:00:00 +1100"
-    },
-    {
-        "title": "Hadi Nazari",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Hadi%20Nazari",
-        "pubdate": "Wed, 08 Jan 2025 17:00:00 +1100"
-    },
-    {
-        "title": "FA Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#FA%20Cup",
-        "pubdate": "Wed, 08 Jan 2025 13:00:00 +1100"
-    },
-    {
-        "title": "TGL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#TGL",
-        "pubdate": "Wed, 08 Jan 2025 14:00:00 +1100"
-    },
-    {
-        "title": "Gulf of Mexico",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Gulf%20of%20Mexico",
-        "pubdate": "Wed, 08 Jan 2025 11:00:00 +1100"
-    },
-    {
-        "title": "Elvis Presley",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Elvis%20Presley",
-        "pubdate": "Wed, 08 Jan 2025 11:00:00 +1100"
-    },
-    {
-        "title": "Peter, Paul and Mary",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Peter,%20Paul%20and%20Mary",
-        "pubdate": "Wed, 08 Jan 2025 15:00:00 +1100"
+        "title": "American Primeval",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#American%20Primeval",
+        "pubdate": "Thu, 09 Jan 2025 21:00:00 +1100"
     }
 ]
