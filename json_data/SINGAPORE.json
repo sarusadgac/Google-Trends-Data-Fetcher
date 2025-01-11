@@ -1,8 +1,53 @@
 [
     {
+        "title": "Flood",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Flood",
+        "pubdate": "Sat, 11 Jan 2025 04:00:00 +0800"
+    },
+    {
+        "title": "Temperature",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Temperature",
+        "pubdate": "Sat, 11 Jan 2025 04:00:00 +0800"
+    },
+    {
+        "title": "Sim",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Sim",
+        "pubdate": "Sat, 11 Jan 2025 09:00:00 +0800"
+    },
+    {
+        "title": "Singapore weather",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Singapore%20weather",
+        "pubdate": "Fri, 10 Jan 2025 11:00:00 +0800"
+    },
+    {
+        "title": "FA Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#FA%20Cup",
+        "pubdate": "Fri, 10 Jan 2025 17:00:00 +0800"
+    },
+    {
         "title": "Jimmy Carter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Jimmy%20Carter",
         "pubdate": "Fri, 10 Jan 2025 01:00:00 +0800"
+    },
+    {
+        "title": "Tesla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Tesla",
+        "pubdate": "Fri, 10 Jan 2025 14:00:00 +0800"
+    },
+    {
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Real%20Madrid",
+        "pubdate": "Fri, 10 Jan 2025 02:00:00 +0800"
+    },
+    {
+        "title": "Game Changer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Game%20Changer",
+        "pubdate": "Fri, 10 Jan 2025 09:00:00 +0800"
+    },
+    {
+        "title": "North-South Line",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#North-South%20Line",
+        "pubdate": "Fri, 10 Jan 2025 19:00:00 +0800"
     },
     {
         "title": "Everton",
@@ -10,24 +55,24 @@
         "pubdate": "Fri, 10 Jan 2025 08:00:00 +0800"
     },
     {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Liverpool",
+        "title": "Paris Hilton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Paris%20Hilton",
+        "pubdate": "Fri, 10 Jan 2025 12:00:00 +0800"
+    },
+    {
+        "title": "La wildfires",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#La%20wildfires",
+        "pubdate": "Thu, 09 Jan 2025 14:00:00 +0800"
+    },
+    {
+        "title": "Hougang fire",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Hougang%20fire",
+        "pubdate": "Thu, 09 Jan 2025 20:00:00 +0800"
+    },
+    {
+        "title": "Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Tottenham",
         "pubdate": "Thu, 09 Jan 2025 07:00:00 +0800"
-    },
-    {
-        "title": "Real Madrid vs Mallorca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Real%20Madrid%20vs%20Mallorca",
-        "pubdate": "Thu, 09 Jan 2025 03:00:00 +0800"
-    },
-    {
-        "title": "Bentancur",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bentancur",
-        "pubdate": "Thu, 09 Jan 2025 13:00:00 +0800"
-    },
-    {
-        "title": "Malibu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Malibu",
-        "pubdate": "Thu, 09 Jan 2025 18:00:00 +0800"
     },
     {
         "title": "La fire",
@@ -53,50 +98,5 @@
         "title": "Micron",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Micron",
         "pubdate": "Wed, 08 Jan 2025 21:00:00 +0800"
-    },
-    {
-        "title": "Mark Zuckerberg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Mark%20Zuckerberg",
-        "pubdate": "Wed, 08 Jan 2025 18:00:00 +0800"
-    },
-    {
-        "title": "Special Economic Zone Johor-Singapore",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Special%20Economic%20Zone%20Johor-Singapore",
-        "pubdate": "Wed, 08 Jan 2025 13:00:00 +0800"
-    },
-    {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Arsenal",
-        "pubdate": "Tue, 07 Jan 2025 07:00:00 +0800"
-    },
-    {
-        "title": "EFL Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#EFL%20Cup",
-        "pubdate": "Tue, 07 Jan 2025 16:00:00 +0800"
-    },
-    {
-        "title": "Zendaya",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Zendaya",
-        "pubdate": "Tue, 07 Jan 2025 02:00:00 +0800"
-    },
-    {
-        "title": "Tibet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Tibet",
-        "pubdate": "Tue, 07 Jan 2025 16:00:00 +0800"
-    },
-    {
-        "title": "Wang Xing",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Wang%20Xing",
-        "pubdate": "Tue, 07 Jan 2025 21:00:00 +0800"
-    },
-    {
-        "title": "Human metapneumovirus (HMPV virus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Human%20metapneumovirus%20(HMPV%20virus",
-        "pubdate": "Tue, 07 Jan 2025 13:00:00 +0800"
-    },
-    {
-        "title": "AC Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#AC%20Milan",
-        "pubdate": "Tue, 07 Jan 2025 10:00:00 +0800"
     }
 ]

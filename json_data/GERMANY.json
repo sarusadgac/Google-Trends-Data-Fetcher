@@ -1,13 +1,48 @@
 [
     {
-        "title": "Elon Musk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Elon%20Musk",
+        "title": "Maul- und Klauenseuche Brandenburg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Maul-%20und%20Klauenseuche%20Brandenburg",
+        "pubdate": "Fri, 10 Jan 2025 12:00:00 +0100"
+    },
+    {
+        "title": "Öltanker vor Rügen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#%C3%96ltanker%20vor%20R%C3%BCgen",
+        "pubdate": "Fri, 10 Jan 2025 18:00:00 +0100"
+    },
+    {
+        "title": "Donald Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Donald%20Trump",
+        "pubdate": "Fri, 10 Jan 2025 20:00:00 +0100"
+    },
+    {
+        "title": "Florian Wirtz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Florian%20Wirtz",
+        "pubdate": "Fri, 10 Jan 2025 22:00:00 +0100"
+    },
+    {
+        "title": "Felix Lobrecht",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Felix%20Lobrecht",
+        "pubdate": "Fri, 10 Jan 2025 22:00:00 +0100"
+    },
+    {
+        "title": "Tesla Model Y",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tesla%20Model%20Y",
+        "pubdate": "Fri, 10 Jan 2025 10:00:00 +0100"
+    },
+    {
+        "title": "Christine Kensche",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Christine%20Kensche",
+        "pubdate": "Fri, 10 Jan 2025 19:00:00 +0100"
+    },
+    {
+        "title": "Dortmund – Leverkusen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dortmund%20%E2%80%93%20Leverkusen",
         "pubdate": "Thu, 09 Jan 2025 20:00:00 +0100"
     },
     {
-        "title": "Lindner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Lindner",
-        "pubdate": "Thu, 09 Jan 2025 15:00:00 +0100"
+        "title": "Alice Weidel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Alice%20Weidel",
+        "pubdate": "Thu, 09 Jan 2025 20:00:00 +0100"
     },
     {
         "title": "Schnee",
@@ -15,34 +50,9 @@
         "pubdate": "Thu, 09 Jan 2025 18:00:00 +0100"
     },
     {
-        "title": "Julia Klöckner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Julia%20Kl%C3%B6ckner",
-        "pubdate": "Thu, 09 Jan 2025 19:00:00 +0100"
-    },
-    {
-        "title": "Otto Schenk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Otto%20Schenk",
-        "pubdate": "Thu, 09 Jan 2025 17:00:00 +0100"
-    },
-    {
-        "title": "Biathlon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Biathlon",
-        "pubdate": "Thu, 09 Jan 2025 17:00:00 +0100"
-    },
-    {
-        "title": "VfL Bochum",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VfL%20Bochum",
-        "pubdate": "Thu, 09 Jan 2025 18:00:00 +0100"
-    },
-    {
-        "title": "RB Leipzig",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#RB%20Leipzig",
-        "pubdate": "Thu, 09 Jan 2025 06:00:00 +0100"
-    },
-    {
-        "title": "Kalifornien",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kalifornien",
-        "pubdate": "Thu, 09 Jan 2025 02:00:00 +0100"
+        "title": "James Woods",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#James%20Woods",
+        "pubdate": "Thu, 09 Jan 2025 12:00:00 +0100"
     },
     {
         "title": "Los Angeles",
@@ -50,14 +60,14 @@
         "pubdate": "Wed, 08 Jan 2025 09:00:00 +0100"
     },
     {
-        "title": "Alice Weidel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Alice%20Weidel",
+        "title": "Alice Weidel Elon Musk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Alice%20Weidel%20Elon%20Musk",
         "pubdate": "Wed, 08 Jan 2025 21:00:00 +0100"
     },
     {
-        "title": "Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Trump",
-        "pubdate": "Wed, 08 Jan 2025 18:00:00 +0100"
+        "title": "Feuer Los Angeles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Feuer%20Los%20Angeles",
+        "pubdate": "Wed, 08 Jan 2025 19:00:00 +0100"
     },
     {
         "title": "Grönland Trump",
@@ -88,15 +98,5 @@
         "title": "Bundestagswahl",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bundestagswahl",
         "pubdate": "Sun, 05 Jan 2025 16:00:00 +0100"
-    },
-    {
-        "title": "Petition Böllerverbot",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Petition%20B%C3%B6llerverbot",
-        "pubdate": "Sat, 04 Jan 2025 20:00:00 +0100"
-    },
-    {
-        "title": "Luke Littler",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Luke%20Littler",
-        "pubdate": "Thu, 02 Jan 2025 01:00:00 +0100"
     }
 ]
