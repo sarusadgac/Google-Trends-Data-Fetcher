@@ -1,18 +1,63 @@
 [
     {
+        "title": "Liverpool–accrington",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Liverpool%E2%80%93accrington",
+        "pubdate": "Sat, 11 Jan 2025 13:00:00 +0100"
+    },
+    {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Liverpool",
+        "pubdate": "Sat, 11 Jan 2025 16:00:00 +0100"
+    },
+    {
         "title": "Év Autója",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%89v%20Aut%C3%B3ja",
         "pubdate": "Sat, 11 Jan 2025 02:00:00 +0100"
     },
     {
-        "title": "Tesla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Tesla",
-        "pubdate": "Fri, 10 Jan 2025 13:00:00 +0100"
+        "title": "Molnár Gusztáv",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Moln%C3%A1r%20Guszt%C3%A1v",
+        "pubdate": "Sat, 11 Jan 2025 13:00:00 +0100"
     },
     {
-        "title": "Benedek Miklós",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Benedek%20Mikl%C3%B3s",
-        "pubdate": "Fri, 10 Jan 2025 04:00:00 +0100"
+        "title": "Sevilla–valencia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sevilla%E2%80%93valencia",
+        "pubdate": "Sat, 11 Jan 2025 21:00:00 +0100"
+    },
+    {
+        "title": "Keresztes Ildikó",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Keresztes%20Ildik%C3%B3",
+        "pubdate": "Sat, 11 Jan 2025 21:00:00 +0100"
+    },
+    {
+        "title": "Alavés–Girona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Alav%C3%A9s%E2%80%93Girona",
+        "pubdate": "Sat, 11 Jan 2025 15:00:00 +0100"
+    },
+    {
+        "title": "Sulyok Tamás",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sulyok%20Tam%C3%A1s",
+        "pubdate": "Sat, 11 Jan 2025 19:00:00 +0100"
+    },
+    {
+        "title": "Seress Rezső",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Seress%20Rezs%C5%91",
+        "pubdate": "Sat, 11 Jan 2025 20:00:00 +0100"
+    },
+    {
+        "title": "Fekete Dávid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Fekete%20D%C3%A1vid",
+        "pubdate": "Sat, 11 Jan 2025 06:00:00 +0100"
+    },
+    {
+        "title": "Sári Évi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#S%C3%A1ri%20%C3%89vi",
+        "pubdate": "Sat, 11 Jan 2025 22:00:00 +0100"
+    },
+    {
+        "title": "Szentkirályi Alexandra",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szentkir%C3%A1lyi%20Alexandra",
+        "pubdate": "Sat, 11 Jan 2025 23:00:00 +0100"
     },
     {
         "title": "Magyar Péter bejelentés",
@@ -20,14 +65,14 @@
         "pubdate": "Fri, 10 Jan 2025 21:00:00 +0100"
     },
     {
-        "title": "Osvárt Andrea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Osv%C3%A1rt%20Andrea",
+        "title": "Tűzvész Los Angelesben",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#T%C5%B1zv%C3%A9sz%20Los%20Angelesben",
         "pubdate": "Fri, 10 Jan 2025 19:00:00 +0100"
     },
     {
-        "title": "Jason Statham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Jason%20Statham",
-        "pubdate": "Fri, 10 Jan 2025 17:00:00 +0100"
+        "title": "Osvárt Andrea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Osv%C3%A1rt%20Andrea",
+        "pubdate": "Fri, 10 Jan 2025 19:00:00 +0100"
     },
     {
         "title": "Nyugdíj",
@@ -35,68 +80,23 @@
         "pubdate": "Fri, 10 Jan 2025 16:00:00 +0100"
     },
     {
-        "title": "Alice Weidel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Alice%20Weidel",
-        "pubdate": "Fri, 10 Jan 2025 06:00:00 +0100"
+        "title": "Benedek Miklós",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Benedek%20Mikl%C3%B3s",
+        "pubdate": "Fri, 10 Jan 2025 04:00:00 +0100"
     },
     {
-        "title": "Meta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Meta",
-        "pubdate": "Fri, 10 Jan 2025 21:00:00 +0100"
+        "title": "Jason Statham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Jason%20Statham",
+        "pubdate": "Fri, 10 Jan 2025 17:00:00 +0100"
     },
     {
-        "title": "Lazio–Como",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Lazio%E2%80%93Como",
-        "pubdate": "Fri, 10 Jan 2025 22:00:00 +0100"
+        "title": "Tesla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Tesla",
+        "pubdate": "Fri, 10 Jan 2025 23:00:00 +0100"
     },
     {
-        "title": "Bag",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bag",
-        "pubdate": "Fri, 10 Jan 2025 14:00:00 +0100"
-    },
-    {
-        "title": "M1 baleset",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M1%20baleset",
-        "pubdate": "Fri, 10 Jan 2025 18:00:00 +0100"
-    },
-    {
-        "title": "Robert Fico",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Robert%20Fico",
-        "pubdate": "Fri, 10 Jan 2025 20:00:00 +0100"
-    },
-    {
-        "title": "Radar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Radar",
-        "pubdate": "Fri, 10 Jan 2025 05:00:00 +0100"
-    },
-    {
-        "title": "Jamie Lee Curtis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Jamie%20Lee%20Curtis",
-        "pubdate": "Fri, 10 Jan 2025 00:00:00 +0100"
-    },
-    {
-        "title": "Real madrid–mallorca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Real%20madrid%E2%80%93mallorca",
-        "pubdate": "Thu, 09 Jan 2025 20:00:00 +0100"
-    },
-    {
-        "title": "Los Angeles",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Los%20Angeles",
-        "pubdate": "Thu, 09 Jan 2025 15:00:00 +0100"
-    },
-    {
-        "title": "HMPV vírus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#HMPV%20v%C3%ADrus",
-        "pubdate": "Thu, 09 Jan 2025 13:00:00 +0100"
-    },
-    {
-        "title": "Jimmy Carter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Jimmy%20Carter",
-        "pubdate": "Thu, 09 Jan 2025 23:00:00 +0100"
-    },
-    {
-        "title": "Cash Warren",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Cash%20Warren",
-        "pubdate": "Thu, 09 Jan 2025 07:00:00 +0100"
+        "title": "Tesla Model Y",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Tesla%20Model%20Y",
+        "pubdate": "Fri, 10 Jan 2025 13:00:00 +0100"
     }
 ]

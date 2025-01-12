@@ -1,13 +1,83 @@
 [
     {
+        "title": "Dredd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Dredd",
+        "pubdate": "Sun, 12 Jan 2025 00:00:00 +0100"
+    },
+    {
+        "title": "Rory Sykes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Rory%20Sykes",
+        "pubdate": "Sat, 11 Jan 2025 17:00:00 +0100"
+    },
+    {
+        "title": "Ester Ledecká",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ester%20Ledeck%C3%A1",
+        "pubdate": "Sat, 11 Jan 2025 13:00:00 +0100"
+    },
+    {
+        "title": "Alavés – Girona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Alav%C3%A9s%20%E2%80%93%20Girona",
+        "pubdate": "Sat, 11 Jan 2025 14:00:00 +0100"
+    },
+    {
+        "title": "Výstraha sníh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#V%C3%BDstraha%20sn%C3%ADh",
+        "pubdate": "Sat, 11 Jan 2025 21:00:00 +0100"
+    },
+    {
+        "title": "Pustevny",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Pustevny",
+        "pubdate": "Sat, 11 Jan 2025 21:00:00 +0100"
+    },
+    {
+        "title": "Hoffenheim – Wolfsburg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Hoffenheim%20%E2%80%93%20Wolfsburg",
+        "pubdate": "Sat, 11 Jan 2025 17:00:00 +0100"
+    },
+    {
+        "title": "Dacia Bigster",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Dacia%20Bigster",
+        "pubdate": "Sat, 11 Jan 2025 21:00:00 +0100"
+    },
+    {
+        "title": "Patrik Schick",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Patrik%20Schick",
+        "pubdate": "Sat, 11 Jan 2025 09:00:00 +0100"
+    },
+    {
+        "title": "Los Angeles požáry",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Los%20Angeles%20po%C5%BE%C3%A1ry",
+        "pubdate": "Sat, 11 Jan 2025 16:00:00 +0100"
+    },
+    {
         "title": "Kingdom Come: Deliverance II",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kingdom%20Come:%20Deliverance%20II",
         "pubdate": "Sat, 11 Jan 2025 01:00:00 +0100"
     },
     {
-        "title": "Tesla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tesla",
-        "pubdate": "Fri, 10 Jan 2025 14:00:00 +0100"
+        "title": "Feranec",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Feranec",
+        "pubdate": "Sat, 11 Jan 2025 09:00:00 +0100"
+    },
+    {
+        "title": "Shrek 5",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Shrek%205",
+        "pubdate": "Sat, 11 Jan 2025 21:00:00 +0100"
+    },
+    {
+        "title": "Mario Klemens",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Mario%20Klemens",
+        "pubdate": "Sat, 11 Jan 2025 23:00:00 +0100"
+    },
+    {
+        "title": "Babovky",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Babovky",
+        "pubdate": "Fri, 10 Jan 2025 20:00:00 +0100"
+    },
+    {
+        "title": "Bára Kodetová",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#B%C3%A1ra%20Kodetov%C3%A1",
+        "pubdate": "Fri, 10 Jan 2025 23:00:00 +0100"
     },
     {
         "title": "Zdena Studenková",
@@ -15,19 +85,9 @@
         "pubdate": "Fri, 10 Jan 2025 01:00:00 +0100"
     },
     {
-        "title": "Sparta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sparta",
-        "pubdate": "Fri, 10 Jan 2025 18:00:00 +0100"
-    },
-    {
-        "title": "Slovenský katastr nemovitostí",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Slovensk%C3%BD%20katastr%20nemovitost%C3%AD",
-        "pubdate": "Fri, 10 Jan 2025 02:00:00 +0100"
-    },
-    {
-        "title": "Radovan Vítek",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Radovan%20V%C3%ADtek",
-        "pubdate": "Fri, 10 Jan 2025 23:00:00 +0100"
+        "title": "Tesla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tesla",
+        "pubdate": "Fri, 10 Jan 2025 14:00:00 +0100"
     },
     {
         "title": "Bundesliga",
@@ -35,68 +95,8 @@
         "pubdate": "Fri, 10 Jan 2025 22:00:00 +0100"
     },
     {
-        "title": "Jana švandová",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jana%20%C5%A1vandov%C3%A1",
-        "pubdate": "Fri, 10 Jan 2025 21:00:00 +0100"
-    },
-    {
-        "title": "Hugh Jackman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Hugh%20Jackman",
-        "pubdate": "Fri, 10 Jan 2025 01:00:00 +0100"
-    },
-    {
-        "title": "Ptačí hodinka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Pta%C4%8D%C3%AD%20hodinka",
-        "pubdate": "Fri, 10 Jan 2025 14:00:00 +0100"
-    },
-    {
-        "title": "Renault 5",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Renault%205",
-        "pubdate": "Fri, 10 Jan 2025 17:00:00 +0100"
-    },
-    {
-        "title": "Blanka Cupáková",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Blanka%20Cup%C3%A1kov%C3%A1",
-        "pubdate": "Fri, 10 Jan 2025 06:00:00 +0100"
-    },
-    {
-        "title": "Metro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Metro",
-        "pubdate": "Fri, 10 Jan 2025 17:00:00 +0100"
-    },
-    {
-        "title": "Jana Nagyová",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jana%20Nagyov%C3%A1",
+        "title": "Sparta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sparta",
         "pubdate": "Fri, 10 Jan 2025 18:00:00 +0100"
-    },
-    {
-        "title": "Výstraha – vítr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#V%C3%BDstraha%20%E2%80%93%20v%C3%ADtr",
-        "pubdate": "Thu, 09 Jan 2025 23:00:00 +0100"
-    },
-    {
-        "title": "Los Angeles požár",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Los%20Angeles%20po%C5%BE%C3%A1r",
-        "pubdate": "Thu, 09 Jan 2025 10:00:00 +0100"
-    },
-    {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Real%20Madrid",
-        "pubdate": "Thu, 09 Jan 2025 21:00:00 +0100"
-    },
-    {
-        "title": "Poco X7 Pro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Poco%20X7%20Pro",
-        "pubdate": "Thu, 09 Jan 2025 18:00:00 +0100"
-    },
-    {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Barcelona",
-        "pubdate": "Thu, 09 Jan 2025 06:00:00 +0100"
-    },
-    {
-        "title": "Maria Callas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Maria%20Callas",
-        "pubdate": "Thu, 09 Jan 2025 09:00:00 +0100"
     }
 ]

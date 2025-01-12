@@ -1,13 +1,58 @@
 [
     {
+        "title": "UFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#UFC",
+        "pubdate": "Sun, 12 Jan 2025 11:00:00 +1300"
+    },
+    {
+        "title": "Auckland FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Auckland%20FC",
+        "pubdate": "Sun, 12 Jan 2025 01:00:00 +1300"
+    },
+    {
+        "title": "Australian Open",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Australian%20Open",
+        "pubdate": "Sun, 12 Jan 2025 14:00:00 +1300"
+    },
+    {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Liverpool",
+        "pubdate": "Sun, 12 Jan 2025 05:00:00 +1300"
+    },
+    {
+        "title": "Man City vs Salford City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Man%20City%20vs%20Salford%20City",
+        "pubdate": "Sun, 12 Jan 2025 09:00:00 +1300"
+    },
+    {
+        "title": "Sonic the Hedgehog",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Sonic%20the%20Hedgehog",
+        "pubdate": "Sun, 12 Jan 2025 09:00:00 +1300"
+    },
+    {
         "title": "Sri Lanka vs New Zealand",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Sri%20Lanka%20vs%20New%20Zealand",
         "pubdate": "Sat, 11 Jan 2025 14:00:00 +1300"
     },
     {
-        "title": "Anita Bryant",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Anita%20Bryant",
-        "pubdate": "Sat, 11 Jan 2025 00:00:00 +1300"
+        "title": "Wellington Phoenix vs Adelaide United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Wellington%20Phoenix%20vs%20Adelaide%20United",
+        "pubdate": "Sat, 11 Jan 2025 17:00:00 +1300"
+    },
+    {
+        "title": "Fisher Auckland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Fisher%20Auckland",
+        "pubdate": "Sat, 11 Jan 2025 19:00:00 +1300"
+    },
+    {
+        "title": "Aston Villa vs West Ham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Aston%20Villa%20vs%20West%20Ham",
+        "pubdate": "Sat, 11 Jan 2025 10:00:00 +1300"
+    },
+    {
+        "title": "Blackcaps",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Blackcaps",
+        "pubdate": "Sat, 11 Jan 2025 15:00:00 +1300"
     },
     {
         "title": "Mel Gibson",
@@ -15,14 +60,19 @@
         "pubdate": "Sat, 11 Jan 2025 01:00:00 +1300"
     },
     {
+        "title": "Anita Bryant",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Anita%20Bryant",
+        "pubdate": "Sat, 11 Jan 2025 00:00:00 +1300"
+    },
+    {
         "title": "College Football",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#College%20Football",
         "pubdate": "Sat, 11 Jan 2025 14:00:00 +1300"
     },
     {
-        "title": "Hollywood Hills fire",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Hollywood%20Hills%20fire",
-        "pubdate": "Fri, 10 Jan 2025 08:00:00 +1300"
+        "title": "Mark Chapman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Mark%20Chapman",
+        "pubdate": "Sat, 11 Jan 2025 22:00:00 +1300"
     },
     {
         "title": "FA Cup",
@@ -30,73 +80,23 @@
         "pubdate": "Fri, 10 Jan 2025 11:00:00 +1300"
     },
     {
+        "title": "Hollywood sign",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Hollywood%20sign",
+        "pubdate": "Fri, 10 Jan 2025 08:00:00 +1300"
+    },
+    {
         "title": "Treaty Principles Bill submission",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Treaty%20Principles%20Bill%20submission",
         "pubdate": "Fri, 10 Jan 2025 02:00:00 +1300"
     },
     {
-        "title": "Jimmy Carter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Jimmy%20Carter",
-        "pubdate": "Fri, 10 Jan 2025 13:00:00 +1300"
-    },
-    {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Real%20Madrid",
-        "pubdate": "Fri, 10 Jan 2025 10:00:00 +1300"
-    },
-    {
-        "title": "American Primeval",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#American%20Primeval",
+        "title": "Gael Monfils",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Gael%20Monfils",
         "pubdate": "Fri, 10 Jan 2025 14:00:00 +1300"
     },
     {
-        "title": "Golden Lights 2025",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Golden%20Lights%202025",
-        "pubdate": "Fri, 10 Jan 2025 15:00:00 +1300"
-    },
-    {
-        "title": "Hollywood sign",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Hollywood%20sign",
+        "title": "Jimmy Carter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Jimmy%20Carter",
         "pubdate": "Fri, 10 Jan 2025 13:00:00 +1300"
-    },
-    {
-        "title": "Everton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Everton",
-        "pubdate": "Fri, 10 Jan 2025 15:00:00 +1300"
-    },
-    {
-        "title": "Tesla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Tesla",
-        "pubdate": "Fri, 10 Jan 2025 23:00:00 +1300"
-    },
-    {
-        "title": "Gael Monfils",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Gael%20Monfils",
-        "pubdate": "Fri, 10 Jan 2025 19:00:00 +1300"
-    },
-    {
-        "title": "Richard Hammond",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Richard%20Hammond",
-        "pubdate": "Fri, 10 Jan 2025 20:00:00 +1300"
-    },
-    {
-        "title": "Mortgage rates",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Mortgage%20rates",
-        "pubdate": "Fri, 10 Jan 2025 19:00:00 +1300"
-    },
-    {
-        "title": "Paris Hilton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Paris%20Hilton",
-        "pubdate": "Fri, 10 Jan 2025 16:00:00 +1300"
-    },
-    {
-        "title": "Tottenham vs Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Tottenham%20vs%20Liverpool",
-        "pubdate": "Thu, 09 Jan 2025 09:00:00 +1300"
-    },
-    {
-        "title": "Tohu Harris",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Tohu%20Harris",
-        "pubdate": "Thu, 09 Jan 2025 11:00:00 +1300"
     }
 ]

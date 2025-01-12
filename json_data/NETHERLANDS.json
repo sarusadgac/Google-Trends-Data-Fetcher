@@ -1,8 +1,38 @@
 [
     {
-        "title": "Excelsior",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Excelsior",
-        "pubdate": "Sat, 11 Jan 2025 02:00:00 +0100"
+        "title": "Sam Moore",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sam%20Moore",
+        "pubdate": "Sun, 12 Jan 2025 01:00:00 +0100"
+    },
+    {
+        "title": "Ajax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
+        "pubdate": "Sat, 11 Jan 2025 18:00:00 +0100"
+    },
+    {
+        "title": "PSV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV",
+        "pubdate": "Sat, 11 Jan 2025 18:00:00 +0100"
+    },
+    {
+        "title": "Heracles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Heracles",
+        "pubdate": "Sat, 11 Jan 2025 18:00:00 +0100"
+    },
+    {
+        "title": "MKZ uitbraak Duitsland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#MKZ%20uitbraak%20Duitsland",
+        "pubdate": "Sat, 11 Jan 2025 10:00:00 +0100"
+    },
+    {
+        "title": "PEC Zwolle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PEC%20Zwolle",
+        "pubdate": "Sat, 11 Jan 2025 20:00:00 +0100"
+    },
+    {
+        "title": "Egmond-Pier-Egmond",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Egmond-Pier-Egmond",
+        "pubdate": "Sat, 11 Jan 2025 14:00:00 +0100"
     },
     {
         "title": "Eredivisie",
@@ -10,44 +40,19 @@
         "pubdate": "Fri, 10 Jan 2025 19:00:00 +0100"
     },
     {
-        "title": "Fortuna Sittard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Fortuna%20Sittard",
-        "pubdate": "Fri, 10 Jan 2025 21:00:00 +0100"
-    },
-    {
-        "title": "Auto van het Jaar 2025",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Auto%20van%20het%20Jaar%202025",
-        "pubdate": "Fri, 10 Jan 2025 19:00:00 +0100"
-    },
-    {
-        "title": "Tesla Model Y",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Tesla%20Model%20Y",
-        "pubdate": "Fri, 10 Jan 2025 12:00:00 +0100"
-    },
-    {
         "title": "Jutta Leerdam",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jutta%20Leerdam",
         "pubdate": "Fri, 10 Jan 2025 21:00:00 +0100"
     },
     {
-        "title": "Excelsior  Dordrecht",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Excelsior%20%20Dordrecht",
+        "title": "FA Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FA%20Cup",
+        "pubdate": "Fri, 10 Jan 2025 05:00:00 +0100"
+    },
+    {
+        "title": "Jenning de Boo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jenning%20de%20Boo",
         "pubdate": "Fri, 10 Jan 2025 22:00:00 +0100"
-    },
-    {
-        "title": "Marguerite Bérard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Marguerite%20B%C3%A9rard",
-        "pubdate": "Fri, 10 Jan 2025 21:00:00 +0100"
-    },
-    {
-        "title": "Bosbranden Los Angeles",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bosbranden%20Los%20Angeles",
-        "pubdate": "Thu, 09 Jan 2025 19:00:00 +0100"
-    },
-    {
-        "title": "FC Utrecht",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Utrecht",
-        "pubdate": "Thu, 09 Jan 2025 12:00:00 +0100"
     },
     {
         "title": "Los Angeles",
@@ -93,10 +98,5 @@
         "title": "Willem van Kooten",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Willem%20van%20Kooten",
         "pubdate": "Fri, 03 Jan 2025 23:00:00 +0100"
-    },
-    {
-        "title": "Amersfoort",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Amersfoort",
-        "pubdate": "Fri, 03 Jan 2025 01:00:00 +0100"
     }
 ]
