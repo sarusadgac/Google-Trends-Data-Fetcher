@@ -1,27 +1,47 @@
 [
     {
+        "title": "Newcastle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Newcastle",
+        "pubdate": "Mon, 13 Jan 2025 00:00:00 +0700"
+    },
+    {
+        "title": "Man city vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Man%20city%20vs",
+        "pubdate": "Mon, 13 Jan 2025 00:00:00 +0700"
+    },
+    {
+        "title": "Napoli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Napoli",
+        "pubdate": "Mon, 13 Jan 2025 08:00:00 +0700"
+    },
+    {
+        "title": "Atletico Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Atletico%20Madrid",
+        "pubdate": "Mon, 13 Jan 2025 06:00:00 +0700"
+    },
+    {
+        "title": "Real Madrid đấu với Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Real%20Madrid%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Barcelona",
+        "pubdate": "Sun, 12 Jan 2025 09:00:00 +0700"
+    },
+    {
         "title": "Man City đấu với Salford City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Man%20City%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Salford%20City",
         "pubdate": "Sun, 12 Jan 2025 01:00:00 +0700"
     },
     {
+        "title": "Mu vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Mu%20vs",
+        "pubdate": "Sun, 12 Jan 2025 22:00:00 +0700"
+    },
+    {
+        "title": "Cháy ở Mỹ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ch%C3%A1y%20%E1%BB%9F%20M%E1%BB%B9",
+        "pubdate": "Sun, 12 Jan 2025 10:00:00 +0700"
+    },
+    {
         "title": "Bayern munich",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Bayern%20munich",
-        "pubdate": "Sun, 12 Jan 2025 01:00:00 +0700"
-    },
-    {
-        "title": "Ac milan vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ac%20milan%20vs",
-        "pubdate": "Sun, 12 Jan 2025 06:00:00 +0700"
-    },
-    {
-        "title": "The glory",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#The%20glory",
-        "pubdate": "Sun, 12 Jan 2025 00:00:00 +0700"
-    },
-    {
-        "title": "Park Ji Sung",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Park%20Ji%20Sung",
         "pubdate": "Sun, 12 Jan 2025 01:00:00 +0700"
     },
     {
@@ -30,73 +50,53 @@
         "pubdate": "Sun, 12 Jan 2025 08:00:00 +0700"
     },
     {
+        "title": "Ac milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ac%20milan",
+        "pubdate": "Sun, 12 Jan 2025 07:00:00 +0700"
+    },
+    {
+        "title": "Park Ji Sung",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Park%20Ji%20Sung",
+        "pubdate": "Sun, 12 Jan 2025 01:00:00 +0700"
+    },
+    {
+        "title": "Chelsea vs Morecambe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Chelsea%20vs%20Morecambe",
+        "pubdate": "Sun, 12 Jan 2025 00:00:00 +0700"
+    },
+    {
+        "title": "Ac milan vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ac%20milan%20vs",
+        "pubdate": "Sun, 12 Jan 2025 06:00:00 +0700"
+    },
+    {
+        "title": "MobiFone Công an",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#MobiFone%20C%C3%B4ng%20an",
+        "pubdate": "Sun, 12 Jan 2025 18:00:00 +0700"
+    },
+    {
+        "title": "The glory",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#The%20glory",
+        "pubdate": "Sun, 12 Jan 2025 00:00:00 +0700"
+    },
+    {
+        "title": "Horizon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Horizon",
+        "pubdate": "Sun, 12 Jan 2025 14:00:00 +0700"
+    },
+    {
+        "title": "Arsenal đấu với Man Utd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Arsenal%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Man%20Utd",
+        "pubdate": "Sat, 11 Jan 2025 20:00:00 +0700"
+    },
+    {
         "title": "Liverpool đấu với Accrington",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Liverpool%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Accrington",
         "pubdate": "Sat, 11 Jan 2025 19:00:00 +0700"
     },
     {
-        "title": "Chelsea đấu với Morecambe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Chelsea%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Morecambe",
-        "pubdate": "Sat, 11 Jan 2025 20:00:00 +0700"
-    },
-    {
         "title": "Aston Villa đấu với West Ham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Aston%20Villa%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20West%20Ham",
         "pubdate": "Sat, 11 Jan 2025 03:00:00 +0700"
-    },
-    {
-        "title": "Khusanov",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Khusanov",
-        "pubdate": "Sat, 11 Jan 2025 10:00:00 +0700"
-    },
-    {
-        "title": "S66",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#S66",
-        "pubdate": "Sat, 11 Jan 2025 11:00:00 +0700"
-    },
-    {
-        "title": "Vũ Thu Phương",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#V%C5%A9%20Thu%20Ph%C6%B0%C6%A1ng",
-        "pubdate": "Sat, 11 Jan 2025 08:00:00 +0700"
-    },
-    {
-        "title": "Cup fa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Cup%20fa",
-        "pubdate": "Sat, 11 Jan 2025 21:00:00 +0700"
-    },
-    {
-        "title": "Aston villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Aston%20villa",
-        "pubdate": "Sat, 11 Jan 2025 03:00:00 +0700"
-    },
-    {
-        "title": "Dortmund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Dortmund",
-        "pubdate": "Sat, 11 Jan 2025 03:00:00 +0700"
-    },
-    {
-        "title": "Bayer leverkusen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Bayer%20leverkusen",
-        "pubdate": "Sat, 11 Jan 2025 04:00:00 +0700"
-    },
-    {
-        "title": "Vô địch đức",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#V%C3%B4%20%C4%91%E1%BB%8Bch%20%C4%91%E1%BB%A9c",
-        "pubdate": "Sat, 11 Jan 2025 07:00:00 +0700"
-    },
-    {
-        "title": "Redmi Note 14",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Redmi%20Note%2014",
-        "pubdate": "Sat, 11 Jan 2025 14:00:00 +0700"
-    },
-    {
-        "title": "Hidden Face",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Hidden%20Face",
-        "pubdate": "Sat, 11 Jan 2025 14:00:00 +0700"
-    },
-    {
-        "title": "Weibo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Weibo",
-        "pubdate": "Sat, 11 Jan 2025 21:00:00 +0700"
     }
 ]
