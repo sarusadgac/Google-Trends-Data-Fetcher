@@ -1,5 +1,30 @@
 [
     {
+        "title": "Namnsdag",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Namnsdag",
+        "pubdate": "Wed, 15 Jan 2025 00:00:00 +0100"
+    },
+    {
+        "title": "Kajsa Bergqvist",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kajsa%20Bergqvist",
+        "pubdate": "Wed, 15 Jan 2025 00:00:00 +0100"
+    },
+    {
+        "title": "Eric Saade",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Eric%20Saade",
+        "pubdate": "Tue, 14 Jan 2025 21:00:00 +0100"
+    },
+    {
+        "title": "handbolls-VM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#handbolls-VM",
+        "pubdate": "Tue, 14 Jan 2025 09:00:00 +0100"
+    },
+    {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Liverpool",
+        "pubdate": "Tue, 14 Jan 2025 22:00:00 +0100"
+    },
+    {
         "title": "AI",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AI",
         "pubdate": "Tue, 14 Jan 2025 01:00:00 +0100"
@@ -10,9 +35,29 @@
         "pubdate": "Tue, 14 Jan 2025 01:00:00 +0100"
     },
     {
-        "title": "Chatgpt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Chatgpt",
-        "pubdate": "Mon, 13 Jan 2025 13:00:00 +0100"
+        "title": "Koh Tao",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Koh%20Tao",
+        "pubdate": "Tue, 14 Jan 2025 16:00:00 +0100"
+    },
+    {
+        "title": "David Boati",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#David%20Boati",
+        "pubdate": "Tue, 14 Jan 2025 20:00:00 +0100"
+    },
+    {
+        "title": "Mattias Hävelid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mattias%20H%C3%A4velid",
+        "pubdate": "Tue, 14 Jan 2025 21:00:00 +0100"
+    },
+    {
+        "title": "Pawel Cibicki",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Pawel%20Cibicki",
+        "pubdate": "Tue, 14 Jan 2025 23:00:00 +0100"
+    },
+    {
+        "title": "Zubimendi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Zubimendi",
+        "pubdate": "Tue, 14 Jan 2025 23:00:00 +0100"
     },
     {
         "title": "Passage",
@@ -20,9 +65,19 @@
         "pubdate": "Mon, 13 Jan 2025 15:00:00 +0100"
     },
     {
+        "title": "GPT",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#GPT",
+        "pubdate": "Mon, 13 Jan 2025 13:00:00 +0100"
+    },
+    {
         "title": "Lasse Hallström",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Lasse%20Hallstr%C3%B6m",
         "pubdate": "Mon, 13 Jan 2025 22:00:00 +0100"
+    },
+    {
+        "title": "Spotify",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Spotify",
+        "pubdate": "Mon, 13 Jan 2025 14:00:00 +0100"
     },
     {
         "title": "Filip Hammar",
@@ -30,73 +85,18 @@
         "pubdate": "Mon, 13 Jan 2025 21:00:00 +0100"
     },
     {
-        "title": "Di",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Di",
-        "pubdate": "Mon, 13 Jan 2025 13:00:00 +0100"
-    },
-    {
-        "title": "Office 365",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Office%20365",
-        "pubdate": "Mon, 13 Jan 2025 10:00:00 +0100"
-    },
-    {
-        "title": "Sportbladet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sportbladet",
-        "pubdate": "Mon, 13 Jan 2025 08:00:00 +0100"
-    },
-    {
-        "title": "GPT",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#GPT",
-        "pubdate": "Mon, 13 Jan 2025 13:00:00 +0100"
-    },
-    {
-        "title": "Teams",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Teams",
-        "pubdate": "Mon, 13 Jan 2025 08:00:00 +0100"
+        "title": "Hypnosen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hypnosen",
+        "pubdate": "Mon, 13 Jan 2025 21:00:00 +0100"
     },
     {
         "title": "Loa Falkman",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Loa%20Falkman",
-        "pubdate": "Mon, 13 Jan 2025 22:00:00 +0100"
+        "pubdate": "Mon, 13 Jan 2025 21:00:00 +0100"
     },
     {
-        "title": "Liz Cambage",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Liz%20Cambage",
-        "pubdate": "Mon, 13 Jan 2025 08:00:00 +0100"
-    },
-    {
-        "title": "Dagens industri",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Dagens%20industri",
-        "pubdate": "Mon, 13 Jan 2025 11:00:00 +0100"
-    },
-    {
-        "title": "Spel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Spel",
-        "pubdate": "Mon, 13 Jan 2025 16:00:00 +0100"
-    },
-    {
-        "title": "BYD",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#BYD",
-        "pubdate": "Mon, 13 Jan 2025 22:00:00 +0100"
-    },
-    {
-        "title": "Alla hjärtans dag",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Alla%20hj%C3%A4rtans%20dag",
-        "pubdate": "Mon, 13 Jan 2025 14:00:00 +0100"
-    },
-    {
-        "title": "Filipstad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Filipstad",
-        "pubdate": "Mon, 13 Jan 2025 20:00:00 +0100"
-    },
-    {
-        "title": "Christina Schollin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Christina%20Schollin",
-        "pubdate": "Mon, 13 Jan 2025 22:00:00 +0100"
-    },
-    {
-        "title": "Schema",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Schema",
-        "pubdate": "Mon, 13 Jan 2025 15:00:00 +0100"
+        "title": "Di",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Di",
+        "pubdate": "Mon, 13 Jan 2025 13:00:00 +0100"
     }
 ]
