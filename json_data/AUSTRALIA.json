@@ -1,8 +1,58 @@
 [
     {
+        "title": "UFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#UFC",
+        "pubdate": "Sat, 18 Jan 2025 08:00:00 +1100"
+    },
+    {
+        "title": "Joan Plowright",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Joan%20Plowright",
+        "pubdate": "Sat, 18 Jan 2025 04:00:00 +1100"
+    },
+    {
+        "title": "Danilovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Danilovic",
+        "pubdate": "Sat, 18 Jan 2025 00:00:00 +1100"
+    },
+    {
+        "title": "Sydney Sixers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sydney%20Sixers",
+        "pubdate": "Sat, 18 Jan 2025 10:00:00 +1100"
+    },
+    {
+        "title": "Haaland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Haaland",
+        "pubdate": "Sat, 18 Jan 2025 02:00:00 +1100"
+    },
+    {
+        "title": "Car",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Car",
+        "pubdate": "Sat, 18 Jan 2025 09:00:00 +1100"
+    },
+    {
+        "title": "Bob Uecker",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bob%20Uecker",
+        "pubdate": "Sat, 18 Jan 2025 00:00:00 +1100"
+    },
+    {
+        "title": "The Curious Case Of Benjamin Button",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#The%20Curious%20Case%20Of%20Benjamin%20Button",
+        "pubdate": "Sat, 18 Jan 2025 01:00:00 +1100"
+    },
+    {
         "title": "David Lynch",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#David%20Lynch",
         "pubdate": "Fri, 17 Jan 2025 07:00:00 +1100"
+    },
+    {
+        "title": "Vukic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Vukic",
+        "pubdate": "Fri, 17 Jan 2025 23:00:00 +1100"
+    },
+    {
+        "title": "Nintendo Switch 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Nintendo%20Switch%202",
+        "pubdate": "Fri, 17 Jan 2025 01:00:00 +1100"
     },
     {
         "title": "Learner Tien",
@@ -10,34 +60,19 @@
         "pubdate": "Fri, 17 Jan 2025 00:00:00 +1100"
     },
     {
-        "title": "Man United vs Southampton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Man%20United%20vs%20Southampton",
-        "pubdate": "Fri, 17 Jan 2025 07:00:00 +1100"
+        "title": "Coco Gauff",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Coco%20Gauff",
+        "pubdate": "Fri, 17 Jan 2025 20:00:00 +1100"
     },
     {
-        "title": "TikTok banned",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#TikTok%20banned",
-        "pubdate": "Fri, 17 Jan 2025 07:00:00 +1100"
+        "title": "Liam Ryan fight",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Liam%20Ryan%20fight",
+        "pubdate": "Fri, 17 Jan 2025 13:00:00 +1100"
     },
     {
-        "title": "Katie Boulter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Katie%20Boulter",
-        "pubdate": "Fri, 17 Jan 2025 11:00:00 +1100"
-    },
-    {
-        "title": "Real Madrid vs Celta Vigo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Real%20Madrid%20vs%20Celta%20Vigo",
-        "pubdate": "Fri, 17 Jan 2025 09:00:00 +1100"
-    },
-    {
-        "title": "Australia Women vs England Women",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Australia%20Women%20vs%20England%20Women",
-        "pubdate": "Fri, 17 Jan 2025 11:00:00 +1100"
-    },
-    {
-        "title": "Fonseca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Fonseca",
-        "pubdate": "Fri, 17 Jan 2025 01:00:00 +1100"
+        "title": "Sabalenka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sabalenka",
+        "pubdate": "Fri, 17 Jan 2025 14:00:00 +1100"
     },
     {
         "title": "SpaceX",
@@ -45,58 +80,23 @@
         "pubdate": "Fri, 17 Jan 2025 12:00:00 +1100"
     },
     {
-        "title": "Bernard Tomic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bernard%20Tomic",
+        "title": "TikTok banned",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#TikTok%20banned",
+        "pubdate": "Fri, 17 Jan 2025 07:00:00 +1100"
+    },
+    {
+        "title": "Back in Action",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Back%20in%20Action",
+        "pubdate": "Fri, 17 Jan 2025 20:00:00 +1100"
+    },
+    {
+        "title": "Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Manchester%20United",
         "pubdate": "Fri, 17 Jan 2025 09:00:00 +1100"
     },
     {
-        "title": "Link",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Link",
-        "pubdate": "Fri, 17 Jan 2025 09:00:00 +1100"
-    },
-    {
-        "title": "Schoolkate",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Schoolkate",
-        "pubdate": "Thu, 16 Jan 2025 02:00:00 +1100"
-    },
-    {
-        "title": "Collins tennis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Collins%20tennis",
-        "pubdate": "Thu, 16 Jan 2025 19:00:00 +1100"
-    },
-    {
-        "title": "Switch 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Switch%202",
-        "pubdate": "Thu, 16 Jan 2025 17:00:00 +1100"
-    },
-    {
-        "title": "Ceasefire",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ceasefire",
-        "pubdate": "Thu, 16 Jan 2025 09:00:00 +1100"
-    },
-    {
-        "title": "Arsenal vs Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Arsenal%20vs%20Tottenham",
-        "pubdate": "Thu, 16 Jan 2025 07:00:00 +1100"
-    },
-    {
-        "title": "Saif Ali Khan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Saif%20Ali%20Khan",
-        "pubdate": "Thu, 16 Jan 2025 16:00:00 +1100"
-    },
-    {
-        "title": "Brisbane Heat vs Hobart Hurricanes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Brisbane%20Heat%20vs%20Hobart%20Hurricanes",
-        "pubdate": "Thu, 16 Jan 2025 20:00:00 +1100"
-    },
-    {
-        "title": "Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Djokovic",
-        "pubdate": "Thu, 16 Jan 2025 07:00:00 +1100"
-    },
-    {
-        "title": "Meteorite",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Meteorite",
-        "pubdate": "Thu, 16 Jan 2025 15:00:00 +1100"
+        "title": "Justin Baldoni",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Justin%20Baldoni",
+        "pubdate": "Fri, 17 Jan 2025 16:00:00 +1100"
     }
 ]
