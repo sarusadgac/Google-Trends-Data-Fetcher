@@ -1,5 +1,60 @@
 [
     {
+        "title": "Arsenal – Aston Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Arsenal%20%E2%80%93%20Aston%20Villa",
+        "pubdate": "Sat, 18 Jan 2025 18:00:00 +0100"
+    },
+    {
+        "title": "Zdeněk Papoušek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Zden%C4%9Bk%20Papou%C5%A1ek",
+        "pubdate": "Sat, 18 Jan 2025 15:00:00 +0100"
+    },
+    {
+        "title": "Siniakova",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Siniakova",
+        "pubdate": "Sat, 18 Jan 2025 00:00:00 +0100"
+    },
+    {
+        "title": "Most",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Most",
+        "pubdate": "Sat, 18 Jan 2025 15:00:00 +0100"
+    },
+    {
+        "title": "Leganes – atlético Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Leganes%20%E2%80%93%20atl%C3%A9tico%20Madrid",
+        "pubdate": "Sat, 18 Jan 2025 19:00:00 +0100"
+    },
+    {
+        "title": "Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Trump",
+        "pubdate": "Sat, 18 Jan 2025 20:00:00 +0100"
+    },
+    {
+        "title": "LEC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#LEC",
+        "pubdate": "Sat, 18 Jan 2025 19:00:00 +0100"
+    },
+    {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Arsenal",
+        "pubdate": "Sat, 18 Jan 2025 21:00:00 +0100"
+    },
+    {
+        "title": "Cellular",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Cellular",
+        "pubdate": "Sat, 18 Jan 2025 00:00:00 +0100"
+    },
+    {
+        "title": "Lens – PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Lens%20%E2%80%93%20PSG",
+        "pubdate": "Sat, 18 Jan 2025 20:00:00 +0100"
+    },
+    {
+        "title": "UFC 311",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#UFC%20311",
+        "pubdate": "Fri, 17 Jan 2025 08:00:00 +0100"
+    },
+    {
         "title": "Veronika Čermák Macková",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Veronika%20%C4%8Cerm%C3%A1k%20Mackov%C3%A1",
         "pubdate": "Fri, 17 Jan 2025 19:00:00 +0100"
@@ -10,24 +65,14 @@
         "pubdate": "Fri, 17 Jan 2025 21:00:00 +0100"
     },
     {
-        "title": "UFC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#UFC",
-        "pubdate": "Fri, 17 Jan 2025 16:00:00 +0100"
-    },
-    {
         "title": "Rallye Dakar 2025",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Rallye%20Dakar%202025",
         "pubdate": "Fri, 17 Jan 2025 14:00:00 +0100"
     },
     {
-        "title": "SpaceX",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#SpaceX",
-        "pubdate": "Fri, 17 Jan 2025 01:00:00 +0100"
-    },
-    {
-        "title": "Parthenope",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Parthenope",
-        "pubdate": "Fri, 17 Jan 2025 09:00:00 +0100"
+        "title": "Cameron Diaz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Cameron%20Diaz",
+        "pubdate": "Fri, 17 Jan 2025 14:00:00 +0100"
     },
     {
         "title": "Trojan",
@@ -35,68 +80,23 @@
         "pubdate": "Fri, 17 Jan 2025 22:00:00 +0100"
     },
     {
+        "title": "Bruce Willis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bruce%20Willis",
+        "pubdate": "Fri, 17 Jan 2025 06:00:00 +0100"
+    },
+    {
+        "title": "Parthenope",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Parthenope",
+        "pubdate": "Fri, 17 Jan 2025 09:00:00 +0100"
+    },
+    {
+        "title": "SpaceX",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#SpaceX",
+        "pubdate": "Fri, 17 Jan 2025 01:00:00 +0100"
+    },
+    {
         "title": "Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Djokovic",
         "pubdate": "Fri, 17 Jan 2025 21:00:00 +0100"
-    },
-    {
-        "title": "Prismatic Evolutions",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Prismatic%20Evolutions",
-        "pubdate": "Fri, 17 Jan 2025 20:00:00 +0100"
-    },
-    {
-        "title": "Tomáš Macháč",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tom%C3%A1%C5%A1%20Mach%C3%A1%C4%8D",
-        "pubdate": "Fri, 17 Jan 2025 14:00:00 +0100"
-    },
-    {
-        "title": "Tomáš Vartecký",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tom%C3%A1%C5%A1%20Varteck%C3%BD",
-        "pubdate": "Fri, 17 Jan 2025 22:00:00 +0100"
-    },
-    {
-        "title": "Mitas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Mitas",
-        "pubdate": "Fri, 17 Jan 2025 13:00:00 +0100"
-    },
-    {
-        "title": "Dr. Oetker",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Dr.%20Oetker",
-        "pubdate": "Fri, 17 Jan 2025 13:00:00 +0100"
-    },
-    {
-        "title": "Popeyes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Popeyes",
-        "pubdate": "Fri, 17 Jan 2025 10:00:00 +0100"
-    },
-    {
-        "title": "Festival chutí",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Festival%20chut%C3%AD",
-        "pubdate": "Fri, 17 Jan 2025 13:00:00 +0100"
-    },
-    {
-        "title": "Path of Exile 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Path%20of%20Exile%202",
-        "pubdate": "Fri, 17 Jan 2025 19:00:00 +0100"
-    },
-    {
-        "title": "Legionella",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Legionella",
-        "pubdate": "Fri, 17 Jan 2025 00:00:00 +0100"
-    },
-    {
-        "title": "David Lynch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#David%20Lynch",
-        "pubdate": "Thu, 16 Jan 2025 20:00:00 +0100"
-    },
-    {
-        "title": "Nintendo Switch 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Nintendo%20Switch%202",
-        "pubdate": "Thu, 16 Jan 2025 12:00:00 +0100"
-    },
-    {
-        "title": "Jan Palach",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jan%20Palach",
-        "pubdate": "Thu, 16 Jan 2025 07:00:00 +0100"
     }
 ]
