@@ -1,13 +1,58 @@
 [
     {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Barcelona",
-        "pubdate": "Sun, 19 Jan 2025 00:00:00 +0100"
+        "title": "Håndball-VM 2025",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#H%C3%A5ndball-VM%202025",
+        "pubdate": "Sun, 19 Jan 2025 17:00:00 +0100"
     },
     {
-        "title": "PL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#PL",
-        "pubdate": "Sun, 19 Jan 2025 00:00:00 +0100"
+        "title": "Tiktok",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tiktok",
+        "pubdate": "Sun, 19 Jan 2025 09:00:00 +0100"
+    },
+    {
+        "title": "Tom Erik Heimen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tom%20Erik%20Heimen",
+        "pubdate": "Sun, 19 Jan 2025 10:00:00 +0100"
+    },
+    {
+        "title": "Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Manchester%20City",
+        "pubdate": "Sun, 19 Jan 2025 19:00:00 +0100"
+    },
+    {
+        "title": "Sarita",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sarita",
+        "pubdate": "Sun, 19 Jan 2025 21:00:00 +0100"
+    },
+    {
+        "title": "Natalie Viscuso",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Natalie%20Viscuso",
+        "pubdate": "Sun, 19 Jan 2025 19:00:00 +0100"
+    },
+    {
+        "title": "Atle Lie McGrath",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Atle%20Lie%20McGrath",
+        "pubdate": "Sun, 19 Jan 2025 11:00:00 +0100"
+    },
+    {
+        "title": "Ivana Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ivana%20Trump",
+        "pubdate": "Sun, 19 Jan 2025 12:00:00 +0100"
+    },
+    {
+        "title": "Trump crypto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Trump%20crypto",
+        "pubdate": "Sun, 19 Jan 2025 09:00:00 +0100"
+    },
+    {
+        "title": "Frida Karlsson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Frida%20Karlsson",
+        "pubdate": "Sun, 19 Jan 2025 18:00:00 +0100"
+    },
+    {
+        "title": "Vestre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Vestre",
+        "pubdate": "Sun, 19 Jan 2025 13:00:00 +0100"
     },
     {
         "title": "Johannes Thingnes Bø",
@@ -20,9 +65,19 @@
         "pubdate": "Sat, 18 Jan 2025 23:00:00 +0100"
     },
     {
-        "title": "Arsenal mot Aston Villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Arsenal%20mot%20Aston%20Villa",
-        "pubdate": "Sat, 18 Jan 2025 18:00:00 +0100"
+        "title": "Getafe mot Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Getafe%20mot%20Barcelona",
+        "pubdate": "Sat, 18 Jan 2025 21:00:00 +0100"
+    },
+    {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Arsenal",
+        "pubdate": "Sat, 18 Jan 2025 21:00:00 +0100"
+    },
+    {
+        "title": "Gaza",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Gaza",
+        "pubdate": "Sat, 18 Jan 2025 20:00:00 +0100"
     },
     {
         "title": "Petter Northug",
@@ -40,63 +95,8 @@
         "pubdate": "Sat, 18 Jan 2025 10:00:00 +0100"
     },
     {
-        "title": "Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Trump",
-        "pubdate": "Sat, 18 Jan 2025 20:00:00 +0100"
-    },
-    {
-        "title": "Kristine Stavås Skistad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kristine%20Stav%C3%A5s%20Skistad",
-        "pubdate": "Sat, 18 Jan 2025 20:00:00 +0100"
-    },
-    {
-        "title": "Na",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Na",
-        "pubdate": "Sat, 18 Jan 2025 00:00:00 +0100"
-    },
-    {
-        "title": "Bruce Willis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bruce%20Willis",
-        "pubdate": "Sat, 18 Jan 2025 05:00:00 +0100"
-    },
-    {
-        "title": "Linea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Linea",
-        "pubdate": "Sat, 18 Jan 2025 11:00:00 +0100"
-    },
-    {
-        "title": "Astrid S",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Astrid%20S",
-        "pubdate": "Fri, 17 Jan 2025 21:00:00 +0100"
-    },
-    {
-        "title": "Besiktas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Besiktas",
-        "pubdate": "Fri, 17 Jan 2025 00:00:00 +0100"
-    },
-    {
-        "title": "Håndball-VM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#H%C3%A5ndball-VM",
-        "pubdate": "Fri, 17 Jan 2025 22:00:00 +0100"
-    },
-    {
-        "title": "Haaland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Haaland",
-        "pubdate": "Fri, 17 Jan 2025 11:00:00 +0100"
-    },
-    {
-        "title": "Molly-Mae",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Molly-Mae",
-        "pubdate": "Fri, 17 Jan 2025 15:00:00 +0100"
-    },
-    {
-        "title": "UFC 311",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#UFC%20311",
-        "pubdate": "Fri, 17 Jan 2025 21:00:00 +0100"
-    },
-    {
-        "title": "Denis Law",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Denis%20Law",
-        "pubdate": "Fri, 17 Jan 2025 21:00:00 +0100"
+        "title": "Brentford",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Brentford",
+        "pubdate": "Sat, 18 Jan 2025 17:00:00 +0100"
     }
 ]

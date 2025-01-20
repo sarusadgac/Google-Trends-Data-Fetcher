@@ -1,13 +1,48 @@
 [
     {
+        "title": "Lễ nhậm chức Tổng thống Donald Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#L%E1%BB%85%20nh%E1%BA%ADm%20ch%E1%BB%A9c%20T%E1%BB%95ng%20th%E1%BB%91ng%20Donald%20Trump",
+        "pubdate": "Mon, 20 Jan 2025 01:00:00 +0700"
+    },
+    {
+        "title": "Bang xep hang anh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Bang%20xep%20hang%20anh",
+        "pubdate": "Mon, 20 Jan 2025 00:00:00 +0700"
+    },
+    {
+        "title": "Zeros",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Zeros",
+        "pubdate": "Mon, 20 Jan 2025 01:00:00 +0700"
+    },
+    {
+        "title": "Man Utd đấu với Brighton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Man%20Utd%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Brighton",
+        "pubdate": "Sun, 19 Jan 2025 21:00:00 +0700"
+    },
+    {
         "title": "Ngoại hạng Anh",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ngo%E1%BA%A1i%20h%E1%BA%A1ng%20Anh",
+        "pubdate": "Sun, 19 Jan 2025 04:00:00 +0700"
+    },
+    {
+        "title": "Arsenal đấu với Aston Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Arsenal%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Aston%20Villa",
         "pubdate": "Sun, 19 Jan 2025 00:00:00 +0700"
     },
     {
-        "title": "Getafe đấu với Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Getafe%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Barcelona",
-        "pubdate": "Sun, 19 Jan 2025 03:00:00 +0700"
+        "title": "Real Madrid đấu với Las Palmas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Real%20Madrid%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Las%20Palmas",
+        "pubdate": "Sun, 19 Jan 2025 22:00:00 +0700"
+    },
+    {
+        "title": "Everton đấu với Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Everton%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Tottenham",
+        "pubdate": "Sun, 19 Jan 2025 21:00:00 +0700"
+    },
+    {
+        "title": "Inter Miami đấu với américa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Inter%20Miami%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20am%C3%A9rica",
+        "pubdate": "Sun, 19 Jan 2025 09:00:00 +0700"
     },
     {
         "title": "Epl",
@@ -15,9 +50,34 @@
         "pubdate": "Sun, 19 Jan 2025 03:00:00 +0700"
     },
     {
+        "title": "Bảng xếp hạng ngoại hạng anh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#B%E1%BA%A3ng%20x%E1%BA%BFp%20h%E1%BA%A1ng%20ngo%E1%BA%A1i%20h%E1%BA%A1ng%20anh",
+        "pubdate": "Sun, 19 Jan 2025 09:00:00 +0700"
+    },
+    {
+        "title": "La liga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#La%20liga",
+        "pubdate": "Sun, 19 Jan 2025 08:00:00 +0700"
+    },
+    {
+        "title": "Premier league",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Premier%20league",
+        "pubdate": "Sun, 19 Jan 2025 05:00:00 +0700"
+    },
+    {
         "title": "Barca",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Barca",
-        "pubdate": "Sun, 19 Jan 2025 01:00:00 +0700"
+        "pubdate": "Sun, 19 Jan 2025 05:00:00 +0700"
+    },
+    {
+        "title": "Đà Nẵng đấu với Hà Nội",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#%C4%90%C3%A0%20N%E1%BA%B5ng%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20H%C3%A0%20N%E1%BB%99i",
+        "pubdate": "Sun, 19 Jan 2025 19:00:00 +0700"
+    },
+    {
+        "title": "Jack",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Jack",
+        "pubdate": "Sun, 19 Jan 2025 19:00:00 +0700"
     },
     {
         "title": "Bxh anh",
@@ -25,78 +85,18 @@
         "pubdate": "Sun, 19 Jan 2025 07:00:00 +0700"
     },
     {
-        "title": "Psg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Psg",
+        "title": "Laliga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Laliga",
+        "pubdate": "Sun, 19 Jan 2025 13:00:00 +0700"
+    },
+    {
+        "title": "Liverpool vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Liverpool%20vs",
+        "pubdate": "Sun, 19 Jan 2025 21:00:00 +0700"
+    },
+    {
+        "title": "Arsenal vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Arsenal%20vs",
         "pubdate": "Sun, 19 Jan 2025 01:00:00 +0700"
-    },
-    {
-        "title": "Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Trump",
-        "pubdate": "Sun, 19 Jan 2025 02:00:00 +0700"
-    },
-    {
-        "title": "Ket qua ngoai hang anh",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ket%20qua%20ngoai%20hang%20anh",
-        "pubdate": "Sun, 19 Jan 2025 06:00:00 +0700"
-    },
-    {
-        "title": "Học sinh giỏi quốc gia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#H%E1%BB%8Dc%20sinh%20gi%E1%BB%8Fi%20qu%E1%BB%91c%20gia",
-        "pubdate": "Sun, 19 Jan 2025 00:00:00 +0700"
-    },
-    {
-        "title": "Ars vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ars%20vs",
-        "pubdate": "Sun, 19 Jan 2025 06:00:00 +0700"
-    },
-    {
-        "title": "Newcastle đấu với Bournemouth",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Newcastle%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Bournemouth",
-        "pubdate": "Sat, 18 Jan 2025 19:00:00 +0700"
-    },
-    {
-        "title": "Brentford đấu với Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Brentford%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Liverpool",
-        "pubdate": "Sat, 18 Jan 2025 22:00:00 +0700"
-    },
-    {
-        "title": "CAHN đấu với Sông Lam Nghệ An",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#CAHN%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20S%C3%B4ng%20Lam%20Ngh%E1%BB%87%20An",
-        "pubdate": "Sat, 18 Jan 2025 20:00:00 +0700"
-    },
-    {
-        "title": "Al nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Al%20nassr",
-        "pubdate": "Sat, 18 Jan 2025 09:00:00 +0700"
-    },
-    {
-        "title": "Cúng ông Công ông Táo ngày nào",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#C%C3%BAng%20%C3%B4ng%20C%C3%B4ng%20%C3%B4ng%20T%C3%A1o%20ng%C3%A0y%20n%C3%A0o",
-        "pubdate": "Sat, 18 Jan 2025 08:00:00 +0700"
-    },
-    {
-        "title": "Newcastle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Newcastle",
-        "pubdate": "Sat, 18 Jan 2025 20:00:00 +0700"
-    },
-    {
-        "title": "Lê Anh Phương - Giám đốc Đại học Huế",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#L%C3%AA%20Anh%20Ph%C6%B0%C6%A1ng%20-%20Gi%C3%A1m%20%C4%91%E1%BB%91c%20%C4%90%E1%BA%A1i%20h%E1%BB%8Dc%20Hu%E1%BA%BF",
-        "pubdate": "Sat, 18 Jan 2025 19:00:00 +0700"
-    },
-    {
-        "title": "Drone Hồ Tây",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Drone%20H%E1%BB%93%20T%C3%A2y",
-        "pubdate": "Sat, 18 Jan 2025 19:00:00 +0700"
-    },
-    {
-        "title": "Denis Law",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Denis%20Law",
-        "pubdate": "Sat, 18 Jan 2025 11:00:00 +0700"
-    },
-    {
-        "title": "As roma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#As%20roma",
-        "pubdate": "Sat, 18 Jan 2025 07:00:00 +0700"
     }
 ]
