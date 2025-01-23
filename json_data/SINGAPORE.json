@@ -1,8 +1,43 @@
 [
     {
-        "title": "Benfica vs Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Benfica%20vs%20Barcelona",
-        "pubdate": "Wed, 22 Jan 2025 06:00:00 +0800"
+        "title": "Samsung",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Samsung",
+        "pubdate": "Thu, 23 Jan 2025 01:00:00 +0800"
+    },
+    {
+        "title": "Arsenal vs Dinamo Zagreb",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Arsenal%20vs%20Dinamo%20Zagreb",
+        "pubdate": "Thu, 23 Jan 2025 05:00:00 +0800"
+    },
+    {
+        "title": "Real Madrid vs RB Salzburg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Real%20Madrid%20vs%20RB%20Salzburg",
+        "pubdate": "Thu, 23 Jan 2025 06:00:00 +0800"
+    },
+    {
+        "title": "Lynn Ban",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Lynn%20Ban",
+        "pubdate": "Thu, 23 Jan 2025 03:00:00 +0800"
+    },
+    {
+        "title": "ICC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#ICC",
+        "pubdate": "Thu, 23 Jan 2025 08:00:00 +0800"
+    },
+    {
+        "title": "Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Champions%20League",
+        "pubdate": "Wed, 22 Jan 2025 22:00:00 +0800"
+    },
+    {
+        "title": "IND vs ENG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#IND%20vs%20ENG",
+        "pubdate": "Wed, 22 Jan 2025 21:00:00 +0800"
+    },
+    {
+        "title": "Stargate",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Stargate",
+        "pubdate": "Wed, 22 Jan 2025 12:00:00 +0800"
     },
     {
         "title": "Ross Ulbricht",
@@ -10,93 +45,58 @@
         "pubdate": "Wed, 22 Jan 2025 09:00:00 +0800"
     },
     {
-        "title": "DeepSeek-R1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#DeepSeek-R1",
+        "title": "COE",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#COE",
+        "pubdate": "Wed, 22 Jan 2025 17:00:00 +0800"
+    },
+    {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Barcelona",
         "pubdate": "Wed, 22 Jan 2025 09:00:00 +0800"
+    },
+    {
+        "title": "Jannik Sinner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Jannik%20Sinner",
+        "pubdate": "Wed, 22 Jan 2025 20:00:00 +0800"
+    },
+    {
+        "title": "Justin Baldoni",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Justin%20Baldoni",
+        "pubdate": "Wed, 22 Jan 2025 18:00:00 +0800"
+    },
+    {
+        "title": "eFishery",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#eFishery",
+        "pubdate": "Wed, 22 Jan 2025 17:00:00 +0800"
+    },
+    {
+        "title": "Cricket",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Cricket",
+        "pubdate": "Wed, 22 Jan 2025 22:00:00 +0800"
+    },
+    {
+        "title": "Fentanyl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Fentanyl",
+        "pubdate": "Wed, 22 Jan 2025 13:00:00 +0800"
+    },
+    {
+        "title": "Ben Shelton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Ben%20Shelton",
+        "pubdate": "Wed, 22 Jan 2025 18:00:00 +0800"
+    },
+    {
+        "title": "Barca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Barca",
+        "pubdate": "Wed, 22 Jan 2025 14:00:00 +0800"
+    },
+    {
+        "title": "World Health Organization",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#World%20Health%20Organization",
+        "pubdate": "Wed, 22 Jan 2025 02:00:00 +0800"
     },
     {
         "title": "Elon Musk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Elon%20Musk",
         "pubdate": "Tue, 21 Jan 2025 03:00:00 +0800"
-    },
-    {
-        "title": "UEFA Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#UEFA%20Champions%20League",
-        "pubdate": "Tue, 21 Jan 2025 02:00:00 +0800"
-    },
-    {
-        "title": "Taiwan earthquakes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Taiwan%20earthquakes",
-        "pubdate": "Tue, 21 Jan 2025 01:00:00 +0800"
-    },
-    {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Chelsea",
-        "pubdate": "Tue, 21 Jan 2025 09:00:00 +0800"
-    },
-    {
-        "title": "Trump executive orders",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Trump%20executive%20orders",
-        "pubdate": "Tue, 21 Jan 2025 10:00:00 +0800"
-    },
-    {
-        "title": "Panama Canal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Panama%20Canal",
-        "pubdate": "Tue, 21 Jan 2025 09:00:00 +0800"
-    },
-    {
-        "title": "Paris climate agreement",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Paris%20climate%20agreement",
-        "pubdate": "Tue, 21 Jan 2025 18:00:00 +0800"
-    },
-    {
-        "title": "WHO",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#WHO",
-        "pubdate": "Tue, 21 Jan 2025 17:00:00 +0800"
-    },
-    {
-        "title": "BKE accident",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#BKE%20accident",
-        "pubdate": "Tue, 21 Jan 2025 14:00:00 +0800"
-    },
-    {
-        "title": "Gulf of Mexico",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Gulf%20of%20Mexico",
-        "pubdate": "Tue, 21 Jan 2025 12:00:00 +0800"
-    },
-    {
-        "title": "Usha Vance",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Usha%20Vance",
-        "pubdate": "Tue, 21 Jan 2025 10:00:00 +0800"
-    },
-    {
-        "title": "Carrie Underwood",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Carrie%20Underwood",
-        "pubdate": "Tue, 21 Jan 2025 10:00:00 +0800"
-    },
-    {
-        "title": "Vivek Ramaswamy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Vivek%20Ramaswamy",
-        "pubdate": "Tue, 21 Jan 2025 09:00:00 +0800"
-    },
-    {
-        "title": "DOGE",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#DOGE",
-        "pubdate": "Tue, 21 Jan 2025 20:00:00 +0800"
-    },
-    {
-        "title": "Mark Zuckerberg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Mark%20Zuckerberg",
-        "pubdate": "Tue, 21 Jan 2025 14:00:00 +0800"
-    },
-    {
-        "title": "Marco Rubio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Marco%20Rubio",
-        "pubdate": "Tue, 21 Jan 2025 18:00:00 +0800"
-    },
-    {
-        "title": "Biden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Biden",
-        "pubdate": "Tue, 21 Jan 2025 11:00:00 +0800"
     }
 ]
