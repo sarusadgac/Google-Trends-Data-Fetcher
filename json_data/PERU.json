@@ -1,5 +1,55 @@
 [
     {
+        "title": "Noche Crema",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Noche%20Crema",
+        "pubdate": "Fri, 24 Jan 2025 12:00:00 -0500"
+    },
+    {
+        "title": "UD Las Palmas.  Osasuna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#UD%20Las%20Palmas.%20%20Osasuna",
+        "pubdate": "Fri, 24 Jan 2025 15:00:00 -0500"
+    },
+    {
+        "title": "Universitario vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Universitario%20vs",
+        "pubdate": "Fri, 24 Jan 2025 18:00:00 -0500"
+    },
+    {
+        "title": "Novak Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Novak%20Djokovic",
+        "pubdate": "Fri, 24 Jan 2025 00:00:00 -0500"
+    },
+    {
+        "title": "Torino - Cagliari",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Torino%20-%20Cagliari",
+        "pubdate": "Fri, 24 Jan 2025 15:00:00 -0500"
+    },
+    {
+        "title": "Torino vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Torino%20vs",
+        "pubdate": "Fri, 24 Jan 2025 16:00:00 -0500"
+    },
+    {
+        "title": "Jannik Sinner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Jannik%20Sinner",
+        "pubdate": "Fri, 24 Jan 2025 09:00:00 -0500"
+    },
+    {
+        "title": "Barracas Central  Racing",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Barracas%20Central%20%20Racing",
+        "pubdate": "Fri, 24 Jan 2025 17:00:00 -0500"
+    },
+    {
+        "title": "Wolfsburg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Wolfsburg",
+        "pubdate": "Fri, 24 Jan 2025 16:00:00 -0500"
+    },
+    {
+        "title": "Liga Argentina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Liga%20Argentina",
+        "pubdate": "Fri, 24 Jan 2025 01:00:00 -0500"
+    },
+    {
         "title": "Peru vs Paraguay Sub 20",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Peru%20vs%20Paraguay%20Sub%2020",
         "pubdate": "Thu, 23 Jan 2025 09:00:00 -0500"
@@ -10,19 +60,19 @@
         "pubdate": "Thu, 23 Jan 2025 09:00:00 -0500"
     },
     {
-        "title": "Manchester United - Rangers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Manchester%20United%20-%20Rangers",
-        "pubdate": "Thu, 23 Jan 2025 14:00:00 -0500"
-    },
-    {
         "title": "Hoffenheim  Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Hoffenheim%20%20Tottenham",
         "pubdate": "Thu, 23 Jan 2025 13:00:00 -0500"
     },
     {
-        "title": "Porto vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Porto%20vs",
-        "pubdate": "Thu, 23 Jan 2025 14:00:00 -0500"
+        "title": "Lazio  Real Sociedad",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Lazio%20%20Real%20Sociedad",
+        "pubdate": "Thu, 23 Jan 2025 16:00:00 -0500"
+    },
+    {
+        "title": "Peru",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Peru",
+        "pubdate": "Thu, 23 Jan 2025 19:00:00 -0500"
     },
     {
         "title": "Nominaciones Oscar 2025",
@@ -30,73 +80,23 @@
         "pubdate": "Thu, 23 Jan 2025 13:00:00 -0500"
     },
     {
-        "title": "AZ  Roma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#AZ%20%20Roma",
-        "pubdate": "Thu, 23 Jan 2025 13:00:00 -0500"
+        "title": "America TV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#America%20TV",
+        "pubdate": "Thu, 23 Jan 2025 21:00:00 -0500"
     },
     {
-        "title": "Frankfurt vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Frankfurt%20vs",
-        "pubdate": "Thu, 23 Jan 2025 16:00:00 -0500"
+        "title": "Conference League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Conference%20League",
+        "pubdate": "Thu, 23 Jan 2025 06:00:00 -0500"
+    },
+    {
+        "title": "Uefa Europa League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Uefa%20Europa%20League",
+        "pubdate": "Thu, 23 Jan 2025 14:00:00 -0500"
     },
     {
         "title": "Ajax",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Ajax",
         "pubdate": "Thu, 23 Jan 2025 17:00:00 -0500"
-    },
-    {
-        "title": "Porto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Porto",
-        "pubdate": "Thu, 23 Jan 2025 15:00:00 -0500"
-    },
-    {
-        "title": "Anora",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Anora",
-        "pubdate": "Thu, 23 Jan 2025 14:00:00 -0500"
-    },
-    {
-        "title": "Juan Pablo Goicochea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Juan%20Pablo%20Goicochea",
-        "pubdate": "Thu, 23 Jan 2025 18:00:00 -0500"
-    },
-    {
-        "title": "Roma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Roma",
-        "pubdate": "Thu, 23 Jan 2025 16:00:00 -0500"
-    },
-    {
-        "title": "Fenerbahçe  Lyon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Fenerbah%C3%A7e%20%20Lyon",
-        "pubdate": "Thu, 23 Jan 2025 17:00:00 -0500"
-    },
-    {
-        "title": "Aryna Sabalenka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Aryna%20Sabalenka",
-        "pubdate": "Thu, 23 Jan 2025 11:00:00 -0500"
-    },
-    {
-        "title": "Feyenoord  Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Feyenoord%20%20Bayern",
-        "pubdate": "Wed, 22 Jan 2025 15:00:00 -0500"
-    },
-    {
-        "title": "Beşiktaş  - Athletic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Be%C5%9Fikta%C5%9F%20%20-%20Athletic",
-        "pubdate": "Wed, 22 Jan 2025 10:00:00 -0500"
-    },
-    {
-        "title": "Boca Juniors  Argentino",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Boca%20Juniors%20%20Argentino",
-        "pubdate": "Wed, 22 Jan 2025 19:00:00 -0500"
-    },
-    {
-        "title": "Daniel Abugattás",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Daniel%20Abugatt%C3%A1s",
-        "pubdate": "Wed, 22 Jan 2025 18:00:00 -0500"
-    },
-    {
-        "title": "Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PE#Milan",
-        "pubdate": "Wed, 22 Jan 2025 15:00:00 -0500"
     }
 ]
