@@ -1,7 +1,52 @@
 [
     {
-        "title": "Birds of Prey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Birds%20of%20Prey",
+        "title": "Churchill",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Churchill",
+        "pubdate": "Mon, 27 Jan 2025 00:00:00 +0200"
+    },
+    {
+        "title": "Top Gun",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Top%20Gun",
+        "pubdate": "Mon, 27 Jan 2025 00:00:00 +0200"
+    },
+    {
+        "title": "DeepSeek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#DeepSeek",
+        "pubdate": "Sun, 26 Jan 2025 23:00:00 +0200"
+    },
+    {
+        "title": "Barcelona – Valencia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Barcelona%20%E2%80%93%20Valencia",
+        "pubdate": "Sun, 26 Jan 2025 23:00:00 +0200"
+    },
+    {
+        "title": "Monte Carlo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Monte%20Carlo",
+        "pubdate": "Sun, 26 Jan 2025 21:00:00 +0200"
+    },
+    {
+        "title": "Woke",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Woke",
+        "pubdate": "Sun, 26 Jan 2025 11:00:00 +0200"
+    },
+    {
+        "title": "Tottenham – Leicester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tottenham%20%E2%80%93%20Leicester%20City",
+        "pubdate": "Sun, 26 Jan 2025 18:00:00 +0200"
+    },
+    {
+        "title": "AfD",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#AfD",
+        "pubdate": "Sun, 26 Jan 2025 18:00:00 +0200"
+    },
+    {
+        "title": "Eva Longoria",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Eva%20Longoria",
+        "pubdate": "Sun, 26 Jan 2025 20:00:00 +0200"
+    },
+    {
+        "title": "Humphrey Bogart",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Humphrey%20Bogart",
         "pubdate": "Sun, 26 Jan 2025 00:00:00 +0200"
     },
     {
@@ -10,9 +55,9 @@
         "pubdate": "Sun, 26 Jan 2025 02:00:00 +0200"
     },
     {
-        "title": "Humphrey Bogart",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Humphrey%20Bogart",
-        "pubdate": "Sun, 26 Jan 2025 00:00:00 +0200"
+        "title": "Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Man%20City",
+        "pubdate": "Sun, 26 Jan 2025 10:00:00 +0200"
     },
     {
         "title": "Mikko Rantanen",
@@ -22,6 +67,21 @@
     {
         "title": "Australian Open 2025",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Australian%20Open%202025",
+        "pubdate": "Sat, 25 Jan 2025 17:00:00 +0200"
+    },
+    {
+        "title": "Harri Heliövaara",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Harri%20Heli%C3%B6vaara",
+        "pubdate": "Sat, 25 Jan 2025 16:00:00 +0200"
+    },
+    {
+        "title": "NHL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#NHL",
+        "pubdate": "Sat, 25 Jan 2025 20:00:00 +0200"
+    },
+    {
+        "title": "Sabalenka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Sabalenka",
         "pubdate": "Sat, 25 Jan 2025 12:00:00 +0200"
     },
     {
@@ -38,65 +98,5 @@
         "title": "Manchester City – Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Manchester%20City%20%E2%80%93%20Chelsea",
         "pubdate": "Sat, 25 Jan 2025 20:00:00 +0200"
-    },
-    {
-        "title": "Liverpool – Ipswich Town",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Liverpool%20%E2%80%93%20Ipswich%20Town",
-        "pubdate": "Sat, 25 Jan 2025 18:00:00 +0200"
-    },
-    {
-        "title": "FEMA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#FEMA",
-        "pubdate": "Sat, 25 Jan 2025 09:00:00 +0200"
-    },
-    {
-        "title": "Colorado",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Colorado",
-        "pubdate": "Sat, 25 Jan 2025 18:00:00 +0200"
-    },
-    {
-        "title": "Henry Patten",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Henry%20Patten",
-        "pubdate": "Sat, 25 Jan 2025 22:00:00 +0200"
-    },
-    {
-        "title": "Wolverhampton – Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Wolverhampton%20%E2%80%93%20Arsenal",
-        "pubdate": "Sat, 25 Jan 2025 20:00:00 +0200"
-    },
-    {
-        "title": "Glenn Close",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Glenn%20Close",
-        "pubdate": "Fri, 24 Jan 2025 11:00:00 +0200"
-    },
-    {
-        "title": "Tesla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tesla",
-        "pubdate": "Fri, 24 Jan 2025 17:00:00 +0200"
-    },
-    {
-        "title": "Teemu Pukki",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Teemu%20Pukki",
-        "pubdate": "Fri, 24 Jan 2025 23:00:00 +0200"
-    },
-    {
-        "title": "Eowyn",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Eowyn",
-        "pubdate": "Fri, 24 Jan 2025 10:00:00 +0200"
-    },
-    {
-        "title": "Engadin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Engadin",
-        "pubdate": "Fri, 24 Jan 2025 18:00:00 +0200"
-    },
-    {
-        "title": "Top Gun",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Top%20Gun",
-        "pubdate": "Fri, 24 Jan 2025 23:00:00 +0200"
-    },
-    {
-        "title": "Cassidy Hutchinson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Cassidy%20Hutchinson",
-        "pubdate": "Fri, 24 Jan 2025 09:00:00 +0200"
     }
 ]

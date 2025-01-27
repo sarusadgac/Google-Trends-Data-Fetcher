@@ -1,8 +1,18 @@
 [
     {
-        "title": "Man City vs Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Man%20City%20vs%20Chelsea",
-        "pubdate": "Sun, 26 Jan 2025 01:00:00 +0800"
+        "title": "Fulham vs Man United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Fulham%20vs%20Man%20United",
+        "pubdate": "Mon, 27 Jan 2025 03:00:00 +0800"
+    },
+    {
+        "title": "Aston Villa vs West Ham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Aston%20Villa%20vs%20West%20Ham",
+        "pubdate": "Mon, 27 Jan 2025 01:00:00 +0800"
+    },
+    {
+        "title": "Australia Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Australia%20Day",
+        "pubdate": "Mon, 27 Jan 2025 00:00:00 +0800"
     },
     {
         "title": "Man City",
@@ -10,9 +20,24 @@
         "pubdate": "Sun, 26 Jan 2025 02:00:00 +0800"
     },
     {
-        "title": "Liverpool vs Ipswich Town",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Liverpool%20vs%20Ipswich%20Town",
-        "pubdate": "Sat, 25 Jan 2025 23:00:00 +0800"
+        "title": "Zverev",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Zverev",
+        "pubdate": "Sun, 26 Jan 2025 20:00:00 +0800"
+    },
+    {
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Real%20Madrid",
+        "pubdate": "Sun, 26 Jan 2025 11:00:00 +0800"
+    },
+    {
+        "title": "DeepSeek AI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#DeepSeek%20AI",
+        "pubdate": "Sun, 26 Jan 2025 10:00:00 +0800"
+    },
+    {
+        "title": "Republic Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Republic%20Day",
+        "pubdate": "Sun, 26 Jan 2025 14:00:00 +0800"
     },
     {
         "title": "Sabalenka",
@@ -20,34 +45,9 @@
         "pubdate": "Sat, 25 Jan 2025 19:00:00 +0800"
     },
     {
-        "title": "IND vs ENG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#IND%20vs%20ENG",
-        "pubdate": "Sat, 25 Jan 2025 22:00:00 +0800"
-    },
-    {
         "title": "Pete Hegseth",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Pete%20Hegseth",
         "pubdate": "Sat, 25 Jan 2025 15:00:00 +0800"
-    },
-    {
-        "title": "Joakim Gomez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Joakim%20Gomez",
-        "pubdate": "Sat, 25 Jan 2025 23:00:00 +0800"
-    },
-    {
-        "title": "Helen Wong",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Helen%20Wong",
-        "pubdate": "Sat, 25 Jan 2025 10:00:00 +0800"
-    },
-    {
-        "title": "Kyle Walker",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Kyle%20Walker",
-        "pubdate": "Sat, 25 Jan 2025 13:00:00 +0800"
-    },
-    {
-        "title": "FEMA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#FEMA",
-        "pubdate": "Sat, 25 Jan 2025 14:00:00 +0800"
     },
     {
         "title": "Djokovic",
@@ -62,6 +62,16 @@
     {
         "title": "Jannik Sinner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Jannik%20Sinner",
+        "pubdate": "Fri, 24 Jan 2025 22:00:00 +0800"
+    },
+    {
+        "title": "Zverev",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Zverev",
+        "pubdate": "Fri, 24 Jan 2025 21:00:00 +0800"
+    },
+    {
+        "title": "Sinner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Sinner",
         "pubdate": "Fri, 24 Jan 2025 20:00:00 +0800"
     },
     {
@@ -87,16 +97,6 @@
     {
         "title": "AI",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#AI",
-        "pubdate": "Thu, 23 Jan 2025 23:00:00 +0800"
-    },
-    {
-        "title": "Lion City Sailors",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Lion%20City%20Sailors",
-        "pubdate": "Thu, 23 Jan 2025 20:00:00 +0800"
-    },
-    {
-        "title": "Aryna Sabalenka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Aryna%20Sabalenka",
         "pubdate": "Thu, 23 Jan 2025 23:00:00 +0800"
     }
 ]

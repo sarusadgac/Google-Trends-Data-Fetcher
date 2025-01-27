@@ -1,8 +1,43 @@
 [
     {
-        "title": "Max Payne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Max%20Payne",
-        "pubdate": "Sun, 26 Jan 2025 01:00:00 +0100"
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Barcelona",
+        "pubdate": "Mon, 27 Jan 2025 00:00:00 +0100"
+    },
+    {
+        "title": "Tottenham – Leicester",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tottenham%20%E2%80%93%20Leicester",
+        "pubdate": "Sun, 26 Jan 2025 15:00:00 +0100"
+    },
+    {
+        "title": "Aston Villa – West Ham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Aston%20Villa%20%E2%80%93%20West%20Ham",
+        "pubdate": "Sun, 26 Jan 2025 17:00:00 +0100"
+    },
+    {
+        "title": "Sinner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sinner",
+        "pubdate": "Sun, 26 Jan 2025 11:00:00 +0100"
+    },
+    {
+        "title": "Zverev",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Zverev",
+        "pubdate": "Sun, 26 Jan 2025 11:00:00 +0100"
+    },
+    {
+        "title": "Robert Fico",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Robert%20Fico",
+        "pubdate": "Sun, 26 Jan 2025 15:00:00 +0100"
+    },
+    {
+        "title": "Siniakova",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Siniakova",
+        "pubdate": "Sun, 26 Jan 2025 12:00:00 +0100"
+    },
+    {
+        "title": "Vallecano – Girona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vallecano%20%E2%80%93%20Girona",
+        "pubdate": "Sun, 26 Jan 2025 15:00:00 +0100"
     },
     {
         "title": "Jak básníkům chutná život",
@@ -15,19 +50,29 @@
         "pubdate": "Sun, 26 Jan 2025 01:00:00 +0100"
     },
     {
+        "title": "Olympiáda dětí a mládeže",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Olympi%C3%A1da%20d%C4%9Bt%C3%AD%20a%20ml%C3%A1de%C5%BEe",
+        "pubdate": "Sun, 26 Jan 2025 18:00:00 +0100"
+    },
+    {
+        "title": "Ivan Hlinka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ivan%20Hlinka",
+        "pubdate": "Sun, 26 Jan 2025 10:00:00 +0100"
+    },
+    {
         "title": "Colorado",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Colorado",
         "pubdate": "Sat, 25 Jan 2025 09:00:00 +0100"
     },
     {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Real%20Madrid",
+        "title": "Valladolid – Real",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Valladolid%20%E2%80%93%20Real",
         "pubdate": "Sat, 25 Jan 2025 21:00:00 +0100"
     },
     {
-        "title": "Bočanová",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bo%C4%8Danov%C3%A1",
-        "pubdate": "Sat, 25 Jan 2025 22:00:00 +0100"
+        "title": "Ples jako Brno 2025",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ples%20jako%20Brno%202025",
+        "pubdate": "Sat, 25 Jan 2025 18:00:00 +0100"
     },
     {
         "title": "Tereza Nová",
@@ -35,14 +80,9 @@
         "pubdate": "Sat, 25 Jan 2025 17:00:00 +0100"
     },
     {
-        "title": "Jiří Lábus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ji%C5%99%C3%AD%20L%C3%A1bus",
-        "pubdate": "Sat, 25 Jan 2025 10:00:00 +0100"
-    },
-    {
-        "title": "Ples jako Brno",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ples%20jako%20Brno",
-        "pubdate": "Sat, 25 Jan 2025 18:00:00 +0100"
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Real%20Madrid",
+        "pubdate": "Sat, 25 Jan 2025 23:00:00 +0100"
     },
     {
         "title": "Freiburg – bayern",
@@ -50,53 +90,13 @@
         "pubdate": "Sat, 25 Jan 2025 16:00:00 +0100"
     },
     {
+        "title": "Jiří Lábus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ji%C5%99%C3%AD%20L%C3%A1bus",
+        "pubdate": "Sat, 25 Jan 2025 10:00:00 +0100"
+    },
+    {
         "title": "Centralia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Centralia",
         "pubdate": "Sat, 25 Jan 2025 14:00:00 +0100"
-    },
-    {
-        "title": "Sáblíková",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#S%C3%A1bl%C3%ADkov%C3%A1",
-        "pubdate": "Sat, 25 Jan 2025 20:00:00 +0100"
-    },
-    {
-        "title": "Bolek Polívka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bolek%20Pol%C3%ADvka",
-        "pubdate": "Sat, 25 Jan 2025 19:00:00 +0100"
-    },
-    {
-        "title": "Viktorín Šulc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Viktor%C3%ADn%20%C5%A0ulc",
-        "pubdate": "Sat, 25 Jan 2025 20:00:00 +0100"
-    },
-    {
-        "title": "Southampton – Newcastle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Southampton%20%E2%80%93%20Newcastle",
-        "pubdate": "Sat, 25 Jan 2025 19:00:00 +0100"
-    },
-    {
-        "title": "Bournemouth – Nottingham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bournemouth%20%E2%80%93%20Nottingham",
-        "pubdate": "Sat, 25 Jan 2025 20:00:00 +0100"
-    },
-    {
-        "title": "Robert Fico",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Robert%20Fico",
-        "pubdate": "Fri, 24 Jan 2025 10:00:00 +0100"
-    },
-    {
-        "title": "Dominik Hašek",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Dominik%20Ha%C5%A1ek",
-        "pubdate": "Fri, 24 Jan 2025 11:00:00 +0100"
-    },
-    {
-        "title": "Tesla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tesla",
-        "pubdate": "Fri, 24 Jan 2025 19:00:00 +0100"
-    },
-    {
-        "title": "Jindřich Kadrnka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jind%C5%99ich%20Kadrnka",
-        "pubdate": "Fri, 24 Jan 2025 13:00:00 +0100"
     }
 ]
