@@ -1,28 +1,43 @@
 [
     {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Barcelona",
-        "pubdate": "Mon, 27 Jan 2025 00:00:00 +0100"
+        "title": "DeepSeek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#DeepSeek",
+        "pubdate": "Mon, 27 Jan 2025 09:00:00 +0100"
     },
     {
-        "title": "Zverev",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Zverev",
-        "pubdate": "Sun, 26 Jan 2025 11:00:00 +0100"
+        "title": "Coca-Cola",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Coca-Cola",
+        "pubdate": "Mon, 27 Jan 2025 16:00:00 +0100"
+    },
+    {
+        "title": "Colombia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Colombia",
+        "pubdate": "Mon, 27 Jan 2025 09:00:00 +0100"
+    },
+    {
+        "title": "Dams",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Dams",
+        "pubdate": "Mon, 27 Jan 2025 21:00:00 +0100"
+    },
+    {
+        "title": "Nainggolan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nainggolan",
+        "pubdate": "Mon, 27 Jan 2025 23:00:00 +0100"
     },
     {
         "title": "AZ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AZ",
-        "pubdate": "Sun, 26 Jan 2025 19:00:00 +0100"
+        "pubdate": "Sun, 26 Jan 2025 21:00:00 +0100"
     },
     {
-        "title": "RKC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#RKC",
+        "title": "Sinner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sinner",
         "pubdate": "Sun, 26 Jan 2025 14:00:00 +0100"
     },
     {
-        "title": "FC Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Barcelona",
-        "pubdate": "Sun, 26 Jan 2025 23:00:00 +0100"
+        "title": "Auschwitz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Auschwitz",
+        "pubdate": "Sun, 26 Jan 2025 21:00:00 +0100"
     },
     {
         "title": "PEC Zwolle",
@@ -30,49 +45,9 @@
         "pubdate": "Sun, 26 Jan 2025 23:00:00 +0100"
     },
     {
-        "title": "Hoogerheide",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Hoogerheide",
-        "pubdate": "Sun, 26 Jan 2025 16:00:00 +0100"
-    },
-    {
-        "title": "Mathieu van der Poel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Mathieu%20van%20der%20Poel",
-        "pubdate": "Sun, 26 Jan 2025 18:00:00 +0100"
-    },
-    {
-        "title": "Timothy Snyder",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Timothy%20Snyder",
-        "pubdate": "Sun, 26 Jan 2025 21:00:00 +0100"
-    },
-    {
-        "title": "Excelsior",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Excelsior",
-        "pubdate": "Sun, 26 Jan 2025 16:00:00 +0100"
-    },
-    {
-        "title": "Fcgroningen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Fcgroningen",
-        "pubdate": "Sat, 25 Jan 2025 22:00:00 +0100"
-    },
-    {
-        "title": "NAC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NAC",
-        "pubdate": "Sat, 25 Jan 2025 20:00:00 +0100"
-    },
-    {
         "title": "Drents Museum",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Drents%20Museum",
         "pubdate": "Sat, 25 Jan 2025 13:00:00 +0100"
-    },
-    {
-        "title": "Tremor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Tremor",
-        "pubdate": "Sat, 25 Jan 2025 19:00:00 +0100"
-    },
-    {
-        "title": "NAC Breda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NAC%20Breda",
-        "pubdate": "Sat, 25 Jan 2025 21:00:00 +0100"
     },
     {
         "title": "Glennis Grace",
@@ -98,5 +73,30 @@
         "title": "Sabalenka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sabalenka",
         "pubdate": "Thu, 23 Jan 2025 15:00:00 +0100"
+    },
+    {
+        "title": "Greenpeace",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Greenpeace",
+        "pubdate": "Wed, 22 Jan 2025 13:00:00 +0100"
+    },
+    {
+        "title": "Feyenoord  Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord%20%20Bayern",
+        "pubdate": "Tue, 21 Jan 2025 22:00:00 +0100"
+    },
+    {
+        "title": "Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Champions%20League",
+        "pubdate": "Tue, 21 Jan 2025 15:00:00 +0100"
+    },
+    {
+        "title": "Golden Earring",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Golden%20Earring",
+        "pubdate": "Tue, 21 Jan 2025 17:00:00 +0100"
+    },
+    {
+        "title": "Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Trump",
+        "pubdate": "Mon, 20 Jan 2025 00:00:00 +0100"
     }
 ]
