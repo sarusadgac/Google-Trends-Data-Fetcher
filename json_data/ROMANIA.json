@@ -1,12 +1,87 @@
 [
     {
+        "title": "Ana Odagiu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ana%20Odagiu",
+        "pubdate": "Wed, 29 Jan 2025 00:00:00 +0200"
+    },
+    {
+        "title": "Neymar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Neymar",
+        "pubdate": "Tue, 28 Jan 2025 14:00:00 +0200"
+    },
+    {
+        "title": "Coca-Cola",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Coca-Cola",
+        "pubdate": "Tue, 28 Jan 2025 12:00:00 +0200"
+    },
+    {
+        "title": "Selena Gomez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Selena%20Gomez",
+        "pubdate": "Tue, 28 Jan 2025 03:00:00 +0200"
+    },
+    {
+        "title": "Genoa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Genoa",
+        "pubdate": "Tue, 28 Jan 2025 11:00:00 +0200"
+    },
+    {
+        "title": "Sondaj CURS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sondaj%20CURS",
+        "pubdate": "Tue, 28 Jan 2025 12:00:00 +0200"
+    },
+    {
         "title": "Sorana Cîrstea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sorana%20C%C3%AErstea",
         "pubdate": "Tue, 28 Jan 2025 00:00:00 +0200"
     },
     {
-        "title": "CFR Cluj  Farul Constanța",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#CFR%20Cluj%20%20Farul%20Constan%C8%9Ba",
+        "title": "Georgette Mosbacher",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Georgette%20Mosbacher",
+        "pubdate": "Tue, 28 Jan 2025 18:00:00 +0200"
+    },
+    {
+        "title": "Mircea Fechet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Mircea%20Fechet",
+        "pubdate": "Tue, 28 Jan 2025 22:00:00 +0200"
+    },
+    {
+        "title": "Universitatea Craiova",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Universitatea%20Craiova",
+        "pubdate": "Tue, 28 Jan 2025 18:00:00 +0200"
+    },
+    {
+        "title": "Serbia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Serbia",
+        "pubdate": "Tue, 28 Jan 2025 17:00:00 +0200"
+    },
+    {
+        "title": "Papa Francisc",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Papa%20Francisc",
+        "pubdate": "Tue, 28 Jan 2025 14:00:00 +0200"
+    },
+    {
+        "title": "Zoo brasov",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Zoo%20brasov",
+        "pubdate": "Tue, 28 Jan 2025 10:00:00 +0200"
+    },
+    {
+        "title": "Copil disparut Iasi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Copil%20disparut%20Iasi",
+        "pubdate": "Tue, 28 Jan 2025 15:00:00 +0200"
+    },
+    {
+        "title": "Jesse Eisenberg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Jesse%20Eisenberg",
+        "pubdate": "Tue, 28 Jan 2025 15:00:00 +0200"
+    },
+    {
+        "title": "Nvidia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Nvidia",
+        "pubdate": "Mon, 27 Jan 2025 11:00:00 +0200"
+    },
+    {
+        "title": "CFR Cluj - Farul Constanța",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#CFR%20Cluj%20-%20Farul%20Constan%C8%9Ba",
         "pubdate": "Mon, 27 Jan 2025 11:00:00 +0200"
     },
     {
@@ -15,88 +90,13 @@
         "pubdate": "Mon, 27 Jan 2025 17:00:00 +0200"
     },
     {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Barcelona",
-        "pubdate": "Mon, 27 Jan 2025 00:00:00 +0200"
-    },
-    {
-        "title": "Hidroelectrica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Hidroelectrica",
-        "pubdate": "Mon, 27 Jan 2025 15:00:00 +0200"
-    },
-    {
         "title": "Alexandru Ciucu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Alexandru%20Ciucu",
         "pubdate": "Mon, 27 Jan 2025 20:00:00 +0200"
     },
     {
-        "title": "Genoa - Monza",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Genoa%20-%20Monza",
+        "title": "Genoa  Monza",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Genoa%20%20Monza",
         "pubdate": "Mon, 27 Jan 2025 22:00:00 +0200"
-    },
-    {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Manchester%20United",
-        "pubdate": "Mon, 27 Jan 2025 09:00:00 +0200"
-    },
-    {
-        "title": "Comisia de la Veneția",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Comisia%20de%20la%20Vene%C8%9Bia",
-        "pubdate": "Mon, 27 Jan 2025 17:00:00 +0200"
-    },
-    {
-        "title": "Congo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Congo",
-        "pubdate": "Mon, 27 Jan 2025 09:00:00 +0200"
-    },
-    {
-        "title": "Columbia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Columbia",
-        "pubdate": "Mon, 27 Jan 2025 10:00:00 +0200"
-    },
-    {
-        "title": "Horoscop 27 ianuarie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Horoscop%2027%20ianuarie",
-        "pubdate": "Mon, 27 Jan 2025 10:00:00 +0200"
-    },
-    {
-        "title": "Auschwitz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Auschwitz",
-        "pubdate": "Mon, 27 Jan 2025 16:00:00 +0200"
-    },
-    {
-        "title": "Mozart",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Mozart",
-        "pubdate": "Mon, 27 Jan 2025 15:00:00 +0200"
-    },
-    {
-        "title": "Daniel David",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Daniel%20David",
-        "pubdate": "Mon, 27 Jan 2025 17:00:00 +0200"
-    },
-    {
-        "title": "Monica Doroftei",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Monica%20Doroftei",
-        "pubdate": "Mon, 27 Jan 2025 23:00:00 +0200"
-    },
-    {
-        "title": "Andreea Esca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Andreea%20Esca",
-        "pubdate": "Mon, 27 Jan 2025 23:00:00 +0200"
-    },
-    {
-        "title": "Ianis Hagi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ianis%20Hagi",
-        "pubdate": "Mon, 27 Jan 2025 13:00:00 +0200"
-    },
-    {
-        "title": "UTA Arad  FCSB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#UTA%20Arad%20%20FCSB",
-        "pubdate": "Sun, 26 Jan 2025 20:00:00 +0200"
-    },
-    {
-        "title": "Barcelona - Valencia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Barcelona%20-%20Valencia",
-        "pubdate": "Sun, 26 Jan 2025 22:00:00 +0200"
     }
 ]

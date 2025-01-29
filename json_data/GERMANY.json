@@ -1,23 +1,38 @@
 [
     {
-        "title": "Nvidia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Nvidia",
+        "title": "Horst Janson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Horst%20Janson",
+        "pubdate": "Tue, 28 Jan 2025 15:00:00 +0100"
+    },
+    {
+        "title": "Boniface",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Boniface",
+        "pubdate": "Tue, 28 Jan 2025 14:00:00 +0100"
+    },
+    {
+        "title": "Kongo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kongo",
+        "pubdate": "Tue, 28 Jan 2025 22:00:00 +0100"
+    },
+    {
+        "title": "Nvidia-Aktie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Nvidia-Aktie",
         "pubdate": "Mon, 27 Jan 2025 10:00:00 +0100"
     },
     {
-        "title": "Friedrich Merz CDU",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Friedrich%20Merz%20CDU",
-        "pubdate": "Mon, 27 Jan 2025 15:00:00 +0100"
-    },
-    {
-        "title": "Margot Friedländer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Margot%20Friedl%C3%A4nder",
-        "pubdate": "Mon, 27 Jan 2025 17:00:00 +0100"
+        "title": "Gökay Akbulut",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#G%C3%B6kay%20Akbulut",
+        "pubdate": "Mon, 27 Jan 2025 13:00:00 +0100"
     },
     {
         "title": "Auschwitz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Auschwitz",
         "pubdate": "Sun, 26 Jan 2025 21:00:00 +0100"
+    },
+    {
+        "title": "Eintracht Frankfurt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eintracht%20Frankfurt",
+        "pubdate": "Sun, 26 Jan 2025 20:00:00 +0100"
     },
     {
         "title": "Hertha BSC",
@@ -80,23 +95,8 @@
         "pubdate": "Mon, 20 Jan 2025 00:00:00 +0100"
     },
     {
-        "title": "Melania Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Melania%20Trump",
+        "title": "Melania",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Melania",
         "pubdate": "Sun, 19 Jan 2025 16:00:00 +0100"
-    },
-    {
-        "title": "Zverev",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Zverev",
-        "pubdate": "Sun, 19 Jan 2025 22:00:00 +0100"
-    },
-    {
-        "title": "Handball Deutschland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Handball%20Deutschland",
-        "pubdate": "Sun, 19 Jan 2025 23:00:00 +0100"
-    },
-    {
-        "title": "Hertha BSC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hertha%20BSC",
-        "pubdate": "Sun, 19 Jan 2025 17:00:00 +0100"
     }
 ]

@@ -1,5 +1,15 @@
 [
     {
+        "title": "Kafka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Kafka",
+        "pubdate": "Tue, 28 Jan 2025 21:00:00 +0200"
+    },
+    {
+        "title": "Neymar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Neymar",
+        "pubdate": "Tue, 28 Jan 2025 16:00:00 +0200"
+    },
+    {
         "title": "Fifth Element",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Fifth%20Element",
         "pubdate": "Tue, 28 Jan 2025 00:00:00 +0200"
@@ -15,14 +25,19 @@
         "pubdate": "Mon, 27 Jan 2025 17:00:00 +0200"
     },
     {
-        "title": "Vezhen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Vezhen",
-        "pubdate": "Mon, 27 Jan 2025 08:00:00 +0200"
-    },
-    {
         "title": "AMD stock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#AMD%20stock",
         "pubdate": "Mon, 27 Jan 2025 22:00:00 +0200"
+    },
+    {
+        "title": "Microsoft stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Microsoft%20stock",
+        "pubdate": "Mon, 27 Jan 2025 22:00:00 +0200"
+    },
+    {
+        "title": "META stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#META%20stock",
+        "pubdate": "Mon, 27 Jan 2025 23:00:00 +0200"
     },
     {
         "title": "Valmet",
@@ -38,6 +53,11 @@
         "title": "Top Gun",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Top%20Gun",
         "pubdate": "Mon, 27 Jan 2025 00:00:00 +0200"
+    },
+    {
+        "title": "Malta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Malta",
+        "pubdate": "Mon, 27 Jan 2025 21:00:00 +0200"
     },
     {
         "title": "Auschwitz",
@@ -65,11 +85,6 @@
         "pubdate": "Sun, 26 Jan 2025 23:00:00 +0200"
     },
     {
-        "title": "Monte Carlo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Monte%20Carlo",
-        "pubdate": "Sun, 26 Jan 2025 21:00:00 +0200"
-    },
-    {
         "title": "Woke",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Woke",
         "pubdate": "Sun, 26 Jan 2025 11:00:00 +0200"
@@ -83,20 +98,5 @@
         "title": "AfD",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#AfD",
         "pubdate": "Sun, 26 Jan 2025 18:00:00 +0200"
-    },
-    {
-        "title": "Eva Longoria",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Eva%20Longoria",
-        "pubdate": "Sun, 26 Jan 2025 20:00:00 +0200"
-    },
-    {
-        "title": "Pete Hegseth",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Pete%20Hegseth",
-        "pubdate": "Sun, 26 Jan 2025 02:00:00 +0200"
-    },
-    {
-        "title": "Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Man%20City",
-        "pubdate": "Sun, 26 Jan 2025 10:00:00 +0200"
     }
 ]
