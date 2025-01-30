@@ -1,5 +1,70 @@
 [
     {
+        "title": "UCL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#UCL",
+        "pubdate": "Thu, 30 Jan 2025 00:00:00 +0200"
+    },
+    {
+        "title": "Barcelona – Atalanta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Barcelona%20%E2%80%93%20Atalanta",
+        "pubdate": "Thu, 30 Jan 2025 00:00:00 +0200"
+    },
+    {
+        "title": "Brest – Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Brest%20%E2%80%93%20Real%20Madrid",
+        "pubdate": "Thu, 30 Jan 2025 01:00:00 +0200"
+    },
+    {
+        "title": "Manchester City – Club Brugge",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Manchester%20City%20%E2%80%93%20Club%20Brugge",
+        "pubdate": "Thu, 30 Jan 2025 01:00:00 +0200"
+    },
+    {
+        "title": "Lunar New Year",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Lunar%20New%20Year",
+        "pubdate": "Wed, 29 Jan 2025 03:00:00 +0200"
+    },
+    {
+        "title": "Tobias Eder",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tobias%20Eder",
+        "pubdate": "Wed, 29 Jan 2025 18:00:00 +0200"
+    },
+    {
+        "title": "Bet365",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bet365",
+        "pubdate": "Wed, 29 Jan 2025 22:00:00 +0200"
+    },
+    {
+        "title": "Caroline Kennedy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Caroline%20Kennedy",
+        "pubdate": "Wed, 29 Jan 2025 10:00:00 +0200"
+    },
+    {
+        "title": "Miro Heiskanen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Miro%20Heiskanen",
+        "pubdate": "Wed, 29 Jan 2025 18:00:00 +0200"
+    },
+    {
+        "title": "PSV – Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#PSV%20%E2%80%93%20Liverpool",
+        "pubdate": "Wed, 29 Jan 2025 23:00:00 +0200"
+    },
+    {
+        "title": "Anna Kournikova",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Anna%20Kournikova",
+        "pubdate": "Wed, 29 Jan 2025 23:00:00 +0200"
+    },
+    {
+        "title": "Strap-on",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Strap-on",
+        "pubdate": "Wed, 29 Jan 2025 18:00:00 +0200"
+    },
+    {
+        "title": "Garmin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Garmin",
+        "pubdate": "Wed, 29 Jan 2025 10:00:00 +0200"
+    },
+    {
         "title": "Kafka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Kafka",
         "pubdate": "Tue, 28 Jan 2025 21:00:00 +0200"
@@ -10,9 +75,9 @@
         "pubdate": "Tue, 28 Jan 2025 16:00:00 +0200"
     },
     {
-        "title": "Fifth Element",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Fifth%20Element",
-        "pubdate": "Tue, 28 Jan 2025 00:00:00 +0200"
+        "title": "Oura",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Oura",
+        "pubdate": "Tue, 28 Jan 2025 18:00:00 +0200"
     },
     {
         "title": "Super Bowl 2025",
@@ -20,9 +85,9 @@
         "pubdate": "Mon, 27 Jan 2025 08:00:00 +0200"
     },
     {
-        "title": "Tesla stock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tesla%20stock",
-        "pubdate": "Mon, 27 Jan 2025 17:00:00 +0200"
+        "title": "Nasdaq",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Nasdaq",
+        "pubdate": "Mon, 27 Jan 2025 20:00:00 +0200"
     },
     {
         "title": "AMD stock",
@@ -33,70 +98,5 @@
         "title": "Microsoft stock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Microsoft%20stock",
         "pubdate": "Mon, 27 Jan 2025 22:00:00 +0200"
-    },
-    {
-        "title": "META stock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#META%20stock",
-        "pubdate": "Mon, 27 Jan 2025 23:00:00 +0200"
-    },
-    {
-        "title": "Valmet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Valmet",
-        "pubdate": "Mon, 27 Jan 2025 16:00:00 +0200"
-    },
-    {
-        "title": "Churchill",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Churchill",
-        "pubdate": "Mon, 27 Jan 2025 00:00:00 +0200"
-    },
-    {
-        "title": "Top Gun",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Top%20Gun",
-        "pubdate": "Mon, 27 Jan 2025 00:00:00 +0200"
-    },
-    {
-        "title": "Malta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Malta",
-        "pubdate": "Mon, 27 Jan 2025 21:00:00 +0200"
-    },
-    {
-        "title": "Auschwitz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Auschwitz",
-        "pubdate": "Mon, 27 Jan 2025 23:00:00 +0200"
-    },
-    {
-        "title": "FC Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#FC%20Barcelona",
-        "pubdate": "Mon, 27 Jan 2025 13:00:00 +0200"
-    },
-    {
-        "title": "Nvidia stock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Nvidia%20stock",
-        "pubdate": "Sun, 26 Jan 2025 23:00:00 +0200"
-    },
-    {
-        "title": "Zverev",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Zverev",
-        "pubdate": "Sun, 26 Jan 2025 12:00:00 +0200"
-    },
-    {
-        "title": "Barcelona – Valencia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Barcelona%20%E2%80%93%20Valencia",
-        "pubdate": "Sun, 26 Jan 2025 23:00:00 +0200"
-    },
-    {
-        "title": "Woke",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Woke",
-        "pubdate": "Sun, 26 Jan 2025 11:00:00 +0200"
-    },
-    {
-        "title": "Tottenham – Leicester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tottenham%20%E2%80%93%20Leicester%20City",
-        "pubdate": "Sun, 26 Jan 2025 18:00:00 +0200"
-    },
-    {
-        "title": "AfD",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#AfD",
-        "pubdate": "Sun, 26 Jan 2025 18:00:00 +0200"
     }
 ]
