@@ -1,5 +1,30 @@
 [
     {
+        "title": "Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Champions%20League",
+        "pubdate": "Thu, 30 Jan 2025 01:00:00 +0200"
+    },
+    {
+        "title": "Salwan Momika",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Salwan%20Momika",
+        "pubdate": "Thu, 30 Jan 2025 10:00:00 +0200"
+    },
+    {
+        "title": "Marianne Faithfull",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Marianne%20Faithfull",
+        "pubdate": "Thu, 30 Jan 2025 21:00:00 +0200"
+    },
+    {
+        "title": "Vadim Naumov",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Vadim%20Naumov",
+        "pubdate": "Thu, 30 Jan 2025 16:00:00 +0200"
+    },
+    {
+        "title": "CNN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#CNN",
+        "pubdate": "Thu, 30 Jan 2025 13:00:00 +0200"
+    },
+    {
         "title": "UCL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#UCL",
         "pubdate": "Thu, 30 Jan 2025 00:00:00 +0200"
@@ -10,14 +35,59 @@
         "pubdate": "Thu, 30 Jan 2025 00:00:00 +0200"
     },
     {
+        "title": "UEFA Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#UEFA%20Champions%20League",
+        "pubdate": "Thu, 30 Jan 2025 19:00:00 +0200"
+    },
+    {
+        "title": "Nokia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Nokia",
+        "pubdate": "Thu, 30 Jan 2025 15:00:00 +0200"
+    },
+    {
+        "title": "Lamborghini",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Lamborghini",
+        "pubdate": "Thu, 30 Jan 2025 12:00:00 +0200"
+    },
+    {
+        "title": "Wasatch",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Wasatch",
+        "pubdate": "Thu, 30 Jan 2025 12:00:00 +0200"
+    },
+    {
         "title": "Brest – Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Brest%20%E2%80%93%20Real%20Madrid",
         "pubdate": "Thu, 30 Jan 2025 01:00:00 +0200"
     },
     {
-        "title": "Manchester City – Club Brugge",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Manchester%20City%20%E2%80%93%20Club%20Brugge",
-        "pubdate": "Thu, 30 Jan 2025 01:00:00 +0200"
+        "title": "Panama",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Panama",
+        "pubdate": "Thu, 30 Jan 2025 21:00:00 +0200"
+    },
+    {
+        "title": "Meta stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Meta%20stock",
+        "pubdate": "Thu, 30 Jan 2025 11:00:00 +0200"
+    },
+    {
+        "title": "RTX 5080",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#RTX%205080",
+        "pubdate": "Thu, 30 Jan 2025 17:00:00 +0200"
+    },
+    {
+        "title": "Guantanamo Bay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Guantanamo%20Bay",
+        "pubdate": "Thu, 30 Jan 2025 18:00:00 +0200"
+    },
+    {
+        "title": "FC Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#FC%20Barcelona",
+        "pubdate": "Thu, 30 Jan 2025 08:00:00 +0200"
+    },
+    {
+        "title": "Microsoft stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Microsoft%20stock",
+        "pubdate": "Thu, 30 Jan 2025 17:00:00 +0200"
     },
     {
         "title": "Lunar New Year",
@@ -25,78 +95,8 @@
         "pubdate": "Wed, 29 Jan 2025 03:00:00 +0200"
     },
     {
-        "title": "Tobias Eder",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tobias%20Eder",
-        "pubdate": "Wed, 29 Jan 2025 18:00:00 +0200"
-    },
-    {
-        "title": "Bet365",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bet365",
-        "pubdate": "Wed, 29 Jan 2025 22:00:00 +0200"
-    },
-    {
-        "title": "Caroline Kennedy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Caroline%20Kennedy",
-        "pubdate": "Wed, 29 Jan 2025 10:00:00 +0200"
-    },
-    {
-        "title": "Miro Heiskanen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Miro%20Heiskanen",
-        "pubdate": "Wed, 29 Jan 2025 18:00:00 +0200"
-    },
-    {
         "title": "PSV – Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#PSV%20%E2%80%93%20Liverpool",
         "pubdate": "Wed, 29 Jan 2025 23:00:00 +0200"
-    },
-    {
-        "title": "Anna Kournikova",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Anna%20Kournikova",
-        "pubdate": "Wed, 29 Jan 2025 23:00:00 +0200"
-    },
-    {
-        "title": "Strap-on",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Strap-on",
-        "pubdate": "Wed, 29 Jan 2025 18:00:00 +0200"
-    },
-    {
-        "title": "Garmin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Garmin",
-        "pubdate": "Wed, 29 Jan 2025 10:00:00 +0200"
-    },
-    {
-        "title": "Kafka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Kafka",
-        "pubdate": "Tue, 28 Jan 2025 21:00:00 +0200"
-    },
-    {
-        "title": "Neymar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Neymar",
-        "pubdate": "Tue, 28 Jan 2025 16:00:00 +0200"
-    },
-    {
-        "title": "Oura",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Oura",
-        "pubdate": "Tue, 28 Jan 2025 18:00:00 +0200"
-    },
-    {
-        "title": "Super Bowl 2025",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Super%20Bowl%202025",
-        "pubdate": "Mon, 27 Jan 2025 08:00:00 +0200"
-    },
-    {
-        "title": "Nasdaq",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Nasdaq",
-        "pubdate": "Mon, 27 Jan 2025 20:00:00 +0200"
-    },
-    {
-        "title": "AMD stock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#AMD%20stock",
-        "pubdate": "Mon, 27 Jan 2025 22:00:00 +0200"
-    },
-    {
-        "title": "Microsoft stock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Microsoft%20stock",
-        "pubdate": "Mon, 27 Jan 2025 22:00:00 +0200"
     }
 ]
