@@ -1,8 +1,48 @@
 [
     {
+        "title": "Thành phố Thái Nguyên",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Th%C3%A0nh%20ph%E1%BB%91%20Th%C3%A1i%20Nguy%C3%AAn",
+        "pubdate": "Sat, 01 Feb 2025 00:00:00 +0700"
+    },
+    {
         "title": "FCSB đấu với Man Utd",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#FCSB%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Man%20Utd",
         "pubdate": "Fri, 31 Jan 2025 03:00:00 +0700"
+    },
+    {
+        "title": "Al Raed đấu với Al-Nassr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Al%20Raed%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Al-Nassr",
+        "pubdate": "Fri, 31 Jan 2025 00:00:00 +0700"
+    },
+    {
+        "title": "Al Nassr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Al%20Nassr",
+        "pubdate": "Fri, 31 Jan 2025 01:00:00 +0700"
+    },
+    {
+        "title": "Lời chúc tết Ất Tỵ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#L%E1%BB%9Di%20ch%C3%BAc%20t%E1%BA%BFt%20%E1%BA%A4t%20T%E1%BB%B5",
+        "pubdate": "Fri, 31 Jan 2025 17:00:00 +0700"
+    },
+    {
+        "title": "Cúng mùng 3",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#C%C3%BAng%20m%C3%B9ng%203",
+        "pubdate": "Fri, 31 Jan 2025 07:00:00 +0700"
+    },
+    {
+        "title": "Vàng SJC Giá vàng",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#V%C3%A0ng%20SJC%20Gi%C3%A1%20v%C3%A0ng",
+        "pubdate": "Fri, 31 Jan 2025 12:00:00 +0700"
+    },
+    {
+        "title": "Bốc thăm play-off C1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#B%E1%BB%91c%20th%C4%83m%20play-off%20C1",
+        "pubdate": "Fri, 31 Jan 2025 19:00:00 +0700"
+    },
+    {
+        "title": "Xổ số Bình Phước",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#X%E1%BB%95%20s%E1%BB%91%20B%C3%ACnh%20Ph%C6%B0%E1%BB%9Bc",
+        "pubdate": "Fri, 31 Jan 2025 18:00:00 +0700"
     },
     {
         "title": "Man City đấu với Club Brugge",
@@ -12,27 +52,12 @@
     {
         "title": "Barca",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Barca",
-        "pubdate": "Thu, 30 Jan 2025 14:00:00 +0700"
+        "pubdate": "Thu, 30 Jan 2025 12:00:00 +0700"
     },
     {
-        "title": "Inter Miami",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Inter%20Miami",
-        "pubdate": "Thu, 30 Jan 2025 09:00:00 +0700"
-    },
-    {
-        "title": "Yêu nhầm bạn thân",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Y%C3%AAu%20nh%E1%BA%A7m%20b%E1%BA%A1n%20th%C3%A2n",
+        "title": "Nụ hôn bạc tỷ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#N%E1%BB%A5%20h%C3%B4n%20b%E1%BA%A1c%20t%E1%BB%B7",
         "pubdate": "Thu, 30 Jan 2025 00:00:00 +0700"
-    },
-    {
-        "title": "Liverpool vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Liverpool%20vs",
-        "pubdate": "Thu, 30 Jan 2025 09:00:00 +0700"
-    },
-    {
-        "title": "Anh Tú",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Anh%20T%C3%BA",
-        "pubdate": "Thu, 30 Jan 2025 14:00:00 +0700"
     },
     {
         "title": "Tai nạn Nam Định",
@@ -40,14 +65,29 @@
         "pubdate": "Thu, 30 Jan 2025 22:00:00 +0700"
     },
     {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Liverpool",
+        "pubdate": "Thu, 30 Jan 2025 10:00:00 +0700"
+    },
+    {
+        "title": "Yêu nhầm bạn thân",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Y%C3%AAu%20nh%E1%BA%A7m%20b%E1%BA%A1n%20th%C3%A2n",
+        "pubdate": "Thu, 30 Jan 2025 00:00:00 +0700"
+    },
+    {
+        "title": "Anh Tú",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Anh%20T%C3%BA",
+        "pubdate": "Thu, 30 Jan 2025 14:00:00 +0700"
+    },
+    {
         "title": "Lê Đức Phát",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#L%C3%AA%20%C4%90%E1%BB%A9c%20Ph%C3%A1t",
         "pubdate": "Thu, 30 Jan 2025 15:00:00 +0700"
     },
     {
-        "title": "Beta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Beta",
-        "pubdate": "Thu, 30 Jan 2025 17:00:00 +0700"
+        "title": "Liverpool vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Liverpool%20vs",
+        "pubdate": "Thu, 30 Jan 2025 09:00:00 +0700"
     },
     {
         "title": "Poker",
@@ -55,48 +95,8 @@
         "pubdate": "Thu, 30 Jan 2025 16:00:00 +0700"
     },
     {
-        "title": "MONO",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#MONO",
-        "pubdate": "Thu, 30 Jan 2025 12:00:00 +0700"
-    },
-    {
-        "title": "Bộ tứ báo thủ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#B%E1%BB%99%20t%E1%BB%A9%20b%C3%A1o%20th%E1%BB%A7",
-        "pubdate": "Wed, 29 Jan 2025 13:00:00 +0700"
-    },
-    {
-        "title": "Cgv",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Cgv",
-        "pubdate": "Wed, 29 Jan 2025 17:00:00 +0700"
-    },
-    {
-        "title": "Cúng giao thừa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#C%C3%BAng%20giao%20th%E1%BB%ABa",
-        "pubdate": "Wed, 29 Jan 2025 18:00:00 +0700"
-    },
-    {
-        "title": "Xem lại Táo quân 2025",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Xem%20l%E1%BA%A1i%20T%C3%A1o%20qu%C3%A2n%202025",
-        "pubdate": "Wed, 29 Jan 2025 14:00:00 +0700"
-    },
-    {
-        "title": "Chúc Tết bố mẹ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ch%C3%BAc%20T%E1%BA%BFt%20b%E1%BB%91%20m%E1%BA%B9",
-        "pubdate": "Wed, 29 Jan 2025 01:00:00 +0700"
-    },
-    {
-        "title": "Đồng hồ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#%C4%90%E1%BB%93ng%20h%E1%BB%93",
-        "pubdate": "Wed, 29 Jan 2025 01:00:00 +0700"
-    },
-    {
-        "title": "Lịch chiếu phim",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#L%E1%BB%8Bch%20chi%E1%BA%BFu%20phim",
-        "pubdate": "Wed, 29 Jan 2025 14:00:00 +0700"
-    },
-    {
-        "title": "Thơ chúc Tết",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Th%C6%A1%20ch%C3%BAc%20T%E1%BA%BFt",
-        "pubdate": "Wed, 29 Jan 2025 00:00:00 +0700"
+        "title": "The glory",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#The%20glory",
+        "pubdate": "Thu, 30 Jan 2025 11:00:00 +0700"
     }
 ]

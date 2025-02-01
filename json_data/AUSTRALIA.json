@@ -1,13 +1,38 @@
 [
     {
+        "title": "India vs England",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#India%20vs%20England",
+        "pubdate": "Sat, 01 Feb 2025 01:00:00 +1100"
+    },
+    {
+        "title": "Six Nations",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Six%20Nations",
+        "pubdate": "Sat, 01 Feb 2025 08:00:00 +1100"
+    },
+    {
+        "title": "CFS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#CFS",
+        "pubdate": "Sat, 01 Feb 2025 07:00:00 +1100"
+    },
+    {
+        "title": "Royal Rumble 2025",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Royal%20Rumble%202025",
+        "pubdate": "Sat, 01 Feb 2025 10:00:00 +1100"
+    },
+    {
+        "title": "Davis Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Davis%20Cup",
+        "pubdate": "Sat, 01 Feb 2025 10:00:00 +1100"
+    },
+    {
         "title": "Marianne Faithfull",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Marianne%20Faithfull",
         "pubdate": "Fri, 31 Jan 2025 08:00:00 +1100"
     },
     {
-        "title": "Tottenham vs IF Elfsborg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tottenham%20vs%20IF%20Elfsborg",
-        "pubdate": "Fri, 31 Jan 2025 08:00:00 +1100"
+        "title": "Josh Inglis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Josh%20Inglis",
+        "pubdate": "Fri, 31 Jan 2025 16:00:00 +1100"
     },
     {
         "title": "Bryce Mitchell",
@@ -15,9 +40,14 @@
         "pubdate": "Fri, 31 Jan 2025 09:00:00 +1100"
     },
     {
-        "title": "Salwan Momika",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Salwan%20Momika",
-        "pubdate": "Fri, 31 Jan 2025 01:00:00 +1100"
+        "title": "Townsville weather",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Townsville%20weather",
+        "pubdate": "Fri, 31 Jan 2025 16:00:00 +1100"
+    },
+    {
+        "title": "Luke Combs Sydney",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Luke%20Combs%20Sydney",
+        "pubdate": "Fri, 31 Jan 2025 18:00:00 +1100"
     },
     {
         "title": "Pam the Bird",
@@ -25,19 +55,14 @@
         "pubdate": "Fri, 31 Jan 2025 10:00:00 +1100"
     },
     {
-        "title": "The Recruit",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#The%20Recruit",
-        "pubdate": "Fri, 31 Jan 2025 03:00:00 +1100"
+        "title": "Salwan Momika",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Salwan%20Momika",
+        "pubdate": "Fri, 31 Jan 2025 01:00:00 +1100"
     },
     {
-        "title": "Hello Kitty Island Adventure",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Hello%20Kitty%20Island%20Adventure",
-        "pubdate": "Fri, 31 Jan 2025 09:00:00 +1100"
-    },
-    {
-        "title": "FCSB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#FCSB",
-        "pubdate": "Fri, 31 Jan 2025 11:00:00 +1100"
+        "title": "You're Cordially Invited",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#You're%20Cordially%20Invited",
+        "pubdate": "Fri, 31 Jan 2025 18:00:00 +1100"
     },
     {
         "title": "Kash Patel",
@@ -45,58 +70,33 @@
         "pubdate": "Fri, 31 Jan 2025 11:00:00 +1100"
     },
     {
-        "title": "Plane crash Washington",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Plane%20crash%20Washington",
-        "pubdate": "Thu, 30 Jan 2025 15:00:00 +1100"
+        "title": "Reese Witherspoon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Reese%20Witherspoon",
+        "pubdate": "Fri, 31 Jan 2025 14:00:00 +1100"
     },
     {
-        "title": "Women's Ashes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Women's%20Ashes",
-        "pubdate": "Thu, 30 Jan 2025 16:00:00 +1100"
+        "title": "Townsville",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Townsville",
+        "pubdate": "Fri, 31 Jan 2025 19:00:00 +1100"
     },
     {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Liverpool",
-        "pubdate": "Thu, 30 Jan 2025 11:00:00 +1100"
+        "title": "Bathurst 12 Hour",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bathurst%2012%20Hour",
+        "pubdate": "Fri, 31 Jan 2025 15:00:00 +1100"
     },
     {
-        "title": "5090",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#5090",
-        "pubdate": "Thu, 30 Jan 2025 23:00:00 +1100"
+        "title": "Langwarrin Park Primary School",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Langwarrin%20Park%20Primary%20School",
+        "pubdate": "Fri, 31 Jan 2025 17:00:00 +1100"
     },
     {
-        "title": "Rfk Jr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Rfk%20Jr",
-        "pubdate": "Thu, 30 Jan 2025 03:00:00 +1100"
+        "title": "Hurry Up Tomorrow",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Hurry%20Up%20Tomorrow",
+        "pubdate": "Fri, 31 Jan 2025 18:00:00 +1100"
     },
     {
-        "title": "Man City vs Club Brugge",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Man%20City%20vs%20Club%20Brugge",
-        "pubdate": "Thu, 30 Jan 2025 09:00:00 +1100"
-    },
-    {
-        "title": "Princess Beatrice",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Princess%20Beatrice",
-        "pubdate": "Thu, 30 Jan 2025 08:00:00 +1100"
-    },
-    {
-        "title": "Guantanamo Bay",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Guantanamo%20Bay",
-        "pubdate": "Thu, 30 Jan 2025 13:00:00 +1100"
-    },
-    {
-        "title": "Parish",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Parish",
-        "pubdate": "Thu, 30 Jan 2025 10:00:00 +1100"
-    },
-    {
-        "title": "Foxtel subscription prices increase",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Foxtel%20subscription%20prices%20increase",
-        "pubdate": "Thu, 30 Jan 2025 19:00:00 +1100"
-    },
-    {
-        "title": "Liverpool FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Liverpool%20FC",
-        "pubdate": "Thu, 30 Jan 2025 10:00:00 +1100"
+        "title": "The Recruit",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#The%20Recruit",
+        "pubdate": "Fri, 31 Jan 2025 03:00:00 +1100"
     }
 ]

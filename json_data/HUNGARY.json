@@ -1,5 +1,65 @@
 [
     {
+        "title": "Skóciában eltünt ikrek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sk%C3%B3ci%C3%A1ban%20elt%C3%BCnt%20ikrek",
+        "pubdate": "Fri, 31 Jan 2025 11:00:00 +0100"
+    },
+    {
+        "title": "Viktoria Plzen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Viktoria%20Plzen",
+        "pubdate": "Fri, 31 Jan 2025 14:00:00 +0100"
+    },
+    {
+        "title": "Kiskunhalasi kórház nemátalakító műtét",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kiskunhalasi%20k%C3%B3rh%C3%A1z%20nem%C3%A1talak%C3%ADt%C3%B3%20m%C5%B1t%C3%A9t",
+        "pubdate": "Fri, 31 Jan 2025 09:00:00 +0100"
+    },
+    {
+        "title": "Bombariadó ma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bombariad%C3%B3%20ma",
+        "pubdate": "Fri, 31 Jan 2025 17:00:00 +0100"
+    },
+    {
+        "title": "Wednesday",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Wednesday",
+        "pubdate": "Fri, 31 Jan 2025 09:00:00 +0100"
+    },
+    {
+        "title": "Havazás",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Havaz%C3%A1s",
+        "pubdate": "Fri, 31 Jan 2025 21:00:00 +0100"
+    },
+    {
+        "title": "Gerard Butler",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Gerard%20Butler",
+        "pubdate": "Fri, 31 Jan 2025 07:00:00 +0100"
+    },
+    {
+        "title": "Forza Horizon 5 PS5",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Forza%20Horizon%205%20PS5",
+        "pubdate": "Fri, 31 Jan 2025 13:00:00 +0100"
+    },
+    {
+        "title": "Parma–lecce",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Parma%E2%80%93lecce",
+        "pubdate": "Fri, 31 Jan 2025 22:00:00 +0100"
+    },
+    {
+        "title": "Raskó György",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Rask%C3%B3%20Gy%C3%B6rgy",
+        "pubdate": "Fri, 31 Jan 2025 05:00:00 +0100"
+    },
+    {
+        "title": "A könyvelő",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#A%20k%C3%B6nyvel%C5%91",
+        "pubdate": "Fri, 31 Jan 2025 00:00:00 +0100"
+    },
+    {
+        "title": "AZ Alkmaar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#AZ%20Alkmaar",
+        "pubdate": "Thu, 30 Jan 2025 20:00:00 +0100"
+    },
+    {
         "title": "Washington repülő baleset",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Washington%20rep%C3%BCl%C5%91%20baleset",
         "pubdate": "Thu, 30 Jan 2025 11:00:00 +0100"
@@ -10,29 +70,9 @@
         "pubdate": "Thu, 30 Jan 2025 01:00:00 +0100"
     },
     {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Barcelona",
-        "pubdate": "Thu, 30 Jan 2025 07:00:00 +0100"
-    },
-    {
-        "title": "AZ Alkmaar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#AZ%20Alkmaar",
-        "pubdate": "Thu, 30 Jan 2025 20:00:00 +0100"
-    },
-    {
-        "title": "FC Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#FC%20Barcelona",
-        "pubdate": "Thu, 30 Jan 2025 08:00:00 +0100"
-    },
-    {
-        "title": "Nagy János helyettes államtitkár",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Nagy%20J%C3%A1nos%20helyettes%20%C3%A1llamtitk%C3%A1r",
-        "pubdate": "Thu, 30 Jan 2025 15:00:00 +0100"
-    },
-    {
-        "title": "Roma–eintracht FRANKFURT",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Roma%E2%80%93eintracht%20FRANKFURT",
-        "pubdate": "Thu, 30 Jan 2025 21:00:00 +0100"
+        "title": "BL-sorsolás",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#BL-sorsol%C3%A1s",
+        "pubdate": "Thu, 30 Jan 2025 13:00:00 +0100"
     },
     {
         "title": "Marianne Faithfull",
@@ -40,63 +80,23 @@
         "pubdate": "Thu, 30 Jan 2025 22:00:00 +0100"
     },
     {
-        "title": "Bl sorsolás",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bl%20sorsol%C3%A1s",
-        "pubdate": "Thu, 30 Jan 2025 13:00:00 +0100"
+        "title": "Roma–eintracht FRANKFURT",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Roma%E2%80%93eintracht%20FRANKFURT",
+        "pubdate": "Thu, 30 Jan 2025 21:00:00 +0100"
     },
     {
-        "title": "Yaakobishvili Antal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Yaakobishvili%20Antal",
-        "pubdate": "Thu, 30 Jan 2025 13:00:00 +0100"
+        "title": "Nagy János helyettes államtitkár",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Nagy%20J%C3%A1nos%20helyettes%20%C3%A1llamtitk%C3%A1r",
+        "pubdate": "Thu, 30 Jan 2025 15:00:00 +0100"
     },
     {
-        "title": "Tápai Szabina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#T%C3%A1pai%20Szabina",
-        "pubdate": "Thu, 30 Jan 2025 22:00:00 +0100"
-    },
-    {
-        "title": "Magyari Alda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Magyari%20Alda",
-        "pubdate": "Thu, 30 Jan 2025 19:00:00 +0100"
-    },
-    {
-        "title": "Novák Előd",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Nov%C3%A1k%20El%C5%91d",
+        "title": "FC Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#FC%20Barcelona",
         "pubdate": "Thu, 30 Jan 2025 08:00:00 +0100"
     },
     {
-        "title": "Szemerey Zsófi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szemerey%20Zs%C3%B3fi",
-        "pubdate": "Thu, 30 Jan 2025 22:00:00 +0100"
-    },
-    {
-        "title": "MOME",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#MOME",
-        "pubdate": "Thu, 30 Jan 2025 18:00:00 +0100"
-    },
-    {
-        "title": "PSV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#PSV",
-        "pubdate": "Thu, 30 Jan 2025 00:00:00 +0100"
-    },
-    {
-        "title": "Inter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Inter",
-        "pubdate": "Thu, 30 Jan 2025 08:00:00 +0100"
-    },
-    {
-        "title": "Manchester city–brugge",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Manchester%20city%E2%80%93brugge",
-        "pubdate": "Wed, 29 Jan 2025 21:00:00 +0100"
-    },
-    {
-        "title": "Polgár Csaba Országos Onkológiai Intézet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Polg%C3%A1r%20Csaba%20Orsz%C3%A1gos%20Onkol%C3%B3giai%20Int%C3%A9zet",
-        "pubdate": "Wed, 29 Jan 2025 18:00:00 +0100"
-    },
-    {
-        "title": "Liverpool FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Liverpool%20FC",
-        "pubdate": "Wed, 29 Jan 2025 23:00:00 +0100"
+        "title": "RTX 5080",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#RTX%205080",
+        "pubdate": "Thu, 30 Jan 2025 10:00:00 +0100"
     }
 ]

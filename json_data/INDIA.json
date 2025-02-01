@@ -1,28 +1,58 @@
 [
     {
-        "title": "Mahatma Gandhi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Mahatma%20Gandhi",
-        "pubdate": "Thu, 30 Jan 2025 09:30:00 +0530"
+        "title": "India vs England",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#India%20vs%20England",
+        "pubdate": "Fri, 31 Jan 2025 19:30:00 +0530"
     },
     {
-        "title": "Washington DC plane crashes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Washington%20DC%20plane%20crashes",
+        "title": "Cricket",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Cricket",
+        "pubdate": "Fri, 31 Jan 2025 20:30:00 +0530"
+    },
+    {
+        "title": "ICC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#ICC",
+        "pubdate": "Fri, 31 Jan 2025 22:30:00 +0530"
+    },
+    {
+        "title": "Deva",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Deva",
+        "pubdate": "Fri, 31 Jan 2025 11:30:00 +0530"
+    },
+    {
+        "title": "Budget",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Budget",
+        "pubdate": "Fri, 31 Jan 2025 12:30:00 +0530"
+    },
+    {
+        "title": "Ola Electric Gen 3",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Ola%20Electric%20Gen%203",
+        "pubdate": "Fri, 31 Jan 2025 02:30:00 +0530"
+    },
+    {
+        "title": "Economic Survey 2025",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Economic%20Survey%202025",
+        "pubdate": "Fri, 31 Jan 2025 14:30:00 +0530"
+    },
+    {
+        "title": "Motilal Oswal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Motilal%20Oswal",
+        "pubdate": "Fri, 31 Jan 2025 12:30:00 +0530"
+    },
+    {
+        "title": "Kash Patel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Kash%20Patel",
+        "pubdate": "Fri, 31 Jan 2025 14:30:00 +0530"
+    },
+    {
+        "title": "Virat Kohli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Virat%20Kohli",
+        "pubdate": "Thu, 30 Jan 2025 10:30:00 +0530"
+    },
+    {
+        "title": "American Airlines",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#American%20Airlines",
         "pubdate": "Thu, 30 Jan 2025 17:30:00 +0530"
-    },
-    {
-        "title": "KL Rahul",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#KL%20Rahul",
-        "pubdate": "Thu, 30 Jan 2025 15:30:00 +0530"
-    },
-    {
-        "title": "Federal Reserve interest rates",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Federal%20Reserve%20interest%20rates",
-        "pubdate": "Thu, 30 Jan 2025 01:30:00 +0530"
-    },
-    {
-        "title": "Salwan Momika",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Salwan%20Momika",
-        "pubdate": "Thu, 30 Jan 2025 19:30:00 +0530"
     },
     {
         "title": "Sunita Williams",
@@ -30,14 +60,9 @@
         "pubdate": "Thu, 30 Jan 2025 14:30:00 +0530"
     },
     {
-        "title": "Bharat Electronics Q3 Results earnings",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Bharat%20Electronics%20Q3%20Results%20earnings",
-        "pubdate": "Thu, 30 Jan 2025 23:30:00 +0530"
-    },
-    {
-        "title": "Delhi vs Railways Ranji match",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Delhi%20vs%20Railways%20Ranji%20match",
-        "pubdate": "Wed, 29 Jan 2025 12:30:00 +0530"
+        "title": "Tata Motors",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Tata%20Motors",
+        "pubdate": "Thu, 30 Jan 2025 10:30:00 +0530"
     },
     {
         "title": "Stampede",
@@ -50,11 +75,6 @@
         "pubdate": "Wed, 29 Jan 2025 01:30:00 +0530"
     },
     {
-        "title": "Josh Inglis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Josh%20Inglis",
-        "pubdate": "Wed, 29 Jan 2025 11:30:00 +0530"
-    },
-    {
         "title": "Sports",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Sports",
         "pubdate": "Wed, 29 Jan 2025 11:30:00 +0530"
@@ -65,38 +85,18 @@
         "pubdate": "Wed, 29 Jan 2025 10:30:00 +0530"
     },
     {
+        "title": "Delhi vs Railways",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Delhi%20vs%20Railways",
+        "pubdate": "Wed, 29 Jan 2025 12:30:00 +0530"
+    },
+    {
         "title": "ITC Hotels share price",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#ITC%20Hotels%20share%20price",
         "pubdate": "Wed, 29 Jan 2025 10:30:00 +0530"
     },
     {
-        "title": "Tata Motors",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Tata%20Motors",
-        "pubdate": "Wed, 29 Jan 2025 23:30:00 +0530"
-    },
-    {
-        "title": "Income Tax Union Budget",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Income%20Tax%20Union%20Budget",
-        "pubdate": "Wed, 29 Jan 2025 02:30:00 +0530"
-    },
-    {
-        "title": "Dr Agarwal Healthcare IPO GMP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Dr%20Agarwal%20Healthcare%20IPO%20GMP",
-        "pubdate": "Wed, 29 Jan 2025 13:30:00 +0530"
-    },
-    {
-        "title": "Cricket",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Cricket",
-        "pubdate": "Tue, 28 Jan 2025 22:30:00 +0530"
-    },
-    {
-        "title": "Ben Duckett",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Ben%20Duckett",
-        "pubdate": "Tue, 28 Jan 2025 20:30:00 +0530"
-    },
-    {
-        "title": "Hardik Pandya",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Hardik%20Pandya",
-        "pubdate": "Tue, 28 Jan 2025 21:30:00 +0530"
+        "title": "SL vs AUS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#SL%20vs%20AUS",
+        "pubdate": "Wed, 29 Jan 2025 11:30:00 +0530"
     }
 ]
