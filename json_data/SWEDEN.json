@@ -1,5 +1,80 @@
 [
     {
+        "title": "NBA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#NBA",
+        "pubdate": "Mon, 03 Feb 2025 00:00:00 +0100"
+    },
+    {
+        "title": "Arsenal mot Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Arsenal%20mot%20Man%20City",
+        "pubdate": "Sun, 02 Feb 2025 17:00:00 +0100"
+    },
+    {
+        "title": "Meira Omar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Meira%20Omar",
+        "pubdate": "Sun, 02 Feb 2025 08:00:00 +0100"
+    },
+    {
+        "title": "Mello",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mello",
+        "pubdate": "Sun, 02 Feb 2025 18:00:00 +0100"
+    },
+    {
+        "title": "Bipolär sjukdom",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bipol%C3%A4r%20sjukdom",
+        "pubdate": "Sun, 02 Feb 2025 11:00:00 +0100"
+    },
+    {
+        "title": "Dotter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Dotter",
+        "pubdate": "Sun, 02 Feb 2025 11:00:00 +0100"
+    },
+    {
+        "title": "Gunde Svan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gunde%20Svan",
+        "pubdate": "Sun, 02 Feb 2025 22:00:00 +0100"
+    },
+    {
+        "title": "Retinol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Retinol",
+        "pubdate": "Sun, 02 Feb 2025 21:00:00 +0100"
+    },
+    {
+        "title": "Real Betis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Real%20Betis",
+        "pubdate": "Sun, 02 Feb 2025 23:00:00 +0100"
+    },
+    {
+        "title": "Engelbrektsloppet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Engelbrektsloppet",
+        "pubdate": "Sun, 02 Feb 2025 20:00:00 +0100"
+    },
+    {
+        "title": "Mörrum",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#M%C3%B6rrum",
+        "pubdate": "Sun, 02 Feb 2025 20:00:00 +0100"
+    },
+    {
+        "title": "Dan ekborg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Dan%20ekborg",
+        "pubdate": "Sun, 02 Feb 2025 23:00:00 +0100"
+    },
+    {
+        "title": "Fröken Snusk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Fr%C3%B6ken%20Snusk",
+        "pubdate": "Sun, 02 Feb 2025 12:00:00 +0100"
+    },
+    {
+        "title": "Luleå",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Lule%C3%A5",
+        "pubdate": "Sun, 02 Feb 2025 09:00:00 +0100"
+    },
+    {
+        "title": "Maja Ivarsson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Maja%20Ivarsson",
+        "pubdate": "Sat, 01 Feb 2025 22:00:00 +0100"
+    },
+    {
         "title": "Linnea Henriksson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Linnea%20Henriksson",
         "pubdate": "Sat, 01 Feb 2025 15:00:00 +0100"
@@ -20,83 +95,8 @@
         "pubdate": "Sat, 01 Feb 2025 22:00:00 +0100"
     },
     {
-        "title": "Maja Dahlqvist",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Maja%20Dahlqvist",
-        "pubdate": "Sat, 01 Feb 2025 15:00:00 +0100"
-    },
-    {
-        "title": "Lily Collins",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Lily%20Collins",
-        "pubdate": "Sat, 01 Feb 2025 14:00:00 +0100"
-    },
-    {
-        "title": "Nottingham Forest",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Nottingham%20Forest",
-        "pubdate": "Sat, 01 Feb 2025 16:00:00 +0100"
-    },
-    {
-        "title": "Anna Polly",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Anna%20Polly",
-        "pubdate": "Sat, 01 Feb 2025 19:00:00 +0100"
-    },
-    {
-        "title": "Björn Borg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bj%C3%B6rn%20Borg",
-        "pubdate": "Sat, 01 Feb 2025 01:00:00 +0100"
-    },
-    {
-        "title": "Atlético Madrid mot Real Mallorca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Atl%C3%A9tico%20Madrid%20mot%20Real%20Mallorca",
+        "title": "Gränsfall",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gr%C3%A4nsfall",
         "pubdate": "Sat, 01 Feb 2025 22:00:00 +0100"
-    },
-    {
-        "title": "Aston Villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Aston%20Villa",
-        "pubdate": "Sat, 01 Feb 2025 21:00:00 +0100"
-    },
-    {
-        "title": "Cogne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Cogne",
-        "pubdate": "Sat, 01 Feb 2025 15:00:00 +0100"
-    },
-    {
-        "title": "Mikael Marqués",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mikael%20Marqu%C3%A9s",
-        "pubdate": "Sat, 01 Feb 2025 20:00:00 +0100"
-    },
-    {
-        "title": "Melodifestivalen 2025",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Melodifestivalen%202025",
-        "pubdate": "Fri, 31 Jan 2025 19:00:00 +0100"
-    },
-    {
-        "title": "Mello",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mello",
-        "pubdate": "Fri, 31 Jan 2025 18:00:00 +0100"
-    },
-    {
-        "title": "Meira Omar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Meira%20Omar",
-        "pubdate": "Fri, 31 Jan 2025 08:00:00 +0100"
-    },
-    {
-        "title": "Loket",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Loket",
-        "pubdate": "Fri, 31 Jan 2025 10:00:00 +0100"
-    },
-    {
-        "title": "Bullerbyn är död",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bullerbyn%20%C3%A4r%20d%C3%B6d",
-        "pubdate": "Fri, 31 Jan 2025 22:00:00 +0100"
-    },
-    {
-        "title": "Mello deltävling 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mello%20delt%C3%A4vling%201",
-        "pubdate": "Fri, 31 Jan 2025 01:00:00 +0100"
-    },
-    {
-        "title": "Gais",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gais",
-        "pubdate": "Fri, 31 Jan 2025 21:00:00 +0100"
     }
 ]

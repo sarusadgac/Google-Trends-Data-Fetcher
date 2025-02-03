@@ -1,5 +1,80 @@
 [
     {
+        "title": "Slovácko – Sparta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Slov%C3%A1cko%20%E2%80%93%20Sparta",
+        "pubdate": "Sun, 02 Feb 2025 13:00:00 +0100"
+    },
+    {
+        "title": "Slavia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Slavia",
+        "pubdate": "Sun, 02 Feb 2025 18:00:00 +0100"
+    },
+    {
+        "title": "Kral sumavy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kral%20sumavy",
+        "pubdate": "Sun, 02 Feb 2025 18:00:00 +0100"
+    },
+    {
+        "title": "Leverkusen – Hoffenheim",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Leverkusen%20%E2%80%93%20Hoffenheim",
+        "pubdate": "Sun, 02 Feb 2025 17:00:00 +0100"
+    },
+    {
+        "title": "Brentford – Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Brentford%20%E2%80%93%20Tottenham",
+        "pubdate": "Sun, 02 Feb 2025 15:00:00 +0100"
+    },
+    {
+        "title": "Amerikánka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Amerik%C3%A1nka",
+        "pubdate": "Sun, 02 Feb 2025 03:00:00 +0100"
+    },
+    {
+        "title": "Jablonec – Bohemians",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jablonec%20%E2%80%93%20Bohemians",
+        "pubdate": "Sun, 02 Feb 2025 16:00:00 +0100"
+    },
+    {
+        "title": "Grammy 2025",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Grammy%202025",
+        "pubdate": "Sun, 02 Feb 2025 10:00:00 +0100"
+    },
+    {
+        "title": "Kolja",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kolja",
+        "pubdate": "Sun, 02 Feb 2025 15:00:00 +0100"
+    },
+    {
+        "title": "Miroslava Němcová",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Miroslava%20N%C4%9Bmcov%C3%A1",
+        "pubdate": "Sun, 02 Feb 2025 08:00:00 +0100"
+    },
+    {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Arsenal",
+        "pubdate": "Sun, 02 Feb 2025 19:00:00 +0100"
+    },
+    {
+        "title": "Andrej Chalimon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Andrej%20Chalimon",
+        "pubdate": "Sun, 02 Feb 2025 16:00:00 +0100"
+    },
+    {
+        "title": "Igor Orozovič",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Igor%20Orozovi%C4%8D",
+        "pubdate": "Sun, 02 Feb 2025 22:00:00 +0100"
+    },
+    {
+        "title": "Marek Němec",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Marek%20N%C4%9Bmec",
+        "pubdate": "Sun, 02 Feb 2025 21:00:00 +0100"
+    },
+    {
+        "title": "Švancara",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C5%A0vancara",
+        "pubdate": "Sun, 02 Feb 2025 20:00:00 +0100"
+    },
+    {
         "title": "Liberec – Baník",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Liberec%20%E2%80%93%20Ban%C3%ADk",
         "pubdate": "Sat, 01 Feb 2025 16:00:00 +0100"
@@ -10,9 +85,9 @@
         "pubdate": "Sat, 01 Feb 2025 17:00:00 +0100"
     },
     {
-        "title": "Karviná – Teplice",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Karvin%C3%A1%20%E2%80%93%20Teplice",
-        "pubdate": "Sat, 01 Feb 2025 14:00:00 +0100"
+        "title": "Dynamo čb – Dukla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Dynamo%20%C4%8Db%20%E2%80%93%20Dukla",
+        "pubdate": "Sat, 01 Feb 2025 16:00:00 +0100"
     },
     {
         "title": "Lily Collins",
@@ -23,80 +98,5 @@
         "title": "Maxim Mrva",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Maxim%20Mrva",
         "pubdate": "Sat, 01 Feb 2025 15:00:00 +0100"
-    },
-    {
-        "title": "Nottingham – Brighton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Nottingham%20%E2%80%93%20Brighton",
-        "pubdate": "Sat, 01 Feb 2025 15:00:00 +0100"
-    },
-    {
-        "title": "Soros",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Soros",
-        "pubdate": "Sat, 01 Feb 2025 20:00:00 +0100"
-    },
-    {
-        "title": "Adesanya",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Adesanya",
-        "pubdate": "Sat, 01 Feb 2025 21:00:00 +0100"
-    },
-    {
-        "title": "Brest – PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Brest%20%E2%80%93%20PSG",
-        "pubdate": "Sat, 01 Feb 2025 19:00:00 +0100"
-    },
-    {
-        "title": "Everton – Leicester",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Everton%20%E2%80%93%20Leicester",
-        "pubdate": "Sat, 01 Feb 2025 19:00:00 +0100"
-    },
-    {
-        "title": "Špindlerův Mlýn",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C5%A0pindler%C5%AFv%20Ml%C3%BDn",
-        "pubdate": "Sat, 01 Feb 2025 17:00:00 +0100"
-    },
-    {
-        "title": "Petr Hannig",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Petr%20Hannig",
-        "pubdate": "Sat, 01 Feb 2025 00:00:00 +0100"
-    },
-    {
-        "title": "Ústí nad Labem",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C3%9Ast%C3%AD%20nad%20Labem",
-        "pubdate": "Sat, 01 Feb 2025 22:00:00 +0100"
-    },
-    {
-        "title": "Oktagon MMA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Oktagon%20MMA",
-        "pubdate": "Sat, 01 Feb 2025 23:00:00 +0100"
-    },
-    {
-        "title": "Newcastle – Fulham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Newcastle%20%E2%80%93%20Fulham",
-        "pubdate": "Sat, 01 Feb 2025 21:00:00 +0100"
-    },
-    {
-        "title": "Co jsme komu udělali",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Co%20jsme%20komu%20ud%C4%9Blali",
-        "pubdate": "Sat, 01 Feb 2025 20:00:00 +0100"
-    },
-    {
-        "title": "Tata Bojs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tata%20Bojs",
-        "pubdate": "Fri, 31 Jan 2025 22:00:00 +0100"
-    },
-    {
-        "title": "Oktagon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Oktagon",
-        "pubdate": "Fri, 31 Jan 2025 20:00:00 +0100"
-    },
-    {
-        "title": "Davis Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Davis%20Cup",
-        "pubdate": "Fri, 31 Jan 2025 18:00:00 +0100"
-    },
-    {
-        "title": "Tomáš Berdych",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tom%C3%A1%C5%A1%20Berdych",
-        "pubdate": "Fri, 31 Jan 2025 18:00:00 +0100"
     }
 ]
