@@ -1,5 +1,70 @@
 [
     {
+        "title": "Novo Nordisk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Novo%20Nordisk",
+        "pubdate": "Wed, 05 Feb 2025 10:00:00 +0100"
+    },
+    {
+        "title": "Newcastle  Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Newcastle%20%20Arsenal",
+        "pubdate": "Wed, 05 Feb 2025 20:00:00 +0100"
+    },
+    {
+        "title": "Trump Gaza",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Trump%20Gaza",
+        "pubdate": "Wed, 05 Feb 2025 09:00:00 +0100"
+    },
+    {
+        "title": "Leganes  Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Leganes%20%20Real%20Madrid",
+        "pubdate": "Wed, 05 Feb 2025 21:00:00 +0100"
+    },
+    {
+        "title": "Ronaldo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ronaldo",
+        "pubdate": "Wed, 05 Feb 2025 18:00:00 +0100"
+    },
+    {
+        "title": "Ozzy Osbourne",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ozzy%20Osbourne",
+        "pubdate": "Wed, 05 Feb 2025 17:00:00 +0100"
+    },
+    {
+        "title": "Cristiano Ronaldo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Cristiano%20Ronaldo",
+        "pubdate": "Wed, 05 Feb 2025 02:00:00 +0100"
+    },
+    {
+        "title": "Alphabet stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Alphabet%20stock",
+        "pubdate": "Wed, 05 Feb 2025 11:00:00 +0100"
+    },
+    {
+        "title": "Vestas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Vestas",
+        "pubdate": "Wed, 05 Feb 2025 10:00:00 +0100"
+    },
+    {
+        "title": "Jurassic World Rebirth",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jurassic%20World%20Rebirth",
+        "pubdate": "Wed, 05 Feb 2025 18:00:00 +0100"
+    },
+    {
+        "title": "AMD stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#AMD%20stock",
+        "pubdate": "Wed, 05 Feb 2025 14:00:00 +0100"
+    },
+    {
+        "title": "DEI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#DEI",
+        "pubdate": "Wed, 05 Feb 2025 12:00:00 +0100"
+    },
+    {
+        "title": "Simona Halep",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Simona%20Halep",
+        "pubdate": "Wed, 05 Feb 2025 06:00:00 +0100"
+    },
+    {
         "title": "Örebro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#%C3%96rebro",
         "pubdate": "Tue, 04 Feb 2025 15:00:00 +0100"
@@ -8,6 +73,11 @@
         "title": "Palantir stock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Palantir%20stock",
         "pubdate": "Tue, 04 Feb 2025 13:00:00 +0100"
+    },
+    {
+        "title": "Holger Rune",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Holger%20Rune",
+        "pubdate": "Tue, 04 Feb 2025 23:00:00 +0100"
     },
     {
         "title": "Dingo",
@@ -20,11 +90,6 @@
         "pubdate": "Tue, 04 Feb 2025 17:00:00 +0100"
     },
     {
-        "title": "SVT",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#SVT",
-        "pubdate": "Tue, 04 Feb 2025 16:00:00 +0100"
-    },
-    {
         "title": "Fentanyl",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Fentanyl",
         "pubdate": "Tue, 04 Feb 2025 12:00:00 +0100"
@@ -33,70 +98,5 @@
         "title": "Bob Dylan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bob%20Dylan",
         "pubdate": "Tue, 04 Feb 2025 18:00:00 +0100"
-    },
-    {
-        "title": "Jussi Adler-Olsen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jussi%20Adler-Olsen",
-        "pubdate": "Tue, 04 Feb 2025 23:00:00 +0100"
-    },
-    {
-        "title": "Helena Christensen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Helena%20Christensen",
-        "pubdate": "Tue, 04 Feb 2025 16:00:00 +0100"
-    },
-    {
-        "title": "Brian Murphy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Brian%20Murphy",
-        "pubdate": "Tue, 04 Feb 2025 20:00:00 +0100"
-    },
-    {
-        "title": "Flashback",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Flashback",
-        "pubdate": "Tue, 04 Feb 2025 21:00:00 +0100"
-    },
-    {
-        "title": "Bianca Censori Grammy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bianca%20Censori%20Grammy",
-        "pubdate": "Mon, 03 Feb 2025 06:00:00 +0100"
-    },
-    {
-        "title": "Benjamin tahirovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Benjamin%20tahirovic",
-        "pubdate": "Mon, 03 Feb 2025 22:00:00 +0100"
-    },
-    {
-        "title": "Chelsea  West Ham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Chelsea%20%20West%20Ham",
-        "pubdate": "Mon, 03 Feb 2025 21:00:00 +0100"
-    },
-    {
-        "title": "USAID",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#USAID",
-        "pubdate": "Mon, 03 Feb 2025 09:00:00 +0100"
-    },
-    {
-        "title": "Youth",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Youth",
-        "pubdate": "Mon, 03 Feb 2025 21:00:00 +0100"
-    },
-    {
-        "title": "Beyonce",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Beyonce",
-        "pubdate": "Mon, 03 Feb 2025 08:00:00 +0100"
-    },
-    {
-        "title": "Kingdom Come: Deliverance 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Kingdom%20Come:%20Deliverance%202",
-        "pubdate": "Mon, 03 Feb 2025 18:00:00 +0100"
-    },
-    {
-        "title": "Sabrina Carpenter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Sabrina%20Carpenter",
-        "pubdate": "Mon, 03 Feb 2025 21:00:00 +0100"
-    },
-    {
-        "title": "Benson Boone",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Benson%20Boone",
-        "pubdate": "Mon, 03 Feb 2025 23:00:00 +0100"
     }
 ]
