@@ -1,8 +1,63 @@
 [
     {
+        "title": "Kunsthalle Praha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kunsthalle%20Praha",
+        "pubdate": "Fri, 07 Feb 2025 00:00:00 +0100"
+    },
+    {
+        "title": "Liverpool – Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Liverpool%20%E2%80%93%20Tottenham",
+        "pubdate": "Thu, 06 Feb 2025 21:00:00 +0100"
+    },
+    {
+        "title": "Ministerstvo vnitra",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ministerstvo%20vnitra",
+        "pubdate": "Thu, 06 Feb 2025 18:00:00 +0100"
+    },
+    {
+        "title": "Doosan Škoda Power",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Doosan%20%C5%A0koda%20Power",
+        "pubdate": "Thu, 06 Feb 2025 12:00:00 +0100"
+    },
+    {
+        "title": "Daniel Vávra",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Daniel%20V%C3%A1vra",
+        "pubdate": "Thu, 06 Feb 2025 16:00:00 +0100"
+    },
+    {
+        "title": "Ozzy Osbourne",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ozzy%20Osbourne",
+        "pubdate": "Thu, 06 Feb 2025 09:00:00 +0100"
+    },
+    {
+        "title": "Mirage 2000",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Mirage%202000",
+        "pubdate": "Thu, 06 Feb 2025 16:00:00 +0100"
+    },
+    {
+        "title": "Ester Ledecká",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ester%20Ledeck%C3%A1",
+        "pubdate": "Thu, 06 Feb 2025 14:00:00 +0100"
+    },
+    {
+        "title": "Kristian Reichel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kristian%20Reichel",
+        "pubdate": "Thu, 06 Feb 2025 22:00:00 +0100"
+    },
+    {
+        "title": "Zdeněk Hřib",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Zden%C4%9Bk%20H%C5%99ib",
+        "pubdate": "Thu, 06 Feb 2025 19:00:00 +0100"
+    },
+    {
         "title": "Survivor 2025",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Survivor%202025",
         "pubdate": "Wed, 05 Feb 2025 13:00:00 +0100"
+    },
+    {
+        "title": "Survivor 2025 účastníci",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Survivor%202025%20%C3%BA%C4%8Dastn%C3%ADci",
+        "pubdate": "Wed, 05 Feb 2025 12:00:00 +0100"
     },
     {
         "title": "Martin Půta",
@@ -10,9 +65,9 @@
         "pubdate": "Wed, 05 Feb 2025 13:00:00 +0100"
     },
     {
-        "title": "Newcastle – Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Newcastle%20%E2%80%93%20Arsenal",
-        "pubdate": "Wed, 05 Feb 2025 21:00:00 +0100"
+        "title": "Jan Werich",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jan%20Werich",
+        "pubdate": "Wed, 05 Feb 2025 22:00:00 +0100"
     },
     {
         "title": "Prime Video",
@@ -20,19 +75,9 @@
         "pubdate": "Wed, 05 Feb 2025 14:00:00 +0100"
     },
     {
-        "title": "Orebro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Orebro",
-        "pubdate": "Wed, 05 Feb 2025 01:00:00 +0100"
-    },
-    {
-        "title": "Dominika Hašková",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Dominika%20Ha%C5%A1kov%C3%A1",
-        "pubdate": "Wed, 05 Feb 2025 16:00:00 +0100"
-    },
-    {
-        "title": "West Side Story",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#West%20Side%20Story",
-        "pubdate": "Wed, 05 Feb 2025 22:00:00 +0100"
+        "title": "Neymar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Neymar",
+        "pubdate": "Wed, 05 Feb 2025 18:00:00 +0100"
     },
     {
         "title": "Brutalista",
@@ -40,63 +85,18 @@
         "pubdate": "Wed, 05 Feb 2025 20:00:00 +0100"
     },
     {
-        "title": "Trump gaza",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Trump%20gaza",
-        "pubdate": "Wed, 05 Feb 2025 19:00:00 +0100"
+        "title": "West Side Story",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#West%20Side%20Story",
+        "pubdate": "Wed, 05 Feb 2025 22:00:00 +0100"
     },
     {
-        "title": "Forbes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Forbes",
-        "pubdate": "Wed, 05 Feb 2025 19:00:00 +0100"
+        "title": "Orebro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Orebro",
+        "pubdate": "Wed, 05 Feb 2025 01:00:00 +0100"
     },
     {
-        "title": "Stanislav Tříska",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Stanislav%20T%C5%99%C3%ADska",
-        "pubdate": "Wed, 05 Feb 2025 09:00:00 +0100"
-    },
-    {
-        "title": "Ronaldo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ronaldo",
-        "pubdate": "Tue, 04 Feb 2025 08:00:00 +0100"
-    },
-    {
-        "title": "Santorini zemětřesení",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Santorini%20zem%C4%9Bt%C5%99esen%C3%AD",
-        "pubdate": "Tue, 04 Feb 2025 10:00:00 +0100"
-    },
-    {
-        "title": "Petr Muk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Petr%20Muk",
-        "pubdate": "Tue, 04 Feb 2025 10:00:00 +0100"
-    },
-    {
-        "title": "Tomáš Matonoha",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tom%C3%A1%C5%A1%20Matonoha",
-        "pubdate": "Tue, 04 Feb 2025 23:00:00 +0100"
-    },
-    {
-        "title": "Pavel Vrba",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Pavel%20Vrba",
-        "pubdate": "Tue, 04 Feb 2025 17:00:00 +0100"
-    },
-    {
-        "title": "Národní muzeum",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#N%C3%A1rodn%C3%AD%20muzeum",
-        "pubdate": "Tue, 04 Feb 2025 21:00:00 +0100"
-    },
-    {
-        "title": "Salvador",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Salvador",
-        "pubdate": "Tue, 04 Feb 2025 13:00:00 +0100"
-    },
-    {
-        "title": "PBS Group",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#PBS%20Group",
-        "pubdate": "Tue, 04 Feb 2025 23:00:00 +0100"
-    },
-    {
-        "title": "Kryštof Bartoš",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kry%C5%A1tof%20Barto%C5%A1",
-        "pubdate": "Tue, 04 Feb 2025 23:00:00 +0100"
+        "title": "Vymena manzelek Gabriela",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vymena%20manzelek%20Gabriela",
+        "pubdate": "Wed, 05 Feb 2025 22:00:00 +0100"
     }
 ]
