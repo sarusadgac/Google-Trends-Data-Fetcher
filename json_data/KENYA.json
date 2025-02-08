@@ -1,8 +1,43 @@
 [
     {
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#PSG",
+        "pubdate": "Sat, 08 Feb 2025 02:00:00 +0300"
+    },
+    {
+        "title": "Leonard Mambo Mbotela",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Leonard%20Mambo%20Mbotela",
+        "pubdate": "Fri, 07 Feb 2025 12:00:00 +0300"
+    },
+    {
         "title": "Liverpool FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Liverpool%20FC",
         "pubdate": "Fri, 07 Feb 2025 04:00:00 +0300"
+    },
+    {
+        "title": "Como vs Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Como%20vs%20Juventus",
+        "pubdate": "Fri, 07 Feb 2025 08:00:00 +0300"
+    },
+    {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Barcelona",
+        "pubdate": "Fri, 07 Feb 2025 07:00:00 +0300"
+    },
+    {
+        "title": "Al Nassr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Al%20Nassr",
+        "pubdate": "Fri, 07 Feb 2025 23:00:00 +0300"
+    },
+    {
+        "title": "KEMRI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#KEMRI",
+        "pubdate": "Fri, 07 Feb 2025 10:00:00 +0300"
+    },
+    {
+        "title": "Radio 47",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Radio%2047",
+        "pubdate": "Fri, 07 Feb 2025 16:00:00 +0300"
     },
     {
         "title": "Invincible season 3",
@@ -10,29 +45,39 @@
         "pubdate": "Fri, 07 Feb 2025 01:00:00 +0300"
     },
     {
+        "title": "Bayern Munich",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Bayern%20Munich",
+        "pubdate": "Fri, 07 Feb 2025 23:00:00 +0300"
+    },
+    {
+        "title": "Montoya",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Montoya",
+        "pubdate": "Fri, 07 Feb 2025 16:00:00 +0300"
+    },
+    {
+        "title": "Lakers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Lakers",
+        "pubdate": "Fri, 07 Feb 2025 10:00:00 +0300"
+    },
+    {
+        "title": "Inter Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Inter%20Milan",
+        "pubdate": "Fri, 07 Feb 2025 05:00:00 +0300"
+    },
+    {
         "title": "Liverpool vs Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Liverpool%20vs%20Tottenham",
         "pubdate": "Thu, 06 Feb 2025 07:00:00 +0300"
     },
     {
-        "title": "Fiorentina vs Inter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Fiorentina%20vs%20Inter",
-        "pubdate": "Thu, 06 Feb 2025 22:00:00 +0300"
+        "title": "Man United vs Leicester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Man%20United%20vs%20Leicester%20City",
+        "pubdate": "Thu, 06 Feb 2025 10:00:00 +0300"
     },
     {
-        "title": "Leverkusen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Leverkusen",
-        "pubdate": "Thu, 06 Feb 2025 08:00:00 +0300"
-    },
-    {
-        "title": "England vs India",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#England%20vs%20India",
-        "pubdate": "Thu, 06 Feb 2025 19:00:00 +0300"
-    },
-    {
-        "title": "President Ruto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#President%20Ruto",
-        "pubdate": "Thu, 06 Feb 2025 00:00:00 +0300"
+        "title": "Valencia vs Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Valencia%20vs%20Barcelona",
+        "pubdate": "Thu, 06 Feb 2025 17:00:00 +0300"
     },
     {
         "title": "Kenya Haiti mission funding",
@@ -40,63 +85,18 @@
         "pubdate": "Thu, 06 Feb 2025 09:00:00 +0300"
     },
     {
+        "title": "Leverkusen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Leverkusen",
+        "pubdate": "Thu, 06 Feb 2025 08:00:00 +0300"
+    },
+    {
         "title": "Irv Gotti",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Irv%20Gotti",
         "pubdate": "Thu, 06 Feb 2025 12:00:00 +0300"
     },
     {
-        "title": "FA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#FA",
-        "pubdate": "Thu, 06 Feb 2025 00:00:00 +0300"
-    },
-    {
-        "title": "Joao Felix",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Joao%20Felix",
-        "pubdate": "Thu, 06 Feb 2025 21:00:00 +0300"
-    },
-    {
-        "title": "Leeds United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Leeds%20United",
-        "pubdate": "Thu, 06 Feb 2025 01:00:00 +0300"
-    },
-    {
         "title": "Jimmy Butler",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Jimmy%20Butler",
         "pubdate": "Thu, 06 Feb 2025 20:00:00 +0300"
-    },
-    {
-        "title": "Newcastle vs Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Newcastle%20vs%20Arsenal",
-        "pubdate": "Wed, 05 Feb 2025 08:00:00 +0300"
-    },
-    {
-        "title": "Leganes vs Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Leganes%20vs%20Real%20Madrid",
-        "pubdate": "Wed, 05 Feb 2025 18:00:00 +0300"
-    },
-    {
-        "title": "Valencia vs Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Valencia%20vs%20Barcelona",
-        "pubdate": "Wed, 05 Feb 2025 08:00:00 +0300"
-    },
-    {
-        "title": "Aga Khan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Aga%20Khan",
-        "pubdate": "Wed, 05 Feb 2025 07:00:00 +0300"
-    },
-    {
-        "title": "Milan vs Roma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Milan%20vs%20Roma",
-        "pubdate": "Wed, 05 Feb 2025 17:00:00 +0300"
-    },
-    {
-        "title": "EFL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#EFL",
-        "pubdate": "Wed, 05 Feb 2025 21:00:00 +0300"
-    },
-    {
-        "title": "Psg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Psg",
-        "pubdate": "Wed, 05 Feb 2025 02:00:00 +0300"
     }
 ]
