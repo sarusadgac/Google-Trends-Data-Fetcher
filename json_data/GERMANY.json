@@ -1,38 +1,23 @@
 [
     {
-        "title": "Bayern – Werder Bremen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayern%20%E2%80%93%20Werder%20Bremen",
-        "pubdate": "Fri, 07 Feb 2025 20:00:00 +0100"
+        "title": "PlayStation Network",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#PlayStation%20Network",
+        "pubdate": "Sat, 08 Feb 2025 04:00:00 +0100"
     },
     {
-        "title": "HSV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#HSV",
-        "pubdate": "Fri, 07 Feb 2025 20:00:00 +0100"
+        "title": "Hertha – FCK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hertha%20%E2%80%93%20FCK",
+        "pubdate": "Sat, 08 Feb 2025 20:00:00 +0100"
     },
     {
-        "title": "Schlagabtausch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schlagabtausch",
-        "pubdate": "Fri, 07 Feb 2025 08:00:00 +0100"
+        "title": "Jack Nicholson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Jack%20Nicholson",
+        "pubdate": "Fri, 07 Feb 2025 23:00:00 +0100"
     },
     {
         "title": "Wahl-O-Mat 2025 Bundestagswahl",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wahl-O-Mat%202025%20Bundestagswahl",
         "pubdate": "Thu, 06 Feb 2025 09:00:00 +0100"
-    },
-    {
-        "title": "Grundsteuer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Grundsteuer",
-        "pubdate": "Thu, 06 Feb 2025 15:00:00 +0100"
-    },
-    {
-        "title": "Rostock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rostock",
-        "pubdate": "Thu, 06 Feb 2025 17:00:00 +0100"
-    },
-    {
-        "title": "Rheinmetall",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rheinmetall",
-        "pubdate": "Thu, 06 Feb 2025 20:00:00 +0100"
     },
     {
         "title": "Gaza",
@@ -98,5 +83,20 @@
         "title": "Nvidia-Aktie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Nvidia-Aktie",
         "pubdate": "Mon, 27 Jan 2025 10:00:00 +0100"
+    },
+    {
+        "title": "NASDAQ-100",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#NASDAQ-100",
+        "pubdate": "Mon, 27 Jan 2025 16:00:00 +0100"
+    },
+    {
+        "title": "Bundestag",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bundestag",
+        "pubdate": "Mon, 27 Jan 2025 15:00:00 +0100"
+    },
+    {
+        "title": "Auschwitz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Auschwitz",
+        "pubdate": "Sun, 26 Jan 2025 21:00:00 +0100"
     }
 ]
