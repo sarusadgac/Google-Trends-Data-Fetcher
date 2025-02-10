@@ -1,18 +1,93 @@
 [
     {
+        "title": "Napoli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Napoli",
+        "pubdate": "Mon, 10 Feb 2025 00:00:00 +0100"
+    },
+    {
+        "title": "NFL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#NFL",
+        "pubdate": "Mon, 10 Feb 2025 02:00:00 +0100"
+    },
+    {
+        "title": "Leipzig",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Leipzig",
+        "pubdate": "Mon, 10 Feb 2025 01:00:00 +0100"
+    },
+    {
+        "title": "Sevilla vs Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Sevilla%20vs%20Barcelona",
+        "pubdate": "Sun, 09 Feb 2025 14:00:00 +0100"
+    },
+    {
+        "title": "Aston Villa vs Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Aston%20Villa%20vs%20Tottenham",
+        "pubdate": "Sun, 09 Feb 2025 18:00:00 +0100"
+    },
+    {
         "title": "Super Bowl",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Super%20Bowl",
         "pubdate": "Sun, 09 Feb 2025 01:00:00 +0100"
     },
     {
-        "title": "Lakers vs Pacers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Lakers%20vs%20Pacers",
+        "title": "Olimpia vs Inter Miami",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Olimpia%20vs%20Inter%20Miami",
+        "pubdate": "Sun, 09 Feb 2025 03:00:00 +0100"
+    },
+    {
+        "title": "Galatasaray vs Adana Demirspor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Galatasaray%20vs%20Adana%20Demirspor",
+        "pubdate": "Sun, 09 Feb 2025 17:00:00 +0100"
+    },
+    {
+        "title": "Blackburn Rovers vs Wolves",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Blackburn%20Rovers%20vs%20Wolves",
+        "pubdate": "Sun, 09 Feb 2025 14:00:00 +0100"
+    },
+    {
+        "title": "Chelsea vs Everton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Chelsea%20vs%20Everton",
+        "pubdate": "Sun, 09 Feb 2025 16:00:00 +0100"
+    },
+    {
+        "title": "Newcastle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Newcastle",
+        "pubdate": "Sun, 09 Feb 2025 17:00:00 +0100"
+    },
+    {
+        "title": "US visa dropbox in Nigeria",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#US%20visa%20dropbox%20in%20Nigeria",
         "pubdate": "Sun, 09 Feb 2025 01:00:00 +0100"
     },
     {
-        "title": "Leyton Orient vs Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Leyton%20Orient%20vs%20Man%20City",
-        "pubdate": "Sat, 08 Feb 2025 13:00:00 +0100"
+        "title": "Rangers vs Queen's Park",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Rangers%20vs%20Queen's%20Park",
+        "pubdate": "Sun, 09 Feb 2025 19:00:00 +0100"
+    },
+    {
+        "title": "Lazio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Lazio",
+        "pubdate": "Sun, 09 Feb 2025 16:00:00 +0100"
+    },
+    {
+        "title": "Real Sociedad",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Real%20Sociedad",
+        "pubdate": "Sun, 09 Feb 2025 21:00:00 +0100"
+    },
+    {
+        "title": "Herbert Wigwe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Herbert%20Wigwe",
+        "pubdate": "Sun, 09 Feb 2025 23:00:00 +0100"
+    },
+    {
+        "title": "Brighton vs Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Brighton%20vs%20Chelsea",
+        "pubdate": "Sat, 08 Feb 2025 15:00:00 +0100"
+    },
+    {
+        "title": "Plymouth Argyle vs Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Plymouth%20Argyle%20vs%20Liverpool",
+        "pubdate": "Sat, 08 Feb 2025 21:00:00 +0100"
     },
     {
         "title": "Real Madrid vs atlético Madrid",
@@ -20,83 +95,8 @@
         "pubdate": "Sat, 08 Feb 2025 10:00:00 +0100"
     },
     {
-        "title": "Birmingham vs Newcastle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Birmingham%20vs%20Newcastle",
-        "pubdate": "Sat, 08 Feb 2025 19:00:00 +0100"
-    },
-    {
-        "title": "Chelsea FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Chelsea%20FC",
-        "pubdate": "Sat, 08 Feb 2025 06:00:00 +0100"
-    },
-    {
-        "title": "Empoli vs Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Empoli%20vs%20Milan",
-        "pubdate": "Sat, 08 Feb 2025 18:00:00 +0100"
-    },
-    {
-        "title": "Everton vs Bournemouth",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Everton%20vs%20Bournemouth",
-        "pubdate": "Sat, 08 Feb 2025 16:00:00 +0100"
-    },
-    {
-        "title": "Real Betis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Real%20Betis",
-        "pubdate": "Sat, 08 Feb 2025 15:00:00 +0100"
-    },
-    {
-        "title": "Leverkusen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Leverkusen",
-        "pubdate": "Sat, 08 Feb 2025 18:00:00 +0100"
-    },
-    {
-        "title": "AC Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#AC%20Milan",
-        "pubdate": "Sat, 08 Feb 2025 20:00:00 +0100"
-    },
-    {
-        "title": "Atalanta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Atalanta",
-        "pubdate": "Sat, 08 Feb 2025 16:00:00 +0100"
-    },
-    {
-        "title": "Leeds United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Leeds%20United",
-        "pubdate": "Sat, 08 Feb 2025 16:00:00 +0100"
-    },
-    {
-        "title": "Juma Jux",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Juma%20Jux",
-        "pubdate": "Sat, 08 Feb 2025 06:00:00 +0100"
-    },
-    {
-        "title": "Porto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Porto",
-        "pubdate": "Sat, 08 Feb 2025 00:00:00 +0100"
-    },
-    {
-        "title": "Lille",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Lille",
-        "pubdate": "Sat, 08 Feb 2025 21:00:00 +0100"
-    },
-    {
-        "title": "Manu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Manu",
-        "pubdate": "Sat, 08 Feb 2025 00:00:00 +0100"
-    },
-    {
-        "title": "Tanzania",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Tanzania",
-        "pubdate": "Sat, 08 Feb 2025 15:00:00 +0100"
-    },
-    {
-        "title": "PDF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#PDF",
-        "pubdate": "Sat, 08 Feb 2025 17:00:00 +0100"
-    },
-    {
-        "title": "FA Cup games",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#FA%20Cup%20games",
-        "pubdate": "Sat, 08 Feb 2025 21:00:00 +0100"
+        "title": "Leyton Orient vs Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Leyton%20Orient%20vs%20Man%20City",
+        "pubdate": "Sat, 08 Feb 2025 13:00:00 +0100"
     }
 ]

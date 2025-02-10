@@ -1,8 +1,48 @@
 [
     {
+        "title": "超級盃",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%B6%85%E7%B4%9A%E7%9B%83",
+        "pubdate": "Mon, 10 Feb 2025 01:00:00 +0800"
+    },
+    {
+        "title": "李安",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%9D%8E%E5%AE%89",
+        "pubdate": "Mon, 10 Feb 2025 05:00:00 +0800"
+    },
+    {
+        "title": "台企銀",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%8F%B0%E4%BC%81%E9%8A%80",
+        "pubdate": "Sun, 09 Feb 2025 17:00:00 +0800"
+    },
+    {
+        "title": "勇士",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%8B%87%E5%A3%AB",
+        "pubdate": "Sun, 09 Feb 2025 14:00:00 +0800"
+    },
+    {
         "title": "蔡英文",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%94%A1%E8%8B%B1%E6%96%87",
         "pubdate": "Sun, 09 Feb 2025 02:00:00 +0800"
+    },
+    {
+        "title": "安東尼·戴維斯",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%AE%89%E6%9D%B1%E5%B0%BC%C2%B7%E6%88%B4%E7%B6%AD%E6%96%AF",
+        "pubdate": "Sun, 09 Feb 2025 09:00:00 +0800"
+    },
+    {
+        "title": "獨行俠",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E7%8D%A8%E8%A1%8C%E4%BF%A0",
+        "pubdate": "Sun, 09 Feb 2025 13:00:00 +0800"
+    },
+    {
+        "title": "高雄停水",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%AB%98%E9%9B%84%E5%81%9C%E6%B0%B4",
+        "pubdate": "Sun, 09 Feb 2025 14:00:00 +0800"
+    },
+    {
+        "title": "高揚凱",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%AB%98%E6%8F%9A%E5%87%B1",
+        "pubdate": "Sun, 09 Feb 2025 21:00:00 +0800"
     },
     {
         "title": "足總盃",
@@ -10,14 +50,9 @@
         "pubdate": "Sun, 09 Feb 2025 00:00:00 +0800"
     },
     {
-        "title": "演唱會",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%BC%94%E5%94%B1%E6%9C%83",
-        "pubdate": "Sun, 09 Feb 2025 01:00:00 +0800"
-    },
-    {
-        "title": "丟丟妹",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E4%B8%9F%E4%B8%9F%E5%A6%B9",
-        "pubdate": "Sun, 09 Feb 2025 09:00:00 +0800"
+        "title": "哈姆立克法",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%93%88%E5%A7%86%E7%AB%8B%E5%85%8B%E6%B3%95",
+        "pubdate": "Sun, 09 Feb 2025 23:00:00 +0800"
     },
     {
         "title": "地震",
@@ -35,11 +70,6 @@
         "pubdate": "Sat, 08 Feb 2025 14:00:00 +0800"
     },
     {
-        "title": "YOASOBI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#YOASOBI",
-        "pubdate": "Sat, 08 Feb 2025 09:00:00 +0800"
-    },
-    {
         "title": "NCC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#NCC",
         "pubdate": "Sat, 08 Feb 2025 02:00:00 +0800"
@@ -50,8 +80,13 @@
         "pubdate": "Sat, 08 Feb 2025 01:00:00 +0800"
     },
     {
-        "title": "PlayStation Network",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#PlayStation%20Network",
+        "title": "YOASOBI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#YOASOBI",
+        "pubdate": "Sat, 08 Feb 2025 11:00:00 +0800"
+    },
+    {
+        "title": "PSN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#PSN",
         "pubdate": "Sat, 08 Feb 2025 15:00:00 +0800"
     },
     {
@@ -60,43 +95,8 @@
         "pubdate": "Sat, 08 Feb 2025 19:00:00 +0800"
     },
     {
-        "title": "樹葬",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%A8%B9%E8%91%AC",
-        "pubdate": "Sat, 08 Feb 2025 01:00:00 +0800"
-    },
-    {
-        "title": "黃西田",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%BB%83%E8%A5%BF%E7%94%B0",
-        "pubdate": "Sat, 08 Feb 2025 22:00:00 +0800"
-    },
-    {
-        "title": "薑母鴨",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%96%91%E6%AF%8D%E9%B4%A8",
-        "pubdate": "Sat, 08 Feb 2025 18:00:00 +0800"
-    },
-    {
-        "title": "陽明山",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%99%BD%E6%98%8E%E5%B1%B1",
+        "title": "吳沛憶",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%90%B3%E6%B2%9B%E6%86%B6",
         "pubdate": "Sat, 08 Feb 2025 12:00:00 +0800"
-    },
-    {
-        "title": "太平山",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%A4%AA%E5%B9%B3%E5%B1%B1",
-        "pubdate": "Sat, 08 Feb 2025 21:00:00 +0800"
-    },
-    {
-        "title": "高虹安",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%AB%98%E8%99%B9%E5%AE%89",
-        "pubdate": "Sat, 08 Feb 2025 18:00:00 +0800"
-    },
-    {
-        "title": "TPBL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#TPBL",
-        "pubdate": "Sat, 08 Feb 2025 18:00:00 +0800"
-    },
-    {
-        "title": "平溪天燈節",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%B9%B3%E6%BA%AA%E5%A4%A9%E7%87%88%E7%AF%80",
-        "pubdate": "Sat, 08 Feb 2025 14:00:00 +0800"
     }
 ]
