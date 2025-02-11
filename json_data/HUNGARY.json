@@ -1,5 +1,25 @@
 [
     {
+        "title": "John Cena",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#John%20Cena",
+        "pubdate": "Mon, 10 Feb 2025 16:00:00 +0100"
+    },
+    {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Barcelona",
+        "pubdate": "Mon, 10 Feb 2025 17:00:00 +0100"
+    },
+    {
+        "title": "Taylor Swift",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Taylor%20Swift",
+        "pubdate": "Mon, 10 Feb 2025 05:00:00 +0100"
+    },
+    {
+        "title": "Mallorca–osasuna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Mallorca%E2%80%93osasuna",
+        "pubdate": "Mon, 10 Feb 2025 21:00:00 +0100"
+    },
+    {
         "title": "13. havi nyugdíj",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#13.%20havi%20nyugd%C3%ADj",
         "pubdate": "Mon, 10 Feb 2025 00:00:00 +0100"
@@ -10,93 +30,73 @@
         "pubdate": "Mon, 10 Feb 2025 00:00:00 +0100"
     },
     {
-        "title": "Plymouth–liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Plymouth%E2%80%93liverpool",
-        "pubdate": "Sun, 09 Feb 2025 16:00:00 +0100"
+        "title": "Gázolaj ára",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#G%C3%A1zolaj%20%C3%A1ra",
+        "pubdate": "Mon, 10 Feb 2025 19:00:00 +0100"
     },
     {
-        "title": "Super Bowl 2025",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Super%20Bowl%202025",
-        "pubdate": "Sun, 09 Feb 2025 01:00:00 +0100"
+        "title": "Fishing on Orfű",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Fishing%20on%20Orf%C5%B1",
+        "pubdate": "Mon, 10 Feb 2025 15:00:00 +0100"
     },
     {
-        "title": "December 24 munkaszüneti nap",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#December%2024%20munkasz%C3%BCneti%20nap",
-        "pubdate": "Sun, 09 Feb 2025 14:00:00 +0100"
+        "title": "Rogán Antal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Rog%C3%A1n%20Antal",
+        "pubdate": "Mon, 10 Feb 2025 20:00:00 +0100"
     },
     {
-        "title": "Valencia–leganés",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Valencia%E2%80%93legan%C3%A9s",
-        "pubdate": "Sun, 09 Feb 2025 16:00:00 +0100"
+        "title": "Molnár Gusztáv",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Moln%C3%A1r%20Guszt%C3%A1v",
+        "pubdate": "Mon, 10 Feb 2025 21:00:00 +0100"
     },
     {
-        "title": "Ferenc pápa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ferenc%20p%C3%A1pa",
-        "pubdate": "Sun, 09 Feb 2025 19:00:00 +0100"
+        "title": "Adam Sandler",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Adam%20Sandler",
+        "pubdate": "Mon, 10 Feb 2025 06:00:00 +0100"
     },
     {
-        "title": "Titanic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Titanic",
-        "pubdate": "Sun, 09 Feb 2025 16:00:00 +0100"
+        "title": "G. Fodor Gábor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#G.%20Fodor%20G%C3%A1bor",
+        "pubdate": "Mon, 10 Feb 2025 06:00:00 +0100"
     },
     {
-        "title": "Minimálbér",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Minim%C3%A1lb%C3%A9r",
-        "pubdate": "Sun, 09 Feb 2025 05:00:00 +0100"
+        "title": "Takács Péter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Tak%C3%A1cs%20P%C3%A9ter",
+        "pubdate": "Mon, 10 Feb 2025 11:00:00 +0100"
     },
     {
-        "title": "Tom Cruise",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Tom%20Cruise",
-        "pubdate": "Sun, 09 Feb 2025 19:00:00 +0100"
+        "title": "Pázmány Péter Katolikus Egyetem",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#P%C3%A1zm%C3%A1ny%20P%C3%A9ter%20Katolikus%20Egyetem",
+        "pubdate": "Mon, 10 Feb 2025 08:00:00 +0100"
     },
     {
-        "title": "Jack Lemmon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Jack%20Lemmon",
-        "pubdate": "Sun, 09 Feb 2025 15:00:00 +0100"
+        "title": "Nagy Márton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Nagy%20M%C3%A1rton",
+        "pubdate": "Mon, 10 Feb 2025 23:00:00 +0100"
     },
     {
-        "title": "Fodor Gábor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Fodor%20G%C3%A1bor",
-        "pubdate": "Sun, 09 Feb 2025 22:00:00 +0100"
+        "title": "Sváby András",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sv%C3%A1by%20Andr%C3%A1s",
+        "pubdate": "Mon, 10 Feb 2025 18:00:00 +0100"
     },
     {
-        "title": "Galatasaray",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Galatasaray",
-        "pubdate": "Sun, 09 Feb 2025 19:00:00 +0100"
+        "title": "Németország",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#N%C3%A9metorsz%C3%A1g",
+        "pubdate": "Mon, 10 Feb 2025 13:00:00 +0100"
     },
     {
-        "title": "ZTE",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#ZTE",
-        "pubdate": "Sun, 09 Feb 2025 18:00:00 +0100"
+        "title": "M1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M1",
+        "pubdate": "Mon, 10 Feb 2025 21:00:00 +0100"
     },
     {
-        "title": "Böde Dániel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#B%C3%B6de%20D%C3%A1niel",
-        "pubdate": "Sun, 09 Feb 2025 13:00:00 +0100"
+        "title": "Vinícius júnior",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Vin%C3%ADcius%20j%C3%BAnior",
+        "pubdate": "Mon, 10 Feb 2025 12:00:00 +0100"
     },
     {
-        "title": "Demi Moore",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Demi%20Moore",
-        "pubdate": "Sun, 09 Feb 2025 09:00:00 +0100"
-    },
-    {
-        "title": "L.L. Junior",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#L.L.%20Junior",
-        "pubdate": "Sun, 09 Feb 2025 02:00:00 +0100"
-    },
-    {
-        "title": "Dinasztia Orbán",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Dinasztia%20Orb%C3%A1n",
-        "pubdate": "Sun, 09 Feb 2025 20:00:00 +0100"
-    },
-    {
-        "title": "Atletico Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Atletico%20Madrid",
-        "pubdate": "Sun, 09 Feb 2025 21:00:00 +0100"
-    },
-    {
-        "title": "ACMilan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#ACMilan",
-        "pubdate": "Sun, 09 Feb 2025 12:00:00 +0100"
+        "title": "Super bowl 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Super%20bowl%202024",
+        "pubdate": "Mon, 10 Feb 2025 11:00:00 +0100"
     }
 ]
