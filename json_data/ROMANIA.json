@@ -1,13 +1,58 @@
 [
     {
+        "title": "Man. City - Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Man.%20City%20-%20Real%20Madrid",
+        "pubdate": "Tue, 11 Feb 2025 00:00:00 +0200"
+    },
+    {
+        "title": "Ghiseul.ro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ghiseul.ro",
+        "pubdate": "Tue, 11 Feb 2025 22:00:00 +0200"
+    },
+    {
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#PSG",
+        "pubdate": "Tue, 11 Feb 2025 19:00:00 +0200"
+    },
+    {
+        "title": "AFM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#AFM",
+        "pubdate": "Tue, 11 Feb 2025 20:00:00 +0200"
+    },
+    {
+        "title": "Radu Pally calin georgescu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Radu%20Pally%20calin%20georgescu",
+        "pubdate": "Tue, 11 Feb 2025 19:00:00 +0200"
+    },
+    {
         "title": "Kader Keita",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Kader%20Keita",
         "pubdate": "Tue, 11 Feb 2025 00:00:00 +0200"
     },
     {
-        "title": "Liga Campionilor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Liga%20Campionilor",
-        "pubdate": "Tue, 11 Feb 2025 00:00:00 +0200"
+        "title": "Sam Altman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sam%20Altman",
+        "pubdate": "Tue, 11 Feb 2025 19:00:00 +0200"
+    },
+    {
+        "title": "Insula Santorini cutremur",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Insula%20Santorini%20cutremur",
+        "pubdate": "Tue, 11 Feb 2025 19:00:00 +0200"
+    },
+    {
+        "title": "Legea bugetului de stat 2025",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Legea%20bugetului%20de%20stat%202025",
+        "pubdate": "Tue, 11 Feb 2025 08:00:00 +0200"
+    },
+    {
+        "title": "Denis Law",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Denis%20Law",
+        "pubdate": "Tue, 11 Feb 2025 16:00:00 +0200"
+    },
+    {
+        "title": "Alexandru Papadopol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Alexandru%20Papadopol",
+        "pubdate": "Tue, 11 Feb 2025 21:00:00 +0200"
     },
     {
         "title": "Iohannis",
@@ -15,8 +60,8 @@
         "pubdate": "Mon, 10 Feb 2025 14:00:00 +0200"
     },
     {
-        "title": "UTA Arad - CFR Cluj",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#UTA%20Arad%20-%20CFR%20Cluj",
+        "title": "UTA Arad  CFR Cluj",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#UTA%20Arad%20%20CFR%20Cluj",
         "pubdate": "Mon, 10 Feb 2025 20:00:00 +0200"
     },
     {
@@ -25,78 +70,33 @@
         "pubdate": "Mon, 10 Feb 2025 17:00:00 +0200"
     },
     {
-        "title": "Kendrick Lamar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Kendrick%20Lamar",
-        "pubdate": "Mon, 10 Feb 2025 07:00:00 +0200"
-    },
-    {
-        "title": "Boicotul supermarketurilor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Boicotul%20supermarketurilor",
-        "pubdate": "Mon, 10 Feb 2025 00:00:00 +0200"
-    },
-    {
-        "title": "Calendar ortodox februarie 2025",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Calendar%20ortodox%20februarie%202025",
-        "pubdate": "Mon, 10 Feb 2025 13:00:00 +0200"
-    },
-    {
-        "title": "Digi24",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Digi24",
-        "pubdate": "Mon, 10 Feb 2025 18:00:00 +0200"
-    },
-    {
-        "title": "Victor Rebengiuc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Victor%20Rebengiuc",
-        "pubdate": "Mon, 10 Feb 2025 16:00:00 +0200"
-    },
-    {
-        "title": "Taylor Swift",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Taylor%20Swift",
-        "pubdate": "Mon, 10 Feb 2025 16:00:00 +0200"
-    },
-    {
-        "title": "Mircea Abrudean",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Mircea%20Abrudean",
-        "pubdate": "Mon, 10 Feb 2025 20:00:00 +0200"
-    },
-    {
         "title": "Alexandru Ciucu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Alexandru%20Ciucu",
         "pubdate": "Mon, 10 Feb 2025 22:00:00 +0200"
     },
     {
-        "title": "Sfantul Haralambie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sfantul%20Haralambie",
-        "pubdate": "Mon, 10 Feb 2025 07:00:00 +0200"
-    },
-    {
-        "title": "Titluri de stat februarie 2025",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Titluri%20de%20stat%20februarie%202025",
-        "pubdate": "Mon, 10 Feb 2025 00:00:00 +0200"
-    },
-    {
-        "title": "Protest",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Protest",
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Barcelona",
         "pubdate": "Mon, 10 Feb 2025 18:00:00 +0200"
     },
     {
-        "title": "Ionuț Radu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ionu%C8%9B%20Radu",
-        "pubdate": "Mon, 10 Feb 2025 08:00:00 +0200"
+        "title": "Super Bowl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Super%20Bowl",
+        "pubdate": "Mon, 10 Feb 2025 16:00:00 +0200"
     },
     {
-        "title": "Eric Bicfalvi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Eric%20Bicfalvi",
-        "pubdate": "Mon, 10 Feb 2025 10:00:00 +0200"
+        "title": "Mircea Abrudean",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Mircea%20Abrudean",
+        "pubdate": "Mon, 10 Feb 2025 15:00:00 +0200"
     },
     {
-        "title": "APIA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#APIA",
-        "pubdate": "Mon, 10 Feb 2025 20:00:00 +0200"
+        "title": "Kendrick Lamar Super Bowl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Kendrick%20Lamar%20Super%20Bowl",
+        "pubdate": "Mon, 10 Feb 2025 12:00:00 +0200"
     },
     {
-        "title": "Diana Bulimar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Diana%20Bulimar",
-        "pubdate": "Mon, 10 Feb 2025 22:00:00 +0200"
+        "title": "Digi24",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Digi24",
+        "pubdate": "Mon, 10 Feb 2025 18:00:00 +0200"
     }
 ]

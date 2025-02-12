@@ -1,18 +1,38 @@
 [
     {
+        "title": "Nordnet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Nordnet",
+        "pubdate": "Tue, 11 Feb 2025 14:00:00 +0200"
+    },
+    {
+        "title": "Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Champions%20League",
+        "pubdate": "Tue, 11 Feb 2025 04:00:00 +0200"
+    },
+    {
+        "title": "Supercell",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Supercell",
+        "pubdate": "Tue, 11 Feb 2025 18:00:00 +0200"
+    },
+    {
+        "title": "UCL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#UCL",
+        "pubdate": "Tue, 11 Feb 2025 23:00:00 +0200"
+    },
+    {
+        "title": "Sampo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Sampo",
+        "pubdate": "Tue, 11 Feb 2025 20:00:00 +0200"
+    },
+    {
         "title": "Nokia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Nokia",
         "pubdate": "Mon, 10 Feb 2025 09:00:00 +0200"
     },
     {
-        "title": "Patrick Mahomes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Patrick%20Mahomes",
-        "pubdate": "Mon, 10 Feb 2025 01:00:00 +0200"
-    },
-    {
-        "title": "Auer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Auer",
-        "pubdate": "Mon, 10 Feb 2025 09:00:00 +0200"
+        "title": "Kendrick Lamar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Kendrick%20Lamar",
+        "pubdate": "Mon, 10 Feb 2025 12:00:00 +0200"
     },
     {
         "title": "Yeezy",
@@ -20,9 +40,9 @@
         "pubdate": "Mon, 10 Feb 2025 17:00:00 +0200"
     },
     {
-        "title": "NFL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#NFL",
-        "pubdate": "Mon, 10 Feb 2025 00:00:00 +0200"
+        "title": "Serena Williams Drake",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Serena%20Williams%20Drake",
+        "pubdate": "Mon, 10 Feb 2025 13:00:00 +0200"
     },
     {
         "title": "4 Nations",
@@ -33,6 +53,11 @@
         "title": "Travis Kelce",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Travis%20Kelce",
         "pubdate": "Mon, 10 Feb 2025 02:00:00 +0200"
+    },
+    {
+        "title": "Pekka Rinne",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Pekka%20Rinne",
+        "pubdate": "Mon, 10 Feb 2025 19:00:00 +0200"
     },
     {
         "title": "Taylor Swift",
@@ -48,16 +73,6 @@
         "title": "Pelicans",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Pelicans",
         "pubdate": "Mon, 10 Feb 2025 14:00:00 +0200"
-    },
-    {
-        "title": "Pekka Rinne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Pekka%20Rinne",
-        "pubdate": "Mon, 10 Feb 2025 19:00:00 +0200"
-    },
-    {
-        "title": "Not Like Us lyrics",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Not%20Like%20Us%20lyrics",
-        "pubdate": "Mon, 10 Feb 2025 18:00:00 +0200"
     },
     {
         "title": "Smashing Pumpkins",
@@ -83,20 +98,5 @@
         "title": "Super Bowl 2025",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Super%20Bowl%202025",
         "pubdate": "Sun, 09 Feb 2025 13:00:00 +0200"
-    },
-    {
-        "title": "Miika Elomo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Miika%20Elomo",
-        "pubdate": "Sun, 09 Feb 2025 23:00:00 +0200"
-    },
-    {
-        "title": "Yrjö Kukkapuro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Yrj%C3%B6%20Kukkapuro",
-        "pubdate": "Sun, 09 Feb 2025 12:00:00 +0200"
-    },
-    {
-        "title": "Plymouth Argyle – Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Plymouth%20Argyle%20%E2%80%93%20Liverpool",
-        "pubdate": "Sun, 09 Feb 2025 17:00:00 +0200"
     }
 ]
