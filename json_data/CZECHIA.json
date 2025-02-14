@@ -1,13 +1,78 @@
 [
     {
+        "title": "Kristýna Leichtová",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Krist%C3%BDna%20Leichtov%C3%A1",
+        "pubdate": "Fri, 14 Feb 2025 00:00:00 +0100"
+    },
+    {
+        "title": "Ferencváros – Plzeň",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ferencv%C3%A1ros%20%E2%80%93%20Plze%C5%88",
+        "pubdate": "Thu, 13 Feb 2025 18:00:00 +0100"
+    },
+    {
+        "title": "Nehoda Opava",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Nehoda%20Opava",
+        "pubdate": "Thu, 13 Feb 2025 10:00:00 +0100"
+    },
+    {
+        "title": "Tomio Okamura",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tomio%20Okamura",
+        "pubdate": "Thu, 13 Feb 2025 09:00:00 +0100"
+    },
+    {
+        "title": "Avowed",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Avowed",
+        "pubdate": "Thu, 13 Feb 2025 16:00:00 +0100"
+    },
+    {
+        "title": "Captain America: Nový svět",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Captain%20America:%20Nov%C3%BD%20sv%C4%9Bt",
+        "pubdate": "Thu, 13 Feb 2025 13:00:00 +0100"
+    },
+    {
+        "title": "Emilia Perez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Emilia%20Perez",
+        "pubdate": "Thu, 13 Feb 2025 20:00:00 +0100"
+    },
+    {
+        "title": "Jiří Procházka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ji%C5%99%C3%AD%20Proch%C3%A1zka",
+        "pubdate": "Thu, 13 Feb 2025 19:00:00 +0100"
+    },
+    {
         "title": "State of Play",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#State%20of%20Play",
         "pubdate": "Thu, 13 Feb 2025 01:00:00 +0100"
     },
     {
-        "title": "Celtic – Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Celtic%20%E2%80%93%20Bayern",
-        "pubdate": "Wed, 12 Feb 2025 21:00:00 +0100"
+        "title": "Opava",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Opava",
+        "pubdate": "Thu, 13 Feb 2025 16:00:00 +0100"
+    },
+    {
+        "title": "Putin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Putin",
+        "pubdate": "Thu, 13 Feb 2025 20:00:00 +0100"
+    },
+    {
+        "title": "Pete Hegseth",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Pete%20Hegseth",
+        "pubdate": "Thu, 13 Feb 2025 09:00:00 +0100"
+    },
+    {
+        "title": "Megan Fox",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Megan%20Fox",
+        "pubdate": "Thu, 13 Feb 2025 20:00:00 +0100"
+    },
+    {
+        "title": "Příspěvek na péči",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#P%C5%99%C3%ADsp%C4%9Bvek%20na%20p%C3%A9%C4%8Di",
+        "pubdate": "Thu, 13 Feb 2025 10:00:00 +0100"
+    },
+    {
+        "title": "Tereza Voborníková",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tereza%20Voborn%C3%ADkov%C3%A1",
+        "pubdate": "Wed, 12 Feb 2025 16:00:00 +0100"
     },
     {
         "title": "ČT sport",
@@ -15,9 +80,9 @@
         "pubdate": "Wed, 12 Feb 2025 15:00:00 +0100"
     },
     {
-        "title": "Lenzerheide",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Lenzerheide",
-        "pubdate": "Wed, 12 Feb 2025 16:00:00 +0100"
+        "title": "Captain America",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Captain%20America",
+        "pubdate": "Wed, 12 Feb 2025 22:00:00 +0100"
     },
     {
         "title": "Elon Musk",
@@ -25,78 +90,13 @@
         "pubdate": "Wed, 12 Feb 2025 20:00:00 +0100"
     },
     {
-        "title": "Výjimečný stav",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#V%C3%BDjime%C4%8Dn%C3%BD%20stav",
-        "pubdate": "Wed, 12 Feb 2025 17:00:00 +0100"
-    },
-    {
-        "title": "Captain America",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Captain%20America",
-        "pubdate": "Wed, 12 Feb 2025 22:00:00 +0100"
-    },
-    {
         "title": "Tereza Bebarová",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tereza%20Bebarov%C3%A1",
         "pubdate": "Wed, 12 Feb 2025 23:00:00 +0100"
     },
     {
-        "title": "Viktor Kuna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Viktor%20Kuna",
-        "pubdate": "Wed, 12 Feb 2025 23:00:00 +0100"
-    },
-    {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Liverpool",
-        "pubdate": "Wed, 12 Feb 2025 21:00:00 +0100"
-    },
-    {
-        "title": "Jiří Pospíšil",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ji%C5%99%C3%AD%20Posp%C3%AD%C5%A1il",
-        "pubdate": "Wed, 12 Feb 2025 08:00:00 +0100"
-    },
-    {
-        "title": "Powerbeats Pro 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Powerbeats%20Pro%202",
-        "pubdate": "Wed, 12 Feb 2025 08:00:00 +0100"
-    },
-    {
-        "title": "Kamil Střihavka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kamil%20St%C5%99ihavka",
-        "pubdate": "Wed, 12 Feb 2025 00:00:00 +0100"
-    },
-    {
-        "title": "Josef Mužík",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Josef%20Mu%C5%BE%C3%ADk",
-        "pubdate": "Wed, 12 Feb 2025 20:00:00 +0100"
-    },
-    {
-        "title": "Michal Kubala",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Michal%20Kubala",
-        "pubdate": "Wed, 12 Feb 2025 23:00:00 +0100"
-    },
-    {
-        "title": "Hokej.cz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Hokej.cz",
-        "pubdate": "Wed, 12 Feb 2025 23:00:00 +0100"
-    },
-    {
-        "title": "Extraliga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Extraliga",
-        "pubdate": "Wed, 12 Feb 2025 22:00:00 +0100"
-    },
-    {
-        "title": "Věra Martinová",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#V%C4%9Bra%20Martinov%C3%A1",
-        "pubdate": "Tue, 11 Feb 2025 22:00:00 +0100"
-    },
-    {
-        "title": "Martin Erat",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Martin%20Erat",
-        "pubdate": "Tue, 11 Feb 2025 11:00:00 +0100"
-    },
-    {
-        "title": "Dada patrasova",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Dada%20patrasova",
-        "pubdate": "Tue, 11 Feb 2025 15:00:00 +0100"
+        "title": "Radar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Radar",
+        "pubdate": "Wed, 12 Feb 2025 11:00:00 +0100"
     }
 ]
