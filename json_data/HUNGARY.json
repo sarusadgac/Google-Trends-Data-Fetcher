@@ -1,7 +1,92 @@
 [
     {
-        "title": "FTC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#FTC",
+        "title": "Brighton–chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Brighton%E2%80%93chelsea",
+        "pubdate": "Fri, 14 Feb 2025 21:00:00 +0100"
+    },
+    {
+        "title": "Ruszin-Szendi Romulusz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ruszin-Szendi%20Romulusz",
+        "pubdate": "Fri, 14 Feb 2025 13:00:00 +0100"
+    },
+    {
+        "title": "Boldog Valentin-napot",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Boldog%20Valentin-napot",
+        "pubdate": "Fri, 14 Feb 2025 00:00:00 +0100"
+    },
+    {
+        "title": "Kocsonyafesztivál",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kocsonyafesztiv%C3%A1l",
+        "pubdate": "Fri, 14 Feb 2025 10:00:00 +0100"
+    },
+    {
+        "title": "Csernobili atomerőmű",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Csernobili%20atomer%C5%91m%C5%B1",
+        "pubdate": "Fri, 14 Feb 2025 20:00:00 +0100"
+    },
+    {
+        "title": "Valentin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Valentin",
+        "pubdate": "Fri, 14 Feb 2025 12:00:00 +0100"
+    },
+    {
+        "title": "Nyugdíj",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Nyugd%C3%ADj",
+        "pubdate": "Fri, 14 Feb 2025 18:00:00 +0100"
+    },
+    {
+        "title": "The Gorge",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#The%20Gorge",
+        "pubdate": "Fri, 14 Feb 2025 20:00:00 +0100"
+    },
+    {
+        "title": "Girona–Getafe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Girona%E2%80%93Getafe",
+        "pubdate": "Fri, 14 Feb 2025 21:00:00 +0100"
+    },
+    {
+        "title": "Titanic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Titanic",
+        "pubdate": "Fri, 14 Feb 2025 22:00:00 +0100"
+    },
+    {
+        "title": "Ferenc pápa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ferenc%20p%C3%A1pa",
+        "pubdate": "Fri, 14 Feb 2025 21:00:00 +0100"
+    },
+    {
+        "title": "Bologna–torino",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bologna%E2%80%93torino",
+        "pubdate": "Fri, 14 Feb 2025 22:00:00 +0100"
+    },
+    {
+        "title": "Ficzere Lajos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ficzere%20Lajos",
+        "pubdate": "Fri, 14 Feb 2025 15:00:00 +0100"
+    },
+    {
+        "title": "Nótár Mary",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#N%C3%B3t%C3%A1r%20Mary",
+        "pubdate": "Fri, 14 Feb 2025 22:00:00 +0100"
+    },
+    {
+        "title": "Szerelmes idézetek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szerelmes%20id%C3%A9zetek",
+        "pubdate": "Fri, 14 Feb 2025 10:00:00 +0100"
+    },
+    {
+        "title": "Földrengés",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#F%C3%B6ldreng%C3%A9s",
+        "pubdate": "Fri, 14 Feb 2025 00:00:00 +0100"
+    },
+    {
+        "title": "M30",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M30",
+        "pubdate": "Fri, 14 Feb 2025 21:00:00 +0100"
+    },
+    {
+        "title": "Fradi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Fradi",
         "pubdate": "Thu, 13 Feb 2025 18:00:00 +0100"
     },
     {
@@ -10,93 +95,8 @@
         "pubdate": "Thu, 13 Feb 2025 17:00:00 +0100"
     },
     {
-        "title": "Csoma Judit",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Csoma%20Judit",
-        "pubdate": "Thu, 13 Feb 2025 09:00:00 +0100"
-    },
-    {
-        "title": "München",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M%C3%BCnchen",
-        "pubdate": "Thu, 13 Feb 2025 14:00:00 +0100"
-    },
-    {
-        "title": "Az–galatasaray",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Az%E2%80%93galatasaray",
+        "title": "FTC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#FTC",
         "pubdate": "Thu, 13 Feb 2025 21:00:00 +0100"
-    },
-    {
-        "title": "M4sport",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M4sport",
-        "pubdate": "Thu, 13 Feb 2025 21:00:00 +0100"
-    },
-    {
-        "title": "Elon Musk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Elon%20Musk",
-        "pubdate": "Thu, 13 Feb 2025 13:00:00 +0100"
-    },
-    {
-        "title": "Hobo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hobo",
-        "pubdate": "Thu, 13 Feb 2025 17:00:00 +0100"
-    },
-    {
-        "title": "Avowed",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Avowed",
-        "pubdate": "Thu, 13 Feb 2025 10:00:00 +0100"
-    },
-    {
-        "title": "Pannonhalma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Pannonhalma",
-        "pubdate": "Thu, 13 Feb 2025 12:00:00 +0100"
-    },
-    {
-        "title": "Az amerikai Egyesült Államok védelmi minisztere",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Az%20amerikai%20Egyes%C3%BClt%20%C3%81llamok%20v%C3%A9delmi%20minisztere",
-        "pubdate": "Thu, 13 Feb 2025 15:00:00 +0100"
-    },
-    {
-        "title": "Porto–roma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Porto%E2%80%93roma",
-        "pubdate": "Thu, 13 Feb 2025 21:00:00 +0100"
-    },
-    {
-        "title": "Midtjylland–real SOCIEDAD",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Midtjylland%E2%80%93real%20SOCIEDAD",
-        "pubdate": "Thu, 13 Feb 2025 19:00:00 +0100"
-    },
-    {
-        "title": "Bridget Jones: Bolondulásig",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bridget%20Jones:%20Bolondul%C3%A1sig",
-        "pubdate": "Thu, 13 Feb 2025 06:00:00 +0100"
-    },
-    {
-        "title": "M4",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M4",
-        "pubdate": "Thu, 13 Feb 2025 21:00:00 +0100"
-    },
-    {
-        "title": "A szolgálólány meséje",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#A%20szolg%C3%A1l%C3%B3l%C3%A1ny%20mes%C3%A9je",
-        "pubdate": "Thu, 13 Feb 2025 20:00:00 +0100"
-    },
-    {
-        "title": "Szechenyi Bence",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szechenyi%20Bence",
-        "pubdate": "Thu, 13 Feb 2025 00:00:00 +0100"
-    },
-    {
-        "title": "Rost Andrea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Rost%20Andrea",
-        "pubdate": "Thu, 13 Feb 2025 15:00:00 +0100"
-    },
-    {
-        "title": "Aszteroida",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Aszteroida",
-        "pubdate": "Thu, 13 Feb 2025 19:00:00 +0100"
-    },
-    {
-        "title": "Magyar Péter Nagy Attila Tibor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Magyar%20P%C3%A9ter%20Nagy%20Attila%20Tibor",
-        "pubdate": "Thu, 13 Feb 2025 23:00:00 +0100"
     }
 ]

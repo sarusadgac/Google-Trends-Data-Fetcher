@@ -1,8 +1,13 @@
 [
     {
-        "title": "Valentine's Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Valentine's%20Day",
-        "pubdate": "Fri, 14 Feb 2025 02:00:00 +0200"
+        "title": "Brighton – Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Brighton%20%E2%80%93%20Chelsea",
+        "pubdate": "Sat, 15 Feb 2025 00:00:00 +0200"
+    },
+    {
+        "title": "Chernobyl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Chernobyl",
+        "pubdate": "Sat, 15 Feb 2025 02:00:00 +0200"
     },
     {
         "title": "Valentine's Day",
@@ -10,9 +15,44 @@
         "pubdate": "Fri, 14 Feb 2025 01:00:00 +0200"
     },
     {
+        "title": "Happy Valentine's Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Happy%20Valentine's%20Day",
+        "pubdate": "Fri, 14 Feb 2025 07:00:00 +0200"
+    },
+    {
+        "title": "Suomi usa 4 Nations",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Suomi%20usa%204%20Nations",
+        "pubdate": "Fri, 14 Feb 2025 04:00:00 +0200"
+    },
+    {
+        "title": "Tuomas Pöysti",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tuomas%20P%C3%B6ysti",
+        "pubdate": "Fri, 14 Feb 2025 18:00:00 +0200"
+    },
+    {
+        "title": "Valentine",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Valentine",
+        "pubdate": "Fri, 14 Feb 2025 13:00:00 +0200"
+    },
+    {
+        "title": "JD Vance",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#JD%20Vance",
+        "pubdate": "Fri, 14 Feb 2025 21:00:00 +0200"
+    },
+    {
+        "title": "Valentine's Day 2025",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Valentine's%20Day%202025",
+        "pubdate": "Fri, 14 Feb 2025 18:00:00 +0200"
+    },
+    {
         "title": "4 Nations",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#4%20Nations",
-        "pubdate": "Thu, 13 Feb 2025 07:00:00 +0200"
+        "pubdate": "Thu, 13 Feb 2025 08:00:00 +0200"
+    },
+    {
+        "title": "4 Nations Face-Off",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#4%20Nations%20Face-Off",
+        "pubdate": "Thu, 13 Feb 2025 06:00:00 +0200"
     },
     {
         "title": "Neste",
@@ -20,19 +60,19 @@
         "pubdate": "Thu, 13 Feb 2025 10:00:00 +0200"
     },
     {
-        "title": "Four Nations",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Four%20Nations",
-        "pubdate": "Thu, 13 Feb 2025 12:00:00 +0200"
-    },
-    {
-        "title": "Pete Hegseth",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Pete%20Hegseth",
-        "pubdate": "Thu, 13 Feb 2025 10:00:00 +0200"
+        "title": "WRC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#WRC",
+        "pubdate": "Thu, 13 Feb 2025 19:00:00 +0200"
     },
     {
         "title": "Avowed",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Avowed",
         "pubdate": "Thu, 13 Feb 2025 21:00:00 +0200"
+    },
+    {
+        "title": "Pete Hegseth",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Pete%20Hegseth",
+        "pubdate": "Thu, 13 Feb 2025 10:00:00 +0200"
     },
     {
         "title": "Premier League",
@@ -45,58 +85,18 @@
         "pubdate": "Thu, 13 Feb 2025 00:00:00 +0200"
     },
     {
-        "title": "WRC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#WRC",
-        "pubdate": "Thu, 13 Feb 2025 19:00:00 +0200"
+        "title": "Sidney Crosby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Sidney%20Crosby",
+        "pubdate": "Thu, 13 Feb 2025 18:00:00 +0200"
+    },
+    {
+        "title": "4nations",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#4nations",
+        "pubdate": "Thu, 13 Feb 2025 07:00:00 +0200"
     },
     {
         "title": "Tulsi Gabbard",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tulsi%20Gabbard",
         "pubdate": "Thu, 13 Feb 2025 13:00:00 +0200"
-    },
-    {
-        "title": "Lauri Markkanen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Lauri%20Markkanen",
-        "pubdate": "Thu, 13 Feb 2025 23:00:00 +0200"
-    },
-    {
-        "title": "4 Nations Face-Off",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#4%20Nations%20Face-Off",
-        "pubdate": "Wed, 12 Feb 2025 22:00:00 +0200"
-    },
-    {
-        "title": "Everton – Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Everton%20%E2%80%93%20Liverpool",
-        "pubdate": "Wed, 12 Feb 2025 22:00:00 +0200"
-    },
-    {
-        "title": "Belle Gibson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Belle%20Gibson",
-        "pubdate": "Wed, 12 Feb 2025 21:00:00 +0200"
-    },
-    {
-        "title": "Captain America: Brave New World",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Captain%20America:%20Brave%20New%20World",
-        "pubdate": "Wed, 12 Feb 2025 21:00:00 +0200"
-    },
-    {
-        "title": "Marc Fogel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Marc%20Fogel",
-        "pubdate": "Wed, 12 Feb 2025 21:00:00 +0200"
-    },
-    {
-        "title": "Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Champions%20League",
-        "pubdate": "Tue, 11 Feb 2025 04:00:00 +0200"
-    },
-    {
-        "title": "UCL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#UCL",
-        "pubdate": "Tue, 11 Feb 2025 23:00:00 +0200"
-    },
-    {
-        "title": "Nokia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Nokia",
-        "pubdate": "Mon, 10 Feb 2025 09:00:00 +0200"
     }
 ]
