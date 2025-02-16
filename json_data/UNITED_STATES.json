@@ -1,23 +1,68 @@
 [
     {
-        "title": "Eagles parade",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Eagles%20parade",
-        "pubdate": "Fri, 14 Feb 2025 04:00:00 -0800"
+        "title": "Premier League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Premier%20League",
+        "pubdate": "Sat, 15 Feb 2025 09:00:00 -0800"
     },
     {
-        "title": "Día de San Valentín",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#D%C3%ADa%20de%20San%20Valent%C3%ADn",
-        "pubdate": "Fri, 14 Feb 2025 05:00:00 -0800"
+        "title": "Alabama basketball",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Alabama%20basketball",
+        "pubdate": "Sat, 15 Feb 2025 10:00:00 -0800"
     },
     {
-        "title": "Valentine's Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Valentine's%20Day",
-        "pubdate": "Fri, 14 Feb 2025 06:00:00 -0800"
+        "title": "Earthquake",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Earthquake",
+        "pubdate": "Sat, 15 Feb 2025 03:00:00 -0800"
     },
     {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chelsea",
-        "pubdate": "Fri, 14 Feb 2025 13:00:00 -0800"
+        "title": "Man City vs Newcastle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Man%20City%20vs%20Newcastle",
+        "pubdate": "Sat, 15 Feb 2025 08:00:00 -0800"
+    },
+    {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Arsenal",
+        "pubdate": "Sat, 15 Feb 2025 07:00:00 -0800"
+    },
+    {
+        "title": "Purdue basketball",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Purdue%20basketball",
+        "pubdate": "Sat, 15 Feb 2025 17:00:00 -0800"
+    },
+    {
+        "title": "Luigi Mangione",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Luigi%20Mangione",
+        "pubdate": "Sat, 15 Feb 2025 11:00:00 -0800"
+    },
+    {
+        "title": "Arkansas basketball",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Arkansas%20basketball",
+        "pubdate": "Sat, 15 Feb 2025 11:00:00 -0800"
+    },
+    {
+        "title": "USA vs Canada hockey",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#USA%20vs%20Canada%20hockey",
+        "pubdate": "Sat, 15 Feb 2025 17:00:00 -0800"
+    },
+    {
+        "title": "Nirvana",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Nirvana",
+        "pubdate": "Sat, 15 Feb 2025 16:00:00 -0800"
+    },
+    {
+        "title": "Lorne Michaels",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Lorne%20Michaels",
+        "pubdate": "Sat, 15 Feb 2025 16:00:00 -0800"
+    },
+    {
+        "title": "Bayern Munich",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bayern%20Munich",
+        "pubdate": "Sat, 15 Feb 2025 15:00:00 -0800"
+    },
+    {
+        "title": "3-point contest 2025",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#3-point%20contest%202025",
+        "pubdate": "Sat, 15 Feb 2025 17:00:00 -0800"
     },
     {
         "title": "NBA All-Star Weekend",
@@ -25,78 +70,33 @@
         "pubdate": "Fri, 14 Feb 2025 02:00:00 -0800"
     },
     {
-        "title": "Chernobyl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chernobyl",
-        "pubdate": "Fri, 14 Feb 2025 07:00:00 -0800"
+        "title": "Ashley St. Clair",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ashley%20St.%20Clair",
+        "pubdate": "Fri, 14 Feb 2025 19:00:00 -0800"
     },
     {
-        "title": "Valentine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Valentine",
+        "title": "SNL50",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#SNL50",
+        "pubdate": "Fri, 14 Feb 2025 18:00:00 -0800"
+    },
+    {
+        "title": "Día de San Valentín",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#D%C3%ADa%20de%20San%20Valent%C3%ADn",
         "pubdate": "Fri, 14 Feb 2025 05:00:00 -0800"
     },
     {
-        "title": "St. Valentine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#St.%20Valentine",
+        "title": "Eagles parade",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Eagles%20parade",
+        "pubdate": "Fri, 14 Feb 2025 04:00:00 -0800"
+    },
+    {
+        "title": "Yellowjackets",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Yellowjackets",
         "pubdate": "Fri, 14 Feb 2025 08:00:00 -0800"
-    },
-    {
-        "title": "Yellowjackets Season 3",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Yellowjackets%20Season%203",
-        "pubdate": "Fri, 14 Feb 2025 08:00:00 -0800"
-    },
-    {
-        "title": "Valentine's Day card",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Valentine's%20Day%20card",
-        "pubdate": "Fri, 14 Feb 2025 06:00:00 -0800"
-    },
-    {
-        "title": "Backstreet Boys",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Backstreet%20Boys",
-        "pubdate": "Fri, 14 Feb 2025 10:00:00 -0800"
-    },
-    {
-        "title": "Dolly Parton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dolly%20Parton",
-        "pubdate": "Fri, 14 Feb 2025 11:00:00 -0800"
-    },
-    {
-        "title": "CUPID",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#CUPID",
-        "pubdate": "Fri, 14 Feb 2025 09:00:00 -0800"
-    },
-    {
-        "title": "Probationary federal employees",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Probationary%20federal%20employees",
-        "pubdate": "Fri, 14 Feb 2025 12:00:00 -0800"
-    },
-    {
-        "title": "JuJu Watkins",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#JuJu%20Watkins",
-        "pubdate": "Fri, 14 Feb 2025 15:00:00 -0800"
-    },
-    {
-        "title": "Valentine's Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Valentine's%20Day",
-        "pubdate": "Thu, 13 Feb 2025 22:00:00 -0800"
-    },
-    {
-        "title": "Happy Valentine's Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Happy%20Valentine's%20Day",
-        "pubdate": "Thu, 13 Feb 2025 11:00:00 -0800"
-    },
-    {
-        "title": "Emil Bove",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Emil%20Bove",
-        "pubdate": "Thu, 13 Feb 2025 15:00:00 -0800"
-    },
-    {
-        "title": "Aaron Rodgers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Aaron%20Rodgers",
-        "pubdate": "Thu, 13 Feb 2025 15:00:00 -0800"
     },
     {
         "title": "Kayaker swallowed by whale",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kayaker%20swallowed%20by%20whale",
-        "pubdate": "Thu, 13 Feb 2025 17:00:00 -0800"
+        "pubdate": "Fri, 14 Feb 2025 07:00:00 -0800"
     }
 ]
