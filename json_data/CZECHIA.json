@@ -1,5 +1,60 @@
 [
     {
+        "title": "HC Olomouc",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#HC%20Olomouc",
+        "pubdate": "Mon, 17 Feb 2025 00:00:00 +0100"
+    },
+    {
+        "title": "Slavia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Slavia",
+        "pubdate": "Sun, 16 Feb 2025 18:00:00 +0100"
+    },
+    {
+        "title": "Teplice – Plzeň",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Teplice%20%E2%80%93%20Plze%C5%88",
+        "pubdate": "Sun, 16 Feb 2025 15:00:00 +0100"
+    },
+    {
+        "title": "Liberec – Boleslav",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Liberec%20%E2%80%93%20Boleslav",
+        "pubdate": "Sun, 16 Feb 2025 16:00:00 +0100"
+    },
+    {
+        "title": "Christoph Heusgen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Christoph%20Heusgen",
+        "pubdate": "Sun, 16 Feb 2025 13:00:00 +0100"
+    },
+    {
+        "title": "Turecká vejce",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tureck%C3%A1%20vejce",
+        "pubdate": "Sun, 16 Feb 2025 17:00:00 +0100"
+    },
+    {
+        "title": "Juventus – Inter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Juventus%20%E2%80%93%20Inter",
+        "pubdate": "Sun, 16 Feb 2025 22:00:00 +0100"
+    },
+    {
+        "title": "AC Milán – Verona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#AC%20Mil%C3%A1n%20%E2%80%93%20Verona",
+        "pubdate": "Sun, 16 Feb 2025 01:00:00 +0100"
+    },
+    {
+        "title": "Zizians",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Zizians",
+        "pubdate": "Sun, 16 Feb 2025 23:00:00 +0100"
+    },
+    {
+        "title": "Eva Burešová",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Eva%20Bure%C5%A1ov%C3%A1",
+        "pubdate": "Sun, 16 Feb 2025 22:00:00 +0100"
+    },
+    {
+        "title": "Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Manchester%20United",
+        "pubdate": "Sun, 16 Feb 2025 20:00:00 +0100"
+    },
+    {
         "title": "Karviná – Sparta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Karvin%C3%A1%20%E2%80%93%20Sparta",
         "pubdate": "Sat, 15 Feb 2025 19:00:00 +0100"
@@ -10,24 +65,14 @@
         "pubdate": "Sat, 15 Feb 2025 18:00:00 +0100"
     },
     {
-        "title": "Olomouc – Pardubice",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Olomouc%20%E2%80%93%20Pardubice",
-        "pubdate": "Sat, 15 Feb 2025 13:00:00 +0100"
-    },
-    {
-        "title": "Daniel Krejčík",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Daniel%20Krej%C4%8D%C3%ADk",
-        "pubdate": "Sat, 15 Feb 2025 21:00:00 +0100"
-    },
-    {
         "title": "Dungeons and Dragons",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Dungeons%20and%20Dragons",
         "pubdate": "Sat, 15 Feb 2025 18:00:00 +0100"
     },
     {
-        "title": "Man City – Newcastle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Man%20City%20%E2%80%93%20Newcastle",
-        "pubdate": "Sat, 15 Feb 2025 16:00:00 +0100"
+        "title": "Premier League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Premier%20League",
+        "pubdate": "Sat, 15 Feb 2025 17:00:00 +0100"
     },
     {
         "title": "Slovácko – Dukla",
@@ -35,9 +80,9 @@
         "pubdate": "Sat, 15 Feb 2025 16:00:00 +0100"
     },
     {
-        "title": "Orko Vácha",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Orko%20V%C3%A1cha",
-        "pubdate": "Sat, 15 Feb 2025 12:00:00 +0100"
+        "title": "Kafuu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kafuu",
+        "pubdate": "Sat, 15 Feb 2025 20:00:00 +0100"
     },
     {
         "title": "West Ham – Brentford",
@@ -45,58 +90,13 @@
         "pubdate": "Sat, 15 Feb 2025 16:00:00 +0100"
     },
     {
+        "title": "Jana paulová",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jana%20paulov%C3%A1",
+        "pubdate": "Sat, 15 Feb 2025 10:00:00 +0100"
+    },
+    {
         "title": "Vietnam",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vietnam",
         "pubdate": "Sat, 15 Feb 2025 09:00:00 +0100"
-    },
-    {
-        "title": "Jaromír Jágr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jarom%C3%ADr%20J%C3%A1gr",
-        "pubdate": "Sat, 15 Feb 2025 15:00:00 +0100"
-    },
-    {
-        "title": "Jackpot",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jackpot",
-        "pubdate": "Sat, 15 Feb 2025 18:00:00 +0100"
-    },
-    {
-        "title": "Crystal Palace – Everton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Crystal%20Palace%20%E2%80%93%20Everton",
-        "pubdate": "Sat, 15 Feb 2025 21:00:00 +0100"
-    },
-    {
-        "title": "Dymytry",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Dymytry",
-        "pubdate": "Fri, 14 Feb 2025 22:00:00 +0100"
-    },
-    {
-        "title": "Jd Vance",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jd%20Vance",
-        "pubdate": "Fri, 14 Feb 2025 18:00:00 +0100"
-    },
-    {
-        "title": "Brighton – Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Brighton%20%E2%80%93%20Chelsea",
-        "pubdate": "Fri, 14 Feb 2025 21:00:00 +0100"
-    },
-    {
-        "title": "Girona – Getafe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Girona%20%E2%80%93%20Getafe",
-        "pubdate": "Fri, 14 Feb 2025 22:00:00 +0100"
-    },
-    {
-        "title": "Jesus Christ Superstar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jesus%20Christ%20Superstar",
-        "pubdate": "Fri, 14 Feb 2025 10:00:00 +0100"
-    },
-    {
-        "title": "Marilyn Manson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Marilyn%20Manson",
-        "pubdate": "Fri, 14 Feb 2025 16:00:00 +0100"
-    },
-    {
-        "title": "Lucie Benešová",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Lucie%20Bene%C5%A1ov%C3%A1",
-        "pubdate": "Fri, 14 Feb 2025 22:00:00 +0100"
     }
 ]
