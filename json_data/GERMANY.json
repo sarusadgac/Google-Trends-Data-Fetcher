@@ -1,43 +1,33 @@
 [
     {
-        "title": "RTL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#RTL",
+        "title": "Tarifverhandlungen öffentlicher Dienst",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tarifverhandlungen%20%C3%B6ffentlicher%20Dienst",
+        "pubdate": "Mon, 17 Feb 2025 06:00:00 +0100"
+    },
+    {
+        "title": "U18-Wahl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#U18-Wahl",
+        "pubdate": "Mon, 17 Feb 2025 19:00:00 +0100"
+    },
+    {
+        "title": "Habeck",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Habeck",
         "pubdate": "Sun, 16 Feb 2025 22:00:00 +0100"
     },
     {
-        "title": "HSV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#HSV",
+        "title": "Toter Pottwal Vor Sylt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Toter%20Pottwal%20Vor%20Sylt",
+        "pubdate": "Sun, 16 Feb 2025 22:00:00 +0100"
+    },
+    {
+        "title": "Werder Bremen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Werder%20Bremen",
+        "pubdate": "Sun, 16 Feb 2025 16:00:00 +0100"
+    },
+    {
+        "title": "Stefan Leitl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Stefan%20Leitl",
         "pubdate": "Sun, 16 Feb 2025 15:00:00 +0100"
-    },
-    {
-        "title": "Eintracht Frankfurt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eintracht%20Frankfurt",
-        "pubdate": "Sun, 16 Feb 2025 21:00:00 +0100"
-    },
-    {
-        "title": "Höcke",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#H%C3%B6cke",
-        "pubdate": "Sun, 16 Feb 2025 21:00:00 +0100"
-    },
-    {
-        "title": "Günther Jauch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#G%C3%BCnther%20Jauch",
-        "pubdate": "Sun, 16 Feb 2025 21:00:00 +0100"
-    },
-    {
-        "title": "Bundestagswahl Prognose",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bundestagswahl%20Prognose",
-        "pubdate": "Sun, 16 Feb 2025 10:00:00 +0100"
-    },
-    {
-        "title": "Villach",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Villach",
-        "pubdate": "Sat, 15 Feb 2025 21:00:00 +0100"
-    },
-    {
-        "title": "Gerhart Baum",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Gerhart%20Baum",
-        "pubdate": "Sat, 15 Feb 2025 15:00:00 +0100"
     },
     {
         "title": "St.Pauli",
@@ -98,5 +88,15 @@
         "title": "Grundgesetz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Grundgesetz",
         "pubdate": "Sun, 09 Feb 2025 21:00:00 +0100"
+    },
+    {
+        "title": "PlayStation Network",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#PlayStation%20Network",
+        "pubdate": "Sat, 08 Feb 2025 04:00:00 +0100"
+    },
+    {
+        "title": "Wahl-O-Mat 2025 Bundestagswahl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wahl-O-Mat%202025%20Bundestagswahl",
+        "pubdate": "Thu, 06 Feb 2025 09:00:00 +0100"
     }
 ]

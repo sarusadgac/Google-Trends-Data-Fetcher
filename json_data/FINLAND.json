@@ -1,33 +1,58 @@
 [
     {
-        "title": "Pam",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Pam",
-        "pubdate": "Sun, 16 Feb 2025 16:00:00 +0200"
+        "title": "Kevin Lankinen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Kevin%20Lankinen",
+        "pubdate": "Tue, 18 Feb 2025 00:00:00 +0200"
     },
     {
-        "title": "White Lotus season 3",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#White%20Lotus%20season%203",
+        "title": "Boston",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Boston",
+        "pubdate": "Mon, 17 Feb 2025 21:00:00 +0200"
+    },
+    {
+        "title": "Barcelona – Rayo Vallecano",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Barcelona%20%E2%80%93%20Rayo%20Vallecano",
+        "pubdate": "Mon, 17 Feb 2025 23:00:00 +0200"
+    },
+    {
+        "title": "Gabby Petito",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Gabby%20Petito",
+        "pubdate": "Mon, 17 Feb 2025 23:00:00 +0200"
+    },
+    {
+        "title": "Hitman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Hitman",
+        "pubdate": "Mon, 17 Feb 2025 23:00:00 +0200"
+    },
+    {
+        "title": "Muhsin Hendricks",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Muhsin%20Hendricks",
+        "pubdate": "Mon, 17 Feb 2025 13:00:00 +0200"
+    },
+    {
+        "title": "Crosby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Crosby",
+        "pubdate": "Mon, 17 Feb 2025 23:00:00 +0200"
+    },
+    {
+        "title": "Matinpalo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Matinpalo",
+        "pubdate": "Mon, 17 Feb 2025 23:00:00 +0200"
+    },
+    {
+        "title": "White Lotus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#White%20Lotus",
         "pubdate": "Sun, 16 Feb 2025 21:00:00 +0200"
     },
     {
-        "title": "Liverpool – Wolverhampton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Liverpool%20%E2%80%93%20Wolverhampton",
+        "title": "Sidney Crosby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Sidney%20Crosby",
+        "pubdate": "Sun, 16 Feb 2025 18:00:00 +0200"
+    },
+    {
+        "title": "Pam",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Pam",
         "pubdate": "Sun, 16 Feb 2025 16:00:00 +0200"
-    },
-    {
-        "title": "4Nations",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#4Nations",
-        "pubdate": "Sun, 16 Feb 2025 06:00:00 +0200"
-    },
-    {
-        "title": "Tottenham – manu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tottenham%20%E2%80%93%20manu",
-        "pubdate": "Sun, 16 Feb 2025 19:00:00 +0200"
-    },
-    {
-        "title": "Pandora",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Pandora",
-        "pubdate": "Sun, 16 Feb 2025 11:00:00 +0200"
     },
     {
         "title": "Kim Sae-ron",
@@ -35,14 +60,29 @@
         "pubdate": "Sun, 16 Feb 2025 21:00:00 +0200"
     },
     {
+        "title": "Tottenham – manu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tottenham%20%E2%80%93%20manu",
+        "pubdate": "Sun, 16 Feb 2025 19:00:00 +0200"
+    },
+    {
+        "title": "Liverpool – Wolverhampton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Liverpool%20%E2%80%93%20Wolverhampton",
+        "pubdate": "Sun, 16 Feb 2025 16:00:00 +0200"
+    },
+    {
+        "title": "Pandora",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Pandora",
+        "pubdate": "Sun, 16 Feb 2025 11:00:00 +0200"
+    },
+    {
+        "title": "Swingers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Swingers",
+        "pubdate": "Sun, 16 Feb 2025 22:00:00 +0200"
+    },
+    {
         "title": "Pelicans",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Pelicans",
         "pubdate": "Sun, 16 Feb 2025 14:00:00 +0200"
-    },
-    {
-        "title": "Sidney Crosby",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Sidney%20Crosby",
-        "pubdate": "Sun, 16 Feb 2025 18:00:00 +0200"
     },
     {
         "title": "4 Nations Face-Off",
@@ -55,48 +95,8 @@
         "pubdate": "Sat, 15 Feb 2025 22:00:00 +0200"
     },
     {
-        "title": "Ashley St Clair",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Ashley%20St%20Clair",
+        "title": "Shivon Zilis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Shivon%20Zilis",
         "pubdate": "Sat, 15 Feb 2025 13:00:00 +0200"
-    },
-    {
-        "title": "Premier League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Premier%20League",
-        "pubdate": "Sat, 15 Feb 2025 17:00:00 +0200"
-    },
-    {
-        "title": "The Gorge",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#The%20Gorge",
-        "pubdate": "Sat, 15 Feb 2025 11:00:00 +0200"
-    },
-    {
-        "title": "Eesti Laul 2025",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Eesti%20Laul%202025",
-        "pubdate": "Sat, 15 Feb 2025 20:00:00 +0200"
-    },
-    {
-        "title": "Manchester City – Newcastle United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Manchester%20City%20%E2%80%93%20Newcastle%20United",
-        "pubdate": "Sat, 15 Feb 2025 18:00:00 +0200"
-    },
-    {
-        "title": "Osasuna – Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Osasuna%20%E2%80%93%20Real%20Madrid",
-        "pubdate": "Sat, 15 Feb 2025 19:00:00 +0200"
-    },
-    {
-        "title": "Titanic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Titanic",
-        "pubdate": "Sat, 15 Feb 2025 22:00:00 +0200"
-    },
-    {
-        "title": "4 Nations suomi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#4%20Nations%20suomi",
-        "pubdate": "Sat, 15 Feb 2025 21:00:00 +0200"
-    },
-    {
-        "title": "Barkov",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Barkov",
-        "pubdate": "Sat, 15 Feb 2025 23:00:00 +0200"
     }
 ]

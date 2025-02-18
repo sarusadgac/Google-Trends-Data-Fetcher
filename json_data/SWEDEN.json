@@ -1,23 +1,33 @@
 [
     {
-        "title": "SHL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#SHL",
-        "pubdate": "Sun, 16 Feb 2025 00:00:00 +0100"
+        "title": "Arnor Sigurdsson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Arnor%20Sigurdsson",
+        "pubdate": "Tue, 18 Feb 2025 00:00:00 +0100"
     },
     {
-        "title": "Malmö FF mot Utsikten",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Malm%C3%B6%20FF%20mot%20Utsikten",
-        "pubdate": "Sun, 16 Feb 2025 14:00:00 +0100"
+        "title": "Explosion Hammarby sjöstad",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Explosion%20Hammarby%20sj%C3%B6stad",
+        "pubdate": "Mon, 17 Feb 2025 08:00:00 +0100"
     },
     {
-        "title": "IFK Göteborg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IFK%20G%C3%B6teborg",
-        "pubdate": "Sun, 16 Feb 2025 17:00:00 +0100"
+        "title": "Saab",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Saab",
+        "pubdate": "Mon, 17 Feb 2025 22:00:00 +0100"
     },
     {
-        "title": "Djurgården mot Sandviken",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Djurg%C3%A5rden%20mot%20Sandviken",
-        "pubdate": "Sun, 16 Feb 2025 18:00:00 +0100"
+        "title": "Häcken mot Öster",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#H%C3%A4cken%20mot%20%C3%96ster",
+        "pubdate": "Mon, 17 Feb 2025 22:00:00 +0100"
+    },
+    {
+        "title": "White Lotus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#White%20Lotus",
+        "pubdate": "Sun, 16 Feb 2025 21:00:00 +0100"
+    },
+    {
+        "title": "Ludvig Åberg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ludvig%20%C3%85berg",
+        "pubdate": "Sun, 16 Feb 2025 21:00:00 +0100"
     },
     {
         "title": "Elsie Johansson",
@@ -25,9 +35,9 @@
         "pubdate": "Sun, 16 Feb 2025 15:00:00 +0100"
     },
     {
-        "title": "Ludvig Åberg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ludvig%20%C3%85berg",
-        "pubdate": "Sun, 16 Feb 2025 21:00:00 +0100"
+        "title": "Malmö FF mot Utsikten",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Malm%C3%B6%20FF%20mot%20Utsikten",
+        "pubdate": "Sun, 16 Feb 2025 14:00:00 +0100"
     },
     {
         "title": "Hanna Öberg",
@@ -40,9 +50,34 @@
         "pubdate": "Sun, 16 Feb 2025 19:00:00 +0100"
     },
     {
-        "title": "Kim Sae-ron",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kim%20Sae-ron",
-        "pubdate": "Sun, 16 Feb 2025 18:00:00 +0100"
+        "title": "IFK Göteborg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IFK%20G%C3%B6teborg",
+        "pubdate": "Sun, 16 Feb 2025 17:00:00 +0100"
+    },
+    {
+        "title": "USA Kanada 4 Nations",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#USA%20Kanada%204%20Nations",
+        "pubdate": "Sun, 16 Feb 2025 15:00:00 +0100"
+    },
+    {
+        "title": "Djurgården",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Djurg%C3%A5rden",
+        "pubdate": "Sun, 16 Feb 2025 19:00:00 +0100"
+    },
+    {
+        "title": "Malmö FF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Malm%C3%B6%20FF",
+        "pubdate": "Sun, 16 Feb 2025 14:00:00 +0100"
+    },
+    {
+        "title": "Oddevold",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Oddevold",
+        "pubdate": "Sun, 16 Feb 2025 17:00:00 +0100"
+    },
+    {
+        "title": "DIF Fotboll",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#DIF%20Fotboll",
+        "pubdate": "Sun, 16 Feb 2025 20:00:00 +0100"
     },
     {
         "title": "Brynäs",
@@ -50,53 +85,18 @@
         "pubdate": "Sun, 16 Feb 2025 09:00:00 +0100"
     },
     {
-        "title": "Pension",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Pension",
-        "pubdate": "Sun, 16 Feb 2025 15:00:00 +0100"
-    },
-    {
-        "title": "The White Lotus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#The%20White%20Lotus",
+        "title": "Northvolt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Northvolt",
         "pubdate": "Sun, 16 Feb 2025 21:00:00 +0100"
     },
     {
-        "title": "Elfsborg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Elfsborg",
-        "pubdate": "Sun, 16 Feb 2025 19:00:00 +0100"
+        "title": "JD Vance tal i munchen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#JD%20Vance%20tal%20i%20munchen",
+        "pubdate": "Sun, 16 Feb 2025 20:00:00 +0100"
     },
     {
-        "title": "Skellefteå AIK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Skellefte%C3%A5%20AIK",
-        "pubdate": "Sun, 16 Feb 2025 00:00:00 +0100"
-    },
-    {
-        "title": "Muhsin Hendricks",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Muhsin%20Hendricks",
-        "pubdate": "Sun, 16 Feb 2025 22:00:00 +0100"
-    },
-    {
-        "title": "Kyle Alessandro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kyle%20Alessandro",
-        "pubdate": "Sun, 16 Feb 2025 18:00:00 +0100"
-    },
-    {
-        "title": "Svenska cupen matcher",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Svenska%20cupen%20matcher",
-        "pubdate": "Sun, 16 Feb 2025 13:00:00 +0100"
-    },
-    {
-        "title": "Greczula",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Greczula",
-        "pubdate": "Sat, 15 Feb 2025 17:00:00 +0100"
-    },
-    {
-        "title": "Eva rydberg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Eva%20rydberg",
-        "pubdate": "Sat, 15 Feb 2025 21:00:00 +0100"
-    },
-    {
-        "title": "Sanna Nielsen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sanna%20Nielsen",
-        "pubdate": "Sat, 15 Feb 2025 22:00:00 +0100"
+        "title": "Djurgården Sandviken",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Djurg%C3%A5rden%20Sandviken",
+        "pubdate": "Sun, 16 Feb 2025 20:00:00 +0100"
     }
 ]
