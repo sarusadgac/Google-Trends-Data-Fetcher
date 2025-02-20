@@ -1,13 +1,38 @@
 [
     {
+        "title": "Melody",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Melody",
+        "pubdate": "Thu, 20 Feb 2025 02:00:00 +0800"
+    },
+    {
+        "title": "王世堅",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E7%8E%8B%E4%B8%96%E5%A0%85",
+        "pubdate": "Thu, 20 Feb 2025 07:00:00 +0800"
+    },
+    {
+        "title": "北斗天后宮",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%8C%97%E6%96%97%E5%A4%A9%E5%90%8E%E5%AE%AE",
+        "pubdate": "Thu, 20 Feb 2025 07:00:00 +0800"
+    },
+    {
         "title": "孫生",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%AD%AB%E7%94%9F",
         "pubdate": "Wed, 19 Feb 2025 02:00:00 +0800"
     },
     {
-        "title": "郭艾倫",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%83%AD%E8%89%BE%E5%80%AB",
-        "pubdate": "Wed, 19 Feb 2025 01:00:00 +0800"
+        "title": "iPhone 16e",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#iPhone%2016e",
+        "pubdate": "Wed, 19 Feb 2025 12:00:00 +0800"
+    },
+    {
+        "title": "林青穀",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%9E%97%E9%9D%92%E7%A9%80",
+        "pubdate": "Wed, 19 Feb 2025 10:00:00 +0800"
+    },
+    {
+        "title": "陶朱隱園",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%99%B6%E6%9C%B1%E9%9A%B1%E5%9C%92",
+        "pubdate": "Wed, 19 Feb 2025 13:00:00 +0800"
     },
     {
         "title": "劉容嘉",
@@ -15,88 +40,63 @@
         "pubdate": "Wed, 19 Feb 2025 09:00:00 +0800"
     },
     {
-        "title": "陳妍希",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%99%B3%E5%A6%8D%E5%B8%8C",
-        "pubdate": "Tue, 18 Feb 2025 14:00:00 +0800"
+        "title": "Intel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Intel",
+        "pubdate": "Wed, 19 Feb 2025 11:00:00 +0800"
     },
     {
-        "title": "王大陸",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E7%8E%8B%E5%A4%A7%E9%99%B8",
-        "pubdate": "Tue, 18 Feb 2025 12:00:00 +0800"
+        "title": "燕九郎",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E7%87%95%E4%B9%9D%E9%83%8E",
+        "pubdate": "Wed, 19 Feb 2025 21:00:00 +0800"
     },
     {
-        "title": "劉彥澧",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%8A%89%E5%BD%A5%E6%BE%A7",
-        "pubdate": "Tue, 18 Feb 2025 11:00:00 +0800"
+        "title": "張震",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%BC%B5%E9%9C%87",
+        "pubdate": "Wed, 19 Feb 2025 15:00:00 +0800"
     },
     {
-        "title": "黃瑄",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%BB%83%E7%91%84",
-        "pubdate": "Tue, 18 Feb 2025 12:00:00 +0800"
+        "title": "吳倩蓮",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%90%B3%E5%80%A9%E8%93%AE",
+        "pubdate": "Wed, 19 Feb 2025 15:00:00 +0800"
     },
     {
-        "title": "台灣任天堂股份有限公司",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%8F%B0%E7%81%A3%E4%BB%BB%E5%A4%A9%E5%A0%82%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8",
-        "pubdate": "Tue, 18 Feb 2025 13:00:00 +0800"
+        "title": "李文英",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%9D%8E%E6%96%87%E8%8B%B1",
+        "pubdate": "Wed, 19 Feb 2025 14:00:00 +0800"
     },
     {
-        "title": "達美航空",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%81%94%E7%BE%8E%E8%88%AA%E7%A9%BA",
-        "pubdate": "Tue, 18 Feb 2025 10:00:00 +0800"
+        "title": "郭艾倫",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%83%AD%E8%89%BE%E5%80%AB",
+        "pubdate": "Wed, 19 Feb 2025 01:00:00 +0800"
     },
     {
-        "title": "李浚赫",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%9D%8E%E6%B5%9A%E8%B5%AB",
-        "pubdate": "Tue, 18 Feb 2025 19:00:00 +0800"
+        "title": "陳玉珍",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%99%B3%E7%8E%89%E7%8F%8D",
+        "pubdate": "Wed, 19 Feb 2025 19:00:00 +0800"
     },
     {
-        "title": "藥華藥",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%97%A5%E8%8F%AF%E8%97%A5",
-        "pubdate": "Tue, 18 Feb 2025 01:00:00 +0800"
+        "title": "王鶴棣",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E7%8E%8B%E9%B6%B4%E6%A3%A3",
+        "pubdate": "Wed, 19 Feb 2025 21:00:00 +0800"
     },
     {
-        "title": "黃少岑",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%BB%83%E5%B0%91%E5%B2%91",
-        "pubdate": "Tue, 18 Feb 2025 08:00:00 +0800"
+        "title": "車禍",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%BB%8A%E7%A6%8D",
+        "pubdate": "Wed, 19 Feb 2025 15:00:00 +0800"
     },
     {
-        "title": "趙麗穎",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%B6%99%E9%BA%97%E7%A9%8E",
-        "pubdate": "Tue, 18 Feb 2025 19:00:00 +0800"
+        "title": "新北大巨蛋",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%96%B0%E5%8C%97%E5%A4%A7%E5%B7%A8%E8%9B%8B",
+        "pubdate": "Wed, 19 Feb 2025 21:00:00 +0800"
     },
     {
-        "title": "小優",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%B0%8F%E5%84%AA",
-        "pubdate": "Tue, 18 Feb 2025 22:00:00 +0800"
+        "title": "INTC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#INTC",
+        "pubdate": "Wed, 19 Feb 2025 10:00:00 +0800"
     },
     {
-        "title": "台達電",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%8F%B0%E9%81%94%E9%9B%BB",
-        "pubdate": "Tue, 18 Feb 2025 13:00:00 +0800"
-    },
-    {
-        "title": "群創",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E7%BE%A4%E5%89%B5",
-        "pubdate": "Tue, 18 Feb 2025 11:00:00 +0800"
-    },
-    {
-        "title": "呂捷",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%91%82%E6%8D%B7",
-        "pubdate": "Tue, 18 Feb 2025 10:00:00 +0800"
-    },
-    {
-        "title": "昇陽半導體",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%98%87%E9%99%BD%E5%8D%8A%E5%B0%8E%E9%AB%94",
-        "pubdate": "Tue, 18 Feb 2025 16:00:00 +0800"
-    },
-    {
-        "title": "AJ哥",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#AJ%E5%93%A5",
-        "pubdate": "Tue, 18 Feb 2025 10:00:00 +0800"
-    },
-    {
-        "title": "雨水節氣",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%9B%A8%E6%B0%B4%E7%AF%80%E6%B0%A3",
-        "pubdate": "Tue, 18 Feb 2025 16:00:00 +0800"
+        "title": "智邦",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%99%BA%E9%82%A6",
+        "pubdate": "Wed, 19 Feb 2025 18:00:00 +0800"
     }
 ]

@@ -1,8 +1,53 @@
 [
     {
+        "title": "Apple",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Apple",
+        "pubdate": "Thu, 20 Feb 2025 00:00:00 +0100"
+    },
+    {
+        "title": "Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Manchester%20City",
+        "pubdate": "Thu, 20 Feb 2025 00:00:00 +0100"
+    },
+    {
+        "title": "Zelensky",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Zelensky",
+        "pubdate": "Thu, 20 Feb 2025 02:00:00 +0100"
+    },
+    {
+        "title": "PSV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV",
+        "pubdate": "Wed, 19 Feb 2025 21:00:00 +0100"
+    },
+    {
+        "title": "iPhone 16e",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#iPhone%2016e",
+        "pubdate": "Wed, 19 Feb 2025 18:00:00 +0100"
+    },
+    {
+        "title": "Van Persie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Van%20Persie",
+        "pubdate": "Wed, 19 Feb 2025 20:00:00 +0100"
+    },
+    {
+        "title": "Brand Sint Jansklooster",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Brand%20Sint%20Jansklooster",
+        "pubdate": "Wed, 19 Feb 2025 17:00:00 +0100"
+    },
+    {
+        "title": "Arbeidsongeschiktheid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Arbeidsongeschiktheid",
+        "pubdate": "Wed, 19 Feb 2025 17:00:00 +0100"
+    },
+    {
+        "title": "Philips",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Philips",
+        "pubdate": "Wed, 19 Feb 2025 15:00:00 +0100"
+    },
+    {
         "title": "Feyenoord",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord",
-        "pubdate": "Tue, 18 Feb 2025 07:00:00 +0100"
+        "pubdate": "Tue, 18 Feb 2025 19:00:00 +0100"
     },
     {
         "title": "Frits Bolkestein",
@@ -10,14 +55,9 @@
         "pubdate": "Tue, 18 Feb 2025 11:00:00 +0100"
     },
     {
-        "title": "Atalanta  Club Brugge",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Atalanta%20%20Club%20Brugge",
-        "pubdate": "Tue, 18 Feb 2025 22:00:00 +0100"
-    },
-    {
-        "title": "Linda de Mol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Linda%20de%20Mol",
-        "pubdate": "Tue, 18 Feb 2025 00:00:00 +0100"
+        "title": "Carranza",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Carranza",
+        "pubdate": "Tue, 18 Feb 2025 21:00:00 +0100"
     },
     {
         "title": "Vitesse",
@@ -58,45 +98,5 @@
         "title": "Ajax",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
         "pubdate": "Thu, 13 Feb 2025 19:00:00 +0100"
-    },
-    {
-        "title": "Feyenoord",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord",
-        "pubdate": "Tue, 11 Feb 2025 22:00:00 +0100"
-    },
-    {
-        "title": "Bosschaart",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bosschaart",
-        "pubdate": "Tue, 11 Feb 2025 15:00:00 +0100"
-    },
-    {
-        "title": "Rick Brandsteder",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Rick%20Brandsteder",
-        "pubdate": "Mon, 10 Feb 2025 12:00:00 +0100"
-    },
-    {
-        "title": "PSV Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV%20Juventus",
-        "pubdate": "Mon, 10 Feb 2025 22:00:00 +0100"
-    },
-    {
-        "title": "Kendrick Lamar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Kendrick%20Lamar",
-        "pubdate": "Mon, 10 Feb 2025 03:00:00 +0100"
-    },
-    {
-        "title": "Utrecht",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Utrecht",
-        "pubdate": "Mon, 10 Feb 2025 01:00:00 +0100"
-    },
-    {
-        "title": "Cambuur",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Cambuur",
-        "pubdate": "Mon, 10 Feb 2025 22:00:00 +0100"
-    },
-    {
-        "title": "PEC Zwolle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PEC%20Zwolle",
-        "pubdate": "Mon, 10 Feb 2025 02:00:00 +0100"
     }
 ]

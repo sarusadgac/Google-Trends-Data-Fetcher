@@ -1,13 +1,38 @@
 [
     {
-        "title": "FC Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FC%20Bayern",
-        "pubdate": "Tue, 18 Feb 2025 21:00:00 +0100"
+        "title": "BVB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#BVB",
+        "pubdate": "Thu, 20 Feb 2025 00:00:00 +0100"
     },
     {
-        "title": "Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayern",
-        "pubdate": "Tue, 18 Feb 2025 21:00:00 +0100"
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Real%20Madrid",
+        "pubdate": "Thu, 20 Feb 2025 00:00:00 +0100"
+    },
+    {
+        "title": "Apple",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Apple",
+        "pubdate": "Wed, 19 Feb 2025 18:00:00 +0100"
+    },
+    {
+        "title": "Hanau Anschlag",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hanau%20Anschlag",
+        "pubdate": "Wed, 19 Feb 2025 09:00:00 +0100"
+    },
+    {
+        "title": "Weltraumschrott",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Weltraumschrott",
+        "pubdate": "Wed, 19 Feb 2025 10:00:00 +0100"
+    },
+    {
+        "title": "Trump Ukraine",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Trump%20Ukraine",
+        "pubdate": "Wed, 19 Feb 2025 17:00:00 +0100"
+    },
+    {
+        "title": "Francesca Albanese",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Francesca%20Albanese",
+        "pubdate": "Wed, 19 Feb 2025 12:00:00 +0100"
     },
     {
         "title": "Continental",
@@ -73,30 +98,5 @@
         "title": "Donald Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Donald%20Trump",
         "pubdate": "Mon, 10 Feb 2025 19:00:00 +0100"
-    },
-    {
-        "title": "Berlinale",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Berlinale",
-        "pubdate": "Mon, 10 Feb 2025 10:00:00 +0100"
-    },
-    {
-        "title": "St. Pauli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#St.%20Pauli",
-        "pubdate": "Sun, 09 Feb 2025 20:00:00 +0100"
-    },
-    {
-        "title": "Grundgesetz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Grundgesetz",
-        "pubdate": "Sun, 09 Feb 2025 21:00:00 +0100"
-    },
-    {
-        "title": "PlayStation Network",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#PlayStation%20Network",
-        "pubdate": "Sat, 08 Feb 2025 04:00:00 +0100"
-    },
-    {
-        "title": "Wahl-O-Mat 2025 Bundestagswahl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wahl-O-Mat%202025%20Bundestagswahl",
-        "pubdate": "Thu, 06 Feb 2025 09:00:00 +0100"
     }
 ]
