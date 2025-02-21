@@ -1,17 +1,37 @@
 [
     {
-        "title": "BVB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#BVB",
-        "pubdate": "Thu, 20 Feb 2025 00:00:00 +0100"
+        "title": "Papst",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Papst",
+        "pubdate": "Thu, 20 Feb 2025 08:00:00 +0100"
     },
     {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Real%20Madrid",
-        "pubdate": "Thu, 20 Feb 2025 00:00:00 +0100"
+        "title": "Birkenstock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Birkenstock",
+        "pubdate": "Thu, 20 Feb 2025 13:00:00 +0100"
     },
     {
-        "title": "Apple",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Apple",
+        "title": "Heidenheim",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Heidenheim",
+        "pubdate": "Thu, 20 Feb 2025 20:00:00 +0100"
+    },
+    {
+        "title": "Mercedes-Benz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Mercedes-Benz",
+        "pubdate": "Thu, 20 Feb 2025 12:00:00 +0100"
+    },
+    {
+        "title": "Streik",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Streik",
+        "pubdate": "Thu, 20 Feb 2025 09:00:00 +0100"
+    },
+    {
+        "title": "Streik Freitag",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Streik%20Freitag",
+        "pubdate": "Thu, 20 Feb 2025 06:00:00 +0100"
+    },
+    {
+        "title": "iPhone 16e",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#iPhone%2016e",
         "pubdate": "Wed, 19 Feb 2025 18:00:00 +0100"
     },
     {
@@ -20,24 +40,14 @@
         "pubdate": "Wed, 19 Feb 2025 09:00:00 +0100"
     },
     {
-        "title": "Weltraumschrott",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Weltraumschrott",
-        "pubdate": "Wed, 19 Feb 2025 10:00:00 +0100"
-    },
-    {
         "title": "Trump Ukraine",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Trump%20Ukraine",
         "pubdate": "Wed, 19 Feb 2025 17:00:00 +0100"
     },
     {
-        "title": "Francesca Albanese",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Francesca%20Albanese",
-        "pubdate": "Wed, 19 Feb 2025 12:00:00 +0100"
-    },
-    {
-        "title": "Continental",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Continental",
-        "pubdate": "Tue, 18 Feb 2025 18:00:00 +0100"
+        "title": "Papst",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Papst",
+        "pubdate": "Tue, 18 Feb 2025 08:00:00 +0100"
     },
     {
         "title": "Horst Köhler",
@@ -88,15 +98,5 @@
         "title": "Trump putin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Trump%20putin",
         "pubdate": "Thu, 13 Feb 2025 01:00:00 +0100"
-    },
-    {
-        "title": "Bundestag",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bundestag",
-        "pubdate": "Tue, 11 Feb 2025 15:00:00 +0100"
-    },
-    {
-        "title": "Donald Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Donald%20Trump",
-        "pubdate": "Mon, 10 Feb 2025 19:00:00 +0100"
     }
 ]

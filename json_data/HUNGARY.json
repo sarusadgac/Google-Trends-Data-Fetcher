@@ -1,13 +1,48 @@
 [
     {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Real%20Madrid",
-        "pubdate": "Thu, 20 Feb 2025 00:00:00 +0100"
+        "title": "Galatasaray–az",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Galatasaray%E2%80%93az",
+        "pubdate": "Thu, 20 Feb 2025 19:00:00 +0100"
     },
     {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#PSG",
-        "pubdate": "Thu, 20 Feb 2025 00:00:00 +0100"
+        "title": "Puzsér",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Puzs%C3%A9r",
+        "pubdate": "Thu, 20 Feb 2025 17:00:00 +0100"
+    },
+    {
+        "title": "Sporting kc–inter Miami",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sporting%20kc%E2%80%93inter%20Miami",
+        "pubdate": "Thu, 20 Feb 2025 06:00:00 +0100"
+    },
+    {
+        "title": "Tüttő Kata",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#T%C3%BCtt%C5%91%20Kata",
+        "pubdate": "Thu, 20 Feb 2025 13:00:00 +0100"
+    },
+    {
+        "title": "Plzen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Plzen",
+        "pubdate": "Thu, 20 Feb 2025 23:00:00 +0100"
+    },
+    {
+        "title": "Robert De Niro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Robert%20De%20Niro",
+        "pubdate": "Thu, 20 Feb 2025 20:00:00 +0100"
+    },
+    {
+        "title": "Alföldi Róbert",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Alf%C3%B6ldi%20R%C3%B3bert",
+        "pubdate": "Thu, 20 Feb 2025 09:00:00 +0100"
+    },
+    {
+        "title": "Fcsb–paok",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Fcsb%E2%80%93paok",
+        "pubdate": "Thu, 20 Feb 2025 22:00:00 +0100"
+    },
+    {
+        "title": "Rihanna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Rihanna",
+        "pubdate": "Thu, 20 Feb 2025 12:00:00 +0100"
     },
     {
         "title": "Real madrid–manchester City",
@@ -15,8 +50,8 @@
         "pubdate": "Wed, 19 Feb 2025 21:00:00 +0100"
     },
     {
-        "title": "Aston villa–liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Aston%20villa%E2%80%93liverpool",
+        "title": "ASTON VILLA–LIVERPOOL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#ASTON%20VILLA%E2%80%93LIVERPOOL",
         "pubdate": "Wed, 19 Feb 2025 20:00:00 +0100"
     },
     {
@@ -25,14 +60,24 @@
         "pubdate": "Wed, 19 Feb 2025 18:00:00 +0100"
     },
     {
-        "title": "Dortmund–sporting",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Dortmund%E2%80%93sporting",
+        "title": "Ferenc pápa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ferenc%20p%C3%A1pa",
         "pubdate": "Wed, 19 Feb 2025 19:00:00 +0100"
+    },
+    {
+        "title": "Psv–juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Psv%E2%80%93juventus",
+        "pubdate": "Wed, 19 Feb 2025 21:00:00 +0100"
     },
     {
         "title": "Michele Morrone",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Michele%20Morrone",
         "pubdate": "Wed, 19 Feb 2025 23:00:00 +0100"
+    },
+    {
+        "title": "Cyndi Lauper",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Cyndi%20Lauper",
+        "pubdate": "Wed, 19 Feb 2025 20:00:00 +0100"
     },
     {
         "title": "Détár Enikő",
@@ -45,58 +90,13 @@
         "pubdate": "Wed, 19 Feb 2025 15:00:00 +0100"
     },
     {
-        "title": "RTL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#RTL",
-        "pubdate": "Wed, 19 Feb 2025 22:00:00 +0100"
-    },
-    {
-        "title": "Hadházy Ákos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hadh%C3%A1zy%20%C3%81kos",
-        "pubdate": "Wed, 19 Feb 2025 10:00:00 +0100"
-    },
-    {
-        "title": "Nicole Kidman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Nicole%20Kidman",
-        "pubdate": "Wed, 19 Feb 2025 14:00:00 +0100"
-    },
-    {
-        "title": "Zsuzsanna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Zsuzsanna",
+        "title": "Madeleine McCann",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Madeleine%20McCann",
         "pubdate": "Wed, 19 Feb 2025 12:00:00 +0100"
     },
     {
-        "title": "Magyar Kupa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Magyar%20Kupa",
-        "pubdate": "Wed, 19 Feb 2025 20:00:00 +0100"
-    },
-    {
-        "title": "Cynthia Erivo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Cynthia%20Erivo",
-        "pubdate": "Wed, 19 Feb 2025 19:00:00 +0100"
-    },
-    {
-        "title": "Sigma boy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sigma%20boy",
-        "pubdate": "Wed, 19 Feb 2025 20:00:00 +0100"
-    },
-    {
-        "title": "Lázár János",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#L%C3%A1z%C3%A1r%20J%C3%A1nos",
-        "pubdate": "Wed, 19 Feb 2025 08:00:00 +0100"
-    },
-    {
-        "title": "DVTK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#DVTK",
+        "title": "RTL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#RTL",
         "pubdate": "Wed, 19 Feb 2025 22:00:00 +0100"
-    },
-    {
-        "title": "Monica Bellucci",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Monica%20Bellucci",
-        "pubdate": "Wed, 19 Feb 2025 18:00:00 +0100"
-    },
-    {
-        "title": "Bogdányi Titanilla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bogd%C3%A1nyi%20Titanilla",
-        "pubdate": "Wed, 19 Feb 2025 13:00:00 +0100"
     }
 ]
