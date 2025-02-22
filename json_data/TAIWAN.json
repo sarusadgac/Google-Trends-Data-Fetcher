@@ -1,18 +1,48 @@
 [
     {
+        "title": "Bybit",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Bybit",
+        "pubdate": "Sat, 22 Feb 2025 01:00:00 +0800"
+    },
+    {
+        "title": "李俊昊",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%9D%8E%E4%BF%8A%E6%98%8A",
+        "pubdate": "Sat, 22 Feb 2025 00:00:00 +0800"
+    },
+    {
+        "title": "陳怡君",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%99%B3%E6%80%A1%E5%90%9B",
+        "pubdate": "Fri, 21 Feb 2025 13:00:00 +0800"
+    },
+    {
+        "title": "林維恩",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%9E%97%E7%B6%AD%E6%81%A9",
+        "pubdate": "Fri, 21 Feb 2025 21:00:00 +0800"
+    },
+    {
+        "title": "小優",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%B0%8F%E5%84%AA",
+        "pubdate": "Fri, 21 Feb 2025 22:00:00 +0800"
+    },
+    {
         "title": "楊大正",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%A5%8A%E5%A4%A7%E6%AD%A3",
         "pubdate": "Fri, 21 Feb 2025 00:00:00 +0800"
     },
     {
-        "title": "山東",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%B1%B1%E6%9D%B1",
-        "pubdate": "Fri, 21 Feb 2025 07:00:00 +0800"
+        "title": "朴春",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%9C%B4%E6%98%A5",
+        "pubdate": "Fri, 21 Feb 2025 20:00:00 +0800"
     },
     {
-        "title": "Palantir",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Palantir",
-        "pubdate": "Fri, 21 Feb 2025 00:00:00 +0800"
+        "title": "Mlb",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Mlb",
+        "pubdate": "Fri, 21 Feb 2025 18:00:00 +0800"
+    },
+    {
+        "title": "Pokemon GO",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Pokemon%20GO",
+        "pubdate": "Fri, 21 Feb 2025 16:00:00 +0800"
     },
     {
         "title": "血栓",
@@ -20,83 +50,53 @@
         "pubdate": "Fri, 21 Feb 2025 09:00:00 +0800"
     },
     {
-        "title": "威力彩",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%A8%81%E5%8A%9B%E5%BD%A9",
-        "pubdate": "Thu, 20 Feb 2025 21:00:00 +0800"
+        "title": "山東",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%B1%B1%E6%9D%B1",
+        "pubdate": "Fri, 21 Feb 2025 07:00:00 +0800"
     },
     {
-        "title": "林岱樺",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%9E%97%E5%B2%B1%E6%A8%BA",
-        "pubdate": "Thu, 20 Feb 2025 10:00:00 +0800"
+        "title": "臺雅集團",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%87%BA%E9%9B%85%E9%9B%86%E5%9C%98",
+        "pubdate": "Fri, 21 Feb 2025 15:00:00 +0800"
     },
     {
-        "title": "WBC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#WBC",
-        "pubdate": "Thu, 20 Feb 2025 20:00:00 +0800"
+        "title": "范瑋琪",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%8C%83%E7%91%8B%E7%90%AA",
+        "pubdate": "Fri, 21 Feb 2025 17:00:00 +0800"
     },
     {
-        "title": "亞洲盃資格賽",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E4%BA%9E%E6%B4%B2%E7%9B%83%E8%B3%87%E6%A0%BC%E8%B3%BD",
-        "pubdate": "Thu, 20 Feb 2025 19:00:00 +0800"
+        "title": "環隆科技",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E7%92%B0%E9%9A%86%E7%A7%91%E6%8A%80",
+        "pubdate": "Fri, 21 Feb 2025 11:00:00 +0800"
     },
     {
-        "title": "曹雅雯",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%9B%B9%E9%9B%85%E9%9B%AF",
-        "pubdate": "Thu, 20 Feb 2025 13:00:00 +0800"
+        "title": "CONVERSE",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#CONVERSE",
+        "pubdate": "Fri, 21 Feb 2025 21:00:00 +0800"
     },
     {
-        "title": "周渝民",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%91%A8%E6%B8%9D%E6%B0%91",
-        "pubdate": "Thu, 20 Feb 2025 18:00:00 +0800"
+        "title": "胡歌",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%83%A1%E6%AD%8C",
+        "pubdate": "Fri, 21 Feb 2025 21:00:00 +0800"
     },
     {
-        "title": "豪宅稅",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%B1%AA%E5%AE%85%E7%A8%85",
-        "pubdate": "Thu, 20 Feb 2025 17:00:00 +0800"
+        "title": "富士山",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%AF%8C%E5%A3%AB%E5%B1%B1",
+        "pubdate": "Fri, 21 Feb 2025 18:00:00 +0800"
     },
     {
-        "title": "開飯川食堂",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%96%8B%E9%A3%AF%E5%B7%9D%E9%A3%9F%E5%A0%82",
-        "pubdate": "Thu, 20 Feb 2025 16:00:00 +0800"
+        "title": "Palantir",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Palantir",
+        "pubdate": "Fri, 21 Feb 2025 00:00:00 +0800"
     },
     {
-        "title": "暨南大學",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%9A%A8%E5%8D%97%E5%A4%A7%E5%AD%B8",
-        "pubdate": "Thu, 20 Feb 2025 20:00:00 +0800"
+        "title": "川湖",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%B7%9D%E6%B9%96",
+        "pubdate": "Fri, 21 Feb 2025 14:00:00 +0800"
     },
     {
-        "title": "連珍冰棒",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%80%A3%E7%8F%8D%E5%86%B0%E6%A3%92",
-        "pubdate": "Thu, 20 Feb 2025 15:00:00 +0800"
-    },
-    {
-        "title": "公費流感疫苗",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%85%AC%E8%B2%BB%E6%B5%81%E6%84%9F%E7%96%AB%E8%8B%97",
-        "pubdate": "Thu, 20 Feb 2025 10:00:00 +0800"
-    },
-    {
-        "title": "BLACKPINK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#BLACKPINK",
-        "pubdate": "Thu, 20 Feb 2025 14:00:00 +0800"
-    },
-    {
-        "title": "華城",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%8F%AF%E5%9F%8E",
-        "pubdate": "Thu, 20 Feb 2025 13:00:00 +0800"
-    },
-    {
-        "title": "澤倫斯基",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%BE%A4%E5%80%AB%E6%96%AF%E5%9F%BA",
-        "pubdate": "Thu, 20 Feb 2025 15:00:00 +0800"
-    },
-    {
-        "title": "Apple Intelligence",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Apple%20Intelligence",
-        "pubdate": "Thu, 20 Feb 2025 17:00:00 +0800"
-    },
-    {
-        "title": "大倉久和",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%A4%A7%E5%80%89%E4%B9%85%E5%92%8C",
-        "pubdate": "Thu, 20 Feb 2025 17:00:00 +0800"
+        "title": "籃球",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E7%B1%83%E7%90%83",
+        "pubdate": "Fri, 21 Feb 2025 12:00:00 +0800"
     }
 ]

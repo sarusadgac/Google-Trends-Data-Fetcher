@@ -1,28 +1,93 @@
 [
     {
-        "title": "Roma vs Porto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Roma%20vs%20Porto",
-        "pubdate": "Thu, 20 Feb 2025 14:00:00 +0300"
+        "title": "Victor Wembanyama",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Victor%20Wembanyama",
+        "pubdate": "Sat, 22 Feb 2025 00:00:00 +0300"
     },
     {
-        "title": "Pi Coin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Pi%20Coin",
-        "pubdate": "Thu, 20 Feb 2025 14:00:00 +0300"
+        "title": "Chebukati",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Chebukati",
+        "pubdate": "Fri, 21 Feb 2025 10:00:00 +0300"
     },
     {
-        "title": "Sporting KC vs Inter Miami",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Sporting%20KC%20vs%20Inter%20Miami",
-        "pubdate": "Thu, 20 Feb 2025 07:00:00 +0300"
+        "title": "Leicester City vs Brentford",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Leicester%20City%20vs%20Brentford",
+        "pubdate": "Fri, 21 Feb 2025 15:00:00 +0300"
     },
     {
-        "title": "Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Juventus",
-        "pubdate": "Thu, 20 Feb 2025 01:00:00 +0300"
+        "title": "Europa League draw",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Europa%20League%20draw",
+        "pubdate": "Fri, 21 Feb 2025 16:00:00 +0300"
     },
     {
-        "title": "Bangladesh vs India",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Bangladesh%20vs%20India",
-        "pubdate": "Thu, 20 Feb 2025 13:00:00 +0300"
+        "title": "JKIA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#JKIA",
+        "pubdate": "Fri, 21 Feb 2025 21:00:00 +0300"
+    },
+    {
+        "title": "Breaking news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Breaking%20news",
+        "pubdate": "Fri, 21 Feb 2025 10:00:00 +0300"
+    },
+    {
+        "title": "Europa Conference League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Europa%20Conference%20League",
+        "pubdate": "Fri, 21 Feb 2025 00:00:00 +0300"
+    },
+    {
+        "title": "PI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#PI",
+        "pubdate": "Fri, 21 Feb 2025 01:00:00 +0300"
+    },
+    {
+        "title": "JKIA Fire today",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#JKIA%20Fire%20today",
+        "pubdate": "Fri, 21 Feb 2025 22:00:00 +0300"
+    },
+    {
+        "title": "Trail Blazers vs Lakers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Trail%20Blazers%20vs%20Lakers",
+        "pubdate": "Fri, 21 Feb 2025 09:00:00 +0300"
+    },
+    {
+        "title": "Bristol City vs Middlesbrough",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Bristol%20City%20vs%20Middlesbrough",
+        "pubdate": "Fri, 21 Feb 2025 22:00:00 +0300"
+    },
+    {
+        "title": "Kash Patel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Kash%20Patel",
+        "pubdate": "Fri, 21 Feb 2025 11:00:00 +0300"
+    },
+    {
+        "title": "Treason",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Treason",
+        "pubdate": "Fri, 21 Feb 2025 18:00:00 +0300"
+    },
+    {
+        "title": "Burnley",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Burnley",
+        "pubdate": "Fri, 21 Feb 2025 21:00:00 +0300"
+    },
+    {
+        "title": "Everton vs Man United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Everton%20vs%20Man%20United",
+        "pubdate": "Fri, 21 Feb 2025 18:00:00 +0300"
+    },
+    {
+        "title": "Reacher",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Reacher",
+        "pubdate": "Fri, 21 Feb 2025 09:00:00 +0300"
+    },
+    {
+        "title": "South Africa vs Afghanistan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#South%20Africa%20vs%20Afghanistan",
+        "pubdate": "Fri, 21 Feb 2025 17:00:00 +0300"
+    },
+    {
+        "title": "Pope Francis latest news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Pope%20Francis%20latest%20news",
+        "pubdate": "Fri, 21 Feb 2025 07:00:00 +0300"
     },
     {
         "title": "Champions League draw",
@@ -30,73 +95,8 @@
         "pubdate": "Thu, 20 Feb 2025 15:00:00 +0300"
     },
     {
-        "title": "Real Betis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Real%20Betis",
-        "pubdate": "Thu, 20 Feb 2025 23:00:00 +0300"
-    },
-    {
-        "title": "Man City vs Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Man%20City%20vs%20Liverpool",
-        "pubdate": "Thu, 20 Feb 2025 13:00:00 +0300"
-    },
-    {
-        "title": "Inter Miami",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Inter%20Miami",
-        "pubdate": "Thu, 20 Feb 2025 09:00:00 +0300"
-    },
-    {
-        "title": "Football live",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Football%20live",
-        "pubdate": "Thu, 20 Feb 2025 01:00:00 +0300"
-    },
-    {
-        "title": "Galatasaray",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Galatasaray",
-        "pubdate": "Thu, 20 Feb 2025 23:00:00 +0300"
-    },
-    {
-        "title": "Bitget",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Bitget",
-        "pubdate": "Thu, 20 Feb 2025 17:00:00 +0300"
-    },
-    {
-        "title": "Zero Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Zero%20Day",
-        "pubdate": "Thu, 20 Feb 2025 23:00:00 +0300"
-    },
-    {
-        "title": "Gor Mahia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Gor%20Mahia",
-        "pubdate": "Thu, 20 Feb 2025 21:00:00 +0300"
-    },
-    {
-        "title": "Real Madrid vs Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Real%20Madrid%20vs%20Man%20City",
-        "pubdate": "Wed, 19 Feb 2025 23:00:00 +0300"
-    },
-    {
-        "title": "Aston Villa vs Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Aston%20Villa%20vs%20Liverpool",
-        "pubdate": "Wed, 19 Feb 2025 08:00:00 +0300"
-    },
-    {
-        "title": "PSG vs Brest",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#PSG%20vs%20Brest",
-        "pubdate": "Wed, 19 Feb 2025 23:00:00 +0300"
-    },
-    {
-        "title": "iPhone 16e",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#iPhone%2016e",
-        "pubdate": "Wed, 19 Feb 2025 23:00:00 +0300"
-    },
-    {
-        "title": "Dortmund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Dortmund",
-        "pubdate": "Wed, 19 Feb 2025 20:00:00 +0300"
-    },
-    {
-        "title": "ASAP Rocky",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#ASAP%20Rocky",
-        "pubdate": "Wed, 19 Feb 2025 11:00:00 +0300"
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#PSG",
+        "pubdate": "Thu, 20 Feb 2025 02:00:00 +0300"
     }
 ]
