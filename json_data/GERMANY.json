@@ -1,43 +1,13 @@
 [
     {
-        "title": "Freiburg – Werder Bremen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Freiburg%20%E2%80%93%20Werder%20Bremen",
-        "pubdate": "Fri, 21 Feb 2025 20:00:00 +0100"
+        "title": "Vatikan Papst Franziskus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Vatikan%20Papst%20Franziskus",
+        "pubdate": "Sun, 23 Feb 2025 00:00:00 +0100"
     },
     {
-        "title": "HSV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#HSV",
-        "pubdate": "Fri, 21 Feb 2025 19:00:00 +0100"
-    },
-    {
-        "title": "Berlin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Berlin",
-        "pubdate": "Fri, 21 Feb 2025 22:00:00 +0100"
-    },
-    {
-        "title": "Hertha BSC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hertha%20BSC",
-        "pubdate": "Fri, 21 Feb 2025 20:00:00 +0100"
-    },
-    {
-        "title": "Lilium",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Lilium",
-        "pubdate": "Fri, 21 Feb 2025 18:00:00 +0100"
-    },
-    {
-        "title": "DFB-Frauen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Frauen",
-        "pubdate": "Fri, 21 Feb 2025 23:00:00 +0100"
-    },
-    {
-        "title": "Hertha",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hertha",
-        "pubdate": "Fri, 21 Feb 2025 19:00:00 +0100"
-    },
-    {
-        "title": "Champions-League-Auslosung",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Champions-League-Auslosung",
-        "pubdate": "Thu, 20 Feb 2025 09:00:00 +0100"
+        "title": "Guirassy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Guirassy",
+        "pubdate": "Sun, 23 Feb 2025 00:00:00 +0100"
     },
     {
         "title": "Donald Trump",
@@ -48,16 +18,6 @@
         "title": "Streik",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Streik",
         "pubdate": "Thu, 20 Feb 2025 09:00:00 +0100"
-    },
-    {
-        "title": "Mercedes-Benz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Mercedes-Benz",
-        "pubdate": "Thu, 20 Feb 2025 12:00:00 +0100"
-    },
-    {
-        "title": "James Bond",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#James%20Bond",
-        "pubdate": "Thu, 20 Feb 2025 21:00:00 +0100"
     },
     {
         "title": "Hanau Anschlag",
@@ -98,5 +58,45 @@
         "title": "Augsburg – RB Leipzig",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Augsburg%20%E2%80%93%20RB%20Leipzig",
         "pubdate": "Fri, 14 Feb 2025 20:00:00 +0100"
+    },
+    {
+        "title": "Vance",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Vance",
+        "pubdate": "Fri, 14 Feb 2025 13:00:00 +0100"
+    },
+    {
+        "title": "Franziska Preuß",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Franziska%20Preu%C3%9F",
+        "pubdate": "Fri, 14 Feb 2025 20:00:00 +0100"
+    },
+    {
+        "title": "München",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#M%C3%BCnchen",
+        "pubdate": "Thu, 13 Feb 2025 12:00:00 +0100"
+    },
+    {
+        "title": "Sicherheitskonferenz München",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sicherheitskonferenz%20M%C3%BCnchen",
+        "pubdate": "Thu, 13 Feb 2025 13:00:00 +0100"
+    },
+    {
+        "title": "Trump putin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Trump%20putin",
+        "pubdate": "Thu, 13 Feb 2025 01:00:00 +0100"
+    },
+    {
+        "title": "Bundestag",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bundestag",
+        "pubdate": "Tue, 11 Feb 2025 15:00:00 +0100"
+    },
+    {
+        "title": "Donald Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Donald%20Trump",
+        "pubdate": "Mon, 10 Feb 2025 19:00:00 +0100"
+    },
+    {
+        "title": "Berlinale",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Berlinale",
+        "pubdate": "Mon, 10 Feb 2025 10:00:00 +0100"
     }
 ]
