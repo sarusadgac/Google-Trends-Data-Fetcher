@@ -1,13 +1,58 @@
 [
     {
+        "title": "Cagliari vs Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Cagliari%20vs%20Juventus",
+        "pubdate": "Mon, 24 Feb 2025 03:00:00 +0700"
+    },
+    {
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#PSG",
+        "pubdate": "Mon, 24 Feb 2025 06:00:00 +0700"
+    },
+    {
+        "title": "Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Bayern",
+        "pubdate": "Mon, 24 Feb 2025 07:00:00 +0700"
+    },
+    {
+        "title": "Getafe vs Real Betis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Getafe%20vs%20Real%20Betis",
+        "pubdate": "Mon, 24 Feb 2025 02:00:00 +0700"
+    },
+    {
+        "title": "Man City vs Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Man%20City%20vs%20Liverpool",
+        "pubdate": "Sun, 23 Feb 2025 20:00:00 +0700"
+    },
+    {
         "title": "Las Palmas vs Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Las%20Palmas%20vs%20Barcelona",
         "pubdate": "Sun, 23 Feb 2025 03:00:00 +0700"
     },
     {
-        "title": "Aston Villa vs Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Aston%20Villa%20vs%20Chelsea",
+        "title": "PSM Makassar vs Persija Jakarta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#PSM%20Makassar%20vs%20Persija%20Jakarta",
+        "pubdate": "Sun, 23 Feb 2025 15:00:00 +0700"
+    },
+    {
+        "title": "Aston Villa Vs Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Aston%20Villa%20Vs%20Chelsea",
         "pubdate": "Sun, 23 Feb 2025 00:00:00 +0700"
+    },
+    {
+        "title": "Newcastle vs Nottingham Forest",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Newcastle%20vs%20Nottingham%20Forest",
+        "pubdate": "Sun, 23 Feb 2025 21:00:00 +0700"
+    },
+    {
+        "title": "Como vs Napoli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Como%20vs%20Napoli",
+        "pubdate": "Sun, 23 Feb 2025 18:00:00 +0700"
+    },
+    {
+        "title": "Inter Miami vs New York City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Inter%20Miami%20vs%20New%20York%20City",
+        "pubdate": "Sun, 23 Feb 2025 08:00:00 +0700"
     },
     {
         "title": "Torino vs Milan",
@@ -15,14 +60,29 @@
         "pubdate": "Sun, 23 Feb 2025 00:00:00 +0700"
     },
     {
-        "title": "Inter vs Genoa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Inter%20vs%20Genoa",
+        "title": "Malut United vs PSS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Malut%20United%20vs%20PSS",
+        "pubdate": "Sun, 23 Feb 2025 19:00:00 +0700"
+    },
+    {
+        "title": "Inter Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Inter%20Milan",
         "pubdate": "Sun, 23 Feb 2025 01:00:00 +0700"
     },
     {
-        "title": "Beterbiev vs Bivol 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Beterbiev%20vs%20Bivol%202",
-        "pubdate": "Sun, 23 Feb 2025 05:00:00 +0700"
+        "title": "Libur awal puasa 2025",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Libur%20awal%20puasa%202025",
+        "pubdate": "Sun, 23 Feb 2025 23:00:00 +0700"
+    },
+    {
+        "title": "Lakers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Lakers",
+        "pubdate": "Sun, 23 Feb 2025 13:00:00 +0700"
+    },
+    {
+        "title": "Madrid vs Girona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Madrid%20vs%20Girona",
+        "pubdate": "Sat, 22 Feb 2025 23:00:00 +0700"
     },
     {
         "title": "Everton vs Man utd",
@@ -32,71 +92,11 @@
     {
         "title": "Persib Bandung vs Madura United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Persib%20Bandung%20vs%20Madura%20United",
-        "pubdate": "Sat, 22 Feb 2025 09:00:00 +0700"
+        "pubdate": "Sat, 22 Feb 2025 15:00:00 +0700"
     },
     {
         "title": "Al-Nassr vs al-ettifaq",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Al-Nassr%20vs%20al-ettifaq",
         "pubdate": "Sat, 22 Feb 2025 00:00:00 +0700"
-    },
-    {
-        "title": "Arsenal vs West Ham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Arsenal%20vs%20West%20Ham",
-        "pubdate": "Sat, 22 Feb 2025 22:00:00 +0700"
-    },
-    {
-        "title": "Venezia vs Lazio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Venezia%20vs%20Lazio",
-        "pubdate": "Sat, 22 Feb 2025 21:00:00 +0700"
-    },
-    {
-        "title": "Persita vs Borneo FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Persita%20vs%20Borneo%20FC",
-        "pubdate": "Sat, 22 Feb 2025 15:00:00 +0700"
-    },
-    {
-        "title": "Joey Pelupessy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Joey%20Pelupessy",
-        "pubdate": "Sat, 22 Feb 2025 18:00:00 +0700"
-    },
-    {
-        "title": "Banjir di Kota Bandar Lampung",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Banjir%20di%20Kota%20Bandar%20Lampung",
-        "pubdate": "Sat, 22 Feb 2025 23:00:00 +0700"
-    },
-    {
-        "title": "Buried Hearts",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Buried%20Hearts",
-        "pubdate": "Sat, 22 Feb 2025 12:00:00 +0700"
-    },
-    {
-        "title": "Madrid vs Girona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Madrid%20vs%20Girona",
-        "pubdate": "Sat, 22 Feb 2025 23:00:00 +0700"
-    },
-    {
-        "title": "Lirik lagu Bayar Bayar band Sukatani",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Lirik%20lagu%20Bayar%20Bayar%20band%20Sukatani",
-        "pubdate": "Sat, 22 Feb 2025 12:00:00 +0700"
-    },
-    {
-        "title": "Leicester",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Leicester",
-        "pubdate": "Sat, 22 Feb 2025 04:00:00 +0700"
-    },
-    {
-        "title": "Benfica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Benfica",
-        "pubdate": "Sat, 22 Feb 2025 11:00:00 +0700"
-    },
-    {
-        "title": "Lecce",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Lecce",
-        "pubdate": "Sat, 22 Feb 2025 05:00:00 +0700"
-    },
-    {
-        "title": "Bybit",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Bybit",
-        "pubdate": "Sat, 22 Feb 2025 11:00:00 +0700"
     }
 ]

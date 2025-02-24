@@ -1,48 +1,43 @@
 [
     {
-        "title": "Feyenoord  Almere",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord%20%20Almere",
-        "pubdate": "Sat, 22 Feb 2025 20:00:00 +0100"
+        "title": "Hans van den Broek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Hans%20van%20den%20Broek",
+        "pubdate": "Mon, 24 Feb 2025 01:00:00 +0100"
     },
     {
-        "title": "Jamal Ben Saddik",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jamal%20Ben%20Saddik",
-        "pubdate": "Sat, 22 Feb 2025 17:00:00 +0100"
+        "title": "Ajax Go Ahead Eagles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax%20Go%20Ahead%20Eagles",
+        "pubdate": "Sun, 23 Feb 2025 13:00:00 +0100"
     },
     {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Arsenal",
-        "pubdate": "Sat, 22 Feb 2025 11:00:00 +0100"
+        "title": "AZ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AZ",
+        "pubdate": "Sun, 23 Feb 2025 19:00:00 +0100"
     },
     {
-        "title": "Amalia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Amalia",
-        "pubdate": "Sat, 22 Feb 2025 16:00:00 +0100"
+        "title": "ADO Den Haag",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#ADO%20Den%20Haag",
+        "pubdate": "Sun, 23 Feb 2025 18:00:00 +0100"
     },
     {
-        "title": "Faber",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Faber",
-        "pubdate": "Sat, 22 Feb 2025 00:00:00 +0100"
+        "title": "AfD",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AfD",
+        "pubdate": "Sat, 22 Feb 2025 23:00:00 +0100"
+    },
+    {
+        "title": "Ben Saddik",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ben%20Saddik",
+        "pubdate": "Sat, 22 Feb 2025 21:00:00 +0100"
+    },
+    {
+        "title": "Lucas perez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Lucas%20perez",
+        "pubdate": "Sat, 22 Feb 2025 15:00:00 +0100"
     },
     {
         "title": "Paus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Paus",
         "pubdate": "Sat, 22 Feb 2025 23:00:00 +0100"
-    },
-    {
-        "title": "Victor Reinier",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Victor%20Reinier",
-        "pubdate": "Fri, 21 Feb 2025 14:00:00 +0100"
-    },
-    {
-        "title": "Glory",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Glory",
-        "pubdate": "Fri, 21 Feb 2025 22:00:00 +0100"
-    },
-    {
-        "title": "Spoorloos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Spoorloos",
-        "pubdate": "Fri, 21 Feb 2025 22:00:00 +0100"
     },
     {
         "title": "FC Twente",
@@ -98,5 +93,10 @@
         "title": "Valentijnsdag",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Valentijnsdag",
         "pubdate": "Fri, 14 Feb 2025 01:00:00 +0100"
+    },
+    {
+        "title": "Schaatsen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Schaatsen",
+        "pubdate": "Fri, 14 Feb 2025 18:00:00 +0100"
     }
 ]
