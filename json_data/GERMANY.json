@@ -1,18 +1,58 @@
 [
     {
+        "title": "Roberta Flack",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Roberta%20Flack",
+        "pubdate": "Mon, 24 Feb 2025 18:00:00 +0100"
+    },
+    {
+        "title": "NDR",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#NDR",
+        "pubdate": "Mon, 24 Feb 2025 15:00:00 +0100"
+    },
+    {
+        "title": "MDR",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#MDR",
+        "pubdate": "Mon, 24 Feb 2025 09:00:00 +0100"
+    },
+    {
+        "title": "Leipzig",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Leipzig",
+        "pubdate": "Mon, 24 Feb 2025 13:00:00 +0100"
+    },
+    {
+        "title": "Julia Klöckner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Julia%20Kl%C3%B6ckner",
+        "pubdate": "Mon, 24 Feb 2025 17:00:00 +0100"
+    },
+    {
+        "title": "BSW",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#BSW",
+        "pubdate": "Sun, 23 Feb 2025 09:00:00 +0100"
+    },
+    {
         "title": "Die Linke",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Die%20Linke",
         "pubdate": "Sun, 23 Feb 2025 14:00:00 +0100"
     },
     {
-        "title": "Bayern – Eintracht Frankfurt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayern%20%E2%80%93%20Eintracht%20Frankfurt",
-        "pubdate": "Sun, 23 Feb 2025 15:00:00 +0100"
+        "title": "Grüne",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Gr%C3%BCne",
+        "pubdate": "Sun, 23 Feb 2025 13:00:00 +0100"
     },
     {
-        "title": "Christian Lindner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Christian%20Lindner",
-        "pubdate": "Sun, 23 Feb 2025 20:00:00 +0100"
+        "title": "Lindner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Lindner",
+        "pubdate": "Sun, 23 Feb 2025 12:00:00 +0100"
+    },
+    {
+        "title": "SPD",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#SPD",
+        "pubdate": "Sun, 23 Feb 2025 11:00:00 +0100"
+    },
+    {
+        "title": "CDU",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#CDU",
+        "pubdate": "Sun, 23 Feb 2025 11:00:00 +0100"
     },
     {
         "title": "Papst Franziskus",
@@ -20,14 +60,14 @@
         "pubdate": "Sun, 23 Feb 2025 10:00:00 +0100"
     },
     {
-        "title": "Wahlbeteiligung",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wahlbeteiligung",
-        "pubdate": "Sun, 23 Feb 2025 13:00:00 +0100"
+        "title": "Klingbeil",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Klingbeil",
+        "pubdate": "Sun, 23 Feb 2025 23:00:00 +0100"
     },
     {
-        "title": "SSW",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#SSW",
-        "pubdate": "Sun, 23 Feb 2025 19:00:00 +0100"
+        "title": "Ergebnis Bundestagswahl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ergebnis%20Bundestagswahl",
+        "pubdate": "Sun, 23 Feb 2025 23:00:00 +0100"
     },
     {
         "title": "Bundestag",
@@ -35,68 +75,28 @@
         "pubdate": "Sun, 23 Feb 2025 13:00:00 +0100"
     },
     {
-        "title": "VfB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VfB",
+        "title": "Hessenschau",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hessenschau",
         "pubdate": "Sun, 23 Feb 2025 21:00:00 +0100"
     },
     {
-        "title": "Antifa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Antifa",
-        "pubdate": "Sun, 23 Feb 2025 15:00:00 +0100"
+        "title": "Bundestagwahl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bundestagwahl",
+        "pubdate": "Sun, 23 Feb 2025 20:00:00 +0100"
     },
     {
-        "title": "Wahl ticker",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wahl%20ticker",
-        "pubdate": "Sun, 23 Feb 2025 17:00:00 +0100"
+        "title": "SWR",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#SWR",
+        "pubdate": "Sun, 23 Feb 2025 22:00:00 +0100"
     },
     {
-        "title": "Bundestagswahl 2025",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bundestagswahl%202025",
-        "pubdate": "Sat, 22 Feb 2025 16:00:00 +0100"
+        "title": "Thüringen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Th%C3%BCringen",
+        "pubdate": "Sun, 23 Feb 2025 22:00:00 +0100"
     },
     {
-        "title": "Söder",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#S%C3%B6der",
-        "pubdate": "Sat, 22 Feb 2025 17:00:00 +0100"
-    },
-    {
-        "title": "Donald Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Donald%20Trump",
-        "pubdate": "Thu, 20 Feb 2025 08:00:00 +0100"
-    },
-    {
-        "title": "Streik",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Streik",
-        "pubdate": "Thu, 20 Feb 2025 09:00:00 +0100"
-    },
-    {
-        "title": "Hanau Anschlag",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hanau%20Anschlag",
-        "pubdate": "Wed, 19 Feb 2025 09:00:00 +0100"
-    },
-    {
-        "title": "Trump Ukraine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Trump%20Ukraine",
-        "pubdate": "Wed, 19 Feb 2025 17:00:00 +0100"
-    },
-    {
-        "title": "Papst",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Papst",
-        "pubdate": "Tue, 18 Feb 2025 08:00:00 +0100"
-    },
-    {
-        "title": "Horst Köhler",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Horst%20K%C3%B6hler",
-        "pubdate": "Mon, 17 Feb 2025 17:00:00 +0100"
-    },
-    {
-        "title": "Warnstreiks öffentlicher Dienst",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Warnstreiks%20%C3%B6ffentlicher%20Dienst",
-        "pubdate": "Mon, 17 Feb 2025 19:00:00 +0100"
-    },
-    {
-        "title": "Werder Bremen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Werder%20Bremen",
-        "pubdate": "Sun, 16 Feb 2025 16:00:00 +0100"
+        "title": "Hochrechnung Bundestagswahl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hochrechnung%20Bundestagswahl",
+        "pubdate": "Sat, 22 Feb 2025 23:00:00 +0100"
     }
 ]

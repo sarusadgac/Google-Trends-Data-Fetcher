@@ -1,8 +1,73 @@
 [
     {
+        "title": "Macron",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Macron",
+        "pubdate": "Tue, 25 Feb 2025 00:00:00 +0200"
+    },
+    {
+        "title": "Ploiești",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ploie%C8%99ti",
+        "pubdate": "Tue, 25 Feb 2025 00:00:00 +0200"
+    },
+    {
+        "title": "Farul Constanța  Rapid bucureşti",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Farul%20Constan%C8%9Ba%20%20Rapid%20bucure%C5%9Fti",
+        "pubdate": "Mon, 24 Feb 2025 20:00:00 +0200"
+    },
+    {
+        "title": "UTA Arad - Sepsi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#UTA%20Arad%20-%20Sepsi",
+        "pubdate": "Mon, 24 Feb 2025 17:00:00 +0200"
+    },
+    {
+        "title": "Anca Alexandrescu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Anca%20Alexandrescu",
+        "pubdate": "Mon, 24 Feb 2025 16:00:00 +0200"
+    },
+    {
+        "title": "Andreea Raicu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Andreea%20Raicu",
+        "pubdate": "Mon, 24 Feb 2025 11:00:00 +0200"
+    },
+    {
+        "title": "Roland Schatz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Roland%20Schatz",
+        "pubdate": "Mon, 24 Feb 2025 14:00:00 +0200"
+    },
+    {
         "title": "Termocentrala Mintia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Termocentrala%20Mintia",
         "pubdate": "Mon, 24 Feb 2025 00:00:00 +0200"
+    },
+    {
+        "title": "Roberta Flack",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Roberta%20Flack",
+        "pubdate": "Mon, 24 Feb 2025 21:00:00 +0200"
+    },
+    {
+        "title": "Elizabeta Samara",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Elizabeta%20Samara",
+        "pubdate": "Mon, 24 Feb 2025 09:00:00 +0200"
+    },
+    {
+        "title": "SAG Awards 2025",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#SAG%20Awards%202025",
+        "pubdate": "Mon, 24 Feb 2025 14:00:00 +0200"
+    },
+    {
+        "title": "Jane Fonda",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Jane%20Fonda",
+        "pubdate": "Mon, 24 Feb 2025 20:00:00 +0200"
+    },
+    {
+        "title": "Salah",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Salah",
+        "pubdate": "Mon, 24 Feb 2025 10:00:00 +0200"
+    },
+    {
+        "title": "DNA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#DNA",
+        "pubdate": "Mon, 24 Feb 2025 20:00:00 +0200"
     },
     {
         "title": "FCSB - Dinamo București",
@@ -10,19 +75,14 @@
         "pubdate": "Sun, 23 Feb 2025 00:00:00 +0200"
     },
     {
-        "title": "Alegeri Germania",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Alegeri%20Germania",
-        "pubdate": "Sun, 23 Feb 2025 08:00:00 +0200"
+        "title": "Dragobete",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Dragobete",
+        "pubdate": "Sun, 23 Feb 2025 20:00:00 +0200"
     },
     {
-        "title": "Real Madrid - Girona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Real%20Madrid%20-%20Girona",
+        "title": "Real Madrid  Girona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Real%20Madrid%20%20Girona",
         "pubdate": "Sun, 23 Feb 2025 17:00:00 +0200"
-    },
-    {
-        "title": "Man City - Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Man%20City%20-%20Liverpool",
-        "pubdate": "Sun, 23 Feb 2025 18:00:00 +0200"
     },
     {
         "title": "Unirea Slobozia  Poli Iași",
@@ -30,73 +90,13 @@
         "pubdate": "Sun, 23 Feb 2025 15:00:00 +0200"
     },
     {
-        "title": "Dragobete",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Dragobete",
-        "pubdate": "Sun, 23 Feb 2025 20:00:00 +0200"
-    },
-    {
-        "title": "Radu Jude",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Radu%20Jude",
-        "pubdate": "Sun, 23 Feb 2025 11:00:00 +0200"
-    },
-    {
-        "title": "Lyon - PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Lyon%20-%20PSG",
-        "pubdate": "Sun, 23 Feb 2025 22:00:00 +0200"
-    },
-    {
-        "title": "Cagliari - Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Cagliari%20-%20Juventus",
-        "pubdate": "Sun, 23 Feb 2025 22:00:00 +0200"
-    },
-    {
-        "title": "Dinamo București",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Dinamo%20Bucure%C8%99ti",
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Real%20Madrid",
         "pubdate": "Sun, 23 Feb 2025 21:00:00 +0200"
     },
     {
-        "title": "Bayern  Eintracht Frankfurt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Bayern%20%20Eintracht%20Frankfurt",
-        "pubdate": "Sun, 23 Feb 2025 19:00:00 +0200"
-    },
-    {
-        "title": "Starea papei Francisc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Starea%20papei%20Francisc",
-        "pubdate": "Sun, 23 Feb 2025 09:00:00 +0200"
-    },
-    {
-        "title": "Papa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Papa",
-        "pubdate": "Sun, 23 Feb 2025 19:00:00 +0200"
-    },
-    {
-        "title": "Steaua",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Steaua",
-        "pubdate": "Sun, 23 Feb 2025 23:00:00 +0200"
-    },
-    {
-        "title": "Reșița  Unirea Alba Iulia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Re%C8%99i%C8%9Ba%20%20Unirea%20Alba%20Iulia",
-        "pubdate": "Sun, 23 Feb 2025 15:00:00 +0200"
-    },
-    {
-        "title": "Lamia  Panathinaikos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Lamia%20%20Panathinaikos",
-        "pubdate": "Sun, 23 Feb 2025 19:00:00 +0200"
-    },
-    {
-        "title": "Bivol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Bivol",
-        "pubdate": "Sun, 23 Feb 2025 11:00:00 +0200"
-    },
-    {
-        "title": "Inmormantare Andrei pernes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Inmormantare%20Andrei%20pernes",
-        "pubdate": "Sun, 23 Feb 2025 00:00:00 +0200"
-    },
-    {
-        "title": "CBD",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#CBD",
-        "pubdate": "Sun, 23 Feb 2025 21:00:00 +0200"
+        "title": "Lyon  PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Lyon%20%20PSG",
+        "pubdate": "Sun, 23 Feb 2025 22:00:00 +0200"
     }
 ]
